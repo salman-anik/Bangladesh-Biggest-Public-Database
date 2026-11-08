@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   Search, MapPin, FileText, Download, ExternalLink, Layers, 
-  Menu, X, Database, ShieldCheck, Compass, Info, CheckCircle2,
-  ChevronRight, Building2, Map as MapIcon, Landmark, Sparkles
+  Menu, X, Database, ShieldCheck, Compass, Eye, CheckCircle2,
+  Map as MapIcon, Sparkles, Filter, ChevronLeft, ChevronRight
 } from 'lucide-react';
 
 export default function App() {
@@ -11,30 +11,42 @@ export default function App() {
   
   // Data states
   const [khatians, setKhatians] = useState([]);
+  const [mouzaMaps, setMouzaMaps] = useState([]);
   const [summary, setSummary] = useState(null);
   const [divisions, setDivisions] = useState([]);
   const [districts, setDistricts] = useState([]);
   const [upazilas, setUpazilas] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loadingKhatians, setLoadingKhatians] = useState(true);
+  const [loadingMaps, setLoadingMaps] = useState(false);
   
-  // Filter states
+  // Khatian Filter states
   const [selectedDivision, setSelectedDivision] = useState('');
   const [selectedDistrict, setSelectedDistrict] = useState('');
   const [selectedUpazila, setSelectedUpazila] = useState('');
   const [selectedSurvey, setSelectedSurvey] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
+
+  // Map Filter states
+  const [mapDivision, setMapDivision] = useState('');
+  const [mapDistrict, setMapDistrict] = useState('');
+  const [mapSurvey, setMapSurvey] = useState('');
+  const [mapSearch, setMapSearch] = useState('');
   
   // Selected modal for khatian details
   const [selectedKhatian, setSelectedKhatian] = useState(null);
 
-  // Pagination
-  const [currentPage, setCurrentPage] = useState(1);
+  // Pagination states
+  const [khatianPage, setKhatianPage] = useState(1);
+  const [mapPage, setMapPage] = useState(1);
   const itemsPerPage = 24;
 
+  const gdriveRoot = "https://drive.google.com/drive/folders/1NFsDEfd9sJ2Ln3CyqD3HNYz9C4d3tjdb";
+
+  // Initial Data Fetch
   useEffect(() => {
     async function initData() {
       try {
-        setLoading(true);
+        setLoadingKhatians(true);
         const [kRes, sRes, divRes, distRes, upaRes] = await Promise.all([
           fetch('/land/khatians_sample.json').then(r => r.json()).catch(() => []),
           fetch('/land/summary.json').then(r => r.json()).catch(() => null),
@@ -51,13 +63,27 @@ export default function App() {
       } catch (err) {
         console.error('Failed to load initial data:', err);
       } finally {
-        setLoading(false);
+        setLoadingKhatians(false);
       }
     }
     initData();
   }, []);
 
-  // Filtered districts based on selected division
+  // Fetch Mouza Maps when map tab is activated
+  useEffect(() => {
+    if (activeTab === 'map' && mouzaMaps.length === 0) {
+      setLoadingMaps(true);
+      fetch('/land/mouza_maps.json')
+        .then(r => r.json())
+        .then(data => {
+          setMouzaMaps(data || []);
+        })
+        .catch(err => console.error('Failed to load mouza maps:', err))
+        .finally(() => setLoadingMaps(false));
+    }
+  }, [activeTab, mouzaMaps.length]);
+
+  // Filtered districts for Khatians
   const filteredDistricts = useMemo(() => {
     if (!selectedDivision) return districts;
     return districts.filter(d => 
@@ -66,7 +92,7 @@ export default function App() {
     );
   }, [districts, selectedDivision]);
 
-  // Filtered upazilas based on selected district
+  // Filtered upazilas for Khatians
   const filteredUpazilas = useMemo(() => {
     if (!selectedDistrict) return upazilas;
     return upazilas.filter(u => 
@@ -75,10 +101,9 @@ export default function App() {
     );
   }, [upazilas, selectedDistrict]);
 
-  // Main filter for Khatians
+  // Khatians Filtering Logic
   const filteredKhatians = useMemo(() => {
     let list = khatians;
-    
     if (selectedDivision) {
       list = list.filter(k => 
         (k.division && k.division.includes(selectedDivision)) ||
@@ -116,15 +141,52 @@ export default function App() {
     return list;
   }, [khatians, selectedDivision, selectedDistrict, selectedUpazila, selectedSurvey, searchQuery]);
 
-  // Paginated items
   const paginatedKhatians = useMemo(() => {
-    const start = (currentPage - 1) * itemsPerPage;
+    const start = (khatianPage - 1) * itemsPerPage;
     return filteredKhatians.slice(start, start + itemsPerPage);
-  }, [filteredKhatians, currentPage]);
+  }, [filteredKhatians, khatianPage]);
 
-  const totalPages = Math.ceil(filteredKhatians.length / itemsPerPage);
+  const totalKhatianPages = Math.ceil(filteredKhatians.length / itemsPerPage);
 
-  const gdriveRoot = "https://drive.google.com/drive/folders/1NFsDEfd9sJ2Ln3CyqD3HNYz9C4d3tjdb";
+  // Mouza Maps Filtering Logic
+  const mapDistrictsList = useMemo(() => {
+    let list = mouzaMaps;
+    if (mapDivision) {
+      list = list.filter(m => m.division.toLowerCase() === mapDivision.toLowerCase());
+    }
+    return Array.from(new Set(list.map(m => m.district).filter(Boolean))).sort();
+  }, [mouzaMaps, mapDivision]);
+
+  const filteredMouzaMaps = useMemo(() => {
+    let list = mouzaMaps;
+    if (mapDivision) {
+      list = list.filter(m => m.division.toLowerCase() === mapDivision.toLowerCase());
+    }
+    if (mapDistrict) {
+      list = list.filter(m => m.district.toLowerCase() === mapDistrict.toLowerCase());
+    }
+    if (mapSurvey) {
+      list = list.filter(m => m.survey.toLowerCase() === mapSurvey.toLowerCase());
+    }
+    if (mapSearch.trim()) {
+      const q = mapSearch.toLowerCase().trim();
+      list = list.filter(m => 
+        String(m.mouza_name || '').toLowerCase().includes(q) ||
+        String(m.jl_no || '').toLowerCase().includes(q) ||
+        String(m.file_name || '').toLowerCase().includes(q) ||
+        String(m.district || '').toLowerCase().includes(q) ||
+        String(m.sheet_no || '').toLowerCase().includes(q)
+      );
+    }
+    return list;
+  }, [mouzaMaps, mapDivision, mapDistrict, mapSurvey, mapSearch]);
+
+  const paginatedMouzaMaps = useMemo(() => {
+    const start = (mapPage - 1) * itemsPerPage;
+    return filteredMouzaMaps.slice(start, start + itemsPerPage);
+  }, [filteredMouzaMaps, mapPage]);
+
+  const totalMapPages = Math.ceil(filteredMouzaMaps.length / itemsPerPage);
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans">
@@ -135,13 +197,13 @@ export default function App() {
             <span className="text-2xl">🇧🇩</span>
             <div>
               <h1 className="text-lg font-bold bg-gradient-to-r from-emerald-400 to-teal-300 bg-clip-text text-transparent">
-                বাংলাদেশ ভূমি ও খতিয়ান সেবা
+                বাংলাদেশ ভূমি, খতিয়ান ও মৌজা ম্যাপ সেবা
               </h1>
-              <p className="text-xs text-slate-400 hidden sm:block">National Land Records & Cadastral Map Explorer</p>
+              <p className="text-xs text-slate-400 hidden sm:block">National Land Records & High-Res Cadastral Maps</p>
             </div>
           </div>
 
-          {/* Desktop Nav */}
+          {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-2">
             <button
               onClick={() => setActiveTab('khatian')}
@@ -151,7 +213,7 @@ export default function App() {
                   : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
               }`}
             >
-              <FileText className="w-4 h-4" /> খতিয়ান অনুসন্ধান (Khatian Search)
+              <FileText className="w-4 h-4" /> খতিয়ান অনুসন্ধান (Khatians)
             </button>
             <button
               onClick={() => setActiveTab('map')}
@@ -161,7 +223,8 @@ export default function App() {
                   : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
               }`}
             >
-              <MapIcon className="w-4 h-4" /> মৌজা ম্যাপ ও নকশা (Mouza Maps)
+              <MapIcon className="w-4 h-4" /> মৌজা ম্যাপ ও নকশা (5.2K+ Maps)
+              <span className="bg-emerald-500/20 text-emerald-400 text-[10px] px-1.5 py-0.5 rounded font-bold">New</span>
             </button>
             <button
               onClick={() => setActiveTab('dashboard')}
@@ -171,7 +234,7 @@ export default function App() {
                   : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
               }`}
             >
-              <Database className="w-4 h-4" /> ডাটাবেজ ড্যাশবোর্ড
+              <Database className="w-4 h-4" /> ড্যাশবোর্ড
             </button>
             <a
               href={gdriveRoot}
@@ -179,7 +242,7 @@ export default function App() {
               rel="noopener noreferrer"
               className="ml-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-600 hover:bg-emerald-500 text-white flex items-center gap-1.5 shadow-lg shadow-emerald-900/30 transition-all"
             >
-              <Download className="w-3.5 h-3.5" /> Google Drive (16.8 GB PDFs)
+              <Download className="w-3.5 h-3.5" /> Google Drive Cloud
             </a>
           </nav>
 
@@ -192,7 +255,7 @@ export default function App() {
           </button>
         </div>
 
-        {/* Mobile Dropdown Menu */}
+        {/* Mobile Dropdown Drawer */}
         {mobileMenuOpen && (
           <div className="md:hidden border-b border-slate-800 bg-slate-900 px-4 py-3 space-y-2">
             <button
@@ -201,7 +264,7 @@ export default function App() {
                 activeTab === 'khatian' ? 'bg-emerald-500/10 text-emerald-400' : 'text-slate-300'
               }`}
             >
-              <FileText className="w-4 h-4" /> খতিয়ান অনুসন্ধান (Khatian Search)
+              <FileText className="w-4 h-4" /> খতিয়ান অনুসন্ধান (Khatians)
             </button>
             <button
               onClick={() => { setActiveTab('map'); setMobileMenuOpen(false); }}
@@ -209,7 +272,7 @@ export default function App() {
                 activeTab === 'map' ? 'bg-emerald-500/10 text-emerald-400' : 'text-slate-300'
               }`}
             >
-              <MapIcon className="w-4 h-4" /> মৌজা ম্যাপ ও নকশা (Mouza Maps)
+              <MapIcon className="w-4 h-4" /> মৌজা ম্যাপ ও নকশা (5.2K+ Maps)
             </button>
             <button
               onClick={() => { setActiveTab('dashboard'); setMobileMenuOpen(false); }}
@@ -217,7 +280,7 @@ export default function App() {
                 activeTab === 'dashboard' ? 'bg-emerald-500/10 text-emerald-400' : 'text-slate-300'
               }`}
             >
-              <Database className="w-4 h-4" /> ডাটাবেজ ড্যাশবোর্ড
+              <Database className="w-4 h-4" /> ড্যাশবোর্ড
             </button>
             <a
               href={gdriveRoot}
@@ -237,19 +300,16 @@ export default function App() {
         {/* ======================= TAB 1: KHATIAN SEARCH ======================= */}
         {activeTab === 'khatian' && (
           <div className="space-y-6">
-            {/* Header banner */}
-            <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl relative overflow-hidden">
-              <div className="relative z-10">
-                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 mb-3">
-                  <ShieldCheck className="w-3.5 h-3.5" /> সরকারি ই-পর্চা যাচাইকৃত ডাটাবেজ (Verified)
-                </span>
-                <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-                  অনলাইন খতিয়ান অনুসন্ধান ও রেকর্ডরুম
-                </h2>
-                <p className="mt-1 text-sm text-slate-300 max-w-2xl">
-                  বিভাগ, জেলা, উপজেলা এবং মৌজা নির্বাচন করে খতিয়ান নম্বর, দাগ নম্বর কিংবা মালিকের নাম দিয়ে সহজেই যেকোনো খতিয়ান ও পিডিএফ খুঁজে নিন।
-                </p>
-              </div>
+            <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl">
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 mb-3">
+                <ShieldCheck className="w-3.5 h-3.5" /> সরকারি ই-পর্চা যাচাইকৃত ডাটাবেজ
+              </span>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
+                অনলাইন খতিয়ান অনুসন্ধান ও রেকর্ডরুম
+              </h2>
+              <p className="mt-1 text-sm text-slate-300 max-w-2xl">
+                বিভাগ, জেলা, উপজেলা এবং সার্ভে নির্বাচন করে খতিয়ান নম্বর, দাগ নম্বর কিংবা মালিকের নাম দিয়ে যেকোনো খতিয়ান ও পিডিএফ খুঁজুন।
+              </p>
             </div>
 
             {/* Filter Section */}
@@ -264,7 +324,7 @@ export default function App() {
                       setSelectedDivision(e.target.value);
                       setSelectedDistrict('');
                       setSelectedUpazila('');
-                      setCurrentPage(1);
+                      setKhatianPage(1);
                     }}
                     className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                   >
@@ -283,7 +343,7 @@ export default function App() {
                     onChange={(e) => {
                       setSelectedDistrict(e.target.value);
                       setSelectedUpazila('');
-                      setCurrentPage(1);
+                      setKhatianPage(1);
                     }}
                     className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                   >
@@ -301,7 +361,7 @@ export default function App() {
                     value={selectedUpazila}
                     onChange={(e) => {
                       setSelectedUpazila(e.target.value);
-                      setCurrentPage(1);
+                      setKhatianPage(1);
                     }}
                     className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                   >
@@ -319,7 +379,7 @@ export default function App() {
                     value={selectedSurvey}
                     onChange={(e) => {
                       setSelectedSurvey(e.target.value);
-                      setCurrentPage(1);
+                      setKhatianPage(1);
                     }}
                     className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                   >
@@ -341,25 +401,24 @@ export default function App() {
                   value={searchQuery}
                   onChange={(e) => {
                     setSearchQuery(e.target.value);
-                    setCurrentPage(1);
+                    setKhatianPage(1);
                   }}
                   className="w-full pl-11 pr-4 py-3 bg-slate-950 border border-slate-800 rounded-xl text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500 transition-all"
                 />
               </div>
 
-              {/* Status bar */}
               <div className="flex flex-wrap items-center justify-between text-xs text-slate-400 pt-1">
                 <span>
                   প্রদর্শিত রেকর্ড: <strong className="text-emerald-400">{filteredKhatians.length.toLocaleString()}</strong> টি খতিয়ান
                 </span>
                 <span>
-                  সর্বমোট সংগৃহীত পিডিএফ: <strong className="text-emerald-400">{summary?.total_pdfs?.toLocaleString() || '52,148'}</strong> টি
+                  সর্বমোট সংগৃহীত রেকর্ড: <strong className="text-emerald-400">{summary?.total_khatians?.toLocaleString() || '54,472'}</strong> টি
                 </span>
               </div>
             </div>
 
             {/* Results Grid */}
-            {loading ? (
+            {loadingKhatians ? (
               <div className="py-20 text-center">
                 <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-emerald-500 mb-4"></div>
                 <p className="text-slate-400 text-sm">খতিয়ান রেকর্ডসমূহ লোড হচ্ছে...</p>
@@ -378,19 +437,15 @@ export default function App() {
                     className="bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-2xl p-5 flex flex-col justify-between transition-all hover:shadow-xl group"
                   >
                     <div>
-                      {/* Top Bar */}
                       <div className="flex items-center justify-between mb-3">
-                        <div className="flex items-center gap-2">
-                          <span className="text-base font-bold text-emerald-400">
-                            খতিয়ান নং: {k.khatian_no}
-                          </span>
-                        </div>
+                        <span className="text-base font-bold text-emerald-400">
+                          খতিয়ান নং: {k.khatian_no}
+                        </span>
                         <span className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
                           {k.survey || k.survey_key || 'RS'}
                         </span>
                       </div>
 
-                      {/* Location details */}
                       <div className="text-xs text-slate-400 mb-3 flex items-center gap-1.5 flex-wrap">
                         <MapPin className="w-3.5 h-3.5 text-slate-500" />
                         <span className="font-medium text-slate-300">{k.mouza_name || 'মৌজা'}</span>
@@ -399,7 +454,6 @@ export default function App() {
                         <span>{k.upazila}, {k.district}</span>
                       </div>
 
-                      {/* Owners info */}
                       <div className="bg-slate-950/70 border border-slate-800/80 rounded-xl p-3 mb-3">
                         <div className="text-[10px] font-semibold text-slate-400 uppercase tracking-wider mb-1">
                           মালিকগণের বিবরণ (Owners)
@@ -409,7 +463,6 @@ export default function App() {
                         </div>
                       </div>
 
-                      {/* Dag numbers */}
                       {k.dags && (
                         <div className="text-xs text-slate-400 mb-3">
                           <span className="font-semibold text-slate-300">দাগ নং:</span> {k.dags}
@@ -417,7 +470,6 @@ export default function App() {
                       )}
                     </div>
 
-                    {/* Action buttons */}
                     <div className="pt-3 border-t border-slate-800/80 flex items-center gap-2">
                       <button
                         onClick={() => setSelectedKhatian(k)}
@@ -430,7 +482,6 @@ export default function App() {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="py-2 px-3 rounded-lg text-xs font-medium bg-emerald-600/90 hover:bg-emerald-500 text-white flex items-center gap-1.5 transition-colors"
-                        title="Google Drive থেকে অফিসিয়াল পিডিএফ ডাউনলোড করুন"
                       >
                         <Download className="w-3.5 h-3.5" /> PDF
                       </a>
@@ -441,171 +492,232 @@ export default function App() {
             )}
 
             {/* Pagination Controls */}
-            {totalPages > 1 && (
+            {totalKhatianPages > 1 && (
               <div className="flex items-center justify-center gap-2 pt-4 pb-8">
                 <button
-                  disabled={currentPage === 1}
-                  onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                  disabled={khatianPage === 1}
+                  onClick={() => setKhatianPage(p => Math.max(1, p - 1))}
                   className="px-3.5 py-2 rounded-lg text-xs font-medium bg-slate-900 border border-slate-800 text-slate-300 disabled:opacity-40 hover:bg-slate-800"
                 >
-                  পূর্ববর্তী (Prev)
+                  পূর্ববর্তী
                 </button>
                 <span className="text-xs text-slate-400 px-3">
-                  পৃষ্ঠা {currentPage} / {totalPages}
+                  পৃষ্ঠা {khatianPage} / {totalKhatianPages}
                 </span>
                 <button
-                  disabled={currentPage === totalPages}
-                  onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                  disabled={khatianPage === totalKhatianPages}
+                  onClick={() => setKhatianPage(p => Math.min(totalKhatianPages, p + 1))}
                   className="px-3.5 py-2 rounded-lg text-xs font-medium bg-slate-900 border border-slate-800 text-slate-300 disabled:opacity-40 hover:bg-slate-800"
                 >
-                  পরবর্তী (Next)
+                  পরবর্তী
                 </button>
               </div>
             )}
           </div>
         )}
 
-        {/* ======================= TAB 2: MOUZA MAP & PLOTS ======================= */}
+        {/* ======================= TAB 2: MOUZA MAPS & CADASTRAL SHEETS ======================= */}
         {activeTab === 'map' && (
           <div className="space-y-6">
             <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 mb-3">
-                <Compass className="w-3.5 h-3.5" /> ডিজিটাল ক্যাডাস্ট্রাল মৌজা ম্যাপ ও নকশা
+                <Compass className="w-3.5 h-3.5" /> সরাসরি ক্যাডাস্ট্রাল ম্যাপ আর্কাইভ (free.mouzamap.tech)
               </span>
               <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-                মৌজা ম্যাপ ও দাগ/প্লট নকশা সন্ধান
+                বাংলাদেশ ডিজিটাল মৌজা ম্যাপ ও নকশা আর্কাইভ
               </h2>
               <p className="mt-1 text-sm text-slate-300 max-w-2xl">
-                মৌজা নির্বাচন করে ক্যাডাস্ট্রাল শিট ম্যাপ, প্লট সীমানা এবং ভূমি মন্ত্রণালয়ের জিআইএস ম্যাপ ভিউয়ারে সরাসরি প্রবেশ করুন।
+                ৫,২৭৪+ টি উচ্চ-রেজোলিউশন সম্পন্ন মূল মৌজা ম্যাপ পিডিএফ সরাসরি ব্রাউজারে ভিউ এবং ডাউনলোড করুন।
               </p>
             </div>
 
-            {/* Mouza Selector Card */}
-            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-lg space-y-4">
-              <h3 className="text-base font-bold text-white flex items-center gap-2">
-                <MapIcon className="w-5 h-5 text-emerald-400" /> এলাকা ও মৌজা সিলেক্ট করুন
-              </h3>
-              
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            {/* Mouza Maps Filters */}
+            <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-lg space-y-4">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                {/* Division */}
                 <div>
                   <label className="block text-xs font-semibold text-slate-400 mb-1.5">বিভাগ (Division)</label>
                   <select
-                    value={selectedDivision}
+                    value={mapDivision}
                     onChange={(e) => {
-                      setSelectedDivision(e.target.value);
-                      setSelectedDistrict('');
-                      setSelectedUpazila('');
+                      setMapDivision(e.target.value);
+                      setMapDistrict('');
+                      setMapPage(1);
                     }}
                     className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                   >
-                    <option value="">সকল বিভাগ</option>
-                    {divisions.map(d => (
-                      <option key={d.ID} value={d.NAME}>{d.NAME}</option>
+                    <option value="">সকল বিভাগ (All Divisions)</option>
+                    <option value="Dhaka">Dhaka (ঢাকা)</option>
+                    <option value="Chattogram">Chattogram (চট্টগ্রাম)</option>
+                    <option value="Rajshahi">Rajshahi (রাজশাহী)</option>
+                    <option value="Khulna">Khulna (খুলনা)</option>
+                    <option value="Barishal">Barishal (বরিশাল)</option>
+                    <option value="Sylhet">Sylhet (সিলেট)</option>
+                    <option value="Rangpur">Rangpur (রংপুর)</option>
+                    <option value="Mymensingh">Mymensingh (ময়মনসিংহ)</option>
+                  </select>
+                </div>
+
+                {/* District / Circle */}
+                <div>
+                  <label className="block text-xs font-semibold text-slate-400 mb-1.5">থানা / সার্কেল / এলাকা</label>
+                  <select
+                    value={mapDistrict}
+                    onChange={(e) => {
+                      setMapDistrict(e.target.value);
+                      setMapPage(1);
+                    }}
+                    className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
+                  >
+                    <option value="">সকল সার্কেল / থানা</option>
+                    {mapDistrictsList.map((d, i) => (
+                      <option key={i} value={d}>{d}</option>
                     ))}
                   </select>
                 </div>
 
+                {/* Survey */}
                 <div>
-                  <label className="block text-xs font-semibold text-slate-400 mb-1.5">জেলা (District)</label>
+                  <label className="block text-xs font-semibold text-slate-400 mb-1.5">সার্ভে (Survey)</label>
                   <select
-                    value={selectedDistrict}
+                    value={mapSurvey}
                     onChange={(e) => {
-                      setSelectedDistrict(e.target.value);
-                      setSelectedUpazila('');
+                      setMapSurvey(e.target.value);
+                      setMapPage(1);
                     }}
                     className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                   >
-                    <option value="">সকল জেলা</option>
-                    {filteredDistricts.map(d => (
-                      <option key={d.ID} value={d.NAME}>{d.NAME}</option>
-                    ))}
-                  </select>
-                </div>
-
-                <div>
-                  <label className="block text-xs font-semibold text-slate-400 mb-1.5">উপজেলা (Upazila)</label>
-                  <select
-                    value={selectedUpazila}
-                    onChange={(e) => setSelectedUpazila(e.target.value)}
-                    className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3.5 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
-                  >
-                    <option value="">সকল উপজেলা</option>
-                    {filteredUpazilas.map(u => (
-                      <option key={u.ID} value={u.NAME}>{u.NAME}</option>
-                    ))}
+                    <option value="">সকল সার্ভে</option>
+                    <option value="RS">RS (আর এস)</option>
+                    <option value="CS">CS (সি এস)</option>
+                    <option value="SA">SA (এস এ)</option>
+                    <option value="BS">BS (বি এস)</option>
                   </select>
                 </div>
               </div>
 
-              {/* Direct Portal Launch */}
-              <div className="p-4 bg-slate-950 border border-slate-800 rounded-xl flex flex-col sm:flex-row items-center justify-between gap-4 mt-2">
-                <div>
-                  <div className="text-sm font-bold text-slate-200">
-                    মন্ত্রণালয়ের অফিসিয়াল জিআইএস ক্যাডাস্ট্রাল ম্যাপ ভিউয়ার
-                  </div>
-                  <div className="text-xs text-slate-400">
-                    লাইভ স্যাটেলাইট ইমেজ, মৌজা সীমানা ও দাগ নম্বরসমূহ মানচিত্রে সরাসরি দেখুন।
-                  </div>
-                </div>
-                <a
-                  href="https://eporcha.tech"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="px-4 py-2.5 rounded-lg text-xs font-semibold bg-emerald-600 hover:bg-emerald-500 text-white flex items-center gap-2 shrink-0 transition-colors"
-                >
-                  <ExternalLink className="w-4 h-4" /> ওপেন ক্যাডাস্ট্রাল ম্যাপ
-                </a>
+              {/* Search Mouza */}
+              <div className="relative">
+                <Search className="w-5 h-5 absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400" />
+                <input
+                  type="text"
+                  placeholder="🔍 মৌজার নাম, জে এল নম্বর, শিট নম্বর কিংবা ফাইল নাম লিখে খুঁজুন..."
+                  value={mapSearch}
+                  onChange={(e) => {
+                    setMapSearch(e.target.value);
+                    setMapPage(1);
+                  }}
+                  className="w-full pl-11 pr-4 py-3 bg-slate-950 border border-slate-800 rounded-xl text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-emerald-500 transition-all"
+                />
               </div>
-            </div>
 
-            {/* Interactive Cadastral Map Canvas Mockup */}
-            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-lg">
-              <div className="flex items-center justify-between mb-4">
-                <div>
-                  <h3 className="text-base font-bold text-white flex items-center gap-2">
-                    <Layers className="w-5 h-5 text-emerald-400" /> মৌজা প্লট / দাগ নকশা সিমুলেশন
-                  </h3>
-                  <p className="text-xs text-slate-400">একটি দাগে ক্লিক করে সেটির তথ্য অনুসন্ধান করুন</p>
-                </div>
-                <span className="text-xs px-2.5 py-1 rounded-full bg-slate-800 text-slate-300">
-                  শিট নং: ০১ (Sheet 1)
+              <div className="flex flex-wrap items-center justify-between text-xs text-slate-400 pt-1">
+                <span>
+                  প্রদর্শিত মৌজা ম্যাপ: <strong className="text-emerald-400">{filteredMouzaMaps.length.toLocaleString()}</strong> টি
+                </span>
+                <span>
+                  সংগৃহীত ক্যাডাস্ট্রাল শিট: <strong className="text-emerald-400">৫,২৭৪</strong> টি ফাইল
                 </span>
               </div>
-
-              {/* Cadastral SVG Map */}
-              <div className="w-full bg-slate-950 border border-slate-800 rounded-xl p-4 flex items-center justify-center overflow-x-auto">
-                <svg className="w-full max-w-2xl h-80" viewBox="0 0 600 300">
-                  <defs>
-                    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-                      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" strokeWidth="0.5"/>
-                    </pattern>
-                  </defs>
-                  <rect width="100%" height="100%" fill="url(#grid)" />
-                  
-                  {/* Cadastral plots */}
-                  <polygon points="50,40 160,30 170,110 60,120" fill="#0f172a" stroke="#10b981" strokeWidth="1.5" className="hover:fill-emerald-950/60 cursor-pointer transition-colors" onClick={() => setSearchQuery('১০১')} />
-                  <text x="100" y="80" fill="#34d399" fontSize="11" fontWeight="bold">দাগ ১০১</text>
-
-                  <polygon points="170,30 300,45 290,130 170,110" fill="#0f172a" stroke="#10b981" strokeWidth="1.5" className="hover:fill-emerald-950/60 cursor-pointer transition-colors" onClick={() => setSearchQuery('১০২')} />
-                  <text x="220" y="80" fill="#34d399" fontSize="11" fontWeight="bold">দাগ ১০২</text>
-
-                  <polygon points="300,45 450,20 460,110 290,130" fill="#0f172a" stroke="#10b981" strokeWidth="1.5" className="hover:fill-emerald-950/60 cursor-pointer transition-colors" onClick={() => setSearchQuery('১০৩')} />
-                  <text x="360" y="80" fill="#34d399" fontSize="11" fontWeight="bold">দাগ ১০৩</text>
-
-                  <polygon points="60,120 170,110 180,240 70,250" fill="#0f172a" stroke="#10b981" strokeWidth="1.5" className="hover:fill-emerald-950/60 cursor-pointer transition-colors" onClick={() => setSearchQuery('১০৪')} />
-                  <text x="110" y="180" fill="#34d399" fontSize="11" fontWeight="bold">দাগ ১০৪</text>
-
-                  <polygon points="170,110 290,130 280,260 180,240" fill="#0f172a" stroke="#10b981" strokeWidth="1.5" className="hover:fill-emerald-950/60 cursor-pointer transition-colors" onClick={() => setSearchQuery('১০৫')} />
-                  <text x="220" y="190" fill="#34d399" fontSize="11" fontWeight="bold">দাগ ১০৫</text>
-
-                  <polygon points="290,130 460,110 440,250 280,260" fill="#0f172a" stroke="#10b981" strokeWidth="1.5" className="hover:fill-emerald-950/60 cursor-pointer transition-colors" onClick={() => setSearchQuery('১০৬')} />
-                  <text x="360" y="190" fill="#34d399" fontSize="11" fontWeight="bold">দাগ ১০৬</text>
-                </svg>
-              </div>
-              <div className="text-center text-xs text-slate-500 mt-2">
-                ক্যাডাস্ট্রাল ম্যাপ শিটের যে-কোনো দাগের উপর ক্লিক করলে স্বয়ংক্রিয়ভাবে খতিয়ান অনুসন্ধান ফিল্টার হবে।
-              </div>
             </div>
+
+            {/* Map Grid */}
+            {loadingMaps ? (
+              <div className="py-20 text-center">
+                <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-emerald-500 mb-4"></div>
+                <p className="text-slate-400 text-sm">৫,২৭৪টি উচ্চ-রেজোলিউশন মৌজা ম্যাপ তালিকা লোড হচ্ছে...</p>
+              </div>
+            ) : paginatedMouzaMaps.length === 0 ? (
+              <div className="bg-slate-900 border border-slate-800 rounded-2xl p-12 text-center">
+                <MapIcon className="w-12 h-12 text-slate-600 mx-auto mb-3" />
+                <h3 className="text-lg font-bold text-slate-300">কোনো মৌজা ম্যাপ পাওয়া যায়নি</h3>
+                <p className="text-sm text-slate-500 mt-1">ফিল্টারের মান পরিবর্তন করে পুনরায় চেষ্টা করুন।</p>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {paginatedMouzaMaps.map((m, idx) => (
+                  <div 
+                    key={idx}
+                    className="bg-slate-900 border border-slate-800 hover:border-emerald-500/40 rounded-2xl p-5 flex flex-col justify-between transition-all hover:shadow-xl group"
+                  >
+                    <div>
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="text-sm font-bold text-white group-hover:text-emerald-400 transition-colors line-clamp-1">
+                          {m.mouza_name}
+                        </span>
+                        <span className="px-2 py-0.5 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                          {m.survey}
+                        </span>
+                      </div>
+
+                      <div className="flex items-center gap-2 mb-3 text-xs">
+                        {m.jl_no && (
+                          <span className="bg-slate-800 text-slate-300 px-2 py-0.5 rounded">
+                            JL: {m.jl_no}
+                          </span>
+                        )}
+                        <span className="bg-slate-800 text-slate-300 px-2 py-0.5 rounded">
+                          শিট নং: {m.sheet_no}
+                        </span>
+                        {m.file_size && (
+                          <span className="text-slate-400">
+                            {(m.file_size / (1024 * 1024)).toFixed(1)} MB
+                          </span>
+                        )}
+                      </div>
+
+                      <div className="text-xs text-slate-400 mb-3 flex items-center gap-1.5">
+                        <MapPin className="w-3.5 h-3.5 text-slate-500" />
+                        <span>{m.district}, {m.division}</span>
+                      </div>
+                    </div>
+
+                    <div className="pt-3 border-t border-slate-800 flex items-center gap-2">
+                      <a
+                        href={m.download_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 py-2 px-3 rounded-lg text-xs font-medium bg-slate-800 hover:bg-slate-700 text-slate-200 flex items-center justify-center gap-1.5 transition-colors"
+                      >
+                        <Eye className="w-3.5 h-3.5" /> ভিউ ম্যাপ
+                      </a>
+                      <a
+                        href={m.download_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        download
+                        className="py-2 px-3 rounded-lg text-xs font-medium bg-emerald-600 hover:bg-emerald-500 text-white flex items-center gap-1.5 transition-colors"
+                      >
+                        <Download className="w-3.5 h-3.5" /> ডাউনলোড
+                      </a>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {/* Pagination */}
+            {totalMapPages > 1 && (
+              <div className="flex items-center justify-center gap-2 pt-4 pb-8">
+                <button
+                  disabled={mapPage === 1}
+                  onClick={() => setMapPage(p => Math.max(1, p - 1))}
+                  className="px-3.5 py-2 rounded-lg text-xs font-medium bg-slate-900 border border-slate-800 text-slate-300 disabled:opacity-40 hover:bg-slate-800"
+                >
+                  পূর্ববর্তী
+                </button>
+                <span className="text-xs text-slate-400 px-3">
+                  পৃষ্ঠা {mapPage} / {totalMapPages}
+                </span>
+                <button
+                  disabled={mapPage === totalMapPages}
+                  onClick={() => setMapPage(p => Math.min(totalMapPages, p + 1))}
+                  className="px-3.5 py-2 rounded-lg text-xs font-medium bg-slate-900 border border-slate-800 text-slate-300 disabled:opacity-40 hover:bg-slate-800"
+                >
+                  পরবর্তী
+                </button>
+              </div>
+            )}
           </div>
         )}
 
@@ -617,11 +729,10 @@ export default function App() {
                 বাংলাদেশ ওপেন ডাটাবেজ ড্যাশবোর্ড
               </h2>
               <p className="mt-1 text-sm text-slate-300">
-                ভূমি ও খতিয়ানসহ স্বাস্থ্য, জরুরি যোগাযোগ, শাসন ও নাগরিক সেবাসমূহের সার্বিক পরিসংখ্যান
+                ভূমি, খতিয়ান ও উচ্চ-রেজোলিউশন ক্যাডাস্ট্রাল মৌজা ম্যাপের সামগ্রিক পরিসংখ্যান
               </p>
             </div>
 
-            {/* Metrics cards */}
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
               <div className="bg-slate-900 border border-slate-800 rounded-2xl p-5">
                 <div className="text-xs font-semibold text-slate-400">সর্বমোট সংগৃহীত খতিয়ান</div>
@@ -632,17 +743,19 @@ export default function App() {
               </div>
 
               <div className="bg-slate-900 border border-slate-800 rounded-2xl p-5">
-                <div className="text-xs font-semibold text-slate-400">অফিসিয়াল পিডিএফ ফাইল</div>
+                <div className="text-xs font-semibold text-slate-400">ক্যাডাস্ট্রাল মৌজা ম্যাপ</div>
                 <div className="text-2xl sm:text-3xl font-black text-teal-400 mt-1">
-                  {summary?.total_pdfs?.toLocaleString() || '52,148'}
+                  ৫,২৭৪ টি
                 </div>
-                <div className="text-xs text-slate-500 mt-1">আয়তন: ১৬.৮৫ গিগাবাইট</div>
+                <div className="text-xs text-slate-500 mt-1">মূল হাই-রেজোলিউশন পিডিএফ</div>
               </div>
 
               <div className="bg-slate-900 border border-slate-800 rounded-2xl p-5">
-                <div className="text-xs font-semibold text-slate-400">অন্তর্ভুক্ত জেলাসমূহ</div>
-                <div className="text-2xl sm:text-3xl font-black text-white mt-1">৬৪ টি</div>
-                <div className="text-xs text-slate-500 mt-1">সমগ্র বাংলাদেশ জুড়ে</div>
+                <div className="text-xs font-semibold text-slate-400">খতিয়ান অফিসিয়াল পিডিএফ</div>
+                <div className="text-2xl sm:text-3xl font-black text-white mt-1">
+                  ৫২,১৪৮ টি
+                </div>
+                <div className="text-xs text-slate-500 mt-1">গুগল ড্রাইভে সংরক্ষিত</div>
               </div>
 
               <div className="bg-slate-900 border border-slate-800 rounded-2xl p-5">
@@ -652,7 +765,6 @@ export default function App() {
               </div>
             </div>
 
-            {/* Cloud Storage Integration Card */}
             <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6">
               <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
                 <div>
@@ -660,7 +772,7 @@ export default function App() {
                     <Download className="w-5 h-5 text-emerald-400" /> গুগল ড্রাইভে সংরক্ষিত সম্পূর্ণ ডাটাবেজ
                   </h3>
                   <p className="text-sm text-slate-400 mt-1 max-w-2xl">
-                    গিটহাবের সাইজ সীমাবদ্ধতার কারণে ১৬.৮৫ জিবি সম্পন্ন সকল মূল পিডিএফ ও আর্কাইভ সরাসরি গুগল ড্রাইভ ক্লাউডে রাখা হয়েছে। যেকোনো মুহূর্তে ব্যাকআপ ফাইল ডাউনলোড করুন।
+                    গিটহাবের সাইজ সীমাবদ্ধতার কারণে সকল মূল পিডিএফ ও আর্কাইভ সরাসরি গুগল ড্রাইভ ক্লাউডে রাখা হয়েছে। যেকোনো মুহূর্তে ব্যাকআপ ফাইল ডাউনলোড করুন।
                   </p>
                 </div>
                 <a
@@ -712,14 +824,14 @@ export default function App() {
 
               {selectedKhatian.guardians && (
                 <div className="p-3 bg-slate-950 rounded-xl border border-slate-800">
-                  <div className="font-semibold text-slate-300 mb-1">পিতা / স্বামীর নাম (Father / Husband):</div>
+                  <div className="font-semibold text-slate-300 mb-1">পিতা / স্বামীর নাম:</div>
                   <div className="text-slate-200">{selectedKhatian.guardians}</div>
                 </div>
               )}
 
               {selectedKhatian.dags && (
                 <div className="p-3 bg-slate-950 rounded-xl border border-slate-800">
-                  <div className="font-semibold text-slate-300 mb-1">দাগ নম্বরসমূহ (Dag / Plot Numbers):</div>
+                  <div className="font-semibold text-slate-300 mb-1">দাগ নম্বরসমূহ (Plots):</div>
                   <div className="text-slate-200">{selectedKhatian.dags}</div>
                 </div>
               )}
@@ -749,7 +861,7 @@ export default function App() {
       <footer className="border-t border-slate-800/80 bg-slate-900/60 py-6 text-center text-xs text-slate-400">
         <p>© 2026 বাংলাদেশ ওপেন ডাটাবেজ প্রজেক্ট | Bangladesh Open Database Explorer</p>
         <p className="mt-1 text-slate-500">
-          তথ্যসূত্র: গণপ্রজাতন্ত্রী বাংলাদেশ সরকার ভূমি রেকর্ড ও জরিপ অধিদপ্তর (ePorcha DLRMS)
+          তথ্যসূত্র: ই-পর্চা (ePorcha DLRMS) ও ফ্রি মৌজা ম্যাপ (free.mouzamap.tech)
         </p>
       </footer>
     </div>

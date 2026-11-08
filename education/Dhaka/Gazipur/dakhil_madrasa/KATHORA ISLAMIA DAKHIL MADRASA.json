@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109024",
+  "institution": {
+    "eiin": "109024",
+    "name": "KATHORA ISLAMIA DAKHIL MADRASA",
+    "name_bn": "কাথোরা ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Gazipur Sadar",
+    "address": "KATHORA",
+    "post_office": "B.O.F",
+    "mobiles": [
+      "01715176843",
+      "01915771894"
+    ],
+    "other_phones": [],
+    "email": "kathoraidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SALNA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-gazipur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109024"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

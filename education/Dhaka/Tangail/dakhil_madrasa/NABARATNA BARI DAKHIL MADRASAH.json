@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114174",
+  "institution": {
+    "eiin": "114174",
+    "name": "NABARATNA BARI DAKHIL MADRASAH",
+    "name_bn": "নবরত্নবাড়ী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Ghatail",
+    "address": "NABARATNABARI",
+    "post_office": "Ghatial",
+    "mobiles": [
+      "01920573200",
+      "01704483162"
+    ],
+    "other_phones": [],
+    "email": "dakhilmadrasahnabaratnabari@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TARAGONJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-ghatail",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114174"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

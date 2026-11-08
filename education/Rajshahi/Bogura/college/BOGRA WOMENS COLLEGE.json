@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119256",
+  "institution": {
+    "eiin": "119256",
+    "name": "BOGRA WOMENS COLLEGE",
+    "name_bn": "বগুড়া মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Bogra Sadar",
+    "address": "MALOTINAGAR",
+    "post_office": "Bogura Sadar",
+    "mobiles": [
+      "01749123500"
+    ],
+    "other_phones": [],
+    "email": "bwcbogra@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-bogra-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-119256"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

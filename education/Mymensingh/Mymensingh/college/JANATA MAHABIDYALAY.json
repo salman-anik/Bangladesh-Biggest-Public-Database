@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111518",
+  "institution": {
+    "eiin": "111518",
+    "name": "JANATA MAHABIDYALAY",
+    "name_bn": "জনতা মহাবিদ্যালয়",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Fulbaria",
+    "address": "KALADAHA",
+    "post_office": "Fulbaria",
+    "mobiles": [
+      "01716306059"
+    ],
+    "other_phones": [],
+    "email": "janatamahabidyalaya@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-fulbaria",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111518"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

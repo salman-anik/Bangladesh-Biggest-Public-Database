@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136659",
+                        "name":  "METROPOLITAN UNIVERSITY",
+                        "name_bn":  "মেট্রোপলিটন ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Sylhet",
+                        "district":  "Sylhet",
+                        "thana":  "Sylhet Sadar",
+                        "address":  "AL HAMRA (7TH FLOOR) ZINDABAZAR",
+                        "post_office":  "Sylhet Biman Bondar",
+                        "mobiles":  [
+                                        "01313050044"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@metrounui.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "UPAZILA SADAR NOT POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-sylhet",
+                                          "thana_id":  "BD-THANA-sylhet-sylhet-sylhet-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136659"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\sylhet\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

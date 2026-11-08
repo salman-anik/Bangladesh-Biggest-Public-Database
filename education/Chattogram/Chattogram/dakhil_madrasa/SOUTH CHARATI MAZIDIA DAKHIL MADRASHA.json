@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105028",
+  "institution": {
+    "eiin": "105028",
+    "name": "SOUTH CHARATI MAZIDIA DAKHIL MADRASHA",
+    "name_bn": "দক্ষিন চরতী মজিদিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Satkania",
+    "address": "SOUTH CHARATI",
+    "post_office": "Barma",
+    "mobiles": [
+      "01815671619",
+      "01816079274",
+      "01814082979"
+    ],
+    "other_phones": [],
+    "email": "scmazidiamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DURDURI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-satkania",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105028"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

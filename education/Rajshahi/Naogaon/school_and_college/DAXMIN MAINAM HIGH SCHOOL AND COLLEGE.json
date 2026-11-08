@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123240",
+  "institution": {
+    "eiin": "123240",
+    "name": "DAXMIN MAINAM HIGH SCHOOL AND COLLEGE",
+    "name_bn": "দক্ষিণ মৈনম উচ্চ বিদ্যালয় ও কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "DAXMIN MAINAM",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01712534746"
+    ],
+    "other_phones": [],
+    "email": "sc123240@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_S",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "DAXMIN MAINAM HIGH SCHOOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-123240"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

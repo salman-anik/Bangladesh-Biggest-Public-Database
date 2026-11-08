@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132226",
+                        "name":  "DAFFODIL POLYTECHNIC INSTITUTE",
+                        "name_bn":  "ড্যাফোডিল পলিটেকনিক ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Dhanmondi",
+                        "address":  "H 2 RD 12 MIRPUR ROAD, DHANMONDI, DHAKA-1209",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01713493248",
+                                        "01713493206"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BANGLADESH SKILL DEVELOPMENT INSTITUTE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-dhanmondi",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132226"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

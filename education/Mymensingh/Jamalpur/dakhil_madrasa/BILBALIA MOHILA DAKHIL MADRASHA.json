@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110196",
+  "institution": {
+    "eiin": "110196",
+    "name": "BILBALIA MOHILA DAKHIL MADRASHA",
+    "name_bn": "বিলবালিয়া মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Sarishabari Upazila",
+    "address": "BILBALIA",
+    "post_office": "Padri Shibpur",
+    "mobiles": [
+      "01792340947",
+      "01716900038",
+      "01712669424"
+    ],
+    "other_phones": [],
+    "email": "super.bmdm1974@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "BILBALIA MOHILA"
+      ],
+      "post_offices": [
+        "SHIBPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-sarishabari-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110196"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

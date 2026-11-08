@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111813",
+  "institution": {
+    "eiin": "111813",
+    "name": "FANUR ASHRAFUL ULUM DAKHIL MADRASHA",
+    "name_bn": "ফানুর আশরাফুল উলুম দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Ishwarganj",
+    "address": "FANUR",
+    "post_office": "Isshwargonj",
+    "mobiles": [
+      "01740854446"
+    ],
+    "other_phones": [],
+    "email": "fanurdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JATIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-ishwarganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111813"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

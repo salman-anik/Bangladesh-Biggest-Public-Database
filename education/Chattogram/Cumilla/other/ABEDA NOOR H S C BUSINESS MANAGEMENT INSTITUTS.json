@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133168",
+                        "name":  "ABEDA NOOR H S C BUSINESS MANAGEMENT INSTITUTS",
+                        "name_bn":  "আবেদা নূর উচ্চ মাধ্যামিক বিজনেস ম্যানেজসেন্ট ইন্সটিউটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Cumilla",
+                        "thana":  "Chandina",
+                        "address":  "GALLAI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718735810"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-cumilla",
+                                          "thana_id":  "BD-THANA-chattogram-cumilla-chandina",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133168"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\cumilla\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "eiin": "qawmi_bd_0008",
+  "institution": {
+    "eiin": "qawmi_bd_0008",
+    "name": "আজমপুর দারুল উলূম মাদরাসা ও এতিমখানা",
+    "name_bn": "আজমপুর দারুল উলূম মাদরাসা ও এতিমখানা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kawmi",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "সেক্টর-৬",
+    "address": "আজমপুর",
+    "post_office": "",
+    "mobiles": [
+      {
+        "number": "01896214900",
+        "type": "mobile/telephone",
+        "listing_context": "Madrasa contact / Mohtamim",
+        "verification": "publicly_listed_not_call_verified"
+      },
+      {
+        "number": "0248959500",
+        "type": "landline",
+        "listing_context": "Madrasa contact / Mohtamim",
+        "verification": "publicly_listed_not_call_verified"
+      },
+      {
+        "number": "01712990229",
+        "type": "mobile",
+        "listing_context": "Madrasa contact / Nazem",
+        "verification": "publicly_listed_not_call_verified"
+      }
+    ],
+    "other_phones": [],
+    "email": "",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "",
+    "area_status": "",
+    "survey_year": 2026,
+    "sources": [
+      "S11",
+      "QawmiVerse"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-qawmi_bd_0008"
+    },
+    "madrasa_category": "Kawmi",
+    "affiliation_code": "৫/১৫৬২",
+    "verification_status": "source_transcribed_not_independently_verified",
+    "gender": "unspecified",
+    "contact_research_status": "number_found_in_matching_institution_listing",
+    "contact_sources": [
+      {
+        "url": "https://qmmsoft.com/1167",
+        "source_name": "QMMsoft madrasa management listing",
+        "match_basis": "Exact madrasa name and Uttara Sector 6, Road 13, Plot 2 address match",
+        "checked_on": "2026-11-01",
+        "source_note": "Institution contact section lists 01896214900 and 02-48959500 for Mohtamim and 01712990229 for Nazem."
+      }
+    ],
+    "contact_notes": "Numbers are publicly listed on a page matching the madrasa name and address; not independently confirmed by calling the institution."
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

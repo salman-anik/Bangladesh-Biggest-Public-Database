@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123019",
+  "institution": {
+    "eiin": "123019",
+    "name": "BAURA DAKHIL MADRASHA",
+    "name_bn": "বাউরা আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Lalmonirhat",
+    "thana": "Patgram",
+    "address": "NOBINAGAR",
+    "post_office": "Baura",
+    "mobiles": [
+      "01714802888",
+      "01723746440",
+      "01761511620"
+    ],
+    "other_phones": [],
+    "email": "bauramadrasha1952@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-lalmonirhat",
+      "thana_id": "BD-THANA-rangpur-lalmonirhat-patgram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123019"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

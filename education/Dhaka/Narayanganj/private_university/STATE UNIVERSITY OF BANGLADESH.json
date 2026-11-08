@@ -1,0 +1,59 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136663",
+                        "name":  "STATE UNIVERSITY OF BANGLADESH",
+                        "name_bn":  "স্টেট ইউনিভাসির্টি অব বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Narayanganj",
+                        "thana":  "Rupganj",
+                        "address":  "77, SATHMOSJID ROAD",
+                        "post_office":  "Kanchan",
+                        "mobiles":  [
+                                        "01766663316"
+                                    ],
+                        "other_phones":  [
+                                             "017666663557"
+                                         ],
+                        "email":  "registrar.office@sub.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Dhaka",
+                                                                 "thana":  "Dhanmondi",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-narayanganj",
+                                          "thana_id":  "BD-THANA-dhaka-narayanganj-rupganj",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136663"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\narayanganj\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

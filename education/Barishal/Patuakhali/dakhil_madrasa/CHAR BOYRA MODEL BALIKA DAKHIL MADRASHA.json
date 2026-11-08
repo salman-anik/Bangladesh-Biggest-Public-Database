@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102190",
+  "institution": {
+    "eiin": "102190",
+    "name": "CHAR BOYRA MODEL BALIKA DAKHIL MADRASHA",
+    "name_bn": "চরবয়ড়া মডেল বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Dumki Upazila",
+    "address": "CHAR BOYRA",
+    "post_office": "Dumkee",
+    "mobiles": [
+      "01913543241"
+    ],
+    "other_phones": [],
+    "email": "ummykulsum120@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHARBOYRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-dumki-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102190"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

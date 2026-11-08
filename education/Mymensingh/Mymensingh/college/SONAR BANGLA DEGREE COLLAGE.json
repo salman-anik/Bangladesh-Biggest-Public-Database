@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111353",
+  "institution": {
+    "eiin": "111353",
+    "name": "SONAR BANGLA DEGREE COLLAGE",
+    "name_bn": "সোনার বাংলা ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Bhaluka",
+    "address": "BATAJORE",
+    "post_office": "Bhaluka",
+    "mobiles": [
+      "01621027722",
+      "01715224758"
+    ],
+    "other_phones": [],
+    "email": "sbdegreecollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-bhaluka",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111353"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

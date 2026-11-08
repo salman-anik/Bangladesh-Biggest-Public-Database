@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112395",
+  "institution": {
+    "eiin": "112395",
+    "name": "BANDAR ISLAMIA FAZIL MADRASA",
+    "name_bn": "বন্দর ইসলামিয়া ফাযিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Bandar",
+    "address": "সালেহ নগর রোড",
+    "post_office": "Bandar",
+    "mobiles": [
+      "01911750627"
+    ],
+    "other_phones": [],
+    "email": "m112395b@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "BANDAR"
+      ],
+      "post_offices": [
+        "বন্দর"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-bandar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112395"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110524",
+  "institution": {
+    "eiin": "110524",
+    "name": "BAHERCHAR DAKHIL MADRASAH",
+    "name_bn": "বাহেরচর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Mithamain",
+    "address": "BAHERCHAR",
+    "post_office": "Abdullahpur",
+    "mobiles": [
+      "01712748562"
+    ],
+    "other_phones": [],
+    "email": "m110524.bdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KATKHAL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-mithamain",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110524"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

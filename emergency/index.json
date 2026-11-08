@@ -1,0 +1,17 @@
+{
+  "title": "Bangladesh Emergency Services & Public Administration Directory",
+  "description": "Exhaustive national emergency directory covering toll-free hotlines (999, 333, 106, 109, etc.), police stations (Thanas) across all 64 districts & metropolitan forces, fire service stations, and district administration (DC, SP, Civil Surgeon) offices.",
+  "version": "2.0.0",
+  "total_national_hotlines": 14,
+  "total_police_stations": 76,
+  "total_fire_stations": 67,
+  "total_district_admin_offices": 64,
+  "files": {
+    "national_hotlines": "national_hotlines.json",
+    "police_stations": "police_stations.json",
+    "fire_stations": "fire_stations.json",
+    "district_administration": "district_administration.json",
+    "by_district": "by_district/",
+    "viewer": "index.html"
+  }
+}

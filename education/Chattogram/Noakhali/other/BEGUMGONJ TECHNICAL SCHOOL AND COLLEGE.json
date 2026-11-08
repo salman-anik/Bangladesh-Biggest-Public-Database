@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132950",
+                        "name":  "BEGUMGONJ TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "বেগমগঞ্জ সরকারি টেকনিক্যাল স্কুল ও কলেজ, বেগমগঞ্জ, নোয়াখালী।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Noakhali",
+                        "thana":  "Begumganj",
+                        "address":  "ALIPUR/0003-00/MAIJDEE ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01764476775",
+                                        "01710846979"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BEGUMGONJ TECHNICAL SCHOOL AND COLLAGE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-noakhali",
+                                          "thana_id":  "BD-THANA-chattogram-noakhali-begumganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132950"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\noakhali\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

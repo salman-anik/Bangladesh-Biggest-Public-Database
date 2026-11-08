@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136613",
+                        "name":  "BEGUM ROKEYA UNIVERSITY RANGPUR",
+                        "name_bn":  "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rangpur",
+                        "district":  "Rangpur",
+                        "thana":  "Rangpur Sadar",
+                        "address":  null,
+                        "post_office":  "Jhenaidah Cadet College",
+                        "mobiles":  [
+                                        "01313013211",
+                                        "01765924233"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@brur.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  null,
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-rangpur",
+                                          "thana_id":  "BD-THANA-rangpur-rangpur-rangpur-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136613"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\rangpur\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

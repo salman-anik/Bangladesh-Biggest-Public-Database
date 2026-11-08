@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109154",
+  "institution": {
+    "eiin": "109154",
+    "name": "NORUN DAKHIL MADRASHA",
+    "name_bn": "নরুন দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kaliganj",
+    "address": "NORUN",
+    "post_office": "Gazipur Sadar",
+    "mobiles": [
+      "01718155939"
+    ],
+    "other_phones": [],
+    "email": "ndmkaligazi@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "INDUSTRIAL AREA",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NARUN BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kaliganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109154"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

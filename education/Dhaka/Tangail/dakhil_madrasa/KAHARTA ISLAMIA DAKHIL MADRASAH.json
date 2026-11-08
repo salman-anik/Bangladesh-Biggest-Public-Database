@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114652",
+  "institution": {
+    "eiin": "114652",
+    "name": "KAHARTA ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "কাহারতা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Sakhipur",
+    "address": "KAHARTA",
+    "post_office": "Kachua",
+    "mobiles": [
+      "01721972578",
+      "01705163622"
+    ],
+    "other_phones": [],
+    "email": "kahartamad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-sakhipur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114652"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

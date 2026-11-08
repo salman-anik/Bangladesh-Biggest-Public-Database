@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111126",
+  "institution": {
+    "eiin": "111126",
+    "name": "MOUCHA AMANA HAKIM DAKHIL MADRASAH",
+    "name_bn": "মৌছা আমেনা হাকিম দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Lohajang",
+    "address": "MOUCHA",
+    "post_office": "Kumarbhog",
+    "mobiles": [
+      "01712975992"
+    ],
+    "other_phones": [],
+    "email": "amena.hakim.madrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-lohajang",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111126"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

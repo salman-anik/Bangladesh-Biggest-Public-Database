@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112318",
+  "institution": {
+    "eiin": "112318",
+    "name": "RASULPUR MOHILA DAKHIL MADRASHA",
+    "name_bn": "রসুলপুর মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Araihazar",
+    "address": "RASULPUR",
+    "post_office": "Rasulpur",
+    "mobiles": [
+      "01918367781"
+    ],
+    "other_phones": [],
+    "email": "rmdm112318@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-araihazar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112318"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139046",
+                        "name":  "INSTITUTE OF TECHNOLOGY AND TEXTILE ENGINEERING",
+                        "name_bn":  "ইন্সটিটিউট অব টেকনোলজী এন্ড টেক্সটাইল ইঞ্জিনিয়ারিং",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Pabna",
+                        "thana":  "Pabna Sadar",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01722610808"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-pabna",
+                                          "thana_id":  "BD-THANA-rajshahi-pabna-pabna-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139046"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\pabna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

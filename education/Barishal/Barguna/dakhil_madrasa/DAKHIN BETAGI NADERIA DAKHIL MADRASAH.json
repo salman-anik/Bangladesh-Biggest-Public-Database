@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100287",
+  "institution": {
+    "eiin": "100287",
+    "name": "DAKHIN BETAGI NADERIA DAKHIL MADRASAH",
+    "name_bn": "দক্ষিন বেতাগী নাদেরিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Betagi",
+    "address": "BETAGI",
+    "post_office": "Betagi",
+    "mobiles": [
+      "01714634885"
+    ],
+    "other_phones": [],
+    "email": "dbndakhilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "DAKHIN BETAGI NADERTA DAKHIL MADRASAH"
+      ],
+      "post_offices": [
+        "DAKHIN BETAGI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-betagi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100287"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

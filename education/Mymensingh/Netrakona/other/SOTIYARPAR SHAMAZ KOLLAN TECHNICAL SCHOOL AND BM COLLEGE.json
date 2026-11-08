@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138529",
+                        "name":  "SOTIYARPAR SHAMAZ KOLLAN TECHNICAL SCHOOL AND BM COLLEGE",
+                        "name_bn":  "সুতিয়ারপাড়া সমাজকল্যাণ টেকনিক্যাল স্কুল এন্ড কলেজ।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Netrakona",
+                        "thana":  "Madan",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712598446"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-netrakona",
+                                          "thana_id":  "BD-THANA-mymensingh-netrakona-madan",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-138529"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\netrakona\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

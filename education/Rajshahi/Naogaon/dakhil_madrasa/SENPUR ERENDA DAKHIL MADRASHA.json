@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123797",
+  "institution": {
+    "eiin": "123797",
+    "name": "SENPUR ERENDA DAKHIL MADRASHA",
+    "name_bn": "সেনপুর এড়েন্দা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Sapahar",
+    "address": "SENPUR",
+    "post_office": "Goala Bazar",
+    "mobiles": [
+      "01757974192"
+    ],
+    "other_phones": [],
+    "email": "senpuradm123797@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GOALA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-sapahar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123797"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

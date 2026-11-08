@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123978",
+  "institution": {
+    "eiin": "123978",
+    "name": "RAJAPUR DEGREE COLLEGE",
+    "name_bn": "রাজাপুর ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "RAJAPUR",
+    "post_office": null,
+    "mobiles": [
+      "01724427035",
+      "01834041800"
+    ],
+    "other_phones": [],
+    "email": "razapurdegreecollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123978"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

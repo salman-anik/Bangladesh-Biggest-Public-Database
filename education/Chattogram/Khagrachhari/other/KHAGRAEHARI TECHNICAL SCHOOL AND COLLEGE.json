@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132657",
+                        "name":  "KHAGRAEHARI TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "খাগড়াছড়ি সরকারি টেকনিক্যাল স্কুল ও কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Khagrachhari",
+                        "thana":  "Khagrachhari Sadar",
+                        "address":  "KHAJUR BAGAN",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712844408",
+                                        "01556538883"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-khagrachhari",
+                                          "thana_id":  "BD-THANA-chattogram-khagrachhari-khagrachhari-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132657"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\khagrachhari\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

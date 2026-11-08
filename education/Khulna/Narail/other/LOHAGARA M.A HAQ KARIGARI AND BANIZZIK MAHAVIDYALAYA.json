@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134079",
+                        "name":  "LOHAGARA M.A HAQ KARIGARI AND BANIZZIK MAHAVIDYALAYA",
+                        "name_bn":  "লোহাগড়া এম.এ.হক কারিগরি এন্ড বাণিজ্যিক মহাবিদ্যালয়",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Narail",
+                        "thana":  "Lohagara",
+                        "address":  "MAITKUMRA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01725815190"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "LOHAGARA M.A HAQUE TECHNICAL \u0026 COMMERCIAL COLLEGE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-narail",
+                                          "thana_id":  "BD-THANA-khulna-narail-lohagara",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134079"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\narail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "code": "999",
+    "service_name": "National Emergency Service (জাতীয় জরুরি সেবা)",
+    "operated_by": "Bangladesh Police / ICT Division",
+    "description": "Toll-free emergency dispatch for Police, Fire Service, and Ambulance services across all 64 districts.",
+    "toll_free": true,
+    "availability": "24/7 (365 days)",
+    "services": [
+      "Police Assistance",
+      "Fire & Rescue Operations",
+      "Emergency Ambulance Dispatch",
+      "Highway Accident Response"
+    ]
+  },
+  {
+    "code": "333",
+    "service_name": "National Citizens Information & Services Helpline (জাতীয় তথ্য বাতায়ন)",
+    "operated_by": "a2i, ICT Division, Prime Minister's Office",
+    "description": "Toll-free citizen information gateway for public services, civil registrations, district administration, and disaster relief.",
+    "toll_free": true,
+    "availability": "24/7",
+    "services": [
+      "Government Services Information",
+      "Social Safety Net / Relief",
+      "Child Marriage Prevention",
+      "Illegal Activity Reporting"
+    ]
+  },
+  {
+    "code": "106",
+    "service_name": "Anti-Corruption Commission Helpline (দুদক হটলাইন)",
+    "operated_by": "Anti-Corruption Commission (ACC) Bangladesh",
+    "description": "Direct reporting hotline for bribery, illegal wealth, harassment, and corruption in public offices.",
+    "toll_free": true,
+    "availability": "9:00 AM - 5:00 PM (Working days)",
+    "services": [
+      "Corruption Complaints",
+      "Bribery Reporting",
+      "Illegal Asset Accusations",
+      "Whistleblower Protection"
+    ]
+  },
+  {
+    "code": "109",
+    "service_name": "Helpline for Prevention of Violence Against Women & Children (নারী ও শিশু নির্যাতন প্রতিরোধ সেল)",
+    "operated_by": "Ministry of Women and Children Affairs",
+    "description": "Toll-free national emergency hotline offering rescue, legal support, medical referral, and counseling for women and children.",
+    "toll_free": true,
+    "availability": "24/7",
+    "services": [
+      "Domestic Violence Rescue",
+      "Eve-teasing & Stalking",
+      "Child Marriage Prevention",
+      "Legal Aid Linkage"
+    ]
+  },
+  {
+    "code": "1090",
+    "service_name": "Disaster Early Warning Voice Message (দুর্যোগের আগাম বার্তা)",
+    "operated_by": "Ministry of Disaster Management and Relief",
+    "description": "Interactive Voice Response (IVR) offering real-time weather forecasts, cyclone alerts, storm warnings, and flood bulletins.",
+    "toll_free": true,
+    "availability": "24/7",
+    "services": [
+      "Cyclone Warning Signals",
+      "Sea Port Signals",
+      "River Port Danger Signals",
+      "Flood Forecasts"
+    ]
+  },
+  {
+    "code": "16263",
+    "service_name": "Shastho Batayan (স্বাস্থ্য বাতায়ন)",
+    "operated_by": "Directorate General of Health Services (DGHS)",
+    "description": "24/7 medical consultation helpline connecting citizens directly with registered MBBS doctors over phone.",
+    "toll_free": false,
+    "availability": "24/7",
+    "services": [
+      "Tele-Doctor Consultation",
+      "Hospital & Ambulance Information",
+      "Emergency Medical Advice",
+      "Health Complaint Logging"
+    ]
+  },
+  {
+    "code": "16122",
+    "service_name": "Citizen Land Service Helpline (ভূমি সেবা হটলাইন)",
+    "operated_by": "Ministry of Land",
+    "description": "Comprehensive customer service for land records, e-Mutation, digital khatian (porcha), and land development tax payments.",
+    "toll_free": false,
+    "availability": "24/7",
+    "services": [
+      "E-Mutation Tracking",
+      "Online Khatian (RS/CS/BS)",
+      "Land Development Tax (LD Tax)",
+      "Land Fraud Complaints"
+    ]
+  },
+  {
+    "code": "16430",
+    "service_name": "National Legal Aid Helpline (আইনি সহায়তা হটলাইন)",
+    "operated_by": "National Legal Aid Services Organization (NLASO), Ministry of Law",
+    "description": "Free legal advice and government legal representation for poor, insolvent, and underprivileged citizens.",
+    "toll_free": true,
+    "availability": "9:00 AM - 5:00 PM",
+    "services": [
+      "Free Legal Consultation",
+      "Government Lawyer Appointment",
+      "Court Case Mediation",
+      "Victim Legal Assistance"
+    ]
+  },
+  {
+    "code": "1098",
+    "service_name": "Child Helpline Bangladesh (চাইল্ড হেল্পলাইন)",
+    "operated_by": "Ministry of Women and Children Affairs / UNICEF",
+    "description": "Toll-free emergency protection for children at risk of abuse, violence, trafficking, forced labor, or exploitation.",
+    "toll_free": true,
+    "availability": "24/7",
+    "services": [
+      "Child Protection & Rescue",
+      "Street Child Assistance",
+      "Runaway Child Tracking",
+      "Psychological First Aid"
+    ]
+  },
+  {
+    "code": "16575",
+    "service_name": "Consumer Rights Protection Helpline (ভোক্তা অধিকার হটলাইন)",
+    "operated_by": "Directorate of National Consumers' Right Protection (DNCRP)",
+    "description": "Official helpline to lodge complaints against overcharging, adulterated food, counterfeit products, and unfair trade practices.",
+    "toll_free": false,
+    "availability": "9:00 AM - 5:00 PM",
+    "services": [
+      "Commodity Overpricing Complaints",
+      "Fake/Adulterated Goods",
+      "25% Penalty Reward to Complainants",
+      "Market Monitoring"
+    ]
+  },
+  {
+    "code": "100",
+    "service_name": "BTRC Telecom Consumer Complaint (বিটিআরসি হেল্পলাইন)",
+    "operated_by": "Bangladesh Telecommunication Regulatory Commission",
+    "description": "Helpline for resolving disputes with mobile network operators, internet service providers, and unsolicited spam SMS.",
+    "toll_free": false,
+    "availability": "Office Hours",
+    "services": [
+      "Mobile Operator Issues",
+      "Broadband Speed Complaints",
+      "SIM Card Registration Disputes",
+      "Spam SMS Blocking"
+    ]
+  },
+  {
+    "code": "105",
+    "service_name": "NID Wing National Identity Helpline (জাতীয় পরিচয়পত্র সেবা)",
+    "operated_by": "Election Commission Bangladesh",
+    "description": "Inquiries regarding National ID cards, voter registration, card correction, and smart NID issuance.",
+    "toll_free": false,
+    "availability": "9:00 AM - 5:00 PM",
+    "services": [
+      "NID Card Correction Status",
+      "Smart NID Card Delivery",
+      "New Voter Registration",
+      "Online NID Portal Support"
+    ]
+  },
+  {
+    "code": "16444",
+    "service_name": "Immigration & Passport Helpline (পাসপোর্ট হেল্পলাইন)",
+    "operated_by": "Department of Immigration and Passports",
+    "description": "Customer service for e-Passport applications, police clearance verification, and passport delivery status.",
+    "toll_free": false,
+    "availability": "8:00 AM - 8:00 PM",
+    "services": [
+      "E-Passport Status Tracking",
+      "Urgent Passport Inquiries",
+      "Biometric Enrollment Issues",
+      "Fees & Documents Guide"
+    ]
+  },
+  {
+    "code": "16216",
+    "service_name": "Probashi Kalyan Call Center (প্রবাসী কল্যাণ কল সেন্টার)",
+    "operated_by": "Ministry of Expatriates' Welfare and Overseas Employment",
+    "description": "Helpline for Bangladeshi expatriate workers abroad covering wage earners' welfare, legal issues, and repatriation.",
+    "toll_free": false,
+    "availability": "24/7",
+    "services": [
+      "Expatriate Worker Assistance",
+      "Overseas Employment Verification",
+      "Deceased Worker Repatriation",
+      "Welfare Fund Benefits"
+    ]
+  }
+]

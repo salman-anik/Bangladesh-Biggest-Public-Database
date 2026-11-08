@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138254",
+                        "name":  "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY,COMILLA",
+                        "name_bn":  "বাংলাদেশ আর্মি ইন্টারন্যাশনাল ইউনিভার্সিটি অব সায়েন্স এন্ড টেকনোলজি (বিএআইইউএসটি), কুমিল্লা",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Cumilla",
+                        "thana":  "Comilla Adarsha Sadar",
+                        "address":  null,
+                        "post_office":  "Chitt. Cantonment",
+                        "mobiles":  [
+                                        "01324763810"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@baiust.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "HILLY AREA",
+                        "area_status":  "OTHER POURA AREAS",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-cumilla",
+                                          "thana_id":  "BD-THANA-chattogram-cumilla-comilla-adarsha-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138254"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\cumilla\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

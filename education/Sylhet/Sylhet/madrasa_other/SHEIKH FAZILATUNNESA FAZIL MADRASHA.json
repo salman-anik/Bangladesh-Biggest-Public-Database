@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130116",
+  "institution": {
+    "eiin": "130116",
+    "name": "SHEIKH FAZILATUNNESA FAZIL MADRASHA",
+    "name_bn": "শেখ ফজিলাতুন্নেসা ফাজিল (ডিগ্রী) মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "TILPARA",
+    "post_office": "Goala Bazar",
+    "mobiles": [
+      "01720114814"
+    ],
+    "other_phones": [],
+    "email": "sffazilmadrasa.edu.bd@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "SHEIKH FAZILATUNESA FAZIL MADRASHA"
+      ],
+      "post_offices": [
+        "MUKTERPUR"
+      ],
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130116"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

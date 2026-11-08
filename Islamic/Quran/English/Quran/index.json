@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "title": "English Quran translations",
+  "language": "en",
+  "datasets": {
+    "word_by_word": {
+      "name": "English word-by-word translations",
+      "key_format": "surah:ayah:word",
+      "translations": {
+        "english": {
+          "name": "English",
+          "file": "word-by-word/english-wbw-translation.json",
+          "record_count": 83665,
+          "value_format": "English word string",
+          "coverage_note": "Three Arabic word locations are not present in the source translation. No entries were invented."
+        },
+        "colored_english": {
+          "name": "Colored English",
+          "file": "word-by-word/colored-english-wbw-translation.json",
+          "record_count": 77429,
+          "value_format": "HTML-formatted English word string",
+          "coverage_note": "This source contains a partial word-key set; records were preserved as provided."
+        }
+      }
+    },
+    "verse_by_verse": {
+      "name": "English verse translations",
+      "key_format": "surah:ayah",
+      "record_shape": {
+        "t": "English verse translation",
+        "f": "Optional footnotes, preserved when present"
+      },
+      "translations": {
+        "dr_t_b_irving": {
+          "name": "Dr. T. B. Irving",
+          "file": "verse-by-verse/dr-t-b-irving-simple.json",
+          "record_count": 6236
+        },
+        "dr_waleed_bleyhesh_omary": {
+          "name": "Dr. Waleed Bleyhesh Omary",
+          "file": "verse-by-verse/dr-waleed-bleyhesh-omary-simple.json",
+          "record_count": 2250,
+          "coverage_note": "Partial source: 3,986 Uthmani Quran verse keys are not present."
+        },
+        "al_maududi": {
+          "name": "Al-Maududi",
+          "file": "verse-by-verse/en-al-maududi-with-footnote-tags.json",
+          "record_count": 6236
+        },
+        "arberry": {
+          "name": "Arberry",
+          "file": "verse-by-verse/en-arberry-simple.json",
+          "record_count": 6236
+        },
+        "asad": {
+          "name": "Asad",
+          "file": "verse-by-verse/en-asad-simple.json",
+          "record_count": 6236
+        },
+        "daryabadi": {
+          "name": "Daryabadi",
+          "file": "verse-by-verse/en-daryabadi-simple.json",
+          "record_count": 6236
+        },
+        "ghali": {
+          "name": "Ghali",
+          "file": "verse-by-verse/en-ghali-simple.json",
+          "record_count": 6236
+        },
+        "haleem": {
+          "name": "Haleem",
+          "file": "verse-by-verse/en-haleem-with-footnote-tags.json",
+          "record_count": 6236
+        },
+        "hilali": {
+          "name": "Hilali",
+          "file": "verse-by-verse/en-hilali-with-footnote-tags.json",
+          "record_count": 6236
+        },
+        "maarif_ul_quran": {
+          "name": "Maarif-ul-Quran",
+          "file": "verse-by-verse/en-maarif-ul-quran-simple.json",
+          "record_count": 6236
+        },
+        "maulana_wahiduddin_khan": {
+          "name": "Maulana Wahiduddin Khan",
+          "file": "verse-by-verse/en-maulana-wahiduddin-khan-with-footnote-tags.json",
+          "record_count": 6236
+        },
+        "muhsin_khan": {
+          "name": "Muhsin Khan",
+          "file": "verse-by-verse/en-muhsin-khan-simple.json",
+          "record_count": 6236
+        },
+        "qaribullah": {
+          "name": "Qaribullah",
+          "file": "verse-by-verse/en-qaribullah-simple.json",
+          "record_count": 6236
+        },
+        "sahih_international": {
+          "name": "Sahih International",
+          "file": "verse-by-verse/en-sahih-international-inline-footnotes.json",
+          "record_count": 6236
+        },
+        "sarwar": {
+          "name": "Sarwar",
+          "file": "verse-by-verse/en-sarwar-simple.json",
+          "record_count": 6236
+        },
+        "shakir": {
+          "name": "Shakir",
+          "file": "verse-by-verse/en-shakir-simple.json",
+          "record_count": 6236
+        },
+        "taqi_usmani": {
+          "name": "Taqi Usmani",
+          "file": "verse-by-verse/en-taqi-usmani-simple.json",
+          "record_count": 6236
+        },
+        "pickthall": {
+          "name": "Pickthall",
+          "file": "verse-by-verse/quran-en-pickthall-simple.json",
+          "record_count": 6236
+        },
+        "yusuf_ali": {
+          "name": "Yusuf Ali",
+          "file": "verse-by-verse/quran-en-yusufali-simple.json",
+          "record_count": 6236
+        },
+        "ruwwad_center": {
+          "name": "Ruwwad Center",
+          "file": "verse-by-verse/ruwwad-center-simple.json",
+          "record_count": 6236
+        }
+      }
+    },
+    "supplementary": {
+      "bridges_inline_footnotes": {
+        "name": "Bridges translation with inline footnotes",
+        "file": "supplementary/bridges-translation-inline-footnotes.json",
+        "format": "JSON",
+        "record_count": 6236,
+        "key_format": "surah:ayah"
+      }
+    }
+  },
+  "notes": [
+    "Verse keys match the Uthmani Quran verse-by-verse dataset, except for the explicitly noted partial translation.",
+    "The colored English word-by-word source includes HTML markup; it has been preserved unchanged.",
+    "Two Hilali source archives were byte-identical; only one copy is retained.",
+    "Source ZIP archives were removed after extracted files were verified.",
+    "The Bridges SQLite source was exported to JSON and removed."
+  ]
+}

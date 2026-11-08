@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132251",
+                        "name":  "KAHALU TECHNICAL AND COMMERCE COLLEGES",
+                        "name_bn":  "কাহালু টেকনিক্যাল এন্ড কমার্স কলেজ, বগুড়া",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Bogura",
+                        "thana":  "Kahaloo",
+                        "address":  "KAHALU-DORGAHAT ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718734287"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "KAHALU TECNICAL AND COMMERCE COLLEGES"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-bogura",
+                                          "thana_id":  "BD-THANA-rajshahi-bogura-kahaloo",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132251"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\bogura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

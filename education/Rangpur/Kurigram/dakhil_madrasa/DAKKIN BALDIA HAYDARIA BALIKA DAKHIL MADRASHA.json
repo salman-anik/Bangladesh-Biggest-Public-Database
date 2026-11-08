@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "122117",
+  "institution": {
+    "eiin": "122117",
+    "name": "DAKKIN BALDIA HAYDARIA BALIKA DAKHIL MADRASHA",
+    "name_bn": "দক্ষিন বলদিয়া হায়দারীয়া বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "thana": "Bhurungamari",
+    "address": "DAKKIN BALDIA",
+    "post_office": "Bhurungamari",
+    "mobiles": [
+      "01735884701",
+      "01724398532"
+    ],
+    "other_phones": [],
+    "email": "d.b.h.b.d.m.18@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BALDIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-kurigram",
+      "thana_id": "BD-THANA-rangpur-kurigram-bhurungamari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-122117"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

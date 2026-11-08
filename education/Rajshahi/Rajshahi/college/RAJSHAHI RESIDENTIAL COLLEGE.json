@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "127041",
+  "institution": {
+    "eiin": "127041",
+    "name": "RAJSHAHI RESIDENTIAL COLLEGE",
+    "name_bn": "রাজশাহী রেসিডেন্সিয়াল কলেজ, রাজশাহী।",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "thana": "Shah Makhdum",
+    "address": "BYPASS ROAD",
+    "post_office": "Sapura",
+    "mobiles": [
+      "01716438696"
+    ],
+    "other_phones": [],
+    "email": "rrc.127041@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-rajshahi",
+      "thana_id": "BD-THANA-rajshahi-rajshahi-shah-makhdum",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-127041"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

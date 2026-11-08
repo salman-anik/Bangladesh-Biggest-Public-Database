@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108657",
+  "institution": {
+    "eiin": "108657",
+    "name": "MALIGRAM GIRLS DAKHIL MADRASHA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "thana": "Bhanga",
+    "address": "MALIGRAM",
+    "post_office": "MALIGRAM",
+    "mobiles": [
+      "01721575894"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-faridpur",
+      "thana_id": "BD-THANA-dhaka-faridpur-bhanga",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108657"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

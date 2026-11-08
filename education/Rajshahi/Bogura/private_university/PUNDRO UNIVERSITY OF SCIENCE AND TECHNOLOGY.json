@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138260",
+                        "name":  "PUNDRO UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                        "name_bn":  "পুণ্ড্র ইউনিভার্সিটি অব সায়েন্স অ্যান্ড টেকনোলজি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rajshahi",
+                        "district":  "Bogura",
+                        "thana":  "Bogra Sadar",
+                        "address":  null,
+                        "post_office":  "Bogura Sadar",
+                        "mobiles":  [
+                                        "01313377054"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "pundrauniversity.ac.bd@gmail.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-bogura",
+                                          "thana_id":  "BD-THANA-rajshahi-bogura-bogra-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138260"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\bogura\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

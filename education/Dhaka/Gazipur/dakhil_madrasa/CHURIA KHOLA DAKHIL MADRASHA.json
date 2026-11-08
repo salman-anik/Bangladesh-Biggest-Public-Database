@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109160",
+  "institution": {
+    "eiin": "109160",
+    "name": "CHURIA KHOLA DAKHIL MADRASHA",
+    "name_bn": "চুয়ারিয়া খোলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kaliganj",
+    "address": "CHURIA KHOLA",
+    "post_office": "Kaliganj",
+    "mobiles": [
+      "01924069923",
+      "01915379179"
+    ],
+    "other_phones": [],
+    "email": "choariakholamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kaliganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109160"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

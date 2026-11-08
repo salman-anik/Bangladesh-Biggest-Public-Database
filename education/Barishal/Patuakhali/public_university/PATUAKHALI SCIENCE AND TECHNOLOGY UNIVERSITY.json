@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136621",
+                        "name":  "PATUAKHALI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                        "name_bn":  "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Barishal",
+                        "district":  "Patuakhali",
+                        "thana":  "Dumki Upazila",
+                        "address":  "HOLDING NO. 6",
+                        "post_office":  "Dumkee",
+                        "mobiles":  [
+                                        "01733094777"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@pstu.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "UPAZILA SADAR NOT POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-patuakhali",
+                                          "thana_id":  "BD-THANA-barishal-patuakhali-dumki-upazila",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136621"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\patuakhali\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

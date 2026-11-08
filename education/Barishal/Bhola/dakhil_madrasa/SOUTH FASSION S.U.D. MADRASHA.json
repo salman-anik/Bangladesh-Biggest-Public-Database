@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101408",
+  "institution": {
+    "eiin": "101408",
+    "name": "SOUTH FASSION S.U.D. MADRASHA",
+    "name_bn": "দক্ষিণ ফ্যাসন সামছুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Char Fasson",
+    "address": "345",
+    "post_office": "Charfashion",
+    "mobiles": [
+      "01715040794",
+      "01734305565"
+    ],
+    "other_phones": [],
+    "email": "sfud101408@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHARFASSION"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-char-fasson",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101408"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

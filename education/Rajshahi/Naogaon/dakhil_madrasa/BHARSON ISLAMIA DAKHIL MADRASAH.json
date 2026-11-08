@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123294",
+  "institution": {
+    "eiin": "123294",
+    "name": "BHARSON ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "ভারশোঁ ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "VARSHO",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01717386562"
+    ],
+    "other_phones": [],
+    "email": "m123294vdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "VERSHO"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123294"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

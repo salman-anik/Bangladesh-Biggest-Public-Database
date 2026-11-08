@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112701",
+  "institution": {
+    "eiin": "112701",
+    "name": "JAMEA-E-EMDADIA DAKHIL MADRASHA",
+    "name_bn": "জামেয়া-ই-এমদাদিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Narsingdi Sadar",
+    "address": "MADHABDI",
+    "post_office": "Madhabdi",
+    "mobiles": [
+      "01712042507"
+    ],
+    "other_phones": [],
+    "email": "jameaemdadia112701@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "MADBODI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-narsingdi-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112701"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

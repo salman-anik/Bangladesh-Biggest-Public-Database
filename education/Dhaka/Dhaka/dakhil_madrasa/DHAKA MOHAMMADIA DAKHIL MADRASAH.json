@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108479",
+  "institution": {
+    "eiin": "108479",
+    "name": "DHAKA MOHAMMADIA DAKHIL MADRASAH",
+    "name_bn": "ঢাকা মোহাম্মাদিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Kadamtali",
+    "address": "97, SHYAMPUR",
+    "post_office": "Gandaria TSO",
+    "mobiles": [
+      "01720348178"
+    ],
+    "other_phones": [],
+    "email": "dmdm108479@gmil.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "FARIDABAD"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-kadamtali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108479"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

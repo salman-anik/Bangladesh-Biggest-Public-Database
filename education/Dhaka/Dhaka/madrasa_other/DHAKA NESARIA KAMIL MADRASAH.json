@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108506",
+  "institution": {
+    "eiin": "108506",
+    "name": "DHAKA NESARIA KAMIL MADRASAH",
+    "name_bn": "ঢাকা নেছারিয়া কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Shyampur",
+    "address": "46 DHALKANAGOR LANE,FARIDABAD DHAKA",
+    "post_office": "Gandaria TSO",
+    "mobiles": [
+      "01715351467",
+      "01711933260"
+    ],
+    "other_phones": [],
+    "email": "dhakanesaria1976@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "46 DHALKANAGOR LANE"
+      ],
+      "post_offices": [
+        "GANDARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-shyampur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108506"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

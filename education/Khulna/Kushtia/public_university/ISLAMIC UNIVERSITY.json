@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136593",
+                        "name":  "ISLAMIC UNIVERSITY",
+                        "name_bn":  "ইসলামী বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Khulna",
+                        "district":  "Kushtia",
+                        "thana":  "Kushtia Sadar",
+                        "address":  "SANTIDANGA",
+                        "post_office":  "Islami University",
+                        "mobiles":  [
+                                        "01715157526",
+                                        "01727015074"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@iu.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-kushtia",
+                                          "thana_id":  "BD-THANA-khulna-kushtia-kushtia-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136593"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\kushtia\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

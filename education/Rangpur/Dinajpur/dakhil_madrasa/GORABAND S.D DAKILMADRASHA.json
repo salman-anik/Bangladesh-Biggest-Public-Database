@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120102",
+  "institution": {
+    "eiin": "120102",
+    "name": "GORABAND S.D DAKILMADRASHA",
+    "name_bn": "ঘোড়াবান্দ এস, ডি দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birganj",
+    "address": "GORABAND",
+    "post_office": "Rani Sankail",
+    "mobiles": [
+      "01791811253",
+      "01925258455"
+    ],
+    "other_phones": [],
+    "email": "ghorabandmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SANKA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120102"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

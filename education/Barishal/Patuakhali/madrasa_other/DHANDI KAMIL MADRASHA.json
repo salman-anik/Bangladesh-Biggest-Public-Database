@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102054",
+  "institution": {
+    "eiin": "102054",
+    "name": "DHANDI KAMIL MADRASHA",
+    "name_bn": "ধানদী কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Bauphal",
+    "address": "DHANDI",
+    "post_office": "Bauphal",
+    "mobiles": [
+      "01714934050",
+      "01936617588"
+    ],
+    "other_phones": [],
+    "email": "dhandifazilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "DHANDI FAZILMADRASHA"
+      ],
+      "post_offices": [
+        "DHANDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-bauphal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102054"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

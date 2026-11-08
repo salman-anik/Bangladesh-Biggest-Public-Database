@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140497",
+                        "name":  "UTTAR SRIPUR ADARSHA SECONDARY SCHOOL",
+                        "name_bn":  "উত্তর শ্রীপুর আদর্শ মাধ্যমিক বিদ্যালয়",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Satkhira",
+                        "thana":  "Kaliganj",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01715722388"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-satkhira",
+                                          "thana_id":  "BD-THANA-khulna-satkhira-kaliganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140497"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\satkhira\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

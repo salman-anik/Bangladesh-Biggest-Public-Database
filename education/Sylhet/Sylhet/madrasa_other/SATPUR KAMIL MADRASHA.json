@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130205",
+  "institution": {
+    "eiin": "130205",
+    "name": "SATPUR KAMIL MADRASHA",
+    "name_bn": "সৎপুর কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Bishwanath",
+    "address": "SATPUR",
+    "post_office": "Gabindaganj",
+    "mobiles": [
+      "01711440621"
+    ],
+    "other_phones": [],
+    "email": "satpurkm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SATPUR MADRASHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-bishwanath",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130205"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101280",
+  "institution": {
+    "eiin": "101280",
+    "name": "CHAR ALGI ISLAMIA BALIKA DAKHIL MADRASHA",
+    "name_bn": "চর আলগী ইসলামিয়া বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Burhanuddin",
+    "address": "CHAR ALGI",
+    "post_office": "Borhanuddin UPO",
+    "mobiles": [
+      "01915988304"
+    ],
+    "other_phones": [],
+    "email": "charalgi101280@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TALUKDAR BARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-burhanuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101280"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

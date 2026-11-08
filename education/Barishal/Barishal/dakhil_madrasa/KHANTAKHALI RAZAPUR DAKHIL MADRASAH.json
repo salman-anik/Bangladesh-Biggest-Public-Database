@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100930",
+  "institution": {
+    "eiin": "100930",
+    "name": "KHANTAKHALI RAZAPUR DAKHIL MADRASAH",
+    "name_bn": "খন্তাখালী রাজাপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Mehendiganj",
+    "address": "KHANTAKHALI",
+    "post_office": "Kanchanpur",
+    "mobiles": [
+      "01715951909"
+    ],
+    "other_phones": [],
+    "email": "khantakhalimadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHANPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-mehendiganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100930"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

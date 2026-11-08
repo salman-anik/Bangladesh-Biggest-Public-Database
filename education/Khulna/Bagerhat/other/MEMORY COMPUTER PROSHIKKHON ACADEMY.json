@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135724",
+                        "name":  "MEMORY COMPUTER PROSHIKKHON ACADEMY",
+                        "name_bn":  "মেমোরী কম্পিউটার প্রশিক্ষণ একাডেমি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Bagerhat",
+                        "thana":  "Mongla",
+                        "address":  "DIGRAJ",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01729995556"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-bagerhat",
+                                          "thana_id":  "BD-THANA-khulna-bagerhat-mongla",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135724"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\bagerhat\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

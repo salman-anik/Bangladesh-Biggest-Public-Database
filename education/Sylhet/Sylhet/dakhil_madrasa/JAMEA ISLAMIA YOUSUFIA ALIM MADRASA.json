@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130386",
+  "institution": {
+    "eiin": "130386",
+    "name": "JAMEA ISLAMIA YOUSUFIA ALIM MADRASA",
+    "name_bn": "জামেয়া ইসলামিয়া ইউসুফিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Kanaighat",
+    "address": "TALBARI",
+    "post_office": "Ranaping",
+    "mobiles": [
+      "01877529163",
+      "01712855589"
+    ],
+    "other_phones": [],
+    "email": "jameayousufia@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "JAMEA ISLAMIA YOUSUFIA DAKHIL MADRASA"
+      ],
+      "post_offices": [
+        "TALBARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-kanaighat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130386"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Dhaka Bar Association Member Directory",
+  "description": "Hierarchical database of Dhaka Bar Association members organized by Division > District > Status (Active, Dead, Defaulter, Transferred, Suspended, Retired, Cancel, Justice, Inactive).",
+  "version": "2.0.0",
+  "total_members": 34591,
+  "divisions_count": 8,
+  "districts_count": 65,
+  "structure": {
+    "hierarchy_file": "hierarchy.json",
+    "hierarchy_summary_file": "hierarchy_summary.json",
+    "members_master_file": "dhaka_bar_association_members.json",
+    "divisions_directory": "divisions/<Division>/<District>/<status>.json",
+    "web_viewer": "index.html"
+  },
+  "divisions_summary": {
+    "Chattogram": 1315,
+    "Rajshahi": 545,
+    "Dhaka": 30166,
+    "Khulna": 723,
+    "Mymensingh": 428,
+    "Barishal": 802,
+    "Sylhet": 97,
+    "Rangpur": 515
+  },
+  "status_definitions": {
+    "active": "Active Member in good standing",
+    "dead": "Deceased members (Marhum/Late)",
+    "defaulter": "Defaulter members with pending bar dues",
+    "inactive": "Inactive members",
+    "suspended": "Suspended membership",
+    "sanad_suspended": "Bar Council Sanad suspended",
+    "transferred": "Transferred to another Bar Association",
+    "retired": "Retired advocates",
+    "cancel": "Cancelled memberships",
+    "justice": "Elevated to Judiciary / Honorable Judges"
+  }
+}

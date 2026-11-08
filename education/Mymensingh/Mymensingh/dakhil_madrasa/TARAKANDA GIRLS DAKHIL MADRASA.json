@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "131671",
+  "institution": {
+    "eiin": "131671",
+    "name": "TARAKANDA GIRLS DAKHIL MADRASA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Tarakanda",
+    "address": "TARAKANDA",
+    "post_office": "TARAKANDA",
+    "mobiles": [
+      "01770665899",
+      "01714980260"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Mymensingh",
+          "district": "Mymensingh",
+          "thana": "Phulpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-tarakanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-131671"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

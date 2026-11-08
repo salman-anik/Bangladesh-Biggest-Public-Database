@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139808",
+                        "name":  "SUNAMGANJ SCIENCE AND TECHNOLOGY UNIVERSITY",
+                        "name_bn":  "সুনামগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Sylhet",
+                        "district":  "Sunamganj",
+                        "thana":  "Sunamganj Sadar",
+                        "address":  null,
+                        "post_office":  "Sunamganj Sadar",
+                        "mobiles":  [
+                                        "01743117678"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@sstu.ac.bd",
+                        "management":  "AUTONOMOUS",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-sunamganj",
+                                          "thana_id":  "BD-THANA-sylhet-sunamganj-sunamganj-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-139808"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\sunamganj\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

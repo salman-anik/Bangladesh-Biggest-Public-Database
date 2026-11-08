@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133350",
+                        "name":  "MADARIPUR TEACGERS TRAINING COLLEGE",
+                        "name_bn":  "মাদারীপুর টিচার্স ট্রেনিং কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Madaripur",
+                        "thana":  "Madaripur Sadar",
+                        "address":  "KULPADDI BAKULTALA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718884739"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-madaripur",
+                                          "thana_id":  "BD-THANA-dhaka-madaripur-madaripur-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133350"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\madaripur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123295",
+  "institution": {
+    "eiin": "123295",
+    "name": "CHAKMANIK &CHAK SREEKRISNA DAKHIL MADRASHA",
+    "name_bn": "চকমানিক ও চকশ্রীকৃষ্ণ দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "RAMNAGAR",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01714944279"
+    ],
+    "other_phones": [],
+    "email": "md123295@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAMNAGAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123295"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

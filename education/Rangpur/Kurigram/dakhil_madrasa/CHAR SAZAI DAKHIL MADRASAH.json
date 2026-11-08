@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "122143",
+  "institution": {
+    "eiin": "122143",
+    "name": "CHAR SAZAI DAKHIL MADRASAH",
+    "name_bn": "চরসাজাই দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "thana": "Char Rajibpur",
+    "address": "CHAR SAZAI",
+    "post_office": "Rajibpur",
+    "mobiles": [
+      "01715518063"
+    ],
+    "other_phones": [],
+    "email": "abuazad77@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KODAL KATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-kurigram",
+      "thana_id": "BD-THANA-rangpur-kurigram-char-rajibpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-122143"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

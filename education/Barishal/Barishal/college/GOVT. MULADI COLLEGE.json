@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101013",
+  "institution": {
+    "eiin": "101013",
+    "name": "GOVT. MULADI COLLEGE",
+    "name_bn": "মুলাদী সরকারি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Muladi",
+    "address": "TERACHAR",
+    "post_office": "Muladi",
+    "mobiles": [
+      "01716478348"
+    ],
+    "other_phones": [],
+    "email": "muladicollege@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "MULADI COLLEGE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-muladi",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-101013"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

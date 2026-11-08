@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132956",
+                        "name":  "CHAKNAZIRPUR VOCATIONAL AND BUSINESS MANAGEMENT INSTIUTE",
+                        "name_bn":  "চকনাজিরপুর ভোকেশনাল এন্ড বিজনেজ ম্যানেজমেনট ইন্সটিটিঊট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Natore",
+                        "thana":  "Lalpur",
+                        "address":  "CHAKNAZIRPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716345570"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-natore",
+                                          "thana_id":  "BD-THANA-rajshahi-natore-lalpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132956"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\natore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

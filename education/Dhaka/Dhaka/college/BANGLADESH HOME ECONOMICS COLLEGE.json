@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107982",
+  "institution": {
+    "eiin": "107982",
+    "name": "BANGLADESH HOME ECONOMICS COLLEGE",
+    "name_bn": "বাংলাদেশ গার্হস্থ্য অর্থনীতি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Sher-E-Bangla Nagar",
+    "address": "146/4 GREEN ROAD",
+    "post_office": null,
+    "mobiles": [
+      "01789056545",
+      "01715061369"
+    ],
+    "other_phones": [],
+    "email": "bhec9141333@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Dhanmondi",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-sher-e-bangla-nagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-107982"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

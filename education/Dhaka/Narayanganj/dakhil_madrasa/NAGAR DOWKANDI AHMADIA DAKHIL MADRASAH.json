@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112323",
+  "institution": {
+    "eiin": "112323",
+    "name": "NAGAR DOWKANDI AHMADIA DAKHIL MADRASAH",
+    "name_bn": "নগর ডৌকাদী আহমদিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Araihazar",
+    "address": "NAGAR DOWKADI / 191",
+    "post_office": "Kathalia",
+    "mobiles": [
+      "01728927316",
+      "01712627573"
+    ],
+    "other_phones": [],
+    "email": "eiinm112323@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "OTHER POURA AREAS",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "NAGAR DOWKADI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-araihazar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112323"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

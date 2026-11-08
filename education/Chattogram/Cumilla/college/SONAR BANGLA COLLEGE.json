@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105330",
+  "institution": {
+    "eiin": "105330",
+    "name": "SONAR BANGLA COLLEGE",
+    "name_bn": "সোনার বাংলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Burichang",
+    "address": "7980",
+    "post_office": "Comilla Sadar",
+    "mobiles": [
+      "01711167895"
+    ],
+    "other_phones": [],
+    "email": "sbccomilla@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-burichang",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-105330"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

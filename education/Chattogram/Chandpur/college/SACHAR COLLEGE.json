@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103835",
+  "institution": {
+    "eiin": "103835",
+    "name": "SACHAR COLLEGE",
+    "name_bn": "সাচার ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "thana": "Kachua",
+    "address": "SACHAR",
+    "post_office": "Shachar",
+    "mobiles": [
+      "01813767933",
+      "01816007667"
+    ],
+    "other_phones": [],
+    "email": "sacharcollege_bm@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chandpur",
+      "thana_id": "BD-THANA-chattogram-chandpur-kachua",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-103835"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108314",
+  "institution": {
+    "eiin": "108314",
+    "name": "KAILAIL HANAFIA DAKHIL MADRASAH",
+    "name_bn": "কৈলাইল হানাফিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Nawabganj",
+    "address": "KAILAIL",
+    "post_office": "Nawabganj",
+    "mobiles": [
+      "01835087114"
+    ],
+    "other_phones": [],
+    "email": "khdmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KAILAIL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-nawabganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108314"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

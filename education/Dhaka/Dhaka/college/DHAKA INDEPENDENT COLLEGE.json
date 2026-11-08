@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "137670",
+  "institution": {
+    "eiin": "137670",
+    "name": "DHAKA INDEPENDENT COLLEGE",
+    "name_bn": "ঢাকা ইন্ডিপেনডেন্ট কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Mirpur",
+    "address": "103/2 GREEN ROAD",
+    "post_office": "Tejgaon TSO",
+    "mobiles": [
+      "01768385949"
+    ],
+    "other_phones": [],
+    "email": "dhakaindependentcollege6@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Tejgaon",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-mirpur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-137670"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

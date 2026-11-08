@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111607",
+  "institution": {
+    "eiin": "111607",
+    "name": "BAMONKHALI ALIM MADRASA",
+    "name_bn": "বামনখালী আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gaffargaon",
+    "address": "BAMONKHALI",
+    "post_office": "Kandipara",
+    "mobiles": [
+      "01626105852",
+      "01814352520"
+    ],
+    "other_phones": [],
+    "email": "bamonkhalialimmad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BASHIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gaffargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111607"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

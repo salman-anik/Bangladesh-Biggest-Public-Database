@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "124027",
+  "institution": {
+    "eiin": "124027",
+    "name": "PURULIA DARUL ULUM DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Gurudaspur",
+    "address": "PURULIA",
+    "post_office": "PURULIA",
+    "mobiles": [
+      "01721516517"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-gurudaspur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-124027"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

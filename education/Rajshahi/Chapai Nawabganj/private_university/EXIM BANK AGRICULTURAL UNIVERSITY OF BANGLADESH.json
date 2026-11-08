@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136700",
+                        "name":  "EXIM BANK AGRICULTURAL UNIVERSITY OF BANGLADESH",
+                        "name_bn":  "এক্সিম ব্যাংক কৃ্ষি বিশ্ববিদ্যালয় বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rajshahi",
+                        "district":  "Chapai Nawabganj",
+                        "thana":  "Chapai Nawabganj Sadar",
+                        "address":  "SAGAR TOWAR, HOUSE-69/69/1 BORO INDARA MOOR",
+                        "post_office":  "Chapai Nawabganj Sadar",
+                        "mobiles":  [
+                                        "01711653826",
+                                        "01721309228"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@ebaub.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-chapai-nawabganj",
+                                          "thana_id":  "BD-THANA-rajshahi-chapai-nawabganj-chapai-nawabganj-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136700"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\chapai-nawabganj\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

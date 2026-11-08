@@ -1,0 +1,52 @@
+{
+  "district": "Chapai Nawabganj",
+  "administration": {
+    "district": "Chapai Nawabganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chapai Nawabganj",
+      "phone": "01713-000036",
+      "email": "dcchapainawabganj@mopa.gov.bd",
+      "website": "http://www.chapainawabganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chapai Nawabganj",
+      "phone": "01713-373036",
+      "email": "spchapainawabganj@police.gov.bd",
+      "control_room": "01713-374036"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chapai Nawabganj",
+      "phone": "01713-555036",
+      "email": "cschapainawabganj@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-49",
+      "name": "Chapai Nawabganj Sadar Police Station",
+      "bn_name": "Chapai Nawabganj সদর থানা",
+      "unit": "Chapai Nawabganj District Police",
+      "division": "General",
+      "district": "Chapai Nawabganj",
+      "address": "Court Building Road, Sadar, Chapai Nawabganj",
+      "oc_mobile": "01713-374049",
+      "duty_officer": "01713-399049",
+      "tnt": "02-770049",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-040",
+      "name": "Chapai Nawabganj Fire Station & Civil Defence",
+      "bn_name": "Chapai Nawabganj ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Chapai Nawabganj",
+      "address": "Sadar, Chapai Nawabganj",
+      "hotline": "16163",
+      "emergency_phone": "02-9988040",
+      "mobile": "01713-038040",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

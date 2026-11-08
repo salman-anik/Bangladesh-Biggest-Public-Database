@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105963",
+  "institution": {
+    "eiin": "105963",
+    "name": "RAHMANIA CHIRA SABUJ HIGH SCHOOL AND COLLEGE",
+    "name_bn": "রহমানিয়া চির সবুজ উচ্চ বিদ্যালয় ও কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Lalmai",
+    "address": "BIZRA",
+    "post_office": "Comilla Sadar",
+    "mobiles": [
+      "01712288590",
+      "01711380854"
+    ],
+    "other_phones": [],
+    "email": "chirosabuj66@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Cumilla",
+          "thana": "Laksam",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-lalmai",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-105963"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114668",
+  "institution": {
+    "eiin": "114668",
+    "name": "BERBARI DAKHIL MADRASHA",
+    "name_bn": "বেড়বাড়ী দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Sakhipur",
+    "address": "BERBARI",
+    "post_office": "Sakhipur",
+    "mobiles": [
+      "01787100970"
+    ],
+    "other_phones": [],
+    "email": "kamruzzaman@brbdm.edu.bd",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BERBARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-sakhipur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114668"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

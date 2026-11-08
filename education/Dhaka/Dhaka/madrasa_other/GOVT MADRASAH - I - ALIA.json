@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108151",
+  "institution": {
+    "eiin": "108151",
+    "name": "GOVT MADRASAH - I - ALIA",
+    "name_bn": "সরকারি মাদ্রাসা-ই- আলিয়া",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Chak Bazar",
+    "address": "ORPHANAGE ROAD",
+    "post_office": "Posta TSO",
+    "mobiles": [
+      "01711204975",
+      "01710908686",
+      "01764283764"
+    ],
+    "other_phones": [],
+    "email": "malia1780dhaka@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "ORFANEZ ROAD"
+      ],
+      "post_offices": [
+        "POSTA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-chak-bazar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108151"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

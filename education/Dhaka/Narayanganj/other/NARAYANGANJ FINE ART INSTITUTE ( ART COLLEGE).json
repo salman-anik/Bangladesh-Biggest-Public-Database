@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133087",
+                        "name":  "NARAYANGANJ FINE ART INSTITUTE ( ART COLLEGE)",
+                        "name_bn":  "নারায়ণগঞ্জ চারুকলা ইনস্টিটিউ (আর্ট কলেজ)",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Narayanganj",
+                        "thana":  "Narayanganj Sadar",
+                        "address":  "DAYBOK, PAKKA ROAD, NARAYANGANJ",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01715332005"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "NARAYANGONJ FINE ART INSTITUTE ART COLLEGE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-narayanganj",
+                                          "thana_id":  "BD-THANA-dhaka-narayanganj-narayanganj-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133087"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\narayanganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

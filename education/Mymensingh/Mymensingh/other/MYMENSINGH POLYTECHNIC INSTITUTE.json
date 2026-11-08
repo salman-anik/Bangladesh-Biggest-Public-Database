@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133223",
+                        "name":  "MYMENSINGH POLYTECHNIC INSTITUTE",
+                        "name_bn":  "ময়মনসিংহ পলিটেকনিক ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Mymensingh",
+                        "thana":  "Mymensingh Sadar",
+                        "address":  "167",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01715133708",
+                                        "01715133710"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "MYMENSINGH POLYTENIC INSTITUTE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-mymensingh",
+                                          "thana_id":  "BD-THANA-mymensingh-mymensingh-mymensingh-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133223"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\mymensingh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,59 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136645",
+                        "name":  "CITY UNIVERSITY",
+                        "name_bn":  "সিটি ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Savar",
+                        "address":  "13/A PANTHAPATH, DHAKA-1215",
+                        "post_office":  "Mirpur TSO",
+                        "mobiles":  [
+                                        "01715343445"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@cityuniversity.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  null,
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Dhaka",
+                                                                 "thana":  "Tejgaon",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-savar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136645"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

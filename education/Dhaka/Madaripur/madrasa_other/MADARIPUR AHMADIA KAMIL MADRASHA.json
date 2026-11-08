@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110775",
+  "institution": {
+    "eiin": "110775",
+    "name": "MADARIPUR AHMADIA KAMIL MADRASHA",
+    "name_bn": "মাদারীপুর আহমাদিয়া কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "thana": "Madaripur Sadar",
+    "address": "KUKRIL, MADARIPUR, SHAHED ABDUL SATTAR ROAD",
+    "post_office": "Madaripur Sadar",
+    "mobiles": [
+      "01724401994",
+      "01931616129"
+    ],
+    "other_phones": [],
+    "email": "madaripurakm1949@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "SHAHED ABDUL SATTAR ROAD"
+      ],
+      "post_offices": [
+        "MADARIPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-madaripur",
+      "thana_id": "BD-THANA-dhaka-madaripur-madaripur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110775"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

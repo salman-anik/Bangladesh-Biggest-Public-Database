@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104482",
+  "institution": {
+    "eiin": "104482",
+    "name": "SIKALBAHA OHIDIA SENIOR MADRASHA",
+    "name_bn": "শিকলবাহা অহিদিয়া ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Karnaphuli Upazila",
+    "address": "SHIKOLBAHA",
+    "post_office": "Budhpara",
+    "mobiles": [
+      "01815819486",
+      "01830164460",
+      "01820192752"
+    ],
+    "other_phones": [],
+    "email": "swmadrasah1890@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KALARPOLE"
+      ],
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Chattogram",
+          "thana": "Patiya",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-karnaphuli-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104482"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133471",
+                        "name":  "KAMLAPUR P.T.I CHUADANGA",
+                        "name_bn":  "কমলাপুর পিটিআই, চুয়াডাঙ্গা",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Chuadanga",
+                        "thana":  "Alamdanga",
+                        "address":  "NILMONIGONJ",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01719129189"
+                                    ],
+                        "other_phones":  [
+                                             "076164255"
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-chuadanga",
+                                          "thana_id":  "BD-THANA-khulna-chuadanga-alamdanga",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133471"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\chuadanga\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

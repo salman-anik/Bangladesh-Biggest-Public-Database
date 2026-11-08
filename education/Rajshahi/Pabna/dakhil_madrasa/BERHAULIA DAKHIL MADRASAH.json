@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "125484",
+  "institution": {
+    "eiin": "125484",
+    "name": "BERHAULIA DAKHIL MADRASAH",
+    "name_bn": "বেড়হাউলিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "thana": "Faridpur",
+    "address": "BERHOWLIA",
+    "post_office": "Banwarinagar",
+    "mobiles": [
+      "01747870021"
+    ],
+    "other_phones": [],
+    "email": "bdm125484@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BERHAULIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-pabna",
+      "thana_id": "BD-THANA-rajshahi-pabna-faridpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-125484"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

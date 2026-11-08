@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101381",
+  "institution": {
+    "eiin": "101381",
+    "name": "HAMIDPUR HAMIDIA DAKHIL MADRASHA",
+    "name_bn": "হামিদপুর হামিদিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Char Fasson",
+    "address": "HAMIDPUR",
+    "post_office": "Keramatganj",
+    "mobiles": [
+      "01714795810"
+    ],
+    "other_phones": [],
+    "email": "hhdm101381@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-char-fasson",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101381"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

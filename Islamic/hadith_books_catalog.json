@@ -1,0 +1,162 @@
+[
+  {
+    "code": "bukhari",
+    "name": "Sahih al-Bukhari",
+    "compiler": "Imam Muhammad al-Bukhari (194-256 AH)",
+    "total_hadith": 7563,
+    "grade": "Sahih (Highest Authentic)",
+    "chapters": 97,
+    "language": "Arabic, English, Bangla",
+    "description": "The most authentic book of Hadith after the Quran."
+  },
+  {
+    "code": "muslim",
+    "name": "Sahih Muslim",
+    "compiler": "Imam Muslim ibn al-Hajjaj (204-261 AH)",
+    "total_hadith": 7500,
+    "grade": "Sahih (Authentic)",
+    "chapters": 57,
+    "language": "Arabic, English, Bangla",
+    "description": "Renowned for rigorous chain of narration (Isnad) and thematic order."
+  },
+  {
+    "code": "tirmidhi",
+    "name": "Jami' at-Tirmidhi",
+    "compiler": "Imam Abu Isa Muhammad at-Tirmidhi (209-279 AH)",
+    "total_hadith": 3956,
+    "grade": "Sunan / Hasan-Sahih",
+    "chapters": 49,
+    "language": "Arabic, English, Bangla",
+    "description": "Famous for grading hadiths (Sahih, Hasan, Da'if) and legal commentaries."
+  },
+  {
+    "code": "abudawud",
+    "name": "Sunan Abi Dawud",
+    "compiler": "Imam Abu Dawud Sulayman (202-275 AH)",
+    "total_hadith": 5274,
+    "grade": "Sunan (Fiqh Focus)",
+    "chapters": 43,
+    "language": "Arabic, English",
+    "description": "Focuses primarily on legal traditions and jurisprudence (Ahadith al-Ahkam)."
+  },
+  {
+    "code": "nasai",
+    "name": "Sunan an-Nasa'i (Al-Mujtaba)",
+    "compiler": "Imam Ahmad an-Nasa'i (215-303 AH)",
+    "total_hadith": 5758,
+    "grade": "Sunan",
+    "chapters": 52,
+    "language": "Arabic, English",
+    "description": "Highest standard of narration scrutiny among the four Sunan collections."
+  },
+  {
+    "code": "ibnmajah",
+    "name": "Sunan Ibn Majah",
+    "compiler": "Imam Ibn Majah (209-273 AH)",
+    "total_hadith": 4341,
+    "grade": "Sunan",
+    "chapters": 38,
+    "language": "Arabic, English",
+    "description": "Completes the Kutub al-Sittah (The Six Major Books), renowned for rich legal topics."
+  },
+  {
+    "code": "malik",
+    "name": "Muwatta Malik",
+    "compiler": "Imam Malik ibn Anas (93-179 AH)",
+    "total_hadith": 1858,
+    "grade": "Early Classical Hadith & Fiqh",
+    "chapters": 61,
+    "language": "Arabic, English",
+    "description": "Earliest surviving text recording early Medina practices and legal traditions."
+  },
+  {
+    "code": "ahmed",
+    "name": "Musnad Ahmad ibn Hanbal",
+    "compiler": "Imam Ahmad ibn Hanbal (164-241 AH)",
+    "total_hadith": 27647,
+    "grade": "Musnad Comprehensive",
+    "chapters": 8,
+    "language": "Arabic, English",
+    "description": "One of the largest compilations of Hadith arranged by Sahabi narrators."
+  },
+  {
+    "code": "darimi",
+    "name": "Sunan ad-Darimi",
+    "compiler": "Imam Abdullah ad-Darimi (181-255 AH)",
+    "total_hadith": 3500,
+    "grade": "Sunan",
+    "chapters": 24,
+    "language": "Arabic, English",
+    "description": "Authoritative early hadith work often counted in place of Ibn Majah."
+  },
+  {
+    "code": "riyad_assalihin",
+    "name": "Riyad as-Salihin (Meadows of the Righteous)",
+    "compiler": "Imam an-Nawawi (631-676 AH)",
+    "total_hadith": 1896,
+    "grade": "Morals & Character (Akhlaq)",
+    "chapters": 20,
+    "language": "Arabic, English, Bangla",
+    "description": "Most widely read collection of hadiths on ethics, manners, and daily worship."
+  },
+  {
+    "code": "aladab_almufrad",
+    "name": "Al-Adab al-Mufrad",
+    "compiler": "Imam al-Bukhari",
+    "total_hadith": 1322,
+    "grade": "Islamic Etiquette & Manners",
+    "chapters": 57,
+    "language": "Arabic, English",
+    "description": "Comprehensive treatise solely dedicated to personal conduct, family relations, and manners."
+  },
+  {
+    "code": "bulugh_almaram",
+    "name": "Bulugh al-Maram min Adillat al-Ahkam",
+    "compiler": "Ibn Hajar al-Asqalani (773-852 AH)",
+    "total_hadith": 1596,
+    "grade": "Legal Evidence / Fiqh",
+    "chapters": 16,
+    "language": "Arabic, English",
+    "description": "Standard reference for hadith evidence supporting Islamic Jurisprudence."
+  },
+  {
+    "code": "mishkat_almasabih",
+    "name": "Mishkat al-Masabih",
+    "compiler": "Al-Khatib at-Tabrizi",
+    "total_hadith": 5945,
+    "grade": "Comprehensive Anthology",
+    "chapters": 25,
+    "language": "Arabic, English",
+    "description": "Expanded version of Masabih al-Sunnah, popular in South Asian Madaris."
+  },
+  {
+    "code": "shamail_muhammadiyah",
+    "name": "Ash-Shama'il al-Muhammadiyyah",
+    "compiler": "Imam at-Tirmidhi",
+    "total_hadith": 399,
+    "grade": "Biography & Persona",
+    "chapters": 57,
+    "language": "Arabic, English",
+    "description": "Dedicated to describing the physical attributes, character, and daily life of Prophet Muhammad (ﷺ)."
+  },
+  {
+    "code": "forty_nawawi",
+    "name": "Forty Hadith of Imam Nawawi",
+    "compiler": "Imam an-Nawawi",
+    "total_hadith": 42,
+    "grade": "Foundational Principles",
+    "chapters": 1,
+    "language": "Arabic, English, Bangla",
+    "description": "Essential collection summarizing the foundational pillars and worldview of Islam."
+  },
+  {
+    "code": "qudsi40",
+    "name": "Forty Hadith Qudsi",
+    "compiler": "Classical Scholars",
+    "total_hadith": 40,
+    "grade": "Sacred Hadith (Divine Speech)",
+    "chapters": 1,
+    "language": "Arabic, English",
+    "description": "Hadiths where the Prophet narrates revelations directly expressed by Allah."
+  }
+]

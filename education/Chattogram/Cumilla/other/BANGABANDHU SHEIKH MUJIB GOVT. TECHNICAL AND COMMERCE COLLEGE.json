@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132688",
+                        "name":  "BANGABANDHU SHEIKH MUJIB GOVT. TECHNICAL AND COMMERCE COLLEGE",
+                        "name_bn":  "বঙ্গবন্ধু শেখ মুজিব সরকারি টেকনিক্যাল এন্ড কমার্স কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Cumilla",
+                        "thana":  "Nangalkot",
+                        "address":  "RAMERBAGH",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01814731806",
+                                        "01716125378"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BANGABANDHU SHEIKH MUJIB TECHNICAL AND COMMERCE COLLEGE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-cumilla",
+                                          "thana_id":  "BD-THANA-chattogram-cumilla-nangalkot",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132688"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\cumilla\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

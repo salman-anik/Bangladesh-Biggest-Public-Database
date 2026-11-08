@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100280",
+  "institution": {
+    "eiin": "100280",
+    "name": "KAZIRABAD ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "কাজিরাবাদ ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Betagi",
+    "address": "KAZIRABAD",
+    "post_office": "Bamna",
+    "mobiles": [
+      "01725010847",
+      "01751009876",
+      "01725101847"
+    ],
+    "other_phones": [],
+    "email": "kazirabadislamia@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KAZIRABAD"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-betagi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100280"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

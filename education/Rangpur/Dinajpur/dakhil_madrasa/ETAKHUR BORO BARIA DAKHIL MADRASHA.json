@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120913",
+  "institution": {
+    "eiin": "120913",
+    "name": "ETAKHUR BORO BARIA DAKHIL MADRASHA",
+    "name_bn": "ইটাখুর বড় বাড়িয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Nawabganj",
+    "address": "7585",
+    "post_office": "Daudpur",
+    "mobiles": [
+      "01719750180"
+    ],
+    "other_phones": [],
+    "email": "ebdm120913@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BORO BARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-nawabganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120913"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

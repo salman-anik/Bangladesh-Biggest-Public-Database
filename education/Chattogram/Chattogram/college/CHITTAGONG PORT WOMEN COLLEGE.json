@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "eiin": "138384",
+  "institution": {
+    "eiin": "138384",
+    "name": "CHITTAGONG PORT WOMEN COLLEGE",
+    "name_bn": "চট্টগ্রাম বন্দর মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Chittagong Port",
+    "address": null,
+    "post_office": "Bagabandar",
+    "mobiles": [
+      "01531117886"
+    ],
+    "other_phones": [],
+    "email": "cpwomencollege@gmail.com",
+    "management": "AUTONOMOUS",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-chittagong-port",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-138384"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,52 @@
+{
+  "district": "Meherpur",
+  "administration": {
+    "district": "Meherpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Meherpur",
+      "phone": "01713-000044",
+      "email": "dcmeherpur@mopa.gov.bd",
+      "website": "http://www.meherpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Meherpur",
+      "phone": "01713-373044",
+      "email": "spmeherpur@police.gov.bd",
+      "control_room": "01713-374044"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Meherpur",
+      "phone": "01713-555044",
+      "email": "csmeherpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-57",
+      "name": "Meherpur Sadar Police Station",
+      "bn_name": "Meherpur সদর থানা",
+      "unit": "Meherpur District Police",
+      "division": "General",
+      "district": "Meherpur",
+      "address": "Court Building Road, Sadar, Meherpur",
+      "oc_mobile": "01713-374057",
+      "duty_officer": "01713-399057",
+      "tnt": "02-770057",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-048",
+      "name": "Meherpur Fire Station & Civil Defence",
+      "bn_name": "Meherpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Meherpur",
+      "address": "Sadar, Meherpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988048",
+      "mobile": "01713-038048",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

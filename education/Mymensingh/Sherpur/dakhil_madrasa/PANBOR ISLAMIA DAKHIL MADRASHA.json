@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113707",
+  "institution": {
+    "eiin": "113707",
+    "name": "PANBOR ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "পানবর ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "thana": "Jhenaigati",
+    "address": "PANBOR",
+    "post_office": "AYNAPUR",
+    "mobiles": [
+      "01927955604"
+    ],
+    "other_phones": [],
+    "email": "madpidm113707@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-sherpur",
+      "thana_id": "BD-THANA-mymensingh-sherpur-jhenaigati",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113707"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

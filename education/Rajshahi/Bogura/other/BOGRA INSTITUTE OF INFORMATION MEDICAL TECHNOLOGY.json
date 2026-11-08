@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135335",
+                        "name":  "BOGRA INSTITUTE OF INFORMATION MEDICAL TECHNOLOGY",
+                        "name_bn":  "বগুড়া ইন্সটিটিউট অব ইনফরমেশন মেডিকেল টেকনোলজি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Bogura",
+                        "thana":  "Shajahanpur",
+                        "address":  "KOIGARI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01717426521"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-bogura",
+                                          "thana_id":  "BD-THANA-rajshahi-bogura-shajahanpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135335"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\bogura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140528",
+                        "name":  "BAITUSH SHARAF SHAH JABBARIA ADARSHA DAKHIL MADRASHA",
+                        "name_bn":  "বায়তুশ শরফ শাহ্ জব্বারিয়া আদর্শ দাখিল মাদ্রাসা",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Patiya",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01717033093"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-patiya",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140528"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104455",
+  "institution": {
+    "eiin": "104455",
+    "name": "CHIPATALI JAMIA GAUSIA MUINIA KAMIL MADRASAH",
+    "name_bn": "ছিপাতলী জামেয়া গাউছিয়া মূঈনীয়া কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Hathazari",
+    "address": "CHIPATALI",
+    "post_office": "Hathazari",
+    "mobiles": [
+      "01819337854"
+    ],
+    "other_phones": [],
+    "email": "chipa_jgmkm@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GAUSIA MADRASHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-hathazari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104455"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

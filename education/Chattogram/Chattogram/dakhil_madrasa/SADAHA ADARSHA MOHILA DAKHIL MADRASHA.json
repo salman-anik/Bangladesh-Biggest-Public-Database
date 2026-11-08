@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105030",
+  "institution": {
+    "eiin": "105030",
+    "name": "SADAHA ADARSHA MOHILA DAKHIL MADRASHA",
+    "name_bn": "ছদাহা আদর্শ মহিলা দাখিল মাদ্রাসা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Satkania",
+    "address": "SADAHA",
+    "post_office": "Padua",
+    "mobiles": [
+      "01624690362",
+      "01814782526"
+    ],
+    "other_phones": [],
+    "email": "samdmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SADAHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-satkania",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105030"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

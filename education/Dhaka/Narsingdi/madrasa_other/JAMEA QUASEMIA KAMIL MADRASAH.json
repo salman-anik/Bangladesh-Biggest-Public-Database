@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112705",
+  "institution": {
+    "eiin": "112705",
+    "name": "JAMEA QUASEMIA KAMIL MADRASAH",
+    "name_bn": "জামেয়া কাসেমিয়া কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Narsingdi Sadar",
+    "address": "PURAN PARA",
+    "post_office": "Narsingdi Sadar",
+    "mobiles": [
+      "01706021046"
+    ],
+    "other_phones": [],
+    "email": "jameaquasemia@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAMEA QUASEMIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-narsingdi-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112705"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110425",
+  "institution": {
+    "eiin": "110425",
+    "name": "BHITIPARA IBRAHIMIA DAKHIL MADRASHA",
+    "name_bn": "ভিটিপাড়া ইব্রাহিমীয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Katiadi",
+    "address": "BHITIPARA",
+    "post_office": "Maizhati",
+    "mobiles": [
+      "01724293571",
+      "01718519658"
+    ],
+    "other_phones": [
+      "1724293"
+    ],
+    "email": "madrasah110425@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MAIJHATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-katiadi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110425"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "127742",
+  "institution": {
+    "eiin": "127742",
+    "name": "PASCHIM DEBU DAKHIL MADRASAH",
+    "name_bn": "পশ্চিমদেবু দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "thana": "Pirgachha",
+    "address": "PASCHIM DEBU",
+    "post_office": "Pirgachha",
+    "mobiles": [
+      "01720102917"
+    ],
+    "other_phones": [],
+    "email": "pdm127742@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-rangpur",
+      "thana_id": "BD-THANA-rangpur-rangpur-pirgachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-127742"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

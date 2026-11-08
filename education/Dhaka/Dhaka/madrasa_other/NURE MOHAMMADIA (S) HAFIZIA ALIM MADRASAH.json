@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108380",
+  "institution": {
+    "eiin": "108380",
+    "name": "NURE MOHAMMADIA (S) HAFIZIA ALIM MADRASAH",
+    "name_bn": "নূরে মোহাম্মাদিয়া (স.) হাফিজিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Sabujbagh",
+    "address": "KADAMTALA ROAD",
+    "post_office": "Basabo TSO",
+    "mobiles": [
+      "01720010940",
+      "01714296326"
+    ],
+    "other_phones": [],
+    "email": "nmham17@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "DARUL ISLAM ALIM MADRASAH"
+      ],
+      "post_offices": [
+        "BASABO"
+      ],
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Shahbagh",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-sabujbagh",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108380"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

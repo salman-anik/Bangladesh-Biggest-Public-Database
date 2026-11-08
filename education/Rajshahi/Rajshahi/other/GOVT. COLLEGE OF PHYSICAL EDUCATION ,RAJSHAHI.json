@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133526",
+                        "name":  "GOVT. COLLEGE OF PHYSICAL EDUCATION ,RAJSHAHI",
+                        "name_bn":  "সরকারি শারীরিক শিক্ষা কলেজ, রাজশাহী",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Rajshahi",
+                        "thana":  "Shah Makhdum",
+                        "address":  "POBAPARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712206820",
+                                        "01712206825"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-rajshahi",
+                                          "thana_id":  "BD-THANA-rajshahi-rajshahi-shah-makhdum",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133526"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\rajshahi\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

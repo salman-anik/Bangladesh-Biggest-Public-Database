@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112165",
+  "institution": {
+    "eiin": "112165",
+    "name": "SONCHUR BALIKA DAKIL MADRASAH",
+    "name_bn": "সঞ্চুর বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Phulpur",
+    "address": "SONCHUR",
+    "post_office": "Phulpur",
+    "mobiles": [
+      "01799755161"
+    ],
+    "other_phones": [],
+    "email": "sanchurbdmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-phulpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112165"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

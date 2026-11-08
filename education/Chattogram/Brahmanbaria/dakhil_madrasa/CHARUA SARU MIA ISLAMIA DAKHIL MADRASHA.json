@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103375",
+  "institution": {
+    "eiin": "103375",
+    "name": "CHARUA SARU MIA ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "চারুয়া সরুমিয়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "thana": "Kasba",
+    "address": "CHARUA",
+    "post_office": "MANDABAG BAZAR",
+    "mobiles": [
+      "01731771186"
+    ],
+    "other_phones": [],
+    "email": "charuasmidmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-brahmanbaria",
+      "thana_id": "BD-THANA-chattogram-brahmanbaria-kasba",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103375"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

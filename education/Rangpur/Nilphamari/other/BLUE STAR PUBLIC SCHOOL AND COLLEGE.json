@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140403",
+                        "name":  "BLUE STAR PUBLIC SCHOOL AND COLLEGE",
+                        "name_bn":  "ব্লু স্টার পাবলিক স্কুল এণ্ড কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Nilphamari",
+                        "thana":  "Domar Upazila",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01723202020"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-nilphamari",
+                                          "thana_id":  "BD-THANA-rangpur-nilphamari-domar-upazila",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140403"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\nilphamari\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111709",
+  "institution": {
+    "eiin": "111709",
+    "name": "KAWRAT AKBER ALI DHAKHIL MADRASAH",
+    "name_bn": "কাউরাট আকবর আলী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gauripur",
+    "address": "KAWRAT",
+    "post_office": "Shamgonj",
+    "mobiles": [
+      "01715547632"
+    ],
+    "other_phones": [],
+    "email": "kawrat111709@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GOBINDAPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gauripur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111709"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

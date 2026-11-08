@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132970",
+                        "name":  "TEXTILE VOCATIONAL INSTITUTE",
+                        "name_bn":  "টেক্সটাইল ভোকেশনাল ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Gaibandha",
+                        "thana":  "Gaibandha Sadar",
+                        "address":  "ADARSHA PARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01911539745"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-gaibandha",
+                                          "thana_id":  "BD-THANA-rangpur-gaibandha-gaibandha-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132970"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\gaibandha\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

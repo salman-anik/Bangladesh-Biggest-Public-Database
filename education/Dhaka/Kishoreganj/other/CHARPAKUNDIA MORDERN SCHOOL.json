@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140354",
+                        "name":  "CHARPAKUNDIA MORDERN SCHOOL",
+                        "name_bn":  "চরপাকুন্দিয়া মর্ডান স্কুল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Kishoreganj",
+                        "thana":  "Pakundia",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01603477448"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-kishoreganj",
+                                          "thana_id":  "BD-THANA-dhaka-kishoreganj-pakundia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140354"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\kishoreganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

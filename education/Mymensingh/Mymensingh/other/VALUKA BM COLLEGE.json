@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136124",
+                        "name":  "VALUKA BM COLLEGE",
+                        "name_bn":  "ভালুকা বি এম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Mymensingh",
+                        "thana":  "Bhaluka",
+                        "address":  "DHAKA MYMENSINGH ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01753175793"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-mymensingh",
+                                          "thana_id":  "BD-THANA-mymensingh-mymensingh-bhaluka",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136124"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\mymensingh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

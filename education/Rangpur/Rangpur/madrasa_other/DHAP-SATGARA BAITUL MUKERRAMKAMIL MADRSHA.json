@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "127450",
+  "institution": {
+    "eiin": "127450",
+    "name": "DHAP-SATGARA BAITUL MUKERRAMKAMIL MADRSHA",
+    "name_bn": "ধাপ-সাতগাড়া বায়তুল মুকাররম মডেল কামিল মাদ্রাসা, রংপুর।",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "thana": "Rangpur Sadar",
+    "address": "KHALIPHAPARA",
+    "post_office": "Rangpur Upa-Shahar",
+    "mobiles": [
+      "01712841672",
+      "01556335962"
+    ],
+    "other_phones": [],
+    "email": "satgara_model@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KHALIPA PARA"
+      ],
+      "post_offices": [
+        "SATGARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-rangpur",
+      "thana_id": "BD-THANA-rangpur-rangpur-rangpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-127450"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

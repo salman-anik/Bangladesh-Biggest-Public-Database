@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112628",
+  "institution": {
+    "eiin": "112628",
+    "name": "MONOHARDI DARUL ISLAM DAKHIL MADRASAH",
+    "name_bn": "মনোহরদী দারুল ইসলাম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Manohardi",
+    "address": "MONOHARDI",
+    "post_office": "Monohordi",
+    "mobiles": [
+      "01710004700",
+      "01717277973"
+    ],
+    "other_phones": [
+      "0167841225"
+    ],
+    "email": "monohardididm007@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "MONO DRDI"
+      ],
+      "post_offices": [
+        "MONOHARDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-manohardi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112628"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

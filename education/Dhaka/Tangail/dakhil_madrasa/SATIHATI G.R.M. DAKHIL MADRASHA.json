@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114341",
+  "institution": {
+    "eiin": "114341",
+    "name": "SATIHATI G.R.M. DAKHIL MADRASHA",
+    "name_bn": "ছাতিহাটি গ. র. ম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Kalihati",
+    "address": "SATIHATI",
+    "post_office": "SATIHATI",
+    "mobiles": [
+      "01718744332"
+    ],
+    "other_phones": [],
+    "email": "satihatigram@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-kalihati",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114341"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

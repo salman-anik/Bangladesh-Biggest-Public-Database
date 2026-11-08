@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102566",
+  "institution": {
+    "eiin": "102566",
+    "name": "DHARANDI NESARI DAKHIL MADRASAH",
+    "name_bn": "ধরান্দি নেছারিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Patuakhali Sadar",
+    "address": "DHARANDI",
+    "post_office": "Patuakhali Sadar",
+    "mobiles": [
+      "01730912566",
+      "01732030155",
+      "01714669004"
+    ],
+    "other_phones": [],
+    "email": "mataurrahman@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHARANDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-patuakhali-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102566"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

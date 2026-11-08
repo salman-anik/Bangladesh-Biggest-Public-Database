@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123398",
+  "institution": {
+    "eiin": "123398",
+    "name": "SAFAPUR UNION ALIM MADRASAH",
+    "name_bn": "সফাপুর ইউনিয়ন আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Mahadebpur",
+    "address": "PAHARPUR.",
+    "post_office": "Mahadebpur",
+    "mobiles": [
+      "01751859293",
+      "01913153033"
+    ],
+    "other_phones": [],
+    "email": "prisuam@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PAHARPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-mahadebpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123398"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120789",
+  "institution": {
+    "eiin": "120789",
+    "name": "JHANJIRA ALIM MADRASHA",
+    "name_bn": "ঝানজিরা আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Dinajpur Sadar",
+    "address": "JHANJIRA",
+    "post_office": "Dinajpur Sadar",
+    "mobiles": [
+      "01711905424"
+    ],
+    "other_phones": [],
+    "email": "jhanjira5@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JHANJIRA HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-dinajpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120789"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "124024",
+  "institution": {
+    "eiin": "124024",
+    "name": "ALIPUR DAKHIL MADRASHA",
+    "name_bn": "আলিপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Gurudaspur",
+    "address": "ALIPUR",
+    "post_office": "Harua",
+    "mobiles": [
+      "01726162914"
+    ],
+    "other_phones": [],
+    "email": "alipurdm26@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BREPATHURIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-gurudaspur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-124024"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

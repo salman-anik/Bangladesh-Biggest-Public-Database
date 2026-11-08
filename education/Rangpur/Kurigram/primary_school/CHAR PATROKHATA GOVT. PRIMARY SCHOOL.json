@@ -1,0 +1,645 @@
+{
+  "schema_version": "1.0",
+  "eiin": "137112",
+  "institution": {
+    "eiin": "137112",
+    "name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+    "name_bn": null,
+    "institute_type": "SCHOOL",
+    "education_level": "Govt. Primary (pre to Five)",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "thana": "Chilmari",
+    "address": "CHAR PATROKHATA",
+    "post_office": "JORGACHH",
+    "mobiles": [
+      "01715385267"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "SL",
+      "PDF_S",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-kurigram",
+      "thana_id": "BD-THANA-rangpur-kurigram-chilmari",
+      "category_id": "BD-CAT-SCHOOLS",
+      "institution_id": "BD-INS-137112"
+    }
+  },
+  "teacher_count": 58,
+  "teachers": [
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER"
+    },
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER ENGLISH"
+    },
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2015",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2016",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER ENGLISH"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER ENGLISH"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2017",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER ENGLISH"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2018",
+      "district": "KURIGRAM",
+      "upazila": "CHILMARI",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2019",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER ENGLISH"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER ENGLISH"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2020",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. NAHID HASAN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "0001-01-01"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. ABDUL AZIZ MANDAL",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "0001-01-01"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER (ENGLISH)",
+      "date_of_birth": "0001-01-01"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "SHAHIDA KHATUN",
+      "designation": "HEADMASTER",
+      "date_of_birth": "1995-02-22"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1992-10-12"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1991-10-12"
+    },
+    {
+      "eiin": "137112",
+      "year": "2021",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "0001-02-01"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. RUHUL AMIN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "0001-02-01"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. REZAUL ALAM",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1991-10-12"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOST. REHANA KHATUN",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1992-10-12"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. LEYAKAT ALI",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1990-01-04",
+      "first_joining_date": "2014-11-24"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MOHAMMAD ALI",
+      "designation": "ASSISTANT TEACHER (ENGLISH)",
+      "date_of_birth": "0001-01-01"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MST. AZADI AKTER BITHI",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1994-08-15",
+      "first_joining_date": "2020-02-22"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "MD. JUEL MIA",
+      "designation": "CLEANER",
+      "date_of_birth": "1990-12-05",
+      "first_joining_date": "2022-11-30"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "Mst Jesmin Akter Joba",
+      "designation": "ASSISTANT TEACHER (JUNIOR)",
+      "date_of_birth": "1992-05-17",
+      "first_joining_date": "2016-07-10"
+    },
+    {
+      "eiin": "137112",
+      "year": "2022",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "institution_name": "CHAR PATROKHATA GOVT. PRIMARY SCHOOL",
+      "institution_type": "SCHOOL",
+      "teacher_name": "KAJOL KUMAR MOHONTO",
+      "designation": "ASSISTANT TEACHER (SOCIAL SCIENCE)",
+      "date_of_birth": "1979-08-31",
+      "first_joining_date": "2003-06-30"
+    }
+  ]
+}

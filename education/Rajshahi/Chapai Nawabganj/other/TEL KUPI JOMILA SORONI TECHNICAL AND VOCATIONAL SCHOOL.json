@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132930",
+                        "name":  "TEL KUPI JOMILA SORONI TECHNICAL AND VOCATIONAL SCHOOL",
+                        "name_bn":  "তেলকুপি জমিলা স্মরণী কারিগরি ও ভোকেশনাল স্কুল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Chapai Nawabganj",
+                        "thana":  "Shibganj",
+                        "address":  "TELKUPI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718677676",
+                                        "01768903221"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-chapai-nawabganj",
+                                          "thana_id":  "BD-THANA-rajshahi-chapai-nawabganj-shibganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132930"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\chapai-nawabganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

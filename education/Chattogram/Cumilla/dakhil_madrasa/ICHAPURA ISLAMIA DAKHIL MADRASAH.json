@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105323",
+  "institution": {
+    "eiin": "105323",
+    "name": "ICHAPURA ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "ইছাপুরা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Burichang",
+    "address": "ICHAPURA",
+    "post_office": "Comilla Sadar",
+    "mobiles": [
+      "01720099511",
+      "01780390750"
+    ],
+    "other_phones": [],
+    "email": "ichapuradm105323@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SADAR ICHHAPURA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-burichang",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105323"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

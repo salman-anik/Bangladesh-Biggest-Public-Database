@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123969",
+  "institution": {
+    "eiin": "123969",
+    "name": "ATUA K.S.M DAKHIL MADARASHA",
+    "name_bn": "আটুয়া কে.এস.এম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "ATUA",
+    "post_office": "Harua",
+    "mobiles": [
+      "01731035968",
+      "01736453168"
+    ],
+    "other_phones": [
+      "017134747883"
+    ],
+    "email": "atuaksmdm123969@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JOARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123969"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

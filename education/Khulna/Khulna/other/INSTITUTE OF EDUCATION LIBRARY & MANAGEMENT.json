@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133500",
+                        "name":  "INSTITUTE OF EDUCATION LIBRARY \u0026 MANAGEMENT",
+                        "name_bn":  "ইনস্টিটিউট অব এডুকেশন লাইব্রেরী এন্ড ম্যানেজমেন্ট(ইলাম),খুলনা।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Khulna",
+                        "thana":  "Khalishpur",
+                        "address":  "635/7 \u0026 53/6 MUJGUNNI MOHASOROK",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711965270"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-khulna",
+                                          "thana_id":  "BD-THANA-khulna-khulna-khalishpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133500"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\khulna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

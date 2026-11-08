@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "135080",
+  "institution": {
+    "eiin": "135080",
+    "name": "PAGLIRBIL DAKHIL MADRASAHA",
+    "name_bn": "পাগলির বিল দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "thana": "Ukhia Upazila",
+    "address": "PAGLIRBIL",
+    "post_office": "Ukhia",
+    "mobiles": [
+      "01811987646",
+      "01836172452"
+    ],
+    "other_phones": [],
+    "email": "m135080pdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MORICHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cox-s-bazar",
+      "thana_id": "BD-THANA-chattogram-cox-s-bazar-ukhia-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-135080"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

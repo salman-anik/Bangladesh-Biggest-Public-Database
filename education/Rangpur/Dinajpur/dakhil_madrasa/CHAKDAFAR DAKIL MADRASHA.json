@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120111",
+  "institution": {
+    "eiin": "120111",
+    "name": "CHAKDAFAR DAKIL MADRASHA",
+    "name_bn": "চকদফর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birganj",
+    "address": "CHAKDAFAR",
+    "post_office": "Birganj",
+    "mobiles": [
+      "01745212221",
+      "01735262965"
+    ],
+    "other_phones": [],
+    "email": "chalkdafar@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "LATER HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120111"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

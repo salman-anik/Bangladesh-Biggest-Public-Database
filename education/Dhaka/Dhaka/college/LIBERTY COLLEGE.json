@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "136865",
+  "institution": {
+    "eiin": "136865",
+    "name": "LIBERTY COLLEGE",
+    "name_bn": "লিবার্টি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Khilgaon",
+    "address": "HOUSE-45, ROAD-1, BLOCK-E, BANASREE",
+    "post_office": "KhilgaonTSO",
+    "mobiles": [
+      "01755509469"
+    ],
+    "other_phones": [],
+    "email": "asrafshebu@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Rampura",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-khilgaon",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-136865"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

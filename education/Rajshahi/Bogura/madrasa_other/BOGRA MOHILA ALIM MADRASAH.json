@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119225",
+  "institution": {
+    "eiin": "119225",
+    "name": "BOGRA MOHILA ALIM MADRASAH",
+    "name_bn": "বগুড়া মহিলা আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Bogra Sadar",
+    "address": "NISHINDIRA",
+    "post_office": "Bogura Sadar",
+    "mobiles": [
+      "01710970364"
+    ],
+    "other_phones": [],
+    "email": "bogramohilamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BOGRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-bogra-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119225"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

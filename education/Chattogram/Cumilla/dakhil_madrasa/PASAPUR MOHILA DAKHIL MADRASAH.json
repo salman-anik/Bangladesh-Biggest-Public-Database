@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105944",
+  "institution": {
+    "eiin": "105944",
+    "name": "PASAPUR MOHILA DAKHIL MADRASAH",
+    "name_bn": "পাশাপুর মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Laksam",
+    "address": "PASAPUR",
+    "post_office": "Murdafarganj",
+    "mobiles": [
+      "01706641881",
+      "01727748925"
+    ],
+    "other_phones": [],
+    "email": "pasapur.mohilamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MUDAFOR GANJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-laksam",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105944"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

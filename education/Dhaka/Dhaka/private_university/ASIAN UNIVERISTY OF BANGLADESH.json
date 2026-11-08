@@ -1,0 +1,59 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136690",
+                        "name":  "ASIAN UNIVERISTY OF BANGLADESH",
+                        "name_bn":  "এশিয়ান ইউনিভার্সিটি অব বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Savar",
+                        "address":  "HOUSE-25, ROAD-05, SECTOR-7, UTTARA",
+                        "post_office":  "Dairy Farm",
+                        "mobiles":  [
+                                        "01678664439"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@aub.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Dhaka",
+                                                                 "thana":  "Uttara Paschim",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-savar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136690"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

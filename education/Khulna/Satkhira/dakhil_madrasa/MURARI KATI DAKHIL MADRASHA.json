@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118697",
+  "institution": {
+    "eiin": "118697",
+    "name": "MURARI KATI DAKHIL MADRASHA",
+    "name_bn": "মুরারীকাটি দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "thana": "Kalaroa",
+    "address": "MURARI KATI",
+    "post_office": "Murarikati",
+    "mobiles": [
+      "01721389020"
+    ],
+    "other_phones": [],
+    "email": "murarikati.madrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-satkhira",
+      "thana_id": "BD-THANA-khulna-satkhira-kalaroa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118697"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

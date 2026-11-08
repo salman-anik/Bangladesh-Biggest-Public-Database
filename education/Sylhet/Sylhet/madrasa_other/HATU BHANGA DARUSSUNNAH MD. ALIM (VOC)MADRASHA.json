@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130252",
+  "institution": {
+    "eiin": "130252",
+    "name": "HATU BHANGA DARUSSUNNAH MD. ALIM (VOC)MADRASHA",
+    "name_bn": "হাটুভাঙ্গা দারুচ্ছুন্নাহ মোহাম্মদিয়া (দাঃ ভোকঃ)আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Fenchuganj",
+    "address": "HATU BHANGA",
+    "post_office": "Jamuna Sar Karkhana",
+    "mobiles": [
+      "01759268297",
+      "01727519416"
+    ],
+    "other_phones": [],
+    "email": "hatubangamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HILLY AREA",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SAR KARKHANA\\"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-fenchuganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130252"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

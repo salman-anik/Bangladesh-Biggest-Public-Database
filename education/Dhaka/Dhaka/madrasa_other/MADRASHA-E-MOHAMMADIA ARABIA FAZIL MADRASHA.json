@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108381",
+  "institution": {
+    "eiin": "108381",
+    "name": "MADRASHA-E-MOHAMMADIA ARABIA FAZIL MADRASHA",
+    "name_bn": "মাদরাসায়ে মোহাম্মাদিয়া আরাবিয়া ফাযিল (ডিগ্রী) মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Sabujbagh",
+    "address": "141, Ohab Colony",
+    "post_office": "Basabo TSO",
+    "mobiles": [
+      "01711378359",
+      "01913033003"
+    ],
+    "other_phones": [
+      "027218709"
+    ],
+    "email": "mmafazil2022@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "D BLOCK-141"
+      ],
+      "post_offices": [
+        "Bashabo"
+      ],
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Shahbagh",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-sabujbagh",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108381"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

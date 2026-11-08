@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "131218",
+  "institution": {
+    "eiin": "131218",
+    "name": "KING'S COLLEGE",
+    "name_bn": "কিংস কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Badda",
+    "address": "KA-40/2 PRAGATI SARANI",
+    "post_office": "Dhaka Cantonment--TSO",
+    "mobiles": [
+      "01720557178"
+    ],
+    "other_phones": [],
+    "email": "principaloffic.kings@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-badda",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-131218"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

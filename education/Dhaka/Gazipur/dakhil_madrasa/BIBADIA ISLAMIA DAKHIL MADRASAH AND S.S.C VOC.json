@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109311",
+  "institution": {
+    "eiin": "109311",
+    "name": "BIBADIA ISLAMIA DAKHIL MADRASAH AND S.S.C VOC",
+    "name_bn": "বিবাদিয়া ইসলামিয়া দাখিল মাদ্রাসা অ্যান্ড এস এস সি (ভোক",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kapasia",
+    "address": "BIBADIA",
+    "post_office": "Barmi",
+    "mobiles": [
+      "01947469641",
+      "01726438941"
+    ],
+    "other_phones": [],
+    "email": "bibadiadakhilmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAYED"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kapasia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109311"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

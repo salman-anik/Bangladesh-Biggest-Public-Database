@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114442",
+  "institution": {
+    "eiin": "114442",
+    "name": "KADIM KAKNA DAKHIL MADRASHA",
+    "name_bn": "কদিম কাকনা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Nagarpur",
+    "address": "KADIM KAKNA",
+    "post_office": "Dhuburia",
+    "mobiles": [
+      "01732832137"
+    ],
+    "other_phones": [],
+    "email": "ma114442educationboard@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KADIM KAGNA"
+      ],
+      "post_offices": [
+        "DAPTIAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-nagarpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114442"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

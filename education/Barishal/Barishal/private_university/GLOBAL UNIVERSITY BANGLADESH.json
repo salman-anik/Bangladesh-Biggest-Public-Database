@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138258",
+                        "name":  "GLOBAL UNIVERSITY BANGLADESH",
+                        "name_bn":  "গ্লোবাল ইউনিভার্সিটি বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Barishal",
+                        "district":  "Barishal",
+                        "thana":  "Barisal Sadar (Kotwali)",
+                        "address":  null,
+                        "post_office":  "Barishal Sadar",
+                        "mobiles":  [
+                                        "01700569030"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@globaluniversity.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-barishal",
+                                          "thana_id":  "BD-THANA-barishal-barishal-barisal-sadar-kotwali",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138258"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\barishal\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

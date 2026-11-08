@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111226",
+  "institution": {
+    "eiin": "111226",
+    "name": "KAMARGAON AL-AMIN ISLAMIA ALIM MADRASHA",
+    "name_bn": "কামারগাঁও আল-আমিন ইসলামিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Sreenagar",
+    "address": "NORTH KAMARGAON",
+    "post_office": "Vaggyakul SO",
+    "mobiles": [
+      "01712514421",
+      "01715317981"
+    ],
+    "other_phones": [],
+    "email": "alaminmadrashasm71@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KAMRGAON"
+      ],
+      "post_offices": [
+        "KATHIAPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-sreenagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111226"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

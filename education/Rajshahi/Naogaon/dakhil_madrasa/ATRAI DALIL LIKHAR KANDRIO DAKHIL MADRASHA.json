@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123074",
+  "institution": {
+    "eiin": "123074",
+    "name": "ATRAI DALIL LIKHAR KANDRIO DAKHIL MADRASHA",
+    "name_bn": "আত্রাই দলিল লেখক কেন্দ্রীয় দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Atrai",
+    "address": "BIHARIPUR",
+    "post_office": "Ahsanganj",
+    "mobiles": [
+      "01761527708"
+    ],
+    "other_phones": [],
+    "email": "atraidlkdakhilmadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-atrai",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123074"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101178",
+  "institution": {
+    "eiin": "101178",
+    "name": "CHARNOABAD MOHILA DAKHIL MADRASHA",
+    "name_bn": "চরনোয়াবাদ মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Bhola Sadar",
+    "address": "CHARNOABAD",
+    "post_office": "Bhola Sadar",
+    "mobiles": [
+      "01728844270",
+      "01735207723"
+    ],
+    "other_phones": [],
+    "email": "chornobaddakhil84@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BHOLA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-bhola-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101178"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

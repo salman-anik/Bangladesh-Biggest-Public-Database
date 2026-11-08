@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "eiin": "138225",
+  "institution": {
+    "eiin": "138225",
+    "name": "BORDOL ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "বড়দল ইসলামীয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "thana": "Tahirpur",
+    "address": "BORDOL",
+    "post_office": "Tahirpur",
+    "mobiles": [],
+    "other_phones": [],
+    "email": "bordaldm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sunamganj",
+      "thana_id": "BD-THANA-sylhet-sunamganj-tahirpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-138225"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

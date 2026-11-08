@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117647",
+  "institution": {
+    "eiin": "117647",
+    "name": "GONESHPUR QASEMUL ULUM DAKHIL MADRASHA",
+    "name_bn": "গণেশপুর কাসেমুল উলুম দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Kushtia",
+    "thana": "Khoksa",
+    "address": "GONESHPUR",
+    "post_office": "Janipur",
+    "mobiles": [
+      "01712596564"
+    ],
+    "other_phones": [],
+    "email": "m117647@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AJOIL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-kushtia",
+      "thana_id": "BD-THANA-khulna-kushtia-khoksa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117647"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

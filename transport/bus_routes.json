@@ -1,0 +1,623 @@
+[
+  {
+    "route_name": "Dhaka - Chattogram",
+    "highway": "N1 Highway",
+    "distance_km": 250,
+    "travel_time_hours": "4.5 - 6 Hours",
+    "boarding_points": [
+      "Sayedabad",
+      "Arambagh",
+      "Kamalapur",
+      "Fakirapool",
+      "Uttara",
+      "Abdullahpur"
+    ],
+    "dropping_points": [
+      "Dampara",
+      "AK Khan",
+      "GEC Circle",
+      "Muradpur",
+      "Cinema Palace"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Green Line Paribahan",
+        "types": [
+          "Scania Multi-Axle Sleeper",
+          "First Class AC"
+        ],
+        "fare_range_bdt": "1400 - 2000",
+        "hotline": "01730-060000"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai AC",
+          "Non-AC Hino 1J"
+        ],
+        "fare_range_bdt": "680 - 1500",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Shohagh Paribahan",
+        "types": [
+          "Scania AC",
+          "Sleeper Coach"
+        ],
+        "fare_range_bdt": "1200 - 1800",
+        "hotline": "02-9344477"
+      },
+      {
+        "operator": "Shyamoli NR Travels",
+        "types": [
+          "Volvo AC",
+          "Hino Non-AC"
+        ],
+        "fare_range_bdt": "680 - 1400",
+        "hotline": "02-9144488"
+      },
+      {
+        "operator": "Saintmartin Travels",
+        "types": [
+          "Hyundai Multi-Axle",
+          "Business Class"
+        ],
+        "fare_range_bdt": "1200 - 1700",
+        "hotline": "01762-691341"
+      },
+      {
+        "operator": "Ena Transport",
+        "types": [
+          "Hyundai Universe AC",
+          "Non-AC Hino"
+        ],
+        "fare_range_bdt": "680 - 1400",
+        "hotline": "01844-076000"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Cox's Bazar",
+    "highway": "N1 Highway (via Marine Drive link)",
+    "distance_km": 395,
+    "travel_time_hours": "8 - 10 Hours",
+    "boarding_points": [
+      "Sayedabad",
+      "Arambagh",
+      "Kamalapur",
+      "Fakirapool",
+      "Abdullahpur"
+    ],
+    "dropping_points": [
+      "Kolatoli Beach",
+      "Jhawtola",
+      "Laldighir Par"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Green Line Paribahan",
+        "types": [
+          "Scania Double Decker",
+          "Sleeper Coach"
+        ],
+        "fare_range_bdt": "2000 - 2500",
+        "hotline": "01730-060000"
+      },
+      {
+        "operator": "Desh Travels",
+        "types": [
+          "Hyundai Universe Luxury AC"
+        ],
+        "fare_range_bdt": "1800 - 2200",
+        "hotline": "01762-684400"
+      },
+      {
+        "operator": "Saintmartin Hy-Class",
+        "types": [
+          "Multi-Axle Sleeper",
+          "Royal Suite"
+        ],
+        "fare_range_bdt": "1900 - 2400",
+        "hotline": "01762-691341"
+      },
+      {
+        "operator": "Shohagh Paribahan",
+        "types": [
+          "Scania Multi-Axle AC"
+        ],
+        "fare_range_bdt": "1800 - 2200",
+        "hotline": "02-9344477"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai Luxury AC",
+          "Hino Non-AC"
+        ],
+        "fare_range_bdt": "900 - 2000",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Shyamoli Paribahan",
+        "types": [
+          "Volvo Sleeper",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "900 - 2000",
+        "hotline": "02-9144488"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Sylhet",
+    "highway": "N2 Highway (Dhaka-Sylhet Expressway)",
+    "distance_km": 240,
+    "travel_time_hours": "5 - 6 Hours",
+    "boarding_points": [
+      "Sayedabad",
+      "Arambagh",
+      "Fakirapool",
+      "Mohakhali",
+      "Uttara"
+    ],
+    "dropping_points": [
+      "Kadamtoli",
+      "Humayun Rashid Chattar",
+      "Subidbazar"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Green Line Paribahan",
+        "types": [
+          "Scania AC Coach"
+        ],
+        "fare_range_bdt": "1200 - 1600",
+        "hotline": "01730-060000"
+      },
+      {
+        "operator": "Ena Transport",
+        "types": [
+          "Hyundai Luxury AC",
+          "Hino Non-AC"
+        ],
+        "fare_range_bdt": "570 - 1300",
+        "hotline": "01844-076000"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Volvo AC",
+          "Hino 1J"
+        ],
+        "fare_range_bdt": "570 - 1200",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Shyamoli NR Travels",
+        "types": [
+          "Volvo B9R AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "570 - 1300",
+        "hotline": "02-9144488"
+      },
+      {
+        "operator": "Al-Mobarok Paribahan",
+        "types": [
+          "Hino 1J Non-AC"
+        ],
+        "fare_range_bdt": "550 - 650",
+        "hotline": "01711-234567"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Rajshahi",
+    "highway": "N5 / N6 Highway (via Bangabandhu Bridge)",
+    "distance_km": 250,
+    "travel_time_hours": "5 - 6 Hours",
+    "boarding_points": [
+      "Kalyanpur",
+      "Gabtoli",
+      "Shyamoli",
+      "Abdullahpur"
+    ],
+    "dropping_points": [
+      "Shiroil Bus Terminal",
+      "Bhadra",
+      "Railway Gate",
+      "Talaimari"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "National Travels",
+        "types": [
+          "Scania Multi-Axle",
+          "Hyundai AC"
+        ],
+        "fare_range_bdt": "800 - 1400",
+        "hotline": "01711-487654"
+      },
+      {
+        "operator": "Desh Travels",
+        "types": [
+          "Hyundai Universe AC"
+        ],
+        "fare_range_bdt": "900 - 1400",
+        "hotline": "01762-684400"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Volvo AC",
+          "Non-AC Hino"
+        ],
+        "fare_range_bdt": "650 - 1300",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Shyamoli Paribahan",
+        "types": [
+          "Hyundai AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "650 - 1200",
+        "hotline": "02-9144488"
+      },
+      {
+        "operator": "Ekota Paribahan",
+        "types": [
+          "Hino 1J Non-AC"
+        ],
+        "fare_range_bdt": "600 - 700",
+        "hotline": "01712-345678"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Khulna",
+    "highway": "N8 Highway (via Padma Bridge & Expressway)",
+    "distance_km": 210,
+    "travel_time_hours": "3.5 - 4.5 Hours",
+    "boarding_points": [
+      "Sayedabad",
+      "Jatrabari",
+      "Gulistan",
+      "Gabtoli",
+      "Arambagh"
+    ],
+    "dropping_points": [
+      "Sonadanga Bus Terminal",
+      "Shibbari Circle",
+      "Royal Mor"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Green Line Paribahan",
+        "types": [
+          "Scania Multi-Axle AC"
+        ],
+        "fare_range_bdt": "1100 - 1500",
+        "hotline": "01730-060000"
+      },
+      {
+        "operator": "Shohagh Paribahan",
+        "types": [
+          "Scania AC",
+          "Sleeper Coach"
+        ],
+        "fare_range_bdt": "1000 - 1500",
+        "hotline": "02-9344477"
+      },
+      {
+        "operator": "Tungipara Express",
+        "types": [
+          "Hyundai AC",
+          "Non-AC Hino"
+        ],
+        "fare_range_bdt": "650 - 1200",
+        "hotline": "01711-239988"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai Luxury AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "650 - 1200",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Falguni Modhumoti",
+        "types": [
+          "Deluxe AC",
+          "Hino Non-AC"
+        ],
+        "fare_range_bdt": "600 - 1100",
+        "hotline": "01712-987654"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Barishal",
+    "highway": "N8 Highway (via Padma Bridge & Bhanga Expressway)",
+    "distance_km": 180,
+    "travel_time_hours": "3 - 4 Hours",
+    "boarding_points": [
+      "Sayedabad",
+      "Jatrabari",
+      "Gulistan",
+      "Arambagh",
+      "Gabtoli"
+    ],
+    "dropping_points": [
+      "Nathullabad Bus Terminal",
+      "Rupatoli",
+      "Amtala"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Sakura Paribahan",
+        "types": [
+          "Hino 1J AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "500 - 900",
+        "hotline": "01711-382910"
+      },
+      {
+        "operator": "Green Line Paribahan",
+        "types": [
+          "Scania Multi-Axle AC"
+        ],
+        "fare_range_bdt": "1000 - 1300",
+        "hotline": "01730-060000"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "500 - 950",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Survi Paribahan",
+        "types": [
+          "Deluxe Non-AC"
+        ],
+        "fare_range_bdt": "450 - 550",
+        "hotline": "01712-445566"
+      },
+      {
+        "operator": "Ilis Paribahan",
+        "types": [
+          "Standard Non-AC"
+        ],
+        "fare_range_bdt": "450 - 550",
+        "hotline": "01713-112233"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Rangpur",
+    "highway": "N5 Highway (Dhaka-Rangpur 4-Lane Highway)",
+    "distance_km": 305,
+    "travel_time_hours": "6 - 7.5 Hours",
+    "boarding_points": [
+      "Kalyanpur",
+      "Gabtoli",
+      "Shyamoli",
+      "Abdullahpur"
+    ],
+    "dropping_points": [
+      "Kamal-Kachna",
+      "Modern Mor",
+      "Medical Mor",
+      "Central Bus Terminal"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "SR Travels",
+        "types": [
+          "Volvo B9R Multi-Axle",
+          "Hino 1J Non-AC"
+        ],
+        "fare_range_bdt": "800 - 1600",
+        "hotline": "01711-356789"
+      },
+      {
+        "operator": "Nabil Paribahan",
+        "types": [
+          "Scania Sleeper Coach",
+          "Hyundai AC"
+        ],
+        "fare_range_bdt": "850 - 1800",
+        "hotline": "01713-245678"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "750 - 1500",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Shyamoli Paribahan",
+        "types": [
+          "Volvo AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "750 - 1400",
+        "hotline": "02-9144488"
+      },
+      {
+        "operator": "Agomony Express",
+        "types": [
+          "Multi-Axle AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "800 - 1500",
+        "hotline": "01712-678901"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Bogura",
+    "highway": "N5 Highway (via Bangabandhu Bridge)",
+    "distance_km": 195,
+    "travel_time_hours": "4 - 5 Hours",
+    "boarding_points": [
+      "Kalyanpur",
+      "Gabtoli",
+      "Shyamoli",
+      "Abdullahpur"
+    ],
+    "dropping_points": [
+      "Charmatha Central Bus Terminal",
+      "Thanthania Bus Stand",
+      "Satmatha"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "SR Travels",
+        "types": [
+          "Volvo AC",
+          "Hino Non-AC"
+        ],
+        "fare_range_bdt": "550 - 1100",
+        "hotline": "01711-356789"
+      },
+      {
+        "operator": "Shyamoli Paribahan",
+        "types": [
+          "Hyundai AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "500 - 1000",
+        "hotline": "02-9144488"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai AC",
+          "Non-AC"
+        ],
+        "fare_range_bdt": "500 - 1000",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Shah Fateh Ali Paribahan",
+        "types": [
+          "AC & Non-AC Hino"
+        ],
+        "fare_range_bdt": "450 - 900",
+        "hotline": "01711-456789"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Mymensingh",
+    "highway": "N3 Highway (Dhaka-Mymensingh 4-Lane Highway)",
+    "distance_km": 120,
+    "travel_time_hours": "2.5 - 3 Hours",
+    "boarding_points": [
+      "Mohakhali Inter-District Bus Terminal",
+      "Uttara",
+      "Abdullahpur"
+    ],
+    "dropping_points": [
+      "Maskanda Bus Terminal",
+      "Bridge Mor",
+      "Town Hall"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Ena Transport",
+        "types": [
+          "Executive AC Coach",
+          "Non-AC Deluxe"
+        ],
+        "fare_range_bdt": "350 - 650",
+        "hotline": "01844-076000"
+      },
+      {
+        "operator": "Shouhardo Paribahan",
+        "types": [
+          "AC Coach"
+        ],
+        "fare_range_bdt": "400 - 550",
+        "hotline": "01712-112244"
+      },
+      {
+        "operator": "Alam Asia",
+        "types": [
+          "Non-AC Express"
+        ],
+        "fare_range_bdt": "300 - 400",
+        "hotline": "01715-334455"
+      },
+      {
+        "operator": "Shyamoli Bangla",
+        "types": [
+          "Non-AC Express"
+        ],
+        "fare_range_bdt": "300 - 400",
+        "hotline": "01716-556677"
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka - Kuakata",
+    "highway": "N8 / R880 Highway (via Padma & Payra Bridges)",
+    "distance_km": 280,
+    "travel_time_hours": "5 - 6 Hours",
+    "boarding_points": [
+      "Sayedabad",
+      "Jatrabari",
+      "Gulistan",
+      "Gabtoli"
+    ],
+    "dropping_points": [
+      "Kuakata Beach Terminal",
+      "Zero Point Kuakata"
+    ],
+    "prominent_operators": [
+      {
+        "operator": "Sakura Paribahan",
+        "types": [
+          "Hino 1J AC & Non-AC"
+        ],
+        "fare_range_bdt": "750 - 1400",
+        "hotline": "01711-382910"
+      },
+      {
+        "operator": "Green Line Paribahan",
+        "types": [
+          "Scania Multi-Axle AC"
+        ],
+        "fare_range_bdt": "1400 - 1800",
+        "hotline": "01730-060000"
+      },
+      {
+        "operator": "Hanif Enterprise",
+        "types": [
+          "Hyundai AC & Non-AC"
+        ],
+        "fare_range_bdt": "750 - 1400",
+        "hotline": "01713-049555"
+      },
+      {
+        "operator": "Dhaka Express",
+        "types": [
+          "Deluxe Non-AC"
+        ],
+        "fare_range_bdt": "700 - 850",
+        "hotline": "01718-778899"
+      }
+    ]
+  }
+]

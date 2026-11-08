@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133800",
+                        "name":  "JESSORE TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "যশোর সরকারি টেকনিক্যাল স্কুল ও কলেজ, যশোর",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jashore",
+                        "thana":  "Kotwali",
+                        "address":  "JHUMJHUM PUR NARAIL ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711135531",
+                                        "01711988558"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jashore",
+                                          "thana_id":  "BD-THANA-khulna-jashore-kotwali",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133800"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jashore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110696",
+  "institution": {
+    "eiin": "110696",
+    "name": "KHASHERHAT DAKHIL MADRASHA",
+    "name_bn": "খাসের হাট দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "thana": "Kalkini",
+    "address": "UTTAR CHHAYGAON",
+    "post_office": "Gosairhat",
+    "mobiles": [
+      "01718834615"
+    ],
+    "other_phones": [],
+    "email": "kdm110696@gmal.come",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHASHERHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-madaripur",
+      "thana_id": "BD-THANA-dhaka-madaripur-kalkini",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110696"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

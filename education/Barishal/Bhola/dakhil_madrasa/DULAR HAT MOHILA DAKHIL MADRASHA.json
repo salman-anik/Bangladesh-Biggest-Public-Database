@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101405",
+  "institution": {
+    "eiin": "101405",
+    "name": "DULAR HAT MOHILA DAKHIL MADRASHA",
+    "name_bn": "দুলার হাট মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Char Fasson",
+    "address": "CHAR TOFAZZAL",
+    "post_office": "Dularhat",
+    "mobiles": [
+      "01716526722",
+      "01722719182"
+    ],
+    "other_phones": [],
+    "email": "101405mad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-char-fasson",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101405"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

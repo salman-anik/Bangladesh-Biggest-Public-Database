@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "128022",
+                        "name":  "DUL GAGRA KHALI DARUL FALAH DAKHIL MADRASHA",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Sirajganj",
+                        "thana":  "Belkuchi",
+                        "address":  "DUL GAGRA KHALI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01710644688"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-sirajganj",
+                                          "thana_id":  "BD-THANA-rajshahi-sirajganj-belkuchi",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-128022"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\sirajganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

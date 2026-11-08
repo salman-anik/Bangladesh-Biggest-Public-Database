@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139820",
+                        "name":  "IDRIS ALI MADBOR PRIVATE POLYTECHNIC INSTITUTE",
+                        "name_bn":  "ইদ্রিস আলী মাতবর প্রাইভেট পলিটেকনিক ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Munshiganj",
+                        "thana":  "Munshiganj Sadar",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01339392910"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-munshiganj",
+                                          "thana_id":  "BD-THANA-dhaka-munshiganj-munshiganj-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139820"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\munshiganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

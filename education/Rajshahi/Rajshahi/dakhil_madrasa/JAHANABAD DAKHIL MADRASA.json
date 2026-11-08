@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "126819",
+  "institution": {
+    "eiin": "126819",
+    "name": "JAHANABAD DAKHIL MADRASA",
+    "name_bn": "জাহানাবাদ দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "thana": "Mohanpur",
+    "address": "JAHANABAD",
+    "post_office": "Jahanabad Canttonmen",
+    "mobiles": [
+      "01729910404"
+    ],
+    "other_phones": [],
+    "email": "jahanabaddm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAHANABAD"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-rajshahi",
+      "thana_id": "BD-THANA-rajshahi-rajshahi-mohanpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-126819"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

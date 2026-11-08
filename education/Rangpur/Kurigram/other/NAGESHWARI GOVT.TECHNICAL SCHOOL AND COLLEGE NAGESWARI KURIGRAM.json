@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139501",
+                        "name":  "NAGESHWARI GOVT.TECHNICAL SCHOOL AND COLLEGE NAGESWARI KURIGRAM",
+                        "name_bn":  "নাগেশ্বরী সরকারি টেকনিক্যাল স্কুল অ্যান্ড কলেজ নাগেশ্বরী কুড়িগ্রাম",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Kurigram",
+                        "thana":  "Nageshwari",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712654311"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-kurigram",
+                                          "thana_id":  "BD-THANA-rangpur-kurigram-nageshwari",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139501"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\kurigram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

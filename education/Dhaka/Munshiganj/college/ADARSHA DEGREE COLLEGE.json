@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111230",
+  "institution": {
+    "eiin": "111230",
+    "name": "ADARSHA DEGREE COLLEGE",
+    "name_bn": "আদর্শ কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Sreenagar",
+    "address": "KARA - CHURAIN",
+    "post_office": "Churain",
+    "mobiles": [
+      "01912646224"
+    ],
+    "other_phones": [],
+    "email": "adarshadegreecollege123@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-sreenagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111230"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

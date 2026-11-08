@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110319",
+  "institution": {
+    "eiin": "110319",
+    "name": "ASUTIA SAMADIA DHAKHIL MADRASAH",
+    "name_bn": "আশ্ততিয়া ছামাদিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Hossainpur",
+    "address": "GOKUL NAGAR",
+    "post_office": "Hossenpur",
+    "mobiles": [
+      "01719372570",
+      "01799522186"
+    ],
+    "other_phones": [],
+    "email": "ashutiasamadiadm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ASUTIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-hossainpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110319"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

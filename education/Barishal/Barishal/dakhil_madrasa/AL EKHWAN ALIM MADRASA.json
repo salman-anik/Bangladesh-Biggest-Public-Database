@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100832",
+  "institution": {
+    "eiin": "100832",
+    "name": "AL EKHWAN ALIM MADRASA",
+    "name_bn": "আল-ইখওয়ান আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Barisal Sadar (Kotwali)",
+    "address": "BIR MUKTIZUDDA ABDUR RAHMAN KHAN SAROK",
+    "post_office": "Barishal Sadar",
+    "mobiles": [
+      "01942626842"
+    ],
+    "other_phones": [],
+    "email": "alekhwandakhilmadrasha1995@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "AL EKHWAN DAKHIL MADRASHA"
+      ],
+      "addresses": [
+        "AL EKHWAN DAKHILMADRASHA ROAD"
+      ],
+      "post_offices": [
+        "RUIYA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-barisal-sadar-kotwali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100832"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

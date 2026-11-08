@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108556",
+  "institution": {
+    "eiin": "108556",
+    "name": "UJAMPUR DAKHIK MADRASHA",
+    "name_bn": "উজামপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Uttar Khan",
+    "address": "UJAMPUR",
+    "post_office": "Srimangal",
+    "mobiles": [
+      "01630204151",
+      "01727327288"
+    ],
+    "other_phones": [],
+    "email": "ujdakhil@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "UJAMPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-uttar-khan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108556"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

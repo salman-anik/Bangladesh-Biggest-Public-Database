@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132528",
+                        "name":  "SURHID A.K COLLEGE OF SCIENCE AND TECHNOLOGY",
+                        "name_bn":  "সুহৃদ এ.কে. কলেজ অব সায়েন্স এন্ড টেকনোলজি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Cumilla",
+                        "thana":  "Nangalkot",
+                        "address":  "SURID PALLI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01715006933",
+                                        "01715006533"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "SURID TECHNICAL SCIENCE AND COMMERCE COLLEGE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-cumilla",
+                                          "thana_id":  "BD-THANA-chattogram-cumilla-nangalkot",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132528"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\cumilla\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

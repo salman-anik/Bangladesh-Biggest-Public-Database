@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140122",
+                        "name":  "CUMILLA PROFESSIONAL COLLEGE",
+                        "name_bn":  "কুমিল্লা প্রফেশনাল কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Cumilla",
+                        "thana":  "Comilla Sadar Dakshin",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01810068910"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-cumilla",
+                                          "thana_id":  "BD-THANA-chattogram-cumilla-comilla-sadar-dakshin",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140122"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\cumilla\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

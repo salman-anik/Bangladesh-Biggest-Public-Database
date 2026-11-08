@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111890",
+  "institution": {
+    "eiin": "111890",
+    "name": "MOMENSHAHI D.S. KAMIL MADRASAH",
+    "name_bn": "মোমেনশাহী ডি. এস. কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Mymensingh Sadar",
+    "address": "1 NO ALIA MADRASAH",
+    "post_office": "MAYMINSINGH",
+    "mobiles": [
+      "01711341843"
+    ],
+    "other_phones": [],
+    "email": "mdskm1965@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-mymensingh-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111890"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

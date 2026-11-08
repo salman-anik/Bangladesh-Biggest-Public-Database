@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123176",
+  "institution": {
+    "eiin": "123176",
+    "name": "JOGDAL FARAZIA DAKHIL MADRASHA",
+    "name_bn": "জগদল ফারাজিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Dhamoirhat",
+    "address": "JAGDAL",
+    "post_office": "Jagdal",
+    "mobiles": [
+      "01719166200"
+    ],
+    "other_phones": [],
+    "email": "jagdal123176@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "JOGDAL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-dhamoirhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123176"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

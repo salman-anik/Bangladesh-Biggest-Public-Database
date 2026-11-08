@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108206",
+  "institution": {
+    "eiin": "108206",
+    "name": "MIRPUR UNIVERSITY COLLEGE",
+    "name_bn": "মিরপুর কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Mirpur",
+    "address": "2- G/1 MAIN ROAD",
+    "post_office": "Mirpur TSO",
+    "mobiles": [
+      "01678325001",
+      "01816489383"
+    ],
+    "other_phones": [],
+    "email": "mirpurcollegedhaka@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-mirpur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108206"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

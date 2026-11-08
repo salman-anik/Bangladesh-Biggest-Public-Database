@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140209",
+                        "name":  "MEHERPUR UNIVERSITY",
+                        "name_bn":  "মুজিবনগর বিশ্ববিদ্যালয়, মেহেরপুর",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Khulna",
+                        "district":  "Meherpur",
+                        "thana":  "Gangni",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01756094084"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "abc123@mcq.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "MUJIBNAGAR UNIVERSITY MEHERPUR"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-meherpur",
+                                          "thana_id":  "BD-THANA-khulna-meherpur-gangni",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-140209"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\meherpur\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "124016",
+  "institution": {
+    "eiin": "124016",
+    "name": "BALSHA DAKHIL MADRASAH",
+    "name_bn": "বালসা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Gurudaspur",
+    "address": "BALSHA",
+    "post_office": "Hatgurudaspur",
+    "mobiles": [
+      "01724054561"
+    ],
+    "other_phones": [],
+    "email": "madrasha124016@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "INDUSTRIAL AREA",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BILSHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-gurudaspur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-124016"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

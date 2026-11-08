@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140033",
+                        "name":  "ALHAJ ISHAK ALI TECHNICAL INSTITUTE",
+                        "name_bn":  "আলহাজ্ব ইসহাক আলী টেকনিক্যাল ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Narail",
+                        "thana":  "Kalia",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712447804"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-narail",
+                                          "thana_id":  "BD-THANA-khulna-narail-kalia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140033"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\narail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

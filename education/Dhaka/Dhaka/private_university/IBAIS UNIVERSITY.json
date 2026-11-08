@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136683",
+                        "name":  "IBAIS UNIVERSITY",
+                        "name_bn":  "ইবাইস ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Dhanmondi",
+                        "address":  "HOUSE-21/A, ROAD-16(OLD-27),DHANMONDI R/A,DHAKA.",
+                        "post_office":  "Uttara Model TownTSO",
+                        "mobiles":  [
+                                        "01711542032",
+                                        "01733718377"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@ibaisuniversity.org",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-dhanmondi",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136683"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

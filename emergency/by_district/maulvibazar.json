@@ -1,0 +1,52 @@
+{
+  "district": "Maulvibazar",
+  "administration": {
+    "district": "Maulvibazar",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Maulvibazar",
+      "phone": "01713-000051",
+      "email": "dcmaulvibazar@mopa.gov.bd",
+      "website": "http://www.maulvibazar.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Maulvibazar",
+      "phone": "01713-373051",
+      "email": "spmaulvibazar@police.gov.bd",
+      "control_room": "01713-374051"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Maulvibazar",
+      "phone": "01713-555051",
+      "email": "csmaulvibazar@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-64",
+      "name": "Maulvibazar Sadar Police Station",
+      "bn_name": "Maulvibazar সদর থানা",
+      "unit": "Maulvibazar District Police",
+      "division": "General",
+      "district": "Maulvibazar",
+      "address": "Court Building Road, Sadar, Maulvibazar",
+      "oc_mobile": "01713-374064",
+      "duty_officer": "01713-399064",
+      "tnt": "02-770064",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-055",
+      "name": "Maulvibazar Fire Station & Civil Defence",
+      "bn_name": "Maulvibazar ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Maulvibazar",
+      "address": "Sadar, Maulvibazar",
+      "hotline": "16163",
+      "emergency_phone": "02-9988055",
+      "mobile": "01713-038055",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102072",
+  "institution": {
+    "eiin": "102072",
+    "name": "SOUTH HOSNABAD GIRLS DAKHIL MADRASHA",
+    "name_bn": "দক্ষিন হোসনাবাদ বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Bauphal",
+    "address": "HOSNABAD",
+    "post_office": "Bauphal",
+    "mobiles": [
+      "01767478820",
+      "01719562882"
+    ],
+    "other_phones": [],
+    "email": "dhgdm102072@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-bauphal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102072"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

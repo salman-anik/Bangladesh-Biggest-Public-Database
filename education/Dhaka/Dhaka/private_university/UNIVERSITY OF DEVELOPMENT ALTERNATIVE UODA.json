@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136656",
+                        "name":  "UNIVERSITY OF DEVELOPMENT ALTERNATIVE UODA",
+                        "name_bn":  "ইউনিভার্সিটি অব ডেভেলপমেন্ট অল্টারনেটিভ (ইউডা)",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Dhanmondi",
+                        "address":  "HOUSE-80, ROAD-SATHMOSHJID ROAD",
+                        "post_office":  "Mohammadpur Housing",
+                        "mobiles":  [
+                                        "01819260163"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@uoda.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-dhanmondi",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136656"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

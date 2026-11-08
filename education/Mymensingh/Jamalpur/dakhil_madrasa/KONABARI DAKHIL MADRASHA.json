@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110200",
+  "institution": {
+    "eiin": "110200",
+    "name": "KONABARI DAKHIL MADRASHA",
+    "name_bn": "কোনাবাড়ী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Sarishabari Upazila",
+    "address": "KONABARI",
+    "post_office": "Sharishabari",
+    "mobiles": [
+      "01731263358"
+    ],
+    "other_phones": [],
+    "email": "kdmadrasha6@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "KONABAR DAKHIL MADRASHA"
+      ],
+      "addresses": [
+        "KONABAR"
+      ],
+      "post_offices": [
+        "SHARISABARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-sarishabari-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110200"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

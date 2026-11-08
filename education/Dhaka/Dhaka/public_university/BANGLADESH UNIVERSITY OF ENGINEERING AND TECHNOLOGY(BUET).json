@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136618",
+                        "name":  "BANGLADESH UNIVERSITY OF ENGINEERING AND TECHNOLOGY(BUET)",
+                        "name_bn":  "বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Shahbagh",
+                        "address":  "PALASI",
+                        "post_office":  "Dhaka GPO",
+                        "mobiles":  [
+                                        "01718666405"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "regtr@regtr.buet.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-shahbagh",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136618"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

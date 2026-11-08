@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139770",
+                        "name":  "TOYMUCH ALI GOVERNMENT TECHNICAL SCHOOL AND COLLEGE JURI MOULVIBAZAR",
+                        "name_bn":  "জুড়ি সরকারি টেকনিক্যাল স্কুল ও কলেজ,জুড়ি, মৌলভীবাজার।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Sylhet",
+                        "district":  "Maulvibazar",
+                        "thana":  "Juri",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01723210577"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-maulvibazar",
+                                          "thana_id":  "BD-THANA-sylhet-maulvibazar-juri",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139770"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\maulvibazar\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

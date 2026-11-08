@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135148",
+                        "name":  "HAJI SHOMSER ALI TECHNICAL SCHOOL AND BM COLLEGE",
+                        "name_bn":  "হাজী শমশের আলী কারিগরি স্কুল এন্ড বিএম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Tangail",
+                        "thana":  "Kalihati",
+                        "address":  "BERIPOTOL",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718815375"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-tangail",
+                                          "thana_id":  "BD-THANA-dhaka-tangail-kalihati",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135148"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\tangail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

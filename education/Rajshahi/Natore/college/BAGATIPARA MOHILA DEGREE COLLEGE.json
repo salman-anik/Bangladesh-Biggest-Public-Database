@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123885",
+  "institution": {
+    "eiin": "123885",
+    "name": "BAGATIPARA MOHILA DEGREE COLLEGE",
+    "name_bn": "বাগাতিপাড়া মহিলা ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Bagatipara",
+    "address": "BIHARKOL",
+    "post_office": "Laxman",
+    "mobiles": [
+      "01711261023"
+    ],
+    "other_phones": [],
+    "email": "bmc.natore@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-bagatipara",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123885"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

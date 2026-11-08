@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120127",
+  "institution": {
+    "eiin": "120127",
+    "name": "BIRGONJ DEGREE COLLEGE",
+    "name_bn": "বীরগঞ্জ সরকারি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birganj",
+    "address": "SUJALPUR/931",
+    "post_office": "Birganj",
+    "mobiles": [
+      "01733263394"
+    ],
+    "other_phones": [],
+    "email": "birgonjgovt.college@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birganj",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-120127"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

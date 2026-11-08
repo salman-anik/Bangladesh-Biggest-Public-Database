@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117126",
+  "institution": {
+    "eiin": "117126",
+    "name": "GILATALA AHAMADIA DAKHIL MADRASAH",
+    "name_bn": "গিলাতলা আহমাদিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khan Jahan Ali",
+    "address": "GILATALA",
+    "post_office": "Jahanabad Canttonmen",
+    "mobiles": [
+      "01705725087",
+      "01912283005"
+    ],
+    "other_phones": [],
+    "email": "gilatalamadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAHANABAD CANTONMENT"
+      ],
+      "locations": [
+        {
+          "division": "Khulna",
+          "district": "Khulna",
+          "thana": "Phultala",
+          "sources": [
+            "MR",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khan-jahan-ali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117126"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

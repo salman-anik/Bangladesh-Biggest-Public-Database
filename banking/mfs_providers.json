@@ -1,0 +1,83 @@
+[
+  {
+    "provider": "bKash",
+    "parent_bank": "BRAC Bank PLC",
+    "ussd_code": "*247#",
+    "hotline": "16247",
+    "services": [
+      "Send Money",
+      "Cash Out",
+      "Mobile Recharge",
+      "Payment",
+      "Pay Bill",
+      "Remittance",
+      "Savings",
+      "Loan"
+    ],
+    "charge_cashout": "1.49% (app) / 1.85% (USSD)",
+    "website": "https://www.bkash.com"
+  },
+  {
+    "provider": "Nagad",
+    "parent_bank": "Bangladesh Post Office",
+    "ussd_code": "*167#",
+    "hotline": "16167",
+    "services": [
+      "Send Money",
+      "Cash Out",
+      "Mobile Recharge",
+      "Merchant Pay",
+      "Bill Pay",
+      "Remittance"
+    ],
+    "charge_cashout": "0.99% (app) / 1.49% (USSD)",
+    "website": "https://www.nagad.com.bd"
+  },
+  {
+    "provider": "Rocket",
+    "parent_bank": "Dutch-Bangla Bank PLC",
+    "ussd_code": "*322#",
+    "hotline": "16216",
+    "services": [
+      "Cash In",
+      "Cash Out",
+      "Person to Person",
+      "Utility Bills",
+      "Salary Disbursement",
+      "Government Allowances"
+    ],
+    "charge_cashout": "0.9% (DBBL ATM) / 1.8% (Agent)",
+    "website": "https://www.dutchbanglabank.com/rocket"
+  },
+  {
+    "provider": "Upay",
+    "parent_bank": "United Commercial Bank PLC (UCB)",
+    "ussd_code": "*268#",
+    "hotline": "16268",
+    "services": [
+      "Send Money",
+      "Cash Out",
+      "Mobile Recharge",
+      "Pay Bill",
+      "Traffic Fine",
+      "Indian Visa Fee"
+    ],
+    "charge_cashout": "1.4% (app) / 1.4% (USSD)",
+    "website": "https://www.upaybd.com"
+  },
+  {
+    "provider": "Cellfin",
+    "parent_bank": "Islami Bank Bangladesh PLC",
+    "ussd_code": "App Based",
+    "hotline": "16259",
+    "services": [
+      "Digital Account",
+      "Dual Currency Pre-Paid Card",
+      "Fund Transfer (IBBL/NPSB/EFT)",
+      "Bill Pay",
+      "mCash Transfer"
+    ],
+    "charge_cashout": "Free at IBBL ATMs",
+    "website": "https://www.islamibankbd.com"
+  }
+]

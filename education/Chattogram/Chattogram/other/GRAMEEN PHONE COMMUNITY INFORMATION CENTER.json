@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136172",
+                        "name":  "GRAMEEN PHONE COMMUNITY INFORMATION CENTER",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Satkania",
+                        "address":  "COLLEGE ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01813983356"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-satkania",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136172"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

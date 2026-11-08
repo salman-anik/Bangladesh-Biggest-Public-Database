@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109641",
+  "institution": {
+    "eiin": "109641",
+    "name": "BAHARA MOHILA DAKHIL MADRASAH",
+    "name_bn": "বাহাড়া মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gopalganj",
+    "thana": "Muksudpur",
+    "address": "BAHARA",
+    "post_office": "Batkiamari",
+    "mobiles": [
+      "01747244565",
+      "01728559074"
+    ],
+    "other_phones": [],
+    "email": "bahara.mohila@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BAHARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gopalganj",
+      "thana_id": "BD-THANA-dhaka-gopalganj-muksudpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109641"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

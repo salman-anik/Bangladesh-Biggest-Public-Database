@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101369",
+  "institution": {
+    "eiin": "101369",
+    "name": "CHAR AICHA HOSINIA DAKHIL MADRASHA",
+    "name_bn": "চর আইচা হোছাইনিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Char Fasson",
+    "address": "CHAR AICHA",
+    "post_office": "Charfashion",
+    "mobiles": [
+      "01721048791"
+    ],
+    "other_phones": [],
+    "email": "madrashhosiniya101369@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DAKSHIN CHAR AICHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-char-fasson",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101369"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

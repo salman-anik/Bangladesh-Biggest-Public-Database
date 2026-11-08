@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135564",
+                        "name":  "SAPAHAR VOCATIONAL TRAINING INSTITUTE",
+                        "name_bn":  "সাপাহার ভোকেশনাল কম্পিউটার ট্রেনিং ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Naogaon",
+                        "thana":  "Sapahar",
+                        "address":  "COLLEGE ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716964657"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-naogaon",
+                                          "thana_id":  "BD-THANA-rajshahi-naogaon-sapahar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135564"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\naogaon\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

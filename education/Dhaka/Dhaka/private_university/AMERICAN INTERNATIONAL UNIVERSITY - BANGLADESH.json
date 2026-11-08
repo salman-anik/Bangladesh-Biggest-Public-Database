@@ -1,0 +1,60 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136648",
+                        "name":  "AMERICAN INTERNATIONAL UNIVERSITY - BANGLADESH",
+                        "name_bn":  "আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি-বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Khilkhet",
+                        "address":  "HOUSE-83/B, ROAD-4, KEMAL ATATURK AVENUE, BANANI",
+                        "post_office":  "KhilkhetTSO",
+                        "mobiles":  [
+                                        "01715013137",
+                                        "01713047444"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@aiub.edu",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "OTHER POURA AREAS",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Dhaka",
+                                                                 "thana":  "Banani",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-khilkhet",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136648"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

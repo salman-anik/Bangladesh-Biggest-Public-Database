@@ -1,0 +1,59 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133379",
+                        "name":  "ISLAMI BANK NURSING COLLEGE, RAJSHAHI",
+                        "name_bn":  "ইসলামি ব্যাংক নার্সিং কলেজ, রাজশাহী",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Rajshahi",
+                        "thana":  "Boalia",
+                        "address":  "163/C GM COMPLEX",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01907100204",
+                                        "01797836666"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Rajshahi",
+                                                                 "district":  "Rajshahi",
+                                                                 "thana":  "Shah Makhdum",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-rajshahi",
+                                          "thana_id":  "BD-THANA-rajshahi-rajshahi-boalia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133379"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\rajshahi\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

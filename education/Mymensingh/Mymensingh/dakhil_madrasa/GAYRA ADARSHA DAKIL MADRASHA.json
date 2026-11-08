@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112144",
+  "institution": {
+    "eiin": "112144",
+    "name": "GAYRA ADARSHA DAKIL MADRASHA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Phulpur",
+    "address": "GAYRA",
+    "post_office": "KHARIAPARA",
+    "mobiles": [
+      "01727432564"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-phulpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112144"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

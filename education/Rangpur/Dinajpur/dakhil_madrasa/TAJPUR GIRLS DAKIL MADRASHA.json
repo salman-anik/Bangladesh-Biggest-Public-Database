@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120803",
+  "institution": {
+    "eiin": "120803",
+    "name": "TAJPUR GIRLS DAKIL MADRASHA",
+    "name_bn": "তাজপুর বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Dinajpur Sadar",
+    "address": "TAJPUR",
+    "post_office": "Dinajpur Sadar",
+    "mobiles": [
+      "01733158828"
+    ],
+    "other_phones": [],
+    "email": "tajpurmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHANPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-dinajpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120803"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

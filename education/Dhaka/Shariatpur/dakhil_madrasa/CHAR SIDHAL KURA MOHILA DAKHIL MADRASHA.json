@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113551",
+  "institution": {
+    "eiin": "113551",
+    "name": "CHAR SIDHAL KURA MOHILA DAKHIL MADRASHA",
+    "name_bn": "চর শিধলকুড়া মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Damudya",
+    "address": "CHAR SIDHAL KURA",
+    "post_office": "Damudhya",
+    "mobiles": [
+      "01732692416"
+    ],
+    "other_phones": [],
+    "email": "shidalkura113551@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DAMUDYA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-damudya",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113551"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

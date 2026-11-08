@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138130",
+                        "name":  "BANGLADESH ARMY UNIVERSITY OF ENGINEERING AND TECHNOLOGY (BAUET)",
+                        "name_bn":  "বাংলাদেশ আর্মি ইউনিভার্সিটি অব ইঞ্জিনিয়ারিং এন্ড টেকনোলজি (বিএইউইটি), কাদিরাবাদ, নাটোর",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rajshahi",
+                        "district":  "Natore",
+                        "thana":  "Bagatipara",
+                        "address":  null,
+                        "post_office":  "Dayarampur",
+                        "mobiles":  [
+                                        "01708503503"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrarbauet@gmail.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-natore",
+                                          "thana_id":  "BD-THANA-rajshahi-natore-bagatipara",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138130"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\natore\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

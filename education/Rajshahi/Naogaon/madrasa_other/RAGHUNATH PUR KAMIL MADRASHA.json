@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123174",
+  "institution": {
+    "eiin": "123174",
+    "name": "RAGHUNATH PUR KAMIL MADRASHA",
+    "name_bn": "রঘুনাথপুর কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Dhamoirhat",
+    "address": "RAGHUNATHPUR",
+    "post_office": "RAGHUNATHPUR MADRASA",
+    "mobiles": [
+      "01735249675",
+      "01727907402",
+      "01749636715"
+    ],
+    "other_phones": [],
+    "email": "raghnathpur.kamil.madrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-dhamoirhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123174"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

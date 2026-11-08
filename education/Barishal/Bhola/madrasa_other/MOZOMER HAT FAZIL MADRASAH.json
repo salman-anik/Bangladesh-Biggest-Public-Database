@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101261",
+  "institution": {
+    "eiin": "101261",
+    "name": "MOZOMER HAT FAZIL MADRASAH",
+    "name_bn": "মজমের হাট ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Burhanuddin",
+    "address": "JHITKA",
+    "post_office": "Borhanuddin UPO",
+    "mobiles": [
+      "01711467065",
+      "01716244904",
+      "01731311499"
+    ],
+    "other_phones": [],
+    "email": "mhfmb101261@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TALUKDER BARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-burhanuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101261"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

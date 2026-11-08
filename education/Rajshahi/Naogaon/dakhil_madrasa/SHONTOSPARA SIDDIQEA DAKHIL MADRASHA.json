@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123633",
+  "institution": {
+    "eiin": "123633",
+    "name": "SHONTOSPARA SIDDIQEA DAKHIL MADRASHA",
+    "name_bn": "সন্তোষপাড়া সিদ্দিকীয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Patnitala",
+    "address": "SHONTOSPARA",
+    "post_office": "Patnitala",
+    "mobiles": [
+      "01716029510"
+    ],
+    "other_phones": [],
+    "email": "mosarrafhossain2695@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PATNITALA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-patnitala",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123633"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110431",
+  "institution": {
+    "eiin": "110431",
+    "name": "ALHAJ M.A. MANNAN MAHILA DAKHIL MADRASHA",
+    "name_bn": "আলহাজ এম এ মান্নান মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Katiadi",
+    "address": "PANCHGATIA",
+    "post_office": "Katiadi",
+    "mobiles": [
+      "01724661052"
+    ],
+    "other_phones": [],
+    "email": "mohiladhakilmada@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MADHYAPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-katiadi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110431"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

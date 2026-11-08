@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132399",
+                        "name":  "BANGABANDHU TECHNICAL AND COMMERCIAL COLLEGE",
+                        "name_bn":  "বঙ্গবন্ধু টেকনিক্যাল এন্ড কমার্শিয়াল কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Brahmanbaria",
+                        "thana":  "Ashuganj",
+                        "address":  "SONARAMPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711528459"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-brahmanbaria",
+                                          "thana_id":  "BD-THANA-chattogram-brahmanbaria-ashuganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132399"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\brahmanbaria\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

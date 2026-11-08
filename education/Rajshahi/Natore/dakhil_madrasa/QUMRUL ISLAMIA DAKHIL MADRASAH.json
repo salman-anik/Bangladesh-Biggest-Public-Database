@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123962",
+  "institution": {
+    "eiin": "123962",
+    "name": "QUMRUL ISLAMIA DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "QUMRUL",
+    "post_office": "AHMEDPUR",
+    "mobiles": [
+      "01724593636"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123962"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

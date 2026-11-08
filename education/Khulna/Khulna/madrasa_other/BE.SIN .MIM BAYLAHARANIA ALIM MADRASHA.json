@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117221",
+  "institution": {
+    "eiin": "117221",
+    "name": "BE.SIN .MIM BAYLAHARANIA ALIM MADRASHA",
+    "name_bn": "বে, সীন, মীম বায়লাহারানিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Koyra",
+    "address": "BAYLAHARANIA",
+    "post_office": "Amadee",
+    "mobiles": [
+      "01915951244"
+    ],
+    "other_phones": [],
+    "email": "bsmamkoyra1@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BAMIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-koyra",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117221"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110418",
+  "institution": {
+    "eiin": "110418",
+    "name": "SHAHASRAM SAIMUNNESA ALIM MADRASAH",
+    "name_bn": "সহশ্রাম ছাইমুন্নেছা ফাজিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Katiadi",
+    "address": "SHAHASRAM",
+    "post_office": "Gochhihata",
+    "mobiles": [
+      "01716224150"
+    ],
+    "other_phones": [],
+    "email": "ssmadrasah110418@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "SAHAGRAM"
+      ],
+      "post_offices": [
+        "GACHIHATA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-katiadi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110418"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

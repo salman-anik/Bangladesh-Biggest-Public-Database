@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133872",
+                        "name":  "BEGUM ROKEYA TECHNICAL SCHOOL AND BM COLLEGE",
+                        "name_bn":  "বেগম রোকেয়া টেকনিক্যাল স্কুল এন্ড বিএম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Rangpur",
+                        "thana":  "Mitha Pukur",
+                        "address":  "HASANER PARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716390552"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BEGUM ROKEYA TECHNICAL SSC (VOC) INSTITUTE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-rangpur",
+                                          "thana_id":  "BD-THANA-rangpur-rangpur-mitha-pukur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133872"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\rangpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

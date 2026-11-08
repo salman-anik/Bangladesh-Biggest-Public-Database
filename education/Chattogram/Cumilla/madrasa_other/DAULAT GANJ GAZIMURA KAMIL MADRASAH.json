@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105901",
+  "institution": {
+    "eiin": "105901",
+    "name": "DAULAT GANJ GAZIMURA KAMIL MADRASAH",
+    "name_bn": "দৌলতগঞ্জ গাজীমুড়া কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Laksam",
+    "address": "GAZIMURA",
+    "post_office": "Laksam",
+    "mobiles": [
+      "01712842165",
+      "01711190535"
+    ],
+    "other_phones": [],
+    "email": "gazimurakamilmadrsah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GAZIMURA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-laksam",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105901"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140219",
+                        "name":  "PIROJPUR SCIENCE AND TECHNOLOGY UNIVERSITY",
+                        "name_bn":  "পিরোজপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়, পিরোজপুর",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Barishal",
+                        "district":  "Pirojpur",
+                        "thana":  "Pirojpur Sadar",
+                        "address":  null,
+                        "post_office":  "Pirojpur Sadar",
+                        "mobiles":  [
+                                        "01558910741"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "vc@bsmrstup.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "UPAZILA SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERISTY PIROJPUR"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-pirojpur",
+                                          "thana_id":  "BD-THANA-barishal-pirojpur-pirojpur-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-140219"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\pirojpur\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

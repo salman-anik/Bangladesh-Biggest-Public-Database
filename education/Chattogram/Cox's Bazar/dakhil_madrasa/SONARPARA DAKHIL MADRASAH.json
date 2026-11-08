@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "106440",
+  "institution": {
+    "eiin": "106440",
+    "name": "SONARPARA DAKHIL MADRASAH",
+    "name_bn": "সোনারপাড়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "thana": "Ukhia Upazila",
+    "address": "SONARPARA",
+    "post_office": "Ukhia",
+    "mobiles": [
+      "01812434394"
+    ],
+    "other_phones": [],
+    "email": "spdmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "INANI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cox-s-bazar",
+      "thana_id": "BD-THANA-chattogram-cox-s-bazar-ukhia-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-106440"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

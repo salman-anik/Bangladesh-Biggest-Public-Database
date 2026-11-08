@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112526",
+  "institution": {
+    "eiin": "112526",
+    "name": "RUPSI ISLAMIA DAKHIL MADRASA",
+    "name_bn": "রূপসী ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Rupganj",
+    "address": "RUPSI",
+    "post_office": "Murapara",
+    "mobiles": [
+      "01813602941",
+      "01914462581"
+    ],
+    "other_phones": [],
+    "email": "rupshiidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "OTHER POURA AREAS",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RUPSHI BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-rupganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112526"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

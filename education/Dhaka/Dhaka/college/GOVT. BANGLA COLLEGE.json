@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108210",
+  "institution": {
+    "eiin": "108210",
+    "name": "GOVT. BANGLA COLLEGE",
+    "name_bn": "সরকারি বাঙলা কলেজ, ঢাকা",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Shah Ali",
+    "address": "DARUS SALAM ROAD",
+    "post_office": "Mirpur TSO",
+    "mobiles": [
+      "01711423680",
+      "01711978103"
+    ],
+    "other_phones": [],
+    "email": "govtbanglacollege6420@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Mirpur",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-shah-ali",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108210"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "128111",
+  "institution": {
+    "eiin": "128111",
+    "name": "BALUKOL ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "বালুকোল ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Sirajganj",
+    "thana": "Kamarkhanda",
+    "address": "BALUKOL",
+    "post_office": "Baiddya Jam Toil",
+    "mobiles": [
+      "01716937785"
+    ],
+    "other_phones": [],
+    "email": "m128111@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHAHIDNAGAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-sirajganj",
+      "thana_id": "BD-THANA-rajshahi-sirajganj-kamarkhanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-128111"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

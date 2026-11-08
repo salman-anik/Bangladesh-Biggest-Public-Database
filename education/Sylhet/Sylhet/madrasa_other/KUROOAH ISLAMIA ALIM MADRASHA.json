@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130113",
+  "institution": {
+    "eiin": "130113",
+    "name": "KUROOAH ISLAMIA ALIM MADRASHA",
+    "name_bn": "কুরুয়া ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "KUROOAH",
+    "post_office": "Karua",
+    "mobiles": [
+      "01814293529"
+    ],
+    "other_phones": [],
+    "email": "kuruamadrasa08@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KUROOAH"
+      ],
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130113"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

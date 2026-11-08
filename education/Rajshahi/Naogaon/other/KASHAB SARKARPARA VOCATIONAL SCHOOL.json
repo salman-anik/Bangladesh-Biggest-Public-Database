@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135530",
+                        "name":  "KASHAB SARKARPARA VOCATIONAL SCHOOL",
+                        "name_bn":  "কসব সরকারপাড়া ভোেকেশনাল স্কুল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Naogaon",
+                        "thana":  "Manda",
+                        "address":  "KASHAB",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01725084862"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-naogaon",
+                                          "thana_id":  "BD-THANA-rajshahi-naogaon-manda",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135530"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\naogaon\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

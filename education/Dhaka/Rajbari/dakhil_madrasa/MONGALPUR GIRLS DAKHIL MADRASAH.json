@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113312",
+  "institution": {
+    "eiin": "113312",
+    "name": "MONGALPUR GIRLS DAKHIL MADRASAH",
+    "name_bn": "মঙ্গলপুর মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "thana": "Goalanda",
+    "address": "MONGALPUR",
+    "post_office": "Goalanda",
+    "mobiles": [
+      "01717033464"
+    ],
+    "other_phones": [],
+    "email": "ismailhossain113312@gmal.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-rajbari",
+      "thana_id": "BD-THANA-dhaka-rajbari-goalanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113312"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

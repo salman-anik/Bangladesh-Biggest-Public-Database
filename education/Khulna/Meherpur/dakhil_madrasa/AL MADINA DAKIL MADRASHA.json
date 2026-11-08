@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118253",
+  "institution": {
+    "eiin": "118253",
+    "name": "AL MADINA DAKIL MADRASHA",
+    "name_bn": "আল-মদিনা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Meherpur",
+    "thana": "Gangni",
+    "address": "GANGNI",
+    "post_office": "Gangni",
+    "mobiles": [
+      "01714808235",
+      "01989935422"
+    ],
+    "other_phones": [],
+    "email": "almodina118253@gmail.com",
+    "management": "CHRISTIAN MISSIONARY",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "GANNI"
+      ],
+      "post_offices": [
+        "BANSHBARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-meherpur",
+      "thana_id": "BD-THANA-khulna-meherpur-gangni",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118253"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110708",
+  "institution": {
+    "eiin": "110708",
+    "name": "KACHIKATA ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "কাঁচিকাটা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "thana": "Kalkini",
+    "address": "KACHIKATA",
+    "post_office": "Kalkini",
+    "mobiles": [
+      "01714933452"
+    ],
+    "other_phones": [],
+    "email": "kidm110708@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SNANGHATA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-madaripur",
+      "thana_id": "BD-THANA-dhaka-madaripur-kalkini",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110708"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

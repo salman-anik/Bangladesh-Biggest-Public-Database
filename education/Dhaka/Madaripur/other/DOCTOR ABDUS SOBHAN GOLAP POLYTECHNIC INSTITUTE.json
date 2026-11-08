@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138040",
+                        "name":  "DOCTOR ABDUS SOBHAN GOLAP POLYTECHNIC INSTITUTE",
+                        "name_bn":  "ডক্টর আবদুস সোবহান গোলাপ পলিটেকনিক ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Madaripur",
+                        "thana":  "Kalkini",
+                        "address":  "UTTAR RAMJANPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01735634259",
+                                        "01717730903"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-madaripur",
+                                          "thana_id":  "BD-THANA-dhaka-madaripur-kalkini",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-138040"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\madaripur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

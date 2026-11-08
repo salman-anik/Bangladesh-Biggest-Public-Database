@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119603",
+  "institution": {
+    "eiin": "119603",
+    "name": "UTTAR DEBKHADA ASIA DAKHIL MADRASHA",
+    "name_bn": "উত্তর দেবখন্ড আছিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Kahaloo",
+    "address": "UTTAR DEBKHANDA",
+    "post_office": "Talora",
+    "mobiles": [
+      "01735019422",
+      "01751514145"
+    ],
+    "other_phones": [],
+    "email": "udadamadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAMGRAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-kahaloo",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119603"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

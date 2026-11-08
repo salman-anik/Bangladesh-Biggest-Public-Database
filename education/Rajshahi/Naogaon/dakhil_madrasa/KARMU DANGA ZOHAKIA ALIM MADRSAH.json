@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123803",
+  "institution": {
+    "eiin": "123803",
+    "name": "KARMU DANGA ZOHAKIA ALIM MADRSAH",
+    "name_bn": "করমুডাংগা জোহাকিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Sapahar",
+    "address": "KARMUDANGA",
+    "post_office": "Sapahar",
+    "mobiles": [
+      "01727865440"
+    ],
+    "other_phones": [],
+    "email": "karmudangaam@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (OUTSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KARMUDANGA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-sapahar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123803"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

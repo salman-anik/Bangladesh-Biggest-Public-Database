@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100210",
+  "institution": {
+    "eiin": "100210",
+    "name": "SHAHEBER HAWLA CHADBARU BALIKA DAKHIL MADRASAH",
+    "name_bn": "সাহেবের হাওলা চাদবরু বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Barguna Sadar",
+    "address": "SHAHEBER HAWLA",
+    "post_office": "Barguna Sadar",
+    "mobiles": [
+      "01715714249"
+    ],
+    "other_phones": [],
+    "email": "m100210.ict@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HORIDRA BARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-barguna-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100210"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

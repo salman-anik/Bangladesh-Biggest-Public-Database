@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108448",
+  "institution": {
+    "eiin": "108448",
+    "name": "TETUL JHORA COLLEGE",
+    "name_bn": "তেঁতুলঝোড়া কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Savar",
+    "address": "TETUL JHORA",
+    "post_office": null,
+    "mobiles": [
+      "01718952838"
+    ],
+    "other_phones": [],
+    "email": "tetuljhoracollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-savar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108448"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

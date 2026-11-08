@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109421",
+  "institution": {
+    "eiin": "109421",
+    "name": "BARMI COLLEGE",
+    "name_bn": "বরমী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Sreepur",
+    "address": "PATHANTEK",
+    "post_office": "Barmi",
+    "mobiles": [
+      "01714743003",
+      "01715399979"
+    ],
+    "other_phones": [],
+    "email": "bormicollege1@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-sreepur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-109421"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

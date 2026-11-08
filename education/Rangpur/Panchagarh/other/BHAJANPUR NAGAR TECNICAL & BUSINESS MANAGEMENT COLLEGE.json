@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132853",
+                        "name":  "BHAJANPUR NAGAR TECNICAL \u0026 BUSINESS MANAGEMENT COLLEGE",
+                        "name_bn":  "ভজনপুর নগর টেকনিক্যাল এন্ড বিএম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Panchagarh",
+                        "thana":  "Tentulia",
+                        "address":  "MALIGOCH",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01722356592"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-panchagarh",
+                                          "thana_id":  "BD-THANA-rangpur-panchagarh-tentulia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132853"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\panchagarh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

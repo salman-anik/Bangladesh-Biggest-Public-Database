@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111104",
+  "institution": {
+    "eiin": "111104",
+    "name": "SHIMULIA SIDDIKIA ALIM MADRASHA",
+    "name_bn": "শিমুলিয়া ছিদ্দিকিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Gazaria",
+    "address": "SHIMULIA",
+    "post_office": "Gajaria",
+    "mobiles": [
+      "01814212933"
+    ],
+    "other_phones": [],
+    "email": "mshi111104@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GUAGACHIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-gazaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111104"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

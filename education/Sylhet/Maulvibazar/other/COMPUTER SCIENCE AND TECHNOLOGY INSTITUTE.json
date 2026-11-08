@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135627",
+                        "name":  "COMPUTER SCIENCE AND TECHNOLOGY INSTITUTE",
+                        "name_bn":  "কম্পিউটার সায়েন্স এন্ড টেকনোলজি ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Sylhet",
+                        "district":  "Maulvibazar",
+                        "thana":  "Sreemangal",
+                        "address":  "GUHO ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01719831723"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-maulvibazar",
+                                          "thana_id":  "BD-THANA-sylhet-maulvibazar-sreemangal",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135627"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\maulvibazar\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

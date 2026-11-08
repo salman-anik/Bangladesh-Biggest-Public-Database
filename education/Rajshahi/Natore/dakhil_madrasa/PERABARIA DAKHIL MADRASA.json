@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123876",
+  "institution": {
+    "eiin": "123876",
+    "name": "PERABARIA DAKHIL MADRASA",
+    "name_bn": "পেড়াবাড়ীয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Bagatipara",
+    "address": "PARABARIA",
+    "post_office": "Laxman",
+    "mobiles": [
+      "01720192688"
+    ],
+    "other_phones": [],
+    "email": "sarefin2645@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PERABARIA"
+      ],
+      "post_offices": [
+        "LOKSMAN HATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-bagatipara",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123876"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

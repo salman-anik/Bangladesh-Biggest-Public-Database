@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102191",
+  "institution": {
+    "eiin": "102191",
+    "name": "PANGASHIA NESARIA KAMIL MADRASA",
+    "name_bn": "পাংগাশিয়া নেছারিয়া কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Dumki Upazila",
+    "address": "PANGASHIA",
+    "post_office": "Moukaran",
+    "mobiles": [
+      "01715083036"
+    ],
+    "other_phones": [],
+    "email": "pangashiankm1919@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PANGASHIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-dumki-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102191"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

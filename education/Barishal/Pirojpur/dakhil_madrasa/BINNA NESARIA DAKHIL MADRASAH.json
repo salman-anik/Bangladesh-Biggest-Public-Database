@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103073",
+  "institution": {
+    "eiin": "103073",
+    "name": "BINNA NESARIA DAKHIL MADRASAH",
+    "name_bn": "বিন্না নেছারিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Nesarabad (Swarupkati)",
+    "address": "BINNA",
+    "post_office": "Kaurikhara",
+    "mobiles": [
+      "01739520737"
+    ],
+    "other_phones": [],
+    "email": "binnadakhilmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAJABARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-nesarabad-swarupkati",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103073"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

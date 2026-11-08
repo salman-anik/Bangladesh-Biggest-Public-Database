@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135593",
+                        "name":  "IMAMPUR MOHILA B.M. COLLEGE",
+                        "name_bn":  "ইমামপুর মহিলা বিএম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Jamalpur",
+                        "thana":  "Melandaha",
+                        "address":  "IMAMPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01850141826",
+                                        "01716488526"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-jamalpur",
+                                          "thana_id":  "BD-THANA-mymensingh-jamalpur-melandaha",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135593"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\jamalpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123817",
+  "institution": {
+    "eiin": "123817",
+    "name": "TULSHI PARA MOHILA DAKHIL MADRASAH",
+    "name_bn": "তুলশীপাড়া মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Sapahar",
+    "address": "TULSHI PARA",
+    "post_office": "Sapahar",
+    "mobiles": [
+      "01724958484",
+      "01733748800",
+      "01743901372"
+    ],
+    "other_phones": [],
+    "email": "mad123817@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-sapahar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123817"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

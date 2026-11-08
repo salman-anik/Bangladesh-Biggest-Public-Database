@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132572",
+                        "name":  "NOAKHALI IDEAL POLYRACHNIC INSTITUTE",
+                        "name_bn":  "নোয়াখালী আইডিয়াল পলিটেকনিক ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Noakhali",
+                        "thana":  "Noakhali Sadar",
+                        "address":  "54",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01770609010",
+                                        "01716069302"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-noakhali",
+                                          "thana_id":  "BD-THANA-chattogram-noakhali-noakhali-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132572"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\noakhali\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

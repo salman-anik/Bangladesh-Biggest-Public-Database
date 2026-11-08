@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139143",
+                        "name":  "AVIATION AND AEROSPACE UNIVERSITY, BANGLADESH",
+                        "name_bn":  "অ্যাভিয়েশন অ্যান্ড অ্যারোস্পেস বিশ্ববিদ্যালয়, বাংলাদেশ",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Shahbagh",
+                        "address":  null,
+                        "post_office":  "Tejgaon TSO",
+                        "mobiles":  [
+                                        "01769995054"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "contact@bsmraau.edu.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BANGABANDHU SHEIKH MUJIBUR RAHMAN AVIATION ADN AEROSPACE UNIVERSITY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-shahbagh",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-139143"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

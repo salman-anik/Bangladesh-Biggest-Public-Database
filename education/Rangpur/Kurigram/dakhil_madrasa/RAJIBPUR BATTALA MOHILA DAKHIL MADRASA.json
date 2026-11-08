@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "122144",
+  "institution": {
+    "eiin": "122144",
+    "name": "RAJIBPUR BATTALA MOHILA DAKHIL MADRASA",
+    "name_bn": "রাজিবপুর বটতলা মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "thana": "Char Rajibpur",
+    "address": "RAJIBPUR",
+    "post_office": "Rajibpur",
+    "mobiles": [
+      "01717048217"
+    ],
+    "other_phones": [],
+    "email": "rbmdmadrasha@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-kurigram",
+      "thana_id": "BD-THANA-rangpur-kurigram-char-rajibpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-122144"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

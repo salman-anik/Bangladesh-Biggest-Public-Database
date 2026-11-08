@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118899",
+  "institution": {
+    "eiin": "118899",
+    "name": "AL AMIN MOHILA DAKHIL MADRASAH",
+    "name_bn": "আল-আমিন মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "thana": "Satkhira Sadar",
+    "address": "MADHOBKHATI",
+    "post_office": "Satkhira Sadar",
+    "mobiles": [
+      "01718976184",
+      "01799587762"
+    ],
+    "other_phones": [],
+    "email": "golamrosul182@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "AL-AMIN MOHILA DAKHIL MADRASA"
+      ],
+      "post_offices": [
+        "BALADANGA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-satkhira",
+      "thana_id": "BD-THANA-khulna-satkhira-satkhira-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118899"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

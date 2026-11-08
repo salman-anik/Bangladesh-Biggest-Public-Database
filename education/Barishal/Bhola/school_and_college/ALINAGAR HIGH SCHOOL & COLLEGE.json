@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101214",
+  "institution": {
+    "eiin": "101214",
+    "name": "ALINAGAR HIGH SCHOOL & COLLEGE",
+    "name_bn": "আলীনগর স্কুল এন্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Bhola Sadar",
+    "address": "ALINAGAR",
+    "post_office": "Bhola Sadar",
+    "mobiles": [
+      "01796379767",
+      "01747610145"
+    ],
+    "other_phones": [],
+    "email": "alinagarschoolandcollege1975@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-bhola-sadar",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-101214"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

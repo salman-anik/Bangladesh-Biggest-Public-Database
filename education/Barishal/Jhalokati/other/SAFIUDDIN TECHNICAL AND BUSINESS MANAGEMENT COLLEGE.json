@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132387",
+                        "name":  "SAFIUDDIN TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+                        "name_bn":  "সফিউদ্দিন টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Jhalokati",
+                        "thana":  "Kanthalia",
+                        "address":  "UTTAR CHENCHRI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01714660513",
+                                        "01716894199"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-jhalokati",
+                                          "thana_id":  "BD-THANA-barishal-jhalokati-kanthalia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132387"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\jhalokati\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110071",
+  "institution": {
+    "eiin": "110071",
+    "name": "FAZILPUR GIRLS DAKHIL MADRASAH",
+    "name_bn": "ফাজিলপুর বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Madarganj",
+    "address": "FAZILPUR",
+    "post_office": "Melandah",
+    "mobiles": [
+      "01733981116"
+    ],
+    "other_phones": [],
+    "email": "fazilpur90@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TEGHARIA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-madarganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110071"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

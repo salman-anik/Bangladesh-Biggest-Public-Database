@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109266",
+  "institution": {
+    "eiin": "109266",
+    "name": "BAROIGAON MAHILA DAKHIL MADRASA",
+    "name_bn": "বাড়ৈগাঁও মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kapasia",
+    "address": "BAROIGAON",
+    "post_office": "kapashia",
+    "mobiles": [
+      "01814495726"
+    ],
+    "other_phones": [],
+    "email": "baroigaonbd100@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "BARAIGAON"
+      ],
+      "post_offices": [
+        "RANIGONJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kapasia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109266"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

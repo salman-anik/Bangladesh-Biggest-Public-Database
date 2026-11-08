@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139689",
+                        "name":  "RAHIMA FIRUJ SIKDER HIGH SCHOOL",
+                        "name_bn":  "রহিমা-ফিরোজ সিকদার উচ্চ বিদ্যালয়",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Sylhet",
+                        "district":  "Sylhet",
+                        "thana":  "Osmaninagar",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01720327875"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-sylhet",
+                                          "thana_id":  "BD-THANA-sylhet-sylhet-osmaninagar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139689"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\sylhet\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

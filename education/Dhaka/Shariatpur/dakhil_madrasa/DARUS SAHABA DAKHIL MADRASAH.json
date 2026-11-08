@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "134741",
+  "institution": {
+    "eiin": "134741",
+    "name": "DARUS SAHABA DAKHIL MADRASAH",
+    "name_bn": "দারুস সাহাবা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Bhedarganj",
+    "address": "MOLLA KANDI",
+    "post_office": "Bhedorganj",
+    "mobiles": [
+      "01709901629",
+      "01837420106"
+    ],
+    "other_phones": [],
+    "email": "dsdm02@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "D M KHALI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-bhedarganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-134741"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

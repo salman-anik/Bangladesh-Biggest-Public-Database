@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102153",
+  "institution": {
+    "eiin": "102153",
+    "name": "SOUTH AROJBEGI DAKAHIL MADRASAH",
+    "name_bn": "দক্ষিণ আরজবেগী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Dashmina",
+    "address": "ARAJBEGI",
+    "post_office": "Dashmina",
+    "mobiles": [
+      "01745676106",
+      "01714660538"
+    ],
+    "other_phones": [],
+    "email": "madrasah102153@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AROJBEGI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-dashmina",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102153"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

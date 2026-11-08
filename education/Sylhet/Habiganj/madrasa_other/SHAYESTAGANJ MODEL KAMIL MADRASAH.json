@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "129442",
+  "institution": {
+    "eiin": "129442",
+    "name": "SHAYESTAGANJ MODEL KAMIL MADRASAH",
+    "name_bn": "শায়েস্তাগঞ্জ মডেল কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "thana": "SHAYESTAGANJ",
+    "address": "LANZAPARA",
+    "post_office": "Shaestaganj",
+    "mobiles": [
+      "01716037078"
+    ],
+    "other_phones": [],
+    "email": "skmadrasahbd@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHAYESTAGANJ"
+      ],
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Habiganj",
+          "thana": "Habiganj Sadar",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-habiganj",
+      "thana_id": "BD-THANA-sylhet-habiganj-shayestaganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-129442"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

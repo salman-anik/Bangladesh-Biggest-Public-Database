@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119316",
+  "institution": {
+    "eiin": "119316",
+    "name": "MADLA TANJIMUL ULUM DAKHIL MADRASAH",
+    "name_bn": "মাদলা তানজিমুল উলুম দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Shajahanpur",
+    "address": "MADLA",
+    "post_office": "Bogura Sadar",
+    "mobiles": [
+      "01728951635",
+      "01718935342"
+    ],
+    "other_phones": [],
+    "email": "madladakhil@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MADLA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-shajahanpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119316"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

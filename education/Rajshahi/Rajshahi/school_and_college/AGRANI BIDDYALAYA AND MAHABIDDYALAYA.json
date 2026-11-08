@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "126495",
+  "institution": {
+    "eiin": "126495",
+    "name": "AGRANI BIDDYALAYA AND MAHABIDDYALAYA",
+    "name_bn": "অগ্রণী বিদ্যালয় ও মহাবিদ্যালয়",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "thana": "Boalia",
+    "address": "RUET CHATTAR",
+    "post_office": "Kazla",
+    "mobiles": [
+      "01711191440",
+      "01711909547"
+    ],
+    "other_phones": [],
+    "email": "agraniruet@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Rajshahi",
+          "district": "Rajshahi",
+          "thana": "Matihar",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-rajshahi",
+      "thana_id": "BD-THANA-rajshahi-rajshahi-boalia",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-126495"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

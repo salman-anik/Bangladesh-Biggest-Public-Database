@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136697",
+                        "name":  "FIRST CAPITAL UNIVERSITY OF BANGLADESH",
+                        "name_bn":  "ফার্স্ট ক্যাপিটাল ইউনিভার্সিটি অব বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Khulna",
+                        "district":  "Chuadanga",
+                        "thana":  "Chuadanga Sadar",
+                        "address":  "SHAHNAZ MANSON, ALAMDANGA ROAD",
+                        "post_office":  "Chuadanga Sadar",
+                        "mobiles":  [
+                                        "01727226799"
+                                    ],
+                        "other_phones":  [
+                                             "076162722"
+                                         ],
+                        "email":  "first_capital_bd@yahoo.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-chuadanga",
+                                          "thana_id":  "BD-THANA-khulna-chuadanga-chuadanga-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136697"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\chuadanga\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

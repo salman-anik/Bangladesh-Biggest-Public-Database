@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101550",
+  "institution": {
+    "eiin": "101550",
+    "name": "PANGASIA KERAMATIA DAKHIL MADRASHA",
+    "name_bn": "পাংগাশিয়া কেরামতিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Lalmohan",
+    "address": "PANGASHIA",
+    "post_office": "Gazaria",
+    "mobiles": [
+      "01761298048"
+    ],
+    "other_phones": [],
+    "email": "m101550@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PANGASEYA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-lalmohan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101550"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123237",
+  "institution": {
+    "eiin": "123237",
+    "name": "GHONA ADARSHA HIGH SCHOOL AND COLLEGE",
+    "name_bn": "ঘোনা আদর্শ হাইস্কুল এন্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "GHONA",
+    "post_office": "Khodmohanpur",
+    "mobiles": [
+      "01717088774"
+    ],
+    "other_phones": [],
+    "email": "sch123237@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_S",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "GHONA ADARSHA HIGH SCHOOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-123237"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

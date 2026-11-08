@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101926",
+  "institution": {
+    "eiin": "101926",
+    "name": "PASHCHIM CHARAKHALI AZIZIA DAKHIL MADRASHA",
+    "name_bn": "পশ্চিম চাড়াখালী আজিজিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "thana": "Rajapur",
+    "address": "PASHCHIM CHARAKHALI",
+    "post_office": "Rajapur",
+    "mobiles": [
+      "01721021972"
+    ],
+    "other_phones": [],
+    "email": "m101926@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHARA KHALI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-jhalokati",
+      "thana_id": "BD-THANA-barishal-jhalokati-rajapur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101926"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123892",
+  "institution": {
+    "eiin": "123892",
+    "name": "LOKMAN PUR COLLEGE",
+    "name_bn": "লোকমানপুর মহাবিদ্যালয়",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Bagatipara",
+    "address": "LOKMAN PUR",
+    "post_office": "Laxman",
+    "mobiles": [
+      "01719864414"
+    ],
+    "other_phones": [],
+    "email": "lokmanpur.co@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-bagatipara",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123892"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

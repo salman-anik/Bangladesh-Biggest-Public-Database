@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100852",
+  "institution": {
+    "eiin": "100852",
+    "name": "BAGHIA GAUSUL AZAM MAHILA DAKHIL MADRASHA",
+    "name_bn": "বাঘিয়া গাউসুল আজম মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Barisal Sadar (Kotwali)",
+    "address": "MADRASHA ROAD",
+    "post_office": "Kashipur",
+    "mobiles": [
+      "01728423915"
+    ],
+    "other_phones": [],
+    "email": "bgawdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-barisal-sadar-kotwali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100852"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

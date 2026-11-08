@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114572",
+  "institution": {
+    "eiin": "114572",
+    "name": "TEBARIA KAMIL MADRASAH",
+    "name_bn": "তেবাড়িয়া কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Nagarpur",
+    "address": "TEBARIA",
+    "post_office": "Salimabad",
+    "mobiles": [
+      "01715475454",
+      "01711939679"
+    ],
+    "other_phones": [],
+    "email": "tebariamadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-nagarpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114572"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

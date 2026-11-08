@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114522",
+  "institution": {
+    "eiin": "114522",
+    "name": "AG CHAMARI KHUSHI ALIM MADRASHA",
+    "name_bn": "আগচামারী খুশি দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Mirzapur",
+    "address": "AGCHMARI",
+    "post_office": "Jarmuki",
+    "mobiles": [
+      "01716000878"
+    ],
+    "other_phones": [],
+    "email": "akushidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAMARI FATEPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-mirzapur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114522"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

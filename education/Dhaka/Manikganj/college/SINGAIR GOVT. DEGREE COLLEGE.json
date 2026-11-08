@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111084",
+  "institution": {
+    "eiin": "111084",
+    "name": "SINGAIR GOVT. DEGREE COLLEGE",
+    "name_bn": "সিংগাইর সরকারি ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Singair",
+    "address": "SINGAIR",
+    "post_office": "Singair",
+    "mobiles": [
+      "01915984201"
+    ],
+    "other_phones": [],
+    "email": "singaircollege@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "SINGAIR COLLEGE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-singair",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111084"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

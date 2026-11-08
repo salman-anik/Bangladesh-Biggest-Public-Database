@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103165",
+  "institution": {
+    "eiin": "103165",
+    "name": "COLONEL BAZAR DARUS SUNNAT DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "thana": "Akhaura",
+    "address": "COLONEL BAZAR",
+    "post_office": "COLONEL BAZAR",
+    "mobiles": [
+      "01720415061",
+      "01646000663"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-brahmanbaria",
+      "thana_id": "BD-THANA-chattogram-brahmanbaria-akhaura",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103165"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

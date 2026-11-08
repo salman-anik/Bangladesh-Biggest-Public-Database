@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136479",
+                        "name":  "NOAPARA ASIA COMPUTER TRAINING CENTER",
+                        "name_bn":  "নওয়াপাড়া এশিয়া কম্পিউটার ট্রেনিং সেন্টার",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jashore",
+                        "thana":  "Abhaynagar",
+                        "address":  "RAJGHAT",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01720535350"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jashore",
+                                          "thana_id":  "BD-THANA-khulna-jashore-abhaynagar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136479"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jashore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

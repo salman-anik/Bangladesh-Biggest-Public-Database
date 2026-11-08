@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108034",
+  "institution": {
+    "eiin": "108034",
+    "name": "RAMPURA EKRAMUNNESA DEGREE COLLEGE",
+    "name_bn": "রামপুরা একরামুন্নেছা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Rampura",
+    "address": "463 DIT. ROAD, RAMPURA, DHAKA",
+    "post_office": "KhilgaonTSO",
+    "mobiles": [
+      "01517056666"
+    ],
+    "other_phones": [],
+    "email": "rampuraeakramunessacollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Khilgaon",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-rampura",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108034"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

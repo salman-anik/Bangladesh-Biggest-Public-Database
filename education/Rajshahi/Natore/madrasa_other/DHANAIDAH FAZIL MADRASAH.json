@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123945",
+  "institution": {
+    "eiin": "123945",
+    "name": "DHANAIDAH FAZIL MADRASAH",
+    "name_bn": "ধানাইদহ ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "DHANAIDAHA",
+    "post_office": "Rajapur",
+    "mobiles": [
+      "01718880247",
+      "01711416905"
+    ],
+    "other_phones": [],
+    "email": "m_123945@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "DHANIDHA ISLAMIA DEGREE MADRASA"
+      ],
+      "post_offices": [
+        "PANCHBARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123945"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

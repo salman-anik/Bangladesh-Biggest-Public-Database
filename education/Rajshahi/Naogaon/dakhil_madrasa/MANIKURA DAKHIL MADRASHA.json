@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123793",
+  "institution": {
+    "eiin": "123793",
+    "name": "MANIKURA DAKHIL MADRASHA",
+    "name_bn": "মানিকুড়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Sapahar",
+    "address": "MANIKURA",
+    "post_office": "Sapahar",
+    "mobiles": [
+      "01714732400"
+    ],
+    "other_phones": [],
+    "email": "manikuradakhilmadrasah@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-sapahar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123793"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

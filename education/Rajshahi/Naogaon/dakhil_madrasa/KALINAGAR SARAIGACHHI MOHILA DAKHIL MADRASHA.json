@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123700",
+  "institution": {
+    "eiin": "123700",
+    "name": "KALINAGAR SARAIGACHHI MOHILA DAKHIL MADRASHA",
+    "name_bn": "কালিনগর সারাইগাছী মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Porsha",
+    "address": "SARAIGACHHI",
+    "post_office": "Panguria",
+    "mobiles": [
+      "01761705074"
+    ],
+    "other_phones": [],
+    "email": "madr123700@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GANGURIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-porsha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123700"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

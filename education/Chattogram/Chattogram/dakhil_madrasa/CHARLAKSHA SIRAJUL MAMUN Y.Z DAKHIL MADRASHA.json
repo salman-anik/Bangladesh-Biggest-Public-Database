@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104765",
+  "institution": {
+    "eiin": "104765",
+    "name": "CHARLAKSHA SIRAJUL MAMUN Y.Z DAKHIL MADRASHA",
+    "name_bn": "চরলক্ষ্যা সিরাজুল মুনির গাউছিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Karnaphuli Upazila",
+    "address": "CHARLAKSHA",
+    "post_office": "4371",
+    "mobiles": [
+      "01819841936"
+    ],
+    "other_phones": [],
+    "email": "charlakhyadmadrasha1974@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Chattogram",
+          "thana": "Patiya",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-karnaphuli-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104765"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

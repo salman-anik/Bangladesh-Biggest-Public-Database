@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130254",
+  "institution": {
+    "eiin": "130254",
+    "name": "MANIKKUNA DARUL QUERAT SUNNIA ALIM MADRASAH",
+    "name_bn": "মানিককোনা দারুল কেরাত সুন্নিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Fenchuganj",
+    "address": "MANIK KUNA",
+    "post_office": "Fenchuganj",
+    "mobiles": [
+      "01773652875"
+    ],
+    "other_phones": [],
+    "email": "manikkunasdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "MANIK KUNA DARUL KARAT SUNNIA DAKHIL MADRASHA"
+      ],
+      "addresses": [
+        "MANNIK KUNA"
+      ],
+      "post_offices": [
+        "MANIK KONA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-fenchuganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130254"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

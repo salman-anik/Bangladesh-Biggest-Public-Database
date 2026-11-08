@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "115691",
+  "institution": {
+    "eiin": "115691",
+    "name": "BORNI DAKHIL MADRASAH",
+    "name_bn": "বর্নি দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Jashore",
+    "thana": "Chaugachha",
+    "address": "BORNI",
+    "post_office": "Chougachha",
+    "mobiles": [
+      "01709907623",
+      "01729317761"
+    ],
+    "other_phones": [],
+    "email": "mbor115691@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAMKRISHNA PUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-jashore",
+      "thana_id": "BD-THANA-khulna-jashore-chaugachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-115691"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100827",
+  "institution": {
+    "eiin": "100827",
+    "name": "MAKHOR KATI HORINA FULLIA DAKHIL MADRASAH",
+    "name_bn": "মাখরকাঠী হরিনাফুলিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Barisal Sadar (Kotwali)",
+    "address": "MAKHOR KATI",
+    "post_office": "Barishal Sadar",
+    "mobiles": [
+      "01781351957",
+      "01711264467",
+      "01753624158"
+    ],
+    "other_phones": [],
+    "email": "mhdmad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HARINA FULIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-barisal-sadar-kotwali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100827"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

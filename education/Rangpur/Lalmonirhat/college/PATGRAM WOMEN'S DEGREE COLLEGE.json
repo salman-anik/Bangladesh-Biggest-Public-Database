@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123028",
+  "institution": {
+    "eiin": "123028",
+    "name": "PATGRAM WOMEN'S DEGREE COLLEGE",
+    "name_bn": "পাটগ্রাম মহিলা ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Rangpur",
+    "district": "Lalmonirhat",
+    "thana": "Patgram",
+    "address": "5/236 CSB RD",
+    "post_office": "Patgram",
+    "mobiles": [
+      "01716227464"
+    ],
+    "other_phones": [],
+    "email": "patgramwomenscollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-lalmonirhat",
+      "thana_id": "BD-THANA-rangpur-lalmonirhat-patgram",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123028"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

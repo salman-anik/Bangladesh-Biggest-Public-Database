@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109411",
+  "institution": {
+    "eiin": "109411",
+    "name": "BARAMA GIRLS DAKHIL MADRASHA",
+    "name_bn": "বরামা বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Sreepur",
+    "address": "BARAMA",
+    "post_office": "Barmi",
+    "mobiles": [
+      "01939477497",
+      "01715341810"
+    ],
+    "other_phones": [],
+    "email": "super109411@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BARMI BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-sreepur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109411"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

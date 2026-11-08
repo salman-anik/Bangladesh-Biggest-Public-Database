@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109314",
+  "institution": {
+    "eiin": "109314",
+    "name": "DURGAPUR DARUL MILLAT DAKHIL MADRASHA",
+    "name_bn": "দূর্গাপুর দারুল মিল্লাত দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kapasia",
+    "address": "DURGAPUR",
+    "post_office": "kapashia",
+    "mobiles": [
+      "01747407777"
+    ],
+    "other_phones": [],
+    "email": "durgapurdmdmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAWNAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kapasia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109314"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

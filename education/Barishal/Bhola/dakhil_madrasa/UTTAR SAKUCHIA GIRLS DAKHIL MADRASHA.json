@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101585",
+  "institution": {
+    "eiin": "101585",
+    "name": "UTTAR SAKUCHIA GIRLS DAKHIL MADRASHA",
+    "name_bn": "উত্তর সাকুচিয়া মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Manpura",
+    "address": "UTTAR SAKICHIA",
+    "post_office": "Hajirhat",
+    "mobiles": [
+      "01716571860"
+    ],
+    "other_phones": [],
+    "email": "mm101585@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MASTER HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-manpura",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101585"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108200",
+  "institution": {
+    "eiin": "108200",
+    "name": "MASZIDUL AKBER ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "মসজিদুল আকবার ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Shah Ali",
+    "address": "BLOCK- C & E, ROAD NO-9",
+    "post_office": "Mirpur",
+    "mobiles": [
+      "01711949565",
+      "01717137510"
+    ],
+    "other_phones": [],
+    "email": "maszidulakbar.dm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "BLOCK-ESC, ROAD NO-4"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-shah-ali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108200"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

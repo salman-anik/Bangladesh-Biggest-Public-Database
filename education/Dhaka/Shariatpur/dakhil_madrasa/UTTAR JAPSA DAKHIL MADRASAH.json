@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113604",
+  "institution": {
+    "eiin": "113604",
+    "name": "UTTAR JAPSA DAKHIL MADRASAH",
+    "name_bn": "উত্তর জপসা দাখিল মাদ্রাসা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Naria",
+    "address": "ASHAMI KANDI",
+    "post_office": "Bhozeshwar",
+    "mobiles": [
+      "01766168337",
+      "01922954158"
+    ],
+    "other_phones": [],
+    "email": "uttarjapsamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAPSA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-naria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113604"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

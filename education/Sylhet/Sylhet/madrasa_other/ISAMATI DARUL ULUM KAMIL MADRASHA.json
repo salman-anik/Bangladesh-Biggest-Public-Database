@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130523",
+  "institution": {
+    "eiin": "130523",
+    "name": "ISAMATI DARUL ULUM KAMIL MADRASHA",
+    "name_bn": "ইছামতি দারুল উলুম কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Zakiganj",
+    "address": "KHOLADAPNIA",
+    "post_office": "Ichhamati",
+    "mobiles": [
+      "01713816624",
+      "01731646360"
+    ],
+    "other_phones": [],
+    "email": "isamotikamilzakiganj@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ISAMATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-zakiganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130523"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

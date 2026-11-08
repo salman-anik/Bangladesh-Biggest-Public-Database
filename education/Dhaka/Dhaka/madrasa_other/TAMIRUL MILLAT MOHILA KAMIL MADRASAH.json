@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107902",
+  "institution": {
+    "eiin": "107902",
+    "name": "TAMIRUL MILLAT MOHILA KAMIL MADRASAH",
+    "name_bn": "তামীরুল মিল্লাত মহিলা কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Demra",
+    "address": "HAZI BADSHAMIAH ROAD",
+    "post_office": "TOSHARDARAH",
+    "mobiles": [
+      "01712501157",
+      "01933234575"
+    ],
+    "other_phones": [],
+    "email": "millatmohila@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "TAMIRUL MILLAT KAMIL MADRASAH (MOHILA)"
+      ],
+      "addresses": [
+        "BADSHAMIAH ROAD"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-demra",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-107902"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

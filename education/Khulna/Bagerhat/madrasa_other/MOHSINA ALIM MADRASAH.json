@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "115018",
+  "institution": {
+    "eiin": "115018",
+    "name": "MOHSINA ALIM MADRASAH",
+    "name_bn": "মোহসিনিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "thana": "Mongla",
+    "address": "RAZZAK SOROK ,SHELABUNIA",
+    "post_office": "Chalna Ankorage",
+    "mobiles": [
+      "01925296657"
+    ],
+    "other_phones": [],
+    "email": "mohsiniaalim@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "RAZZAK SOROK"
+      ],
+      "post_offices": [
+        "SHELABUNIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-bagerhat",
+      "thana_id": "BD-THANA-khulna-bagerhat-mongla",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-115018"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

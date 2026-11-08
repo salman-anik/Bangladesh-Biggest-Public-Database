@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132130",
+                        "name":  "SHAKILA IDEAL TECNICAL B.M COLLEGE",
+                        "name_bn":  "শালিখা আইডিয়াল টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Magura",
+                        "thana":  "Shalikha",
+                        "address":  "NOYPOTI BOWLIA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01915725484",
+                                        "01713795340"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-magura",
+                                          "thana_id":  "BD-THANA-khulna-magura-shalikha",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132130"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\magura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

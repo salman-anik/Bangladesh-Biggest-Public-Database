@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110123",
+  "institution": {
+    "eiin": "110123",
+    "name": "MELANDAH SADR ISLAMIA SENIOR FAZIL MADRASHA",
+    "name_bn": "মেলান্দহ সদর ইসলামিয়া ফাজিল সিনিয়র মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Melandaha",
+    "address": "SHAH JADPUR",
+    "post_office": "Jalalpur",
+    "mobiles": [
+      "01718903185",
+      "01983888780"
+    ],
+    "other_phones": [],
+    "email": "melandahsadarfazilmadrasah@gmail.com",
+    "management": "LOCAL GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-melandaha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110123"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

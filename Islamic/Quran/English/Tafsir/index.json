@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "title": "English Quran tafsir",
+  "language": "en",
+  "datasets": {
+    "verse_by_verse": {
+      "name": "English tafsir by verse",
+      "key_format": "surah:ayah",
+      "record_count_per_tafsir": 6236,
+      "record_shape": {
+        "text": "Tafsir text",
+        "ayah_keys": "Optional related verse keys",
+        "string_value": "Reference to another verse key whose tafsir is reused"
+      },
+      "translations": {
+        "abridged_explanation": {
+          "name": "Abridged Explanation of the Quran",
+          "file": "verse-by-verse/abridged-explanation-of-the-quran.json",
+          "record_count": 6236
+        },
+        "ibn_kathir": {
+          "name": "Tafsir Ibn Kathir",
+          "file": "verse-by-verse/en-tafisr-ibn-kathir.json",
+          "record_count": 6236
+        },
+        "maarif_ul_quran": {
+          "name": "Tafsir Maarif-ul-Quran",
+          "file": "verse-by-verse/en-tafsir-maarif-ul-quran.json",
+          "record_count": 6236
+        },
+        "tazkirul_quran": {
+          "name": "Tazkirul Quran",
+          "file": "verse-by-verse/tazkirul-quran-en.json",
+          "record_count": 6236
+        }
+      }
+    }
+  },
+  "notes": [
+    "All four datasets contain the same 6,236 verse keys as the Uthmani Quran.",
+    "Source-provided string references and related ayah keys are preserved.",
+    "Source ZIP archives are removed after extraction and verification."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136684",
+                        "name":  "INTERNATIONAL ISLAMIC UNIVERSITY,CHITTAGONG",
+                        "name_bn":  "আন্তর্জাতিক ইসলামী বিশ্ববিদ্যালয় চট্টগ্রাম",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Sitakunda",
+                        "address":  "KUMIRA, SITAKUNDA, CHITTAGONG",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711814837"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@iiuc.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION-SEPARATE SHIFT",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "UPAZILA SADAR NOT POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-sitakunda",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136684"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111127",
+  "institution": {
+    "eiin": "111127",
+    "name": "GOVT. LOHAJANG COLLEGE",
+    "name_bn": "সরকারি লৌহজং কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Lohajang",
+    "address": "BORO NAOPARA",
+    "post_office": "Lohajang",
+    "mobiles": [
+      "01727253906"
+    ],
+    "other_phones": [],
+    "email": "lohajangcollege@yahoo.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "LOHAJANG DEGREE COLLEGE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-lohajang",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111127"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

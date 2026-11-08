@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117107",
+  "institution": {
+    "eiin": "117107",
+    "name": "KHULNA GOVT. WOMEN COLLEGE",
+    "name_bn": "খুলনা সরকারি মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khan Jahan Ali",
+    "address": "JALIL SORONI",
+    "post_office": "Chattogram GPO",
+    "mobiles": [
+      "01718051123"
+    ],
+    "other_phones": [],
+    "email": "kgcprin.ad@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "KHULNA GOVERNMENT GIRLS COLLEGE"
+      ],
+      "locations": [
+        {
+          "division": "Khulna",
+          "district": "Khulna",
+          "thana": "Khalishpur",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khan-jahan-ali",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-117107"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

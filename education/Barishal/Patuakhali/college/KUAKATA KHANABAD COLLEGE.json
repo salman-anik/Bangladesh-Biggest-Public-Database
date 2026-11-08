@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102399",
+  "institution": {
+    "eiin": "102399",
+    "name": "KUAKATA KHANABAD COLLEGE",
+    "name_bn": "কুয়াকাটা খানাবাদ কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Kala Para",
+    "address": "LATACHAPALI",
+    "post_office": null,
+    "mobiles": [
+      "01716645190"
+    ],
+    "other_phones": [],
+    "email": "kuakatakhanabadcollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-kala-para",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-102399"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

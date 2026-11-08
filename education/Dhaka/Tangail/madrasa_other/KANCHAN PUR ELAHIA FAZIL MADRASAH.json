@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113999",
+  "institution": {
+    "eiin": "113999",
+    "name": "KANCHAN PUR ELAHIA FAZIL MADRASAH",
+    "name_bn": "কাঞ্চনপুর এলাহিয়া কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Basail",
+    "address": "KANCHAN PUR WEST PARA",
+    "post_office": "Basail",
+    "mobiles": [
+      "01819843482"
+    ],
+    "other_phones": [],
+    "email": "kanchanpurelahiafazilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KANCHAN PUR"
+      ],
+      "post_offices": [
+        "KANCHAN PUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-basail",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113999"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

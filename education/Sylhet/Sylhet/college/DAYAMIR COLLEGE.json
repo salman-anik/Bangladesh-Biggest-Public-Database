@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130126",
+  "institution": {
+    "eiin": "130126",
+    "name": "DAYAMIR COLLEGE",
+    "name_bn": "দয়ামীর কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "DAYAMIR",
+    "post_office": "Sylhet Sadar",
+    "mobiles": [
+      "01733377719",
+      "01712610251"
+    ],
+    "other_phones": [],
+    "email": "dayamircollege1@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-130126"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

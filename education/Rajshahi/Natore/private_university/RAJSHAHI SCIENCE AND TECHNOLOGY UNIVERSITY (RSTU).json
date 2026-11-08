@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136711",
+                        "name":  "RAJSHAHI SCIENCE AND TECHNOLOGY UNIVERSITY (RSTU)",
+                        "name_bn":  "রাজশাহী সাইন্স এন্ড টেকনোলজি ইউনিভাসিটি (আরএসটিইউ), নাটোর ।",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rajshahi",
+                        "district":  "Natore",
+                        "thana":  "Natore Sadar",
+                        "address":  "112",
+                        "post_office":  "Natore Sadar",
+                        "mobiles":  [
+                                        "01914889365",
+                                        "01786899446"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "rstuniversity@yahoo.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-natore",
+                                          "thana_id":  "BD-THANA-rajshahi-natore-natore-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136711"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\natore\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

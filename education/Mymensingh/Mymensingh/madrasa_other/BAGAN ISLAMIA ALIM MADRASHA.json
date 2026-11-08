@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112251",
+  "institution": {
+    "eiin": "112251",
+    "name": "BAGAN ISLAMIA ALIM MADRASHA",
+    "name_bn": "বাগান ইসলামিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Trishal",
+    "address": "BAGAN",
+    "post_office": "Chandpurbagan",
+    "mobiles": [
+      "01761582827",
+      "01715818783",
+      "01875071229"
+    ],
+    "other_phones": [],
+    "email": "biam112251@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BAGAN"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-trishal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112251"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

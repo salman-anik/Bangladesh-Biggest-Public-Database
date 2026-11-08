@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123889",
+  "institution": {
+    "eiin": "123889",
+    "name": "JAMNAGAR DEGREE COLLEGE",
+    "name_bn": "জামনগর ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Bagatipara",
+    "address": "JAMNAGAR",
+    "post_office": "Laxman",
+    "mobiles": [
+      "01735148002"
+    ],
+    "other_phones": [
+      "017129422652"
+    ],
+    "email": "jamnagarcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-bagatipara",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123889"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

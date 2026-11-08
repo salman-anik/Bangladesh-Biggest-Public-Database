@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108700",
+  "institution": {
+    "eiin": "108700",
+    "name": "KADIRDI DAKIL MADRASHA",
+    "name_bn": "কাদিরদী দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "thana": "Boalmari",
+    "address": "KADIRDI",
+    "post_office": "Boalmari",
+    "mobiles": [
+      "01726140686",
+      "01718332060"
+    ],
+    "other_phones": [],
+    "email": "kadirdidakhilmadrasah@gmail.com",
+    "management": "LOCAL GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KADIRDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-faridpur",
+      "thana_id": "BD-THANA-dhaka-faridpur-boalmari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108700"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

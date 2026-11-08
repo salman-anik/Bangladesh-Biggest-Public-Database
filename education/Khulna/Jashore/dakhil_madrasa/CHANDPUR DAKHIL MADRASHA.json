@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "116090",
+  "institution": {
+    "eiin": "116090",
+    "name": "CHANDPUR DAKHIL MADRASHA",
+    "name_bn": "চাঁদপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Jashore",
+    "thana": "Kotwali",
+    "address": "CHANDPUR",
+    "post_office": "Jashore Sadar",
+    "mobiles": [
+      "01728238272",
+      "01729870274"
+    ],
+    "other_phones": [],
+    "email": "chandpurdakhilmadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BHEKUTIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-jashore",
+      "thana_id": "BD-THANA-khulna-jashore-kotwali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-116090"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

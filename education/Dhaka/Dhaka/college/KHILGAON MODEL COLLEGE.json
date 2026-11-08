@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108385",
+  "institution": {
+    "eiin": "108385",
+    "name": "KHILGAON MODEL COLLEGE",
+    "name_bn": "খিলগাঁও মডেল কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Khilgaon",
+    "address": "KHILGAON",
+    "post_office": "KhilgaonTSO",
+    "mobiles": [
+      "01714219458"
+    ],
+    "other_phones": [],
+    "email": "model.college.khilgaon@gmail.gom",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-khilgaon",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108385"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

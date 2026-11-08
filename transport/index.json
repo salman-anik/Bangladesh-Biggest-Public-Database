@@ -1,0 +1,21 @@
+{
+  "title": "Bangladesh Transportation & Travel Database",
+  "description": "Comprehensive national transportation dataset covering Bangladesh Railway stations, all Intercity passenger trains, route schedules, fare tables, inter-district highway bus routes and operators, inland waterways & launch routes, and airports.",
+  "version": "2.0.0",
+  "total_railway_stations": 20,
+  "total_intercity_trains": 21,
+  "total_train_fare_matrices": 8,
+  "total_bus_corridors": 4,
+  "total_launch_corridors": 3,
+  "total_airports": 8,
+  "files": {
+    "railway_stations": "railway_stations.json",
+    "intercity_trains": "intercity_trains.json",
+    "train_fares": "train_fares.json",
+    "bus_routes": "bus_routes.json",
+    "launch_routes": "launch_routes.json",
+    "airports": "airports.json",
+    "by_route": "by_route/",
+    "viewer": "index.html"
+  }
+}

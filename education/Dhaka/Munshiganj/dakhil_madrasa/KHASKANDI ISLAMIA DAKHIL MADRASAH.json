@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111196",
+  "institution": {
+    "eiin": "111196",
+    "name": "KHASKANDI ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "খাসকান্দি ইসলামিয়া দাখিল মাদ্রাসা ।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Serajdikhan",
+    "address": "KHASKANDI",
+    "post_office": "Sirajdikhan",
+    "mobiles": [
+      "01731056010"
+    ],
+    "other_phones": [],
+    "email": "khaskandimadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "KHASKANDI ISLAMIA DAKHIL MDRASHA"
+      ],
+      "post_offices": [
+        "RAMKRISHNADI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-serajdikhan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111196"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

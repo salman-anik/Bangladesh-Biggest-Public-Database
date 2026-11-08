@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133358",
+                        "name":  "AGRICULTURE TRANING INSTITUTE,SYLHET",
+                        "name_bn":  "কৃষি প্রশিক্ষণ ইনস্টিটিউট, সিলেট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Sylhet",
+                        "district":  "Sylhet",
+                        "thana":  "Sylhet Sadar",
+                        "address":  "KHADIMNAGAR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01715420664",
+                                        "01716563466"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-sylhet",
+                                          "thana_id":  "BD-THANA-sylhet-sylhet-sylhet-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133358"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\sylhet\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

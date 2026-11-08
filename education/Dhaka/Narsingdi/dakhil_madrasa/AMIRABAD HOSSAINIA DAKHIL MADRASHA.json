@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112805",
+  "institution": {
+    "eiin": "112805",
+    "name": "AMIRABAD HOSSAINIA DAKHIL MADRASHA",
+    "name_bn": "আমিরাবাদ হোসাইনিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Roypura",
+    "address": "AMIRABAD",
+    "post_office": "Narsingdi Sadar",
+    "mobiles": [
+      "01714264115"
+    ],
+    "other_phones": [],
+    "email": "ahd112805@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NILAKHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-roypura",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112805"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

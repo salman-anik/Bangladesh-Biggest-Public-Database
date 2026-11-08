@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123130",
+  "institution": {
+    "eiin": "123130",
+    "name": "JAGADISHPUR DAKHIL MADRASA",
+    "name_bn": "জগদীশপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Badalgachhi",
+    "address": "JAGADISHPUR",
+    "post_office": "jamalganj",
+    "mobiles": [
+      "01716347439",
+      "01709006081"
+    ],
+    "other_phones": [],
+    "email": "jagadishpur.dakhil.mad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-badalgachhi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123130"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

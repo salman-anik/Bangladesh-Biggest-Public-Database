@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104485",
+  "institution": {
+    "eiin": "104485",
+    "name": "KARNAPHULI A J CHOWDHURY COLLEGE",
+    "name_bn": "কর্ণফুলী আবদুল জলিল চৌধুরী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Karnaphuli Upazila",
+    "address": "SIKALBAHA",
+    "post_office": "Budhpara",
+    "mobiles": [
+      "01711903587",
+      "01815815909"
+    ],
+    "other_phones": [],
+    "email": "ppajcdc@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "PASCHIM PATIYA A.J.CHOWDHURY DEGREE COLLEGE"
+      ],
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Chattogram",
+          "thana": "Patiya",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-karnaphuli-upazila",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-104485"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

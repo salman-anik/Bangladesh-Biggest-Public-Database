@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "132146",
+  "institution": {
+    "eiin": "132146",
+    "name": "KAFCO SCHOOL AND COLLEGE",
+    "name_bn": "কাফকো স্কুল এন্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Anowara",
+    "address": "KAFCO COLONY",
+    "post_office": "Chattogram GPO",
+    "mobiles": [
+      "01717301699",
+      "01713109099"
+    ],
+    "other_phones": [],
+    "email": "samrian.chowdhury@kafcobd.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-anowara",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-132146"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

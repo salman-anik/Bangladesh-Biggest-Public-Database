@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123076",
+  "institution": {
+    "eiin": "123076",
+    "name": "BARAIKURI ISLAMIA DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Atrai",
+    "address": "BARAIKURI",
+    "post_office": "PAIKARA",
+    "mobiles": [
+      "01725084890"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-atrai",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123076"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

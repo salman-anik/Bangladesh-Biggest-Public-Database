@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100830",
+  "institution": {
+    "eiin": "100830",
+    "name": "BISARAD MOHILA DAKHIL MADRASHA",
+    "name_bn": "বিশারদ মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Barisal Sadar (Kotwali)",
+    "address": "BISARAD",
+    "post_office": "Saheberhat",
+    "mobiles": [
+      "01733255438"
+    ],
+    "other_phones": [],
+    "email": "bisirodmohilamadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-barisal-sadar-kotwali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100830"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

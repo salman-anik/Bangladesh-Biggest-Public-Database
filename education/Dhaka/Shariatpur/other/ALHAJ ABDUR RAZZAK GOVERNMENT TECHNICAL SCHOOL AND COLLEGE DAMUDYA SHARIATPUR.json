@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139497",
+                        "name":  "ALHAJ ABDUR RAZZAK GOVERNMENT TECHNICAL SCHOOL AND COLLEGE DAMUDYA SHARIATPUR",
+                        "name_bn":  "আলহাজ্ব আব্দুর রাজ্জাক সরকারি টেকনিক্যাল স্কুল ও কলেজ, ডামুড্যা, শরীয়তপুর",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Shariatpur",
+                        "thana":  "Damudya",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711154917"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-shariatpur",
+                                          "thana_id":  "BD-THANA-dhaka-shariatpur-damudya",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139497"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\shariatpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

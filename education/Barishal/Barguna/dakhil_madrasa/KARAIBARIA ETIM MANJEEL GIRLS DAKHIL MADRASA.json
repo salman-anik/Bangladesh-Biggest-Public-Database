@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100064",
+  "institution": {
+    "eiin": "100064",
+    "name": "KARAIBARIA ETIM MANJEEL GIRLS DAKHIL MADRASA",
+    "name_bn": "কড়ইবাড়ীয়া এতিম মঞ্জিল বালিকা দাখিল মাদরাসা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Taltali",
+    "address": "GENDAMARA",
+    "post_office": "Amtali",
+    "mobiles": [
+      "01748960089"
+    ],
+    "other_phones": [],
+    "email": "meiin100064@gimail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BEHALA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-taltali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100064"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "106232",
+  "institution": {
+    "eiin": "106232",
+    "name": "BADARKHALI COLLEGE",
+    "name_bn": "বদরখালী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "thana": "Chakaria",
+    "address": "BADARKHALI",
+    "post_office": "Badarkali",
+    "mobiles": [
+      "01714500323"
+    ],
+    "other_phones": [],
+    "email": "106232@bise-ctg.gov.bd",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cox-s-bazar",
+      "thana_id": "BD-THANA-chattogram-cox-s-bazar-chakaria",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-106232"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

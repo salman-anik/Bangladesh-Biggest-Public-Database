@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "140025",
+  "institution": {
+    "eiin": "140025",
+    "name": "GANGCHIL RAHMANIA DAKHIL MADRASAH",
+    "name_bn": "গাংচিল রহমানিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Companiganj",
+    "address": null,
+    "post_office": null,
+    "mobiles": [
+      "01733627016"
+    ],
+    "other_phones": [],
+    "email": "gangchilrahmania@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-companiganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-140025"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

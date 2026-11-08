@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102974",
+  "institution": {
+    "eiin": "102974",
+    "name": "PASCHIM BALIPARA NURIA DAKHIL MADRASAH",
+    "name_bn": "পশ্চিম বালিপাড়া নুরিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Indurkani",
+    "address": "BALIPARA",
+    "post_office": "Parerhat",
+    "mobiles": [
+      "01726851017"
+    ],
+    "other_phones": [],
+    "email": "m102974@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BALIPARA"
+      ],
+      "locations": [
+        {
+          "division": "Barishal",
+          "district": "Pirojpur",
+          "thana": "Zianagar",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-indurkani",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102974"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

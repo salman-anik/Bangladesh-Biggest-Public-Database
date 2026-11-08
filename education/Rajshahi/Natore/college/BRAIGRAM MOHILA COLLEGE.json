@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123973",
+  "institution": {
+    "eiin": "123973",
+    "name": "BRAIGRAM MOHILA COLLEGE",
+    "name_bn": "বড়াইগ্রাম মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "P.H.V.NG-29",
+    "post_office": "Harua",
+    "mobiles": [
+      "01712095488"
+    ],
+    "other_phones": [],
+    "email": "cic00488@gpcic.org",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "OTHER POURA AREAS",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123973"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

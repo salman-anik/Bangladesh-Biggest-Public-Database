@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111615",
+  "institution": {
+    "eiin": "111615",
+    "name": "SADUA ABU SYEDIA DAKHIL MADRASAH",
+    "name_bn": "সাদুয়া আবু সাঈদীয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gaffargaon",
+    "address": "SADHUA",
+    "post_office": "Kandipara",
+    "mobiles": [
+      "01613375384",
+      "01914660152"
+    ],
+    "other_phones": [],
+    "email": "super.sasdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SADHUA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gaffargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111615"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

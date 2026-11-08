@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136686",
+                        "name":  "SOUTHERN UNIVERSITY OF BANGLADESH",
+                        "name_bn":  "সাউদার্ন ইউনিভার্সিটি বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Kotwali",
+                        "address":  "739/A, MEHADIBAG ROAD, CHITTAGONG",
+                        "post_office":  "Bayezid Bostami",
+                        "mobiles":  [
+                                        "01711395977"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@southern.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "OTHER POURA AREAS",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-kotwali",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136686"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

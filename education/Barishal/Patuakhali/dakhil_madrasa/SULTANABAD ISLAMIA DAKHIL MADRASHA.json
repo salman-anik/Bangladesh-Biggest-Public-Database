@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102053",
+  "institution": {
+    "eiin": "102053",
+    "name": "SULTANABAD ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "সুলতানাবাদ ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Bauphal",
+    "address": "SULTANABAD",
+    "post_office": "Bauphal",
+    "mobiles": [
+      "01735537967"
+    ],
+    "other_phones": [],
+    "email": "sultanabadmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHANDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-bauphal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102053"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

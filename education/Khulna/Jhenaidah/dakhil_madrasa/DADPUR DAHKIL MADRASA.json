@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "116626",
+  "institution": {
+    "eiin": "116626",
+    "name": "DADPUR DAHKIL MADRASA",
+    "name_bn": "দাদপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Jhenaidah",
+    "thana": "Kaliganj",
+    "address": "DADPUR",
+    "post_office": "Naldanga",
+    "mobiles": [
+      "01706089676",
+      "01727462755"
+    ],
+    "other_phones": [],
+    "email": "dadpurdmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHISHUTALA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-jhenaidah",
+      "thana_id": "BD-THANA-khulna-jhenaidah-kaliganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-116626"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

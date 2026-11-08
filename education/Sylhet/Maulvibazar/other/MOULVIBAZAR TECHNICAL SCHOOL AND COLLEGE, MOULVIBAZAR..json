@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133577",
+                        "name":  "MOULVIBAZAR TECHNICAL SCHOOL AND COLLEGE, MOULVIBAZAR.",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Sylhet",
+                        "district":  "Maulvibazar",
+                        "thana":  "Maulvibazar Sadar",
+                        "address":  "BOROBARI",
+                        "post_office":  null,
+                        "mobiles":  [
+
+                                    ],
+                        "other_phones":  [
+                                             "07176338848"
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-maulvibazar",
+                                          "thana_id":  "BD-THANA-sylhet-maulvibazar-maulvibazar-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133577"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\maulvibazar\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

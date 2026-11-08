@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "116379",
+                        "name":  "BARO BARIA PANBARIA HAZRAT M.S. (S:) DAKHIL MADRASHA",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jashore",
+                        "thana":  "Sharsha",
+                        "address":  "BARO BARIA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01935642136"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jashore",
+                                          "thana_id":  "BD-THANA-khulna-jashore-sharsha",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-116379"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jashore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

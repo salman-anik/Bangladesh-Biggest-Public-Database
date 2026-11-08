@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140275",
+                        "name":  "TIPU SULTAN INSTITUTE OF AGRICULTURAL TECHNOLOGY",
+                        "name_bn":  "টিপু সুলতান কৃষি প্রযুক্তি ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Kushtia",
+                        "thana":  "Mirpur",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712040860"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-kushtia",
+                                          "thana_id":  "BD-THANA-khulna-kushtia-mirpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140275"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\kushtia\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

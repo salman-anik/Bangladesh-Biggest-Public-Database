@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105924",
+  "institution": {
+    "eiin": "105924",
+    "name": "FAIZGONJ ISLAMIA ALIM MADRASHA",
+    "name_bn": "ফয়েজগঞ্জ ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Lalmai",
+    "address": "PERUL",
+    "post_office": "Laksam",
+    "mobiles": [
+      "01731364753"
+    ],
+    "other_phones": [],
+    "email": "faizganjmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PARUL"
+      ],
+      "post_offices": [
+        "BHORA JAGATPUR"
+      ],
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Cumilla",
+          "thana": "Comilla Sadar Dakshin",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-lalmai",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105924"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

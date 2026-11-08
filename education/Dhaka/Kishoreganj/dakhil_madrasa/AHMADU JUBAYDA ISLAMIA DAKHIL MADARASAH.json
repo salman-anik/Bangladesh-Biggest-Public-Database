@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110318",
+  "institution": {
+    "eiin": "110318",
+    "name": "AHMADU JUBAYDA ISLAMIA DAKHIL MADARASAH",
+    "name_bn": "আহমাদু জুবায়দা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Hossainpur",
+    "address": "CHARPUMDI",
+    "post_office": "Kishoreganj Sadar",
+    "mobiles": [
+      "01721636732"
+    ],
+    "other_phones": [],
+    "email": "ahamadujubaida1980@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR PUMDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-hossainpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110318"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "127132",
+  "institution": {
+    "eiin": "127132",
+    "name": "PACHANDAR MOHILA DAKHIL MADRASHA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "thana": "Tanore",
+    "address": "PACHANDOR",
+    "post_office": "CHINASHO",
+    "mobiles": [
+      "01747480546"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-rajshahi",
+      "thana_id": "BD-THANA-rajshahi-rajshahi-tanore",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-127132"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

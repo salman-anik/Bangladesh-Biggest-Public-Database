@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118725",
+  "institution": {
+    "eiin": "118725",
+    "name": "BOALIA ADARSHO MOHILA DAKHIL MADRASHA",
+    "name_bn": "বোয়ালিয়া আদর্শ মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "thana": "Kalaroa",
+    "address": "BOALIA",
+    "post_office": "kalaroa",
+    "mobiles": [
+      "01727008401"
+    ],
+    "other_phones": [],
+    "email": "m118725@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "B0ALIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-satkhira",
+      "thana_id": "BD-THANA-khulna-satkhira-kalaroa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118725"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

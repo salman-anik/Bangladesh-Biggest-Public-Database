@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "133798",
+  "institution": {
+    "eiin": "133798",
+    "name": "DHAKA MODEL DEGREE COLEGE",
+    "name_bn": "ঢাকা মডেল ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Mirpur",
+    "address": "30 MAIN ROAD",
+    "post_office": "Dhaka Cantonment--TSO",
+    "mobiles": [
+      "01672922585",
+      "01911401228"
+    ],
+    "other_phones": [],
+    "email": "dhakamodelcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-mirpur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-133798"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

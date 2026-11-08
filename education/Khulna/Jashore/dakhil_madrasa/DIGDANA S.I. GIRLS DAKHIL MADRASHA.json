@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "115792",
+  "institution": {
+    "eiin": "115792",
+    "name": "DIGDANA S.I. GIRLS DAKHIL MADRASHA",
+    "name_bn": "দিকদানা এস আই বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Jashore",
+    "thana": "Jhikargachha",
+    "address": "DIGDANA",
+    "post_office": "Jhikargachha",
+    "mobiles": [
+      "01917876540"
+    ],
+    "other_phones": [],
+    "email": "digdanasibalikadhakilmadrasa@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DIGDANA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-jashore",
+      "thana_id": "BD-THANA-khulna-jashore-jhikargachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-115792"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

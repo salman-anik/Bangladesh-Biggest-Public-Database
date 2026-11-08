@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109108",
+  "institution": {
+    "eiin": "109108",
+    "name": "SHALDAHPARA MOLLA HOSSAIN DAKHIL MADRASHA",
+    "name_bn": "শালদহপাড়া মোল্লা হোসাইন দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kaliakair",
+    "address": "SHALDA PARA",
+    "post_office": "B.O.F",
+    "mobiles": [
+      "01712566485"
+    ],
+    "other_phones": [],
+    "email": "spmhdm109108@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "FUL BARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kaliakair",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109108"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

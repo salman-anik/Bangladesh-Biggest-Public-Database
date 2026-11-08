@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104925",
+  "institution": {
+    "eiin": "104925",
+    "name": "MOHAMMADIA ADARSHA DAKHIL MADRASHA",
+    "name_bn": "মোহাম্মদীয়া আর্দশ দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Raozan",
+    "address": "PASHCHIM GUJRA",
+    "post_office": "Guzra Noapara",
+    "mobiles": [
+      "01819940238",
+      "01817200733"
+    ],
+    "other_phones": [],
+    "email": "adarsha17615@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "URKIRCHAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-raozan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104925"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

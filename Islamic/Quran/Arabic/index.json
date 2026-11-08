@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "title": "Uthmani Quran text data",
+  "language": "ar",
+  "related_datasets": {
+    "topics": "../Topics/index.json"
+  },
+  "recitation": "Recitation/index.json",
+  "tafsir": "Tafsir/index.json",
+  "datasets": {
+    "word_by_word": {
+      "name": "Word-by-word",
+      "file": "word-by-word.json",
+      "record_count": 83668,
+      "key_format": "surah:ayah:word",
+      "verse_count": 6236
+    },
+    "verse_by_verse": {
+      "name": "Verse-by-verse",
+      "file": "verse-by-verse.json",
+      "record_count": 6236,
+      "key_format": "surah:ayah"
+    }
+  },
+  "notes": [
+    "Records and Arabic text are preserved from the original JSON files.",
+    "Word records reference verses by their surah:ayah key."
+  ]
+}

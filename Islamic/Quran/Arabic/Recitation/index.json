@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "title": "Quran recitation reference data",
+  "language": "ar",
+  "datasets": {
+    "reciters": {
+      "name": "Quran reciters",
+      "file": "reciters.json",
+      "record_count": 227
+    },
+    "surahs": {
+      "name": "Surah metadata",
+      "file": "surahs.json",
+      "record_count": 114
+    }
+  }
+}

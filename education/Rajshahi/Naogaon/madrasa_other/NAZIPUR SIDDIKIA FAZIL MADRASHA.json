@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123618",
+  "institution": {
+    "eiin": "123618",
+    "name": "NAZIPUR SIDDIKIA FAZIL MADRASHA",
+    "name_bn": "নজিপুর সিদ্দিকীয়া ফাজিল (ডিগ্রি)মাদরাসা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Patnitala",
+    "address": "NAZIPUR",
+    "post_office": "Patnitala",
+    "mobiles": [
+      "01718876640",
+      "01716050285",
+      "01718845366"
+    ],
+    "other_phones": [],
+    "email": "nazipurmadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-patnitala",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123618"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

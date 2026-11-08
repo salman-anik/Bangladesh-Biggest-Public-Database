@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112873",
+  "institution": {
+    "eiin": "112873",
+    "name": "LAKHPUR MOHILA DAKHIL MADRASAH",
+    "name_bn": "লাখপুর মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Shibpur",
+    "address": "LAKHPUR",
+    "post_office": "Hatirdia",
+    "mobiles": [
+      "01716015377",
+      "01715287566"
+    ],
+    "other_phones": [],
+    "email": "lwdm80@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "LAKHPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-shibpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112873"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

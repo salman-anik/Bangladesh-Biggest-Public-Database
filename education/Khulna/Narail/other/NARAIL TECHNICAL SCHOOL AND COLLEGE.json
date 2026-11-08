@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132925",
+                        "name":  "NARAIL TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "নড়াইল সরকারি টেকনিক্যাল স্কুল ও কলেজ, নড়াইল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Narail",
+                        "thana":  "Narail Sadar",
+                        "address":  "ALADATPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711154917",
+                                        "01712242437"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-narail",
+                                          "thana_id":  "BD-THANA-khulna-narail-narail-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132925"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\narail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

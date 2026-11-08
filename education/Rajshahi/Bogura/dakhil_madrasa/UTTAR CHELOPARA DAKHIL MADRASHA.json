@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119237",
+  "institution": {
+    "eiin": "119237",
+    "name": "UTTAR CHELOPARA DAKHIL MADRASHA",
+    "name_bn": "উত্তর চেলোপাড়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Bogra Sadar",
+    "address": "CHELOPARA",
+    "post_office": "Bogura Canttonment",
+    "mobiles": [
+      "01724216102"
+    ],
+    "other_phones": [],
+    "email": "uttarchelopara@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BOGURA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-bogra-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119237"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123296",
+  "institution": {
+    "eiin": "123296",
+    "name": "RABA AKTER ALIM MADRASHA",
+    "name_bn": "রেবা আখতার আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "BORPOI",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01718171164"
+    ],
+    "other_phones": [],
+    "email": "123296mad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123296"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

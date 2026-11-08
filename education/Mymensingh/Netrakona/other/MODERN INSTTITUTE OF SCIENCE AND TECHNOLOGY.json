@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136250",
+                        "name":  "MODERN INSTTITUTE OF SCIENCE AND TECHNOLOGY",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Netrakona",
+                        "thana":  "Netrokona Sadar",
+                        "address":  "BANUAPARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01758247650"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-netrakona",
+                                          "thana_id":  "BD-THANA-mymensingh-netrakona-netrokona-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136250"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\netrakona\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

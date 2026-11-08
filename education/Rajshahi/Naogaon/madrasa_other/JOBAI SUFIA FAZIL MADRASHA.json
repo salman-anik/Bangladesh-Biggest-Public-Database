@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123783",
+  "institution": {
+    "eiin": "123783",
+    "name": "JOBAI SUFIA FAZIL MADRASHA",
+    "name_bn": "জবই সুফিয়া কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Sapahar",
+    "address": "JOBAI",
+    "post_office": "Sapahar",
+    "mobiles": [
+      "01718874823",
+      "01739123783"
+    ],
+    "other_phones": [],
+    "email": "jabaisufifmd@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JOBAI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-sapahar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123783"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

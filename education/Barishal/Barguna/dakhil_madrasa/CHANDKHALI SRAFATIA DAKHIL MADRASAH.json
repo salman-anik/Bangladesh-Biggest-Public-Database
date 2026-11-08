@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100275",
+  "institution": {
+    "eiin": "100275",
+    "name": "CHANDKHALI SRAFATIA DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Betagi",
+    "address": "AYELA CHANDKHALI",
+    "post_office": "AYEA CHANDKHALI",
+    "mobiles": [
+      "01776241945"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-betagi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100275"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

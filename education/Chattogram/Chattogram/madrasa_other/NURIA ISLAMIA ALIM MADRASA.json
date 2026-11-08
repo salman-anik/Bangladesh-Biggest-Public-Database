@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105100",
+  "institution": {
+    "eiin": "105100",
+    "name": "NURIA ISLAMIA ALIM MADRASA",
+    "name_bn": "নুরিয়া ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Sitakunda",
+    "address": "CHOTO KUMIRA",
+    "post_office": "Kumira",
+    "mobiles": [
+      "01711447425"
+    ],
+    "other_phones": [],
+    "email": "niam105100@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MACHIGIDDA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-sitakunda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105100"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

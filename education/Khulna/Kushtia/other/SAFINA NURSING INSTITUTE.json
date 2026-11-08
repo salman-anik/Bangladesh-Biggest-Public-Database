@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133586",
+                        "name":  "SAFINA NURSING INSTITUTE",
+                        "name_bn":  "সাফিনা নার্সিং ইনস্টিটিউট,কুষ্টিয়া",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Kushtia",
+                        "thana":  "Kushtia Sadar",
+                        "address":  "38/1 CHAND MOHAMMAD ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01725085680"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-kushtia",
+                                          "thana_id":  "BD-THANA-khulna-kushtia-kushtia-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133586"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\kushtia\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119531",
+  "institution": {
+    "eiin": "119531",
+    "name": "HAMIDPUR GIRLS DAKHIL MADRASHA",
+    "name_bn": "হামিদ পুর বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Gabtali",
+    "address": "HAMIDPUR",
+    "post_office": "Gabtoli",
+    "mobiles": [
+      "01734140508",
+      "01726234346"
+    ],
+    "other_phones": [],
+    "email": "drgolamsoroar@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GABTALI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-gabtali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119531"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

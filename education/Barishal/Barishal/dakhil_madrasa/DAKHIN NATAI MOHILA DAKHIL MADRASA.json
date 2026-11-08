@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100699",
+  "institution": {
+    "eiin": "100699",
+    "name": "DAKHIN NATAI MOHILA DAKHIL MADRASA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Gaurnadi",
+    "address": "DAKHIN NATAI",
+    "post_office": "NATHAI",
+    "mobiles": [
+      "01718704356",
+      "01736928171"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-gaurnadi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100699"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101266",
+  "institution": {
+    "eiin": "101266",
+    "name": "DEULA MONOWARA GIRLS DAKHIL MADRASHA",
+    "name_bn": "দেউলা মনোয়ারা বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Burhanuddin",
+    "address": "DEULA",
+    "post_office": "Borhanuddin UPO",
+    "mobiles": [
+      "01717387439"
+    ],
+    "other_phones": [
+      "0194377657",
+      "194377657"
+    ],
+    "email": "m101266@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TALUKDER BARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-burhanuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101266"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

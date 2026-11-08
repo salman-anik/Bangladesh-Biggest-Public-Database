@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100243",
+  "institution": {
+    "eiin": "100243",
+    "name": "AYLA COLLEGE",
+    "name_bn": "আয়লা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Barguna Sadar",
+    "address": "ADABARIA",
+    "post_office": null,
+    "mobiles": [
+      "01721115062"
+    ],
+    "other_phones": [],
+    "email": "aylacollege2001@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "AILA COLLEGE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-barguna-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-100243"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

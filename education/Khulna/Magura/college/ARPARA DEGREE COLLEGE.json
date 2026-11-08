@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118123",
+  "institution": {
+    "eiin": "118123",
+    "name": "ARPARA DEGREE COLLEGE",
+    "name_bn": "আড়পাড়া কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Khulna",
+    "district": "Magura",
+    "thana": "Shalikha",
+    "address": "ARPARA",
+    "post_office": "Arpara",
+    "mobiles": [
+      "01713917020"
+    ],
+    "other_phones": [],
+    "email": "arparacollege.info@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-magura",
+      "thana_id": "BD-THANA-khulna-magura-shalikha",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-118123"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

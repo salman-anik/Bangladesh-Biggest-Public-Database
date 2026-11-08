@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108204",
+  "institution": {
+    "eiin": "108204",
+    "name": "BAITUL MOSHARRAF SENIOR MADRASAH",
+    "name_bn": "বায়তুল মোশাররফ (আলিম) সিনিয়র মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Mirpur",
+    "address": "SECSION 6 BOLOK -A, PLUT-M-02 MIRPUR DHAKA - 1216",
+    "post_office": "Mirpur TSO",
+    "mobiles": [
+      "01819209418",
+      "01712539496"
+    ],
+    "other_phones": [],
+    "email": "baitulmosharraf@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "BATTUL MOHARRAF SENIOR MADRASAH"
+      ],
+      "post_offices": [
+        "MIRPUR -2"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-mirpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108204"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

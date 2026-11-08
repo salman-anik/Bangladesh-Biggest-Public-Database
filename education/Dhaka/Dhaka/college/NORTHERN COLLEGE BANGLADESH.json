@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "134571",
+  "institution": {
+    "eiin": "134571",
+    "name": "NORTHERN COLLEGE BANGLADESH",
+    "name_bn": "নর্দান কলেজ বাংলাদেশ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Tejgaon",
+    "address": "1/2 ASADGATE",
+    "post_office": "Tejgaon TSO",
+    "mobiles": [
+      "01911333224"
+    ],
+    "other_phones": [],
+    "email": "northern_college2000@yahoo.com",
+    "management": "CHRISTIAN MISSIONARY",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Mohammadpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-tejgaon",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-134571"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

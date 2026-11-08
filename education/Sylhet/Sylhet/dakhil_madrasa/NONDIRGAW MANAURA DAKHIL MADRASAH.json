@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "eiin": "139889",
+  "institution": {
+    "eiin": "139889",
+    "name": "NONDIRGAW MANAURA DAKHIL MADRASAH",
+    "name_bn": "নন্দিরগাঁও মানাউরা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Gowainghat",
+    "address": null,
+    "post_office": null,
+    "mobiles": [],
+    "other_phones": [],
+    "email": "nmdmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-gowainghat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-139889"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

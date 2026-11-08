@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "124109",
+  "institution": {
+    "eiin": "124109",
+    "name": "BHOBANIPUR DAKHIL MADRASAH",
+    "name_bn": "ভবানীপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Lalpur",
+    "address": "BHOBANIPUR",
+    "post_office": "Rajapur",
+    "mobiles": [
+      "01717418848",
+      "01724223171"
+    ],
+    "other_phones": [],
+    "email": "bhabanipurdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PACBARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-lalpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-124109"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

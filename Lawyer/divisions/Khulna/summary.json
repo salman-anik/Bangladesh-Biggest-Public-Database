@@ -1,0 +1,92 @@
+{
+  "total": 723,
+  "districts": {
+    "Magura": {
+      "total": 55,
+      "status_breakdown": {
+        "Active Member": 47,
+        "Defaulter": 3,
+        "Transferred": 5
+      }
+    },
+    "Narail": {
+      "total": 58,
+      "status_breakdown": {
+        "Active Member": 51,
+        "Defaulter": 4,
+        "Transferred": 3
+      }
+    },
+    "Kushtia": {
+      "total": 65,
+      "status_breakdown": {
+        "Active Member": 56,
+        "Defaulter": 5,
+        "Transferred": 4
+      }
+    },
+    "Jashore": {
+      "total": 94,
+      "status_breakdown": {
+        "Active Member": 76,
+        "Defaulter": 6,
+        "Transferred": 12
+      }
+    },
+    "Jhenaidah": {
+      "total": 110,
+      "status_breakdown": {
+        "Active Member": 98,
+        "Defaulter": 6,
+        "Transferred": 6
+      }
+    },
+    "Chuadanga": {
+      "total": 50,
+      "status_breakdown": {
+        "Active Member": 41,
+        "Transferred": 5,
+        "Defaulter": 4
+      }
+    },
+    "Meherpur": {
+      "total": 38,
+      "status_breakdown": {
+        "Active Member": 31,
+        "Defaulter": 4,
+        "Transferred": 3
+      }
+    },
+    "Khulna": {
+      "total": 75,
+      "status_breakdown": {
+        "Active Member": 59,
+        "Defaulter": 9,
+        "Transferred": 7
+      }
+    },
+    "Bagerhat": {
+      "total": 86,
+      "status_breakdown": {
+        "Active Member": 73,
+        "Defaulter": 5,
+        "Transferred": 8
+      }
+    },
+    "Satkhira": {
+      "total": 92,
+      "status_breakdown": {
+        "Active Member": 72,
+        "Transferred": 6,
+        "Defaulter": 13,
+        "Inactive": 1
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 604,
+    "Transferred": 59,
+    "Defaulter": 59,
+    "Inactive": 1
+  }
+}

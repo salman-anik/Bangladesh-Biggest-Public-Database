@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107411",
+  "institution": {
+    "eiin": "107411",
+    "name": "AMKI MOHILA ALIM MADRASHA",
+    "name_bn": "আমকী মহিলা আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Sonaimuri",
+    "address": "AMKI",
+    "post_office": "Sonaimuri",
+    "mobiles": [
+      "01725055859"
+    ],
+    "other_phones": [],
+    "email": "amkimohilaam107411@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AMKI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-sonaimuri",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-107411"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

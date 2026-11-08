@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108205",
+  "institution": {
+    "eiin": "108205",
+    "name": "BAONIABAD ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "বাউনিয়াবাদ ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Pallabi",
+    "address": "BAONIABAND. BLOCK-D .",
+    "post_office": "Mirpur TSO",
+    "mobiles": [
+      "01558004301"
+    ],
+    "other_phones": [],
+    "email": "baoniabadislamiaa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "BAONIABAND ISLAMIA ALIM MADRASHA"
+      ],
+      "addresses": [
+        "BAONIABAND"
+      ],
+      "post_offices": [
+        "MIRPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-pallabi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108205"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

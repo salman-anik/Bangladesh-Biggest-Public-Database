@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117230",
+  "institution": {
+    "eiin": "117230",
+    "name": "KALNA GIRLS DAKHIL MADRASA",
+    "name_bn": "কালনা মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Koyra",
+    "address": "KALNA",
+    "post_office": "Koyra",
+    "mobiles": [
+      "01912955936",
+      "01914835745"
+    ],
+    "other_phones": [],
+    "email": "kmdm1993@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ANTABUNIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-koyra",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117230"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

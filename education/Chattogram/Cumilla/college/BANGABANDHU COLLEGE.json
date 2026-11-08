@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105250",
+  "institution": {
+    "eiin": "105250",
+    "name": "BANGABANDHU COLLEGE",
+    "name_bn": "ব্রাহ্মণপাড়া সরকারি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Brahman Para",
+    "address": "NAGAISH",
+    "post_office": "Comilla Sadar",
+    "mobiles": [
+      "01711375842"
+    ],
+    "other_phones": [],
+    "email": "bangabandhucollege98@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-brahman-para",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-105250"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

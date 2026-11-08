@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111024",
+  "institution": {
+    "eiin": "111024",
+    "name": "GOLORA ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "গোলড়া ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Saturia",
+    "address": "GOLORA",
+    "post_office": "Manikganj Sadar",
+    "mobiles": [
+      "01711278958"
+    ],
+    "other_phones": [],
+    "email": "goloramadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KOITTA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-saturia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111024"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

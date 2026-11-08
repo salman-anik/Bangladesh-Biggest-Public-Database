@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111520",
+  "institution": {
+    "eiin": "111520",
+    "name": "ALHAJ MOBARAK KHAN COLLEGE",
+    "name_bn": "আলহাজ মোবারক খান মহাবিদ্যালয়",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Fulbaria",
+    "address": "BAKTA",
+    "post_office": "Fulbaria",
+    "mobiles": [
+      "01733274562"
+    ],
+    "other_phones": [
+      "017122557172"
+    ],
+    "email": "alhazmobarakkhancollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-fulbaria",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111520"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

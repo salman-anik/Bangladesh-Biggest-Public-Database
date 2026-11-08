@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103067",
+  "institution": {
+    "eiin": "103067",
+    "name": "SHEANGAL DARGAH BARI DAKHIL MADRASAH",
+    "name_bn": "সেহাংগল দরগাহবাড়ী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Nesarabad (Swarupkati)",
+    "address": "SHEANGAL",
+    "post_office": "Kaukhali",
+    "mobiles": [
+      "01712306758"
+    ],
+    "other_phones": [
+      "10712306758"
+    ],
+    "email": "shehangaldarghabaridakhilmadra@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHEHANGAL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-nesarabad-swarupkati",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103067"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132935",
+                        "name":  "BAGBARI KARIGORY SCHOOL AND B M COLLEGE",
+                        "name_bn":  "বাগবাড়ি কারিগরি স্কুল এন্ড বি এম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Bogura",
+                        "thana":  "Sonatola",
+                        "address":  "BAGBARI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01723467693"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-bogura",
+                                          "thana_id":  "BD-THANA-rajshahi-bogura-sonatola",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132935"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\bogura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

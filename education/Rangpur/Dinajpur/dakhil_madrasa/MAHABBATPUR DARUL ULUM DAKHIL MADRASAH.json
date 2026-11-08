@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120809",
+  "institution": {
+    "eiin": "120809",
+    "name": "MAHABBATPUR DARUL ULUM DAKHIL MADRASAH",
+    "name_bn": "মহব্বতপুর দারুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Dinajpur Sadar",
+    "address": "MAHABBATPUR",
+    "post_office": "Dinajpur Sadar",
+    "mobiles": [
+      "01718132539"
+    ],
+    "other_phones": [],
+    "email": "mdudm_dinajpur@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHERADANGI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-dinajpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120809"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140207",
+                        "name":  "FINE ARTS HEALTH AND PHYSICAL EDUCATION INSTITUTE",
+                        "name_bn":  "চারুকলা, স্বাস্থ্য ও শারীরিক শিক্ষা ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Rajshahi",
+                        "thana":  "Boalia",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01726792309"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-rajshahi",
+                                          "thana_id":  "BD-THANA-rajshahi-rajshahi-boalia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140207"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\rajshahi\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

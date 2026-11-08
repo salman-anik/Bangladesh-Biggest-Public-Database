@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "136254",
+  "institution": {
+    "eiin": "136254",
+    "name": "STANDARD COLLEGE",
+    "name_bn": "স্ট্যান্ডার্ড কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Narsingdi Sadar",
+    "address": "BRAHMONDI",
+    "post_office": null,
+    "mobiles": [
+      "01717159595"
+    ],
+    "other_phones": [],
+    "email": "principalstandard@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-narsingdi-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-136254"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119319",
+  "institution": {
+    "eiin": "119319",
+    "name": "BARO ANJUL DARUL AMAN BALAK DHAKIL MADRASHA",
+    "name_bn": "বারআঞ্জুল দারুল আমান বালক দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Shajahanpur",
+    "address": null,
+    "post_office": "Bogura Sadar",
+    "mobiles": [
+      "01725999096",
+      "01711890513"
+    ],
+    "other_phones": [],
+    "email": "baroanjulboysmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "POYAL GACHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-shajahanpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119319"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

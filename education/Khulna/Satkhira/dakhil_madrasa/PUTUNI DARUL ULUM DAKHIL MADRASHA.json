@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118723",
+  "institution": {
+    "eiin": "118723",
+    "name": "PUTUNI DARUL ULUM DAKHIL MADRASHA",
+    "name_bn": "পুটুনি দারুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "thana": "Kalaroa",
+    "address": "PUTUNI 6",
+    "post_office": "kalaroa",
+    "mobiles": [
+      "01718872641"
+    ],
+    "other_phones": [],
+    "email": "m118723@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PUTUNI"
+      ],
+      "post_offices": [
+        "KERALKATA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-satkhira",
+      "thana_id": "BD-THANA-khulna-satkhira-kalaroa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118723"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

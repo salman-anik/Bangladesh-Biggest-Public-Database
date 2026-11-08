@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "title": "Other Islamic Data",
+  "collections": {
+    "daily_worship": {
+      "name": "Daily worship and supplications",
+      "index": "Daily Worship/index.json"
+    },
+    "angels": {
+      "name": "Angels",
+      "file": "Angels/angels.json",
+      "record_count": 9
+    },
+    "names_of_allah": {
+      "name": "Names of Allah",
+      "file": "Names of Allah/names-of-allah.json",
+      "record_count": 100,
+      "notes": "98 names combine matching records while retaining source_variants; both source-specific unmatched records are preserved."
+    },
+    "prophets": {
+      "name": "Prophets",
+      "file": "Prophets/prophets.json",
+      "record_count": 25
+    },
+    "questions": {
+      "name": "Islamic questions",
+      "index": "Questions/index.json"
+    }
+  }
+}

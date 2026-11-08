@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135172",
+                        "name":  "AHAMMAD HARUN TECHNICAL \u0026 BM INSTITUTE",
+                        "name_bn":  "আহম্মদ হারুন কারিগরি ও বিএম ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Patuakhali",
+                        "thana":  "Dumki Upazila",
+                        "address":  "BAHERCHAR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01719561084"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "AHAMMAD HARON TECHNICAL \u0026 BM INSTITUTE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-patuakhali",
+                                          "thana_id":  "BD-THANA-barishal-patuakhali-dumki-upazila",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135172"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\patuakhali\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

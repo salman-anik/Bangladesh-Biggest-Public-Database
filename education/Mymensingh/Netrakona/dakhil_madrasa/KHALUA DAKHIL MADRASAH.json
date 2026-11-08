@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113125",
+  "institution": {
+    "eiin": "113125",
+    "name": "KHALUA DAKHIL MADRASAH",
+    "name_bn": "খালুয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Netrakona",
+    "thana": "Mohanganj",
+    "address": "KHALUA",
+    "post_office": "Mohanganj",
+    "mobiles": [
+      "01718903591"
+    ],
+    "other_phones": [],
+    "email": "khaluadakhilmadrasah21@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHALUA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-netrakona",
+      "thana_id": "BD-THANA-mymensingh-netrakona-mohanganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113125"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109961",
+  "institution": {
+    "eiin": "109961",
+    "name": "JAWLA ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "ঝাওলা ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Jamalpur Sadar",
+    "address": "ZAWLA",
+    "post_office": "Narundi",
+    "mobiles": [
+      "01716721309"
+    ],
+    "other_phones": [],
+    "email": "jidm109961@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "ZAOLA ISLAMIA DAKHIL MADRASHA"
+      ],
+      "addresses": [
+        "ZAOLA"
+      ],
+      "post_offices": [
+        "GOPALPUR BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-jamalpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109961"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

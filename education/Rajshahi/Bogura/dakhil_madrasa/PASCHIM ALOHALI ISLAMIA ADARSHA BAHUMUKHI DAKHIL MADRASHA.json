@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119443",
+  "institution": {
+    "eiin": "119443",
+    "name": "PASCHIM ALOHALI ISLAMIA ADARSHA BAHUMUKHI DAKHIL MADRASHA",
+    "name_bn": "পশ্চিম আলোহালী ইসলামিয়া আদর্শ বহুমুখী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Dhupchanchia",
+    "address": "PASCHIM ALOHALI",
+    "post_office": "Dupchanchia",
+    "mobiles": [
+      "01725734122"
+    ],
+    "other_phones": [],
+    "email": "alohalimadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "PASCHIMA ALOHAL ISLAMIA AS;BHA.DAKHIL MADRASHA"
+      ],
+      "addresses": [
+        "POCHIM ALOHALI"
+      ],
+      "post_offices": [
+        "DHUPCHACHIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-dhupchanchia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119443"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

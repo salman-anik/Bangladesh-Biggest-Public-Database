@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123325",
+  "institution": {
+    "eiin": "123325",
+    "name": "MANDA THANA ADARSHA GIRL'S SCHOOL & COLLEGE",
+    "name_bn": "মান্দা থানা আদর্শ বালিকা বিদ্যালয় ও কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "KAMARKURI",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01706185750",
+      "01718048344"
+    ],
+    "other_phones": [],
+    "email": "mandathanaadarshagsc@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-123325"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

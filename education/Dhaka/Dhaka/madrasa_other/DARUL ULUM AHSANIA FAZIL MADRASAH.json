@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108505",
+  "institution": {
+    "eiin": "108505",
+    "name": "DARUL ULUM AHSANIA FAZIL MADRASAH",
+    "name_bn": "দারুল উলূম আহসানিয়া কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Gendaria",
+    "address": "49/B,SHAH SAHEB LANE, NARINDA.",
+    "post_office": "Dhaka Sadar HO",
+    "mobiles": [
+      "01819169655"
+    ],
+    "other_phones": [],
+    "email": "d.ulumahasania@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "47,SHAH SAHEB LANE"
+      ],
+      "post_offices": [
+        "DHAKA SADAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-gendaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108505"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

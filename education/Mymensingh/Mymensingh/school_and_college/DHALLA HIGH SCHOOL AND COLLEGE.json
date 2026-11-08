@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112194",
+  "institution": {
+    "eiin": "112194",
+    "name": "DHALLA HIGH SCHOOL AND COLLEGE",
+    "name_bn": "ধলা স্কুল এন্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Trishal",
+    "address": "DHALLA",
+    "post_office": "Baroidhala",
+    "mobiles": [
+      "01723176364"
+    ],
+    "other_phones": [],
+    "email": "sc.112194@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_S",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "DHALLA HIGH SCHOOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-trishal",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-112194"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

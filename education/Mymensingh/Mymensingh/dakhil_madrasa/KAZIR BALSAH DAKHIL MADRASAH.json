@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111800",
+  "institution": {
+    "eiin": "111800",
+    "name": "KAZIR BALSAH DAKHIL MADRASAH",
+    "name_bn": "কাজির বলসা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Ishwarganj",
+    "address": "KAZIR BALSAH",
+    "post_office": "Isshwargonj",
+    "mobiles": [
+      "01747601691",
+      "01725347581"
+    ],
+    "other_phones": [],
+    "email": "kbdm111800@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "UCHAKHILA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-ishwarganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111800"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

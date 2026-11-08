@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100081",
+  "institution": {
+    "eiin": "100081",
+    "name": "SOBHANPARA DAKHIL MADRASAH",
+    "name_bn": "সোবহানপাড়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Taltali",
+    "address": "SOBHANPARA",
+    "post_office": "Amtali",
+    "mobiles": [
+      "01716609347"
+    ],
+    "other_phones": [],
+    "email": "meiin100081@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SOBHANPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-taltali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100081"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

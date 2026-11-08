@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120110",
+  "institution": {
+    "eiin": "120110",
+    "name": "RAJUBPUR DAKHIL MADRASHA",
+    "name_bn": "রাজিবপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birganj",
+    "address": "RAJUBPUR",
+    "post_office": "Rani Sankail",
+    "mobiles": [
+      "01740815150"
+    ],
+    "other_phones": [],
+    "email": "rajibpurdakhil14999@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SANKA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120110"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

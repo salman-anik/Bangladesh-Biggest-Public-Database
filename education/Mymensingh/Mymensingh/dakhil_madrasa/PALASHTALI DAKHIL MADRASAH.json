@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111491",
+  "institution": {
+    "eiin": "111491",
+    "name": "PALASHTALI DAKHIL MADRASAH",
+    "name_bn": "পলাশতলী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Fulbaria",
+    "address": "PALASHTALI",
+    "post_office": "Fulbaria",
+    "mobiles": [
+      "01735214457",
+      "01745748510",
+      "01718591364"
+    ],
+    "other_phones": [],
+    "email": "m111491d@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PALASHTALI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-fulbaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111491"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138553",
+                        "name":  "RAJARHAT MODEL KRISHI DIPLOMA COLLEGE",
+                        "name_bn":  "রাজারহাট মডেল কৃষি ডিপ্লোমা কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Kurigram",
+                        "thana":  "Rajarhat",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711041315"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-kurigram",
+                                          "thana_id":  "BD-THANA-rangpur-kurigram-rajarhat",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-138553"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\kurigram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136139",
+                        "name":  "SATU COMPUTER TRAINING INSTITUTE",
+                        "name_bn":  "সেতু কম্পিউটার প্রশিক্ষন ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Tangail",
+                        "thana":  "Bhuapur",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711078263",
+                                        "01713829014"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-tangail",
+                                          "thana_id":  "BD-THANA-dhaka-tangail-bhuapur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136139"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\tangail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

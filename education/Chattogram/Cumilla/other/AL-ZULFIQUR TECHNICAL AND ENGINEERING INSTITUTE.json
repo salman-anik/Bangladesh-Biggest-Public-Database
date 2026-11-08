@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135541",
+                        "name":  "AL-ZULFIQUR TECHNICAL AND ENGINEERING INSTITUTE",
+                        "name_bn":  "আল-জুলফিকার টেকনিক্যাল এন্ড ইঞ্জিনিয়ারিং ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Cumilla",
+                        "thana":  "Manoharganj",
+                        "address":  "POMGAON",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01829414654"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "MD TAJUL ISLAM TECHNICAL AND ENGINEERING INSTITUTE"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-cumilla",
+                                          "thana_id":  "BD-THANA-chattogram-cumilla-manoharganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135541"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\cumilla\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

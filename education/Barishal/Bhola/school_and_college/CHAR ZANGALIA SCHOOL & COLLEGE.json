@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101215",
+  "institution": {
+    "eiin": "101215",
+    "name": "CHAR ZANGALIA SCHOOL & COLLEGE",
+    "name_bn": "চর জাংগালিয়া স্কুল এন্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Bhola Sadar",
+    "address": "CHAR ZANGALIA",
+    "post_office": "Bhola Sadar",
+    "mobiles": [
+      "01733903747",
+      "01716083188"
+    ],
+    "other_phones": [],
+    "email": "raminjsc@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-bhola-sadar",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-101215"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

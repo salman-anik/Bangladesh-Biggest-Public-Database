@@ -1,0 +1,42 @@
+{
+  "total": 97,
+  "districts": {
+    "Sylhet": {
+      "total": 15,
+      "status_breakdown": {
+        "Active Member": 11,
+        "Defaulter": 2,
+        "Transferred": 2
+      }
+    },
+    "Habiganj": {
+      "total": 38,
+      "status_breakdown": {
+        "Active Member": 32,
+        "Defaulter": 2,
+        "Transferred": 4
+      }
+    },
+    "Maulvibazar": {
+      "total": 18,
+      "status_breakdown": {
+        "Active Member": 13,
+        "Defaulter": 3,
+        "Transferred": 2
+      }
+    },
+    "Sunamganj": {
+      "total": 26,
+      "status_breakdown": {
+        "Active Member": 24,
+        "Defaulter": 1,
+        "Transferred": 1
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 80,
+    "Defaulter": 8,
+    "Transferred": 9
+  }
+}

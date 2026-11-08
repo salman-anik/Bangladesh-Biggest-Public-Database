@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123877",
+  "institution": {
+    "eiin": "123877",
+    "name": "JOINTIPUR DAKHIL MADRASA",
+    "name_bn": "জয়ন্তীপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Bagatipara",
+    "address": "JOINTIPUR",
+    "post_office": "Abdulpur",
+    "mobiles": [
+      "01716121286"
+    ],
+    "other_phones": [],
+    "email": "jointipurdakhilmadrasah75@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-bagatipara",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123877"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

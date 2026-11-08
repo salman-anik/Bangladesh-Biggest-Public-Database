@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133004",
+                        "name":  "BAJITPUR TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+                        "name_bn":  "বাজিতপুর টেকনিক্যাল এন্ড বিজনেস মেনেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Tangail",
+                        "thana":  "Dhanbari",
+                        "address":  "BAJITPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01719074594"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-tangail",
+                                          "thana_id":  "BD-THANA-dhaka-tangail-dhanbari",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133004"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\tangail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

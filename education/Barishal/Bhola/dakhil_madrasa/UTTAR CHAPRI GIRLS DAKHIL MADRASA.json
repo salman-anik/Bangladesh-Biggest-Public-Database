@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101617",
+  "institution": {
+    "eiin": "101617",
+    "name": "UTTAR CHAPRI GIRLS DAKHIL MADRASA",
+    "name_bn": "উত্তর চাপড়ি বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Tazumuddin",
+    "address": "3 NO CHANDPUR",
+    "post_office": "Hatshoshiganj",
+    "mobiles": [
+      "01724055733"
+    ],
+    "other_phones": [],
+    "email": "ucgdm101617@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "CHANDPUR"
+      ],
+      "post_offices": [
+        "HUT SHOSHIGONG"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-tazumuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101617"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

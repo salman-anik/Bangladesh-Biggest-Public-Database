@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105650",
+  "institution": {
+    "eiin": "105650",
+    "name": "BANGURI ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "বাঙ্গুরী ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Debidwar",
+    "address": "BANGURI",
+    "post_office": "Davidhar",
+    "mobiles": [
+      "01811905168",
+      "01714534023"
+    ],
+    "other_phones": [],
+    "email": "banguri105650@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "BANGORI"
+      ],
+      "post_offices": [
+        "BANGURI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-debidwar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105650"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

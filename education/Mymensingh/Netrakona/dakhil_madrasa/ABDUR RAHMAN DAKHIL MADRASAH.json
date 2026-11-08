@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "140019",
+  "institution": {
+    "eiin": "140019",
+    "name": "ABDUR RAHMAN DAKHIL MADRASAH",
+    "name_bn": "আব্দুর রহমান দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Netrakona",
+    "thana": "Mohanganj",
+    "address": null,
+    "post_office": null,
+    "mobiles": [
+      "01936849813"
+    ],
+    "other_phones": [],
+    "email": "ardm2017ng@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-netrakona",
+      "thana_id": "BD-THANA-mymensingh-netrakona-mohanganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-140019"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

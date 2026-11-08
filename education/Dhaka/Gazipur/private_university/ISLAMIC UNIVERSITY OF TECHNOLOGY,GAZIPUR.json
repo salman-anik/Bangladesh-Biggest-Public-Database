@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138252",
+                        "name":  "ISLAMIC UNIVERSITY OF TECHNOLOGY,GAZIPUR",
+                        "name_bn":  null,
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Gazipur",
+                        "thana":  "Gazipur Sadar",
+                        "address":  null,
+                        "post_office":  "National University",
+                        "mobiles":  [
+
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "establish@iut-dhaka.edu",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "OTHER POURA AREAS",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-gazipur",
+                                          "thana_id":  "BD-THANA-dhaka-gazipur-gazipur-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138252"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\gazipur\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

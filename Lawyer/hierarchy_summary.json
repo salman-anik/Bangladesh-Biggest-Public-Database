@@ -1,0 +1,649 @@
+{
+  "Chattogram": {
+    "total": 1315,
+    "districts": {
+      "Lakshmipur": {
+        "total": 172,
+        "status_breakdown": {
+          "Active Member": 146,
+          "Defaulter": 10,
+          "Transferred": 15,
+          "Dead": 1
+        }
+      },
+      "Cumilla": {
+        "total": 332,
+        "status_breakdown": {
+          "Active Member": 301,
+          "Defaulter": 17,
+          "Transferred": 13,
+          "Sanad Suspended": 1
+        }
+      },
+      "Noakhali": {
+        "total": 138,
+        "status_breakdown": {
+          "Active Member": 122,
+          "Dead": 1,
+          "Defaulter": 6,
+          "Transferred": 9
+        }
+      },
+      "Chandpur": {
+        "total": 188,
+        "status_breakdown": {
+          "Active Member": 163,
+          "Transferred": 13,
+          "Defaulter": 12
+        }
+      },
+      "Brahmanbaria": {
+        "total": 189,
+        "status_breakdown": {
+          "Active Member": 166,
+          "Defaulter": 10,
+          "Transferred": 13
+        }
+      },
+      "Feni": {
+        "total": 88,
+        "status_breakdown": {
+          "Active Member": 78,
+          "Defaulter": 5,
+          "Transferred": 5
+        }
+      },
+      "Chattogram": {
+        "total": 109,
+        "status_breakdown": {
+          "Active Member": 89,
+          "Defaulter": 14,
+          "Transferred": 6
+        }
+      },
+      "Rangamati": {
+        "total": 5,
+        "status_breakdown": {
+          "Active Member": 5
+        }
+      },
+      "Cox's Bazar": {
+        "total": 75,
+        "status_breakdown": {
+          "Active Member": 51,
+          "Defaulter": 12,
+          "Transferred": 12
+        }
+      },
+      "Khagrachhari": {
+        "total": 11,
+        "status_breakdown": {
+          "Active Member": 6,
+          "Transferred": 5
+        }
+      },
+      "Bandarban": {
+        "total": 8,
+        "status_breakdown": {
+          "Defaulter": 1,
+          "Active Member": 6,
+          "Transferred": 1
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 1133,
+      "Dead": 2,
+      "Defaulter": 87,
+      "Transferred": 92,
+      "Sanad Suspended": 1
+    }
+  },
+  "Rajshahi": {
+    "total": 545,
+    "districts": {
+      "Pabna": {
+        "total": 98,
+        "status_breakdown": {
+          "Active Member": 94,
+          "Defaulter": 4
+        }
+      },
+      "Sirajganj": {
+        "total": 97,
+        "status_breakdown": {
+          "Active Member": 82,
+          "Transferred": 9,
+          "Defaulter": 6
+        }
+      },
+      "Joypurhat": {
+        "total": 32,
+        "status_breakdown": {
+          "Active Member": 28,
+          "Transferred": 2,
+          "Defaulter": 2
+        }
+      },
+      "Chapai Nawabganj": {
+        "total": 37,
+        "status_breakdown": {
+          "Active Member": 33,
+          "Transferred": 2,
+          "Defaulter": 2
+        }
+      },
+      "Bogura": {
+        "total": 99,
+        "status_breakdown": {
+          "Active Member": 82,
+          "Dead": 1,
+          "Transferred": 7,
+          "Defaulter": 8,
+          "Inactive": 1
+        }
+      },
+      "Natore": {
+        "total": 58,
+        "status_breakdown": {
+          "Active Member": 54,
+          "Defaulter": 3,
+          "Transferred": 1
+        }
+      },
+      "Naogaon": {
+        "total": 61,
+        "status_breakdown": {
+          "Active Member": 55,
+          "Defaulter": 6
+        }
+      },
+      "Rajshahi": {
+        "total": 63,
+        "status_breakdown": {
+          "Active Member": 49,
+          "Defaulter": 5,
+          "Transferred": 8,
+          "Suspended": 1
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 477,
+      "Defaulter": 36,
+      "Dead": 1,
+      "Transferred": 29,
+      "Suspended": 1,
+      "Inactive": 1
+    }
+  },
+  "Dhaka": {
+    "total": 30166,
+    "districts": {
+      "Dhaka": {
+        "total": 5124,
+        "status_breakdown": {
+          "Defaulter": 601,
+          "Active Member": 3842,
+          "Dead": 265,
+          "Retired": 26,
+          "Transferred": 363,
+          "Cancel": 9,
+          "Sanad Suspended": 4,
+          "Justice": 2,
+          "Suspended": 10,
+          "Inactive": 2
+        }
+      },
+      "Unspecified (Dhaka Bar)": {
+        "total": 23481,
+        "status_breakdown": {
+          "Active Member": 14955,
+          "Retired": 149,
+          "Dead": 1291,
+          "Defaulter": 6145,
+          "Justice": 27,
+          "Suspended": 344,
+          "Sanad Suspended": 4,
+          "Transferred": 292,
+          "Cancel": 274
+        }
+      },
+      "Faridpur": {
+        "total": 116,
+        "status_breakdown": {
+          "Active Member": 94,
+          "Defaulter": 12,
+          "Transferred": 10
+        }
+      },
+      "Munshiganj": {
+        "total": 127,
+        "status_breakdown": {
+          "Active Member": 113,
+          "Transferred": 9,
+          "Defaulter": 5
+        }
+      },
+      "Kishoreganj": {
+        "total": 189,
+        "status_breakdown": {
+          "Active Member": 164,
+          "Defaulter": 11,
+          "Transferred": 14
+        }
+      },
+      "Tangail": {
+        "total": 165,
+        "status_breakdown": {
+          "Active Member": 153,
+          "Transferred": 4,
+          "Defaulter": 8
+        }
+      },
+      "Rajbari": {
+        "total": 70,
+        "status_breakdown": {
+          "Active Member": 65,
+          "Transferred": 3,
+          "Defaulter": 2
+        }
+      },
+      "Gazipur": {
+        "total": 117,
+        "status_breakdown": {
+          "Active Member": 98,
+          "Defaulter": 9,
+          "Transferred": 9,
+          "Suspended": 1
+        }
+      },
+      "Narsingdi": {
+        "total": 150,
+        "status_breakdown": {
+          "Active Member": 126,
+          "Defaulter": 15,
+          "Transferred": 8,
+          "Sanad Suspended": 1
+        }
+      },
+      "Narayanganj": {
+        "total": 121,
+        "status_breakdown": {
+          "Active Member": 111,
+          "Defaulter": 9,
+          "Transferred": 1
+        }
+      },
+      "Manikganj": {
+        "total": 106,
+        "status_breakdown": {
+          "Active Member": 94,
+          "Defaulter": 6,
+          "Transferred": 6
+        }
+      },
+      "Gopalganj": {
+        "total": 148,
+        "status_breakdown": {
+          "Active Member": 135,
+          "Defaulter": 9,
+          "Transferred": 4
+        }
+      },
+      "Madaripur": {
+        "total": 123,
+        "status_breakdown": {
+          "Active Member": 111,
+          "Suspended": 1,
+          "Defaulter": 8,
+          "Transferred": 3
+        }
+      },
+      "Shariatpur": {
+        "total": 129,
+        "status_breakdown": {
+          "Active Member": 114,
+          "Defaulter": 10,
+          "Transferred": 5
+        }
+      }
+    },
+    "status_breakdown": {
+      "Defaulter": 6850,
+      "Active Member": 20175,
+      "Retired": 175,
+      "Dead": 1556,
+      "Justice": 29,
+      "Transferred": 731,
+      "Suspended": 356,
+      "Sanad Suspended": 9,
+      "Cancel": 283,
+      "Inactive": 2
+    }
+  },
+  "Khulna": {
+    "total": 723,
+    "districts": {
+      "Magura": {
+        "total": 55,
+        "status_breakdown": {
+          "Active Member": 47,
+          "Defaulter": 3,
+          "Transferred": 5
+        }
+      },
+      "Narail": {
+        "total": 58,
+        "status_breakdown": {
+          "Active Member": 51,
+          "Defaulter": 4,
+          "Transferred": 3
+        }
+      },
+      "Kushtia": {
+        "total": 65,
+        "status_breakdown": {
+          "Active Member": 56,
+          "Defaulter": 5,
+          "Transferred": 4
+        }
+      },
+      "Jashore": {
+        "total": 94,
+        "status_breakdown": {
+          "Active Member": 76,
+          "Defaulter": 6,
+          "Transferred": 12
+        }
+      },
+      "Jhenaidah": {
+        "total": 110,
+        "status_breakdown": {
+          "Active Member": 98,
+          "Defaulter": 6,
+          "Transferred": 6
+        }
+      },
+      "Chuadanga": {
+        "total": 50,
+        "status_breakdown": {
+          "Active Member": 41,
+          "Transferred": 5,
+          "Defaulter": 4
+        }
+      },
+      "Meherpur": {
+        "total": 38,
+        "status_breakdown": {
+          "Active Member": 31,
+          "Defaulter": 4,
+          "Transferred": 3
+        }
+      },
+      "Khulna": {
+        "total": 75,
+        "status_breakdown": {
+          "Active Member": 59,
+          "Defaulter": 9,
+          "Transferred": 7
+        }
+      },
+      "Bagerhat": {
+        "total": 86,
+        "status_breakdown": {
+          "Active Member": 73,
+          "Defaulter": 5,
+          "Transferred": 8
+        }
+      },
+      "Satkhira": {
+        "total": 92,
+        "status_breakdown": {
+          "Active Member": 72,
+          "Transferred": 6,
+          "Defaulter": 13,
+          "Inactive": 1
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 604,
+      "Transferred": 59,
+      "Defaulter": 59,
+      "Inactive": 1
+    }
+  },
+  "Mymensingh": {
+    "total": 428,
+    "districts": {
+      "Mymensingh": {
+        "total": 156,
+        "status_breakdown": {
+          "Active Member": 136,
+          "Defaulter": 9,
+          "Transferred": 9,
+          "Inactive": 1,
+          "Suspended": 1
+        }
+      },
+      "Netrakona": {
+        "total": 131,
+        "status_breakdown": {
+          "Active Member": 109,
+          "Defaulter": 8,
+          "Transferred": 13,
+          "Sanad Suspended": 1
+        }
+      },
+      "Sherpur": {
+        "total": 41,
+        "status_breakdown": {
+          "Active Member": 34,
+          "Defaulter": 3,
+          "Transferred": 3,
+          "Sanad Suspended": 1
+        }
+      },
+      "Jamalpur": {
+        "total": 100,
+        "status_breakdown": {
+          "Active Member": 89,
+          "Transferred": 3,
+          "Defaulter": 8
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 368,
+      "Defaulter": 28,
+      "Transferred": 28,
+      "Sanad Suspended": 2,
+      "Inactive": 1,
+      "Suspended": 1
+    }
+  },
+  "Barishal": {
+    "total": 802,
+    "districts": {
+      "Pirojpur": {
+        "total": 121,
+        "status_breakdown": {
+          "Active Member": 109,
+          "Defaulter": 7,
+          "Transferred": 5
+        }
+      },
+      "Patuakhali": {
+        "total": 180,
+        "status_breakdown": {
+          "Active Member": 160,
+          "Defaulter": 8,
+          "Transferred": 12
+        }
+      },
+      "Barishal": {
+        "total": 230,
+        "status_breakdown": {
+          "Active Member": 206,
+          "Transferred": 14,
+          "Defaulter": 9,
+          "Suspended": 1
+        }
+      },
+      "Bhola": {
+        "total": 98,
+        "status_breakdown": {
+          "Active Member": 88,
+          "Defaulter": 4,
+          "Suspended": 1,
+          "Transferred": 5
+        }
+      },
+      "Jhalokati": {
+        "total": 77,
+        "status_breakdown": {
+          "Active Member": 70,
+          "Defaulter": 3,
+          "Transferred": 4
+        }
+      },
+      "Barguna": {
+        "total": 96,
+        "status_breakdown": {
+          "Active Member": 83,
+          "Transferred": 8,
+          "Defaulter": 5
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 716,
+      "Defaulter": 36,
+      "Transferred": 48,
+      "Suspended": 2
+    }
+  },
+  "Sylhet": {
+    "total": 97,
+    "districts": {
+      "Sylhet": {
+        "total": 15,
+        "status_breakdown": {
+          "Active Member": 11,
+          "Defaulter": 2,
+          "Transferred": 2
+        }
+      },
+      "Habiganj": {
+        "total": 38,
+        "status_breakdown": {
+          "Active Member": 32,
+          "Defaulter": 2,
+          "Transferred": 4
+        }
+      },
+      "Maulvibazar": {
+        "total": 18,
+        "status_breakdown": {
+          "Active Member": 13,
+          "Defaulter": 3,
+          "Transferred": 2
+        }
+      },
+      "Sunamganj": {
+        "total": 26,
+        "status_breakdown": {
+          "Active Member": 24,
+          "Defaulter": 1,
+          "Transferred": 1
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 80,
+      "Defaulter": 8,
+      "Transferred": 9
+    }
+  },
+  "Rangpur": {
+    "total": 515,
+    "districts": {
+      "Gaibandha": {
+        "total": 82,
+        "status_breakdown": {
+          "Active Member": 66,
+          "Transferred": 5,
+          "Defaulter": 10,
+          "Inactive": 1
+        }
+      },
+      "Rangpur": {
+        "total": 81,
+        "status_breakdown": {
+          "Active Member": 69,
+          "Transferred": 5,
+          "Defaulter": 4,
+          "Suspended": 2,
+          "Inactive": 1
+        }
+      },
+      "Dinajpur": {
+        "total": 80,
+        "status_breakdown": {
+          "Active Member": 66,
+          "Dead": 1,
+          "Transferred": 9,
+          "Defaulter": 4
+        }
+      },
+      "Panchagarh": {
+        "total": 51,
+        "status_breakdown": {
+          "Active Member": 42,
+          "Transferred": 6,
+          "Defaulter": 3
+        }
+      },
+      "Nilphamari": {
+        "total": 61,
+        "status_breakdown": {
+          "Active Member": 55,
+          "Defaulter": 5,
+          "Transferred": 1
+        }
+      },
+      "Thakurgaon": {
+        "total": 61,
+        "status_breakdown": {
+          "Active Member": 57,
+          "Transferred": 4
+        }
+      },
+      "Lalmonirhat": {
+        "total": 41,
+        "status_breakdown": {
+          "Active Member": 35,
+          "Transferred": 4,
+          "Defaulter": 2
+        }
+      },
+      "Kurigram": {
+        "total": 58,
+        "status_breakdown": {
+          "Active Member": 55,
+          "Transferred": 2,
+          "Defaulter": 1
+        }
+      }
+    },
+    "status_breakdown": {
+      "Active Member": 445,
+      "Dead": 1,
+      "Defaulter": 29,
+      "Transferred": 36,
+      "Suspended": 2,
+      "Inactive": 2
+    }
+  }
+}

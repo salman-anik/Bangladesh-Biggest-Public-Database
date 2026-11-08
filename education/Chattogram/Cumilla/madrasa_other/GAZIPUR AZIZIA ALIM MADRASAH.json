@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105569",
+  "institution": {
+    "eiin": "105569",
+    "name": "GAZIPUR AZIZIA ALIM MADRASAH",
+    "name_bn": "গাজিপুর আজিজিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Titas",
+    "address": "BORA GAZIPUR",
+    "post_office": "BORO GAZIPUR",
+    "mobiles": [
+      "01928069064",
+      "01726470657"
+    ],
+    "other_phones": [],
+    "email": "gam105569@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "GAZIRUR AZIZIA FAZIL MADRASHA"
+      ],
+      "addresses": [
+        "BORA GAZIRUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-titas",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105569"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

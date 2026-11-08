@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119222",
+  "institution": {
+    "eiin": "119222",
+    "name": "SHIKERPUR D,U. ALIM MADRASHA",
+    "name_bn": "শিকারপুর ডি.ইউ. আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Bogra Sadar",
+    "address": "SHIKARPUR",
+    "post_office": "Bogura Sadar",
+    "mobiles": [
+      "01740809504",
+      "01712839744"
+    ],
+    "other_phones": [],
+    "email": "spduam@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NOONGULA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-bogra-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119222"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

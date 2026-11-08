@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111325",
+  "institution": {
+    "eiin": "111325",
+    "name": "DHITPUR ENNUS KHAN D,S,DAKHIL MADRASHA",
+    "name_bn": "ধীতপুর ইন্নছ খান দারুস সুন্নাহ দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Bhaluka",
+    "address": "DHITPUR",
+    "post_office": "Bhaluka",
+    "mobiles": [
+      "01751707696",
+      "01912064013",
+      "01724454599"
+    ],
+    "other_phones": [],
+    "email": "didpurekdsdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHITPUR BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-bhaluka",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111325"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

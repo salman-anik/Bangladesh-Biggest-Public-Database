@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105909",
+  "institution": {
+    "eiin": "105909",
+    "name": "FENUA GIRLS DAKHIL MADRASHA",
+    "name_bn": "ফেনুয়া মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Manoharganj",
+    "address": "SOUTH FENUA",
+    "post_office": "Laksam",
+    "mobiles": [
+      "01913588564"
+    ],
+    "other_phones": [],
+    "email": "fenuamadrasah99@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "UTTAR HAWLA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-manoharganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105909"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

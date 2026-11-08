@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123172",
+  "institution": {
+    "eiin": "123172",
+    "name": "MAHMUDPUR AZIZIA FAZIL MADRASHA",
+    "name_bn": "মাহমুদপুর আজিজিয়া ফাজিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Dhamoirhat",
+    "address": "MAHMUDPUR",
+    "post_office": "Moduhil",
+    "mobiles": [
+      "01724982774",
+      "01724340292"
+    ],
+    "other_phones": [],
+    "email": "mafm123172@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AGRADIGUN"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-dhamoirhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123172"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

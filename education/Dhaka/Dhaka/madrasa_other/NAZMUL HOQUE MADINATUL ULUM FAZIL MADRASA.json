@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108064",
+  "institution": {
+    "eiin": "108064",
+    "name": "NAZMUL HOQUE MADINATUL ULUM FAZIL MADRASA",
+    "name_bn": "নাজমুল হক মাদিনাতুল উলুম কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Khilgaon",
+    "address": "339 PURBA GORAN",
+    "post_office": "KhilgaonTSO",
+    "mobiles": [
+      "01684894095",
+      "01911197077"
+    ],
+    "other_phones": [],
+    "email": "nazmuhoqmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PURBA GORAN"
+      ],
+      "post_offices": [
+        "KHILGAON"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-khilgaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108064"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

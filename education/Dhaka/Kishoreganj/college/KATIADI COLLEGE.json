@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110434",
+  "institution": {
+    "eiin": "110434",
+    "name": "KATIADI COLLEGE",
+    "name_bn": "কটিয়াদী সরকারী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Katiadi",
+    "address": "KATIADI",
+    "post_office": "Katiadi",
+    "mobiles": [
+      "01712673373",
+      "01711933716"
+    ],
+    "other_phones": [],
+    "email": "katiadicollege@yahoo.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-katiadi",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-110434"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

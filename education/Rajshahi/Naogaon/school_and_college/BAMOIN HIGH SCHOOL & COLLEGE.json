@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123567",
+  "institution": {
+    "eiin": "123567",
+    "name": "BAMOIN HIGH SCHOOL & COLLEGE",
+    "name_bn": "বামইন উচ্চ বিদ্যালয় ও কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Niamatpur",
+    "address": "BAMAIN",
+    "post_office": "Mahadebpur",
+    "mobiles": [
+      "01712135858"
+    ],
+    "other_phones": [],
+    "email": "mamaleknavid@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-niamatpur",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-123567"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

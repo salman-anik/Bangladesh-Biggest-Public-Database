@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117998",
+  "institution": {
+    "eiin": "117998",
+    "name": "DHON PARA DAKHIL MADRASAH",
+    "name_bn": "ধনপাড়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Magura",
+    "thana": "Magura Sadar",
+    "address": "DHAN PARA",
+    "post_office": "Magura Sadar",
+    "mobiles": [
+      "01839993852",
+      "01713426632"
+    ],
+    "other_phones": [],
+    "email": "117998m@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BENGA BEROIL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-magura",
+      "thana_id": "BD-THANA-khulna-magura-magura-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117998"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

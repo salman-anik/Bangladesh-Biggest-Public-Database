@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120446",
+  "institution": {
+    "eiin": "120446",
+    "name": "SAHAPUR MOSTOFABIA DAKHIL MADRASA",
+    "name_bn": "শাহাপুর মোস্তফাবিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Fulbari",
+    "address": "SAHAPUR",
+    "post_office": "Phulbari",
+    "mobiles": [
+      "01712204044"
+    ],
+    "other_phones": [],
+    "email": "sahapur.mad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MADILAHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-fulbari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120446"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

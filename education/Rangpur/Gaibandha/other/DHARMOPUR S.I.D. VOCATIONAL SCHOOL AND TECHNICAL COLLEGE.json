@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132740",
+                        "name":  "DHARMOPUR S.I.D. VOCATIONAL SCHOOL AND TECHNICAL COLLEGE",
+                        "name_bn":  "ধর্মপু এস.আই.ডি ভোকেশনাল স্কুল এন্ড কারিগরি কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Gaibandha",
+                        "thana":  "Sundarganj",
+                        "address":  "DHARMOPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01322835963",
+                                        "01713748975"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-gaibandha",
+                                          "thana_id":  "BD-THANA-rangpur-gaibandha-sundarganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132740"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\gaibandha\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

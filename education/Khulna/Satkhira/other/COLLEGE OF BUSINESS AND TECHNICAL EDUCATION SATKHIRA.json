@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132944",
+                        "name":  "COLLEGE OF BUSINESS AND TECHNICAL EDUCATION SATKHIRA",
+                        "name_bn":  "কলেজ অব বিজনেস অ্যান্ড টেকনিক্যাল এডুকেশন,সাতক্ষীরা",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Satkhira",
+                        "thana":  "Satkhira Sadar",
+                        "address":  "MUNSHIPARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01933848043",
+                                        "01718135443"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-satkhira",
+                                          "thana_id":  "BD-THANA-khulna-satkhira-satkhira-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132944"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\satkhira\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123975",
+  "institution": {
+    "eiin": "123975",
+    "name": "AZAM ALI DEGREE COLLEGE",
+    "name_bn": "আজম আলী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "AHMEDPUR",
+    "post_office": null,
+    "mobiles": [
+      "01715075022",
+      "01721766693"
+    ],
+    "other_phones": [],
+    "email": "collegeazamali@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123975"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

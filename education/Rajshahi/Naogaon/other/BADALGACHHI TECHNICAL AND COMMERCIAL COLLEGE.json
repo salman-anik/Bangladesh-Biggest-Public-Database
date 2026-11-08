@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132106",
+                        "name":  "BADALGACHHI TECHNICAL AND COMMERCIAL COLLEGE",
+                        "name_bn":  "বদলগাছী কারিগরি ও বাণিজ্যিক কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Naogaon",
+                        "thana":  "Badalgachhi",
+                        "address":  "BADALGACHHI MATAJI ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716089616",
+                                        "01725670044"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-naogaon",
+                                          "thana_id":  "BD-THANA-rajshahi-naogaon-badalgachhi",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132106"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\naogaon\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

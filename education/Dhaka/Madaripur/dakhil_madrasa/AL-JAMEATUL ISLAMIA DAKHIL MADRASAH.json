@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110870",
+  "institution": {
+    "eiin": "110870",
+    "name": "AL-JAMEATUL ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "আল জামেয়াতুল ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "thana": "Shib Char",
+    "address": "RAZARCHAR",
+    "post_office": "Barhamganj",
+    "mobiles": [
+      "01716300459"
+    ],
+    "other_phones": [],
+    "email": "ajidm110870@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAMEATUL ISLAMIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-madaripur",
+      "thana_id": "BD-THANA-dhaka-madaripur-shib-char",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110870"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

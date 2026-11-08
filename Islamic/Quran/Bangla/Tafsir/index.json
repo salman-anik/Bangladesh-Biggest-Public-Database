@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "title": "Bangla Quran tafsir",
+  "language": "bn",
+  "datasets": {
+    "verse_by_verse": {
+      "name": "Bangla tafsir by verse",
+      "key_format": "surah:ayah",
+      "record_count_per_tafsir": 6236,
+      "record_shape": {
+        "text": "Tafsir text",
+        "ayah_keys": "Optional related verse keys",
+        "string_value": "Reference to another verse key whose tafsir is reused"
+      },
+      "translations": {
+        "mokhtasar": {
+          "name": "Bengali Mokhtasar",
+          "file": "verse-by-verse/bengali-mokhtasar.json",
+          "record_count": 6236
+        },
+        "ibn_kathir": {
+          "name": "Bangla Tafseer Ibn Kathir",
+          "file": "verse-by-verse/bn-tafseer-ibn-e-kaseer.json",
+          "record_count": 6236
+        },
+        "abu_bakr_zakaria": {
+          "name": "Bangla Tafsir Abu Bakr Zakaria",
+          "file": "verse-by-verse/bn-tafsir-abu-bakr-zakaria.json",
+          "record_count": 6236
+        },
+        "ahsanul_bayaan": {
+          "name": "Bangla Tafsir Ahsanul Bayaan",
+          "file": "verse-by-verse/bn-tafsir-ahsanul-bayaan.json",
+          "record_count": 6236
+        },
+        "fathul_majid": {
+          "name": "Bangla Tafsir Fathul Majid",
+          "file": "verse-by-verse/tafisr-fathul-majid-bn.json",
+          "record_count": 6236
+        }
+      }
+    }
+  },
+  "notes": [
+    "Tafsir records preserve source text and verse keys; string values are source-provided references to another verse.",
+    "All five datasets contain the same 6,236 verse keys as the Uthmani Quran."
+  ]
+}

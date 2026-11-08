@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "eiin": "106835",
+  "institution": {
+    "eiin": "106835",
+    "name": "GUEMARA ISLAMIA DAKHIL MADRASA",
+    "name_bn": "গুইমারা ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Khagrachhari",
+    "thana": "Guimara",
+    "address": "GUIMARA",
+    "post_office": "Ramghar Head Office",
+    "mobiles": [
+      "01556748714",
+      "01822059744"
+    ],
+    "other_phones": [],
+    "email": "m106835@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HILLY AREA",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "GUEMARA"
+      ],
+      "post_offices": [
+        "GUIMARA"
+      ],
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Khagrachhari",
+          "thana": "Matiranga",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-khagrachhari",
+      "thana_id": "BD-THANA-chattogram-khagrachhari-guimara",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-106835"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

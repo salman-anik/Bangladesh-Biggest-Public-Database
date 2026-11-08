@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130114",
+  "institution": {
+    "eiin": "130114",
+    "name": "CHOKBAZAR ISLAMIA ALIM MADRASHA",
+    "name_bn": "চকবাজার ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "MUHAMMAD PUR",
+    "post_office": "BRAHMMAN SHASAN",
+    "mobiles": [
+      "01712746395"
+    ],
+    "other_phones": [],
+    "email": "cbmadrasah.osmaninagar@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "HOKBAZAR ISLAMIA ALIM MADRASHA",
+        "CHOK BAZAR ISLAMAIA DAKHIL MADRASHA"
+      ],
+      "addresses": [
+        "MIRARGAW"
+      ],
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130114"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "title": "Quran topics and related verse datasets",
+  "language": "en",
+  "related_datasets": {
+    "arabic_quran": "../Arabic/index.json"
+  },
+  "datasets": {
+    "topics": {
+      "name": "Quran topic hierarchy",
+      "file": "topics.json",
+      "format": "JSON",
+      "source_table": "topics",
+      "record_count": 2512,
+      "thematic_topic_count": 695,
+      "ontology_topic_count": 284,
+      "ayah_reference_count": 30687,
+      "parent_fields": [
+        "parent_id",
+        "thematic_parent_id",
+        "ontology_parent_id"
+      ]
+    },
+    "ayah_themes": {
+      "name": "Ayah theme ranges",
+      "file": "ayah-themes.json",
+      "format": "JSON",
+      "source_table": "themes",
+      "record_count": 2098,
+      "fields": [
+        "theme",
+        "surah_number",
+        "ayah_from",
+        "ayah_to",
+        "keywords",
+        "total_ayahs"
+      ]
+    },
+    "matching_ayah": {
+      "name": "Related ayah matches",
+      "file": "matching-ayah.json",
+      "format": "JSON object keyed by surah:ayah",
+      "record_count": 1162
+    },
+    "explore": {
+      "name": "Explore Quran topics",
+      "file": "explore.json",
+      "format": "JSON",
+      "top_level_group_count": 1,
+      "topic_group_count": 5
+    },
+    "mutashabihat": {
+      "name": "Mutashabihat phrase matches",
+      "folder": "Mutashabihat",
+      "files": {
+        "phrases": {
+          "file": "Mutashabihat/phrases.json",
+          "record_count": 814
+        },
+        "phrase_verses": {
+          "file": "Mutashabihat/phrase_verses.json",
+          "record_count": 2232
+        }
+      }
+    }
+  },
+  "notes": [
+    "Quran verse references use surah:ayah keys and were checked against the Uthmani Quran dataset.",
+    "All datasets in this collection are provided in JSON format.",
+    "The source file named Mutashabihat ul Quran.json.bz2 was actually a ZIP archive containing two JSON files; its contents are arranged under Mutashabihat/."
+  ]
+}

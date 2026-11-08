@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117162",
+  "institution": {
+    "eiin": "117162",
+    "name": "KHULNA ALIA KAMIL MADRASAH",
+    "name_bn": "খুলনা আলিয়া কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khulna Sadar",
+    "address": "88, KHANJAHAN ALI ROAD",
+    "post_office": "BIT Khulna",
+    "mobiles": [
+      "01767460024",
+      "01558366792"
+    ],
+    "other_phones": [],
+    "email": "khulnaaliamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KHANJAHAN ALI ROAD"
+      ],
+      "post_offices": [
+        "KHULNA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khulna-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117162"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

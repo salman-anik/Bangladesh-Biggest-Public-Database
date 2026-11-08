@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112182",
+  "institution": {
+    "eiin": "112182",
+    "name": "N. ISLAMIA ACADEMY COLLEGE",
+    "name_bn": "এন ইসলামিয়া একাডেমী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Tarakanda",
+    "address": "TARATI",
+    "post_office": "Mymensingh Sadar",
+    "mobiles": [
+      "01711017805"
+    ],
+    "other_phones": [],
+    "email": "nislamcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Mymensingh",
+          "district": "Mymensingh",
+          "thana": "Phulpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-tarakanda",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-112182"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

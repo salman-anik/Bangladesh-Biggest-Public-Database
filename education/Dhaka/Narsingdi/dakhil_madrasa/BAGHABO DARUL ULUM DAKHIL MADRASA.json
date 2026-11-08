@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112874",
+  "institution": {
+    "eiin": "112874",
+    "name": "BAGHABO DARUL ULUM DAKHIL MADRASA",
+    "name_bn": "বাঘাব দারুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Shibpur",
+    "address": "BAGHABO",
+    "post_office": "Shibpur",
+    "mobiles": [
+      "01987015338"
+    ],
+    "other_phones": [],
+    "email": "baghabomadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BAGHABO"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-shibpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112874"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

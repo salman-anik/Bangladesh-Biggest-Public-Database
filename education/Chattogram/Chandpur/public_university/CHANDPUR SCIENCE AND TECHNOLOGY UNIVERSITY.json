@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140216",
+                        "name":  "CHANDPUR SCIENCE AND TECHNOLOGY UNIVERSITY",
+                        "name_bn":  "চাঁদপুর বিজ্ঞান এবং প্রযু্ক্তি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chandpur",
+                        "thana":  "Chandpur Sadar",
+                        "address":  null,
+                        "post_office":  "Chandpur Sadar",
+                        "mobiles":  [
+                                        "01755485547"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@cstu.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chandpur",
+                                          "thana_id":  "BD-THANA-chattogram-chandpur-chandpur-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-140216"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chandpur\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110613",
+  "institution": {
+    "eiin": "110613",
+    "name": "CHAR ADARSHA COLLEGE",
+    "name_bn": "চর আদর্শ কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Pakundia",
+    "address": "CHAR KAONA",
+    "post_office": "Pakundia",
+    "mobiles": [
+      "01716413812"
+    ],
+    "other_phones": [],
+    "email": "mahbuburcac@jmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-pakundia",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-110613"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

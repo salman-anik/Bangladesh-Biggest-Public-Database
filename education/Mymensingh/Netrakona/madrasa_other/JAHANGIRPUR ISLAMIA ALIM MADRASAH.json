@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113101",
+  "institution": {
+    "eiin": "113101",
+    "name": "JAHANGIRPUR ISLAMIA ALIM MADRASAH",
+    "name_bn": "জাহাঙ্গীরপুর ইসলামিয়া ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Mymensingh",
+    "district": "Netrakona",
+    "thana": "Madan",
+    "address": "JAHANGIRPUR",
+    "post_office": "Madan",
+    "mobiles": [
+      "01706415809",
+      "01789094041"
+    ],
+    "other_phones": [],
+    "email": "jahangirpuralim@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAHANGIRPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-netrakona",
+      "thana_id": "BD-THANA-mymensingh-netrakona-madan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113101"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

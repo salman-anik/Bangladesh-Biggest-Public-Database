@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136588",
+                        "name":  "BANGLADESH AGRICULTURAL UNIVERSITY",
+                        "name_bn":  "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Mymensingh",
+                        "district":  "Mymensingh",
+                        "thana":  "Mymensingh Sadar",
+                        "address":  "MYMENSINGH",
+                        "post_office":  "Agriculture Universi",
+                        "mobiles":  [
+                                        "01711776656",
+                                        "01711402652"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@bau.edu.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-mymensingh",
+                                          "thana_id":  "BD-THANA-mymensingh-mymensingh-mymensingh-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136588"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\mymensingh\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

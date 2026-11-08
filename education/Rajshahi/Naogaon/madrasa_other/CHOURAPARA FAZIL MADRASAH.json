@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123542",
+  "institution": {
+    "eiin": "123542",
+    "name": "CHOURAPARA FAZIL MADRASAH",
+    "name_bn": "চৌরাপাড়া ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Niamatpur",
+    "address": "CHOURAPARA",
+    "post_office": "Rasulpur",
+    "mobiles": [
+      "01740610500",
+      "01714662726"
+    ],
+    "other_phones": [],
+    "email": "chouraparafm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-niamatpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123542"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

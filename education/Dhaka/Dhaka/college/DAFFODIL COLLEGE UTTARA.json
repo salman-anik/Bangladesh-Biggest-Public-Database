@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "eiin": "133980",
+  "institution": {
+    "eiin": "133980",
+    "name": "DAFFODIL COLLEGE UTTARA",
+    "name_bn": "ড্যাফোডিল কলেজ উত্তরা",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Uttara",
+    "address": "27, PROBAL HOUSING",
+    "post_office": "Uttara Model TownTSO",
+    "mobiles": [
+      "01713493259",
+      "01712203212"
+    ],
+    "other_phones": [],
+    "email": "principal@dcu.edu.bd",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "COLLEGE OF HUMAN DEVELOPMENT"
+      ],
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Adabor",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-uttara",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-133980"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

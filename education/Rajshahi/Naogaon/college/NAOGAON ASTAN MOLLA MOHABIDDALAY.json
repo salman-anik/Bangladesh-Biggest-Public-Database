@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123489",
+  "institution": {
+    "eiin": "123489",
+    "name": "NAOGAON ASTAN MOLLA MOHABIDDALAY",
+    "name_bn": "নওগাঁ আস্তান মোল্লা মহাবিদ্যালয়,নওগাঁ।",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Naogaon Sadar",
+    "address": "DAKBANGLO ROAD",
+    "post_office": "Naogaon Sadar",
+    "mobiles": [
+      "01720409400",
+      "01193232235"
+    ],
+    "other_phones": [],
+    "email": "astanmollahcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-naogaon-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123489"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

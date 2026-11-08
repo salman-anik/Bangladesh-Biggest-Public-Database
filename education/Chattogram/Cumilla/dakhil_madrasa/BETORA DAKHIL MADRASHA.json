@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105654",
+  "institution": {
+    "eiin": "105654",
+    "name": "BETORA DAKHIL MADRASHA",
+    "name_bn": "বেতোরা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Debidwar",
+    "address": "BETORA",
+    "post_office": "Dhamtee",
+    "mobiles": [
+      "01753680088",
+      "01814227615",
+      "01815693426"
+    ],
+    "other_phones": [],
+    "email": "betoradhailmadrah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MARICHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-debidwar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105654"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

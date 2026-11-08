@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111912",
+  "institution": {
+    "eiin": "111912",
+    "name": "NASIRABAD COLLEGE",
+    "name_bn": "নাসিরাবাদ কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Mymensingh Sadar",
+    "address": "NASIRABAD COLLEGE ROAD",
+    "post_office": "Mymensingh Sadar",
+    "mobiles": [
+      "01913175933",
+      "01552451045"
+    ],
+    "other_phones": [],
+    "email": "nasirabaduniversitycollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-mymensingh-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111912"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

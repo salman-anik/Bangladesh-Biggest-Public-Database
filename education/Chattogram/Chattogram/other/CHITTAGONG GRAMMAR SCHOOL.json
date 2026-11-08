@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "900087",
+                        "name":  "CHITTAGONG GRAMMAR SCHOOL",
+                        "name_bn":  "চিটাগাং গ্রামার স্কুল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Kotwali",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711272993"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-kotwali",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-900087"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134406",
+                        "name":  "HATIBANDHA TECHNICAL AND BUSINESS MANAGEMENT MOHILA COLLEGE",
+                        "name_bn":  "হাতীবান্ধা টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট মহিলা কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Lalmonirhat",
+                        "thana":  "Hatibandha",
+                        "address":  "SINGIMARI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01723314062"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-lalmonirhat",
+                                          "thana_id":  "BD-THANA-rangpur-lalmonirhat-hatibandha",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134406"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\lalmonirhat\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

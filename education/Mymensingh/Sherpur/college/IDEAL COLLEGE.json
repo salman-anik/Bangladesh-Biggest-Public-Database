@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "136329",
+  "institution": {
+    "eiin": "136329",
+    "name": "IDEAL COLLEGE",
+    "name_bn": "আইডিয়াল কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "thana": "Jhenaigati",
+    "address": "KHORIA KAZIRCHAR",
+    "post_office": "Jhinaigati",
+    "mobiles": [
+      "01821274534",
+      "01718310044"
+    ],
+    "other_phones": [],
+    "email": "jsuf5981@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Mymensingh",
+          "district": "Sherpur",
+          "thana": "Sreebardi",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-sherpur",
+      "thana_id": "BD-THANA-mymensingh-sherpur-jhenaigati",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-136329"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

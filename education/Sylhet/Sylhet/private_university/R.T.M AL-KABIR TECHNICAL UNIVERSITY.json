@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139484",
+                        "name":  "R.T.M AL-KABIR TECHNICAL UNIVERSITY",
+                        "name_bn":  "আরটিএম আল কবির টেকনিক্যাল ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Sylhet",
+                        "district":  "Sylhet",
+                        "thana":  "Sylhet Sadar",
+                        "address":  null,
+                        "post_office":  "Sylhet Sadar",
+                        "mobiles":  [
+                                        "01819219479"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@rtm-aktu.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-sylhet",
+                                          "thana_id":  "BD-THANA-sylhet-sylhet-sylhet-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-139484"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\sylhet\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

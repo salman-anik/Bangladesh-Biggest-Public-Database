@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138262",
+                        "name":  "RUPAYAN A.K.M SHAMSUZZOHA UNIVERSITY",
+                        "name_bn":  "রুপায়ন এ কে এম শামসুজ্জোহা বিশ্ববিদ্যালয়",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Narayanganj",
+                        "thana":  "Narayanganj Sadar",
+                        "address":  null,
+                        "post_office":  "Fatulla Bazar",
+                        "mobiles":  [
+                                        "01705409317"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "rupayanuniversity@rupayangroup.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-narayanganj",
+                                          "thana_id":  "BD-THANA-dhaka-narayanganj-narayanganj-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138262"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\narayanganj\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

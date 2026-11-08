@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104000",
+  "institution": {
+    "eiin": "104000",
+    "name": "MEHER DEGREE COLLEGE",
+    "name_bn": "মেহের ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "thana": "Shahrasti",
+    "address": "UPOLOTA",
+    "post_office": "UNKILA",
+    "mobiles": [
+      "01712655154",
+      "01712545605"
+    ],
+    "other_phones": [],
+    "email": "m.dc13@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "MEHAR DEGREE COLLEGE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chandpur",
+      "thana_id": "BD-THANA-chattogram-chandpur-shahrasti",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-104000"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

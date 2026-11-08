@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112180",
+  "institution": {
+    "eiin": "112180",
+    "name": "DARJIGATI DAKIL MADRASHA",
+    "name_bn": "দর্জিগাতী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Tarakanda",
+    "address": "DARZI GATI DAKIL MADRASHA",
+    "post_office": "Tarakanda",
+    "mobiles": [
+      "01714680276"
+    ],
+    "other_phones": [],
+    "email": "darzigatidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "DOLJI GATI DAKIL MADRASHA"
+      ],
+      "locations": [
+        {
+          "division": "Mymensingh",
+          "district": "Mymensingh",
+          "thana": "Phulpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-tarakanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112180"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

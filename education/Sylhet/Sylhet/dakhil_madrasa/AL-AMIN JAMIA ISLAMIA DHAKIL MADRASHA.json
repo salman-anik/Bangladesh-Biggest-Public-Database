@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130255",
+  "institution": {
+    "eiin": "130255",
+    "name": "AL-AMIN JAMIA ISLAMIA DHAKIL MADRASHA",
+    "name_bn": "আল আমিন জামেয়া ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Fenchuganj",
+    "address": "SOLTANPUR",
+    "post_office": "Fenchuganj",
+    "mobiles": [
+      "01712303421"
+    ],
+    "other_phones": [],
+    "email": "www.alaminjamea@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MANIKKONA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-fenchuganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130255"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

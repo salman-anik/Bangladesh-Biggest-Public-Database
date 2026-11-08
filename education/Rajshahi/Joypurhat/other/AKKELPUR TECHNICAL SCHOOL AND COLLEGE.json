@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139305",
+                        "name":  "AKKELPUR TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "আক্কেলপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Joypurhat",
+                        "thana":  "Akkelpur",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716303107"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-joypurhat",
+                                          "thana_id":  "BD-THANA-rajshahi-joypurhat-akkelpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139305"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\joypurhat\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

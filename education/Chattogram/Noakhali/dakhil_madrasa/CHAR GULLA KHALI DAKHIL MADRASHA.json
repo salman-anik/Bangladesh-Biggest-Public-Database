@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107613",
+  "institution": {
+    "eiin": "107613",
+    "name": "CHAR GULLA KHALI DAKHIL MADRASHA",
+    "name_bn": "চরগুল্লাখালী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Kabirhat",
+    "address": "CHAR GULLIKHALI",
+    "post_office": "Chaprashir Hat",
+    "mobiles": [
+      "01819961183"
+    ],
+    "other_phones": [],
+    "email": "gullakhalidakhilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-kabirhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-107613"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112643",
+  "institution": {
+    "eiin": "112643",
+    "name": "BIRGAON ISLAMIA DAKHIL MARASH",
+    "name_bn": "বীরগাঁও ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Manohardi",
+    "address": null,
+    "post_office": "Monohordi",
+    "mobiles": [
+      "01760724952"
+    ],
+    "other_phones": [
+      "0173453912"
+    ],
+    "email": "birgaon.idm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KRISHNAPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-manohardi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112643"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

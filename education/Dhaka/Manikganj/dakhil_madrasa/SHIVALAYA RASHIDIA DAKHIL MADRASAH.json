@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111052",
+  "institution": {
+    "eiin": "111052",
+    "name": "SHIVALAYA RASHIDIA DAKHIL MADRASAH",
+    "name_bn": "শিবালয় রশিদিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Shibalaya",
+    "address": "SHIBALAYA",
+    "post_office": "Shibaloy",
+    "mobiles": [
+      "01712428920",
+      "01920898349"
+    ],
+    "other_phones": [],
+    "email": "srmnurulalam@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHIBALAYA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-shibalaya",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111052"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,61 @@
+{
+  "total": 802,
+  "districts": {
+    "Pirojpur": {
+      "total": 121,
+      "status_breakdown": {
+        "Active Member": 109,
+        "Defaulter": 7,
+        "Transferred": 5
+      }
+    },
+    "Patuakhali": {
+      "total": 180,
+      "status_breakdown": {
+        "Active Member": 160,
+        "Defaulter": 8,
+        "Transferred": 12
+      }
+    },
+    "Barishal": {
+      "total": 230,
+      "status_breakdown": {
+        "Active Member": 206,
+        "Transferred": 14,
+        "Defaulter": 9,
+        "Suspended": 1
+      }
+    },
+    "Bhola": {
+      "total": 98,
+      "status_breakdown": {
+        "Active Member": 88,
+        "Defaulter": 4,
+        "Suspended": 1,
+        "Transferred": 5
+      }
+    },
+    "Jhalokati": {
+      "total": 77,
+      "status_breakdown": {
+        "Active Member": 70,
+        "Defaulter": 3,
+        "Transferred": 4
+      }
+    },
+    "Barguna": {
+      "total": 96,
+      "status_breakdown": {
+        "Active Member": 83,
+        "Transferred": 8,
+        "Defaulter": 5
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 716,
+    "Defaulter": 36,
+    "Transferred": 48,
+    "Suspended": 2
+  }
+}

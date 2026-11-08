@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130388",
+  "institution": {
+    "eiin": "130388",
+    "name": "HAZI ABDUL KHALIQUE MOHILA DAKHIL MADRASA",
+    "name_bn": "হাজী আব্দুল খালিক মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Kanaighat",
+    "address": "TINCHOTI",
+    "post_office": "Gachbari",
+    "mobiles": [
+      "01716241323"
+    ],
+    "other_phones": [],
+    "email": "hakmdmadrasah@gmail.com",
+    "management": "AUTONOMOUS",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "THINCHOTI"
+      ],
+      "post_offices": [
+        "GASBARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-kanaighat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130388"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

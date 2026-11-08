@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133893",
+                        "name":  "JAPAN BANGLADESH FRIENDSHIP AGRICULTURE \u0026 TECH. COLLEGE",
+                        "name_bn":  "জাপান -বাংলাদেশ মৈত্রী কৃষি ও প্রযুক্তি কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jashore",
+                        "thana":  "Bagher Para",
+                        "address":  "JAMDIA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01717812680"
+                                    ],
+                        "other_phones":  [
+                                             "019136072324"
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jashore",
+                                          "thana_id":  "BD-THANA-khulna-jashore-bagher-para",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133893"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jashore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

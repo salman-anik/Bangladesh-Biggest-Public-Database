@@ -1,0 +1,52 @@
+{
+  "district": "Mymensingh",
+  "administration": {
+    "district": "Mymensingh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Mymensingh",
+      "phone": "01713-000007",
+      "email": "dcmymensingh@mopa.gov.bd",
+      "website": "http://www.mymensingh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Mymensingh",
+      "phone": "01713-373007",
+      "email": "spmymensingh@police.gov.bd",
+      "control_room": "01713-374007"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Mymensingh",
+      "phone": "01713-555007",
+      "email": "csmymensingh@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-MYM-01",
+      "name": "Kotwali Model Police Station (Mymensingh)",
+      "bn_name": "কোতোয়ালী মডেল থানা (ময়মনসিংহ)",
+      "unit": "Mymensingh District Police",
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "address": "Court Road, Mymensingh",
+      "oc_mobile": "01713-373801",
+      "duty_officer": "01713-399001",
+      "tnt": "091-66111",
+      "control_room": "091-66222"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-011",
+      "name": "Mymensingh Central Fire Station",
+      "bn_name": "ময়মনসিংহ সদর ফায়ার স্টেশন",
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "address": "Kachijhuli, Mymensingh",
+      "hotline": "16163",
+      "emergency_phone": "091-66333",
+      "mobile": "01713-038801",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

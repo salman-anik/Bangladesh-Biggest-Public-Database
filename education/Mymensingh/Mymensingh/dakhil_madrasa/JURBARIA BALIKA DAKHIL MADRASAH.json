@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111488",
+  "institution": {
+    "eiin": "111488",
+    "name": "JURBARIA BALIKA DAKHIL MADRASAH",
+    "name_bn": "জোরবাড়িয়া বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Fulbaria",
+    "address": "JORBARIA",
+    "post_office": "Rajphulbaria",
+    "mobiles": [
+      "01728728103"
+    ],
+    "other_phones": [],
+    "email": "madrasha111488@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PHULBARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-fulbaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111488"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

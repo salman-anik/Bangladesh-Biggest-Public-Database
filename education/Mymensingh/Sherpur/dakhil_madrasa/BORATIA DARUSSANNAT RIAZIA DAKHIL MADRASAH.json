@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113901",
+  "institution": {
+    "eiin": "113901",
+    "name": "BORATIA DARUSSANNAT RIAZIA DAKHIL MADRASAH",
+    "name_bn": "বরাটিয়া দারুচ্ছুন্নাত রিয়াজিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "thana": "Sherpur Sadar",
+    "address": "10191",
+    "post_office": "Sherpur Shadar",
+    "mobiles": [
+      "01729170869",
+      "01729170469"
+    ],
+    "other_phones": [],
+    "email": "bdrdm1991@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "010191"
+      ],
+      "post_offices": [
+        "BORATIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-sherpur",
+      "thana_id": "BD-THANA-mymensingh-sherpur-sherpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113901"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

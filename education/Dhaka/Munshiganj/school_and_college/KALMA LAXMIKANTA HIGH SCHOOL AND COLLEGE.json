@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111115",
+  "institution": {
+    "eiin": "111115",
+    "name": "KALMA LAXMIKANTA HIGH SCHOOL AND COLLEGE",
+    "name_bn": "কলমা লক্ষ্মীকান্ত হাই স্কুল এন্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Lohajang",
+    "address": "KALMA",
+    "post_office": "Kalmakanda",
+    "mobiles": [
+      "01721450171"
+    ],
+    "other_phones": [
+      "0176225739"
+    ],
+    "email": "kalma.lkhs@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_S",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "KALMA LAXMIKANTA HIGH SCHOOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-lohajang",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-111115"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

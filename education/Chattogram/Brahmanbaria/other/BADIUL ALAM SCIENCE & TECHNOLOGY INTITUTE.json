@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135168",
+                        "name":  "BADIUL ALAM SCIENCE \u0026 TECHNOLOGY INTITUTE",
+                        "name_bn":  "বদিউল আলম সায়েন্স এন্ড টেকনোলজি ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Brahmanbaria",
+                        "thana":  "Kasba",
+                        "address":  "KASBA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01819234711"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-brahmanbaria",
+                                          "thana_id":  "BD-THANA-chattogram-brahmanbaria-kasba",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135168"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\brahmanbaria\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

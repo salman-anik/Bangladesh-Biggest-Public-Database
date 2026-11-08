@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111327",
+  "institution": {
+    "eiin": "111327",
+    "name": "MEDUARY DAKHIL MADRASHA",
+    "name_bn": "মেদুয়ারী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Bhaluka",
+    "address": "MEDUARY",
+    "post_office": "Bhaluka",
+    "mobiles": [
+      "01735450610",
+      "01799771319"
+    ],
+    "other_phones": [],
+    "email": "meduarydm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MEDUARY"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-bhaluka",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111327"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

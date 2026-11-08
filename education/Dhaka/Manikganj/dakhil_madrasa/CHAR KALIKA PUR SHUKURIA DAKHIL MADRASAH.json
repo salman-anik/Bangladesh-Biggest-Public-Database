@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110904",
+  "institution": {
+    "eiin": "110904",
+    "name": "CHAR KALIKA PUR SHUKURIA DAKHIL MADRASAH",
+    "name_bn": "চর কালিকাপুর শুকুরিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Daulatpur",
+    "address": "PARURIA",
+    "post_office": "Shibaloy",
+    "mobiles": [
+      "01712021748"
+    ],
+    "other_phones": [],
+    "email": "m110904@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR BAGHUTIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-daulatpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110904"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139412",
+                        "name":  "METROPOLITAN INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                        "name_bn":  "মেট্রোপলিটন ইনস্টিটিউট অব সাইন্স এন্ড টেকনোলজি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Rangpur",
+                        "thana":  "Rangpur Sadar",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01761182029"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-rangpur",
+                                          "thana_id":  "BD-THANA-rangpur-rangpur-rangpur-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139412"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\rangpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

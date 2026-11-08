@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100639",
+  "institution": {
+    "eiin": "100639",
+    "name": "AUAR ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "আউয়ার ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Banari Para",
+    "address": "AUAR",
+    "post_office": "Banaripara",
+    "mobiles": [
+      "01725253851",
+      "01721835573"
+    ],
+    "other_phones": [],
+    "email": "aidm100639@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AUAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-banari-para",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100639"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

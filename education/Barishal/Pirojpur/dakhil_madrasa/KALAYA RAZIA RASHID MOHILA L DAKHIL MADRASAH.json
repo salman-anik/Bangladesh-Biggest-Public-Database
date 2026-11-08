@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102984",
+  "institution": {
+    "eiin": "102984",
+    "name": "KALAYA RAZIA RASHID MOHILA L DAKHIL MADRASAH",
+    "name_bn": "কালাইয়া রাজিয়া রশীদ মহিলা দাখিল মাদরা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Indurkani",
+    "address": "KALAYA",
+    "post_office": "Parerhat",
+    "mobiles": [
+      "01710623517"
+    ],
+    "other_phones": [],
+    "email": "m102984@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ZIANAGAR"
+      ],
+      "locations": [
+        {
+          "division": "Barishal",
+          "district": "Pirojpur",
+          "thana": "Zianagar",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-indurkani",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102984"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

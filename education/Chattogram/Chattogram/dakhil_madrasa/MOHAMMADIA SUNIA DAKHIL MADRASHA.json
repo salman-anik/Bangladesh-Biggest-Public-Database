@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104911",
+  "institution": {
+    "eiin": "104911",
+    "name": "MOHAMMADIA SUNIA DAKHIL MADRASHA",
+    "name_bn": "মুহাম্মদীয়া সুন্নিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Raozan",
+    "address": "MOHAMMADIA DARBAR SHARIF,KUCHOKANE,NOAPARA,RAOZAN",
+    "post_office": "Guzra Noapara",
+    "mobiles": [
+      "01819172026"
+    ],
+    "other_phones": [],
+    "email": "msmadrasha@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KUCHOKANE"
+      ],
+      "post_offices": [
+        "NOAPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-raozan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104911"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

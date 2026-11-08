@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112461",
+  "institution": {
+    "eiin": "112461",
+    "name": "DELPARA ISLAMIA FAZIL MADRASHA",
+    "name_bn": "দেলপাড়া ইসলামিয়া ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Narayanganj Sadar",
+    "address": "DELPARA",
+    "post_office": "Fatulla Bazar",
+    "mobiles": [
+      "01716304108"
+    ],
+    "other_phones": [],
+    "email": "delifdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KUTUBPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-narayanganj-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112461"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

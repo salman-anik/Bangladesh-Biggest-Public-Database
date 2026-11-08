@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "106153",
+  "institution": {
+    "eiin": "106153",
+    "name": "AL JAMEATUL ARABIA AL-ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "আল জামেয়াতুল আরাবিয়া আল ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Nangalkot",
+    "address": "BAYRA",
+    "post_office": "Dhalua",
+    "mobiles": [
+      "01818812099"
+    ],
+    "other_phones": [],
+    "email": "aljameatul106153@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-nangalkot",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-106153"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138246",
+                        "name":  "CHITTAGONG MEDICAL UNIVERSITY",
+                        "name_bn":  null,
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Degree (Honors)",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Panchlaish",
+                        "address":  null,
+                        "post_office":  "Fouzdarhat",
+                        "mobiles":  [
+
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "vice_chancellor@cmu.edu.bd",
+                        "management":  "AUTONOMOUS",
+                        "is_mpo":  "NOT_APPLICABLE",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-panchlaish",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138246"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

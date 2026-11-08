@@ -1,0 +1,59 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136676",
+                        "name":  "EAST DELTA UNIVERSITY",
+                        "name_bn":  "ইস্ট ডেল্টা ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Khulshi",
+                        "address":  "RUMANA HAQUE TOWER, 1267/A, GOSHAILDHANGA",
+                        "post_office":  "Chitt. Politechnic In",
+                        "mobiles":  [
+                                        "01714102062"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "enquiry@eastdelta.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Chattogram",
+                                                                 "district":  "Chattogram",
+                                                                 "thana":  "Double Mooring",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-khulshi",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136676"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

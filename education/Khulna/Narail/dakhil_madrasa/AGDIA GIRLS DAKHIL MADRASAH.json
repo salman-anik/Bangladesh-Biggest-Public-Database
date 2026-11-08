@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118519",
+  "institution": {
+    "eiin": "118519",
+    "name": "AGDIA GIRLS DAKHIL MADRASAH",
+    "name_bn": "আগদিয়া বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Narail",
+    "thana": "Narail Sadar",
+    "address": "AGDIA",
+    "post_office": "Narail Sadar",
+    "mobiles": [
+      "01914647281",
+      "01980437392"
+    ],
+    "other_phones": [],
+    "email": "m118519@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AGDIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-narail",
+      "thana_id": "BD-THANA-khulna-narail-narail-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118519"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

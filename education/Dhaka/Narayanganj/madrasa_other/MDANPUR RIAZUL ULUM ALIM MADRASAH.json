@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112397",
+  "institution": {
+    "eiin": "112397",
+    "name": "MDANPUR RIAZUL ULUM ALIM MADRASAH",
+    "name_bn": "মদনপুর রিয়াজুল উলুম আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Bandar",
+    "address": "MADANPUR",
+    "post_office": "D.C Mills",
+    "mobiles": [
+      "01734040055",
+      "01718556462"
+    ],
+    "other_phones": [],
+    "email": "riajululul@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MADANPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-bandar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112397"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

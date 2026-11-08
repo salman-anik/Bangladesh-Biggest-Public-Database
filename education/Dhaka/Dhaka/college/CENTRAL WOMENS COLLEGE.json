@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108512",
+  "institution": {
+    "eiin": "108512",
+    "name": "CENTRAL WOMENS COLLEGE",
+    "name_bn": "সেন্ট্রাল উইমেন্স কলেজ, ঢাকা্",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Wari",
+    "address": "13/2, AVHOY DAS LANE, R.K.MISSION ROAD",
+    "post_office": "Banwarinagar",
+    "mobiles": [
+      "01817031999"
+    ],
+    "other_phones": [],
+    "email": "cwcdhaka@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-wari",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108512"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

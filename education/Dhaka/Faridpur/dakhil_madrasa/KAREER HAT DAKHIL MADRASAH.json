@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108932",
+  "institution": {
+    "eiin": "108932",
+    "name": "KAREER HAT DAKHIL MADRASAH",
+    "name_bn": "কারীরহাট দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "thana": "Sadarpur",
+    "address": "KAREER HAT",
+    "post_office": "Hat Krishapur",
+    "mobiles": [
+      "01557474327",
+      "01740991444"
+    ],
+    "other_phones": [],
+    "email": "kareerhat2000@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KARRER HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-faridpur",
+      "thana_id": "BD-THANA-dhaka-faridpur-sadarpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108932"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

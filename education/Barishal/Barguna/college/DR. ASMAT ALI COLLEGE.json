@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100298",
+  "institution": {
+    "eiin": "100298",
+    "name": "DR. ASMAT ALI COLLEGE",
+    "name_bn": "ডা. আছমত আলী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Betagi",
+    "address": "HOSNABAD",
+    "post_office": "Rahimabad",
+    "mobiles": [
+      "01727886663"
+    ],
+    "other_phones": [],
+    "email": "drasmatalicollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-betagi",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-100298"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "title": "Islamic Data Collection",
+  "main_sections": {
+    "quran": {
+      "name": "Quran",
+      "index": "Quran/index.json"
+    },
+    "hadith": {
+      "name": "Hadith",
+      "index": "Hadith/index.json"
+    },
+    "fiqh": {
+      "name": "Fiqh",
+      "index": "Fiqh/index.json"
+    },
+    "other_islamic_data": {
+      "name": "Other Islamic Data",
+      "index": "Other Islamic Data/index.json"
+    }
+  },
+  "notes": [
+    "Quran datasets are grouped by language under Quran/.",
+    "Hadith collections remain in their own top-level section.",
+    "Additional Hadith source editions are preserved separately from the canonical collections.",
+    "Fiqh contains Sunnah practices and category reference data."
+  ]
+}

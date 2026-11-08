@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111992",
+  "institution": {
+    "eiin": "111992",
+    "name": "BINOD BARI MANKON DAKHIL MADRASHA",
+    "name_bn": "বিনোদবাড়ী মানকোন দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Muktagachha",
+    "address": "BINOD BARI MANKON",
+    "post_office": "Muktagachha",
+    "mobiles": [
+      "01718596140"
+    ],
+    "other_phones": [],
+    "email": "binodbarimankondm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PADURBARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-muktagachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111992"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

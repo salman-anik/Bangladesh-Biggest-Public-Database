@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113290",
+  "institution": {
+    "eiin": "113290",
+    "name": "SHALMARA BAITUL AMAN DAKHIL MADRASA",
+    "name_bn": "শালমারা বায়তুল আমান দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "thana": "Baliakandi",
+    "address": "SHALMARA",
+    "post_office": "Baliakandi",
+    "mobiles": [
+      "01719973994",
+      "01782947203"
+    ],
+    "other_phones": [],
+    "email": "sdm113290@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NARUA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-rajbari",
+      "thana_id": "BD-THANA-dhaka-rajbari-baliakandi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113290"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

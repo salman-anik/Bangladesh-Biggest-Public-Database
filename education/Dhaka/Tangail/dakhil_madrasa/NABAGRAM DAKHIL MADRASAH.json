@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114258",
+  "institution": {
+    "eiin": "114258",
+    "name": "NABAGRAM DAKHIL MADRASAH",
+    "name_bn": "নবগ্রাম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Gopalpur",
+    "address": "NABAGRAM",
+    "post_office": "Gopalpur",
+    "mobiles": [
+      "01740793699"
+    ],
+    "other_phones": [],
+    "email": "ndm114258@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NABA GRAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-gopalpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114258"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

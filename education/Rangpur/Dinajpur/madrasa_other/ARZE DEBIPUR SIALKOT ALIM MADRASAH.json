@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "121021",
+  "institution": {
+    "eiin": "121021",
+    "name": "ARZE DEBIPUR SIALKOT ALIM MADRASAH",
+    "name_bn": "আরজীদেবীপুর শিয়ালকোট আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Parbatipur",
+    "address": "ARJIDEBIPUR",
+    "post_office": "Parbatipur",
+    "mobiles": [
+      "01718863597",
+      "01317150554"
+    ],
+    "other_phones": [],
+    "email": "arjidebipurpbt1953madrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "ARJIDEBI PUR SHIAL KOTE DHAKIL MADRASHA"
+      ],
+      "post_offices": [
+        "SIYALKOT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-parbatipur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-121021"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

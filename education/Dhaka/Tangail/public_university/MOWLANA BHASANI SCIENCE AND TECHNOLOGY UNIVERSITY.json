@@ -1,0 +1,53 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136623",
+                        "name":  "MOWLANA BHASANI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                        "name_bn":  "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Tangail",
+                        "thana":  "Tangail Sadar",
+                        "address":  "TANGAIL",
+                        "post_office":  "Santosh",
+                        "mobiles":  [
+                                        "01712622576",
+                                        "01711442531"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@mbstu.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "MOW. BHASANI SCIENCE AND TECHNOLOGY UNIVERSITY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-tangail",
+                                          "thana_id":  "BD-THANA-dhaka-tangail-tangail-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136623"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\tangail\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

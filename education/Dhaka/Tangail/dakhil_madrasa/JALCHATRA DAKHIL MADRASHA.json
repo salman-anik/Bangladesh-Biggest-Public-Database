@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114429",
+  "institution": {
+    "eiin": "114429",
+    "name": "JALCHATRA DAKHIL MADRASHA",
+    "name_bn": "জলছত্র দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Madhupur",
+    "address": "JALCHHATRA",
+    "post_office": "Madhupur",
+    "mobiles": [
+      "01718914750"
+    ],
+    "other_phones": [],
+    "email": "jdm.114429@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "JALCHATRA"
+      ],
+      "post_offices": [
+        "JALCHHATRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-madhupur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114429"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

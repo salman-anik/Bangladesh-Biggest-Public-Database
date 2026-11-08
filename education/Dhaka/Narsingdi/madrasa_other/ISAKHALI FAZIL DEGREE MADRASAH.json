@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112752",
+  "institution": {
+    "eiin": "112752",
+    "name": "ISAKHALI FAZIL DEGREE MADRASAH",
+    "name_bn": "ইছাখালী ফাযিল ডিগ্রি মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Palash",
+    "address": "ISAKHALI",
+    "post_office": "Palash",
+    "mobiles": [
+      "01914257022"
+    ],
+    "other_phones": [],
+    "email": "isakhalimadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHASHAWLA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-palash",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112752"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

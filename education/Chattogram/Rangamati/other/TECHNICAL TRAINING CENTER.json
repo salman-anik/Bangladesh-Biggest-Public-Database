@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133047",
+                        "name":  "TECHNICAL TRAINING CENTER",
+                        "name_bn":  "কারিগরি প্রশিক্ষণ কেন্দ্র,রাঙ্গামাটি।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Rangamati",
+                        "thana":  "Rangamati Sadar Up",
+                        "address":  "102 NO RANGAPANI MOUZA, T,T,C ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01404413157",
+                                        "01818996945"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-rangamati",
+                                          "thana_id":  "BD-THANA-chattogram-rangamati-rangamati-sadar-up",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133047"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\rangamati\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

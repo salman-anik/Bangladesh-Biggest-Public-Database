@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "129341",
+  "institution": {
+    "eiin": "129341",
+    "name": "MIRPUR DAKHIL MADRASA",
+    "name_bn": "মিরপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "thana": "Bahubal",
+    "address": "MIRPUR, COLLEGE ROAD",
+    "post_office": "Shaestaganj",
+    "mobiles": [
+      "01718539273"
+    ],
+    "other_phones": [],
+    "email": "mdm1920@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "MIRPUR"
+      ],
+      "post_offices": [
+        "MIRPUR BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-habiganj",
+      "thana_id": "BD-THANA-sylhet-habiganj-bahubal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-129341"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

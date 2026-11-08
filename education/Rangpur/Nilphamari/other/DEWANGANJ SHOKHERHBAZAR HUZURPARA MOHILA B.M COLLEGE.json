@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134370",
+                        "name":  "DEWANGANJ SHOKHERHBAZAR HUZURPARA MOHILA B.M COLLEGE",
+                        "name_bn":  "দেওয়ানগঞ্জ সখের বাজার হুজুরপাড়া মহিলা বি.এম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Nilphamari",
+                        "thana":  "Nilphamari Sadar Upaz",
+                        "address":  "SHOKHERBAZAR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01791533403",
+                                        "01747839474"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-nilphamari",
+                                          "thana_id":  "BD-THANA-rangpur-nilphamari-nilphamari-sadar-upaz",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134370"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\nilphamari\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

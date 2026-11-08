@@ -1,0 +1,19 @@
+# Large binary files & PDFs (Stored in Google Drive folder: Bangladesh Database)
+land/pdfs/
+*.zip
+*.tar.gz
+*.7z
+*.rar
+land/temp_html/
+__pycache__/
+*.pyc
+*.log
+crawler_state.json
+
+# Large datasets exceeding GitHub limits (Archived in Google Drive)
+medicine/all_medicines.json
+medicine/by_form/tablets.json
+
+# Node modules
+website/node_modules/
+node_modules/

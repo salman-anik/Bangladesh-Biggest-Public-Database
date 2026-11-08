@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112169",
+  "institution": {
+    "eiin": "112169",
+    "name": "SADUPARA DARUL HUDA DAKIL MADRASAH",
+    "name_bn": "সাধুপাড়া দারুল হুদা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Tarakanda",
+    "address": "SADHUPARA",
+    "post_office": "Mymensingh Sadar",
+    "mobiles": [
+      "01712432458"
+    ],
+    "other_phones": [],
+    "email": "sadupara.dhdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "SADUPARA"
+      ],
+      "post_offices": [
+        "KHICHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-tarakanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112169"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100440",
+  "institution": {
+    "eiin": "100440",
+    "name": "AGARPUR COLLEGE",
+    "name_bn": "আগরপুর কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Babuganj",
+    "address": "AGARPUR",
+    "post_office": "Nagarpur",
+    "mobiles": [
+      "01712114360"
+    ],
+    "other_phones": [],
+    "email": "agarpurcollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-babuganj",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-100440"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

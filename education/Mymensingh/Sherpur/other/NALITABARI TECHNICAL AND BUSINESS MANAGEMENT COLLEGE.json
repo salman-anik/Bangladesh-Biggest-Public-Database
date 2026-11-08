@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132533",
+                        "name":  "NALITABARI TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+                        "name_bn":  "নালিতাবাড়ী টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Sherpur",
+                        "thana":  "Nalitabari",
+                        "address":  "RANI GAON",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01719296481",
+                                        "01558301964"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-sherpur",
+                                          "thana_id":  "BD-THANA-mymensingh-sherpur-nalitabari",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132533"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\sherpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

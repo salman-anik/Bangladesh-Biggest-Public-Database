@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119870",
+  "institution": {
+    "eiin": "119870",
+    "name": "RAINAGAR DS (ALIM) MADRASHA",
+    "name_bn": "রায়নগর ডি,এস আলিম মাদ্রসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Shibganj",
+    "address": "RAINAGAR",
+    "post_office": "Shibganj",
+    "mobiles": [
+      "01736134672"
+    ],
+    "other_phones": [],
+    "email": "rdsam119870@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHIBGONJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-shibganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119870"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

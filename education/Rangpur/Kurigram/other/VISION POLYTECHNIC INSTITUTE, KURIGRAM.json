@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135965",
+                        "name":  "VISION POLYTECHNIC INSTITUTE, KURIGRAM",
+                        "name_bn":  "ভিশন পলিটেকনিক ইনস্টিটিউট, কুড়িগ্রাম",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Kurigram",
+                        "thana":  "Kurigram Sadar",
+                        "address":  "VOCATIONAL MORE",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01962417470"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-kurigram",
+                                          "thana_id":  "BD-THANA-rangpur-kurigram-kurigram-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135965"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\kurigram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

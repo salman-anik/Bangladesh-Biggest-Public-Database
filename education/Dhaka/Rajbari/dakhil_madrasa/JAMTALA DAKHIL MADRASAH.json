@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113317",
+  "institution": {
+    "eiin": "113317",
+    "name": "JAMTALA DAKHIL MADRASAH",
+    "name_bn": "জামতলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "thana": "Goalanda",
+    "address": "SAHAR MONDAL PARA",
+    "post_office": "Goalanda",
+    "mobiles": [
+      "01712905768"
+    ],
+    "other_phones": [],
+    "email": "ahjamtala@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-rajbari",
+      "thana_id": "BD-THANA-dhaka-rajbari-goalanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113317"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

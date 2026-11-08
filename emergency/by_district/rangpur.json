@@ -1,0 +1,52 @@
+{
+  "district": "Rangpur",
+  "administration": {
+    "district": "Rangpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rangpur",
+      "phone": "01713-000006",
+      "email": "dcrangpur@mopa.gov.bd",
+      "website": "http://www.rangpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rangpur",
+      "phone": "01713-373006",
+      "email": "sprangpur@police.gov.bd",
+      "control_room": "01713-374006"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rangpur",
+      "phone": "01713-555006",
+      "email": "csrangpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-RNG-01",
+      "name": "Kotwali Police Station (Rangpur)",
+      "bn_name": "কোতোয়ালী থানা (রংপুর)",
+      "unit": "Rangpur Metropolitan Police (RPMP)",
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "address": "Jail Road, Rangpur",
+      "oc_mobile": "01713-373701",
+      "duty_officer": "01713-398901",
+      "tnt": "0521-62111",
+      "control_room": "0521-62222"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-010",
+      "name": "Rangpur Central Fire Station",
+      "bn_name": "রংপুর সদর ফায়ার স্টেশন",
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "address": "Station Road, Rangpur",
+      "hotline": "16163",
+      "emergency_phone": "0521-62111",
+      "mobile": "01713-038701",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

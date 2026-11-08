@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114577",
+  "institution": {
+    "eiin": "114577",
+    "name": "CHOWBARIA AHAMADIA DAKHIL MADRASHA",
+    "name_bn": "চৌবাড়িয়া আহম্মাদিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Nagarpur",
+    "address": "CHOWBARIA",
+    "post_office": "Nagarpur",
+    "mobiles": [
+      "01745401448",
+      "01921959000"
+    ],
+    "other_phones": [],
+    "email": "chowbariadm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PACHASARTIYA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-nagarpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114577"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

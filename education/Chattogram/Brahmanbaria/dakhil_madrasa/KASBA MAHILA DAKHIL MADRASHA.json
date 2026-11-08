@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103373",
+  "institution": {
+    "eiin": "103373",
+    "name": "KASBA MAHILA DAKHIL MADRASHA",
+    "name_bn": "কসবা মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "thana": "Kasba",
+    "address": "KASBA House no - 13",
+    "post_office": "Kasba",
+    "mobiles": [
+      "01814737487",
+      "01819646606"
+    ],
+    "other_phones": [],
+    "email": "kasbamdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KASBA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-brahmanbaria",
+      "thana_id": "BD-THANA-chattogram-brahmanbaria-kasba",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103373"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

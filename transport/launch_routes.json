@@ -1,0 +1,266 @@
+[
+  {
+    "route_name": "Dhaka (Sadarghat) - Barishal",
+    "departure_terminal": "Sadarghat Launch Terminal, Dhaka",
+    "arrival_terminal": "Barishal River Port Terminal",
+    "distance_nautical_miles": 65,
+    "travel_time_hours": "5 - 7 Hours (Overnight & Daytime)",
+    "prominent_launches": [
+      {
+        "name": "MV Manami",
+        "operator": "Salam Shipping Lines Ltd.",
+        "cabin_single_bdt": 1400,
+        "cabin_double_bdt": 2400,
+        "vip_cabin_bdt": "5000 - 9000",
+        "deck_bdt": 350,
+        "hotline": "01755-667788",
+        "features": [
+          "Luxury interior",
+          "Wi-Fi",
+          "Central AC",
+          "Multi-cuisine Restaurant",
+          "Card Payment"
+        ]
+      },
+      {
+        "name": "MV Sundarban 10 / 12 / 16",
+        "operator": "Sundarban Navigation",
+        "cabin_single_bdt": 1300,
+        "cabin_double_bdt": 2400,
+        "vip_cabin_bdt": "5000 - 8000",
+        "deck_bdt": 350,
+        "hotline": "01711-358899",
+        "features": [
+          "Elevator",
+          "Cardiac emergency room",
+          "Food court",
+          "VIP Lounges"
+        ]
+      },
+      {
+        "name": "MV Surabhi 9 / 11",
+        "operator": "Surabhi Shipping Lines",
+        "cabin_single_bdt": 1200,
+        "cabin_double_bdt": 2200,
+        "vip_cabin_bdt": "4500 - 7500",
+        "deck_bdt": 350,
+        "hotline": "01711-224466",
+        "features": [
+          "Spacious riverview balconies",
+          "Deluxe suites",
+          "Doctor on call"
+        ]
+      },
+      {
+        "name": "MV Parabat 11 / 12",
+        "operator": "Parabat Waterways",
+        "cabin_single_bdt": 1200,
+        "cabin_double_bdt": 2200,
+        "vip_cabin_bdt": "4500 - 7000",
+        "deck_bdt": 350,
+        "hotline": "01712-446688",
+        "features": [
+          "Modern radar navigation",
+          "VIP suites",
+          "Fast cruising"
+        ]
+      },
+      {
+        "name": "MV Kuakata 1",
+        "operator": "Kuakata Water Transport",
+        "cabin_single_bdt": 1200,
+        "cabin_double_bdt": 2200,
+        "vip_cabin_bdt": "4500 - 6500",
+        "deck_bdt": 350,
+        "hotline": "01715-998877",
+        "features": [
+          "Family duplex cabins",
+          "Prayer hall",
+          "Cafeteria"
+        ]
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka (Sadarghat) - Bhola",
+    "departure_terminal": "Sadarghat Launch Terminal, Dhaka",
+    "arrival_terminal": "Kheyaghat / Ilisha Terminal, Bhola",
+    "distance_nautical_miles": 58,
+    "travel_time_hours": "5 - 6 Hours",
+    "prominent_launches": [
+      {
+        "name": "MV Karnaphuli 9 / 10 / 11",
+        "operator": "Karnaphuli Navigation Ltd.",
+        "cabin_single_bdt": 1100,
+        "cabin_double_bdt": 2000,
+        "vip_cabin_bdt": "4000 - 6000",
+        "deck_bdt": 300,
+        "hotline": "01712-887766",
+        "features": [
+          "Full AC cabins",
+          "CCTV surveillance",
+          "Dining area"
+        ]
+      },
+      {
+        "name": "MV Green Line Water Bus (Day Service)",
+        "operator": "Green Line Waterways",
+        "cabin_single_bdt": "N/A",
+        "cabin_double_bdt": "N/A",
+        "vip_cabin_bdt": "1200 (Economy) / 1500 (Business)",
+        "deck_bdt": "N/A",
+        "hotline": "01730-060000",
+        "features": [
+          "Catamaran High-Speed Vessel",
+          "Aircraft-style seating",
+          "3.5 Hours express"
+        ]
+      },
+      {
+        "name": "MV Crystal Cruise",
+        "operator": "Crystal Water Ways",
+        "cabin_single_bdt": 1200,
+        "cabin_double_bdt": 2200,
+        "vip_cabin_bdt": "4500",
+        "deck_bdt": 300,
+        "hotline": "01718-223344",
+        "features": [
+          "Soundproof cabins",
+          "Cafeteria"
+        ]
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka (Sadarghat) - Chandpur",
+    "departure_terminal": "Sadarghat Launch Terminal, Dhaka",
+    "arrival_terminal": "Chandpur Ghat / Madrasa Ghat",
+    "distance_nautical_miles": 35,
+    "travel_time_hours": "2.5 - 3.5 Hours (Hourly Frequency)",
+    "prominent_launches": [
+      {
+        "name": "MV Bogdadia 7 / 9 / 13",
+        "operator": "Bogdadia Transport",
+        "cabin_single_bdt": 500,
+        "cabin_double_bdt": 900,
+        "vip_cabin_bdt": "1500 - 2500",
+        "deck_bdt": 150,
+        "hotline": "01711-667799",
+        "features": [
+          "Hourly departure",
+          "Chairs and private cabins",
+          "Snack bar"
+        ]
+      },
+      {
+        "name": "MV Mayur 7 / 9 / 10",
+        "operator": "Mayur Shipping Lines",
+        "cabin_single_bdt": 500,
+        "cabin_double_bdt": 900,
+        "vip_cabin_bdt": "1600 - 2500",
+        "deck_bdt": 150,
+        "hotline": "01712-334455",
+        "features": [
+          "Fast cruising",
+          "Upper deck open view"
+        ]
+      },
+      {
+        "name": "MV Eagle 3 / 7",
+        "operator": "Eagle Water Express",
+        "cabin_single_bdt": 500,
+        "cabin_double_bdt": 900,
+        "vip_cabin_bdt": "1500",
+        "deck_bdt": 150,
+        "hotline": "01713-778899",
+        "features": [
+          "Regular morning to evening service"
+        ]
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka (Sadarghat) - Patuakhali",
+    "departure_terminal": "Sadarghat Launch Terminal, Dhaka",
+    "arrival_terminal": "Patuakhali Launch Ghat",
+    "distance_nautical_miles": 82,
+    "travel_time_hours": "8 - 10 Hours (Overnight)",
+    "prominent_launches": [
+      {
+        "name": "MV Prince Awlad 7 / 9",
+        "operator": "Awlad Shipping Lines",
+        "cabin_single_bdt": 1300,
+        "cabin_double_bdt": 2300,
+        "vip_cabin_bdt": "4500 - 7500",
+        "deck_bdt": 350,
+        "hotline": "01711-998811",
+        "features": [
+          "Luxury VIP suites",
+          "Full AC",
+          "Restaurant"
+        ]
+      },
+      {
+        "name": "MV Sundarban 9 / 14",
+        "operator": "Sundarban Navigation",
+        "cabin_single_bdt": 1300,
+        "cabin_double_bdt": 2300,
+        "vip_cabin_bdt": "4500 - 7500",
+        "deck_bdt": 350,
+        "hotline": "01711-358899",
+        "features": [
+          "Modern amenities",
+          "Riverview balcony"
+        ]
+      },
+      {
+        "name": "MV Sattar Khan 1",
+        "operator": "Sattar Khan Shipping",
+        "cabin_single_bdt": 1200,
+        "cabin_double_bdt": 2200,
+        "vip_cabin_bdt": "4000",
+        "deck_bdt": 350,
+        "hotline": "01716-554433",
+        "features": [
+          "Reliable regular service"
+        ]
+      }
+    ]
+  },
+  {
+    "route_name": "Dhaka (Sadarghat) - Hatiya",
+    "departure_terminal": "Sadarghat Launch Terminal, Dhaka",
+    "arrival_terminal": "Nalchira Ghat, Hatiya Island",
+    "distance_nautical_miles": 95,
+    "travel_time_hours": "10 - 12 Hours (Overnight)",
+    "prominent_launches": [
+      {
+        "name": "MV Farhan 3 / 4",
+        "operator": "Farhan Navigation",
+        "cabin_single_bdt": 1400,
+        "cabin_double_bdt": 2500,
+        "vip_cabin_bdt": "5000",
+        "deck_bdt": 400,
+        "hotline": "01715-443322",
+        "features": [
+          "Heavy sea-worthy design for estuary crossing",
+          "AC cabins"
+        ]
+      },
+      {
+        "name": "MV Tashrif 1 / 2",
+        "operator": "Tashrif Navigation Lines",
+        "cabin_single_bdt": 1400,
+        "cabin_double_bdt": 2500,
+        "vip_cabin_bdt": "5000",
+        "deck_bdt": 400,
+        "hotline": "01712-998877",
+        "features": [
+          "Reinforced hull",
+          "Medical facilities",
+          "Food canteen"
+        ]
+      }
+    ]
+  }
+]

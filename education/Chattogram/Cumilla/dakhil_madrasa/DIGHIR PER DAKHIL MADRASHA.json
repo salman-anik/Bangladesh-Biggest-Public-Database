@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "106048",
+  "institution": {
+    "eiin": "106048",
+    "name": "DIGHIR PER DAKHIL MADRASHA",
+    "name_bn": "দিঘীর পাড় দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Muradnagar",
+    "address": "DIGHIR PER",
+    "post_office": "Dighirpar",
+    "mobiles": [
+      "01924277198"
+    ],
+    "other_phones": [],
+    "email": "ddm106048e@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-muradnagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-106048"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109256",
+  "institution": {
+    "eiin": "109256",
+    "name": "BEGUN HATI FAZIL MADRASHA",
+    "name_bn": "বেগুনহাটি ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kapasia",
+    "address": "BEGUNHATI",
+    "post_office": "kapashia",
+    "mobiles": [
+      "01721865625"
+    ],
+    "other_phones": [],
+    "email": "begunhatifdm1932@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RANI GANJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kapasia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109256"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

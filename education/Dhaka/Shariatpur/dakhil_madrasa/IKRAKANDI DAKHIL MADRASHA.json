@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113571",
+  "institution": {
+    "eiin": "113571",
+    "name": "IKRAKANDI DAKHIL MADRASHA",
+    "name_bn": "ইকরাকান্দি দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Gosairhat",
+    "address": "IKRAKANDI",
+    "post_office": "Gosairhat",
+    "mobiles": [
+      "01718922076",
+      "01712782427"
+    ],
+    "other_phones": [],
+    "email": "ikdmghat113571@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HATURIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-gosairhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113571"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

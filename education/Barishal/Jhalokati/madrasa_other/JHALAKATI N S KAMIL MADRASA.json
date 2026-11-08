@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101688",
+  "institution": {
+    "eiin": "101688",
+    "name": "JHALAKATI N S KAMIL MADRASA",
+    "name_bn": "ঝালকাঠি এন,এস কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "thana": "Jhalokati Sadar",
+    "address": "62 QUIED SAHIB HUJUR SAROK NESARABAD",
+    "post_office": "Jhalokati Sadar",
+    "mobiles": [
+      "01718076261",
+      "01765042904"
+    ],
+    "other_phones": [],
+    "email": "nskamiljkt@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "NESARABAD"
+      ],
+      "post_offices": [
+        "JHALOKATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-jhalokati",
+      "thana_id": "BD-THANA-barishal-jhalokati-jhalokati-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101688"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

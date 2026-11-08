@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102296",
+  "institution": {
+    "eiin": "102296",
+    "name": "BARO CHATRA DAKHIL MADRASA",
+    "name_bn": "বড় চত্রা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Galachipa",
+    "address": "BARO CHATRA",
+    "post_office": "Galachipa",
+    "mobiles": [
+      "01722350631",
+      "01734936963"
+    ],
+    "other_phones": [],
+    "email": "bcdm102296@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ULANIA HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-galachipa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102296"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

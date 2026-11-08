@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100128",
+  "institution": {
+    "eiin": "100128",
+    "name": "LAXMIPURA DAKHIL MADRASHA",
+    "name_bn": "লক্ষীপুরা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Bamna",
+    "address": "LAXMIPURA",
+    "post_office": "Bamna",
+    "mobiles": [
+      "01712444290"
+    ],
+    "other_phones": [],
+    "email": "laxmipuramad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BUKABUNIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-bamna",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100128"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

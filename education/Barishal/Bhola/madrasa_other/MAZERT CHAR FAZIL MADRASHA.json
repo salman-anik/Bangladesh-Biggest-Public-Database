@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101414",
+  "institution": {
+    "eiin": "101414",
+    "name": "MAZERT CHAR FAZIL MADRASHA",
+    "name_bn": "মাঝের চর ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Char Fasson",
+    "address": "MAJHER CHAR",
+    "post_office": "Charfashion",
+    "mobiles": [
+      "01714668762"
+    ],
+    "other_phones": [],
+    "email": "mcfm101414@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "MZER CHOR"
+      ],
+      "post_offices": [
+        "MAJHER CHAR MADRASAH"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-char-fasson",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101414"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

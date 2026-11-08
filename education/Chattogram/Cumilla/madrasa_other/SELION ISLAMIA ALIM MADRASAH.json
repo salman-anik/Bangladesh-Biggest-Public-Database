@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105914",
+  "institution": {
+    "eiin": "105914",
+    "name": "SELION ISLAMIA ALIM MADRASAH",
+    "name_bn": "ছিলইন ইসলামিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Laksam",
+    "address": "CELOIN",
+    "post_office": "Laksam",
+    "mobiles": [
+      "01799613261"
+    ],
+    "other_phones": [],
+    "email": "seloinmadrasah35@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "SELOIN"
+      ],
+      "post_offices": [
+        "AZGARA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-laksam",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105914"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

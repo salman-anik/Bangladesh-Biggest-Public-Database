@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102450",
+  "institution": {
+    "eiin": "102450",
+    "name": "SOUTH MAZID BARIA SALAEHEA DAKHIL MADRASAH",
+    "name_bn": "দক্ষিন মজিদবাড়ীয়া ছালেহিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Mirzaganj Upazila",
+    "address": "MAZIDBARIA",
+    "post_office": "Subidkhali",
+    "mobiles": [
+      "01712131503"
+    ],
+    "other_phones": [],
+    "email": "smsdm102450@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MAZIDBARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-mirzaganj-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102450"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108222",
+  "institution": {
+    "eiin": "108222",
+    "name": "BCIC COLLEGE",
+    "name_bn": "বিসিআইসি কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Shah Ali",
+    "address": "CHIRIAKHANA ROAD",
+    "post_office": "Mirpur",
+    "mobiles": [
+      "01727262483"
+    ],
+    "other_phones": [],
+    "email": "bciccgllege1@yahoo.com",
+    "management": "AUTONOMOUS",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-shah-ali",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-108222"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

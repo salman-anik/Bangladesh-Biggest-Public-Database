@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136586",
+                        "name":  "RAJSHAHI UNIVERSITY",
+                        "name_bn":  "রাজশাহী বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rajshahi",
+                        "district":  "Rajshahi",
+                        "thana":  "Matihar",
+                        "address":  "RAJSHAHI",
+                        "post_office":  "Rajshahi University",
+                        "mobiles":  [
+                                        "01718880941"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@ru.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-rajshahi",
+                                          "thana_id":  "BD-THANA-rajshahi-rajshahi-matihar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136586"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\rajshahi\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

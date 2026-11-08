@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132513",
+                        "name":  "DESHARI INSTITUTE OF SCIENCE AND ENGINEERING",
+                        "name_bn":  "দিশারী ইন্সটিটিউট অব সাইন্স এন্ড ইঞ্জিনিয়ারিং",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jhenaidah",
+                        "thana":  "Jhenaidah Sadar",
+                        "address":  "DISHARI PARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01911854857"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jhenaidah",
+                                          "thana_id":  "BD-THANA-khulna-jhenaidah-jhenaidah-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132513"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jhenaidah\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

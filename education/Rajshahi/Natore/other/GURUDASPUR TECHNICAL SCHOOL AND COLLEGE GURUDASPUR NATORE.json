@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139339",
+                        "name":  "GURUDASPUR TECHNICAL SCHOOL AND COLLEGE GURUDASPUR NATORE",
+                        "name_bn":  "গুরুদাসপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Natore",
+                        "thana":  "Gurudaspur",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01910929602"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-natore",
+                                          "thana_id":  "BD-THANA-rajshahi-natore-gurudaspur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139339"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\natore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

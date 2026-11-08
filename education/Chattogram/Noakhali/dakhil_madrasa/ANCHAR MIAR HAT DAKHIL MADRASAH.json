@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "135091",
+  "institution": {
+    "eiin": "135091",
+    "name": "ANCHAR MIAR HAT DAKHIL MADRASAH",
+    "name_bn": "আনছার মিয়ার হাট দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Subarnachar",
+    "address": "PURBA CHAR BATA",
+    "post_office": "ANCHAR MIAR HAT",
+    "mobiles": [
+      "01711948179"
+    ],
+    "other_phones": [],
+    "email": "m135091amhdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PURBA CHAR BATTA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-subarnachar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-135091"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

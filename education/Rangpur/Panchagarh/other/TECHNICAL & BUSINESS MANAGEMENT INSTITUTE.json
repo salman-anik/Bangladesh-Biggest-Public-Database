@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132253",
+                        "name":  "TECHNICAL \u0026 BUSINESS MANAGEMENT INSTITUTE",
+                        "name_bn":  "টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Panchagarh",
+                        "thana":  "Debiganj",
+                        "address":  "BHOWLAGONJ",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01717205546"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-panchagarh",
+                                          "thana_id":  "BD-THANA-rangpur-panchagarh-debiganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132253"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\panchagarh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

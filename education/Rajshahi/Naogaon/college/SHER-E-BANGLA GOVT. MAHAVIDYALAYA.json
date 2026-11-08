@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123741",
+  "institution": {
+    "eiin": "123741",
+    "name": "SHER-E-BANGLA GOVT. MAHAVIDYALAYA",
+    "name_bn": "শের-এ-বাংলা সরকারি ডিগ্রি মহাবিদ্যালয়",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Raninagar",
+    "address": "PURBA BALUBHARA",
+    "post_office": "Raninagar",
+    "mobiles": [
+      "01711164683"
+    ],
+    "other_phones": [],
+    "email": "sbmraninagar@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "SHER-E-BANGLA (DIGREE) MAHAVIDYALAYA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-raninagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123741"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

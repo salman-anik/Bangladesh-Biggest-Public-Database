@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132549",
+                        "name":  "SREEPUR TECHNICAL COLLEGE",
+                        "name_bn":  "শ্রীপুর কারিগরি কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Gazipur",
+                        "thana":  "Sreepur",
+                        "address":  "D.B",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01821443654"
+                                    ],
+                        "other_phones":  [
+                                             "0182443654"
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-gazipur",
+                                          "thana_id":  "BD-THANA-dhaka-gazipur-sreepur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132549"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\gazipur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

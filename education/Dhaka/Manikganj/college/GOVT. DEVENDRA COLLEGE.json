@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111000",
+  "institution": {
+    "eiin": "111000",
+    "name": "GOVT. DEVENDRA COLLEGE",
+    "name_bn": "সরকারি দেবেন্দ্র কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Manikganj Sadar",
+    "address": "BONGRAM",
+    "post_office": "Manikganj",
+    "mobiles": [
+      "01709936377",
+      "01715103977"
+    ],
+    "other_phones": [],
+    "email": "debendracollege@yahoo.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-manikganj-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111000"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

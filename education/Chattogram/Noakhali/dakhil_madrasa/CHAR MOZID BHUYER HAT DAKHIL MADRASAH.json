@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "135089",
+  "institution": {
+    "eiin": "135089",
+    "name": "CHAR MOZID BHUYER HAT DAKHIL MADRASAH",
+    "name_bn": "চর মজিদ ভুঁঞার হাট দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Subarnachar",
+    "address": "CHAR MOZID",
+    "post_office": "CHARBATA",
+    "mobiles": [
+      "01835648559"
+    ],
+    "other_phones": [],
+    "email": "goni01302034475@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-subarnachar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-135089"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

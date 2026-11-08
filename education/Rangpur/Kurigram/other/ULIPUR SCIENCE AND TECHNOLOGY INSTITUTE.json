@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132934",
+                        "name":  "ULIPUR SCIENCE AND TECHNOLOGY INSTITUTE",
+                        "name_bn":  "উলিপুর বিজ্ঞান এবং প্রযুক্তি ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Kurigram",
+                        "thana":  "Ulipur",
+                        "address":  "ULIPUR PAUROSOVA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01715157532",
+                                        "01711220206"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-kurigram",
+                                          "thana_id":  "BD-THANA-rangpur-kurigram-ulipur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132934"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\kurigram\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

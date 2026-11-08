@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101252",
+  "institution": {
+    "eiin": "101252",
+    "name": "HAZIR HAT ISLAMIA DHAKIL MADRASHA",
+    "name_bn": "হাজীরহাট ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Burhanuddin",
+    "address": "CHOR ALGI",
+    "post_office": "Borhanuddin UPO",
+    "mobiles": [
+      "01709902025",
+      "01917859335"
+    ],
+    "other_phones": [],
+    "email": "hhidmbro@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TALUKDER BARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-burhanuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101252"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

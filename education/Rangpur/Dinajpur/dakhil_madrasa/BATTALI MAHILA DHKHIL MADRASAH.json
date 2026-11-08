@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120015",
+  "institution": {
+    "eiin": "120015",
+    "name": "BATTALI MAHILA DHKHIL MADRASAH",
+    "name_bn": "বটতলী মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birampur",
+    "address": "DEOR",
+    "post_office": "Birampur",
+    "mobiles": [
+      "01712599916"
+    ],
+    "other_phones": [],
+    "email": "battalimadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BIJUL MADRASHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birampur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120015"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101169",
+  "institution": {
+    "eiin": "101169",
+    "name": "SOUTH CHAR PATA ISLAMIA DAKHIL MAADRASHA",
+    "name_bn": "দক্ষিণ চরপাতা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Bhola Sadar",
+    "address": "SOUTH CHARPATA",
+    "post_office": "Bhola Sadar",
+    "mobiles": [
+      "01741296482"
+    ],
+    "other_phones": [],
+    "email": "dcharpataidmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MADUA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-bhola-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101169"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

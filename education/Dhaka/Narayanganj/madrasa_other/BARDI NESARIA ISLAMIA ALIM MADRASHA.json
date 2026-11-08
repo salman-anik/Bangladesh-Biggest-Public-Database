@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112367",
+  "institution": {
+    "eiin": "112367",
+    "name": "BARDI NESARIA ISLAMIA ALIM MADRASHA",
+    "name_bn": "বারদী নেছারিয়া ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Sonargaon",
+    "address": "BARADI",
+    "post_office": "Baradia",
+    "mobiles": [
+      "01716335351",
+      "01711002558"
+    ],
+    "other_phones": [],
+    "email": "112367bm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "BARADI NESA ISLAMIA ALIM MADRASA"
+      ],
+      "addresses": [
+        "BARDI"
+      ],
+      "post_offices": [
+        "BARADI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-sonargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112367"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

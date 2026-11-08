@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "eiin": "116954",
+  "institution": {
+    "eiin": "116954",
+    "name": "GOVT. B. L. COLLEGE",
+    "name_bn": "সরকারি ব্রজলাল কলেজ, খুলনা",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khulna Sadar",
+    "address": "DAULATPUR COLLEGE ROAD",
+    "post_office": "Doulatpur",
+    "mobiles": [
+      "01778441595",
+      "01765516154"
+    ],
+    "other_phones": [],
+    "email": "infoblcollege@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Khulna",
+          "district": "Khulna",
+          "thana": "Daulatpur",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khulna-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-116954"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

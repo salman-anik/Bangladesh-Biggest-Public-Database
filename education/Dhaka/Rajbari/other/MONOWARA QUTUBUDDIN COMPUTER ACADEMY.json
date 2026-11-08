@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135598",
+                        "name":  "MONOWARA QUTUBUDDIN COMPUTER ACADEMY",
+                        "name_bn":  "মনোয়ারা কুতুবুদ্দিন কম্পিউটার একাডেমি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Rajbari",
+                        "thana":  "Pangsha",
+                        "address":  "COLLEGE ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01713506742",
+                                        "01558307331"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-rajbari",
+                                          "thana_id":  "BD-THANA-dhaka-rajbari-pangsha",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135598"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\rajbari\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

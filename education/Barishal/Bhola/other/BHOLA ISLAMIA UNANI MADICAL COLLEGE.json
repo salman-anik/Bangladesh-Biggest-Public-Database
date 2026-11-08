@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133477",
+                        "name":  "BHOLA ISLAMIA UNANI MADICAL COLLEGE",
+                        "name_bn":  "ভোলা ইসলামিয়া ইউনানী মেডিকেল কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Bhola",
+                        "thana":  "Bhola Sadar",
+                        "address":  "SADAR ROAD. BHOLA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01772244661",
+                                        "01913343123"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-bhola",
+                                          "thana_id":  "BD-THANA-barishal-bhola-bhola-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133477"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\bhola\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,52 @@
+{
+  "district": "Barishal",
+  "administration": {
+    "district": "Barishal",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Barishal",
+      "phone": "01713-000004",
+      "email": "dcbarishal@mopa.gov.bd",
+      "website": "http://www.barishal.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Barishal",
+      "phone": "01713-373004",
+      "email": "spbarishal@police.gov.bd",
+      "control_room": "01713-374004"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Barishal",
+      "phone": "01713-555004",
+      "email": "csbarishal@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-BAR-01",
+      "name": "Kotwali Model Police Station (Barishal)",
+      "bn_name": "কোতোয়ালী মডেল থানা (বরিশাল)",
+      "unit": "Barishal Metropolitan Police (BMP)",
+      "division": "Barishal",
+      "district": "Barishal",
+      "address": "Sadar Road, Barishal",
+      "oc_mobile": "01713-373501",
+      "duty_officer": "01713-398701",
+      "tnt": "0431-2173111",
+      "control_room": "0431-2173222"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-008",
+      "name": "Barishal Central Fire Station",
+      "bn_name": "বরিশাল সদর ফায়ার স্টেশন",
+      "division": "Barishal",
+      "district": "Barishal",
+      "address": "Band Road, Barishal",
+      "hotline": "16163",
+      "emergency_phone": "0431-2173333",
+      "mobile": "01713-038501",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

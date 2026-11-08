@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132256",
+                        "name":  "SAKOWA TECHNICAL AND BUSINESS MANAGMENT COLLEGE",
+                        "name_bn":  "সাকোয়া কারিগরি এবং ব্যবসায় ব্যবস্থাপনা মহাবিদ্যালয়",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Panchagarh",
+                        "thana":  "Boda",
+                        "address":  "SORDARPARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01925512596"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-panchagarh",
+                                          "thana_id":  "BD-THANA-rangpur-panchagarh-boda",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132256"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\panchagarh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

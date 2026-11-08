@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110991",
+  "institution": {
+    "eiin": "110991",
+    "name": "SARUPAY AL-HAZ ABDUL HALIM DAKHIL MADRASHA",
+    "name_bn": "সরুপাই আলহাজ্ব আব্দুল হালিম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Manikganj Sadar",
+    "address": "SARUPAY",
+    "post_office": "Nabagram",
+    "mobiles": [
+      "01716379280"
+    ],
+    "other_phones": [],
+    "email": "sarupaidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-manikganj-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110991"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

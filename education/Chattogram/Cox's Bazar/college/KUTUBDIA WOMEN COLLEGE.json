@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "eiin": "138101",
+  "institution": {
+    "eiin": "138101",
+    "name": "KUTUBDIA WOMEN COLLEGE",
+    "name_bn": "কুতুবদিয়া মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "thana": "Kutubdia",
+    "address": null,
+    "post_office": "Kutubdia",
+    "mobiles": [
+      "01766407385"
+    ],
+    "other_phones": [],
+    "email": "kutubdiamohilacollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cox-s-bazar",
+      "thana_id": "BD-THANA-chattogram-cox-s-bazar-kutubdia",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-138101"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

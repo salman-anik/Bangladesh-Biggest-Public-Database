@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113240",
+  "institution": {
+    "eiin": "113240",
+    "name": "MATHANG ISLAMIA ALIM MADRASHA",
+    "name_bn": "মাথাং ইসলামিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Mymensingh",
+    "district": "Netrakona",
+    "thana": "Purbadhala",
+    "address": "Mathang",
+    "post_office": "Netrakona Sadar",
+    "mobiles": [
+      "01714899221"
+    ],
+    "other_phones": [],
+    "email": "principalmathang@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "MATHING"
+      ],
+      "post_offices": [
+        "Bilkawshi"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-netrakona",
+      "thana_id": "BD-THANA-mymensingh-netrakona-purbadhala",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113240"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

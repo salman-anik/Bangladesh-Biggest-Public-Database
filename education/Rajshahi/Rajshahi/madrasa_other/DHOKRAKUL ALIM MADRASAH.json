@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "126999",
+  "institution": {
+    "eiin": "126999",
+    "name": "DHOKRAKUL ALIM MADRASAH",
+    "name_bn": "ধোকড়াকুল আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "thana": "Puthia",
+    "address": "DHOKRAKUL",
+    "post_office": "Putia",
+    "mobiles": [
+      "01718840290"
+    ],
+    "other_phones": [],
+    "email": "dhokrakulalimm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHOKRAKUL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-rajshahi",
+      "thana_id": "BD-THANA-rajshahi-rajshahi-puthia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-126999"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

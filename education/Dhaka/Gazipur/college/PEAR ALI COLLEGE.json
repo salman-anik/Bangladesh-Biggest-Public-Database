@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109422",
+  "institution": {
+    "eiin": "109422",
+    "name": "PEAR ALI COLLEGE",
+    "name_bn": "পিয়ার আলী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Sreepur",
+    "address": "KEWA PASCHIM (PART)",
+    "post_office": "Sreepur",
+    "mobiles": [
+      "01715799508"
+    ],
+    "other_phones": [],
+    "email": "principal.padc@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-sreepur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-109422"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

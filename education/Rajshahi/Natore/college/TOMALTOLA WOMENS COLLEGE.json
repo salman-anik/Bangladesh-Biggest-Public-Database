@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123893",
+  "institution": {
+    "eiin": "123893",
+    "name": "TOMALTOLA WOMENS COLLEGE",
+    "name_bn": "তমালতলা মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Bagatipara",
+    "address": "TOMALTOLA",
+    "post_office": "Laxman",
+    "mobiles": [
+      "01716186628"
+    ],
+    "other_phones": [],
+    "email": "rmamun767@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-bagatipara",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123893"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

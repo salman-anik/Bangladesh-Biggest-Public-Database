@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123475",
+  "institution": {
+    "eiin": "123475",
+    "name": "CHANDIPUR DAKHIL MADRASA",
+    "name_bn": "চন্ডিপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Naogaon Sadar",
+    "address": "CHANDIPUR",
+    "post_office": "Naogaon Sadar",
+    "mobiles": [
+      "01711981979"
+    ],
+    "other_phones": [],
+    "email": "cdmn1970@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHANDIPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-naogaon-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123475"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

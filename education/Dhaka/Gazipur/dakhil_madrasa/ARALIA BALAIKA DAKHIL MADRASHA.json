@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109270",
+  "institution": {
+    "eiin": "109270",
+    "name": "ARALIA BALAIKA DAKHIL MADRASHA",
+    "name_bn": "আড়ালিয়া বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kapasia",
+    "address": "ARALIA",
+    "post_office": "Barmi",
+    "mobiles": [
+      "01731213083",
+      "01726836179"
+    ],
+    "other_phones": [],
+    "email": "araliagirlsmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ARALIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kapasia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109270"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

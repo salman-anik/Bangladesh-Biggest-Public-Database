@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134552",
+                        "name":  "SHIALKATHI TECHNICAL \u0026 BUSINESS MANAGEMENT COLLEGE",
+                        "name_bn":  "শিয়ালকাঠী টেকনিক্যাল এন্ড বিজসেন ম্যানেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Pirojpur",
+                        "thana":  "Bhandaria",
+                        "address":  "UTTAR SHIALKATHI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01712864666"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-pirojpur",
+                                          "thana_id":  "BD-THANA-barishal-pirojpur-bhandaria",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134552"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\pirojpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

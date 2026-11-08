@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123285",
+  "institution": {
+    "eiin": "123285",
+    "name": "KALIKAPUR ALIM MADRASAH",
+    "name_bn": "কালিকাপুর আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "KALIKAPUR",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01718909416",
+      "01719711917"
+    ],
+    "other_phones": [],
+    "email": "kam123285@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "KALILAPUR ALIM MADRASAH"
+      ],
+      "post_offices": [
+        "CHAK KALIKAPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123285"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

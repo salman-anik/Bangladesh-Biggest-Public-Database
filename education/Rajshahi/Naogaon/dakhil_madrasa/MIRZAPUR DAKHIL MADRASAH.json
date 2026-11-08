@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123822",
+  "institution": {
+    "eiin": "123822",
+    "name": "MIRZAPUR DAKHIL MADRASAH",
+    "name_bn": "মির্জাপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Sapahar",
+    "address": null,
+    "post_office": null,
+    "mobiles": [],
+    "other_phones": [],
+    "email": "anamul.etin@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": null,
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-sapahar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123822"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

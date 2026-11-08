@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140217",
+                        "name":  "KISHORGANJ UNIVERSITY",
+                        "name_bn":  "কিশোরগঞ্জ বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Kishoreganj",
+                        "thana":  "Tarail",
+                        "address":  null,
+                        "post_office":  "Kishoreganj S.Mills",
+                        "mobiles":  [
+                                        "01552396426"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@bsmru.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY KISHORGANJ"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-kishoreganj",
+                                          "thana_id":  "BD-THANA-dhaka-kishoreganj-tarail",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-140217"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\kishoreganj\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113643",
+  "institution": {
+    "eiin": "113643",
+    "name": "BAGDI GIRLS DAKHIL MADRASAH",
+    "name_bn": "বগাদী বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Shariatpur Sadar",
+    "address": "BAGADI",
+    "post_office": "Chikandi",
+    "mobiles": [
+      "01718261011"
+    ],
+    "other_phones": [],
+    "email": "md.sobhan0007@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "BAGDI"
+      ],
+      "post_offices": [
+        "CHANDROPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-shariatpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113643"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

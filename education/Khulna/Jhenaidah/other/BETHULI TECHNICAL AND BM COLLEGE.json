@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135542",
+                        "name":  "BETHULI TECHNICAL AND BM COLLEGE",
+                        "name_bn":  "বোথুলী টেকনিক্যাল এ্যান্ড বিজনেজ ম্যানেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jhenaidah",
+                        "thana":  "Kaliganj",
+                        "address":  "BETHULI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01725665170",
+                                        "01734918499"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jhenaidah",
+                                          "thana_id":  "BD-THANA-khulna-jhenaidah-kaliganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135542"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jhenaidah\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139772",
+                        "name":  "INSTITUTE OF LIVESTOCK SCIENCE AND TECHNOLOGY",
+                        "name_bn":  "ইনস্টিটিউট অব লাইভস্টক সায়েন্স এন্ড টেকনোলজি, আইএলএসটি, গাইবান্ধা",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Gaibandha",
+                        "thana":  "Gaibandha Sadar",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01324289260"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-gaibandha",
+                                          "thana_id":  "BD-THANA-rangpur-gaibandha-gaibandha-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139772"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\gaibandha\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

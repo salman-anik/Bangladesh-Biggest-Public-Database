@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "eiin": "139707",
+  "institution": {
+    "eiin": "139707",
+    "name": "MD ABUL KALAM COLLEGE",
+    "name_bn": "মোঃ আবুল কালাম কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Laksam",
+    "address": null,
+    "post_office": null,
+    "mobiles": [
+      "01313430154"
+    ],
+    "other_phones": [],
+    "email": "akalamcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-laksam",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-139707"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

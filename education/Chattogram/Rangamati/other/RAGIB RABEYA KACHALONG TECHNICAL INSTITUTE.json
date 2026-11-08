@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140493",
+                        "name":  "RAGIB RABEYA KACHALONG TECHNICAL INSTITUTE",
+                        "name_bn":  "রাগীব রাবেয়া কাঁচালং টেকনিক্যাল ইনস্টিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Rangamati",
+                        "thana":  "Langadu Upazila",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01830032419"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-rangamati",
+                                          "thana_id":  "BD-THANA-chattogram-rangamati-langadu-upazila",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140493"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\rangamati\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102084",
+  "institution": {
+    "eiin": "102084",
+    "name": "INDRAKUL BALIKA DAKHIL MADRASHA",
+    "name_bn": "ইন্দ্রকুল বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Bauphal",
+    "address": "INDRAKUL",
+    "post_office": "Kalishari",
+    "mobiles": [
+      "01745520225",
+      "01716196542"
+    ],
+    "other_phones": [],
+    "email": "zakir102084@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "INDRAKUL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-bauphal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102084"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

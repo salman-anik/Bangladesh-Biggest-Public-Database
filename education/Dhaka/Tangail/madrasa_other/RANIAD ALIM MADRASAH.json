@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114428",
+  "institution": {
+    "eiin": "114428",
+    "name": "RANIAD ALIM MADRASAH",
+    "name_bn": "রানিয়াদ আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Madhupur",
+    "address": "RANIAD",
+    "post_office": "Madhupur",
+    "mobiles": [
+      "01724213230"
+    ],
+    "other_phones": [],
+    "email": "www.m114428@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "LAWFULA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-madhupur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114428"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

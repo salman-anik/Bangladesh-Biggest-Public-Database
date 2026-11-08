@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100560",
+  "institution": {
+    "eiin": "100560",
+    "name": "BOALIA NESARIA DAKHIL MADRASHA",
+    "name_bn": "বোয়ালিয়া নেছারিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Bakerganj",
+    "address": "TOBIR KATI",
+    "post_office": "Luxmibardhan",
+    "mobiles": [
+      "01718992508"
+    ],
+    "other_phones": [],
+    "email": "100560bdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "DOBIR KATI"
+      ],
+      "post_offices": [
+        "BOALIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-bakerganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100560"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

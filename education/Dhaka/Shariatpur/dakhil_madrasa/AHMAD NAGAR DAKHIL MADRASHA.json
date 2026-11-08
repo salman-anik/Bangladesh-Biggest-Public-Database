@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113605",
+  "institution": {
+    "eiin": "113605",
+    "name": "AHMAD NAGAR DAKHIL MADRASHA",
+    "name_bn": "আহমাদ নগর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Naria",
+    "address": "KATH HUGLI",
+    "post_office": "Kartikpur",
+    "mobiles": [
+      "01749513316",
+      "01724701993"
+    ],
+    "other_phones": [],
+    "email": "ahmadnagardakhilmadrasha@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GOLAR BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-naria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113605"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

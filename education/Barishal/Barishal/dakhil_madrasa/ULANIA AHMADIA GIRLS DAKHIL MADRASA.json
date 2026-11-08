@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100934",
+  "institution": {
+    "eiin": "100934",
+    "name": "ULANIA AHMADIA GIRLS DAKHIL MADRASA",
+    "name_bn": "উলানিয়া আহমদিয়া বালিকা দাখিল মাদ্রসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Mehendiganj",
+    "address": "ULANIA",
+    "post_office": "Ulania",
+    "mobiles": [
+      "01710192320"
+    ],
+    "other_phones": [],
+    "email": "ahmadiamadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-mehendiganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100934"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

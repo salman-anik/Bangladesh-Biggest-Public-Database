@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111602",
+  "institution": {
+    "eiin": "111602",
+    "name": "BIROI FAZIL MADRASHA",
+    "name_bn": "বিরই ফাযিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gaffargaon",
+    "address": "BIROI",
+    "post_office": "Dobasia",
+    "mobiles": [
+      "01799659566",
+      "01916698944"
+    ],
+    "other_phones": [],
+    "email": "biroifmad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DATTER BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gaffargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111602"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

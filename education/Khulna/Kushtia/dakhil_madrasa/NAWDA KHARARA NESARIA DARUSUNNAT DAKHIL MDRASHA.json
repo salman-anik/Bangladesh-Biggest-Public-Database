@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117886",
+  "institution": {
+    "eiin": "117886",
+    "name": "NAWDA KHARARA NESARIA DARUSUNNAT DAKHIL MDRASHA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Kushtia",
+    "thana": "Mirpur",
+    "address": "NAWDA KHARARA",
+    "post_office": "BAHALBARIA",
+    "mobiles": [
+      "01711284179"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-kushtia",
+      "thana_id": "BD-THANA-khulna-kushtia-mirpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117886"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

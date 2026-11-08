@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136627",
+                        "name":  "CHITTAGONG UNIVERSITY OF ENGINEERING \u0026 TECHNOLOGY",
+                        "name_bn":  "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Raozan",
+                        "address":  "HOLDING NO-1",
+                        "post_office":  "B.I.T Post Office",
+                        "mobiles":  [
+                                        "01711884043"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrar@cuet.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "HILLY AREA",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "CHITTAGONG UNIVERSITY OF ENGINEERING AND TECHNOLOGY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-raozan",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136627"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

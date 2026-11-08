@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "title": "Arabic Quran tafsir",
+  "language": "ar",
+  "organization": "one JSON file per tafsir",
+  "summary": {
+    "tafsir_count": 11,
+    "record_count": 62866,
+    "complete_verse_coverage_count": 10
+  },
+  "datasets": [
+    {
+      "name": "Tafsir al-Baghawi",
+      "file": "baghawy.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir al-Earab",
+      "file": "earab.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir Ibn Kathir",
+      "file": "katheer.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Maany",
+      "file": "maany.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir al-Muyassar",
+      "file": "muyassar.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Asbab al-Nuzul al-Wahidi",
+      "file": "nozool-wahidy.json",
+      "record_count": 506,
+      "unique_verse_key_count": 504,
+      "notes": "Repeated keys 2:189 and 5:44 have distinct source texts and are preserved."
+    },
+    {
+      "name": "Tafsir al-Qurtubi",
+      "file": "qortoby.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir al-Saadi",
+      "file": "saady.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir al-Tabari",
+      "file": "tabary.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir al-Tanweer",
+      "file": "tanweer.json",
+      "record_count": 6236
+    },
+    {
+      "name": "Tafsir al-Waseet",
+      "file": "waseet.json",
+      "record_count": 6236
+    }
+  ],
+  "notes": [
+    "Verse counts and source records are preserved; the Asbab al-Nuzul source can contain multiple distinct records for one verse key."
+  ]
+}

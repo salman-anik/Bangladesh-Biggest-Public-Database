@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108929",
+  "institution": {
+    "eiin": "108929",
+    "name": "CHAR BANDAR KHOLA FAZIL MADRASHA",
+    "name_bn": "চর বন্দর খোলা ফাজিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "thana": "Sadarpur",
+    "address": "CHAR BANDAR KHOLA",
+    "post_office": "Bhanga",
+    "mobiles": [
+      "01728155583",
+      "01716862477",
+      "01712967032"
+    ],
+    "other_phones": [],
+    "email": "cbfm108929@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR ARIALKHA HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-faridpur",
+      "thana_id": "BD-THANA-dhaka-faridpur-sadarpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108929"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

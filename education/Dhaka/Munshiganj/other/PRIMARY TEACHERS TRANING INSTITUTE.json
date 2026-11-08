@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133337",
+                        "name":  "PRIMARY TEACHERS TRANING INSTITUTE",
+                        "name_bn":  "প্রাইমারী টিচার্স ট্রেনিং ইন্সটিটিউট (পিটিআই), মুন্সিগঞ্জ।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Munshiganj",
+                        "thana":  "Munshiganj Sadar",
+                        "address":  "UTTAR ESLAM PUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711138414",
+                                        "01716752518"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-munshiganj",
+                                          "thana_id":  "BD-THANA-dhaka-munshiganj-munshiganj-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133337"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\munshiganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

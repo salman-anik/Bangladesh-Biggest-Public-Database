@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105913",
+  "institution": {
+    "eiin": "105913",
+    "name": "BAR BAM FAZIL NADRASAH",
+    "name_bn": "বড়বাম ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Laksam",
+    "address": "BAR BAM",
+    "post_office": "Laksam",
+    "mobiles": [
+      "01740700470",
+      "01817507540"
+    ],
+    "other_phones": [],
+    "email": "barabammadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AJGARA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-laksam",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105913"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

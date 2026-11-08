@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111105",
+  "institution": {
+    "eiin": "111105",
+    "name": "BHATER CHAR ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "ভাটেরচর ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Gazaria",
+    "address": "BHATERCHAR ISLAMIA DAKHIL MADRAHA",
+    "post_office": "Gajaria",
+    "mobiles": [
+      "01191193063"
+    ],
+    "other_phones": [],
+    "email": "mad111105@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MADHA BHATER CHAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-gazaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111105"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

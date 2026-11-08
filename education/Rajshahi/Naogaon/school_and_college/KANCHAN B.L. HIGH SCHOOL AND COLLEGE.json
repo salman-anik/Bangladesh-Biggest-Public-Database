@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123227",
+  "institution": {
+    "eiin": "123227",
+    "name": "KANCHAN B.L. HIGH SCHOOL AND COLLEGE",
+    "name_bn": "কাঞ্চন উচ্চ বিদ্যালয় অ্যান্ড কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "KANCHAN",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01711417461"
+    ],
+    "other_phones": [
+      "010711413497"
+    ],
+    "email": "sc123227@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_S",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "KANCHAN B.L. HIGH SCHOOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-123227"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

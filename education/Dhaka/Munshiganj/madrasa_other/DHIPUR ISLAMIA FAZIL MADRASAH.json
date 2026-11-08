@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111250",
+  "institution": {
+    "eiin": "111250",
+    "name": "DHIPUR ISLAMIA FAZIL MADRASAH",
+    "name_bn": "ধীপুর ইসলামিয়া ফাযিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Tongibari",
+    "address": "DHIPUR",
+    "post_office": "Tangibari",
+    "mobiles": [
+      "01715104649",
+      "01923294901",
+      "01704511940"
+    ],
+    "other_phones": [],
+    "email": "dhipurifm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHIPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-tongibari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111250"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

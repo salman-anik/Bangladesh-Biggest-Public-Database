@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "118983",
+  "institution": {
+    "eiin": "118983",
+    "name": "NUR NAGAR MAHILA DAKHIL MADRASAH",
+    "name_bn": "নূরনগর মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "thana": "Shyamnagar",
+    "address": "NURNAGAR",
+    "post_office": "Noornagar",
+    "mobiles": [
+      "01932629092",
+      "01727059514"
+    ],
+    "other_phones": [],
+    "email": "nurnogorgmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NUR NAGAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-satkhira",
+      "thana_id": "BD-THANA-khulna-satkhira-shyamnagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-118983"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

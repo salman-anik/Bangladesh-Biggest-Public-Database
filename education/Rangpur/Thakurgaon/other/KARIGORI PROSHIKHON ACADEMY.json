@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135981",
+                        "name":  "KARIGORI PROSHIKHON ACADEMY",
+                        "name_bn":  "কারিগরি প্রশিক্ষণ একাডেমী",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Thakurgaon",
+                        "thana":  "Pirganj",
+                        "address":  "RAGUNATHPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718041837"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-thakurgaon",
+                                          "thana_id":  "BD-THANA-rangpur-thakurgaon-pirganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135981"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\thakurgaon\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

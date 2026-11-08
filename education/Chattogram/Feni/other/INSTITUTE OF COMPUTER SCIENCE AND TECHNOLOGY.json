@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133188",
+                        "name":  "INSTITUTE OF COMPUTER SCIENCE AND TECHNOLOGY",
+                        "name_bn":  "ইনস্টিটিউট অব কম্পিউটার সায়েন্স এন্ড টেকনোলজি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Feni",
+                        "thana":  "Feni Sadar",
+                        "address":  "UTTOR BIRENCHHI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01673442353"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-feni",
+                                          "thana_id":  "BD-THANA-chattogram-feni-feni-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133188"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\feni\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136706",
+                        "name":  "PORT CITY INERNATIONAL UNIVERSITY",
+                        "name_bn":  "পোর্ট সিটি ইন্টারন্যাশনাল ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Khulshi",
+                        "address":  "7-14 NIKUNJA HOUSING SOCITY",
+                        "post_office":  "Khulshi",
+                        "mobiles":  [
+                                        "01851120791"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "portcityuniversity@gmail.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "OTHER POURA AREAS",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-khulshi",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136706"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

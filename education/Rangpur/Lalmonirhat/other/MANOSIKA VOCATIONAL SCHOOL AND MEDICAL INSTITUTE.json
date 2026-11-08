@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135930",
+                        "name":  "MANOSIKA VOCATIONAL SCHOOL AND MEDICAL INSTITUTE",
+                        "name_bn":  "মানসিকা ভোকেশনাল স্কুল এন্ড মেডিকেল ইন্সিটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Lalmonirhat",
+                        "thana":  "Aditmari",
+                        "address":  "KHATAPARA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01717015112",
+                                        "01722895080"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-lalmonirhat",
+                                          "thana_id":  "BD-THANA-rangpur-lalmonirhat-aditmari",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135930"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\lalmonirhat\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

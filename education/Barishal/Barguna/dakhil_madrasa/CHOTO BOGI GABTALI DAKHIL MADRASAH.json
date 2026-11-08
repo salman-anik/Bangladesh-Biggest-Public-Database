@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100105",
+  "institution": {
+    "eiin": "100105",
+    "name": "CHOTO BOGI GABTALI DAKHIL MADRASAH",
+    "name_bn": "ছোটবগী গাবতলী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Taltali",
+    "address": "CHARPARA",
+    "post_office": "Amtali",
+    "mobiles": [
+      "01735165053"
+    ],
+    "other_phones": [],
+    "email": "emiin100105@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHOTO BOGI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-taltali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100105"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101250",
+  "institution": {
+    "eiin": "101250",
+    "name": "BORHANUDDIN KAMIL MADRASA",
+    "name_bn": "বোরহানউদ্দিন কামিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Burhanuddin",
+    "address": "KUTUBA",
+    "post_office": "Borhanuddin UPO",
+    "mobiles": [
+      "01711281342"
+    ],
+    "other_phones": [],
+    "email": "bkmm101250@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KASHIGANJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-burhanuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101250"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

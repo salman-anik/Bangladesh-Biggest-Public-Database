@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130110",
+  "institution": {
+    "eiin": "130110",
+    "name": "HAZRAT SHAH JALAL (R) FAZIL MADRASHA",
+    "name_bn": "হযরত শাহজালাল (রহ.) ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "BRAHMANGRAM",
+    "post_office": "Goala Bazar",
+    "mobiles": [
+      "01819564606"
+    ],
+    "other_phones": [],
+    "email": "hsfmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "HAZRAT SHAH JALAL (R) SENIOR ALIM MADRASHA"
+      ],
+      "addresses": [
+        "BRAMON GRAM"
+      ],
+      "post_offices": [
+        "GOALA BAZER"
+      ],
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130110"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

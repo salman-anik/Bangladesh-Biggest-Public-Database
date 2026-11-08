@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100083",
+  "institution": {
+    "eiin": "100083",
+    "name": "PURBA KACHUPATRA SALEHIA DAKHIL MADRASAH",
+    "name_bn": "পূর্ব কচুপাত্রা ছালেহিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Taltali",
+    "address": "KCHU PATRA",
+    "post_office": "Amtali",
+    "mobiles": [
+      "01738810600",
+      "01726846125"
+    ],
+    "other_phones": [],
+    "email": "w.w.mad100083@g.mail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "PURBA KCHU PATRA SALEHA DAKHIL MADRASA"
+      ],
+      "post_offices": [
+        "KACUPATRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-taltali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100083"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

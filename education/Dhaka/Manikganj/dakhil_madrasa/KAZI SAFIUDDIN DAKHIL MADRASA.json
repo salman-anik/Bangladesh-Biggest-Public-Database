@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111051",
+  "institution": {
+    "eiin": "111051",
+    "name": "KAZI SAFIUDDIN DAKHIL MADRASA",
+    "name_bn": "কাজী সফিউদ্দিন দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Shibalaya",
+    "address": "JAFARGONJ",
+    "post_office": "Tewta",
+    "mobiles": [
+      "01725069677"
+    ],
+    "other_phones": [],
+    "email": "kazisafiuddinmadrasa88@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JAFARGONJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-shibalaya",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111051"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

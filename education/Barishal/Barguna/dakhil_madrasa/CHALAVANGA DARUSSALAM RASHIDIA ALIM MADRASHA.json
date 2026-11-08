@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100136",
+  "institution": {
+    "eiin": "100136",
+    "name": "CHALAVANGA DARUSSALAM RASHIDIA ALIM MADRASHA",
+    "name_bn": "চলাভাংগা দারুচ্ছালাম রশিদিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Bamna",
+    "address": "GUDIGHATA",
+    "post_office": "Kakchira",
+    "mobiles": [
+      "01719765125"
+    ],
+    "other_phones": [],
+    "email": "chalavangadsrdakhilmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DARUSSALAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-bamna",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100136"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

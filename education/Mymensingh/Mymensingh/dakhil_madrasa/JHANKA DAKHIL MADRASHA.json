@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111975",
+  "institution": {
+    "eiin": "111975",
+    "name": "JHANKA DAKHIL MADRASHA",
+    "name_bn": "ঝনকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Muktagachha",
+    "address": "JHANKA",
+    "post_office": "Muktagachha",
+    "mobiles": [
+      "01721974180",
+      "01716379134"
+    ],
+    "other_phones": [
+      "721974180"
+    ],
+    "email": "jhankadhakil@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JHANKA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-muktagachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111975"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

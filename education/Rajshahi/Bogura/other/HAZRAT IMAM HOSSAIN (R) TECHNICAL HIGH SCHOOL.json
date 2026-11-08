@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132859",
+                        "name":  "HAZRAT IMAM HOSSAIN (R) TECHNICAL HIGH SCHOOL",
+                        "name_bn":  "হযরত ইমাম হোসাইন (রাঃ) টেকনিক্যাল হাইস্কুল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Bogura",
+                        "thana":  "Shajahanpur",
+                        "address":  "KHADAS",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01728323846",
+                                        "01719041030"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-bogura",
+                                          "thana_id":  "BD-THANA-rajshahi-bogura-shajahanpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132859"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\bogura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

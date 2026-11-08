@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136704",
+                        "name":  "NORTH WESTERN UNIVERSITY",
+                        "name_bn":  "নর্থ ওয়েস্টার্ন ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Khulna",
+                        "district":  "Khulna",
+                        "thana":  "Sonadanga",
+                        "address":  "236, M.A. BARI ROAD",
+                        "post_office":  "Khula Sadar",
+                        "mobiles":  [
+                                        "01755226611"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@nwu.ac.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "OTHER POURA AREAS",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-khulna",
+                                          "thana_id":  "BD-THANA-khulna-khulna-sonadanga",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136704"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\khulna\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

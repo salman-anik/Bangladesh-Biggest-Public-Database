@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132442",
+                        "name":  "TEXTILE VOCATIONAL INSTITUTE",
+                        "name_bn":  "টেক্সটাইল ভোকেশনাল ইনষ্টিটিউট, শালবন, খাগড়াছড়ি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Khagrachhari",
+                        "thana":  "Khagrachhari Sadar",
+                        "address":  "SALBON",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01710640606",
+                                        "01820306801"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-khagrachhari",
+                                          "thana_id":  "BD-THANA-chattogram-khagrachhari-khagrachhari-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132442"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\khagrachhari\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

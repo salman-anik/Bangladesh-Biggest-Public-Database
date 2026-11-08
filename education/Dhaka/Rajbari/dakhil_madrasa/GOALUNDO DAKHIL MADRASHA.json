@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113313",
+  "institution": {
+    "eiin": "113313",
+    "name": "GOALUNDO DAKHIL MADRASHA",
+    "name_bn": "গোয়ালন্দ দাখিল মাদ্রসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "thana": "Goalanda",
+    "address": "DAWAN PARA",
+    "post_office": "Goalanda",
+    "mobiles": [
+      "01705773742",
+      "01917465102"
+    ],
+    "other_phones": [],
+    "email": "gdmgr1990@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GOALUNDO"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-rajbari",
+      "thana_id": "BD-THANA-dhaka-rajbari-goalanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113313"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103623",
+  "institution": {
+    "eiin": "103623",
+    "name": "SUBIDPUR MOHILA DAKHIL MADRASHA",
+    "name_bn": "সুবিদপুর মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "thana": "Faridganj",
+    "address": "SUBIDPUR",
+    "post_office": "Hayemchar",
+    "mobiles": [
+      "01741712553",
+      "01763595571"
+    ],
+    "other_phones": [],
+    "email": "subidpurmdm103623@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SOBIDPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chandpur",
+      "thana_id": "BD-THANA-chattogram-chandpur-faridganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103623"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

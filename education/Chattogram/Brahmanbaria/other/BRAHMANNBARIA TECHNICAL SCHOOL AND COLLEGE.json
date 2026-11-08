@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133161",
+                        "name":  "BRAHMANNBARIA TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "ব্রাহ্মণবাড়িয়া সরকারি টেকনিক্যাল স্কুল এন্ড কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Brahmanbaria",
+                        "thana":  "Brahmanbaria Sadar",
+                        "address":  "TECHNICAL COLLEGE ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01816461982",
+                                        "01552479142"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-brahmanbaria",
+                                          "thana_id":  "BD-THANA-chattogram-brahmanbaria-brahmanbaria-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133161"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\brahmanbaria\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114346",
+  "institution": {
+    "eiin": "114346",
+    "name": "AULATAIL DARUL ISLAM DAKHIL MADRASAH",
+    "name_bn": "আওলাতৈল দারুল ইসলাম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Kalihati",
+    "address": "AULATAIL",
+    "post_office": "Kalihati",
+    "mobiles": [
+      "01719048707"
+    ],
+    "other_phones": [],
+    "email": "www.m114346@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "AOLATAIL"
+      ],
+      "post_offices": [
+        "AULIABAD"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-kalihati",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114346"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,58 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140223",
+                        "name":  "AMERICA BANGLADESH UNIVERSITY",
+                        "name_bn":  "আমেরিকা বাংলাদেশ ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Mirpur",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01749160141"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "abuniversity.ac@gmail.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Dhaka",
+                                                                 "thana":  "Nawabganj",
+                                                                 "sources":  [
+                                                                                 "UPR"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-mirpur",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-140223"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

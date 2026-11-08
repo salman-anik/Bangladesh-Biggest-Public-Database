@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113672",
+  "institution": {
+    "eiin": "113672",
+    "name": "DURBADANGA ABU BAKAR SI. DAKHIL MADRASAH",
+    "name_bn": "দুর্বাডাঙ্গা আবু বকর সিদ্দিকিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "thana": "Zanjira",
+    "address": "DURBADANGA",
+    "post_office": "Jajira",
+    "mobiles": [
+      "01734190223",
+      "01777882352"
+    ],
+    "other_phones": [],
+    "email": "m113672dabsm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JANJIRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-shariatpur",
+      "thana_id": "BD-THANA-dhaka-shariatpur-zanjira",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113672"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

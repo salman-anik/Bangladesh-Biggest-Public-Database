@@ -1,0 +1,62 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133807",
+                        "name":  "BARRISTER ASIF IMTIAZ KHAN KARIGORI COLLEGE",
+                        "name_bn":  "ব্যারিস্টার আসিফ ইমতিয়াজ খান কারিগরি কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Dhaka",
+                        "thana":  "Mirpur",
+                        "address":  "HOUSE-5. ROAD-17, BLOCK-C,SECTION-10",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01865919874",
+                                        "01670175038"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "CITY BUSINEES MANAGMENT COLLEGE,DHAKA"
+                                                     ],
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Dhaka",
+                                                                 "thana":  "Pallabi",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-dhaka",
+                                          "thana_id":  "BD-THANA-dhaka-dhaka-mirpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133807"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\dhaka\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

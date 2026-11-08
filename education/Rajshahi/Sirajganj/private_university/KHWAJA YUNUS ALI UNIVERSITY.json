@@ -1,0 +1,53 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136707",
+                        "name":  "KHWAJA YUNUS ALI UNIVERSITY",
+                        "name_bn":  "খাজা ইউনুস আলী বিশ্ববিদ্যালয়",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Rajshahi",
+                        "district":  "Sirajganj",
+                        "thana":  "Chauhali",
+                        "address":  "ENYETPUR, MAZAR SHARIF",
+                        "post_office":  "Enayetpur",
+                        "mobiles":  [
+                                        "01404461555",
+                                        "01915477847"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@kyau.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "RIVER SIDE",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "KHWAJA YOUNUS ALI UNIVERSITY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-sirajganj",
+                                          "thana_id":  "BD-THANA-rajshahi-sirajganj-chauhali",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136707"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\sirajganj\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

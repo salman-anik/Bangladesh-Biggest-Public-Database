@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111108",
+  "institution": {
+    "eiin": "111108",
+    "name": "GOVT. GAZARIA COLLEGE",
+    "name_bn": "গজারিয়া সরকারি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Gazaria",
+    "address": null,
+    "post_office": "Rasulpur",
+    "mobiles": [
+      "01743774300",
+      "01715163285"
+    ],
+    "other_phones": [],
+    "email": "govtgojariacollege@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-gazaria",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111108"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

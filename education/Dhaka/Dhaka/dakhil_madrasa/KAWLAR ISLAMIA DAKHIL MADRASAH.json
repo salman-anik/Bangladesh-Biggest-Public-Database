@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108555",
+  "institution": {
+    "eiin": "108555",
+    "name": "KAWLAR ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "কাওলার ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Dakshinkhan",
+    "address": "KAWLAR",
+    "post_office": "KhilkhetTSO",
+    "mobiles": [
+      "01711370167",
+      "01716312088"
+    ],
+    "other_phones": [],
+    "email": "kawlardakhilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHILKHET"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-dakshinkhan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108555"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110523",
+  "institution": {
+    "eiin": "110523",
+    "name": "CHARIGRAM TAGURIA NURUL ULUM DAKHIL MADRASAH",
+    "name_bn": "চারিগ্রাম টাগুরিয়া নূরুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Mithamain",
+    "address": "CHARIGRAM",
+    "post_office": "MIthamoin",
+    "mobiles": [
+      "01910098031",
+      "01710587138"
+    ],
+    "other_phones": [],
+    "email": "charigrammadrasha1958@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHAKI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-mithamain",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110523"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

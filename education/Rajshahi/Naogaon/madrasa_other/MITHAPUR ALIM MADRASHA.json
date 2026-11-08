@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123127",
+  "institution": {
+    "eiin": "123127",
+    "name": "MITHAPUR ALIM MADRASHA",
+    "name_bn": "মিঠাপুর আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Badalgachhi",
+    "address": "MITHAPUR",
+    "post_office": "Badalgachhi",
+    "mobiles": [
+      "01723584116",
+      "01745759579"
+    ],
+    "other_phones": [],
+    "email": "mithapuram@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MITHAPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-badalgachhi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123127"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

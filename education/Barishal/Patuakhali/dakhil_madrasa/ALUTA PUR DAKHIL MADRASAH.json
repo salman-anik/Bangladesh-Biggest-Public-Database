@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102157",
+  "institution": {
+    "eiin": "102157",
+    "name": "ALUTA PUR DAKHIL MADRASAH",
+    "name_bn": "আউলিয়াপুর দাখিল মাদ্রাসা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Dashmina",
+    "address": "JAUTHA",
+    "post_office": "Dashmina",
+    "mobiles": [
+      "01714906265"
+    ],
+    "other_phones": [],
+    "email": "madrasah102157@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RANA GOPALDI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-dashmina",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102157"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112811",
+  "institution": {
+    "eiin": "112811",
+    "name": "SERAJ NAGAR UMMUL QURA ALIM MADRASHA",
+    "name_bn": "সিরাজনগর উম্মুলকুরা ফাাযিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Roypura",
+    "address": "SERAJ NAGAR",
+    "post_office": "Radhaganj bazar",
+    "mobiles": [
+      "01873757677",
+      "01721410735"
+    ],
+    "other_phones": [],
+    "email": "ummulquramad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RADHAGANJ"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-roypura",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112811"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

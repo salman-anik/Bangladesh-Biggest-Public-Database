@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111994",
+  "institution": {
+    "eiin": "111994",
+    "name": "HAZI KASHEM ALI MOHILA DAKHIL MADRASAH",
+    "name_bn": "হাজী কাশেম আলী মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Muktagachha",
+    "address": "GARBAJAIL",
+    "post_office": "Muktagachha",
+    "mobiles": [
+      "01718989073"
+    ],
+    "other_phones": [],
+    "email": "hazikashemali.mdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GARBAJAIL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-muktagachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111994"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

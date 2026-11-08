@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133491",
+                        "name":  "MYMENSINGH PARAMEDICAL INSTITUTE",
+                        "name_bn":  "ময়মনসিংহ প্যারামেডিকেল ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Mymensingh",
+                        "thana":  "Mymensingh Sadar",
+                        "address":  "SARDA GHOSH ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711112128"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-mymensingh",
+                                          "thana_id":  "BD-THANA-mymensingh-mymensingh-mymensingh-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133491"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\mymensingh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111106",
+  "institution": {
+    "eiin": "111106",
+    "name": "MATHA VANGA MOHILA ALIM MADRASA",
+    "name_bn": "মাথাভাঙ্গা মহিলা আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Gazaria",
+    "address": "MATHA VANGA",
+    "post_office": "Rasulpur",
+    "mobiles": [
+      "01712633519"
+    ],
+    "other_phones": [],
+    "email": "mm111106a@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-gazaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111106"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

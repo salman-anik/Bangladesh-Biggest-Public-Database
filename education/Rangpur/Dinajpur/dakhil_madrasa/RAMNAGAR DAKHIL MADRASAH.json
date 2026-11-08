@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120262",
+  "institution": {
+    "eiin": "120262",
+    "name": "RAMNAGAR DAKHIL MADRASAH",
+    "name_bn": "রামনগর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Bochaganj",
+    "address": "RAMNAGAR",
+    "post_office": "Setabganj",
+    "mobiles": [
+      "01735479773"
+    ],
+    "other_phones": [],
+    "email": "maheshailidm1@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MAHERPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-bochaganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120262"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

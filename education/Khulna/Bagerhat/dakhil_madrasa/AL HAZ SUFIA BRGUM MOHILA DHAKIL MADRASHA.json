@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "115209",
+  "institution": {
+    "eiin": "115209",
+    "name": "AL HAZ SUFIA BRGUM MOHILA DHAKIL MADRASHA",
+    "name_bn": "আলহাজ্ব সুফিয়া বেগম মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "thana": "Rampal",
+    "address": "SANTOSHPUR",
+    "post_office": "Foylahat",
+    "mobiles": [
+      "01712001306"
+    ],
+    "other_phones": [],
+    "email": "asbmdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-bagerhat",
+      "thana_id": "BD-THANA-khulna-bagerhat-rampal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-115209"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

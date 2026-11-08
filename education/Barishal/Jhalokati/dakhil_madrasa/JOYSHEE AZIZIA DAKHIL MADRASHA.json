@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101700",
+  "institution": {
+    "eiin": "101700",
+    "name": "JOYSHEE AZIZIA DAKHIL MADRASHA",
+    "name_bn": "জয়শী আজিজিয়া দাখিল মাদ্ররাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "thana": "Jhalokati Sadar",
+    "address": "JOYSHEE",
+    "post_office": "Jhalokati Sadar",
+    "mobiles": [
+      "01742576383"
+    ],
+    "other_phones": [],
+    "email": "joyseedm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "LATIM SAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-jhalokati",
+      "thana_id": "BD-THANA-barishal-jhalokati-jhalokati-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101700"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

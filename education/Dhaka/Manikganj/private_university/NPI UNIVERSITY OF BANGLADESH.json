@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138129",
+                        "name":  "NPI UNIVERSITY OF BANGLADESH",
+                        "name_bn":  "এন পি আই ইউনিভার্সিটি অব বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Manikganj",
+                        "thana":  "Manikganj Sadar",
+                        "address":  null,
+                        "post_office":  "Manikganj Sadar",
+                        "mobiles":  [
+                                        "01704444888"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@npiub.edu.bd",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-manikganj",
+                                          "thana_id":  "BD-THANA-dhaka-manikganj-manikganj-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-138129"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\manikganj\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101853",
+  "institution": {
+    "eiin": "101853",
+    "name": "CHARAMTOLI SALEHIA SINIOR MADRASAH",
+    "name_bn": "চরআমতলী ছালেহিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "thana": "Nalchity",
+    "address": "CHAR AMTOLI",
+    "post_office": "Nalchhiti",
+    "mobiles": [
+      "01704957676",
+      "01704957675"
+    ],
+    "other_phones": [],
+    "email": "charamtolys.m.nalchity@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "CHAR AMTOLO"
+      ],
+      "post_offices": [
+        "KATAKHALI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-jhalokati",
+      "thana_id": "BD-THANA-barishal-jhalokati-nalchity",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101853"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

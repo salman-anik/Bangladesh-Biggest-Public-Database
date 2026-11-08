@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111311",
+  "institution": {
+    "eiin": "111311",
+    "name": "TALAB HOSSAINIA FAZIL MADRASHA",
+    "name_bn": "তালাব হোসাইনিয়া ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Bhaluka",
+    "address": "TALAB",
+    "post_office": "Bhaluka",
+    "mobiles": [
+      "01721259948"
+    ],
+    "other_phones": [],
+    "email": "talabhfm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KACHINA BAZER"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-bhaluka",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111311"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

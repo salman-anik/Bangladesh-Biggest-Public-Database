@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123561",
+  "institution": {
+    "eiin": "123561",
+    "name": "SHABILPUR SULTANPUR GIRLS DAKHIL MADRASAH",
+    "name_bn": "সাবিলপুর সুলতানপুর মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Niamatpur",
+    "address": "SHABILPUR",
+    "post_office": "Niamatpur",
+    "mobiles": [
+      "01720595286"
+    ],
+    "other_phones": [],
+    "email": "ssgirlsdakhilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GANGORE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-niamatpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123561"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

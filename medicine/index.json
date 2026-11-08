@@ -1,0 +1,90 @@
+{
+  "title": "Bangladesh Medicine Database",
+  "description": "Comprehensive database of all medicines available in Bangladesh with complete clinical monograph details, manufacturer data, pricing in BDT, dosage guidelines, indications, contraindications, side effects, and precautions.",
+  "version": "2.0.0",
+  "last_updated": "2026-11-07",
+  "total_medicines": 33219,
+  "total_generics": 2594,
+  "total_manufacturers": 435,
+  "total_dosage_forms": 215,
+  "total_therapeutic_classes": 556,
+  "files": {
+    "all_medicines": {
+      "path": "all_medicines.json",
+      "description": "Exhaustive master dataset of all medicines in Bangladesh with full clinical monographs.",
+      "count": 33219
+    },
+    "all_medicines_summary": {
+      "path": "all_medicines_summary.json",
+      "description": "Lightweight summary for high-performance indexing and fast browser searching.",
+      "count": 33219
+    },
+    "generics": {
+      "path": "generics.json",
+      "description": "Clinical monographs of all generic active pharmaceutical ingredients in Bangladesh.",
+      "count": 2594
+    },
+    "manufacturers": {
+      "path": "manufacturers.json",
+      "description": "Pharmaceutical companies operating in Bangladesh and their brand portfolios.",
+      "count": 795
+    },
+    "dosage_forms": {
+      "path": "dosage_forms.json",
+      "description": "Dosage forms catalog (tablets, syrups, injections, etc.).",
+      "count": 113
+    },
+    "therapeutic_classes": {
+      "path": "therapeutic_classes.json",
+      "description": "Therapeutic drug classifications.",
+      "count": 453
+    },
+    "indications": {
+      "path": "indications.json",
+      "description": "Medical conditions and therapeutic indications.",
+      "count": 2043
+    },
+    "by_company_directory": {
+      "path": "by_company/",
+      "description": "Pre-segmented JSON files for each major pharmaceutical giant in Bangladesh."
+    },
+    "by_form_directory": {
+      "path": "by_form/",
+      "description": "Pre-segmented JSON files for each major dosage form category."
+    },
+    "interactive_viewer": {
+      "path": "index.html",
+      "description": "Fast, responsive web app to search, browse, and inspect medicines."
+    }
+  },
+  "schema": {
+    "id": "Unique medicine identifier (BD-MED-XXXXX)",
+    "brand_name": "Commercial brand trade name in Bangladesh",
+    "generic_name": "Active pharmaceutical ingredient (INN)",
+    "strength": "Dosage strength / concentration (e.g. 500 mg, 10 mg/5 ml)",
+    "dosage_form": "Physical dosage form (Tablet, Capsule, Syrup, etc.)",
+    "manufacturer": "Pharmaceutical manufacturing company in Bangladesh",
+    "type": "Drug category (Allopathic, Herbal, etc.)",
+    "unit_price": "Official retail price per unit in Bangladeshi Taka (৳)",
+    "pack_price": "Retail price per pack / container in BDT",
+    "pack_size": "Packaging configuration (e.g. 10x10's pack, 100 ml bottle)",
+    "package_container": "Container description and packaging price string",
+    "therapeutic_class": "Therapeutic pharmacological class",
+    "primary_indication": "Primary medical condition treated",
+    "indications": "Comprehensive list of symptoms and diseases indicated for this drug",
+    "dosage_and_administration": "Official prescribing dosage for adults and pediatrics",
+    "administration_route": "Route of administration (Oral, Subcutaneous, IV, Topical, etc.)",
+    "contraindications": "Clinical contraindications where the drug should not be taken",
+    "side_effects": "Documented adverse effects and side effects",
+    "precautions_and_warnings": "Precautions, renal/hepatic warnings, elderly guidelines",
+    "pregnancy_category": "FDA Pregnancy Category (A, B, C, D, X)",
+    "pregnancy_and_lactation": "Pregnancy and breastfeeding safety profile",
+    "drug_interactions": "Drug-drug, drug-food, and pharmacokinetic interactions",
+    "pharmacology": "Mechanism of action and pharmacodynamics",
+    "pediatric_usage": "Safety and dosing considerations in children",
+    "overdose_effects": "Toxicology and overdose management",
+    "storage_conditions": "Recommended storage temperatures and conditions",
+    "medex_url": "Online reference monograph URL"
+  },
+  "total_indications": 1233
+}

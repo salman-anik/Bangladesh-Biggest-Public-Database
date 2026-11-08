@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123171",
+  "institution": {
+    "eiin": "123171",
+    "name": "FARSHIPARA MOZAFFAR RAHMANIA BI. DAKHIL MADRASAH",
+    "name_bn": "ফার্শিপাড়া এম. আর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Dhamoirhat",
+    "address": "RANGAMATY ROAD",
+    "post_office": "FARSHI PARA",
+    "mobiles": [
+      "01712438358",
+      "01752683482",
+      "01705882803"
+    ],
+    "other_phones": [],
+    "email": "farshiparmadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-dhamoirhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123171"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

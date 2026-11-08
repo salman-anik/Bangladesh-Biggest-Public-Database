@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136117",
+                        "name":  "RENASHA COMPUTER PRASIKHON ACADEMY",
+                        "name_bn":  "রেনেসা কম্পিউটার প্রশিক্ষণ একাডেমি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Narsingdi",
+                        "thana":  "Shibpur",
+                        "address":  "COLLEGE GATE, SHIBPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716866035"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-narsingdi",
+                                          "thana_id":  "BD-THANA-dhaka-narsingdi-shibpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136117"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\narsingdi\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

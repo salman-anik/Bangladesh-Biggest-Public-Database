@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133790",
+                        "name":  "S.M. SULTAN FINE ART COLLEGE JESSORE",
+                        "name_bn":  "এস.এম সুলতান ফাইন আর্ট কলেজ যশোর",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jashore",
+                        "thana":  "Kotwali",
+                        "address":  "5, UPSHAR UNION",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711384400",
+                                        "01190721522"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jashore",
+                                          "thana_id":  "BD-THANA-khulna-jashore-kotwali",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133790"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jashore\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117127",
+  "institution": {
+    "eiin": "117127",
+    "name": "SHIROMONI ALIM MADRASHA",
+    "name_bn": "শিরোমণি আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khan Jahan Ali",
+    "address": "SHIROMONI",
+    "post_office": "Siramani",
+    "mobiles": [
+      "01912123126"
+    ],
+    "other_phones": [],
+    "email": "shiromoniam@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHIROMONI"
+      ],
+      "locations": [
+        {
+          "division": "Khulna",
+          "district": "Khulna",
+          "thana": "Phultala",
+          "sources": [
+            "MR",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khan-jahan-ali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-117127"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

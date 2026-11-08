@@ -1,0 +1,49 @@
+{
+  "total": 428,
+  "districts": {
+    "Mymensingh": {
+      "total": 156,
+      "status_breakdown": {
+        "Active Member": 136,
+        "Defaulter": 9,
+        "Transferred": 9,
+        "Inactive": 1,
+        "Suspended": 1
+      }
+    },
+    "Netrakona": {
+      "total": 131,
+      "status_breakdown": {
+        "Active Member": 109,
+        "Defaulter": 8,
+        "Transferred": 13,
+        "Sanad Suspended": 1
+      }
+    },
+    "Sherpur": {
+      "total": 41,
+      "status_breakdown": {
+        "Active Member": 34,
+        "Defaulter": 3,
+        "Transferred": 3,
+        "Sanad Suspended": 1
+      }
+    },
+    "Jamalpur": {
+      "total": 100,
+      "status_breakdown": {
+        "Active Member": 89,
+        "Transferred": 3,
+        "Defaulter": 8
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 368,
+    "Defaulter": 28,
+    "Transferred": 28,
+    "Sanad Suspended": 2,
+    "Inactive": 1,
+    "Suspended": 1
+  }
+}

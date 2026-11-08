@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111107",
+  "institution": {
+    "eiin": "111107",
+    "name": "GAZARIA THANA KALIMULLAH COLLEGE",
+    "name_bn": "গজারিয়া কলিমউল্লাহ ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Gazaria",
+    "address": "COLLEGE ROAD",
+    "post_office": "Gajaria",
+    "mobiles": [
+      "01819162876"
+    ],
+    "other_phones": [],
+    "email": "kalimullahcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-gazaria",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-111107"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

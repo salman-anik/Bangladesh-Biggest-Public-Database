@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "115143",
+  "institution": {
+    "eiin": "115143",
+    "name": "S CHANDIPUR DAKHIL MADRASA",
+    "name_bn": "এস চন্ডিপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "thana": "Morrelganj",
+    "address": "CHANDI PUR",
+    "post_office": "Teligatee",
+    "mobiles": [
+      "01767466522"
+    ],
+    "other_phones": [],
+    "email": "s.chandipurdm@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SELIMGAR BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-bagerhat",
+      "thana_id": "BD-THANA-khulna-bagerhat-morrelganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-115143"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

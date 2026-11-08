@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123300",
+  "institution": {
+    "eiin": "123300",
+    "name": "CHAK KANU DARUS SALAM MOHILLA DAKHIL MADRASHA",
+    "name_bn": "চককানু দারস সালাম মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "CHAK KANU",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01719752059"
+    ],
+    "other_phones": [],
+    "email": "madr123300@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAK KANU"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123300"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

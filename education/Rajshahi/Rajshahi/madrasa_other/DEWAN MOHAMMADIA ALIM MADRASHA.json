@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "126913",
+  "institution": {
+    "eiin": "126913",
+    "name": "DEWAN MOHAMMADIA ALIM MADRASHA",
+    "name_bn": "দেওয়ান মোহাম্মাদীয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "thana": "Paba",
+    "address": "BALIA",
+    "post_office": "Rajshahi Court",
+    "mobiles": [
+      "01783668847"
+    ],
+    "other_phones": [],
+    "email": "dewan.pabaraj@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-rajshahi",
+      "thana_id": "BD-THANA-rajshahi-rajshahi-paba",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-126913"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123188",
+  "institution": {
+    "eiin": "123188",
+    "name": "UTTAR CHAK RAHMAT SIDDIKIA DAKHIL MADRASHA",
+    "name_bn": "উত্তর চক রহমত সিদ্দিকীয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Dhamoirhat",
+    "address": "UTTAR CHAK RAHMAT",
+    "post_office": "Jagdal",
+    "mobiles": [
+      "01717853924",
+      "01721104851"
+    ],
+    "other_phones": [],
+    "email": "utmadrasah16@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-dhamoirhat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123188"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

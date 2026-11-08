@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136603",
+                        "name":  "CHATTOGRAM VETERINARY AND ANIMAL SCIENCES UNIVERSITY",
+                        "name_bn":  "চট্টগ্রাম ভেটেরিনারি এন্ড এনিম্যাল সাইন্সেস বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Chattogram",
+                        "district":  "Chattogram",
+                        "thana":  "Khulshi",
+                        "address":  "KHULSI",
+                        "post_office":  "Khulshi",
+                        "mobiles":  [
+                                        "01815853527"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "registrarcvasu@gmail.com",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "CITY CORPORATION",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "CHITTAGONG VETERINARY AND ANIMAL SCIENCES UNIVERSITY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-chattogram",
+                                          "thana_id":  "BD-THANA-chattogram-chattogram-khulshi",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136603"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\chattogram\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

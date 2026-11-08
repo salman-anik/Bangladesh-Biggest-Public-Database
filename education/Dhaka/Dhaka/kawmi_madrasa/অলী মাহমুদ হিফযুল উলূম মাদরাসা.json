@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "qawmi_bd_0004",
+  "institution": {
+    "eiin": "qawmi_bd_0004",
+    "name": "অলী মাহমুদ হিফযুল উলূম মাদরাসা",
+    "name_bn": "অলী মাহমুদ হিফযুল উলূম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kawmi",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "নান্দাইল",
+    "address": "নান্দাইল",
+    "post_office": "",
+    "mobiles": [],
+    "other_phones": [],
+    "email": "",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "",
+    "area_status": "",
+    "survey_year": 2026,
+    "sources": [
+      "S11",
+      "QawmiVerse"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-qawmi_bd_0004"
+    },
+    "madrasa_category": "Kawmi",
+    "affiliation_code": "৩/৭০৭",
+    "verification_status": "source_transcribed_not_independently_verified",
+    "gender": "unspecified",
+    "contact_research_status": "searched_no_public_number_found",
+    "contact_sources": [
+      {
+        "url": "https://wifaqresult.blogspot.com/2019/04/wifaq-board-all-madrasa-EIIN-ilhak-number-wifaqresult-com.html",
+        "source_name": "Public madrasa/board listing",
+        "match_basis": "Institution name and locality match the directory record",
+        "checked_on": "2026-11-01",
+        "source_note": "Wifaq Result 2019 list; institution entry found, no phone number displayed."
+      }
+    ],
+    "contact_notes": "A name/locality search and relevant directory/board listing were checked; no publicly listed phone number was found in the retrieved result. This does not prove that no number exists."
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

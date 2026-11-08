@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123690",
+  "institution": {
+    "eiin": "123690",
+    "name": "SATOA MOHILA DAKHIL MADRASHA",
+    "name_bn": "ছাতোয়া মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Porsha",
+    "address": "SATOA",
+    "post_office": "Patnitala",
+    "mobiles": [
+      "01737333943"
+    ],
+    "other_phones": [],
+    "email": "smdm123690@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHISHAHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-porsha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123690"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

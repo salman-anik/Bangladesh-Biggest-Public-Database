@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "107681",
+                        "name":  "TANGUMA CHHARA JUNIOR HIGH SCHOOL",
+                        "name_bn":  "তাংগুমাছড়া নিম্ন মাধ্যমিক বিদ্যালয়",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Rangamati",
+                        "thana":  "Baghaichhari",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01553066313"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-rangamati",
+                                          "thana_id":  "BD-THANA-chattogram-rangamati-baghaichhari",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-107681"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\rangamati\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101012",
+  "institution": {
+    "eiin": "101012",
+    "name": "UTTOR KAJLAKATI DAKHIL MADRASHA",
+    "name_bn": "উত্তর কাজলাকাঠী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Bakerganj",
+    "address": "96",
+    "post_office": "কাজলাকাঠী",
+    "mobiles": [
+      "01748990971"
+    ],
+    "other_phones": [],
+    "email": "ukdakhilmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "UTTOR KAJLAKATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-bakerganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101012"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

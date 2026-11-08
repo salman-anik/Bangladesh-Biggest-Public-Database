@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110381",
+  "institution": {
+    "eiin": "110381",
+    "name": "TANJIM ASRAF (SADI) DAKHIL MADRASHA",
+    "name_bn": "তানজিম আশরাফ (সাদী) দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Karimganj",
+    "address": null,
+    "post_office": "Kishoreganj Sadar",
+    "mobiles": [
+      "01725257774",
+      "01790262911"
+    ],
+    "other_phones": [],
+    "email": "tasdm200419861@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NANSREE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-karimganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110381"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

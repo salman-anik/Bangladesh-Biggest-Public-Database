@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110061",
+  "institution": {
+    "eiin": "110061",
+    "name": "MUSLEMABAD ALIM MADRASHA",
+    "name_bn": "মোসলেমাবাদ আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Madarganj",
+    "address": "MUSLEMABAD",
+    "post_office": "Melandah",
+    "mobiles": [
+      "01712931861",
+      "01757919445"
+    ],
+    "other_phones": [],
+    "email": "muslemabad1981@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MOSLEMABAD"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-madarganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110061"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

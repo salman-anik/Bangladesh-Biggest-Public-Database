@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "137660",
+  "institution": {
+    "eiin": "137660",
+    "name": "MULLAPARA HAJI ABDU MIAH COLLEGE",
+    "name_bn": "মোল্লাপাড়া হাজী আব্দু মিয়া কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "MOLLAPARA",
+    "post_office": "Omarpur",
+    "mobiles": [
+      "01712071596"
+    ],
+    "other_phones": [],
+    "email": "amiahcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-137660"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

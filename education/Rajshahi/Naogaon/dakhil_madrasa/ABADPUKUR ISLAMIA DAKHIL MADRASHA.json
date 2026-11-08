@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123740",
+  "institution": {
+    "eiin": "123740",
+    "name": "ABADPUKUR ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "আবাদপুকুর ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Raninagar",
+    "address": "ABADPUKUR",
+    "post_office": "Adamdighi",
+    "mobiles": [
+      "01728794646"
+    ],
+    "other_phones": [],
+    "email": "a123740r@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ABADPUKUR HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-raninagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123740"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

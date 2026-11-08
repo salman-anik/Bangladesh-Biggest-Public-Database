@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111896",
+  "institution": {
+    "eiin": "111896",
+    "name": "CHAR BARBILA DAKHIL MADRASHA",
+    "name_bn": "চর বড়বিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Mymensingh Sadar",
+    "address": "CHAR BARBILA",
+    "post_office": "Tarakanda",
+    "mobiles": [
+      "01718794141",
+      "01855222259",
+      "01717164845"
+    ],
+    "other_phones": [],
+    "email": "cbdmadrash@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR KHARICHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-mymensingh-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111896"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102044",
+  "institution": {
+    "eiin": "102044",
+    "name": "GULBAG ALIM MADRASAH",
+    "name_bn": "গুলবাগ আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Bauphal",
+    "address": "GULBAG",
+    "post_office": "Kalishari",
+    "mobiles": [
+      "01704609374"
+    ],
+    "other_phones": [],
+    "email": "gulbag102044@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GULBAG SM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-bauphal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102044"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123966",
+  "institution": {
+    "eiin": "123966",
+    "name": "AHMEDPUR SHAHID ZIA GIRLS DAKHIL MADRASAH",
+    "name_bn": "আহমেদপুর শহীদ জিয়া বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "AHMEDPUR",
+    "post_office": "AHAMADPUR BAZAR",
+    "mobiles": [
+      "01728233024"
+    ],
+    "other_phones": [],
+    "email": "m123966@hotmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123966"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

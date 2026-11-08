@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139145",
+                        "name":  "NETROKONA UNIVERSITY",
+                        "name_bn":  "নেত্রকোণা বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Mymensingh",
+                        "district":  "Netrakona",
+                        "thana":  "Netrokona Sadar",
+                        "address":  null,
+                        "post_office":  "Netrakona Sadar",
+                        "mobiles":  [
+                                        "01550059950"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "info@shu.edu.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "RURAL",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "SHEIKH HASINA UNIVERSITY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-netrakona",
+                                          "thana_id":  "BD-THANA-mymensingh-netrakona-netrokona-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-139145"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\netrakona\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

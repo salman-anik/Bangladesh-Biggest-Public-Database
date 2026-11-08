@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130121",
+  "institution": {
+    "eiin": "130121",
+    "name": "ALHAZ MINA BEGUM NURANIA MOHILA MADRASHA",
+    "name_bn": "আলহাজ্ব মিনা বেগম নুরানীয়া মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "DULIARBAND",
+    "post_office": "Tajpur",
+    "mobiles": [
+      "01731465015",
+      "01819569579",
+      "01907183967"
+    ],
+    "other_phones": [],
+    "email": "minamadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "TAJPUR"
+      ],
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130121"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

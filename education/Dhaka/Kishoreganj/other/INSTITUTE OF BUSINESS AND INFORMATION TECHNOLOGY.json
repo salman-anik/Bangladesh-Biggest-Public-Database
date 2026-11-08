@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133092",
+                        "name":  "INSTITUTE OF BUSINESS AND INFORMATION TECHNOLOGY",
+                        "name_bn":  "ইনস্টিটিউট অব বিজনেস এন্ড ইনফরমেশন টেকনোলজি",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Kishoreganj",
+                        "thana":  "Kishoreganj Sadar",
+                        "address":  "1004, NILLGANJ ROAD, UKILPARA, KISHOREGANJ.",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716020580",
+                                        "01718584622"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-kishoreganj",
+                                          "thana_id":  "BD-THANA-dhaka-kishoreganj-kishoreganj-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133092"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\kishoreganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

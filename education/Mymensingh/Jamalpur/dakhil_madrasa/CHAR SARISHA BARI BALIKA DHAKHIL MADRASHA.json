@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110211",
+  "institution": {
+    "eiin": "110211",
+    "name": "CHAR SARISHA BARI BALIKA DHAKHIL MADRASHA",
+    "name_bn": "চর সরিষাবাড়ী বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Sarishabari Upazila",
+    "address": "CHAR SARISHA BARI",
+    "post_office": "Sharishabari",
+    "mobiles": [
+      "01798457333",
+      "01917985024"
+    ],
+    "other_phones": [],
+    "email": "csbdmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SATARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-sarishabari-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110211"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

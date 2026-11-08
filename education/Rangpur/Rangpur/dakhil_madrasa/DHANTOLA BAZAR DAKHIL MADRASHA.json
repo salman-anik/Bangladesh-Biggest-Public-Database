@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "127282",
+  "institution": {
+    "eiin": "127282",
+    "name": "DHANTOLA BAZAR DAKHIL MADRASHA",
+    "name_bn": "ধনতোলা বাজার দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "thana": "Gangachara",
+    "address": "DHANTOLA",
+    "post_office": "DHANTOLA",
+    "mobiles": [
+      "01746218582"
+    ],
+    "other_phones": [],
+    "email": "dhantolabazardm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-rangpur",
+      "thana_id": "BD-THANA-rangpur-rangpur-gangachara",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-127282"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

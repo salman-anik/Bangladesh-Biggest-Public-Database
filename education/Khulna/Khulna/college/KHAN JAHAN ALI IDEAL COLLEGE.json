@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117128",
+  "institution": {
+    "eiin": "117128",
+    "name": "KHAN JAHAN ALI IDEAL COLLEGE",
+    "name_bn": "খানজাহান আলী আদর্শ মহাবিদ্যালয়",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khan Jahan Ali",
+    "address": "SHIROSHONI",
+    "post_office": "Siramani",
+    "mobiles": [
+      "01718043339"
+    ],
+    "other_phones": [],
+    "email": "collegekhanjahanali@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Khulna",
+          "district": "Khulna",
+          "thana": "Phultala",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khan-jahan-ali",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-117128"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

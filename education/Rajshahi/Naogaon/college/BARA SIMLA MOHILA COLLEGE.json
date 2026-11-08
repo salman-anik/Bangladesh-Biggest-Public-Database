@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123083",
+  "institution": {
+    "eiin": "123083",
+    "name": "BARA SIMLA MOHILA COLLEGE",
+    "name_bn": "বড়শিমলা মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Atrai",
+    "address": "BARA SHIMLA",
+    "post_office": "Bandai",
+    "mobiles": [
+      "01743921220"
+    ],
+    "other_phones": [],
+    "email": "abari010281@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-atrai",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123083"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

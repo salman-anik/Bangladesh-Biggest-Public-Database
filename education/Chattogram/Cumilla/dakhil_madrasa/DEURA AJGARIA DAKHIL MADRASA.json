@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105161",
+  "institution": {
+    "eiin": "105161",
+    "name": "DEURA AJGARIA DAKHIL MADRASA",
+    "name_bn": "দেওড়া আজগরিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Barura",
+    "address": "DEORA",
+    "post_office": "Barura",
+    "mobiles": [
+      "01817097781",
+      "01820124710"
+    ],
+    "other_phones": [],
+    "email": "deoraadm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "DEWRA"
+      ],
+      "post_offices": [
+        "KADBA DEORA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-barura",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105161"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

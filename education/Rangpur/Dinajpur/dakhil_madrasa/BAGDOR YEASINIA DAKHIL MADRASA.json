@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120530",
+  "institution": {
+    "eiin": "120530",
+    "name": "BAGDOR YEASINIA DAKHIL MADRASA",
+    "name_bn": "বাগদোড় ইয়াছিনিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Hakimpur",
+    "address": "BAGDOR",
+    "post_office": "Bangla Hili",
+    "mobiles": [
+      "01714601966",
+      "01718199732"
+    ],
+    "other_phones": [],
+    "email": "mamunur131973@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHATRAUSNA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-hakimpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120530"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

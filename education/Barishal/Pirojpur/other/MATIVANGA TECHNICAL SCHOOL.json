@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135170",
+                        "name":  "MATIVANGA TECHNICAL SCHOOL",
+                        "name_bn":  "মাটিভাংগা টেকনিক্যাল স্কুল",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Pirojpur",
+                        "thana":  "Bhandaria",
+                        "address":  "MATIVANGA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01740993324"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-pirojpur",
+                                          "thana_id":  "BD-THANA-barishal-pirojpur-bhandaria",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135170"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\pirojpur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

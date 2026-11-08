@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135139",
+                        "name":  "ALHAJ SHAFIUDDIN MIAH AND AKABBAR HOSSAIN TECHNICAL COLLEGE",
+                        "name_bn":  "আলহাজ্ব শফিউদ্দিন মিঞা এন্ড একাব্বর হোসেন টেকনিক্যাল কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Tangail",
+                        "thana":  "Mirzapur",
+                        "address":  "MIRZAPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01713519474",
+                                        "01710584468"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-tangail",
+                                          "thana_id":  "BD-THANA-dhaka-tangail-mirzapur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135139"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\tangail\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

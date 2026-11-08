@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139516",
+                        "name":  "GALACHIPA GOVT TECHNICAL SCHOOL AND COLLEGE PATUAKHALI",
+                        "name_bn":  "গলাচিপা সরকারি টেকনিক্যাল স্কুল ও কলেজ, গলাচিপা, পটুয়াখালী",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Patuakhali",
+                        "thana":  "Galachipa",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711706405"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-patuakhali",
+                                          "thana_id":  "BD-THANA-barishal-patuakhali-galachipa",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139516"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\patuakhali\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

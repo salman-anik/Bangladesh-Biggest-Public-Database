@@ -1,0 +1,710 @@
+{
+  "schema_version": "1.0",
+  "title": "Supplemental Sahih al-Bukhari source",
+  "collection": "bukhari",
+  "organization": "all book JSON files in Hadith Books/",
+  "derived_from_source_files": [
+    "books.json",
+    "hadiths.json"
+  ],
+  "summary": {
+    "book_count": 97,
+    "hadith_record_count": 7167,
+    "books_with_hadiths": 95,
+    "books_without_hadiths": [
+      89,
+      96
+    ]
+  },
+  "source_overlap": {
+    "canonical_collection": "../../Hadith Books/Sahih al-Bukhari.json",
+    "shared_hadith_number_count": 6671,
+    "handling": "Kept this alternate source separate; matching hadith numbers are not assumed to be duplicate text."
+  },
+  "books": [
+    {
+      "book_number": 1,
+      "title": "Revelation",
+      "file": "../../Hadith Books/Supplemental Bukhari - 001 - Revelation.json",
+      "record_count": 7,
+      "declared_record_count": 7
+    },
+    {
+      "book_number": 2,
+      "title": "Belief",
+      "file": "../../Hadith Books/Supplemental Bukhari - 002 - Belief.json",
+      "record_count": 51,
+      "declared_record_count": 51
+    },
+    {
+      "book_number": 3,
+      "title": "Knowledge",
+      "file": "../../Hadith Books/Supplemental Bukhari - 003 - Knowledge.json",
+      "record_count": 76,
+      "declared_record_count": 76
+    },
+    {
+      "book_number": 4,
+      "title": "Ablutions (Wudu')",
+      "file": "../../Hadith Books/Supplemental Bukhari - 004 - Ablutions (Wudu').json",
+      "record_count": 113,
+      "declared_record_count": 113
+    },
+    {
+      "book_number": 5,
+      "title": "Bathing (Ghusl)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 005 - Bathing (Ghusl).json",
+      "record_count": 45,
+      "declared_record_count": 45
+    },
+    {
+      "book_number": 6,
+      "title": "Menstrual Periods",
+      "file": "../../Hadith Books/Supplemental Bukhari - 006 - Menstrual Periods.json",
+      "record_count": 37,
+      "declared_record_count": 37
+    },
+    {
+      "book_number": 7,
+      "title": "Rubbing hands and feet with dust (Tayammum)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 007 - Rubbing hands and feet with dust (Tayammum).json",
+      "record_count": 15,
+      "declared_record_count": 15
+    },
+    {
+      "book_number": 8,
+      "title": "Prayers (Salat)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 008 - Prayers (Salat).json",
+      "record_count": 167,
+      "declared_record_count": 167
+    },
+    {
+      "book_number": 9,
+      "title": "Times of the Prayers",
+      "file": "../../Hadith Books/Supplemental Bukhari - 009 - Times of the Prayers.json",
+      "record_count": 77,
+      "declared_record_count": 77
+    },
+    {
+      "book_number": 10,
+      "title": "Call to Prayers (Adhaan)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 010 - Call to Prayers (Adhaan).json",
+      "record_count": 266,
+      "declared_record_count": 266
+    },
+    {
+      "book_number": 11,
+      "title": "Friday Prayer",
+      "file": "../../Hadith Books/Supplemental Bukhari - 011 - Friday Prayer.json",
+      "record_count": 65,
+      "declared_record_count": 65
+    },
+    {
+      "book_number": 12,
+      "title": "Fear Prayer",
+      "file": "../../Hadith Books/Supplemental Bukhari - 012 - Fear Prayer.json",
+      "record_count": 6,
+      "declared_record_count": 6
+    },
+    {
+      "book_number": 13,
+      "title": "The Two Festivals (Eids)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 013 - The Two Festivals (Eids).json",
+      "record_count": 37,
+      "declared_record_count": 37
+    },
+    {
+      "book_number": 14,
+      "title": "Witr Prayer",
+      "file": "../../Hadith Books/Supplemental Bukhari - 014 - Witr Prayer.json",
+      "record_count": 15,
+      "declared_record_count": 15
+    },
+    {
+      "book_number": 15,
+      "title": "Invoking Allah for Rain (Istisqaa)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 015 - Invoking Allah for Rain (Istisqaa).json",
+      "record_count": 34,
+      "declared_record_count": 34
+    },
+    {
+      "book_number": 16,
+      "title": "Eclipses",
+      "file": "../../Hadith Books/Supplemental Bukhari - 016 - Eclipses.json",
+      "record_count": 24,
+      "declared_record_count": 24
+    },
+    {
+      "book_number": 17,
+      "title": "Prostration During Recital of Qur'an",
+      "file": "../../Hadith Books/Supplemental Bukhari - 017 - Prostration During Recital of Qur'an.json",
+      "record_count": 13,
+      "declared_record_count": 13
+    },
+    {
+      "book_number": 18,
+      "title": "Shortening the Prayers (At-Taqseer)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 018 - Shortening the Prayers (At-Taqseer).json",
+      "record_count": 39,
+      "declared_record_count": 39
+    },
+    {
+      "book_number": 19,
+      "title": "Prayer at Night (Tahajjud)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 019 - Prayer at Night (Tahajjud).json",
+      "record_count": 63,
+      "declared_record_count": 63
+    },
+    {
+      "book_number": 20,
+      "title": "Virtues of Prayer at Masjid Makkah and Madinah",
+      "file": "../../Hadith Books/Supplemental Bukhari - 020 - Virtues of Prayer at Masjid Makkah and Madinah.json",
+      "record_count": 9,
+      "declared_record_count": 9
+    },
+    {
+      "book_number": 21,
+      "title": "Actions while Praying",
+      "file": "../../Hadith Books/Supplemental Bukhari - 021 - Actions while Praying.json",
+      "record_count": 27,
+      "declared_record_count": 27
+    },
+    {
+      "book_number": 22,
+      "title": "Forgetfulness in Prayer",
+      "file": "../../Hadith Books/Supplemental Bukhari - 022 - Forgetfulness in Prayer.json",
+      "record_count": 14,
+      "declared_record_count": 14
+    },
+    {
+      "book_number": 23,
+      "title": "Funerals (Al-Janaa'iz)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 023 - Funerals (Al-Janaa'iz).json",
+      "record_count": 148,
+      "declared_record_count": 148
+    },
+    {
+      "book_number": 24,
+      "title": "Obligatory Charity Tax (Zakat)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 024 - Obligatory Charity Tax (Zakat).json",
+      "record_count": 112,
+      "declared_record_count": 112
+    },
+    {
+      "book_number": 25,
+      "title": "Hajj (Pilgrimage)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 025 - Hajj (Pilgrimage).json",
+      "record_count": 247,
+      "declared_record_count": 247
+    },
+    {
+      "book_number": 26,
+      "title": "`Umrah (Minor pilgrimage)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 026 - `Umrah (Minor pilgrimage).json",
+      "record_count": 30,
+      "declared_record_count": 30
+    },
+    {
+      "book_number": 27,
+      "title": "Pilgrims Prevented from Completing the Pilgrimage",
+      "file": "../../Hadith Books/Supplemental Bukhari - 027 - Pilgrims Prevented from Completing the Pilgrimage.json",
+      "record_count": 15,
+      "declared_record_count": 15
+    },
+    {
+      "book_number": 28,
+      "title": "Penalty of Hunting while on Pilgrimage",
+      "file": "../../Hadith Books/Supplemental Bukhari - 028 - Penalty of Hunting while on Pilgrimage.json",
+      "record_count": 46,
+      "declared_record_count": 46
+    },
+    {
+      "book_number": 29,
+      "title": "Virtues of Madinah",
+      "file": "../../Hadith Books/Supplemental Bukhari - 029 - Virtues of Madinah.json",
+      "record_count": 24,
+      "declared_record_count": 24
+    },
+    {
+      "book_number": 30,
+      "title": "Fasting",
+      "file": "../../Hadith Books/Supplemental Bukhari - 030 - Fasting.json",
+      "record_count": 112,
+      "declared_record_count": 112
+    },
+    {
+      "book_number": 31,
+      "title": "Praying at Night in Ramadaan (Taraweeh)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 031 - Praying at Night in Ramadaan (Taraweeh).json",
+      "record_count": 6,
+      "declared_record_count": 6
+    },
+    {
+      "book_number": 32,
+      "title": "Virtues of the Night of Qadr",
+      "file": "../../Hadith Books/Supplemental Bukhari - 032 - Virtues of the Night of Qadr.json",
+      "record_count": 11,
+      "declared_record_count": 11
+    },
+    {
+      "book_number": 33,
+      "title": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 033 - Retiring to a Mosque for Remembrance of Allah (I'tikaf).json",
+      "record_count": 21,
+      "declared_record_count": 21
+    },
+    {
+      "book_number": 34,
+      "title": "Sales and Trade",
+      "file": "../../Hadith Books/Supplemental Bukhari - 034 - Sales and Trade.json",
+      "record_count": 184,
+      "declared_record_count": 184
+    },
+    {
+      "book_number": 35,
+      "title": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 035 - Sales in which a Price is paid for Goods to be Delivered Later (As-Salam).json",
+      "record_count": 16,
+      "declared_record_count": 16
+    },
+    {
+      "book_number": 36,
+      "title": "Shuf'a",
+      "file": "../../Hadith Books/Supplemental Bukhari - 036 - Shuf'a.json",
+      "record_count": 3,
+      "declared_record_count": 3
+    },
+    {
+      "book_number": 37,
+      "title": "Hiring",
+      "file": "../../Hadith Books/Supplemental Bukhari - 037 - Hiring.json",
+      "record_count": 25,
+      "declared_record_count": 25
+    },
+    {
+      "book_number": 38,
+      "title": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 038 - Transferance of a Debt from One Person to Another (Al-Hawaala).json",
+      "record_count": 3,
+      "declared_record_count": 3
+    },
+    {
+      "book_number": 39,
+      "title": "Kafalah",
+      "file": "../../Hadith Books/Supplemental Bukhari - 039 - Kafalah.json",
+      "record_count": 9,
+      "declared_record_count": 9
+    },
+    {
+      "book_number": 40,
+      "title": "Representation, Authorization, Business by Proxy",
+      "file": "../../Hadith Books/Supplemental Bukhari - 040 - Representation, Authorization, Business by Proxy.json",
+      "record_count": 18,
+      "declared_record_count": 18
+    },
+    {
+      "book_number": 41,
+      "title": "Agriculture",
+      "file": "../../Hadith Books/Supplemental Bukhari - 041 - Agriculture.json",
+      "record_count": 28,
+      "declared_record_count": 28
+    },
+    {
+      "book_number": 42,
+      "title": "Distribution of Water",
+      "file": "../../Hadith Books/Supplemental Bukhari - 042 - Distribution of Water.json",
+      "record_count": 31,
+      "declared_record_count": 31
+    },
+    {
+      "book_number": 43,
+      "title": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+      "file": "../../Hadith Books/Supplemental Bukhari - 043 - Loans, Payment of Loans, Freezing of Property, Bankruptcy.json",
+      "record_count": 24,
+      "declared_record_count": 24
+    },
+    {
+      "book_number": 44,
+      "title": "Khusoomaat",
+      "file": "../../Hadith Books/Supplemental Bukhari - 044 - Khusoomaat.json",
+      "record_count": 15,
+      "declared_record_count": 15
+    },
+    {
+      "book_number": 45,
+      "title": "Lost Things Picked up by Someone (Luqatah)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 045 - Lost Things Picked up by Someone (Luqatah).json",
+      "record_count": 15,
+      "declared_record_count": 15
+    },
+    {
+      "book_number": 46,
+      "title": "Oppressions",
+      "file": "../../Hadith Books/Supplemental Bukhari - 046 - Oppressions.json",
+      "record_count": 43,
+      "declared_record_count": 43
+    },
+    {
+      "book_number": 47,
+      "title": "Partnership",
+      "file": "../../Hadith Books/Supplemental Bukhari - 047 - Partnership.json",
+      "record_count": 22,
+      "declared_record_count": 22
+    },
+    {
+      "book_number": 48,
+      "title": "Mortgaging",
+      "file": "../../Hadith Books/Supplemental Bukhari - 048 - Mortgaging.json",
+      "record_count": 8,
+      "declared_record_count": 8
+    },
+    {
+      "book_number": 49,
+      "title": "Manumission of Slaves",
+      "file": "../../Hadith Books/Supplemental Bukhari - 049 - Manumission of Slaves.json",
+      "record_count": 41,
+      "declared_record_count": 41
+    },
+    {
+      "book_number": 50,
+      "title": "Makaatib",
+      "file": "../../Hadith Books/Supplemental Bukhari - 050 - Makaatib.json",
+      "record_count": 6,
+      "declared_record_count": 6
+    },
+    {
+      "book_number": 51,
+      "title": "Gifts",
+      "file": "../../Hadith Books/Supplemental Bukhari - 051 - Gifts.json",
+      "record_count": 68,
+      "declared_record_count": 68
+    },
+    {
+      "book_number": 52,
+      "title": "Witnesses",
+      "file": "../../Hadith Books/Supplemental Bukhari - 052 - Witnesses.json",
+      "record_count": 50,
+      "declared_record_count": 50
+    },
+    {
+      "book_number": 53,
+      "title": "Peacemaking",
+      "file": "../../Hadith Books/Supplemental Bukhari - 053 - Peacemaking.json",
+      "record_count": 20,
+      "declared_record_count": 20
+    },
+    {
+      "book_number": 54,
+      "title": "Conditions",
+      "file": "../../Hadith Books/Supplemental Bukhari - 054 - Conditions.json",
+      "record_count": 24,
+      "declared_record_count": 24
+    },
+    {
+      "book_number": 55,
+      "title": "Wills and Testaments (Wasaayaa)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 055 - Wills and Testaments (Wasaayaa).json",
+      "record_count": 44,
+      "declared_record_count": 44
+    },
+    {
+      "book_number": 56,
+      "title": "Fighting for the Cause of Allah (Jihaad)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 056 - Fighting for the Cause of Allah (Jihaad).json",
+      "record_count": 294,
+      "declared_record_count": 294
+    },
+    {
+      "book_number": 57,
+      "title": "One-fifth of Booty to the Cause of Allah (Khumus)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 057 - One-fifth of Booty to the Cause of Allah (Khumus).json",
+      "record_count": 63,
+      "declared_record_count": 63
+    },
+    {
+      "book_number": 58,
+      "title": "Jizyah and Mawaada'ah",
+      "file": "../../Hadith Books/Supplemental Bukhari - 058 - Jizyah and Mawaada'ah.json",
+      "record_count": 30,
+      "declared_record_count": 30
+    },
+    {
+      "book_number": 59,
+      "title": "Beginning of Creation",
+      "file": "../../Hadith Books/Supplemental Bukhari - 059 - Beginning of Creation.json",
+      "record_count": 131,
+      "declared_record_count": 131
+    },
+    {
+      "book_number": 60,
+      "title": "Prophets",
+      "file": "../../Hadith Books/Supplemental Bukhari - 060 - Prophets.json",
+      "record_count": 154,
+      "declared_record_count": 154
+    },
+    {
+      "book_number": 61,
+      "title": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+      "file": "../../Hadith Books/Supplemental Bukhari - 061 - Virtues and Merits of the Prophet (pbuh) and his Companions.json",
+      "record_count": 151,
+      "declared_record_count": 151
+    },
+    {
+      "book_number": 62,
+      "title": "Companions of the Prophet",
+      "file": "../../Hadith Books/Supplemental Bukhari - 062 - Companions of the Prophet.json",
+      "record_count": 120,
+      "declared_record_count": 120
+    },
+    {
+      "book_number": 63,
+      "title": "Merits of the Helpers in Madinah (Ansaar)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 063 - Merits of the Helpers in Madinah (Ansaar).json",
+      "record_count": 172,
+      "declared_record_count": 172
+    },
+    {
+      "book_number": 64,
+      "title": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 064 - Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi).json",
+      "record_count": 488,
+      "declared_record_count": 488
+    },
+    {
+      "book_number": 65,
+      "title": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+      "file": "../../Hadith Books/Supplemental Bukhari - 065 - Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh)).json",
+      "record_count": 499,
+      "declared_record_count": 499
+    },
+    {
+      "book_number": 66,
+      "title": "Virtues of the Qur'an",
+      "file": "../../Hadith Books/Supplemental Bukhari - 066 - Virtues of the Qur'an.json",
+      "record_count": 87,
+      "declared_record_count": 87
+    },
+    {
+      "book_number": 67,
+      "title": "Wedlock, Marriage (Nikaah)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 067 - Wedlock, Marriage (Nikaah).json",
+      "record_count": 183,
+      "declared_record_count": 183
+    },
+    {
+      "book_number": 68,
+      "title": "Divorce",
+      "file": "../../Hadith Books/Supplemental Bukhari - 068 - Divorce.json",
+      "record_count": 95,
+      "declared_record_count": 95
+    },
+    {
+      "book_number": 69,
+      "title": "Supporting the Family",
+      "file": "../../Hadith Books/Supplemental Bukhari - 069 - Supporting the Family.json",
+      "record_count": 22,
+      "declared_record_count": 22
+    },
+    {
+      "book_number": 70,
+      "title": "Food, Meals",
+      "file": "../../Hadith Books/Supplemental Bukhari - 070 - Food, Meals.json",
+      "record_count": 95,
+      "declared_record_count": 95
+    },
+    {
+      "book_number": 71,
+      "title": "Sacrifice on Occasion of Birth (`Aqiqa)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 071 - Sacrifice on Occasion of Birth (`Aqiqa).json",
+      "record_count": 9,
+      "declared_record_count": 9
+    },
+    {
+      "book_number": 72,
+      "title": "Hunting, Slaughtering",
+      "file": "../../Hadith Books/Supplemental Bukhari - 072 - Hunting, Slaughtering.json",
+      "record_count": 69,
+      "declared_record_count": 69
+    },
+    {
+      "book_number": 73,
+      "title": "Al-Adha Festival Sacrifice (Adaahi)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 073 - Al-Adha Festival Sacrifice (Adaahi).json",
+      "record_count": 30,
+      "declared_record_count": 30
+    },
+    {
+      "book_number": 74,
+      "title": "Drinks",
+      "file": "../../Hadith Books/Supplemental Bukhari - 074 - Drinks.json",
+      "record_count": 65,
+      "declared_record_count": 65
+    },
+    {
+      "book_number": 75,
+      "title": "Patients",
+      "file": "../../Hadith Books/Supplemental Bukhari - 075 - Patients.json",
+      "record_count": 37,
+      "declared_record_count": 37
+    },
+    {
+      "book_number": 76,
+      "title": "Medicine",
+      "file": "../../Hadith Books/Supplemental Bukhari - 076 - Medicine.json",
+      "record_count": 93,
+      "declared_record_count": 93
+    },
+    {
+      "book_number": 77,
+      "title": "Dress",
+      "file": "../../Hadith Books/Supplemental Bukhari - 077 - Dress.json",
+      "record_count": 185,
+      "declared_record_count": 185
+    },
+    {
+      "book_number": 78,
+      "title": "Good Manners and Form (Al-Adab)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 078 - Good Manners and Form (Al-Adab).json",
+      "record_count": 250,
+      "declared_record_count": 250
+    },
+    {
+      "book_number": 79,
+      "title": "Asking Permission",
+      "file": "../../Hadith Books/Supplemental Bukhari - 079 - Asking Permission.json",
+      "record_count": 75,
+      "declared_record_count": 75
+    },
+    {
+      "book_number": 80,
+      "title": "Invocations",
+      "file": "../../Hadith Books/Supplemental Bukhari - 080 - Invocations.json",
+      "record_count": 106,
+      "declared_record_count": 106
+    },
+    {
+      "book_number": 81,
+      "title": "To make the Heart Tender (Ar-Riqaq)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 081 - To make the Heart Tender (Ar-Riqaq).json",
+      "record_count": 181,
+      "declared_record_count": 181
+    },
+    {
+      "book_number": 82,
+      "title": "Divine Will (Al-Qadar)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 082 - Divine Will (Al-Qadar).json",
+      "record_count": 26,
+      "declared_record_count": 26
+    },
+    {
+      "book_number": 83,
+      "title": "Oaths and Vows",
+      "file": "../../Hadith Books/Supplemental Bukhari - 083 - Oaths and Vows.json",
+      "record_count": 84,
+      "declared_record_count": 84
+    },
+    {
+      "book_number": 84,
+      "title": "Expiation for Unfulfilled Oaths",
+      "file": "../../Hadith Books/Supplemental Bukhari - 084 - Expiation for Unfulfilled Oaths.json",
+      "record_count": 15,
+      "declared_record_count": 15
+    },
+    {
+      "book_number": 85,
+      "title": "Laws of Inheritance (Al-Faraa'id)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 085 - Laws of Inheritance (Al-Faraa'id).json",
+      "record_count": 47,
+      "declared_record_count": 47
+    },
+    {
+      "book_number": 86,
+      "title": "Limits and Punishments set by Allah (Hudood)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 086 - Limits and Punishments set by Allah (Hudood).json",
+      "record_count": 81,
+      "declared_record_count": 81
+    },
+    {
+      "book_number": 87,
+      "title": "Blood Money (Ad-Diyat)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 087 - Blood Money (Ad-Diyat).json",
+      "record_count": 55,
+      "declared_record_count": 55
+    },
+    {
+      "book_number": 88,
+      "title": "Apostates",
+      "file": "../../Hadith Books/Supplemental Bukhari - 088 - Apostates.json",
+      "record_count": 21,
+      "declared_record_count": 21
+    },
+    {
+      "book_number": 89,
+      "title": "(Statements made under) Coercion",
+      "file": "../../Hadith Books/Supplemental Bukhari - 089 - (Statements made under) Coercion.json",
+      "record_count": 0,
+      "declared_record_count": 13
+    },
+    {
+      "book_number": 90,
+      "title": "Tricks",
+      "file": "../../Hadith Books/Supplemental Bukhari - 090 - Tricks.json",
+      "record_count": 28,
+      "declared_record_count": 28
+    },
+    {
+      "book_number": 91,
+      "title": "Interpretation of Dreams",
+      "file": "../../Hadith Books/Supplemental Bukhari - 091 - Interpretation of Dreams.json",
+      "record_count": 61,
+      "declared_record_count": 61
+    },
+    {
+      "book_number": 92,
+      "title": "Afflictions and the End of the World",
+      "file": "../../Hadith Books/Supplemental Bukhari - 092 - Afflictions and the End of the World.json",
+      "record_count": 83,
+      "declared_record_count": 83
+    },
+    {
+      "book_number": 93,
+      "title": "Judgments (Ahkaam)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 093 - Judgments (Ahkaam).json",
+      "record_count": 84,
+      "declared_record_count": 84
+    },
+    {
+      "book_number": 94,
+      "title": "Wishes",
+      "file": "../../Hadith Books/Supplemental Bukhari - 094 - Wishes.json",
+      "record_count": 20,
+      "declared_record_count": 20
+    },
+    {
+      "book_number": 95,
+      "title": "Accepting Information Given by a Truthful Person",
+      "file": "../../Hadith Books/Supplemental Bukhari - 095 - Accepting Information Given by a Truthful Person.json",
+      "record_count": 21,
+      "declared_record_count": 21
+    },
+    {
+      "book_number": 96,
+      "title": "Holding Fast to the Qur'an and Sunnah",
+      "file": "../../Hadith Books/Supplemental Bukhari - 096 - Holding Fast to the Qur'an and Sunnah.json",
+      "record_count": 0,
+      "declared_record_count": 97
+    },
+    {
+      "book_number": 97,
+      "title": "Oneness, Uniqueness of Allah (Tawheed)",
+      "file": "../../Hadith Books/Supplemental Bukhari - 097 - Oneness, Uniqueness of Allah (Tawheed).json",
+      "record_count": 188,
+      "declared_record_count": 188
+    }
+  ],
+  "notes": [
+    "Two books have metadata but no hadith records in this source; their empty book files are retained.",
+    "Records are not merged into the canonical Bukhari collection because alternate source text and metadata may differ.",
+    "Each clearly named supplemental Bukhari book file is stored in the shared Hadith Books/ folder."
+  ]
+}

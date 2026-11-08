@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "138198",
+  "institution": {
+    "eiin": "138198",
+    "name": "JAMALPUR MODEL ALIM MADRASAH",
+    "name_bn": "জামালপুর মডেল আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Jamalpur Sadar",
+    "address": "SARDARPARA",
+    "post_office": "Jamalpur",
+    "mobiles": [
+      "01716012957"
+    ],
+    "other_phones": [],
+    "email": "j.model.d.m@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR"
+    ],
+    "alternates": {
+      "names": [
+        "JAMALPUR MODEL DAKHIL MADRASAH"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-jamalpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-138198"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

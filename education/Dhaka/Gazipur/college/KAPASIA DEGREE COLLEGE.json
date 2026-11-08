@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109323",
+  "institution": {
+    "eiin": "109323",
+    "name": "KAPASIA DEGREE COLLEGE",
+    "name_bn": "কাপাসিয়া ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kapasia",
+    "address": "KHODADIA",
+    "post_office": "kapashia",
+    "mobiles": [
+      "01716133550"
+    ],
+    "other_phones": [],
+    "email": "kapasiadcollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kapasia",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-109323"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

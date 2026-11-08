@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123306",
+  "institution": {
+    "eiin": "123306",
+    "name": "DAKKHIN MAINAM DAKHIL MADRASHA",
+    "name_bn": "দক্ষিণ মৈনম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "MAINAM",
+    "post_office": "Naogaon Sadar",
+    "mobiles": [
+      "01718629981"
+    ],
+    "other_phones": [],
+    "email": "dmdma432@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MAINAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123306"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

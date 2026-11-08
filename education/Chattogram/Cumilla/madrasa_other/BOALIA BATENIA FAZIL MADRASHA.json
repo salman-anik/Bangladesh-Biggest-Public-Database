@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105168",
+  "institution": {
+    "eiin": "105168",
+    "name": "BOALIA BATENIA FAZIL MADRASHA",
+    "name_bn": "বোয়ালিয়া বাতেনিয়া ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Barura",
+    "address": "BOALIA",
+    "post_office": "Barura",
+    "mobiles": [
+      "01819671179",
+      "01819513356"
+    ],
+    "other_phones": [],
+    "email": "boalia_madrasah@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ADDA BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-barura",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105168"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

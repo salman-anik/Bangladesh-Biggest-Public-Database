@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134858",
+                        "name":  "M.A AUAL CHHAIKOLA TECHNICAL AND B.M INSTITUTE",
+                        "name_bn":  "এম এ আউয়াল ছাইকোলা টেকনিক্যাল এন্ড বিএম ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Pabna",
+                        "thana":  "Chatmohar",
+                        "address":  "CHHAIKOLA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01722175675"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-pabna",
+                                          "thana_id":  "BD-THANA-rajshahi-pabna-chatmohar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134858"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\pabna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

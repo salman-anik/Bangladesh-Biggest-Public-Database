@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100379",
+  "institution": {
+    "eiin": "100379",
+    "name": "GOILA DAKHIL MADRASAH",
+    "name_bn": "গৈলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Agailjhara",
+    "address": "KALUPARA",
+    "post_office": "Gaila",
+    "mobiles": [
+      "01727429488"
+    ],
+    "other_phones": [],
+    "email": "mgoila100379@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GOILA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-agailjhara",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100379"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

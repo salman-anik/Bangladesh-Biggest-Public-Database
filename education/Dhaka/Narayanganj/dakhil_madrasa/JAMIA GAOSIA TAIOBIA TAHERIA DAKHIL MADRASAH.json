@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "136604",
+  "institution": {
+    "eiin": "136604",
+    "name": "JAMIA GAOSIA TAIOBIA TAHERIA DAKHIL MADRASAH",
+    "name_bn": "জামেয়া গাউসিয়া তৈয়্যবিয়া তাহেরিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Bandar",
+    "address": "KABORSTAN ROAD,SHALPER CHAKE",
+    "post_office": "Bagabandar",
+    "mobiles": [
+      "01824603747",
+      "01675172375",
+      "01728830390"
+    ],
+    "other_phones": [],
+    "email": "jamiagausiamad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BANDAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-bandar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-136604"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

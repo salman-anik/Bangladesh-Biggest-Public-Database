@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123638",
+  "institution": {
+    "eiin": "123638",
+    "name": "PAHAR KATA MAFTAHUS SUNNA DAKHIL MADRASHA",
+    "name_bn": "পাহাড়কাটা মেফতাহুস সুন্নাহ দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Patnitala",
+    "address": "PAHAR KATA",
+    "post_office": "Patnitala",
+    "mobiles": [
+      "01714549771",
+      "01794549771"
+    ],
+    "other_phones": [],
+    "email": "paharkatamsdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAHMANPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-patnitala",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123638"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

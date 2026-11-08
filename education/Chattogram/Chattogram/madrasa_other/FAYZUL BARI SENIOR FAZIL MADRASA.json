@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104760",
+  "institution": {
+    "eiin": "104760",
+    "name": "FAYZUL BARI SENIOR FAZIL MADRASA",
+    "name_bn": "ফয়জুল বারী সিনিয়র মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Karnaphuli Upazila",
+    "address": "02 NO BOR O UTAN",
+    "post_office": "Budhpara",
+    "mobiles": [
+      "01819982938",
+      "01811176777"
+    ],
+    "other_phones": [],
+    "email": "faizulbari4371ctg@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "FAKRNIRHAT"
+      ],
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Chattogram",
+          "thana": "Patiya",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-karnaphuli-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104760"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

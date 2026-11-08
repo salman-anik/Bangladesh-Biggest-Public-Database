@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132263",
+                        "name":  "TORIA TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+                        "name_bn":  "তোড়িয়া কারিগরি ও ব্যবসায় ব্যবস্থাপনা কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Panchagarh",
+                        "thana":  "Atwari",
+                        "address":  "TORIA 2025\\3",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01724545738"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-panchagarh",
+                                          "thana_id":  "BD-THANA-rangpur-panchagarh-atwari",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132263"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\panchagarh\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

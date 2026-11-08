@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101611",
+  "institution": {
+    "eiin": "101611",
+    "name": "SHIBPUR ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "শিবপুর ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Tazumuddin",
+    "address": "SHIBPUR",
+    "post_office": "Hatshoshiganj",
+    "mobiles": [
+      "01716272834",
+      "01740974378",
+      "01785002918"
+    ],
+    "other_phones": [],
+    "email": "shibpurdakhil79@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "INDRANARAYANPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-tazumuddin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101611"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

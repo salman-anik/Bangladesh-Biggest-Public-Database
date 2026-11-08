@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139912",
+                        "name":  "KAPASIA TECHNICAL SCHOOL AND COLLEGE",
+                        "name_bn":  "কাপাসিয়া টেকনিক্যাল স্কুল ও কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Gazipur",
+                        "thana":  "Kapasia",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01733601110"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-gazipur",
+                                          "thana_id":  "BD-THANA-dhaka-gazipur-kapasia",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139912"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\gazipur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

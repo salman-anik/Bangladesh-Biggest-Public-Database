@@ -1,0 +1,52 @@
+{
+  "district": "Netrakona",
+  "administration": {
+    "district": "Netrakona",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Netrakona",
+      "phone": "01713-000062",
+      "email": "dcnetrakona@mopa.gov.bd",
+      "website": "http://www.netrakona.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Netrakona",
+      "phone": "01713-373062",
+      "email": "spnetrakona@police.gov.bd",
+      "control_room": "01713-374062"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Netrakona",
+      "phone": "01713-555062",
+      "email": "csnetrakona@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-75",
+      "name": "Netrakona Sadar Police Station",
+      "bn_name": "Netrakona সদর থানা",
+      "unit": "Netrakona District Police",
+      "division": "General",
+      "district": "Netrakona",
+      "address": "Court Building Road, Sadar, Netrakona",
+      "oc_mobile": "01713-374075",
+      "duty_officer": "01713-399075",
+      "tnt": "02-770075",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-066",
+      "name": "Netrakona Fire Station & Civil Defence",
+      "bn_name": "Netrakona ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Netrakona",
+      "address": "Sadar, Netrakona",
+      "hotline": "16163",
+      "emergency_phone": "02-9988066",
+      "mobile": "01713-038066",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

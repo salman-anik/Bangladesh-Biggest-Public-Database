@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105234",
+  "institution": {
+    "eiin": "105234",
+    "name": "SHIDLAI DARUL ISLAM FAZIL MADRASHA",
+    "name_bn": "শিদলাই দারুল ইসলাম ফাজিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Brahman Para",
+    "address": "SHIDLAI",
+    "post_office": "Brahmanpara",
+    "mobiles": [
+      "01716910506",
+      "01715988014"
+    ],
+    "other_phones": [],
+    "email": "sdifmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHIDLAI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-brahman-para",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105234"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

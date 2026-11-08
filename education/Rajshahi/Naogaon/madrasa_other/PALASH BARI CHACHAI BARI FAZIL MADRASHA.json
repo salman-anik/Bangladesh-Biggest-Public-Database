@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123675",
+  "institution": {
+    "eiin": "123675",
+    "name": "PALASH BARI CHACHAI BARI FAZIL MADRASHA",
+    "name_bn": "পলাশবাড়ী চাঁচাইবাড়ী কামিল (স্নাতকোত্তর) মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Porsha",
+    "address": "PALASH BARI",
+    "post_office": "Panguria",
+    "mobiles": [
+      "01711230282"
+    ],
+    "other_phones": [],
+    "email": "mad123675@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GANGURIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-porsha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123675"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

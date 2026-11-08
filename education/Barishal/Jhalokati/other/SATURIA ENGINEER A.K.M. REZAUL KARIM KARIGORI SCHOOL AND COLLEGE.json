@@ -1,0 +1,51 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136898",
+                        "name":  "SATURIA ENGINEER A.K.M. REZAUL KARIM KARIGORI SCHOOL AND COLLEGE",
+                        "name_bn":  "সাতুরিয়া ইঞ্জিনিয়ার একেএম রেজাউল করিম করিগরি স্কুল এন্ড কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Jhalokati",
+                        "thana":  "Rajapur",
+                        "address":  "SATURIA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01914233414"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "SATURIA ENGINEER A.K.M. REZAUL KARIM KARIGORI SCHOOL"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-jhalokati",
+                                          "thana_id":  "BD-THANA-barishal-jhalokati-rajapur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136898"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\jhalokati\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

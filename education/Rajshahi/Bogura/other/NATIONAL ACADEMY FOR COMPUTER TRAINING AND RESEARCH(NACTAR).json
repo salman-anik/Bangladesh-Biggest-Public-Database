@@ -1,0 +1,52 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133208",
+                        "name":  "NATIONAL ACADEMY FOR COMPUTER TRAINING AND RESEARCH(NACTAR)",
+                        "name_bn":  "জাতীয় কম্পিউটার প্রশিক্ষণ ও গবেষণার একাডেমী (নেকটার), বগুড়া।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Bogura",
+                        "thana":  "Shajahanpur",
+                        "address":  "22",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711236388",
+                                        "01731749999"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "NATIONAL ACADEMY FOR COMPUTER TRAINING AND RESEARCH"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-bogura",
+                                          "thana_id":  "BD-THANA-rajshahi-bogura-shajahanpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133208"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\bogura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

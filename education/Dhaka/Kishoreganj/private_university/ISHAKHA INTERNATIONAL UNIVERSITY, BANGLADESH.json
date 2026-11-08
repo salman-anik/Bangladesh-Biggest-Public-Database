@@ -1,0 +1,60 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136698",
+                        "name":  "ISHAKHA INTERNATIONAL UNIVERSITY, BANGLADESH",
+                        "name_bn":  "ঈশা খাঁ ইন্টারন্যাশনাল ইউনিভার্সিটি, বাংলাদেশ",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Dhaka",
+                        "district":  "Kishoreganj",
+                        "thana":  "Kishoreganj Sadar",
+                        "address":  "461, NILGANJ ROAD, SHOLAKIA",
+                        "post_office":  "Kishoreganj Sadar",
+                        "mobiles":  [
+                                        "01776181318",
+                                        "01193199468"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "ishakhauniversity@gmail.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Dhaka",
+                                                                 "district":  "Kishoreganj",
+                                                                 "thana":  "Karimganj",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-kishoreganj",
+                                          "thana_id":  "BD-THANA-dhaka-kishoreganj-kishoreganj-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136698"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\kishoreganj\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

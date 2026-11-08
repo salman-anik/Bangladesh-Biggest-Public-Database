@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109426",
+  "institution": {
+    "eiin": "109426",
+    "name": "DHALADIA COLLEGE",
+    "name_bn": "ধলাদিয়া কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Sreepur",
+    "address": "DHALADIA",
+    "post_office": "Rajendrapur Canttome",
+    "mobiles": [
+      "01711434477"
+    ],
+    "other_phones": [],
+    "email": "dhaladiacollege.edu@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-sreepur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-109426"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

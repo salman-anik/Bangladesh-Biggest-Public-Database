@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101555",
+  "institution": {
+    "eiin": "101555",
+    "name": "CHAR BHUTA D. C. ALAMIA DAKHIL MADRASHA",
+    "name_bn": "চরভুতা ডি এস আলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Lalmohan",
+    "address": "TARAGANJ",
+    "post_office": "CHARBUTTA",
+    "mobiles": [
+      "01718683782"
+    ],
+    "other_phones": [],
+    "email": "charbhutadsalamiadm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-lalmohan",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101555"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

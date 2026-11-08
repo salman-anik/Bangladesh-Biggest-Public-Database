@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "117109",
+  "institution": {
+    "eiin": "117109",
+    "name": "GOVT. HAZI MUHAMMAD MUHSIN COLLEGE",
+    "name_bn": "সরকারী হাজী মুহাম্মদ মুহসিন কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "Khan Jahan Ali",
+    "address": "18 NO.",
+    "post_office": "Khulna G.P.O",
+    "mobiles": [
+      "01782884100",
+      "01920284739"
+    ],
+    "other_phones": [],
+    "email": "govt.hmmc_khu@yahoo.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Khulna",
+          "district": "Khulna",
+          "thana": "Khalishpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "BD-THANA-khulna-khulna-khan-jahan-ali",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-117109"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

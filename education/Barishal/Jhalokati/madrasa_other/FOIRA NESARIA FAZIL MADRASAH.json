@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101839",
+  "institution": {
+    "eiin": "101839",
+    "name": "FOIRA NESARIA FAZIL MADRASAH",
+    "name_bn": "ফয়রা নেছারিয়া ফাজিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "thana": "Nalchity",
+    "address": "FAIRA",
+    "post_office": "Nalchhiti",
+    "mobiles": [
+      "01712156205"
+    ],
+    "other_phones": [],
+    "email": "mad101839@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "FOIRA"
+      ],
+      "post_offices": [
+        "ABHANIL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-jhalokati",
+      "thana_id": "BD-THANA-barishal-jhalokati-nalchity",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101839"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

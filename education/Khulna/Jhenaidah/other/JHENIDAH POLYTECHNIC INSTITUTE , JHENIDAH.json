@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132959",
+                        "name":  "JHENIDAH POLYTECHNIC INSTITUTE , JHENIDAH",
+                        "name_bn":  "ঝিনাইদহ পলিটেকনিক ইন্সটিটিউট, ঝিনাইদহ।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jhenaidah",
+                        "thana":  "Jhenaidah Sadar",
+                        "address":  "DHANHARIA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01550019406",
+                                        "01848073689"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jhenaidah",
+                                          "thana_id":  "BD-THANA-khulna-jhenaidah-jhenaidah-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132959"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jhenaidah\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

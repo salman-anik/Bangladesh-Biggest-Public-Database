@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110414",
+  "institution": {
+    "eiin": "110414",
+    "name": "FEKAMARA FAZIL MADRASHA",
+    "name_bn": "ফেকামারা ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Katiadi",
+    "address": "FEKAMARA",
+    "post_office": "Katiadi",
+    "mobiles": [
+      "01712016987",
+      "01715011941"
+    ],
+    "other_phones": [],
+    "email": "madrasah110414@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "CHARIAKUNA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-katiadi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110414"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

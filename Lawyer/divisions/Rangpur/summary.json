@@ -1,0 +1,80 @@
+{
+  "total": 515,
+  "districts": {
+    "Gaibandha": {
+      "total": 82,
+      "status_breakdown": {
+        "Active Member": 66,
+        "Transferred": 5,
+        "Defaulter": 10,
+        "Inactive": 1
+      }
+    },
+    "Rangpur": {
+      "total": 81,
+      "status_breakdown": {
+        "Active Member": 69,
+        "Transferred": 5,
+        "Defaulter": 4,
+        "Suspended": 2,
+        "Inactive": 1
+      }
+    },
+    "Dinajpur": {
+      "total": 80,
+      "status_breakdown": {
+        "Active Member": 66,
+        "Dead": 1,
+        "Transferred": 9,
+        "Defaulter": 4
+      }
+    },
+    "Panchagarh": {
+      "total": 51,
+      "status_breakdown": {
+        "Active Member": 42,
+        "Transferred": 6,
+        "Defaulter": 3
+      }
+    },
+    "Nilphamari": {
+      "total": 61,
+      "status_breakdown": {
+        "Active Member": 55,
+        "Defaulter": 5,
+        "Transferred": 1
+      }
+    },
+    "Thakurgaon": {
+      "total": 61,
+      "status_breakdown": {
+        "Active Member": 57,
+        "Transferred": 4
+      }
+    },
+    "Lalmonirhat": {
+      "total": 41,
+      "status_breakdown": {
+        "Active Member": 35,
+        "Transferred": 4,
+        "Defaulter": 2
+      }
+    },
+    "Kurigram": {
+      "total": 58,
+      "status_breakdown": {
+        "Active Member": 55,
+        "Transferred": 2,
+        "Defaulter": 1
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 445,
+    "Dead": 1,
+    "Defaulter": 29,
+    "Transferred": 36,
+    "Suspended": 2,
+    "Inactive": 2
+  }
+}

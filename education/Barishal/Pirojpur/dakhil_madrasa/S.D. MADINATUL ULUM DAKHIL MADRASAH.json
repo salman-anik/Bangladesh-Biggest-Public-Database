@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102981",
+  "institution": {
+    "eiin": "102981",
+    "name": "S.D. MADINATUL ULUM DAKHIL MADRASAH",
+    "name_bn": "সাঊথখালী ঢেপসাবুয়িা মদীনাতুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Indurkani",
+    "address": "SAYEDKHALI",
+    "post_office": "Parerhat",
+    "mobiles": [
+      "01727082550"
+    ],
+    "other_phones": [],
+    "email": "mad102981@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SAUDKHALI"
+      ],
+      "locations": [
+        {
+          "division": "Barishal",
+          "district": "Pirojpur",
+          "thana": "Zianagar",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-indurkani",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102981"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

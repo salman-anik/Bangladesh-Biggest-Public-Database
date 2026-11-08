@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111023",
+  "institution": {
+    "eiin": "111023",
+    "name": "DARAGARAM ISLAMIA SENIOR MADRASAH",
+    "name_bn": "দড়্গ্রাম ইসলামিয়া সিনিয়র মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Saturia",
+    "address": "DARAGRAM",
+    "post_office": "Saturia",
+    "mobiles": [
+      "01721835573",
+      "01818610533"
+    ],
+    "other_phones": [],
+    "email": "m111023dism@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DARAGRAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-saturia",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111023"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

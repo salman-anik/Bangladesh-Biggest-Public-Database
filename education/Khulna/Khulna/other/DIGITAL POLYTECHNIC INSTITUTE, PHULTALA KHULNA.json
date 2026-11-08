@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136517",
+                        "name":  "DIGITAL POLYTECHNIC INSTITUTE, PHULTALA KHULNA",
+                        "name_bn":  "ডিজিটাল পলিটেকনিক ইন্সটিটিউট, খুলনা",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Khulna",
+                        "thana":  "Phultala",
+                        "address":  "HOLDING NO- 1384,PHULTALA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711377682"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-khulna",
+                                          "thana_id":  "BD-THANA-khulna-khulna-phultala",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136517"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\khulna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

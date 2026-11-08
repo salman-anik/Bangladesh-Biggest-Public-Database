@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "133737",
+  "institution": {
+    "eiin": "133737",
+    "name": "TOGRA BALIKA DAKHIL MADRASHA",
+    "name_bn": "টগড়া বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Indurkani",
+    "address": "TOGRA",
+    "post_office": "Parerhat",
+    "mobiles": [
+      "01720299632"
+    ],
+    "other_phones": [],
+    "email": "tograbalikadakhil@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Barishal",
+          "district": "Pirojpur",
+          "thana": "Zianagar",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-indurkani",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-133737"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

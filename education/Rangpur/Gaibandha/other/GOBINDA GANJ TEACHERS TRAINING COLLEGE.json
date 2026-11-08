@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "133761",
+                        "name":  "GOBINDA GANJ TEACHERS TRAINING COLLEGE",
+                        "name_bn":  "গোবিন্দগঞ্জ শিক্ষক প্রশিক্ষণ কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Gaibandha",
+                        "thana":  "Gobindaganj",
+                        "address":  "GOBINDO GANJ",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01718785643"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-gaibandha",
+                                          "thana_id":  "BD-THANA-rangpur-gaibandha-gobindaganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-133761"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\gaibandha\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

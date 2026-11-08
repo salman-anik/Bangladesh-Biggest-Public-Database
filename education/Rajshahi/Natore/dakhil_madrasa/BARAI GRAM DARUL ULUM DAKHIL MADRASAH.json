@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123949",
+  "institution": {
+    "eiin": "123949",
+    "name": "BARAI GRAM DARUL ULUM DAKHIL MADRASAH",
+    "name_bn": "বড়াইগ্রাম দারুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "BARAI GRAM",
+    "post_office": "Baraigram",
+    "mobiles": [
+      "01740820347",
+      "01733104872"
+    ],
+    "other_phones": [],
+    "email": "baraigramdudm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123949"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

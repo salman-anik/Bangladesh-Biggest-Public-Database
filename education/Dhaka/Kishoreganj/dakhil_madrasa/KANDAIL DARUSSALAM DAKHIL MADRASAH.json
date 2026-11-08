@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110373",
+  "institution": {
+    "eiin": "110373",
+    "name": "KANDAIL DARUSSALAM DAKHIL MADRASAH",
+    "name_bn": "কান্দাইল দারুচ্ছালাম দাখিল মাদরাসা।",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Karimganj",
+    "address": "KANDAIL",
+    "post_office": "Kishoreganj Sadar",
+    "mobiles": [
+      "01778944108",
+      "01714747768"
+    ],
+    "other_phones": [],
+    "email": "kandailmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "JOYKA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-karimganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110373"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

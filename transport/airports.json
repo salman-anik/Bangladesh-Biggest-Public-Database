@@ -1,0 +1,182 @@
+[
+  {
+    "iata_code": "DAC",
+    "icao_code": "VGHS",
+    "name": "Hazrat Shahjalal International Airport",
+    "bn_name": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর",
+    "type": "Primary International & Main Hub",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "runway_length_ft": 10500,
+    "terminal_count": 3,
+    "hotline": "13600 / 02-8901400",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Novoair",
+      "Air Astra",
+      "Emirates",
+      "Qatar Airways",
+      "Saudia",
+      "Singapore Airlines",
+      "Turkish Airlines",
+      "Flydubai",
+      "Gulf Air",
+      "Malaysia Airlines"
+    ]
+  },
+  {
+    "iata_code": "CGP",
+    "icao_code": "VGEG",
+    "name": "Shah Amanat International Airport",
+    "bn_name": "শাহ আমানত আন্তর্জাতিক বিমানবন্দর",
+    "type": "Major International",
+    "city": "Chattogram",
+    "district": "Chattogram",
+    "runway_length_ft": 9646,
+    "terminal_count": 2,
+    "hotline": "031-2500999",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Air Arabia",
+      "Flydubai",
+      "SalamAir",
+      "Jazeera Airways"
+    ]
+  },
+  {
+    "iata_code": "ZYL",
+    "icao_code": "VGSY",
+    "name": "Osmani International Airport",
+    "bn_name": "ওসমানী আন্তর্জাতিক বিমানবন্দর",
+    "type": "International",
+    "city": "Sylhet",
+    "district": "Sylhet",
+    "runway_length_ft": 10000,
+    "terminal_count": 2,
+    "hotline": "0821-714243",
+    "airlines": [
+      "Biman Bangladesh Airlines (Direct UK flights)",
+      "US-Bangla Airlines",
+      "Novoair"
+    ]
+  },
+  {
+    "iata_code": "CXB",
+    "icao_code": "VGCB",
+    "name": "Cox's Bazar International Airport",
+    "bn_name": "কক্সবাজার আন্তর্জাতিক বিমানবন্দর",
+    "type": "International Maritime Gateway",
+    "city": "Cox's Bazar",
+    "district": "Cox's Bazar",
+    "runway_length_ft": 10700,
+    "terminal_count": 2,
+    "hotline": "0341-63456",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Novoair",
+      "Air Astra"
+    ]
+  },
+  {
+    "iata_code": "RJH",
+    "icao_code": "VGRJ",
+    "name": "Shah Makhdum Airport",
+    "bn_name": "শাহ মখদুম বিমানবন্দর",
+    "type": "Domestic",
+    "city": "Rajshahi",
+    "district": "Rajshahi",
+    "runway_length_ft": 6000,
+    "terminal_count": 1,
+    "hotline": "0721-761350",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Novoair"
+    ]
+  },
+  {
+    "iata_code": "SPD",
+    "icao_code": "VGSD",
+    "name": "Saidpur Airport",
+    "bn_name": "সৈয়দপুর বিমানবন্দর",
+    "type": "Major Domestic Hub (Northern Zone)",
+    "city": "Saidpur",
+    "district": "Nilphamari",
+    "runway_length_ft": 6000,
+    "terminal_count": 1,
+    "hotline": "05526-72350",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Novoair",
+      "Air Astra"
+    ]
+  },
+  {
+    "iata_code": "JSR",
+    "icao_code": "VGJR",
+    "name": "Jashore Airport",
+    "bn_name": "যশোর বিমানবন্দর",
+    "type": "Domestic (Southwestern Hub)",
+    "city": "Jashore",
+    "district": "Jashore",
+    "runway_length_ft": 8000,
+    "terminal_count": 1,
+    "hotline": "0421-68670",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Novoair"
+    ]
+  },
+  {
+    "iata_code": "BZL",
+    "icao_code": "VGBR",
+    "name": "Barishal Airport",
+    "bn_name": "বরিশাল বিমানবন্দর",
+    "type": "Domestic",
+    "city": "Barishal",
+    "district": "Barishal",
+    "runway_length_ft": 6000,
+    "terminal_count": 1,
+    "hotline": "0431-2173593",
+    "airlines": [
+      "Biman Bangladesh Airlines",
+      "US-Bangla Airlines",
+      "Novoair"
+    ]
+  },
+  {
+    "iata_code": "IRD",
+    "icao_code": "VGIS",
+    "name": "Ishwardi Airport",
+    "bn_name": "ঈশ্বরদী বিমানবন্দর (স্ট্যান্ডবাই)",
+    "type": "Domestic (Short-takeoff / STOL)",
+    "city": "Ishwardi",
+    "district": "Pabna",
+    "runway_length_ft": 4700,
+    "terminal_count": 1,
+    "hotline": "0732-663240",
+    "airlines": [
+      "Charter & Defense Operations"
+    ]
+  },
+  {
+    "iata_code": "TKR",
+    "icao_code": "VGTH",
+    "name": "Thakurgaon Airfield",
+    "bn_name": "ঠাকুরগাঁও বিমানবন্দর (স্ট্যান্ডবাই)",
+    "type": "Domestic (Aviation Training)",
+    "city": "Thakurgaon",
+    "district": "Thakurgaon",
+    "runway_length_ft": 4000,
+    "terminal_count": 1,
+    "hotline": "0561-52340",
+    "airlines": [
+      "Aviation Academy Training & Charters"
+    ]
+  }
+]

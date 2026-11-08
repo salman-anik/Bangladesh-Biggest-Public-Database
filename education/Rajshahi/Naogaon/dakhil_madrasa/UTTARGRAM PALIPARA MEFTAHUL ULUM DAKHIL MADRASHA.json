@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123379",
+  "institution": {
+    "eiin": "123379",
+    "name": "UTTARGRAM PALIPARA MEFTAHUL ULUM DAKHIL MADRASHA",
+    "name_bn": "উত্তরগ্রাম পলিপাড়া মেফতাহুল উলুম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Mahadebpur",
+    "address": "UTTARGRAM",
+    "post_office": "UTTARGRAM",
+    "mobiles": [
+      "01761585415"
+    ],
+    "other_phones": [],
+    "email": "mahmudulhaque123379@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-mahadebpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123379"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

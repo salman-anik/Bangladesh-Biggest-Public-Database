@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111980",
+  "institution": {
+    "eiin": "111980",
+    "name": "SHUSHUTI ALIM MADRASHA",
+    "name_bn": "শুশুতি আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Muktagachha",
+    "address": "SHUSHUTI",
+    "post_office": "Muktagachha",
+    "mobiles": [
+      "01739941167",
+      "01724463532"
+    ],
+    "other_phones": [],
+    "email": "shushutialimm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KATBOWLABAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-muktagachha",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111980"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

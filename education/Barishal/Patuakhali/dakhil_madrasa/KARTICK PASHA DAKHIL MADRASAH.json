@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102200",
+  "institution": {
+    "eiin": "102200",
+    "name": "KARTICK PASHA DAKHIL MADRASAH",
+    "name_bn": "কার্তিকপাশা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Dumki Upazila",
+    "address": "KARTIKPASHA",
+    "post_office": "Dumkee",
+    "mobiles": [
+      "01713961891",
+      "01725813810"
+    ],
+    "other_phones": [],
+    "email": "katickpasadm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MAUKARAN"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-dumki-upazila",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102200"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

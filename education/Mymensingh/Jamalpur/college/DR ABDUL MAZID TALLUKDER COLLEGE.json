@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110000",
+  "institution": {
+    "eiin": "110000",
+    "name": "DR ABDUL MAZID TALLUKDER COLLEGE",
+    "name_bn": "ড.আবদুল মজিদ তালুকদার কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Jamalpur Sadar",
+    "address": "RUPSHI",
+    "post_office": "Jamalpur",
+    "mobiles": [
+      "01799093776",
+      "01919843888"
+    ],
+    "other_phones": [],
+    "email": "dramtdcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-jamalpur-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-110000"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

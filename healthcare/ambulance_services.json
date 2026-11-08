@@ -1,0 +1,96 @@
+[
+  {
+    "id": "AMB-001",
+    "service_name": "National 999 Ambulance Dispatch",
+    "bn_name": "জাতীয় জরুরি সেবা ৯৯৯ অ্যাম্বুলেন্স",
+    "category": "Government National Dispatch",
+    "division": "All Divisions",
+    "coverage": "Nationwide (All 64 Districts)",
+    "hotline": "999",
+    "phone": "999",
+    "types_available": [
+      "Basic Life Support (BLS)",
+      "Advanced Life Support (ALS)",
+      "Govt UHC Ambulance"
+    ],
+    "24_7": true
+  },
+  {
+    "id": "AMB-002",
+    "service_name": "Al-Markazul Islami Ambulance Service",
+    "bn_name": "আল-মারকাজুল ইসলামী অ্যাম্বুলেন্স সার্ভিস",
+    "category": "Charitable Emergency Service",
+    "division": "Dhaka",
+    "coverage": "Dhaka & Inter-district",
+    "hotline": "02-9127867",
+    "phone": "01711-844200",
+    "types_available": [
+      "AC Ambulance",
+      "Non-AC Ambulance",
+      "Freezing/Mortuary Ambulance"
+    ],
+    "24_7": true
+  },
+  {
+    "id": "AMB-003",
+    "service_name": "Anjuman Mufidul Islam Ambulance Service",
+    "bn_name": "আঞ্জুমান মুফিদুল ইসলাম অ্যাম্বুলেন্স",
+    "category": "Charitable Service",
+    "division": "Dhaka",
+    "coverage": "Dhaka Metropolitan Area",
+    "hotline": "02-9336611",
+    "phone": "01715-052444",
+    "types_available": [
+      "Patient Transport",
+      "Mortuary"
+    ],
+    "24_7": true
+  },
+  {
+    "id": "AMB-004",
+    "service_name": "Square Air Ambulance",
+    "bn_name": "স্কয়ার এয়ার অ্যাম্বুলেন্স সার্ভিস",
+    "category": "Air Ambulance (Helicopter)",
+    "division": "All Divisions",
+    "coverage": "Nationwide Emergency Airlift",
+    "hotline": "10616",
+    "phone": "01713-180225",
+    "types_available": [
+      "Critical Care Helicopter",
+      "Full ICU on-board with Doctor"
+    ],
+    "24_7": true
+  },
+  {
+    "id": "AMB-005",
+    "service_name": "Medinova ICU Ambulance Service",
+    "bn_name": "মেদিনোভা আইসিইউ অ্যাম্বুলেন্স",
+    "category": "Private ICU Ambulance",
+    "division": "Dhaka",
+    "coverage": "Nationwide",
+    "hotline": "01711-542385",
+    "phone": "01711-542385",
+    "types_available": [
+      "ICU with Portable Ventilator",
+      "Cardiac Monitor",
+      "Doctor Escort"
+    ],
+    "24_7": true
+  },
+  {
+    "id": "AMB-006",
+    "service_name": "Chattogram Metropolitan Ambulance Service",
+    "bn_name": "চট্টগ্রাম মহানগর অ্যাম্বুলেন্স সার্ভিস",
+    "category": "Regional Emergency Service",
+    "division": "Chattogram",
+    "coverage": "Greater Chattogram & Cox's Bazar",
+    "hotline": "01819-312312",
+    "phone": "031-655555",
+    "types_available": [
+      "AC",
+      "Non-AC",
+      "Freezing Ambulance"
+    ],
+    "24_7": true
+  }
+]

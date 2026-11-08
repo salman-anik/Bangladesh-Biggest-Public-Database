@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103075",
+  "institution": {
+    "eiin": "103075",
+    "name": "DUBI ALIM MADRASHA",
+    "name_bn": "ডুবি আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Nesarabad (Swarupkati)",
+    "address": "DUBI",
+    "post_office": "Kaurikhara",
+    "mobiles": [
+      "01754353077",
+      "01723365450"
+    ],
+    "other_phones": [],
+    "email": "dubimadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAJABARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-nesarabad-swarupkati",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103075"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

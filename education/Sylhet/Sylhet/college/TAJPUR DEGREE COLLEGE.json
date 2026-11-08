@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130125",
+  "institution": {
+    "eiin": "130125",
+    "name": "TAJPUR DEGREE COLLEGE",
+    "name_bn": "তাজপুর ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "DULIAR BON",
+    "post_office": "Tajpur",
+    "mobiles": [
+      "01733377717"
+    ],
+    "other_phones": [],
+    "email": "tajpurcollege1972@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-130125"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112863",
+  "institution": {
+    "eiin": "112863",
+    "name": "DHANUA BALIKA DAKHIL MADRASA",
+    "name_bn": "ধানুয়া বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Shibpur",
+    "address": "DHANUA",
+    "post_office": "Shibpur",
+    "mobiles": [
+      "01711347511"
+    ],
+    "other_phones": [],
+    "email": "dhanuamadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHANUA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-shibpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112863"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

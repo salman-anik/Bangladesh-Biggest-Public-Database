@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134160",
+                        "name":  "NATIONAL PUBLIC SCHOOL \u0026 COLLEGE",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Gazipur",
+                        "thana":  "Gazipur Sadar",
+                        "address":  "KASHIMPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+
+                                    ],
+                        "other_phones":  [
+                                             "0191367501"
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_S",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-gazipur",
+                                          "thana_id":  "BD-THANA-dhaka-gazipur-gazipur-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134160"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\gazipur\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

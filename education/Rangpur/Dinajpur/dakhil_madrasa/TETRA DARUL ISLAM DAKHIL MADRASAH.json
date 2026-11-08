@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120259",
+  "institution": {
+    "eiin": "120259",
+    "name": "TETRA DARUL ISLAM DAKHIL MADRASAH",
+    "name_bn": "তেতড়া দারুল ইসলাম দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Bochaganj",
+    "address": "TETERA",
+    "post_office": "Setabganj",
+    "mobiles": [
+      "01714910946"
+    ],
+    "other_phones": [],
+    "email": "tetradakhilmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "TETRA"
+      ],
+      "post_offices": [
+        "MAHIR PUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-bochaganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120259"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

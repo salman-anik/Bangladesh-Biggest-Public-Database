@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112523",
+  "institution": {
+    "eiin": "112523",
+    "name": "MARTUZABAD DARUL ULUM FAZIL MADRASHA",
+    "name_bn": "মর্তুজাবাদ দারুল উলুম ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "thana": "Rupganj",
+    "address": "MORTUJABAD",
+    "post_office": "Bhulta",
+    "mobiles": [
+      "01819472845"
+    ],
+    "other_phones": [],
+    "email": "mfm112523@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narayanganj",
+      "thana_id": "BD-THANA-dhaka-narayanganj-rupganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112523"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

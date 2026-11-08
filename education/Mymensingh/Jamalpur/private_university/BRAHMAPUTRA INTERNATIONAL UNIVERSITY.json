@@ -1,0 +1,54 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136713",
+                        "name":  "BRAHMAPUTRA INTERNATIONAL UNIVERSITY",
+                        "name_bn":  "ব্রহ্মপুত্র ইন্টারন্যাশনাল ইউনিভার্সিটি",
+                        "institute_type":  "PRIVATE UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Mymensingh",
+                        "district":  "Jamalpur",
+                        "thana":  "Jamalpur Sadar",
+                        "address":  "NAYAPARA PANCH RASTER MOOR , JAMALPUR",
+                        "post_office":  "Jamalpur",
+                        "mobiles":  [
+                                        "01321232635",
+                                        "01721084901"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "sfmuniversitybd@gmail.com",
+                        "management":  "NON-GOVERNMENT",
+                        "is_mpo":  "NO",
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "DISTRICT SADAR POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPR",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "names":  [
+                                                         "SHEIKH FAZILATUNNESA MUJIB UNIVERSITY",
+                                                         "SHEIKH FAZILATUNNESSA MUJIB UNIVERSITY"
+                                                     ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-jamalpur",
+                                          "thana_id":  "BD-THANA-mymensingh-jamalpur-jamalpur-sadar",
+                                          "category_id":  "BD-CAT-PRIVATE-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-136713"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\jamalpur\\private-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

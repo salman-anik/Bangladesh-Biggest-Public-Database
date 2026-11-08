@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "title": "Fiqh",
+  "datasets": {
+    "sunnah_practices": {
+      "name": "Sunnah practices and categories",
+      "file": "sunnah-practices.json",
+      "format": "JSON",
+      "section_count": 3
+    }
+  },
+  "notes": [
+    "The source file is preserved as supplied; its content covers Sunnah practices and categories."
+  ]
+}

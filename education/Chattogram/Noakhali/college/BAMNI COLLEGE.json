@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107358",
+  "institution": {
+    "eiin": "107358",
+    "name": "BAMNI COLLEGE",
+    "name_bn": "বামনী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Companiganj",
+    "address": "RAMPUR",
+    "post_office": "Basur Hat",
+    "mobiles": [
+      "01715573975"
+    ],
+    "other_phones": [],
+    "email": "bamni.college@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-companiganj",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-107358"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

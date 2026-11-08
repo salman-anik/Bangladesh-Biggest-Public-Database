@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110429",
+  "institution": {
+    "eiin": "110429",
+    "name": "PONG MASUA ADARSHA MOHILA DAKHIL MADRASAH",
+    "name_bn": "পং মসূয়া আদর্শ মহিলা আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Katiadi",
+    "address": "PONG MASUA",
+    "post_office": "Katiadi",
+    "mobiles": [
+      "01726835311"
+    ],
+    "other_phones": [],
+    "email": "pmamdmadrasha@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MASUA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-katiadi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110429"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

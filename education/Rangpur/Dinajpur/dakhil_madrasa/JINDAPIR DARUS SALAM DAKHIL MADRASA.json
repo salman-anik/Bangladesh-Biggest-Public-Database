@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120118",
+  "institution": {
+    "eiin": "120118",
+    "name": "JINDAPIR DARUS SALAM DAKHIL MADRASA",
+    "name_bn": "জিন্দাপীর দারুস সালাম দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birganj",
+    "address": "ARAZI SIALKHEDA",
+    "post_office": "Thakurgaon Sadar",
+    "mobiles": [
+      "01745328001"
+    ],
+    "other_phones": [],
+    "email": "jindapirdmad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "ARAZI SIALKHOLA"
+      ],
+      "post_offices": [
+        "ARAJI CHOWPUKURIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120118"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

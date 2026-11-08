@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "136878",
+  "institution": {
+    "eiin": "136878",
+    "name": "CHILADI BALIKA DAKHIL MADRASAH",
+    "name_bn": "চিলাদি বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Senbagh",
+    "address": "CHILADI",
+    "post_office": "Chatarpaia",
+    "mobiles": [
+      "01831471774"
+    ],
+    "other_phones": [],
+    "email": "cbdm136878@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHILADI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-senbagh",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-136878"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

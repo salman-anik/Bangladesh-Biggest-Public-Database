@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102398",
+  "institution": {
+    "eiin": "102398",
+    "name": "TARIKATA DAKHIL MADRASHA",
+    "name_bn": "তারিকাটা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Kala Para",
+    "address": "TARIKATA",
+    "post_office": "Mahipur",
+    "mobiles": [
+      "01710703377"
+    ],
+    "other_phones": [],
+    "email": "tdm703377@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHULASAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-kala-para",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102398"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139363",
+                        "name":  "DR MI PATWARY PRIVATE ENGINEERING INSTITUTE",
+                        "name_bn":  "ড. এম. আই. পাটোয়ারী বেসরকারী ইঞ্জিনিয়ারিং ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rangpur",
+                        "district":  "Gaibandha",
+                        "thana":  "Sundarganj",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01312764734"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rangpur",
+                                          "district_id":  "BD-DIST-rangpur-gaibandha",
+                                          "thana_id":  "BD-THANA-rangpur-gaibandha-sundarganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139363"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rangpur\\gaibandha\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

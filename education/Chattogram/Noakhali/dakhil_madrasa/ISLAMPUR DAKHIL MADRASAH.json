@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107240",
+  "institution": {
+    "eiin": "107240",
+    "name": "ISLAMPUR DAKHIL MADRASAH",
+    "name_bn": "ইসলামপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Begumganj",
+    "address": "ISLAMPUR",
+    "post_office": "Noakhali Sadar",
+    "mobiles": [
+      "01712007757"
+    ],
+    "other_phones": [],
+    "email": "nalam.idm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HASAN HAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-begumganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-107240"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

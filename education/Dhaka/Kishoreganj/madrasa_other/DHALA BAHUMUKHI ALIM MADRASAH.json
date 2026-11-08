@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110635",
+  "institution": {
+    "eiin": "110635",
+    "name": "DHALA BAHUMUKHI ALIM MADRASAH",
+    "name_bn": "ধলা বহুমুখী আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Tarail",
+    "address": "DHALA",
+    "post_office": "Tarial",
+    "mobiles": [
+      "01719845530"
+    ],
+    "other_phones": [],
+    "email": "dhalabalimmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "INDUSTRIAL AREA",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SEKANDAR NAGAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-tarail",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110635"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

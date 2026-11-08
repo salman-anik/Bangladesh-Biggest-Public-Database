@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135754",
+                        "name":  "NDC DIPLOMA IN ENGINEERING COLLEGE",
+                        "name_bn":  "এনডিসি ডিপ্লোমা ইন ইঞ্জিনিয়ারিং কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Joypurhat",
+                        "thana":  "Joypurhat Sadar",
+                        "address":  "KHANJANPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01713747706"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-joypurhat",
+                                          "thana_id":  "BD-THANA-rajshahi-joypurhat-joypurhat-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135754"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\joypurhat\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

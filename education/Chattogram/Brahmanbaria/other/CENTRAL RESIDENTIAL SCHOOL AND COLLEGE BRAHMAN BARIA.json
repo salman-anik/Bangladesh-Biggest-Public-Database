@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "130909",
+                        "name":  "CENTRAL RESIDENTIAL SCHOOL AND COLLEGE BRAHMAN BARIA",
+                        "name_bn":  null,
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Chattogram",
+                        "district":  "Brahmanbaria",
+                        "thana":  "Brahmanbaria Sadar",
+                        "address":  "472, GOKORNO ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01922820132"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "PDF_S",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-chattogram",
+                                          "district_id":  "BD-DIST-chattogram-brahmanbaria",
+                                          "thana_id":  "BD-THANA-chattogram-brahmanbaria-brahmanbaria-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-130909"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\chattogram\\brahmanbaria\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

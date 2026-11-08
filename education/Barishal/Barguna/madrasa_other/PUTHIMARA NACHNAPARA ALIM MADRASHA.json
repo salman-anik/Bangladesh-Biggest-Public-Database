@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100326",
+  "institution": {
+    "eiin": "100326",
+    "name": "PUTHIMARA NACHNAPARA ALIM MADRASHA",
+    "name_bn": "পুটিমারা নাচনাপাড়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Patharghata",
+    "address": "GANPARA",
+    "post_office": "Kakchira",
+    "mobiles": [
+      "01718207851"
+    ],
+    "other_phones": [],
+    "email": "pnampm100326@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PUTHIMARA"
+      ],
+      "post_offices": [
+        "BORHAN MOHOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-patharghata",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100326"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

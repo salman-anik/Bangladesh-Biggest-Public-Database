@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110816",
+  "institution": {
+    "eiin": "110816",
+    "name": "BIDDANANDI HOSSAINPUR DAKHIL MADRASA",
+    "name_bn": "বিদ্যানন্দী হোসেনপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "thana": "Rajoir",
+    "address": "HOSSAINPUR",
+    "post_office": "Khalia",
+    "mobiles": [
+      "01718207144"
+    ],
+    "other_phones": [],
+    "email": "bhdmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HOSSAINPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-madaripur",
+      "thana_id": "BD-THANA-dhaka-madaripur-rajoir",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110816"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

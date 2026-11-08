@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "138052",
+                        "name":  "VOCATIONAL TRAINING CENTER",
+                        "name_bn":  "ভোকেশনাল প্রশিক্ষণ কেন্দ্র",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Barishal",
+                        "thana":  "Agailjhara",
+                        "address":  "RAJIHER",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711548339"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-barishal",
+                                          "thana_id":  "BD-THANA-barishal-barishal-agailjhara",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-138052"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\barishal\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

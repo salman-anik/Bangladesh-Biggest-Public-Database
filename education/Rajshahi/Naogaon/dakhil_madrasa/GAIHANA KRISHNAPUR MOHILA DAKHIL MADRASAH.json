@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123307",
+  "institution": {
+    "eiin": "123307",
+    "name": "GAIHANA KRISHNAPUR MOHILA DAKHIL MADRASAH",
+    "name_bn": "গাইহানা কৃষ্ণপুর মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Manda",
+    "address": "KRISHNAPUR",
+    "post_office": "Prasadpur",
+    "mobiles": [
+      "01737509665"
+    ],
+    "other_phones": [],
+    "email": "madrasa123307@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KUSUMBA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-manda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123307"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

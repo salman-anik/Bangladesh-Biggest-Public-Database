@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130440",
+  "institution": {
+    "eiin": "130440",
+    "name": "SHAH PORAN JAMEA ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "শাহপরাণ জামেয়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Sylhet Sadar",
+    "address": "PASCHIM PIR MOHOLLA",
+    "post_office": "Sylhet Biman Bondar",
+    "mobiles": [
+      "01779844325",
+      "01711700330",
+      "01767362221"
+    ],
+    "other_phones": [],
+    "email": "shahporanjameaislamia@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SYLHET"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-sylhet-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130440"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

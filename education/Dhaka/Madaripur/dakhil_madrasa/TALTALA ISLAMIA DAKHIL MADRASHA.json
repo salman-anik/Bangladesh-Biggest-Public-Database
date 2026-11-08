@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110781",
+  "institution": {
+    "eiin": "110781",
+    "name": "TALTALA ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "তালতলা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "thana": "Madaripur Sadar",
+    "address": "BRAHMMANDI",
+    "post_office": "Kulpaddi",
+    "mobiles": [
+      "01734466705"
+    ],
+    "other_phones": [],
+    "email": "tidm110781@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-madaripur",
+      "thana_id": "BD-THANA-dhaka-madaripur-madaripur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110781"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

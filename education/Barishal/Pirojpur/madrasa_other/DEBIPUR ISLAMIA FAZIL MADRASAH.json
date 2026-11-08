@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102774",
+  "institution": {
+    "eiin": "102774",
+    "name": "DEBIPUR ISLAMIA FAZIL MADRASAH",
+    "name_bn": "দেবীপুর ইসলামিয়া ফাযিল ডিগ্রি মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "thana": "Mathbaria",
+    "address": "DEBIPUR",
+    "post_office": "Tushkhali",
+    "mobiles": [
+      "01717967510",
+      "01721427732"
+    ],
+    "other_phones": [],
+    "email": "mad102774@hotmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SAFABANDAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-pirojpur",
+      "thana_id": "BD-THANA-barishal-pirojpur-mathbaria",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102774"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

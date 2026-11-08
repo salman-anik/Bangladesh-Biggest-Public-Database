@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108790",
+  "institution": {
+    "eiin": "108790",
+    "name": "PASCHIM BILNALIA DAKHIL MADRASHA",
+    "name_bn": "পশ্চিম বিলনালিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "thana": "Faridpur Sadar",
+    "address": "BILNALIA",
+    "post_office": "Talma",
+    "mobiles": [
+      "01726490185",
+      "01720467681"
+    ],
+    "other_phones": [],
+    "email": "paschimbilnaiad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BILNALIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-faridpur",
+      "thana_id": "BD-THANA-dhaka-faridpur-faridpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108790"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

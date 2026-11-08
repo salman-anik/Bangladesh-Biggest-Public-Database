@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107975",
+  "institution": {
+    "eiin": "107975",
+    "name": "DHAKA CITY COLLEGE",
+    "name_bn": null,
+    "institute_type": "COLLEGE",
+    "education_level": "Masters",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Dhanmondi",
+    "address": "HOUSE# 5,ROAD-2,DHANMONDI R/A",
+    "post_office": "Kalabagan",
+    "mobiles": [
+      "01755578006"
+    ],
+    "other_phones": [],
+    "email": "dhakacitycollege1250@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-dhanmondi",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-107975"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

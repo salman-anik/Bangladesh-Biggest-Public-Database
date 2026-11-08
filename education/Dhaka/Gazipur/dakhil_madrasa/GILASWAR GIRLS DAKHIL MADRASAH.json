@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109410",
+  "institution": {
+    "eiin": "109410",
+    "name": "GILASWAR GIRLS DAKHIL MADRASAH",
+    "name_bn": "গিলাশ্বর বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Sreepur",
+    "address": "GILASWAR",
+    "post_office": "Barmi",
+    "mobiles": [
+      "01712676984"
+    ],
+    "other_phones": [],
+    "email": "m109410@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BARMI BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-sreepur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109410"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

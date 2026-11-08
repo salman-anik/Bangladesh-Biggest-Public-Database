@@ -1,0 +1,145 @@
+{
+  "total": 30166,
+  "districts": {
+    "Dhaka": {
+      "total": 5124,
+      "status_breakdown": {
+        "Defaulter": 601,
+        "Active Member": 3842,
+        "Dead": 265,
+        "Retired": 26,
+        "Transferred": 363,
+        "Cancel": 9,
+        "Sanad Suspended": 4,
+        "Justice": 2,
+        "Suspended": 10,
+        "Inactive": 2
+      }
+    },
+    "Unspecified (Dhaka Bar)": {
+      "total": 23481,
+      "status_breakdown": {
+        "Active Member": 14955,
+        "Retired": 149,
+        "Dead": 1291,
+        "Defaulter": 6145,
+        "Justice": 27,
+        "Suspended": 344,
+        "Sanad Suspended": 4,
+        "Transferred": 292,
+        "Cancel": 274
+      }
+    },
+    "Faridpur": {
+      "total": 116,
+      "status_breakdown": {
+        "Active Member": 94,
+        "Defaulter": 12,
+        "Transferred": 10
+      }
+    },
+    "Munshiganj": {
+      "total": 127,
+      "status_breakdown": {
+        "Active Member": 113,
+        "Transferred": 9,
+        "Defaulter": 5
+      }
+    },
+    "Kishoreganj": {
+      "total": 189,
+      "status_breakdown": {
+        "Active Member": 164,
+        "Defaulter": 11,
+        "Transferred": 14
+      }
+    },
+    "Tangail": {
+      "total": 165,
+      "status_breakdown": {
+        "Active Member": 153,
+        "Transferred": 4,
+        "Defaulter": 8
+      }
+    },
+    "Rajbari": {
+      "total": 70,
+      "status_breakdown": {
+        "Active Member": 65,
+        "Transferred": 3,
+        "Defaulter": 2
+      }
+    },
+    "Gazipur": {
+      "total": 117,
+      "status_breakdown": {
+        "Active Member": 98,
+        "Defaulter": 9,
+        "Transferred": 9,
+        "Suspended": 1
+      }
+    },
+    "Narsingdi": {
+      "total": 150,
+      "status_breakdown": {
+        "Active Member": 126,
+        "Defaulter": 15,
+        "Transferred": 8,
+        "Sanad Suspended": 1
+      }
+    },
+    "Narayanganj": {
+      "total": 121,
+      "status_breakdown": {
+        "Active Member": 111,
+        "Defaulter": 9,
+        "Transferred": 1
+      }
+    },
+    "Manikganj": {
+      "total": 106,
+      "status_breakdown": {
+        "Active Member": 94,
+        "Defaulter": 6,
+        "Transferred": 6
+      }
+    },
+    "Gopalganj": {
+      "total": 148,
+      "status_breakdown": {
+        "Active Member": 135,
+        "Defaulter": 9,
+        "Transferred": 4
+      }
+    },
+    "Madaripur": {
+      "total": 123,
+      "status_breakdown": {
+        "Active Member": 111,
+        "Suspended": 1,
+        "Defaulter": 8,
+        "Transferred": 3
+      }
+    },
+    "Shariatpur": {
+      "total": 129,
+      "status_breakdown": {
+        "Active Member": 114,
+        "Defaulter": 10,
+        "Transferred": 5
+      }
+    }
+  },
+  "status_breakdown": {
+    "Defaulter": 6850,
+    "Active Member": 20175,
+    "Retired": 175,
+    "Dead": 1556,
+    "Justice": 29,
+    "Transferred": 731,
+    "Suspended": 356,
+    "Sanad Suspended": 9,
+    "Cancel": 283,
+    "Inactive": 2
+  }
+}

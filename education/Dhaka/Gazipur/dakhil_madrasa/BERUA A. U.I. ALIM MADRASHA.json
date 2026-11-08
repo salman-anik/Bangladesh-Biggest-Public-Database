@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109169",
+  "institution": {
+    "eiin": "109169",
+    "name": "BERUA A. U.I. ALIM MADRASHA",
+    "name_bn": "বেরুয়া এ.ইউ.আই আলিম সাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "thana": "Kaliganj",
+    "address": "BERUA",
+    "post_office": "Kaliganj",
+    "mobiles": [
+      "01717921229"
+    ],
+    "other_phones": [],
+    "email": "baruaalimmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BHAWAL BRAHMANGAON"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gazipur",
+      "thana_id": "BD-THANA-dhaka-gazipur-kaliganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109169"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

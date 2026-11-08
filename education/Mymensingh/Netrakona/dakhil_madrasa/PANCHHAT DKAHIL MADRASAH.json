@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110341",
+  "institution": {
+    "eiin": "110341",
+    "name": "PANCHHAT DKAHIL MADRASAH",
+    "name_bn": "পাচঁহাট দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Netrakona",
+    "thana": "Khaliajuri",
+    "address": "PANCHHAT",
+    "post_office": "Itna",
+    "mobiles": [
+      "01721633705",
+      "01746484991"
+    ],
+    "other_phones": [],
+    "email": "mad110341@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PANCHHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-netrakona",
+      "thana_id": "BD-THANA-mymensingh-netrakona-khaliajuri",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110341"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

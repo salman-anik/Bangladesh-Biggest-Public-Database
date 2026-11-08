@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107632",
+  "institution": {
+    "eiin": "107632",
+    "name": "DULAL MIAR HAT ISLAMIA AZIZIA DAKHIL MADRASHA",
+    "name_bn": "দুলাল মিয়ার হাট ইসলামিয়া আজিজিয়া দাঃ মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "thana": "Subarnachar",
+    "address": "CHARBATA",
+    "post_office": "CHAR BATA",
+    "mobiles": [
+      "01821163451"
+    ],
+    "other_phones": [],
+    "email": "m107632m@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Munshiganj",
+          "thana": "Tongibari",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-noakhali",
+      "thana_id": "BD-THANA-chattogram-noakhali-subarnachar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-107632"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

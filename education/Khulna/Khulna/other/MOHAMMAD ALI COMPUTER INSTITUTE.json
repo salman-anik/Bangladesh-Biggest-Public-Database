@@ -1,0 +1,58 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "135958",
+                        "name":  "MOHAMMAD ALI COMPUTER INSTITUTE",
+                        "name_bn":  "মোহাম্মদ আলী কম্পিউটার ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Khulna",
+                        "thana":  "Khan Jahan Ali",
+                        "address":  "SHIROMONI",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711075425"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+                                           "locations":  [
+                                                             {
+                                                                 "division":  "Khulna",
+                                                                 "district":  "Khulna",
+                                                                 "thana":  "Phultala",
+                                                                 "sources":  [
+                                                                                 "PDF_E"
+                                                                             ]
+                                                             }
+                                                         ]
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-khulna",
+                                          "thana_id":  "BD-THANA-khulna-khulna-khan-jahan-ali",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-135958"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\khulna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

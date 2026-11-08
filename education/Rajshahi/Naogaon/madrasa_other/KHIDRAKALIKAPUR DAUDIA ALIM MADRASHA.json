@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123068",
+  "institution": {
+    "eiin": "123068",
+    "name": "KHIDRAKALIKAPUR DAUDIA ALIM MADRASHA",
+    "name_bn": "ক্ষিদ্রকালিকাপুর দাউদিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Atrai",
+    "address": "KHIDRAKALIKAPUR",
+    "post_office": "Ahsanganj",
+    "mobiles": [
+      "01710001762"
+    ],
+    "other_phones": [],
+    "email": "khidra.kdam69@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "GHOSHGRAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-atrai",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123068"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

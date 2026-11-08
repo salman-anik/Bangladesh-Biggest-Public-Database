@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119529",
+  "institution": {
+    "eiin": "119529",
+    "name": "MARIA DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Gabtali",
+    "address": "MORIA",
+    "post_office": "MORIA",
+    "mobiles": [
+      "01705263582"
+    ],
+    "other_phones": [
+      "07814264375"
+    ],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-gabtali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119529"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

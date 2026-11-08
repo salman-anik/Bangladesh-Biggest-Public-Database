@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "eiin": "139533",
+  "institution": {
+    "eiin": "139533",
+    "name": "ORIENTAL COLLEGE",
+    "name_bn": "ওরিয়েন্টাল কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Narsingdi Sadar",
+    "address": null,
+    "post_office": "Narsingdi College",
+    "mobiles": [
+      "01775555517"
+    ],
+    "other_phones": [],
+    "email": "orientalcollege.narsingdi@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-narsingdi-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-139533"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

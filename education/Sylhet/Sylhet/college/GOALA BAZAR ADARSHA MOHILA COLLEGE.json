@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130123",
+  "institution": {
+    "eiin": "130123",
+    "name": "GOALA BAZAR ADARSHA MOHILA COLLEGE",
+    "name_bn": "গোয়ালাবাজার আদর্শ সরকারী মহিলা ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Osmaninagar",
+    "address": "KALASARA",
+    "post_office": "Goala Bazar",
+    "mobiles": [
+      "01711300716"
+    ],
+    "other_phones": [],
+    "email": "gbmohilacollege@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Sylhet",
+          "district": "Sylhet",
+          "thana": "Balaganj",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-osmaninagar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-130123"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

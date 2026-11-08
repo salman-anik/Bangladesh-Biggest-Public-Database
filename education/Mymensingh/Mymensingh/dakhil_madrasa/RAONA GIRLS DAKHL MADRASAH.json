@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111621",
+  "institution": {
+    "eiin": "111621",
+    "name": "RAONA GIRLS DAKHL MADRASAH",
+    "name_bn": "রাওনা বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gaffargaon",
+    "address": "RAONA",
+    "post_office": "Shibganj",
+    "mobiles": [
+      "01731940574",
+      "01735815340",
+      "01731596244"
+    ],
+    "other_phones": [],
+    "email": "raunabdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gaffargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111621"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

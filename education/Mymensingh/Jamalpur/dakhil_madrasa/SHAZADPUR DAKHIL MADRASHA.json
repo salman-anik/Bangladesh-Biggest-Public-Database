@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109767",
+  "institution": {
+    "eiin": "109767",
+    "name": "SHAZADPUR DAKHIL MADRASHA",
+    "name_bn": "শাহজাদপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "thana": "Dewanganj",
+    "address": "SHAHJADPUR",
+    "post_office": "Dewangonj",
+    "mobiles": [
+      "01727147230",
+      "01727772054"
+    ],
+    "other_phones": [],
+    "email": "shadpm10@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SHAHZADPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-jamalpur",
+      "thana_id": "BD-THANA-mymensingh-jamalpur-dewanganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109767"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

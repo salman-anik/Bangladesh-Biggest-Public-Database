@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "121922",
+  "institution": {
+    "eiin": "121922",
+    "name": "PUR. M.U. FAZIL MADRASAH",
+    "name_bn": "পুর এম ইউ ফাযিল (স্নাতক) মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Rajshahi",
+    "district": "Joypurhat",
+    "thana": "Kalai",
+    "address": "PUR",
+    "post_office": "kalai",
+    "mobiles": [
+      "01714526428",
+      "01737661460"
+    ],
+    "other_phones": [],
+    "email": "purmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PURGRAM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-joypurhat",
+      "thana_id": "BD-THANA-rajshahi-joypurhat-kalai",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-121922"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

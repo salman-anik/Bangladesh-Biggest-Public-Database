@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140439",
+                        "name":  "BIDDYANANDAPUR SHAHNAJ ABDUL MANNAN DAKHIL MADRASHA",
+                        "name_bn":  "বিদ্যানন্দপুর শাহনাজ আবদুল মান্নান দাখিল মাদ্রাসা",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Barishal",
+                        "district":  "Barishal",
+                        "thana":  "Mehendiganj",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01721003084"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-barishal",
+                                          "district_id":  "BD-DIST-barishal-barishal",
+                                          "thana_id":  "BD-THANA-barishal-barishal-mehendiganj",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-140439"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\barishal\\barishal\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

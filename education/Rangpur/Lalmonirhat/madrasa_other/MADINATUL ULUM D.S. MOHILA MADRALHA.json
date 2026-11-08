@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123024",
+  "institution": {
+    "eiin": "123024",
+    "name": "MADINATUL ULUM D.S. MOHILA MADRALHA",
+    "name_bn": "মদিনাতুল উলুম দারুস সুন্নাহ মহিলা আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rangpur",
+    "district": "Lalmonirhat",
+    "thana": "Patgram",
+    "address": "DHABALSATI",
+    "post_office": "Patgram",
+    "mobiles": [
+      "01714516767",
+      "01714802888",
+      "01735439064"
+    ],
+    "other_phones": [],
+    "email": "muds123024@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DHABALSATI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-lalmonirhat",
+      "thana_id": "BD-THANA-rangpur-lalmonirhat-patgram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123024"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

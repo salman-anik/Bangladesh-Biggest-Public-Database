@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123484",
+  "institution": {
+    "eiin": "123484",
+    "name": "MIRZA PUR DAKHIL MADRASHA",
+    "name_bn": "মির্জাপুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Naogaon Sadar",
+    "address": "PURBA MIRZAPUR",
+    "post_office": "Tilakpur",
+    "mobiles": [
+      "01721037223"
+    ],
+    "other_phones": [],
+    "email": "mirzapur123484@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "PURBO MIRZAPUR"
+      ],
+      "post_offices": [
+        "TILOKPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-naogaon-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123484"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

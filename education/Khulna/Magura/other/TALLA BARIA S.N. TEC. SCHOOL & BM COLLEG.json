@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "134637",
+                        "name":  "TALLA BARIA S.N. TEC. SCHOOL \u0026 BM COLLEG",
+                        "name_bn":  "তল্লাবাড়ীয়া এস.এন টেকনিক্যাল এন্ড বি.এম কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Magura",
+                        "thana":  "Mohammadpur",
+                        "address":  "TALLABARIA",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716802867",
+                                        "01710885846"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-magura",
+                                          "thana_id":  "BD-THANA-khulna-magura-mohammadpur",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-134637"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\magura\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

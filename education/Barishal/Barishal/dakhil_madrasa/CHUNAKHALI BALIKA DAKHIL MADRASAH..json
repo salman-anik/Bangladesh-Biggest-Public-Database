@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100572",
+  "institution": {
+    "eiin": "100572",
+    "name": "CHUNAKHALI BALIKA DAKHIL MADRASAH.",
+    "name_bn": "চুনাখালী বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Bakerganj",
+    "address": "CHUNAKHALI",
+    "post_office": "Shialguni",
+    "mobiles": [
+      "01717272250"
+    ],
+    "other_phones": [],
+    "email": "chunakhaligdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHUNAKHALI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-bakerganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100572"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

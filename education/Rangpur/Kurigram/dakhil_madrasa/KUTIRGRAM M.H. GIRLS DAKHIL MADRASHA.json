@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "122173",
+  "institution": {
+    "eiin": "122173",
+    "name": "KUTIRGRAM M.H. GIRLS DAKHIL MADRASHA",
+    "name_bn": "কুটিরগ্রাম এম.এইচ বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "thana": "Chilmari",
+    "address": "KUTIRGRAM",
+    "post_office": "Ulipur",
+    "mobiles": [
+      "01928701367"
+    ],
+    "other_phones": [],
+    "email": "kutirgramdakhilmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PATWARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-kurigram",
+      "thana_id": "BD-THANA-rangpur-kurigram-chilmari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-122173"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

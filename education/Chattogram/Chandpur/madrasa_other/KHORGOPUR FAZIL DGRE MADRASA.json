@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103872",
+  "institution": {
+    "eiin": "103872",
+    "name": "KHORGOPUR FAZIL DGRE MADRASA",
+    "name_bn": "খর্গপুর ফাযিল (ডিগ্রি) মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "thana": "Matlab Dakshin",
+    "address": "KHARGAPUR",
+    "post_office": "Matlobganj",
+    "mobiles": [
+      "01871114346",
+      "01818237305"
+    ],
+    "other_phones": [],
+    "email": "103872khargapur@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "KHORGOPUR"
+      ],
+      "post_offices": [
+        "KHIDIRPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chandpur",
+      "thana_id": "BD-THANA-chattogram-chandpur-matlab-dakshin",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103872"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

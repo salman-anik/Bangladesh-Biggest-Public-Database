@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "131616",
+  "institution": {
+    "eiin": "131616",
+    "name": "KUSHIA DARA SUNNIA DAKHIL MADRASHA",
+    "name_bn": "কুশিয়া ধারা সুন্নিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Tarakanda",
+    "address": "KUSHIA DARA",
+    "post_office": "Tarakanda",
+    "mobiles": [
+      "01712429449"
+    ],
+    "other_phones": [],
+    "email": "ksdmsunnia@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHANGNAPARA"
+      ],
+      "locations": [
+        {
+          "division": "Mymensingh",
+          "district": "Mymensingh",
+          "thana": "Phulpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-tarakanda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-131616"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

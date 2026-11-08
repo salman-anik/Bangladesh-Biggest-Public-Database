@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102281",
+  "institution": {
+    "eiin": "102281",
+    "name": "ESADI NESARIA DAKHIL MADRASHA",
+    "name_bn": "ইসাদী নেছারিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Galachipa",
+    "address": "ESADI",
+    "post_office": "Galachipa",
+    "mobiles": [
+      "01714523117"
+    ],
+    "other_phones": [],
+    "email": "mad102281@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "BOYS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "ICHADI"
+      ],
+      "post_offices": [
+        "KALARAJA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-galachipa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102281"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114103",
+  "institution": {
+    "eiin": "114103",
+    "name": "PARAKHALI GIRLS DAKHIL MADRASHA",
+    "name_bn": "পড়াইখালী বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Delduar",
+    "address": "PARAKHALI",
+    "post_office": "Delduar",
+    "mobiles": [
+      "01726834858"
+    ],
+    "other_phones": [],
+    "email": "pbd.madrasah1980@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BORNI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-delduar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114103"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

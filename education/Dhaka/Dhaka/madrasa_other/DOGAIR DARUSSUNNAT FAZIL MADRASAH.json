@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "107899",
+  "institution": {
+    "eiin": "107899",
+    "name": "DOGAIR DARUSSUNNAT FAZIL MADRASAH",
+    "name_bn": "ডগাইর দারুসসুন্নাত ফাযিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Demra",
+    "address": "DOGAIR/31/A",
+    "post_office": "SARULIA",
+    "mobiles": [
+      "01712754088",
+      "01556324945"
+    ],
+    "other_phones": [],
+    "email": "principalddfm13@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "DOGAIR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-demra",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-107899"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

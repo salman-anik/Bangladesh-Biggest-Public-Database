@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105045",
+  "institution": {
+    "eiin": "105045",
+    "name": "BRADONA AL-AMIN ADARSHA MOHILA DAKHIL MADRASHA",
+    "name_bn": "বারদোনা আল আমিন আদর্শ মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Satkania",
+    "address": "BARADONA",
+    "post_office": "Satkania",
+    "mobiles": [
+      "01816085905"
+    ],
+    "other_phones": [],
+    "email": "baradonamdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BARADONA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-satkania",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105045"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120905",
+  "institution": {
+    "eiin": "120905",
+    "name": "SHIBPUR ISLAMIA BALIKA DAKHIL MADRASHA",
+    "name_bn": "শিবপুর ইসলামিয়া বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Nawabganj",
+    "address": "SHIBPUR",
+    "post_office": "Phulbari",
+    "mobiles": [
+      "01714723187"
+    ],
+    "other_phones": [],
+    "email": "spgm120905@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SWAPMAPURI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-nawabganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120905"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

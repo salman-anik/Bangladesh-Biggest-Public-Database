@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105110",
+  "institution": {
+    "eiin": "105110",
+    "name": "MUJADDADIA NURIA ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "মুজাদ্দেদীয়া নূরিয়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Sitakunda",
+    "address": "ONONTO PUR",
+    "post_office": "Barabkunda",
+    "mobiles": [
+      "01815476529"
+    ],
+    "other_phones": [],
+    "email": "muzaddediamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-sitakunda",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105110"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

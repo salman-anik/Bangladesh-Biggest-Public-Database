@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111763",
+  "institution": {
+    "eiin": "111763",
+    "name": "RAMNAGAR MADINTUL ULUM DAKHIL MADRASAH",
+    "name_bn": "রামনগর মদিনাতুল উলুম দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Haluaghat",
+    "address": "UTTAR RAMNAGAR",
+    "post_office": "Haluaghat",
+    "mobiles": [
+      "01729141895",
+      "01739662072"
+    ],
+    "other_phones": [],
+    "email": "mad111763@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "UTTAR RAMBAGAR"
+      ],
+      "post_offices": [
+        "DHURAIL BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-haluaghat",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111763"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

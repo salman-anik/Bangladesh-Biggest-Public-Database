@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103430",
+  "institution": {
+    "eiin": "103430",
+    "name": "SATMORA DHAKHIL MADRASHA",
+    "name_bn": "সাতমোড়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "thana": "Nabinagar",
+    "address": "SATMORA",
+    "post_office": "Muradnagar",
+    "mobiles": [
+      "01727717010"
+    ],
+    "other_phones": [],
+    "email": "dakhilmadrashasatmora@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "SATMORA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-brahmanbaria",
+      "thana_id": "BD-THANA-chattogram-brahmanbaria-nabinagar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103430"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

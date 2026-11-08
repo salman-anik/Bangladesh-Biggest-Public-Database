@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110525",
+  "institution": {
+    "eiin": "110525",
+    "name": "CHAMAKPUR ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "চমকপুর ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "thana": "Mithamain",
+    "address": "CHAMAKPUR",
+    "post_office": "Abdullahpur",
+    "mobiles": [
+      "01912845842",
+      "01714746328"
+    ],
+    "other_phones": [],
+    "email": "cidm110525@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "HAOR/BIL (INSIDE EMBANKMENT)",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BHATI GHAGRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-kishoreganj",
+      "thana_id": "BD-THANA-dhaka-kishoreganj-mithamain",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110525"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "139111",
+  "institution": {
+    "eiin": "139111",
+    "name": "SAHPUR DAKKHIN DAKHIL MADRASAH",
+    "name_bn": "শাহপুর দক্ষিণ দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "thana": "Madhabpur",
+    "address": "SAHPUR",
+    "post_office": "Itakhola",
+    "mobiles": [
+      "01747006172",
+      "01722579770"
+    ],
+    "other_phones": [],
+    "email": "sahpurmadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR"
+    ],
+    "alternates": {
+      "post_offices": [
+        "TELIAPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-habiganj",
+      "thana_id": "BD-THANA-sylhet-habiganj-madhabpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-139111"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

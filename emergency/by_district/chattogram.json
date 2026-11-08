@@ -1,0 +1,91 @@
+{
+  "district": "Chattogram",
+  "administration": {
+    "district": "Chattogram",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chattogram",
+      "phone": "01713-000001",
+      "email": "dcchattogram@mopa.gov.bd",
+      "website": "http://www.chattogram.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chattogram",
+      "phone": "01713-373001",
+      "email": "spchattogram@police.gov.bd",
+      "control_room": "01713-374001"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chattogram",
+      "phone": "01713-555001",
+      "email": "cschattogram@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-CMP-01",
+      "name": "Kotwali Police Station (Chattogram)",
+      "bn_name": "কোতোয়ালী থানা (চট্টগ্রাম)",
+      "unit": "Chattogram Metropolitan Police (CMP)",
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "address": "Anderkilla, Chattogram",
+      "oc_mobile": "01713-373201",
+      "duty_officer": "01713-398401",
+      "tnt": "031-611111",
+      "control_room": "031-630355"
+    },
+    {
+      "thana_id": "PS-CMP-02",
+      "name": "Panchlaish Police Station",
+      "bn_name": "পাঁচলাইশ থানা",
+      "unit": "Chattogram Metropolitan Police (CMP)",
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "address": "Prabartak Circle, Panchlaish, Chattogram",
+      "oc_mobile": "01713-373202",
+      "duty_officer": "01713-398402",
+      "tnt": "031-651234",
+      "control_room": "031-630355"
+    },
+    {
+      "thana_id": "PS-CMP-03",
+      "name": "Double Mooring Police Station",
+      "bn_name": "ডবলমুরিং থানা",
+      "unit": "Chattogram Metropolitan Police (CMP)",
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "address": "Agrabad Commercial Area, Chattogram",
+      "oc_mobile": "01713-373203",
+      "duty_officer": "01713-398403",
+      "tnt": "031-712345",
+      "control_room": "031-630355"
+    },
+    {
+      "thana_id": "PS-CMP-04",
+      "name": "Patenga Police Station",
+      "bn_name": "পতেঙ্গা থানা",
+      "unit": "Chattogram Metropolitan Police (CMP)",
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "address": "Airport Road, Patenga, Chattogram",
+      "oc_mobile": "01713-373204",
+      "duty_officer": "01713-398404",
+      "tnt": "031-740001",
+      "control_room": "031-630355"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-005",
+      "name": "Agrabad Fire Station (Chattogram HQ)",
+      "bn_name": "আগ্রাবাদ ফায়ার স্টেশন (চট্টগ্রাম সদর)",
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "address": "Agrabad Commercial Area, Chattogram",
+      "hotline": "16163",
+      "emergency_phone": "031-711111",
+      "mobile": "01713-038201",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

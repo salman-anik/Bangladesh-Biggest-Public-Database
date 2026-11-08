@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136228",
+                        "name":  "RUJAL SHIKHAPOLLI POLYTECHNIC AND AGRICULTUTE INSTITUTE",
+                        "name_bn":  "রুজেল শিক্ষাপল্লী পলিটেকনিক অ্যান্ড এগ্রিকালচার ইন্সটিটিউট",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Mymensingh",
+                        "district":  "Netrakona",
+                        "thana":  "Netrokona Sadar",
+                        "address":  "951 PURBADHOLA ROAD",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01819518303"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-mymensingh",
+                                          "district_id":  "BD-DIST-mymensingh-netrakona",
+                                          "thana_id":  "BD-THANA-mymensingh-netrakona-netrokona-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136228"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\mymensingh\\netrakona\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

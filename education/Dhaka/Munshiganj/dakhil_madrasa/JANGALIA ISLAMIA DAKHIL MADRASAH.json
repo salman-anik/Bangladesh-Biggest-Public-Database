@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111123",
+  "institution": {
+    "eiin": "111123",
+    "name": "JANGALIA ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "জাংগালিয়া ইসলামিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Lohajang",
+    "address": "JANGALIA",
+    "post_office": "Ichapur",
+    "mobiles": [
+      "01716608134"
+    ],
+    "other_phones": [],
+    "email": "jangaliaidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NOWPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-lohajang",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111123"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

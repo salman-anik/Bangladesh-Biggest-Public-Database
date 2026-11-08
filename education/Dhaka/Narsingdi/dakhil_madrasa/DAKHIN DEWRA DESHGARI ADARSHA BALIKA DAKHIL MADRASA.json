@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112756",
+  "institution": {
+    "eiin": "112756",
+    "name": "DAKHIN DEWRA DESHGARI ADARSHA BALIKA DAKHIL MADRASA",
+    "name_bn": "দক্ষিণ দেওড়া দেশ গড়ি আদর্শ বালিকা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Palash",
+    "address": "DAKHIN DEWRA",
+    "post_office": "Palash",
+    "mobiles": [
+      "01720354753"
+    ],
+    "other_phones": [],
+    "email": "dddbmafrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "PARULIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-palash",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112756"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

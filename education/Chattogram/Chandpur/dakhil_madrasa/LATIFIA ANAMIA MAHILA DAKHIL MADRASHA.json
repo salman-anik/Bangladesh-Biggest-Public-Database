@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103831",
+  "institution": {
+    "eiin": "103831",
+    "name": "LATIFIA ANAMIA MAHILA DAKHIL MADRASHA",
+    "name_bn": "লতিফিয়া এনামিয়া মহিলা দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "thana": "Kachua",
+    "address": "GOHAT",
+    "post_office": "Rahima Nagar",
+    "mobiles": [
+      "01715631520"
+    ],
+    "other_phones": [],
+    "email": "landm103831@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chandpur",
+      "thana_id": "BD-THANA-chattogram-chandpur-kachua",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103831"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

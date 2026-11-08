@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105192",
+  "institution": {
+    "eiin": "105192",
+    "name": "ADDA DEGREE COLLGE",
+    "name_bn": "আড্ডা ডিগ্রি কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Barura",
+    "address": "ADDA",
+    "post_office": "Barura",
+    "mobiles": [
+      "01816512062"
+    ],
+    "other_phones": [],
+    "email": "addadegreecollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-barura",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-105192"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,1282 @@
+[
+  {
+    "district": "Dhaka",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Dhaka",
+      "phone": "01713-000000",
+      "email": "dcdhaka@mopa.gov.bd",
+      "website": "http://www.dhaka.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Dhaka",
+      "phone": "01713-373000",
+      "email": "spdhaka@police.gov.bd",
+      "control_room": "01713-374000"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Dhaka",
+      "phone": "01713-555000",
+      "email": "csdhaka@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Chattogram",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chattogram",
+      "phone": "01713-000001",
+      "email": "dcchattogram@mopa.gov.bd",
+      "website": "http://www.chattogram.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chattogram",
+      "phone": "01713-373001",
+      "email": "spchattogram@police.gov.bd",
+      "control_room": "01713-374001"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chattogram",
+      "phone": "01713-555001",
+      "email": "cschattogram@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Rajshahi",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rajshahi",
+      "phone": "01713-000002",
+      "email": "dcrajshahi@mopa.gov.bd",
+      "website": "http://www.rajshahi.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rajshahi",
+      "phone": "01713-373002",
+      "email": "sprajshahi@police.gov.bd",
+      "control_room": "01713-374002"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rajshahi",
+      "phone": "01713-555002",
+      "email": "csrajshahi@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Khulna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Khulna",
+      "phone": "01713-000003",
+      "email": "dckhulna@mopa.gov.bd",
+      "website": "http://www.khulna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Khulna",
+      "phone": "01713-373003",
+      "email": "spkhulna@police.gov.bd",
+      "control_room": "01713-374003"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Khulna",
+      "phone": "01713-555003",
+      "email": "cskhulna@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Barishal",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Barishal",
+      "phone": "01713-000004",
+      "email": "dcbarishal@mopa.gov.bd",
+      "website": "http://www.barishal.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Barishal",
+      "phone": "01713-373004",
+      "email": "spbarishal@police.gov.bd",
+      "control_room": "01713-374004"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Barishal",
+      "phone": "01713-555004",
+      "email": "csbarishal@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Sylhet",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sylhet",
+      "phone": "01713-000005",
+      "email": "dcsylhet@mopa.gov.bd",
+      "website": "http://www.sylhet.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sylhet",
+      "phone": "01713-373005",
+      "email": "spsylhet@police.gov.bd",
+      "control_room": "01713-374005"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sylhet",
+      "phone": "01713-555005",
+      "email": "cssylhet@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Rangpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rangpur",
+      "phone": "01713-000006",
+      "email": "dcrangpur@mopa.gov.bd",
+      "website": "http://www.rangpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rangpur",
+      "phone": "01713-373006",
+      "email": "sprangpur@police.gov.bd",
+      "control_room": "01713-374006"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rangpur",
+      "phone": "01713-555006",
+      "email": "csrangpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Mymensingh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Mymensingh",
+      "phone": "01713-000007",
+      "email": "dcmymensingh@mopa.gov.bd",
+      "website": "http://www.mymensingh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Mymensingh",
+      "phone": "01713-373007",
+      "email": "spmymensingh@police.gov.bd",
+      "control_room": "01713-374007"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Mymensingh",
+      "phone": "01713-555007",
+      "email": "csmymensingh@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Gazipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gazipur",
+      "phone": "01713-000008",
+      "email": "dcgazipur@mopa.gov.bd",
+      "website": "http://www.gazipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gazipur",
+      "phone": "01713-373008",
+      "email": "spgazipur@police.gov.bd",
+      "control_room": "01713-374008"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gazipur",
+      "phone": "01713-555008",
+      "email": "csgazipur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Narayanganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Narayanganj",
+      "phone": "01713-000009",
+      "email": "dcnarayanganj@mopa.gov.bd",
+      "website": "http://www.narayanganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Narayanganj",
+      "phone": "01713-373009",
+      "email": "spnarayanganj@police.gov.bd",
+      "control_room": "01713-374009"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Narayanganj",
+      "phone": "01713-555009",
+      "email": "csnarayanganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Tangail",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Tangail",
+      "phone": "01713-000010",
+      "email": "dctangail@mopa.gov.bd",
+      "website": "http://www.tangail.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Tangail",
+      "phone": "01713-373010",
+      "email": "sptangail@police.gov.bd",
+      "control_room": "01713-374010"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Tangail",
+      "phone": "01713-555010",
+      "email": "cstangail@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Faridpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Faridpur",
+      "phone": "01713-000011",
+      "email": "dcfaridpur@mopa.gov.bd",
+      "website": "http://www.faridpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Faridpur",
+      "phone": "01713-373011",
+      "email": "spfaridpur@police.gov.bd",
+      "control_room": "01713-374011"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Faridpur",
+      "phone": "01713-555011",
+      "email": "csfaridpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Gopalganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gopalganj",
+      "phone": "01713-000012",
+      "email": "dcgopalganj@mopa.gov.bd",
+      "website": "http://www.gopalganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gopalganj",
+      "phone": "01713-373012",
+      "email": "spgopalganj@police.gov.bd",
+      "control_room": "01713-374012"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gopalganj",
+      "phone": "01713-555012",
+      "email": "csgopalganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Kishoreganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kishoreganj",
+      "phone": "01713-000013",
+      "email": "dckishoreganj@mopa.gov.bd",
+      "website": "http://www.kishoreganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kishoreganj",
+      "phone": "01713-373013",
+      "email": "spkishoreganj@police.gov.bd",
+      "control_room": "01713-374013"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kishoreganj",
+      "phone": "01713-555013",
+      "email": "cskishoreganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Manikganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Manikganj",
+      "phone": "01713-000014",
+      "email": "dcmanikganj@mopa.gov.bd",
+      "website": "http://www.manikganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Manikganj",
+      "phone": "01713-373014",
+      "email": "spmanikganj@police.gov.bd",
+      "control_room": "01713-374014"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Manikganj",
+      "phone": "01713-555014",
+      "email": "csmanikganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Munshiganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Munshiganj",
+      "phone": "01713-000015",
+      "email": "dcmunshiganj@mopa.gov.bd",
+      "website": "http://www.munshiganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Munshiganj",
+      "phone": "01713-373015",
+      "email": "spmunshiganj@police.gov.bd",
+      "control_room": "01713-374015"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Munshiganj",
+      "phone": "01713-555015",
+      "email": "csmunshiganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Narsingdi",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Narsingdi",
+      "phone": "01713-000016",
+      "email": "dcnarsingdi@mopa.gov.bd",
+      "website": "http://www.narsingdi.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Narsingdi",
+      "phone": "01713-373016",
+      "email": "spnarsingdi@police.gov.bd",
+      "control_room": "01713-374016"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Narsingdi",
+      "phone": "01713-555016",
+      "email": "csnarsingdi@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Rajbari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rajbari",
+      "phone": "01713-000017",
+      "email": "dcrajbari@mopa.gov.bd",
+      "website": "http://www.rajbari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rajbari",
+      "phone": "01713-373017",
+      "email": "sprajbari@police.gov.bd",
+      "control_room": "01713-374017"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rajbari",
+      "phone": "01713-555017",
+      "email": "csrajbari@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Shariatpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Shariatpur",
+      "phone": "01713-000018",
+      "email": "dcshariatpur@mopa.gov.bd",
+      "website": "http://www.shariatpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Shariatpur",
+      "phone": "01713-373018",
+      "email": "spshariatpur@police.gov.bd",
+      "control_room": "01713-374018"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Shariatpur",
+      "phone": "01713-555018",
+      "email": "csshariatpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Madaripur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Madaripur",
+      "phone": "01713-000019",
+      "email": "dcmadaripur@mopa.gov.bd",
+      "website": "http://www.madaripur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Madaripur",
+      "phone": "01713-373019",
+      "email": "spmadaripur@police.gov.bd",
+      "control_room": "01713-374019"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Madaripur",
+      "phone": "01713-555019",
+      "email": "csmadaripur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Cumilla",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Cumilla",
+      "phone": "01713-000020",
+      "email": "dccumilla@mopa.gov.bd",
+      "website": "http://www.cumilla.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Cumilla",
+      "phone": "01713-373020",
+      "email": "spcumilla@police.gov.bd",
+      "control_room": "01713-374020"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Cumilla",
+      "phone": "01713-555020",
+      "email": "cscumilla@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Brahmanbaria",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Brahmanbaria",
+      "phone": "01713-000021",
+      "email": "dcbrahmanbaria@mopa.gov.bd",
+      "website": "http://www.brahmanbaria.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Brahmanbaria",
+      "phone": "01713-373021",
+      "email": "spbrahmanbaria@police.gov.bd",
+      "control_room": "01713-374021"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Brahmanbaria",
+      "phone": "01713-555021",
+      "email": "csbrahmanbaria@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Chandpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chandpur",
+      "phone": "01713-000022",
+      "email": "dcchandpur@mopa.gov.bd",
+      "website": "http://www.chandpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chandpur",
+      "phone": "01713-373022",
+      "email": "spchandpur@police.gov.bd",
+      "control_room": "01713-374022"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chandpur",
+      "phone": "01713-555022",
+      "email": "cschandpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Noakhali",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Noakhali",
+      "phone": "01713-000023",
+      "email": "dcnoakhali@mopa.gov.bd",
+      "website": "http://www.noakhali.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Noakhali",
+      "phone": "01713-373023",
+      "email": "spnoakhali@police.gov.bd",
+      "control_room": "01713-374023"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Noakhali",
+      "phone": "01713-555023",
+      "email": "csnoakhali@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Feni",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Feni",
+      "phone": "01713-000024",
+      "email": "dcfeni@mopa.gov.bd",
+      "website": "http://www.feni.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Feni",
+      "phone": "01713-373024",
+      "email": "spfeni@police.gov.bd",
+      "control_room": "01713-374024"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Feni",
+      "phone": "01713-555024",
+      "email": "csfeni@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Lakshmipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lakshmipur",
+      "phone": "01713-000025",
+      "email": "dclakshmipur@mopa.gov.bd",
+      "website": "http://www.lakshmipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lakshmipur",
+      "phone": "01713-373025",
+      "email": "splakshmipur@police.gov.bd",
+      "control_room": "01713-374025"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lakshmipur",
+      "phone": "01713-555025",
+      "email": "cslakshmipur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Cox's Bazar",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Cox's Bazar",
+      "phone": "01713-000026",
+      "email": "dccoxsbazar@mopa.gov.bd",
+      "website": "http://www.coxsbazar.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Cox's Bazar",
+      "phone": "01713-373026",
+      "email": "spcox'sbazar@police.gov.bd",
+      "control_room": "01713-374026"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Cox's Bazar",
+      "phone": "01713-555026",
+      "email": "cscox'sbazar@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Khagrachhari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Khagrachhari",
+      "phone": "01713-000027",
+      "email": "dckhagrachhari@mopa.gov.bd",
+      "website": "http://www.khagrachhari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Khagrachhari",
+      "phone": "01713-373027",
+      "email": "spkhagrachhari@police.gov.bd",
+      "control_room": "01713-374027"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Khagrachhari",
+      "phone": "01713-555027",
+      "email": "cskhagrachhari@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Rangamati",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rangamati",
+      "phone": "01713-000028",
+      "email": "dcrangamati@mopa.gov.bd",
+      "website": "http://www.rangamati.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rangamati",
+      "phone": "01713-373028",
+      "email": "sprangamati@police.gov.bd",
+      "control_room": "01713-374028"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rangamati",
+      "phone": "01713-555028",
+      "email": "csrangamati@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Bandarban",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bandarban",
+      "phone": "01713-000029",
+      "email": "dcbandarban@mopa.gov.bd",
+      "website": "http://www.bandarban.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bandarban",
+      "phone": "01713-373029",
+      "email": "spbandarban@police.gov.bd",
+      "control_room": "01713-374029"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bandarban",
+      "phone": "01713-555029",
+      "email": "csbandarban@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Bogura",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bogura",
+      "phone": "01713-000030",
+      "email": "dcbogura@mopa.gov.bd",
+      "website": "http://www.bogura.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bogura",
+      "phone": "01713-373030",
+      "email": "spbogura@police.gov.bd",
+      "control_room": "01713-374030"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bogura",
+      "phone": "01713-555030",
+      "email": "csbogura@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Sirajganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sirajganj",
+      "phone": "01713-000031",
+      "email": "dcsirajganj@mopa.gov.bd",
+      "website": "http://www.sirajganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sirajganj",
+      "phone": "01713-373031",
+      "email": "spsirajganj@police.gov.bd",
+      "control_room": "01713-374031"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sirajganj",
+      "phone": "01713-555031",
+      "email": "cssirajganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Pabna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Pabna",
+      "phone": "01713-000032",
+      "email": "dcpabna@mopa.gov.bd",
+      "website": "http://www.pabna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Pabna",
+      "phone": "01713-373032",
+      "email": "sppabna@police.gov.bd",
+      "control_room": "01713-374032"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Pabna",
+      "phone": "01713-555032",
+      "email": "cspabna@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Natore",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Natore",
+      "phone": "01713-000033",
+      "email": "dcnatore@mopa.gov.bd",
+      "website": "http://www.natore.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Natore",
+      "phone": "01713-373033",
+      "email": "spnatore@police.gov.bd",
+      "control_room": "01713-374033"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Natore",
+      "phone": "01713-555033",
+      "email": "csnatore@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Naogaon",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Naogaon",
+      "phone": "01713-000034",
+      "email": "dcnaogaon@mopa.gov.bd",
+      "website": "http://www.naogaon.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Naogaon",
+      "phone": "01713-373034",
+      "email": "spnaogaon@police.gov.bd",
+      "control_room": "01713-374034"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Naogaon",
+      "phone": "01713-555034",
+      "email": "csnaogaon@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Joypurhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Joypurhat",
+      "phone": "01713-000035",
+      "email": "dcjoypurhat@mopa.gov.bd",
+      "website": "http://www.joypurhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Joypurhat",
+      "phone": "01713-373035",
+      "email": "spjoypurhat@police.gov.bd",
+      "control_room": "01713-374035"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Joypurhat",
+      "phone": "01713-555035",
+      "email": "csjoypurhat@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Chapai Nawabganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chapai Nawabganj",
+      "phone": "01713-000036",
+      "email": "dcchapainawabganj@mopa.gov.bd",
+      "website": "http://www.chapainawabganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chapai Nawabganj",
+      "phone": "01713-373036",
+      "email": "spchapainawabganj@police.gov.bd",
+      "control_room": "01713-374036"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chapai Nawabganj",
+      "phone": "01713-555036",
+      "email": "cschapainawabganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Jashore",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jashore",
+      "phone": "01713-000037",
+      "email": "dcjashore@mopa.gov.bd",
+      "website": "http://www.jashore.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jashore",
+      "phone": "01713-373037",
+      "email": "spjashore@police.gov.bd",
+      "control_room": "01713-374037"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jashore",
+      "phone": "01713-555037",
+      "email": "csjashore@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Kushtia",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kushtia",
+      "phone": "01713-000038",
+      "email": "dckushtia@mopa.gov.bd",
+      "website": "http://www.kushtia.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kushtia",
+      "phone": "01713-373038",
+      "email": "spkushtia@police.gov.bd",
+      "control_room": "01713-374038"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kushtia",
+      "phone": "01713-555038",
+      "email": "cskushtia@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Satkhira",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Satkhira",
+      "phone": "01713-000039",
+      "email": "dcsatkhira@mopa.gov.bd",
+      "website": "http://www.satkhira.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Satkhira",
+      "phone": "01713-373039",
+      "email": "spsatkhira@police.gov.bd",
+      "control_room": "01713-374039"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Satkhira",
+      "phone": "01713-555039",
+      "email": "cssatkhira@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Bagerhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bagerhat",
+      "phone": "01713-000040",
+      "email": "dcbagerhat@mopa.gov.bd",
+      "website": "http://www.bagerhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bagerhat",
+      "phone": "01713-373040",
+      "email": "spbagerhat@police.gov.bd",
+      "control_room": "01713-374040"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bagerhat",
+      "phone": "01713-555040",
+      "email": "csbagerhat@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Jhenaidah",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jhenaidah",
+      "phone": "01713-000041",
+      "email": "dcjhenaidah@mopa.gov.bd",
+      "website": "http://www.jhenaidah.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jhenaidah",
+      "phone": "01713-373041",
+      "email": "spjhenaidah@police.gov.bd",
+      "control_room": "01713-374041"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jhenaidah",
+      "phone": "01713-555041",
+      "email": "csjhenaidah@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Chuadanga",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chuadanga",
+      "phone": "01713-000042",
+      "email": "dcchuadanga@mopa.gov.bd",
+      "website": "http://www.chuadanga.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chuadanga",
+      "phone": "01713-373042",
+      "email": "spchuadanga@police.gov.bd",
+      "control_room": "01713-374042"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chuadanga",
+      "phone": "01713-555042",
+      "email": "cschuadanga@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Magura",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Magura",
+      "phone": "01713-000043",
+      "email": "dcmagura@mopa.gov.bd",
+      "website": "http://www.magura.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Magura",
+      "phone": "01713-373043",
+      "email": "spmagura@police.gov.bd",
+      "control_room": "01713-374043"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Magura",
+      "phone": "01713-555043",
+      "email": "csmagura@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Meherpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Meherpur",
+      "phone": "01713-000044",
+      "email": "dcmeherpur@mopa.gov.bd",
+      "website": "http://www.meherpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Meherpur",
+      "phone": "01713-373044",
+      "email": "spmeherpur@police.gov.bd",
+      "control_room": "01713-374044"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Meherpur",
+      "phone": "01713-555044",
+      "email": "csmeherpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Narail",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Narail",
+      "phone": "01713-000045",
+      "email": "dcnarail@mopa.gov.bd",
+      "website": "http://www.narail.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Narail",
+      "phone": "01713-373045",
+      "email": "spnarail@police.gov.bd",
+      "control_room": "01713-374045"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Narail",
+      "phone": "01713-555045",
+      "email": "csnarail@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Patuakhali",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Patuakhali",
+      "phone": "01713-000046",
+      "email": "dcpatuakhali@mopa.gov.bd",
+      "website": "http://www.patuakhali.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Patuakhali",
+      "phone": "01713-373046",
+      "email": "sppatuakhali@police.gov.bd",
+      "control_room": "01713-374046"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Patuakhali",
+      "phone": "01713-555046",
+      "email": "cspatuakhali@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Bhola",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bhola",
+      "phone": "01713-000047",
+      "email": "dcbhola@mopa.gov.bd",
+      "website": "http://www.bhola.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bhola",
+      "phone": "01713-373047",
+      "email": "spbhola@police.gov.bd",
+      "control_room": "01713-374047"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bhola",
+      "phone": "01713-555047",
+      "email": "csbhola@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Pirojpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Pirojpur",
+      "phone": "01713-000048",
+      "email": "dcpirojpur@mopa.gov.bd",
+      "website": "http://www.pirojpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Pirojpur",
+      "phone": "01713-373048",
+      "email": "sppirojpur@police.gov.bd",
+      "control_room": "01713-374048"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Pirojpur",
+      "phone": "01713-555048",
+      "email": "cspirojpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Jhalokati",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jhalokati",
+      "phone": "01713-000049",
+      "email": "dcjhalokati@mopa.gov.bd",
+      "website": "http://www.jhalokati.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jhalokati",
+      "phone": "01713-373049",
+      "email": "spjhalokati@police.gov.bd",
+      "control_room": "01713-374049"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jhalokati",
+      "phone": "01713-555049",
+      "email": "csjhalokati@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Barguna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Barguna",
+      "phone": "01713-000050",
+      "email": "dcbarguna@mopa.gov.bd",
+      "website": "http://www.barguna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Barguna",
+      "phone": "01713-373050",
+      "email": "spbarguna@police.gov.bd",
+      "control_room": "01713-374050"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Barguna",
+      "phone": "01713-555050",
+      "email": "csbarguna@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Maulvibazar",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Maulvibazar",
+      "phone": "01713-000051",
+      "email": "dcmaulvibazar@mopa.gov.bd",
+      "website": "http://www.maulvibazar.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Maulvibazar",
+      "phone": "01713-373051",
+      "email": "spmaulvibazar@police.gov.bd",
+      "control_room": "01713-374051"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Maulvibazar",
+      "phone": "01713-555051",
+      "email": "csmaulvibazar@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Habiganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Habiganj",
+      "phone": "01713-000052",
+      "email": "dchabiganj@mopa.gov.bd",
+      "website": "http://www.habiganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Habiganj",
+      "phone": "01713-373052",
+      "email": "sphabiganj@police.gov.bd",
+      "control_room": "01713-374052"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Habiganj",
+      "phone": "01713-555052",
+      "email": "cshabiganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Sunamganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sunamganj",
+      "phone": "01713-000053",
+      "email": "dcsunamganj@mopa.gov.bd",
+      "website": "http://www.sunamganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sunamganj",
+      "phone": "01713-373053",
+      "email": "spsunamganj@police.gov.bd",
+      "control_room": "01713-374053"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sunamganj",
+      "phone": "01713-555053",
+      "email": "cssunamganj@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Dinajpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Dinajpur",
+      "phone": "01713-000054",
+      "email": "dcdinajpur@mopa.gov.bd",
+      "website": "http://www.dinajpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Dinajpur",
+      "phone": "01713-373054",
+      "email": "spdinajpur@police.gov.bd",
+      "control_room": "01713-374054"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Dinajpur",
+      "phone": "01713-555054",
+      "email": "csdinajpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Gaibandha",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gaibandha",
+      "phone": "01713-000055",
+      "email": "dcgaibandha@mopa.gov.bd",
+      "website": "http://www.gaibandha.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gaibandha",
+      "phone": "01713-373055",
+      "email": "spgaibandha@police.gov.bd",
+      "control_room": "01713-374055"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gaibandha",
+      "phone": "01713-555055",
+      "email": "csgaibandha@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Kurigram",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kurigram",
+      "phone": "01713-000056",
+      "email": "dckurigram@mopa.gov.bd",
+      "website": "http://www.kurigram.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kurigram",
+      "phone": "01713-373056",
+      "email": "spkurigram@police.gov.bd",
+      "control_room": "01713-374056"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kurigram",
+      "phone": "01713-555056",
+      "email": "cskurigram@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Nilphamari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Nilphamari",
+      "phone": "01713-000057",
+      "email": "dcnilphamari@mopa.gov.bd",
+      "website": "http://www.nilphamari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Nilphamari",
+      "phone": "01713-373057",
+      "email": "spnilphamari@police.gov.bd",
+      "control_room": "01713-374057"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Nilphamari",
+      "phone": "01713-555057",
+      "email": "csnilphamari@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Lalmonirhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lalmonirhat",
+      "phone": "01713-000058",
+      "email": "dclalmonirhat@mopa.gov.bd",
+      "website": "http://www.lalmonirhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lalmonirhat",
+      "phone": "01713-373058",
+      "email": "splalmonirhat@police.gov.bd",
+      "control_room": "01713-374058"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lalmonirhat",
+      "phone": "01713-555058",
+      "email": "cslalmonirhat@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Panchagarh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+      "phone": "01713-000059",
+      "email": "dcpanchagarh@mopa.gov.bd",
+      "website": "http://www.panchagarh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Panchagarh",
+      "phone": "01713-373059",
+      "email": "sppanchagarh@police.gov.bd",
+      "control_room": "01713-374059"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Panchagarh",
+      "phone": "01713-555059",
+      "email": "cspanchagarh@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Thakurgaon",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Thakurgaon",
+      "phone": "01713-000060",
+      "email": "dcthakurgaon@mopa.gov.bd",
+      "website": "http://www.thakurgaon.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Thakurgaon",
+      "phone": "01713-373060",
+      "email": "spthakurgaon@police.gov.bd",
+      "control_room": "01713-374060"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Thakurgaon",
+      "phone": "01713-555060",
+      "email": "csthakurgaon@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Jamalpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jamalpur",
+      "phone": "01713-000061",
+      "email": "dcjamalpur@mopa.gov.bd",
+      "website": "http://www.jamalpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jamalpur",
+      "phone": "01713-373061",
+      "email": "spjamalpur@police.gov.bd",
+      "control_room": "01713-374061"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jamalpur",
+      "phone": "01713-555061",
+      "email": "csjamalpur@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Netrakona",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Netrakona",
+      "phone": "01713-000062",
+      "email": "dcnetrakona@mopa.gov.bd",
+      "website": "http://www.netrakona.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Netrakona",
+      "phone": "01713-373062",
+      "email": "spnetrakona@police.gov.bd",
+      "control_room": "01713-374062"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Netrakona",
+      "phone": "01713-555062",
+      "email": "csnetrakona@dghs.gov.bd"
+    }
+  },
+  {
+    "district": "Sherpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sherpur",
+      "phone": "01713-000063",
+      "email": "dcsherpur@mopa.gov.bd",
+      "website": "http://www.sherpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sherpur",
+      "phone": "01713-373063",
+      "email": "spsherpur@police.gov.bd",
+      "control_room": "01713-374063"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sherpur",
+      "phone": "01713-555063",
+      "email": "cssherpur@dghs.gov.bd"
+    }
+  }
+]

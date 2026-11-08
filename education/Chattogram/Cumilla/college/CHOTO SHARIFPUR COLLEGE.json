@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105958",
+  "institution": {
+    "eiin": "105958",
+    "name": "CHOTO SHARIFPUR COLLEGE",
+    "name_bn": "ছোট শরীফপুর কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Lalmai",
+    "address": "BARAHI PUR",
+    "post_office": null,
+    "mobiles": [
+      "01721272839"
+    ],
+    "other_phones": [],
+    "email": "cspdcollege@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Cumilla",
+          "thana": "Comilla Sadar Dakshin",
+          "sources": [
+            "PDF_C",
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-lalmai",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-105958"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

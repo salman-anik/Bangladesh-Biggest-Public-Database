@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "119880",
+  "institution": {
+    "eiin": "119880",
+    "name": "ATMOOL BIRAJ UDDIN DAKHIL MADRASHA",
+    "name_bn": "আটমুল বিরাজ উদ্দিন দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Shibganj",
+    "address": "ATMOOL",
+    "post_office": "Shibganj",
+    "mobiles": [
+      "01721614882"
+    ],
+    "other_phones": [],
+    "email": "abudmadrasha@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "ATMOOL"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-shibganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-119880"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

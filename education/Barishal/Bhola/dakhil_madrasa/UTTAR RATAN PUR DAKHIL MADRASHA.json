@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101194",
+  "institution": {
+    "eiin": "101194",
+    "name": "UTTAR RATAN PUR DAKHIL MADRASHA",
+    "name_bn": "উত্তর রতনপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Bhola",
+    "thana": "Bhola Sadar",
+    "address": "RATAN PUR",
+    "post_office": "Bhola Sadar",
+    "mobiles": [
+      "01712523597"
+    ],
+    "other_phones": [],
+    "email": "urdm101194ba@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR RATANPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-bhola",
+      "thana_id": "BD-THANA-barishal-bhola-bhola-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101194"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

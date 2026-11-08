@@ -1,0 +1,50 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136207",
+                        "name":  "TANZIM HOMOUEOPATHIC MEDICAL COLLEGE \u0026 HOSPITAL",
+                        "name_bn":  "তানজিম হোমিওপ্যাথি মেডিক্যাল কলেজ ও হাসপাতাল, নারায়ণগঞ্জ।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Dhaka",
+                        "district":  "Narayanganj",
+                        "thana":  "Narayanganj Sadar",
+                        "address":  "17, SHAHID SABBIR ALAM KHANDAKER ROAD, NAYANGONJ",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01819247175",
+                                        "01715330285"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-dhaka",
+                                          "district_id":  "BD-DIST-dhaka-narayanganj",
+                                          "thana_id":  "BD-THANA-dhaka-narayanganj-narayanganj-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136207"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\dhaka\\narayanganj\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

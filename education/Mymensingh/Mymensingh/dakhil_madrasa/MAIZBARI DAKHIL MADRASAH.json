@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111600",
+  "institution": {
+    "eiin": "111600",
+    "name": "MAIZBARI DAKHIL MADRASAH",
+    "name_bn": "মাইজ বাড়ী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gaffargaon",
+    "address": "MAIZBARI",
+    "post_office": "Kandipara",
+    "mobiles": [
+      "01731425600",
+      "01726849017"
+    ],
+    "other_phones": [],
+    "email": "maizbaridm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "MAIZBARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gaffargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111600"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "title": "Bangla Quran translations",
+  "language": "bn",
+  "datasets": {
+    "word_by_word": {
+      "name": "Bangali word-by-word translation",
+      "file": "word-by-word/bangali-word-by-word-translation.json",
+      "record_count": 83664,
+      "key_format": "surah:ayah:word",
+      "value_format": "Bangla word string",
+      "coverage_note": "Four Arabic word locations are not present in the source translation: 2:181:4, 2:181:15, 8:6:5, 13:37:9. No entries were invented."
+    },
+    "verse_by_verse": {
+      "name": "Bangla verse translations",
+      "key_format": "surah:ayah",
+      "record_shape": {
+        "t": "Bangla verse translation"
+      },
+      "record_count_per_translation": 6236,
+      "translations": {
+        "rawai_al_bayan": {
+          "name": "Rawai Al-Bayan",
+          "file": "verse-by-verse/bn-rawai-al-bayan-simple.json",
+          "record_count": 6236
+        },
+        "sheikh_mujibur_rahman": {
+          "name": "Sheikh Mujibur Rahman",
+          "file": "verse-by-verse/bn-sheikh-mujibur-rahman-simple.json",
+          "record_count": 6236
+        },
+        "taisirul_quran": {
+          "name": "Taisirul Quran",
+          "file": "verse-by-verse/bn-taisirul-quran-simple.json",
+          "record_count": 6236
+        },
+        "abu_bakr_muhammad_zakaria": {
+          "name": "Dr. Abu Bakr Muhammad Zakaria",
+          "file": "verse-by-verse/dr-abu-bakr-muhammad-zakaria-simple.json",
+          "record_count": 6236
+        },
+        "fathul_majid": {
+          "name": "Fathul Majid",
+          "file": "verse-by-verse/fathul-majid-bn-simple.json",
+          "record_count": 6236
+        }
+      }
+    }
+  },
+  "notes": [
+    "Each extracted JSON preserves its original verse/word keys and translation values.",
+    "Verse keys match the Uthmani Quran verse-by-verse dataset.",
+    "Source ZIP archives were removed after extraction and verification."
+  ]
+}

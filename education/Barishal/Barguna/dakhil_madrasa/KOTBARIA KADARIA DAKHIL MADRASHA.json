@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100202",
+  "institution": {
+    "eiin": "100202",
+    "name": "KOTBARIA KADARIA DAKHIL MADRASHA",
+    "name_bn": "কোটবাড়িয়া কাদেরিয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Barguna Sadar",
+    "address": "KOTBARIA",
+    "post_office": "Barguna Sadar",
+    "mobiles": [
+      "01775210598",
+      "01717692148"
+    ],
+    "other_phones": [],
+    "email": "m100202ict@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KOTBARIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-barguna-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100202"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

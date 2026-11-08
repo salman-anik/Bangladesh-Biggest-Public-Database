@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "122226",
+  "institution": {
+    "eiin": "122226",
+    "name": "UTTAR KUTI CHANDRA KHANA BALIKA DAKHIL MADRASHA",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "thana": "Phulbari",
+    "address": "KUTI CHANDRA KHANA",
+    "post_office": "GANGAR HAT",
+    "mobiles": [
+      "01739452092"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": null,
+    "sources": [
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-kurigram",
+      "thana_id": "BD-THANA-rangpur-kurigram-phulbari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-122226"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

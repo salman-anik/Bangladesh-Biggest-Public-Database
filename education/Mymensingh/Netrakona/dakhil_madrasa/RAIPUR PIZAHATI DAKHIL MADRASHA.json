@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113063",
+  "institution": {
+    "eiin": "113063",
+    "name": "RAIPUR PIZAHATI DAKHIL MADRASHA",
+    "name_bn": "রায়পুর পিজাহাতী দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Netrakona",
+    "thana": "Kendua",
+    "address": "RAIPUR",
+    "post_office": "Kendua",
+    "mobiles": [
+      "01719089587"
+    ],
+    "other_phones": [],
+    "email": "raypurpdmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAIPUR BOARDBARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-netrakona",
+      "thana_id": "BD-THANA-mymensingh-netrakona-kendua",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113063"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,712 @@
+{
+  "Barishal": {
+    "Barguna": {
+      "college": 29,
+      "dakhil_madrasa": 91,
+      "madrasa_other": 38,
+      "other": 30,
+      "primary_school": 5,
+      "school": 177,
+      "school_and_college": 9
+    },
+    "Barishal": {
+      "college": 76,
+      "dakhil_madrasa": 144,
+      "kawmi_madrasa": 20,
+      "madrasa_other": 92,
+      "other": 75,
+      "primary_school": 12,
+      "private_university": 3,
+      "public_university": 1,
+      "school": 435,
+      "school_and_college": 28
+    },
+    "Bhola": {
+      "college": 47,
+      "dakhil_madrasa": 169,
+      "kawmi_madrasa": 7,
+      "madrasa_other": 65,
+      "other": 29,
+      "primary_school": 10,
+      "school": 270,
+      "school_and_college": 11
+    },
+    "Jhalokati": {
+      "college": 23,
+      "dakhil_madrasa": 85,
+      "kawmi_madrasa": 1,
+      "madrasa_other": 38,
+      "other": 21,
+      "primary_school": 1,
+      "school": 182,
+      "school_and_college": 15
+    },
+    "Patuakhali": {
+      "college": 60,
+      "dakhil_madrasa": 200,
+      "kawmi_madrasa": 4,
+      "madrasa_other": 67,
+      "other": 56,
+      "primary_school": 9,
+      "public_university": 1,
+      "school": 296,
+      "school_and_college": 8
+    },
+    "Pirojpur": {
+      "college": 40,
+      "dakhil_madrasa": 120,
+      "kawmi_madrasa": 7,
+      "madrasa_other": 53,
+      "other": 37,
+      "primary_school": 1,
+      "public_university": 1,
+      "school": 269,
+      "school_and_college": 10
+    }
+  },
+  "Chattogram": {
+    "Bandarban": {
+      "college": 8,
+      "dakhil_madrasa": 8,
+      "madrasa_other": 3,
+      "other": 12,
+      "primary_school": 6,
+      "private_university": 1,
+      "school": 56,
+      "school_and_college": 6
+    },
+    "Brahmanbaria": {
+      "college": 50,
+      "dakhil_madrasa": 62,
+      "madrasa_other": 28,
+      "other": 39,
+      "primary_school": 22,
+      "private_university": 1,
+      "school": 258,
+      "school_and_college": 19
+    },
+    "Chandpur": {
+      "college": 42,
+      "dakhil_madrasa": 107,
+      "kawmi_madrasa": 25,
+      "madrasa_other": 96,
+      "other": 25,
+      "primary_school": 10,
+      "public_university": 1,
+      "school": 273,
+      "school_and_college": 27
+    },
+    "Chattogram": {
+      "college": 121,
+      "dakhil_madrasa": 211,
+      "kawmi_madrasa": 75,
+      "madrasa_other": 130,
+      "other": 144,
+      "primary_school": 27,
+      "private_university": 11,
+      "public_university": 4,
+      "school": 745,
+      "school_and_college": 81
+    },
+    "Cox's Bazar": {
+      "college": 25,
+      "dakhil_madrasa": 105,
+      "madrasa_other": 40,
+      "other": 44,
+      "primary_school": 13,
+      "private_university": 1,
+      "school": 220,
+      "school_and_college": 9
+    },
+    "Cumilla": {
+      "college": 118,
+      "dakhil_madrasa": 235,
+      "kawmi_madrasa": 54,
+      "madrasa_other": 150,
+      "other": 96,
+      "primary_school": 26,
+      "private_university": 3,
+      "public_university": 1,
+      "school": 590,
+      "school_and_college": 49
+    },
+    "Feni": {
+      "college": 29,
+      "dakhil_madrasa": 82,
+      "kawmi_madrasa": 5,
+      "madrasa_other": 39,
+      "other": 25,
+      "primary_school": 8,
+      "private_university": 1,
+      "school": 192,
+      "school_and_college": 13
+    },
+    "Khagrachhari": {
+      "college": 17,
+      "dakhil_madrasa": 15,
+      "madrasa_other": 5,
+      "other": 30,
+      "primary_school": 10,
+      "school": 111,
+      "school_and_college": 3
+    },
+    "Lakshmipur": {
+      "college": 30,
+      "dakhil_madrasa": 93,
+      "kawmi_madrasa": 14,
+      "madrasa_other": 50,
+      "other": 19,
+      "primary_school": 9,
+      "school": 180,
+      "school_and_college": 13
+    },
+    "Noakhali": {
+      "college": 49,
+      "dakhil_madrasa": 116,
+      "kawmi_madrasa": 17,
+      "madrasa_other": 69,
+      "other": 59,
+      "primary_school": 11,
+      "public_university": 1,
+      "school": 319,
+      "school_and_college": 10
+    },
+    "Rangamati": {
+      "college": 18,
+      "dakhil_madrasa": 11,
+      "madrasa_other": 3,
+      "other": 36,
+      "primary_school": 12,
+      "public_university": 1,
+      "school": 138,
+      "school_and_college": 4
+    }
+  },
+  "Dhaka": {
+    "Dhaka": {
+      "college": 203,
+      "dakhil_madrasa": 55,
+      "kawmi_madrasa": 661,
+      "madrasa_other": 60,
+      "other": 485,
+      "primary_school": 68,
+      "private_university": 52,
+      "public_university": 8,
+      "school": 598,
+      "school_and_college": 207
+    },
+    "Faridpur": {
+      "college": 38,
+      "dakhil_madrasa": 54,
+      "kawmi_madrasa": 25,
+      "madrasa_other": 29,
+      "other": 47,
+      "primary_school": 8,
+      "private_university": 1,
+      "school": 250,
+      "school_and_college": 9
+    },
+    "Gazipur": {
+      "college": 72,
+      "dakhil_madrasa": 118,
+      "kawmi_madrasa": 88,
+      "madrasa_other": 63,
+      "other": 92,
+      "primary_school": 22,
+      "private_university": 2,
+      "public_university": 5,
+      "school": 493,
+      "school_and_college": 45
+    },
+    "Gopalganj": {
+      "college": 30,
+      "dakhil_madrasa": 21,
+      "kawmi_madrasa": 4,
+      "madrasa_other": 23,
+      "other": 30,
+      "primary_school": 7,
+      "public_university": 1,
+      "school": 194,
+      "school_and_college": 12
+    },
+    "Kishoreganj": {
+      "college": 46,
+      "dakhil_madrasa": 105,
+      "kawmi_madrasa": 49,
+      "madrasa_other": 44,
+      "other": 54,
+      "primary_school": 17,
+      "private_university": 2,
+      "public_university": 1,
+      "school": 263,
+      "school_and_college": 22
+    },
+    "Madaripur": {
+      "college": 21,
+      "dakhil_madrasa": 43,
+      "kawmi_madrasa": 11,
+      "madrasa_other": 26,
+      "other": 16,
+      "primary_school": 4,
+      "school": 172,
+      "school_and_college": 9
+    },
+    "Manikganj": {
+      "college": 28,
+      "dakhil_madrasa": 21,
+      "kawmi_madrasa": 15,
+      "madrasa_other": 7,
+      "other": 32,
+      "primary_school": 8,
+      "private_university": 1,
+      "school": 168,
+      "school_and_college": 5
+    },
+    "Munshiganj": {
+      "college": 19,
+      "dakhil_madrasa": 25,
+      "kawmi_madrasa": 48,
+      "madrasa_other": 13,
+      "other": 18,
+      "primary_school": 5,
+      "private_university": 1,
+      "school": 125,
+      "school_and_college": 10
+    },
+    "Narayanganj": {
+      "college": 29,
+      "dakhil_madrasa": 32,
+      "kawmi_madrasa": 98,
+      "madrasa_other": 37,
+      "other": 79,
+      "primary_school": 4,
+      "private_university": 3,
+      "school": 192,
+      "school_and_college": 27
+    },
+    "Narsingdi": {
+      "college": 65,
+      "dakhil_madrasa": 55,
+      "kawmi_madrasa": 52,
+      "madrasa_other": 33,
+      "other": 46,
+      "primary_school": 9,
+      "school": 270,
+      "school_and_college": 15
+    },
+    "Rajbari": {
+      "college": 29,
+      "dakhil_madrasa": 51,
+      "kawmi_madrasa": 5,
+      "madrasa_other": 22,
+      "other": 27,
+      "primary_school": 5,
+      "school": 145,
+      "school_and_college": 9
+    },
+    "Shariatpur": {
+      "college": 17,
+      "dakhil_madrasa": 41,
+      "kawmi_madrasa": 11,
+      "madrasa_other": 16,
+      "other": 11,
+      "primary_school": 4,
+      "private_university": 1,
+      "school": 116,
+      "school_and_college": 16
+    },
+    "Tangail": {
+      "college": 73,
+      "dakhil_madrasa": 174,
+      "kawmi_madrasa": 44,
+      "madrasa_other": 53,
+      "other": 92,
+      "primary_school": 25,
+      "public_university": 1,
+      "school": 502,
+      "school_and_college": 33
+    }
+  },
+  "Khulna": {
+    "Bagerhat": {
+      "college": 35,
+      "dakhil_madrasa": 113,
+      "kawmi_madrasa": 4,
+      "madrasa_other": 52,
+      "other": 48,
+      "primary_school": 8,
+      "school": 321,
+      "school_and_college": 12
+    },
+    "Chuadanga": {
+      "college": 20,
+      "dakhil_madrasa": 29,
+      "kawmi_madrasa": 13,
+      "madrasa_other": 11,
+      "other": 23,
+      "primary_school": 4,
+      "private_university": 1,
+      "school": 141,
+      "school_and_college": 5
+    },
+    "Jashore": {
+      "college": 92,
+      "dakhil_madrasa": 221,
+      "kawmi_madrasa": 48,
+      "madrasa_other": 87,
+      "other": 77,
+      "primary_school": 8,
+      "public_university": 1,
+      "school": 526,
+      "school_and_college": 24
+    },
+    "Jhenaidah": {
+      "college": 60,
+      "dakhil_madrasa": 92,
+      "kawmi_madrasa": 5,
+      "madrasa_other": 22,
+      "other": 31,
+      "primary_school": 5,
+      "school": 294,
+      "school_and_college": 14
+    },
+    "Khulna": {
+      "college": 76,
+      "dakhil_madrasa": 92,
+      "kawmi_madrasa": 48,
+      "madrasa_other": 35,
+      "other": 113,
+      "primary_school": 11,
+      "private_university": 4,
+      "public_university": 2,
+      "school": 403,
+      "school_and_college": 27
+    },
+    "Kushtia": {
+      "college": 57,
+      "dakhil_madrasa": 56,
+      "kawmi_madrasa": 14,
+      "madrasa_other": 18,
+      "other": 44,
+      "primary_school": 6,
+      "private_university": 3,
+      "public_university": 1,
+      "school": 306,
+      "school_and_college": 11
+    },
+    "Magura": {
+      "college": 28,
+      "dakhil_madrasa": 55,
+      "kawmi_madrasa": 14,
+      "madrasa_other": 18,
+      "other": 39,
+      "primary_school": 2,
+      "school": 167,
+      "school_and_college": 11
+    },
+    "Meherpur": {
+      "college": 14,
+      "dakhil_madrasa": 20,
+      "kawmi_madrasa": 3,
+      "madrasa_other": 6,
+      "other": 14,
+      "primary_school": 3,
+      "public_university": 1,
+      "school": 124,
+      "school_and_college": 5
+    },
+    "Narail": {
+      "college": 23,
+      "dakhil_madrasa": 33,
+      "kawmi_madrasa": 1,
+      "madrasa_other": 11,
+      "other": 14,
+      "primary_school": 2,
+      "school": 132,
+      "school_and_college": 1
+    },
+    "Satkhira": {
+      "college": 62,
+      "dakhil_madrasa": 163,
+      "kawmi_madrasa": 11,
+      "madrasa_other": 48,
+      "other": 58,
+      "primary_school": 6,
+      "school": 317,
+      "school_and_college": 13
+    }
+  },
+  "Mymensingh": {
+    "Jamalpur": {
+      "college": 56,
+      "dakhil_madrasa": 137,
+      "kawmi_madrasa": 23,
+      "madrasa_other": 41,
+      "other": 90,
+      "primary_school": 7,
+      "private_university": 1,
+      "school": 367,
+      "school_and_college": 27
+    },
+    "Mymensingh": {
+      "college": 110,
+      "dakhil_madrasa": 288,
+      "madrasa_other": 97,
+      "other": 112,
+      "primary_school": 12,
+      "public_university": 2,
+      "school": 632,
+      "school_and_college": 40
+    },
+    "Netrakona": {
+      "college": 42,
+      "dakhil_madrasa": 62,
+      "kawmi_madrasa": 38,
+      "madrasa_other": 29,
+      "other": 75,
+      "primary_school": 12,
+      "public_university": 1,
+      "school": 272,
+      "school_and_college": 8
+    },
+    "Sherpur": {
+      "college": 29,
+      "dakhil_madrasa": 83,
+      "kawmi_madrasa": 17,
+      "madrasa_other": 24,
+      "other": 52,
+      "primary_school": 8,
+      "school": 183,
+      "school_and_college": 3
+    }
+  },
+  "Overseas": {
+    "Qatar": {
+      "other": 1
+    },
+    "Saudi Arabia": {
+      "other": 1
+    },
+    "United Arab Emirates": {
+      "other": 2
+    }
+  },
+  "Rajshahi": {
+    "Bogura": {
+      "college": 84,
+      "dakhil_madrasa": 224,
+      "kawmi_madrasa": 9,
+      "madrasa_other": 86,
+      "other": 139,
+      "primary_school": 12,
+      "private_university": 1,
+      "school": 453,
+      "school_and_college": 38
+    },
+    "Chapai Nawabganj": {
+      "college": 50,
+      "dakhil_madrasa": 96,
+      "madrasa_other": 35,
+      "other": 47,
+      "primary_school": 1,
+      "private_university": 1,
+      "school": 242,
+      "school_and_college": 10
+    },
+    "Joypurhat": {
+      "college": 27,
+      "dakhil_madrasa": 84,
+      "madrasa_other": 28,
+      "other": 45,
+      "primary_school": 4,
+      "school": 157,
+      "school_and_college": 6
+    },
+    "Naogaon": {
+      "college": 58,
+      "dakhil_madrasa": 203,
+      "kawmi_madrasa": 8,
+      "madrasa_other": 75,
+      "other": 87,
+      "primary_school": 7,
+      "public_university": 1,
+      "school": 434,
+      "school_and_college": 29
+    },
+    "Natore": {
+      "college": 69,
+      "dakhil_madrasa": 78,
+      "kawmi_madrasa": 7,
+      "madrasa_other": 26,
+      "other": 91,
+      "primary_school": 6,
+      "private_university": 2,
+      "school": 296,
+      "school_and_college": 23
+    },
+    "Pabna": {
+      "college": 61,
+      "dakhil_madrasa": 138,
+      "kawmi_madrasa": 7,
+      "madrasa_other": 41,
+      "other": 85,
+      "primary_school": 18,
+      "public_university": 1,
+      "school": 302,
+      "school_and_college": 37
+    },
+    "Rajshahi": {
+      "college": 137,
+      "dakhil_madrasa": 143,
+      "kawmi_madrasa": 8,
+      "madrasa_other": 56,
+      "other": 190,
+      "primary_school": 7,
+      "private_university": 3,
+      "public_university": 2,
+      "school": 551,
+      "school_and_college": 39
+    },
+    "Sirajganj": {
+      "college": 90,
+      "dakhil_madrasa": 155,
+      "kawmi_madrasa": 5,
+      "madrasa_other": 46,
+      "other": 105,
+      "primary_school": 9,
+      "private_university": 1,
+      "public_university": 1,
+      "school": 376,
+      "school_and_college": 21
+    }
+  },
+  "Rangpur": {
+    "Dinajpur": {
+      "college": 99,
+      "dakhil_madrasa": 220,
+      "kawmi_madrasa": 4,
+      "madrasa_other": 80,
+      "other": 95,
+      "primary_school": 14,
+      "public_university": 1,
+      "school": 669,
+      "school_and_college": 38
+    },
+    "Gaibandha": {
+      "college": 57,
+      "dakhil_madrasa": 169,
+      "madrasa_other": 45,
+      "other": 65,
+      "primary_school": 7,
+      "school": 402,
+      "school_and_college": 25
+    },
+    "Kurigram": {
+      "college": 66,
+      "dakhil_madrasa": 176,
+      "madrasa_other": 48,
+      "other": 57,
+      "primary_school": 14,
+      "public_university": 1,
+      "school": 368,
+      "school_and_college": 22
+    },
+    "Lalmonirhat": {
+      "college": 35,
+      "dakhil_madrasa": 62,
+      "kawmi_madrasa": 4,
+      "madrasa_other": 19,
+      "other": 50,
+      "primary_school": 7,
+      "school": 206,
+      "school_and_college": 24
+    },
+    "Nilphamari": {
+      "college": 50,
+      "dakhil_madrasa": 106,
+      "madrasa_other": 41,
+      "other": 57,
+      "primary_school": 6,
+      "private_university": 1,
+      "school": 283,
+      "school_and_college": 47
+    },
+    "Panchagarh": {
+      "college": 29,
+      "dakhil_madrasa": 62,
+      "madrasa_other": 16,
+      "other": 33,
+      "primary_school": 4,
+      "school": 291,
+      "school_and_college": 11
+    },
+    "Rangpur": {
+      "college": 75,
+      "dakhil_madrasa": 188,
+      "kawmi_madrasa": 9,
+      "madrasa_other": 63,
+      "other": 93,
+      "primary_school": 3,
+      "private_university": 1,
+      "public_university": 1,
+      "school": 471,
+      "school_and_college": 58
+    },
+    "Thakurgaon": {
+      "college": 45,
+      "dakhil_madrasa": 95,
+      "kawmi_madrasa": 2,
+      "madrasa_other": 31,
+      "other": 90,
+      "primary_school": 5,
+      "school": 381,
+      "school_and_college": 15
+    }
+  },
+  "Sylhet": {
+    "Habiganj": {
+      "college": 33,
+      "dakhil_madrasa": 52,
+      "kawmi_madrasa": 20,
+      "madrasa_other": 15,
+      "other": 23,
+      "primary_school": 25,
+      "public_university": 1,
+      "school": 168,
+      "school_and_college": 17
+    },
+    "Maulvibazar": {
+      "college": 30,
+      "dakhil_madrasa": 52,
+      "kawmi_madrasa": 10,
+      "madrasa_other": 26,
+      "other": 22,
+      "primary_school": 11,
+      "school": 201,
+      "school_and_college": 19
+    },
+    "Sunamganj": {
+      "college": 35,
+      "dakhil_madrasa": 70,
+      "kawmi_madrasa": 6,
+      "madrasa_other": 25,
+      "other": 22,
+      "primary_school": 25,
+      "public_university": 1,
+      "school": 227,
+      "school_and_college": 26
+    },
+    "Sylhet": {
+      "college": 76,
+      "dakhil_madrasa": 111,
+      "kawmi_madrasa": 32,
+      "madrasa_other": 55,
+      "other": 77,
+      "primary_school": 14,
+      "private_university": 5,
+      "public_university": 2,
+      "school": 334,
+      "school_and_college": 71
+    }
+  }
+}

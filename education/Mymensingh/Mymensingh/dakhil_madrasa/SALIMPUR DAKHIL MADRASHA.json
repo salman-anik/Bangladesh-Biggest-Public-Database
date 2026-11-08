@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112249",
+  "institution": {
+    "eiin": "112249",
+    "name": "SALIMPUR DAKHIL MADRASHA",
+    "name_bn": "ছলিমপুর দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Trishal",
+    "address": "SALIMPUR",
+    "post_office": "Trishal",
+    "mobiles": [
+      "01726872465",
+      "01917338706"
+    ],
+    "other_phones": [],
+    "email": "mm112249d@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-trishal",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-112249"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "137604",
+  "institution": {
+    "eiin": "137604",
+    "name": "DEMRA IDEAL COLLEGE",
+    "name_bn": "ডেমরা আইডিয়াল কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Demra",
+    "address": "MOLLA TOWER, AMULIA ROAD",
+    "post_office": null,
+    "mobiles": [
+      "01706572841",
+      "01706572842"
+    ],
+    "other_phones": [],
+    "email": "demraidealcollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-demra",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-137604"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

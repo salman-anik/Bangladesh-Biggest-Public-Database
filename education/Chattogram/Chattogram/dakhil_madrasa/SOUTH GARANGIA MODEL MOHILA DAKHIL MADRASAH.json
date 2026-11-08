@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105111",
+  "institution": {
+    "eiin": "105111",
+    "name": "SOUTH GARANGIA MODEL MOHILA DAKHIL MADRASAH",
+    "name_bn": "দক্ষিণ গারাংগিয়া আদর্শ মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Satkania",
+    "address": "GARANGIA",
+    "post_office": "Lohagara",
+    "mobiles": [
+      "01813943523"
+    ],
+    "other_phones": [],
+    "email": "southgarangiammdm105111@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "GARANGIYA"
+      ],
+      "post_offices": [
+        "ALUAR GHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-satkania",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105111"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

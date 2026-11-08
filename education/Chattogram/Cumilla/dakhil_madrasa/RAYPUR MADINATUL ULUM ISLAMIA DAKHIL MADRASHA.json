@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "eiin": "105948",
+  "institution": {
+    "eiin": "105948",
+    "name": "RAYPUR MADINATUL ULUM ISLAMIA DAKHIL MADRASHA",
+    "name_bn": "রাইপুর মদিনাতুল উলুম ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "thana": "Lalmai",
+    "address": "1 NO BAGMARA",
+    "post_office": "Laksam",
+    "mobiles": [
+      "01818321645"
+    ],
+    "other_phones": [],
+    "email": "raipurmidm11880@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HAZATKHOLA"
+      ],
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Cumilla",
+          "thana": "Comilla Sadar Dakshin",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-cumilla",
+      "thana_id": "BD-THANA-chattogram-cumilla-lalmai",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-105948"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

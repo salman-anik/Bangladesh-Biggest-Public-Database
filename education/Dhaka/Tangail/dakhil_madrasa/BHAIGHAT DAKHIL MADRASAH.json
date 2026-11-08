@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114440",
+  "institution": {
+    "eiin": "114440",
+    "name": "BHAIGHAT DAKHIL MADRASAH",
+    "name_bn": "ভাইঘাট দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Dhanbari",
+    "address": "DARIRAMPUR",
+    "post_office": "Dhonbari",
+    "mobiles": [
+      "01925493078"
+    ],
+    "other_phones": [],
+    "email": "bhaighat114440@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BHAIGHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-dhanbari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114440"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

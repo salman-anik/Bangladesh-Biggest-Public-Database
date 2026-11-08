@@ -1,0 +1,78 @@
+{
+  "total": 545,
+  "districts": {
+    "Pabna": {
+      "total": 98,
+      "status_breakdown": {
+        "Active Member": 94,
+        "Defaulter": 4
+      }
+    },
+    "Sirajganj": {
+      "total": 97,
+      "status_breakdown": {
+        "Active Member": 82,
+        "Transferred": 9,
+        "Defaulter": 6
+      }
+    },
+    "Joypurhat": {
+      "total": 32,
+      "status_breakdown": {
+        "Active Member": 28,
+        "Transferred": 2,
+        "Defaulter": 2
+      }
+    },
+    "Chapai Nawabganj": {
+      "total": 37,
+      "status_breakdown": {
+        "Active Member": 33,
+        "Transferred": 2,
+        "Defaulter": 2
+      }
+    },
+    "Bogura": {
+      "total": 99,
+      "status_breakdown": {
+        "Active Member": 82,
+        "Dead": 1,
+        "Transferred": 7,
+        "Defaulter": 8,
+        "Inactive": 1
+      }
+    },
+    "Natore": {
+      "total": 58,
+      "status_breakdown": {
+        "Active Member": 54,
+        "Defaulter": 3,
+        "Transferred": 1
+      }
+    },
+    "Naogaon": {
+      "total": 61,
+      "status_breakdown": {
+        "Active Member": 55,
+        "Defaulter": 6
+      }
+    },
+    "Rajshahi": {
+      "total": 63,
+      "status_breakdown": {
+        "Active Member": 49,
+        "Defaulter": 5,
+        "Transferred": 8,
+        "Suspended": 1
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 477,
+    "Defaulter": 36,
+    "Dead": 1,
+    "Transferred": 29,
+    "Suspended": 1,
+    "Inactive": 1
+  }
+}

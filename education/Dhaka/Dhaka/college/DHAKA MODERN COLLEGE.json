@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108208",
+  "institution": {
+    "eiin": "108208",
+    "name": "DHAKA MODERN COLLEGE",
+    "name_bn": "ঢাকা মডার্ন কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Shah Ali",
+    "address": "185 DOKKIN BISIL",
+    "post_office": "Mirpur",
+    "mobiles": [
+      "01557371608"
+    ],
+    "other_phones": [],
+    "email": "principaldmco@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Dhaka",
+          "district": "Dhaka",
+          "thana": "Mirpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-shah-ali",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-108208"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

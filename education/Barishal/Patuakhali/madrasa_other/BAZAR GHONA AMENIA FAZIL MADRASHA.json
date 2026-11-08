@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102549",
+  "institution": {
+    "eiin": "102549",
+    "name": "BAZAR GHONA AMENIA FAZIL MADRASHA",
+    "name_bn": "বাজারঘোনা আমিনিয়া ফাজিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Patuakhali Sadar",
+    "address": "BAZAR GHONA",
+    "post_office": "Patuakhali Sadar",
+    "mobiles": [
+      "01739062212"
+    ],
+    "other_phones": [],
+    "email": "bazarghonaafm@gmail.com",
+    "management": "LOCAL GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BARICHBUNIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-patuakhali-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102549"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

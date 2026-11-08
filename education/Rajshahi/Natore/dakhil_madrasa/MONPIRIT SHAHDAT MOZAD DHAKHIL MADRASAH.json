@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123957",
+  "institution": {
+    "eiin": "123957",
+    "name": "MONPIRIT SHAHDAT MOZAD DHAKHIL MADRASAH",
+    "name_bn": "মনপিরীত শাহাদত মোজাদ্দেদীয়া দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "thana": "Baraigram",
+    "address": "MONPIRIT",
+    "post_office": "Harua",
+    "mobiles": [
+      "01721802620"
+    ],
+    "other_phones": [],
+    "email": "m_123957@yahoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "LAXMI CHAMARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-natore",
+      "thana_id": "BD-THANA-rajshahi-natore-baraigram",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123957"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

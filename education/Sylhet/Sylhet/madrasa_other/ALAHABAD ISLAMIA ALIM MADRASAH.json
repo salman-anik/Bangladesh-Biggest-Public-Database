@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "eiin": "130210",
+  "institution": {
+    "eiin": "130210",
+    "name": "ALAHABAD ISLAMIA ALIM MADRASAH",
+    "name_bn": "এলাহাবাদ ইসলামিয়া আলিম মদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Bishwanath",
+    "address": "TELIKUNA",
+    "post_office": "Islamabad",
+    "mobiles": [
+      "01712656822"
+    ],
+    "other_phones": [],
+    "email": "alahab1970@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-bishwanath",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-130210"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111125",
+  "institution": {
+    "eiin": "111125",
+    "name": "PAISA KARAMATIA ALIM MADRASAH",
+    "name_bn": "পয়সা কারামাতিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "thana": "Lohajang",
+    "address": "PAISA",
+    "post_office": "Ichapur",
+    "mobiles": [
+      "01721810617",
+      "01718291432"
+    ],
+    "other_phones": [],
+    "email": "paisakaramatiamadrasah@yhoo.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KHIDIRPARA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-munshiganj",
+      "thana_id": "BD-THANA-dhaka-munshiganj-lohajang",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111125"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

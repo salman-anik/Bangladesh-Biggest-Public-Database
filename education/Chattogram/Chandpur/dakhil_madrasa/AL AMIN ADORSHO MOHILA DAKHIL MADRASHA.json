@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "103700",
+  "institution": {
+    "eiin": "103700",
+    "name": "AL AMIN ADORSHO MOHILA DAKHIL MADRASHA",
+    "name_bn": "আল-আমিন আদশ মহিলা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "thana": "Haim Char",
+    "address": "PURBO CHAR KRISHNAPUR",
+    "post_office": "Gandamara",
+    "mobiles": [
+      "01940581638"
+    ],
+    "other_phones": [],
+    "email": "alaminmadrasa@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "AGLI BAZAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chandpur",
+      "thana_id": "BD-THANA-chattogram-chandpur-haim-char",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-103700"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

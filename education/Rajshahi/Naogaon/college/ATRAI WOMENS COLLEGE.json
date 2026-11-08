@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123086",
+  "institution": {
+    "eiin": "123086",
+    "name": "ATRAI WOMENS COLLEGE",
+    "name_bn": "আত্রাই মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Pass)",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Atrai",
+    "address": "PAR KASUNDA",
+    "post_office": "Ahsanganj",
+    "mobiles": [
+      "01740933829"
+    ],
+    "other_phones": [],
+    "email": "atraimohilacollege@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-atrai",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-123086"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "title": "Daily worship and supplications",
+  "datasets": {
+    "adhan": {
+      "name": "Adhan",
+      "file": "adhan.json",
+      "record_count": 15
+    },
+    "istighfar": {
+      "name": "Istighfar",
+      "file": "istighfar.json",
+      "record_count": 5
+    },
+    "remembrance": {
+      "name": "Remembrance and adhkar",
+      "file": "remembrance.json",
+      "record_count": 13
+    },
+    "azkar": {
+      "name": "Daily adhkar",
+      "file": "azkar.json",
+      "category_count": 8
+    },
+    "hisn_al_muslim": {
+      "name": "Hisn al-Muslim supplications",
+      "file": "hisn-al-muslim.json",
+      "section_count": 134
+    },
+    "night_prayer": {
+      "name": "Night prayer",
+      "file": "night-prayer.json",
+      "section_count": 6
+    },
+    "prayers": {
+      "name": "Prayer and occasion supplications",
+      "file": "prayers.json",
+      "category_count": 6
+    }
+  },
+  "notes": [
+    "Source records and translations are preserved as supplied.",
+    "Repeated supplications across collections are retained because contexts and recitation guidance may differ."
+  ]
+}

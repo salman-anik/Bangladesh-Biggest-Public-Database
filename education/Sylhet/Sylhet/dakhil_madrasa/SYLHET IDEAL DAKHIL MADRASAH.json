@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "131539",
+  "institution": {
+    "eiin": "131539",
+    "name": "SYLHET IDEAL DAKHIL MADRASAH",
+    "name_bn": "সিলেট আইডিয়াল দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "thana": "Sylhet Sadar",
+    "address": "15",
+    "post_office": "Amla Sadarpur",
+    "mobiles": [
+      "01719740590",
+      "01712687565"
+    ],
+    "other_phones": [],
+    "email": "sylhetidealmadrasah@gmail.com",
+    "management": "OTHER",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION-SEPARATE SHIFT",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "SYLHET CADET MADRASAH"
+      ],
+      "post_offices": [
+        "SADAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-sylhet",
+      "district_id": "BD-DIST-sylhet-sylhet",
+      "thana_id": "BD-THANA-sylhet-sylhet-sylhet-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-131539"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

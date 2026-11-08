@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "110902",
+  "institution": {
+    "eiin": "110902",
+    "name": "BAGHUTIA ALIM MADRASHA",
+    "name_bn": "বাঘুটিয়া আলিম মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "thana": "Daulatpur",
+    "address": "BAGHUTIA",
+    "post_office": "Shibaloy",
+    "mobiles": [
+      "01713575142",
+      "01745095785"
+    ],
+    "other_phones": [],
+    "email": "meiinno110902@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "TEA GARDEN",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR BAGHUTIA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-manikganj",
+      "thana_id": "BD-THANA-dhaka-manikganj-daulatpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-110902"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

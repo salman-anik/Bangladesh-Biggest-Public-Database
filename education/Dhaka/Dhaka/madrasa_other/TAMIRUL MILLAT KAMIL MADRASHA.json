@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108478",
+  "institution": {
+    "eiin": "108478",
+    "name": "TAMIRUL MILLAT KAMIL MADRASHA",
+    "name_bn": "তামিরুল মিল্লাত কামিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kamil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Jatrabari",
+    "address": "315 MIRHAZIRBAG",
+    "post_office": "GENDARIA",
+    "mobiles": [
+      "01715888547"
+    ],
+    "other_phones": [],
+    "email": null,
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": null,
+    "sources": [
+      "E26",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "315 MIRHAZARIBAG"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-jatrabari",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108478"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

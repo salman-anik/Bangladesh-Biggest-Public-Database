@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "eiin": "112882",
+  "institution": {
+    "eiin": "112882",
+    "name": "JOYNAGAR DEGREE COLLEGE",
+    "name_bn": "জয়নগর ডিগ্রী কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Degree (Honors)",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "thana": "Shibpur",
+    "address": "JOYNAGAR",
+    "post_office": "Joynagar",
+    "mobiles": [
+      "01715122697"
+    ],
+    "other_phones": [],
+    "email": "joynagar.dc@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-narsingdi",
+      "thana_id": "BD-THANA-dhaka-narsingdi-shibpur",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-112882"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

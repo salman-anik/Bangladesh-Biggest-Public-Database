@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "102312",
+  "institution": {
+    "eiin": "102312",
+    "name": "EAST NALUABAGI DAKHIL MADRASHA",
+    "name_bn": "পূর্ব নলুয়াবাগী দাখিল মাাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "thana": "Galachipa",
+    "address": "NALUABAGI",
+    "post_office": "Galachipa",
+    "mobiles": [
+      "01720553522"
+    ],
+    "other_phones": [],
+    "email": "pnm102312@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "NALUABAGI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-patuakhali",
+      "thana_id": "BD-THANA-barishal-patuakhali-galachipa",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-102312"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

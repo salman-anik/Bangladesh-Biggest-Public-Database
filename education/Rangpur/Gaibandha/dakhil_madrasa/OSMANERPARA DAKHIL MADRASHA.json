@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "121600",
+  "institution": {
+    "eiin": "121600",
+    "name": "OSMANERPARA DAKHIL MADRASHA",
+    "name_bn": "ওসমানের পাড়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Gaibandha",
+    "thana": "Saghata",
+    "address": "OSMANERPARA",
+    "post_office": "Mahimaganj",
+    "mobiles": [
+      "01773202759",
+      "01719825615"
+    ],
+    "other_phones": [],
+    "email": "m121600m@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-gaibandha",
+      "thana_id": "BD-THANA-rangpur-gaibandha-saghata",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-121600"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

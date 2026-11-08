@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "132124",
+  "institution": {
+    "eiin": "132124",
+    "name": "BOGRA GOVERNMENT COLLEGE",
+    "name_bn": "বগুড়া সরকারি কলেজ,বগুড়া",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "thana": "Bogra Sadar",
+    "address": "BOGRA",
+    "post_office": "Bogura Sadar",
+    "mobiles": [
+      "01735962767"
+    ],
+    "other_phones": [],
+    "email": "principalgcibogra@gmail.com",
+    "management": "GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "DISTRICT SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_C",
+      "PDF_E"
+    ],
+    "alternates": {
+      "names": [
+        "GOVT.COMMERCIAL INSTITUTE, BOGRA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-bogura",
+      "thana_id": "BD-THANA-rajshahi-bogura-bogra-sadar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-132124"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

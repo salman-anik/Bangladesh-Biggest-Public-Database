@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "eiin": "134671",
+  "institution": {
+    "eiin": "134671",
+    "name": "RAUHA DAKHIL MADRASAH",
+    "name_bn": null,
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "thana": "Sherpur Sadar",
+    "address": "RAUHA",
+    "post_office": "Gonopaddi",
+    "mobiles": [
+      "01917524291"
+    ],
+    "other_phones": [],
+    "email": "rauhadakhilmadrasha@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "RAUHA"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-sherpur",
+      "thana_id": "BD-THANA-mymensingh-sherpur-sherpur-sadar",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-134671"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

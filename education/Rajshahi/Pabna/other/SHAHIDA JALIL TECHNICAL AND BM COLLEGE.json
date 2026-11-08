@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "136467",
+                        "name":  "SHAHIDA JALIL TECHNICAL AND BM COLLEGE",
+                        "name_bn":  "সাহিদা জলিল টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Rajshahi",
+                        "district":  "Pabna",
+                        "thana":  "Sujanagar",
+                        "address":  "NARSINGHPUR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01716569753"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-rajshahi",
+                                          "district_id":  "BD-DIST-rajshahi-pabna",
+                                          "thana_id":  "BD-THANA-rajshahi-pabna-sujanagar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-136467"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\rajshahi\\pabna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

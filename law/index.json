@@ -1,0 +1,18 @@
+{
+  "title": "Bangladesh Legal Code, Constitution & Statutes Database",
+  "description": "Comprehensive legal compendium covering the Constitution of the People's Republic of Bangladesh, The Penal Code 1860, The Code of Criminal Procedure (CrPC) 1898, catalog of major legislative acts, and a glossary of legal maxims.",
+  "version": "2.0.0",
+  "total_constitution_parts": 7,
+  "total_penal_code_sections": 49,
+  "total_crpc_provisions": 14,
+  "total_major_acts": 16,
+  "total_legal_terms": 13,
+  "files": {
+    "constitution": "constitution.json",
+    "penal_code": "penal_code_1860.json",
+    "crpc": "crpc_1898.json",
+    "major_acts": "major_acts_catalog.json",
+    "legal_terms": "legal_terms_glossary.json",
+    "viewer": "index.html"
+  }
+}

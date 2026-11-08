@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104256",
+  "institution": {
+    "eiin": "104256",
+    "name": "MADRASAH-E TAYABIA ISLAMIA SUNNIA FAZIL MADRASAH",
+    "name_bn": "মাদরাসা-এ তৈয়্যবিয়া ইসলামিয়া সুন্নিয়া ফাযিল",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Chittagong Port",
+    "address": "DAKSHIN MADDHAM HALISHAHAR",
+    "post_office": "Bagabandar",
+    "mobiles": [
+      "01554357218"
+    ],
+    "other_phones": [],
+    "email": "tayabia.m@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BANDAR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-chittagong-port",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104256"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

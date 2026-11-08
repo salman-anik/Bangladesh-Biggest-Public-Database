@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "140212",
+                        "name":  "HOBIGANJ AGRICULTURAL UNIVERSITY",
+                        "name_bn":  "হবিগঞ্জ কৃষি বিশ্ববিদ্যালয়",
+                        "institute_type":  "PUBLIC UNIVERSITY",
+                        "education_level":  "Masters",
+                        "division":  "Sylhet",
+                        "district":  "Habiganj",
+                        "thana":  "Habiganj Sadar",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01332832644"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  "vc@hau.ac.bd",
+                        "management":  "GOVERNMENT",
+                        "is_mpo":  null,
+                        "institute_for_whom":  "CO-EDUCATION",
+                        "geographical_position":  "PLAIN LAND",
+                        "area_status":  "UPAZILA SADAR NOT POURA",
+                        "survey_year":  2024,
+                        "sources":  [
+                                        "E26",
+                                        "UPU"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-sylhet",
+                                          "district_id":  "BD-DIST-sylhet-habiganj",
+                                          "thana_id":  "BD-THANA-sylhet-habiganj-habiganj-sadar",
+                                          "category_id":  "BD-CAT-PUBLIC-UNIVERSITIES",
+                                          "institution_id":  "BD-INS-140212"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\sylhet\\habiganj\\public-universities\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

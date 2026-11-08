@@ -1,0 +1,100 @@
+{
+  "total": 1315,
+  "districts": {
+    "Lakshmipur": {
+      "total": 172,
+      "status_breakdown": {
+        "Active Member": 146,
+        "Defaulter": 10,
+        "Transferred": 15,
+        "Dead": 1
+      }
+    },
+    "Cumilla": {
+      "total": 332,
+      "status_breakdown": {
+        "Active Member": 301,
+        "Defaulter": 17,
+        "Transferred": 13,
+        "Sanad Suspended": 1
+      }
+    },
+    "Noakhali": {
+      "total": 138,
+      "status_breakdown": {
+        "Active Member": 122,
+        "Dead": 1,
+        "Defaulter": 6,
+        "Transferred": 9
+      }
+    },
+    "Chandpur": {
+      "total": 188,
+      "status_breakdown": {
+        "Active Member": 163,
+        "Transferred": 13,
+        "Defaulter": 12
+      }
+    },
+    "Brahmanbaria": {
+      "total": 189,
+      "status_breakdown": {
+        "Active Member": 166,
+        "Defaulter": 10,
+        "Transferred": 13
+      }
+    },
+    "Feni": {
+      "total": 88,
+      "status_breakdown": {
+        "Active Member": 78,
+        "Defaulter": 5,
+        "Transferred": 5
+      }
+    },
+    "Chattogram": {
+      "total": 109,
+      "status_breakdown": {
+        "Active Member": 89,
+        "Defaulter": 14,
+        "Transferred": 6
+      }
+    },
+    "Rangamati": {
+      "total": 5,
+      "status_breakdown": {
+        "Active Member": 5
+      }
+    },
+    "Cox's Bazar": {
+      "total": 75,
+      "status_breakdown": {
+        "Active Member": 51,
+        "Defaulter": 12,
+        "Transferred": 12
+      }
+    },
+    "Khagrachhari": {
+      "total": 11,
+      "status_breakdown": {
+        "Active Member": 6,
+        "Transferred": 5
+      }
+    },
+    "Bandarban": {
+      "total": 8,
+      "status_breakdown": {
+        "Defaulter": 1,
+        "Active Member": 6,
+        "Transferred": 1
+      }
+    }
+  },
+  "status_breakdown": {
+    "Active Member": 1133,
+    "Dead": 2,
+    "Defaulter": 87,
+    "Transferred": 92,
+    "Sanad Suspended": 1
+  }
+}

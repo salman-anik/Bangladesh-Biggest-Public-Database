@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "134215",
+  "institution": {
+    "eiin": "134215",
+    "name": "FAZLUL HAQUE CHOUDHURY MOHILA COLLEGE",
+    "name_bn": "ফজলুল হক চৌধুরৗ মহিলা কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Tarakanda",
+    "address": "TARAKANDA",
+    "post_office": "Tarakanda",
+    "mobiles": [
+      "01713587612"
+    ],
+    "other_phones": [],
+    "email": "hossan7290@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR NOT POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Mymensingh",
+          "district": "Mymensingh",
+          "thana": "Phulpur",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-tarakanda",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-134215"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

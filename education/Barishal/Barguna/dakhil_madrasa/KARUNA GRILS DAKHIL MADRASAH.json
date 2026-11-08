@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "100289",
+  "institution": {
+    "eiin": "100289",
+    "name": "KARUNA GRILS DAKHIL MADRASAH",
+    "name_bn": "করুনা বালিকা দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barguna",
+    "thana": "Betagi",
+    "address": "KARUNA",
+    "post_office": "Darul Ulam",
+    "mobiles": [
+      "01719661452"
+    ],
+    "other_phones": [],
+    "email": "kgdmb100289@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "GIRLS",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "DARUL ULUM"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barguna",
+      "thana_id": "BD-THANA-barishal-barguna-betagi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-100289"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

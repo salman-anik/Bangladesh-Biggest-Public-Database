@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "120000",
+  "institution": {
+    "eiin": "120000",
+    "name": "KATLA DAKHIL MADRASHA",
+    "name_bn": "কাটলা ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "thana": "Birampur",
+    "address": "KATLA",
+    "post_office": "Birampur",
+    "mobiles": [
+      "01799184543",
+      "01721009898"
+    ],
+    "other_phones": [],
+    "email": "katladmad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KATLAHAT"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rangpur",
+      "district_id": "BD-DIST-rangpur-dinajpur",
+      "thana_id": "BD-THANA-rangpur-dinajpur-birampur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-120000"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

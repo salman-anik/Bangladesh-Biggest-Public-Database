@@ -1,0 +1,48 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "139634",
+                        "name":  "INSTITUTE OF LIVESTOCK SCIENCE AND TECHNOLOGY DUMURIA KHULNA",
+                        "name_bn":  "ইনস্টিটিউট অব লাইভস্টক সায়েন্স এন্ড টেকনোলজি, ডুমুরিয়া, খুলনা।",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Khulna",
+                        "thana":  "Dumuria",
+                        "address":  null,
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01324289874"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-khulna",
+                                          "thana_id":  "BD-THANA-khulna-khulna-dumuria",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-139634"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\khulna\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

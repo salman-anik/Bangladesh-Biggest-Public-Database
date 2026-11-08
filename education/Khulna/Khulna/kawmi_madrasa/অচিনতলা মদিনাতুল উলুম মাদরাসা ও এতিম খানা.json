@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "eiin": "qawmi_bd_0002",
+  "institution": {
+    "eiin": "qawmi_bd_0002",
+    "name": "অচিনতলা মদিনাতুল উলুম মাদরাসা ও এতিম খানা",
+    "name_bn": "অচিনতলা মদিনাতুল উলুম মাদরাসা ও এতিম খানা",
+    "institute_type": "MADRASHA",
+    "education_level": "Kawmi",
+    "division": "Khulna",
+    "district": "Khulna",
+    "thana": "রূপসা",
+    "address": "বাগমারা",
+    "post_office": "",
+    "mobiles": [],
+    "other_phones": [],
+    "email": "",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "",
+    "area_status": "",
+    "survey_year": 2026,
+    "sources": [
+      "S11",
+      "QawmiVerse"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-khulna",
+      "district_id": "BD-DIST-khulna-khulna",
+      "thana_id": "",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-qawmi_bd_0002"
+    },
+    "madrasa_category": "Kawmi",
+    "affiliation_code": "৫/১৪০৪",
+    "verification_status": "source_transcribed_not_independently_verified",
+    "gender": "unspecified",
+    "contact_research_status": "searched_no_public_number_found",
+    "contact_sources": [
+      {
+        "url": "https://madarisbd.com/madrasas?district=খুলনা",
+        "source_name": "Public madrasa/board listing",
+        "match_basis": "Institution name and locality match the directory record",
+        "checked_on": "2026-11-01",
+        "source_note": "Madaris BD Khulna madrasa directory; exact institution listing found, no phone number displayed in retrieved listing."
+      }
+    ],
+    "contact_notes": "A name/locality search and relevant directory/board listing were checked; no publicly listed phone number was found in the retrieved result. This does not prove that no number exists."
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

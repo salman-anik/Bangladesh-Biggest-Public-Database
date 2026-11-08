@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "eiin": "113410",
+  "institution": {
+    "eiin": "113410",
+    "name": "SANGRAM PUR DAKHIL MADRASAH",
+    "name_bn": "সংগ্রাম পুর দাখিল মাদরাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "thana": "Kalukhali",
+    "address": "SANGRAMPUR",
+    "post_office": "Ratandia",
+    "mobiles": [
+      "01712392180"
+    ],
+    "other_phones": [],
+    "email": "m113410sdm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "HAT MADAPUR"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-rajbari",
+      "thana_id": "BD-THANA-dhaka-rajbari-kalukhali",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-113410"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

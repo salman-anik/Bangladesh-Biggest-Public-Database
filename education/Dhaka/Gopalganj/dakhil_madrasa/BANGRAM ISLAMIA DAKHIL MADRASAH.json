@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "109635",
+  "institution": {
+    "eiin": "109635",
+    "name": "BANGRAM ISLAMIA DAKHIL MADRASAH",
+    "name_bn": "বনগ্রাম ইসলামিয়া দাখিল মাদ্রসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Gopalganj",
+    "thana": "Muksudpur",
+    "address": "MADDHYA BANGRAM",
+    "post_office": "Batkiamari",
+    "mobiles": [
+      "01721135644",
+      "01718771319"
+    ],
+    "other_phones": [],
+    "email": "bidmadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BATIKAMARI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-gopalganj",
+      "thana_id": "BD-THANA-dhaka-gopalganj-muksudpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-109635"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

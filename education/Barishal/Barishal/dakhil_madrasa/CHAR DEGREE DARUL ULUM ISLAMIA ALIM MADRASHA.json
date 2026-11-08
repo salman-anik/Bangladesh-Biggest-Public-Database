@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "101004",
+  "institution": {
+    "eiin": "101004",
+    "name": "CHAR DEGREE DARUL ULUM ISLAMIA ALIM MADRASHA",
+    "name_bn": "চরডিক্রী দারুল উলুম ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Barishal",
+    "district": "Barishal",
+    "thana": "Muladi",
+    "address": "CHAR DEGREE",
+    "post_office": "Muladi",
+    "mobiles": [
+      "01722881078",
+      "01715635891"
+    ],
+    "other_phones": [],
+    "email": "cddumad@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "CHAR DECREE"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-barishal",
+      "district_id": "BD-DIST-barishal-barishal",
+      "thana_id": "BD-THANA-barishal-barishal-muladi",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-101004"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

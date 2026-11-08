@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "eiin": "108103",
+  "institution": {
+    "eiin": "108103",
+    "name": "EQURIA MOHAMMADIA ISLAMIA DAKIL MADRASHA",
+    "name_bn": "ইকুরিয়া মোহাম্মাদীয়া ইসলামিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Keraniganj",
+    "address": "EQURIA",
+    "post_office": "Dhaka Jute Mills",
+    "mobiles": [
+      "01716891561",
+      "01710825299"
+    ],
+    "other_phones": [],
+    "email": "iquriyamohammadiyadak@gmail.com",
+    "management": "CHRISTIAN MISSIONARY",
+    "is_mpo": "NOT_APPLICABLE",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-keraniganj",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-108103"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

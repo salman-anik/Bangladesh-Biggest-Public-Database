@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "eiin": "123387",
+  "institution": {
+    "eiin": "123387",
+    "name": "MIRZAPUR ISLAMIA ALIM MADRASHA",
+    "name_bn": "মির্জাপুর ইসলামিয়া আলিম মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Alim",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "thana": "Mahadebpur",
+    "address": "MIRZAPUR",
+    "post_office": "Mahadebpur",
+    "mobiles": [
+      "01768938291",
+      "01743254837",
+      "01721666376"
+    ],
+    "other_phones": [],
+    "email": "mirzapuriamadrasah@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "BELKURI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-rajshahi",
+      "district_id": "BD-DIST-rajshahi-naogaon",
+      "thana_id": "BD-THANA-rajshahi-naogaon-mahadebpur",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-123387"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

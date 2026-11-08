@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "111613",
+  "institution": {
+    "eiin": "111613",
+    "name": "BHUSIBHOSIA H.H. DAKHIL MADRASAH",
+    "name_bn": "ভূষভূষিয়া হালিম হাছানিয়া দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "thana": "Gaffargaon",
+    "address": "BHUSHBHUSHIA",
+    "post_office": "Barmi",
+    "mobiles": [
+      "01717166109",
+      "01918730593"
+    ],
+    "other_phones": [],
+    "email": "not@vailble.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "RIVER SIDE",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "KURCHAI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-mymensingh",
+      "district_id": "BD-DIST-mymensingh-mymensingh",
+      "thana_id": "BD-THANA-mymensingh-mymensingh-gaffargaon",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-111613"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

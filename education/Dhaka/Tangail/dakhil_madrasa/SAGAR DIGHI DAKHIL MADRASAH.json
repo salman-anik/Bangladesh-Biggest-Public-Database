@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "eiin": "114175",
+  "institution": {
+    "eiin": "114175",
+    "name": "SAGAR DIGHI DAKHIL MADRASAH",
+    "name_bn": "সাগরদিঘী দাখিল মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Dakhil",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "thana": "Ghatail",
+    "address": "SAGAR DIGHI",
+    "post_office": "Lohani",
+    "mobiles": [
+      "01732628444",
+      "01722450717"
+    ],
+    "other_phones": [],
+    "email": "sagardighidm@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "post_offices": [
+        "LOHANI SAGAR DIGHI"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-tangail",
+      "thana_id": "BD-THANA-dhaka-tangail-ghatail",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-114175"
+    },
+    "madrasa_category": "Dakhil"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "title": "Hadith Collections",
+  "organization": "Hadith Books (all collection JSON files in one folder) and by_chapter",
+  "formats": {
+    "by_book": "One clearly named JSON file per complete Hadith collection in Hadith Books/.",
+    "by_chapter": "One JSON file per chapter, including chapter metadata and hadiths. The Nawawi Forty Hadith chapter is retained in its collection file instead of duplicated here."
+  },
+  "summary": {
+    "collection_count": 17,
+    "chapter_file_count": 606,
+    "book_hadith_records": 50884,
+    "chapter_hadith_records": 50842
+  },
+  "categories": [
+    {
+      "id": "the_9_books",
+      "name": "The Nine Books",
+      "collection_count": 9
+    },
+    {
+      "id": "other_books",
+      "name": "Other Hadith Books",
+      "collection_count": 5
+    },
+    {
+      "id": "forties",
+      "name": "Forty Hadith Collections",
+      "collection_count": 3
+    }
+  ],
+  "collections": [
+    {
+      "id": "abudawud",
+      "title": "Sunan Abi Dawud",
+      "author": "Imam Sulayman ibn al-Ash'ath Abu Dawud al-Sijistani",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Sunan Abi Dawud.json",
+      "by_chapter": "by_chapter/the_9_books/abudawud/",
+      "book_count": 5276,
+      "chapter_count": 43
+    },
+    {
+      "id": "ahmed",
+      "title": "Musnad Ahmad ibn Hanbal",
+      "author": "Imam Ahmad ibn Hanbal",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Musnad Ahmad ibn Hanbal.json",
+      "by_chapter": "by_chapter/the_9_books/ahmed/",
+      "book_count": 1374,
+      "chapter_count": 8
+    },
+    {
+      "id": "bukhari",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Sahih al-Bukhari.json",
+      "by_chapter": "by_chapter/the_9_books/bukhari/",
+      "book_count": 7277,
+      "chapter_count": 97
+    },
+    {
+      "id": "darimi",
+      "title": "Sunan al-Darimi",
+      "author": "Imam Abu Muhammad Abd al-Rahman ibn Abd Allah ibn al-Darimi",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Sunan al-Darimi.json",
+      "by_chapter": "by_chapter/the_9_books/darimi/",
+      "book_count": 3406,
+      "chapter_count": 24
+    },
+    {
+      "id": "ibnmajah",
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah al-Qazwini",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Sunan Ibn Majah.json",
+      "by_chapter": "by_chapter/the_9_books/ibnmajah/",
+      "book_count": 4345,
+      "chapter_count": 38
+    },
+    {
+      "id": "malik",
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Muwatta Malik.json",
+      "by_chapter": "by_chapter/the_9_books/malik/",
+      "book_count": 1985,
+      "chapter_count": 61
+    },
+    {
+      "id": "muslim",
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj al-Naysaburi",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Sahih Muslim.json",
+      "by_chapter": "by_chapter/the_9_books/muslim/",
+      "book_count": 7459,
+      "chapter_count": 57
+    },
+    {
+      "id": "nasai",
+      "title": "Sunan al-Nasa'i",
+      "author": "Imam Ahmad ibn Shu'ayb al-Nasa'i",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Sunan al-Nasa'i.json",
+      "by_chapter": "by_chapter/the_9_books/nasai/",
+      "book_count": 5768,
+      "chapter_count": 52
+    },
+    {
+      "id": "tirmidhi",
+      "title": "Jami' al-Tirmidhi",
+      "author": "Imam Abu Isa Muhammad ibn Isa al-Tirmidhi",
+      "category": "the_9_books",
+      "by_book": "Hadith Books/Jami al-Tirmidhi.json",
+      "by_chapter": "by_chapter/the_9_books/tirmidhi/",
+      "book_count": 4053,
+      "chapter_count": 49
+    },
+    {
+      "id": "aladab_almufrad",
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari",
+      "category": "other_books",
+      "by_book": "Hadith Books/Al-Adab al-Mufrad.json",
+      "by_chapter": "by_chapter/other_books/aladab_almufrad/",
+      "book_count": 1326,
+      "chapter_count": 57
+    },
+    {
+      "id": "bulugh_almaram",
+      "title": "Bulugh al-Maram",
+      "author": "Ibn Hajar al-Asqalani",
+      "category": "other_books",
+      "by_book": "Hadith Books/Bulugh al-Maram.json",
+      "by_chapter": "by_chapter/other_books/bulugh_almaram/",
+      "book_count": 1767,
+      "chapter_count": 16
+    },
+    {
+      "id": "mishkat_almasabih",
+      "title": "Mishkat al-Masabih",
+      "author": "Al-Khatib Al-Tabrizi",
+      "category": "other_books",
+      "by_book": "Hadith Books/Mishkat al-Masabih.json",
+      "by_chapter": "by_chapter/other_books/mishkat_almasabih/",
+      "book_count": 4428,
+      "chapter_count": 25
+    },
+    {
+      "id": "riyad_assalihin",
+      "title": "Riyad as-Salihin",
+      "author": "Imam Yahya ibn Sharaf al-Nawawi",
+      "category": "other_books",
+      "by_book": "Hadith Books/Riyad as-Salihin.json",
+      "by_chapter": "by_chapter/other_books/riyad_assalihin/",
+      "book_count": 1896,
+      "chapter_count": 20
+    },
+    {
+      "id": "shamail_muhammadiyah",
+      "title": "Shama'il Muhammadiyah",
+      "author": "Imam Tirmidhi",
+      "category": "other_books",
+      "by_book": "Hadith Books/Shama'il Muhammadiyah.json",
+      "by_chapter": "by_chapter/other_books/shamail_muhammadiyah/",
+      "book_count": 402,
+      "chapter_count": 57
+    },
+    {
+      "id": "nawawi40",
+      "title": "The Forty Hadith of Imam Nawawi",
+      "author": "Imam Yahya ibn Sharaf al-Nawawi",
+      "category": "forties",
+      "by_book": "Hadith Books/Forty Hadith of Imam Nawawi.json",
+      "by_chapter": null,
+      "book_count": 42,
+      "chapter_count": 1,
+      "chapter_data_in_collection_file": true
+    },
+    {
+      "id": "qudsi40",
+      "title": "The Forty Hadith Qudsi",
+      "author": "",
+      "category": "forties",
+      "by_book": "Hadith Books/Forty Hadith Qudsi.json",
+      "by_chapter": "by_chapter/forties/qudsi40/",
+      "book_count": 40,
+      "chapter_count": 1
+    },
+    {
+      "id": "shahwaliullah40",
+      "title": "The Forty Hadith of Shah Waliullah",
+      "author": "Shah Waliullah Dahlawi",
+      "category": "forties",
+      "by_book": "Hadith Books/Forty Hadith of Shah Waliullah.json",
+      "by_chapter": "by_chapter/forties/shahwaliullah40/",
+      "book_count": 40,
+      "chapter_count": 1
+    }
+  ],
+  "supplemental_sources": [
+    {
+      "collection": "bukhari",
+      "title": "Supplemental Sahih al-Bukhari source",
+      "organization": "one file per internal book",
+      "index": "Additional Sources/Bukhari/index.json",
+      "hadith_record_count": 7167,
+      "note": "Kept separate from the canonical collection to preserve alternate source text and metadata."
+    }
+  ]
+}

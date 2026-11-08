@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104570",
+  "institution": {
+    "eiin": "104570",
+    "name": "AMIRABAD SUFIA ALIA MADRASAH",
+    "name_bn": "আমিরাবাদ সুফিয়া আলিয়া (ফাজিল) মাদ্রাসা",
+    "institute_type": "MADRASHA",
+    "education_level": "Fazil",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Lohagara",
+    "address": "School Road",
+    "post_office": "Lohagara",
+    "mobiles": [
+      "01825641814",
+      "01199524345"
+    ],
+    "other_phones": [],
+    "email": "amirabadsufiafazilmadctg@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "RURAL",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "M24",
+      "MR",
+      "PDF_E"
+    ],
+    "alternates": {
+      "addresses": [
+        "AMIRABAD"
+      ],
+      "post_offices": [
+        "Master Hat"
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-lohagara",
+      "category_id": "BD-CAT-MADRASAS",
+      "institution_id": "BD-INS-104570"
+    },
+    "madrasa_category": "Other"
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

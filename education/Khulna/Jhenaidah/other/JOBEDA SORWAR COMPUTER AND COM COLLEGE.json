@@ -1,0 +1,49 @@
+{
+    "schema_version":  "1.0",
+    "institution":  {
+                        "eiin":  "132617",
+                        "name":  "JOBEDA SORWAR COMPUTER AND COM COLLEGE",
+                        "name_bn":  "জবেদো সরোয়ার কম্পিউটার ও বানিজ্য কলেজ",
+                        "institute_type":  null,
+                        "education_level":  null,
+                        "division":  "Khulna",
+                        "district":  "Jhenaidah",
+                        "thana":  "Jhenaidah Sadar",
+                        "address":  "JHENAIDAH SHODOR",
+                        "post_office":  null,
+                        "mobiles":  [
+                                        "01711488122"
+                                    ],
+                        "other_phones":  [
+
+                                         ],
+                        "email":  null,
+                        "management":  null,
+                        "is_mpo":  null,
+                        "institute_for_whom":  null,
+                        "geographical_position":  null,
+                        "area_status":  null,
+                        "survey_year":  null,
+                        "sources":  [
+                                        "E26",
+                                        "PDF_E"
+                                    ],
+                        "alternates":  {
+
+                                       },
+                        "relations":  {
+                                          "country_id":  "BD",
+                                          "division_id":  "BD-DIV-khulna",
+                                          "district_id":  "BD-DIST-khulna-jhenaidah",
+                                          "thana_id":  "BD-THANA-khulna-jhenaidah-jhenaidah-sadar",
+                                          "category_id":  "BD-CAT-TYPE-NOT-PROVIDED",
+                                          "institution_id":  "BD-INS-132617"
+                                      }
+                    },
+    "teacher_count":  0,
+    "teachers":  [
+
+                 ],
+    "source_file":  "C:\\Users\\USER\\Desktop\\database\\Bangladesh\\education\\khulna\\jhenaidah\\type-not-provided\\institutions.json",
+    "note":  "Extracted from consolidated institutions.json"
+}

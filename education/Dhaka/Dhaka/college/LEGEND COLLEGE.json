@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "eiin": "136277",
+  "institution": {
+    "eiin": "136277",
+    "name": "LEGEND COLLEGE",
+    "name_bn": "লিজেন্ড কলেজ",
+    "institute_type": "COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "thana": "Savar",
+    "address": "118/3 SAVAR",
+    "post_office": "Savar",
+    "mobiles": [
+      "01914204264",
+      "01977477748"
+    ],
+    "other_phones": [],
+    "email": "legendcollegebd@gmail.com",
+    "management": "NON-GOVERNMENT",
+    "is_mpo": "NO",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "PLAIN LAND",
+    "area_status": "UPAZILA SADAR POURA",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {},
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-dhaka",
+      "district_id": "BD-DIST-dhaka-dhaka",
+      "thana_id": "BD-THANA-dhaka-dhaka-savar",
+      "category_id": "BD-CAT-COLLEGES",
+      "institution_id": "BD-INS-136277"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

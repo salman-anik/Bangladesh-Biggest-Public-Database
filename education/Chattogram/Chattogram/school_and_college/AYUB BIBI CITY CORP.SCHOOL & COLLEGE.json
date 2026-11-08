@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "eiin": "104486",
+  "institution": {
+    "eiin": "104486",
+    "name": "AYUB BIBI CITY CORP.SCHOOL & COLLEGE",
+    "name_bn": "আয়ুব বিবি সিটি করপোরেশন স্কুল ও কলেজ",
+    "institute_type": "SCHOOL & COLLEGE",
+    "education_level": "Higher Secondary",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "thana": "Karnaphuli Upazila",
+    "address": "KHOAZNAGAR & ICANAGAR",
+    "post_office": null,
+    "mobiles": [
+      "01840848194"
+    ],
+    "other_phones": [],
+    "email": "ayubbibiccsc.edu@gmail.com",
+    "management": "LOCAL GOVERNMENT",
+    "is_mpo": "YES",
+    "institute_for_whom": "CO-EDUCATION",
+    "geographical_position": "COASTAL AREA (INSIDE EMBANKMENT)",
+    "area_status": "CITY CORPORATION",
+    "survey_year": 2024,
+    "sources": [
+      "E26",
+      "SC24",
+      "PDF_E"
+    ],
+    "alternates": {
+      "locations": [
+        {
+          "division": "Chattogram",
+          "district": "Chattogram",
+          "thana": "Patiya",
+          "sources": [
+            "PDF_E"
+          ]
+        }
+      ]
+    },
+    "relations": {
+      "country_id": "BD",
+      "division_id": "BD-DIV-chattogram",
+      "district_id": "BD-DIST-chattogram-chattogram",
+      "thana_id": "BD-THANA-chattogram-chattogram-karnaphuli-upazila",
+      "category_id": "BD-CAT-SCHOOLS-AND-COLLEGES",
+      "institution_id": "BD-INS-104486"
+    }
+  },
+  "teacher_count": 0,
+  "teachers": []
+}

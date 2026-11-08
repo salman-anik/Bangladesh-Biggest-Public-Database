@@ -6,7 +6,7 @@
 [![Format](https://img.shields.io/badge/Format-JSON%20%7C%20CSV%20%7C%20PDF-blue.svg)](#)
 [![Coverage](https://img.shields.io/badge/Coverage-All%2064%20Districts-red.svg)](#)
 [![Data Records](https://img.shields.io/badge/Total%20Records-150%2C000%2B-success.svg)](#)
-[![GitHub stars](https://img.shields.io/github/stars/salman-anik/database?style=social)](https://github.com/salman-anik/database)
+[![GitHub stars](https://img.shields.io/github/stars/salman-anik/Bangladesh-Biggest-Public-Database?style=social)](https://github.com/salman-anik/Bangladesh-Biggest-Public-Database)
 
 ---
 

@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd visualize && npm install && npm run build",
+  "outputDirectory": "visualize/dist",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

@@ -29,11 +29,13 @@ export default function App() {
         const ovData = await ovRes.json()
         setOverview(ovData)
 
-        // Default to Dhaka > Dhaka > Dhanmondi or first division
-        const firstDiv = Object.keys(ovData.hierarchy)[0] || 'Dhaka'
-        setSelectedDiv('Dhaka')
-        setSelectedDist('Dhaka')
-        setSelectedUpz('Dhanmondi')
+        // Default to first division > district > upazila (or Dhaka > Dhaka > Savar)
+        const firstDiv = ovData.hierarchy['Dhaka'] ? 'Dhaka' : Object.keys(ovData.hierarchy)[0]
+        const firstDist = ovData.hierarchy[firstDiv]?.districts['Dhaka'] ? 'Dhaka' : Object.keys(ovData.hierarchy[firstDiv]?.districts || {})[0]
+        const firstUpz = ovData.hierarchy[firstDiv]?.districts[firstDist]?.upazilas[0] || 'Savar'
+        setSelectedDiv(firstDiv)
+        setSelectedDist(firstDist)
+        setSelectedUpz(firstUpz)
 
         // Fetch search index in background
         fetch('/data/search_index.json')

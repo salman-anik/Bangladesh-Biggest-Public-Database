@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Khagrachhari",
+  "upazila": "Panchhari",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2228",
+      "name": "Panchari Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "district_slug": "khagrachhari",
+      "upazila": "Panchhari",
+      "address": "Panchhari, Khagrachhari",
+      "latitude": 23.297213,
+      "longitude": 91.899911,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,76 @@
+{
+  "division": "Chattogram",
+  "district": "Lakshmipur",
+  "upazila": "Kamalnagar",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Lakshmipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lakshmipur",
+      "phone": "01713-000025",
+      "email": "dclakshmipur@mopa.gov.bd",
+      "website": "http://www.lakshmipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lakshmipur",
+      "phone": "01713-373025",
+      "email": "splakshmipur@police.gov.bd",
+      "control_room": "01713-374025"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lakshmipur",
+      "phone": "01713-555025",
+      "email": "cslakshmipur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-38",
+      "name": "Lakshmipur Sadar Police Station",
+      "bn_name": "Lakshmipur সদর থানা",
+      "unit": "Lakshmipur District Police",
+      "division": "General",
+      "district": "Lakshmipur",
+      "address": "Court Building Road, Sadar, Lakshmipur",
+      "oc_mobile": "01713-374038",
+      "duty_officer": "01713-399038",
+      "tnt": "02-770038",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-029",
+      "name": "Lakshmipur Fire Station & Civil Defence",
+      "bn_name": "Lakshmipur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Lakshmipur",
+      "address": "Sadar, Lakshmipur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988029",
+      "mobile": "01713-038029",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

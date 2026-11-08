@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "upazila": "Jagannathpur",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-3395",
+      "name": "Jagannathpur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "district_slug": "sunamganj",
+      "upazila": "Jagannathpur",
+      "address": "Jagannathpur, Sunamganj",
+      "latitude": 24.779435,
+      "longitude": 91.563159,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

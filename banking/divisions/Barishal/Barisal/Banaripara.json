@@ -1,0 +1,65 @@
+{
+  "division": "Barishal",
+  "district": "Barisal",
+  "upazila": "Banaripara",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "BANARIPARA BRANCH",
+      "routing_number": "010060256",
+      "swift_code": "AGBKBDDH",
+      "district": "BARISAL",
+      "address": "AGRANI BANK ROAD, BANARIPARA, BARISAL 8530",
+      "telephone": "04332 56103",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "025"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "BAISARI BRANCH",
+      "routing_number": "035060194",
+      "swift_code": "BKBABDDH",
+      "district": "BARISAL",
+      "address": "BAISARI, BANARIPARA, BARISAL",
+      "telephone": "mgrbaishari@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "223 / 019"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "BANARIPARA BRANCH",
+      "routing_number": "035060257",
+      "swift_code": "BKBABDDH",
+      "district": "BARISAL",
+      "address": "BANARIPARA, BARISAL",
+      "telephone": "mgrbanaripara@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "222 / 025"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "BANARIPARA BRANCH",
+      "routing_number": "200060253",
+      "swift_code": "BSONBDDH",
+      "district": "BARISAL",
+      "address": "BANARIPARA, BARISAL",
+      "telephone": "04332 56243",
+      "email": "brbanaripara@sonalibank.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "025 / 025"
+    }
+  ]
+}

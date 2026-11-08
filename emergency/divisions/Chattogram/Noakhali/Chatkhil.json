@@ -1,0 +1,76 @@
+{
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "upazila": "Chatkhil",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Noakhali",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Noakhali",
+      "phone": "01713-000023",
+      "email": "dcnoakhali@mopa.gov.bd",
+      "website": "http://www.noakhali.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Noakhali",
+      "phone": "01713-373023",
+      "email": "spnoakhali@police.gov.bd",
+      "control_room": "01713-374023"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Noakhali",
+      "phone": "01713-555023",
+      "email": "csnoakhali@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-36",
+      "name": "Noakhali Sadar Police Station",
+      "bn_name": "Noakhali সদর থানা",
+      "unit": "Noakhali District Police",
+      "division": "General",
+      "district": "Noakhali",
+      "address": "Court Building Road, Sadar, Noakhali",
+      "oc_mobile": "01713-374036",
+      "duty_officer": "01713-399036",
+      "tnt": "02-770036",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-027",
+      "name": "Noakhali Fire Station & Civil Defence",
+      "bn_name": "Noakhali ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Noakhali",
+      "address": "Sadar, Noakhali",
+      "hotline": "16163",
+      "emergency_phone": "02-9988027",
+      "mobile": "01713-038027",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

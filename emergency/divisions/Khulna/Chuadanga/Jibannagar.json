@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Chuadanga",
+  "upazila": "Jibannagar",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Chuadanga",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chuadanga",
+      "phone": "01713-000042",
+      "email": "dcchuadanga@mopa.gov.bd",
+      "website": "http://www.chuadanga.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chuadanga",
+      "phone": "01713-373042",
+      "email": "spchuadanga@police.gov.bd",
+      "control_room": "01713-374042"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chuadanga",
+      "phone": "01713-555042",
+      "email": "cschuadanga@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-55",
+      "name": "Chuadanga Sadar Police Station",
+      "bn_name": "Chuadanga সদর থানা",
+      "unit": "Chuadanga District Police",
+      "division": "General",
+      "district": "Chuadanga",
+      "address": "Court Building Road, Sadar, Chuadanga",
+      "oc_mobile": "01713-374055",
+      "duty_officer": "01713-399055",
+      "tnt": "02-770055",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-046",
+      "name": "Chuadanga Fire Station & Civil Defence",
+      "bn_name": "Chuadanga ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Chuadanga",
+      "address": "Sadar, Chuadanga",
+      "hotline": "16163",
+      "emergency_phone": "02-9988046",
+      "mobile": "01713-038046",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

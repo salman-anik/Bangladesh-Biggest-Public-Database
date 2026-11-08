@@ -1,0 +1,65 @@
+{
+  "division": "Barishal",
+  "district": "Barguna",
+  "upazila": "Bamna",
+  "total_branches": 4,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "PUBALI BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "BAMNA BRANCH",
+      "routing_number": "035040101",
+      "swift_code": "BKBABDDH",
+      "district": "BARGUNA",
+      "address": "BAMNA, BARGUNA",
+      "telephone": "mgrbamna@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "609 / 010"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "DOWATALA BRANCH",
+      "routing_number": "035040314",
+      "swift_code": "BKBABDDH",
+      "district": "BARGUNA",
+      "address": "DOWATALA, BAMNA, BARGUNA",
+      "telephone": "mgrdowatala@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "615 / 031"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "BAMNA BRANCH",
+      "routing_number": "175040108",
+      "swift_code": "PUBABDDH",
+      "district": "BARGUNA",
+      "address": "BAMNA, BARGUNA",
+      "telephone": "0886 281",
+      "email": "bamna@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "010"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "BAMNA BRANCH",
+      "routing_number": "200040107",
+      "swift_code": "BSONBDDH",
+      "district": "BARGUNA",
+      "address": "BAMNA, BARGUNA",
+      "telephone": "04453 56004",
+      "email": "brbamna@sonalibank.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "010 / 010"
+    }
+  ]
+}

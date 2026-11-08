@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Jashore",
+  "upazila": "Manirampur",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2166",
+      "name": "Manirampur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Jashore",
+      "district_slug": "jashore",
+      "upazila": "Manirampur",
+      "address": "Manirampur, Jashore",
+      "latitude": 23.009112,
+      "longitude": 89.235432,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

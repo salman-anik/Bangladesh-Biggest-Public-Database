@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Lalmonirhat",
+  "upazila": "Lalmonirhat Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2425",
+      "name": "Lalmonirhat General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "district_slug": "lalmonirhat",
+      "upazila": "Lalmonirhat Sadar",
+      "address": "Lalmonirhat Sadar, Lalmonirhat",
+      "latitude": 25.919885,
+      "longitude": 89.455901,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

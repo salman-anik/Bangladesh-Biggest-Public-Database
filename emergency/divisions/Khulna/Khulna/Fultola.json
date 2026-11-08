@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Fultola",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Khulna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Khulna",
+      "phone": "01713-000003",
+      "email": "dckhulna@mopa.gov.bd",
+      "website": "http://www.khulna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Khulna",
+      "phone": "01713-373003",
+      "email": "spkhulna@police.gov.bd",
+      "control_room": "01713-374003"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Khulna",
+      "phone": "01713-555003",
+      "email": "cskhulna@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-KHL-01",
+      "name": "Khulna Sadar Police Station",
+      "bn_name": "খুলনা সদর থানা",
+      "unit": "Khulna Metropolitan Police (KMP)",
+      "division": "Khulna",
+      "district": "Khulna",
+      "address": "Court Road, Khulna",
+      "oc_mobile": "01713-373401",
+      "duty_officer": "01713-398601",
+      "tnt": "041-720111",
+      "control_room": "041-721222"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-007",
+      "name": "Khulna Central Fire Station",
+      "bn_name": "খুলনা সদর ফায়ার স্টেশন",
+      "division": "Khulna",
+      "district": "Khulna",
+      "address": "Boyra, Khulna",
+      "hotline": "16163",
+      "emergency_phone": "041-760111",
+      "mobile": "01713-038401",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

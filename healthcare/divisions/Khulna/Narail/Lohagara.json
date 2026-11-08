@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Narail",
+  "upazila": "Lohagara",
+  "total_hospitals": 2,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2742",
+      "name": "Lohagara Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Narail",
+      "district_slug": "narail",
+      "upazila": "Lohagara",
+      "address": "Lohagara, Narail",
+      "latitude": 23.184099,
+      "longitude": 89.647612,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2752",
+      "name": "MH Doctors Chamber",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Khulna",
+      "district": "Narail",
+      "district_slug": "narail",
+      "upazila": "Lohagara",
+      "address": "Lohagara, Narail",
+      "latitude": 23.181164,
+      "longitude": 89.647968,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

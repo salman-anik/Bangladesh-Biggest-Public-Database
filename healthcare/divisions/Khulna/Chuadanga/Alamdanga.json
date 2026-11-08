@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Chuadanga",
+  "upazila": "Alamdanga",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0600",
+      "name": "Alamdanga Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "district_slug": "chuadanga",
+      "upazila": "Alamdanga",
+      "address": "Alamdanga, Chuadanga",
+      "latitude": 23.788546,
+      "longitude": 88.902948,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

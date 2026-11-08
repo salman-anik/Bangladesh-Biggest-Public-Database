@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Gaibandha",
+  "upazila": "Saghatta",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-1997",
+      "name": "Saghatta Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "district_slug": "gaibandha",
+      "upazila": "Saghatta",
+      "address": "Saghatta, Gaibandha",
+      "latitude": 25.113004,
+      "longitude": 89.581814,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Lalmonirhat",
+  "upazila": "Kaliganj",
+  "total_hospitals": 2,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2430",
+      "name": "Community Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "district_slug": "lalmonirhat",
+      "upazila": "Kaliganj",
+      "address": "Kaliganj, Lalmonirhat",
+      "latitude": 26.013974,
+      "longitude": 89.289505,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2431",
+      "name": "Community Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "district_slug": "lalmonirhat",
+      "upazila": "Kaliganj",
+      "address": "Kaliganj, Lalmonirhat",
+      "latitude": 26.034907,
+      "longitude": 89.298833,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

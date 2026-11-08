@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "upazila": "Boda",
+  "total_hospitals": 2,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2961",
+      "name": "Rashed Medical Store, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Boda",
+      "address": "Boda, Panchagarh",
+      "latitude": 26.253112,
+      "longitude": 88.558869,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2971",
+      "name": "শওকত কবিরাজ হাসপাতাল (Shaukat Kabiraj Hospital), Mirpara",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Boda",
+      "address": "Boda, Panchagarh",
+      "latitude": 26.18407,
+      "longitude": 88.566554,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

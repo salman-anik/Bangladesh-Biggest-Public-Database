@@ -1,0 +1,31 @@
+{
+  "division": "Mymensingh",
+  "district": "Netrakona",
+  "upazila": "Khaliajuri",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2840",
+      "name": "খালিয়াজুরী উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "district_slug": "netrakona",
+      "upazila": "Khaliajuri",
+      "address": "Khaliajuri, Netrakona",
+      "latitude": 24.688605,
+      "longitude": 91.139798,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

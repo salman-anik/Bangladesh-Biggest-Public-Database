@@ -1,0 +1,29 @@
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2678",
+      "name": "Naogaon 250 Bed District Sadar Hospital",
+      "bn_name": "Naogaon ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Naogaon",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Naogaon",
+      "emergency_hotline": "01730-072055",
+      "telephone": "01730-072055",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "naogaon"
+    }
+  ],
+  "blood_banks": []
+}

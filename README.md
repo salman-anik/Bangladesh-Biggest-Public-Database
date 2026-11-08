@@ -39,6 +39,7 @@ The repository is organized into the following subject areas.
 |---|---|---|
 | Geography & Administration | Divisions, districts, upazilas, unions and postal codes | `database/geography/` |
 | Banking & Finance | Banks, branches, routing numbers and mobile financial services | `database/banking/` |
+| Companies & Businesses | Listed companies (DSE), IT members (BASIS), conglomerates, startups, trade bodies | `database/company/` |
 | Medicine & Pharmaceuticals | Medicines, generic names, manufacturers and dosage forms | `database/medicine/` |
 | Education | Schools, colleges, educational institutions and EIIN information | `database/education/` |
 | Land Records | Land administration, survey information and available public records | `database/land/` |
@@ -52,37 +53,98 @@ The repository is organized into the following subject areas.
 
 *Dataset availability varies by category. Refer to the actual repository files for current coverage.*
 
+## Standardized Hierarchy: Division > District > Upazila
+
+To make finding information instant and intuitive, all regional datasets are organized under the standardized Bangladesh geographic hierarchy:
+
+```text
+database/<category>/[divisions/]<Division>/<District>/<Upazila>[.json]
+```
+
+- **Education:** `education/<Division>/<District>/<Upazila>/<category>/<institution>.json` (40,000+ schools, colleges, and madrasas with teachers and contacts, plus `_summary.json` per upazila).
+- **Healthcare:** `healthcare/divisions/<Division>/<District>/<Upazila>.json` (hospitals, bed capacity, ICU, ambulance availability, and emergency hotlines).
+- **Banking:** `banking/divisions/<Division>/<District>/<Upazila>.json` (8,750+ bank branches, routing numbers, swift codes, and branch codes).
+- **Emergency Services:** `emergency/divisions/<Division>/<District>/<Upazila>.json` (police stations with OC numbers, fire stations, district administration contacts, and national hotlines).
+- **Geography:** `geography/divisions/<Division>/<District>/<Upazila>/info.json` (unions, postal codes, coordinates, and official government portal links).
+- **Land Records:** `land/khatians/<Division>/<District>/<Upazila>.json` (54,000+ ePorcha khatian records partitioned by upazila).
+- **Transport:** `transport/divisions/<Division>/<District>/transport_nodes.json` (railway stations and airports).
+
+---
+
+## Interactive Data Visualizer (`visualize/`)
+
+A modern, fast React + Vite web application is included in the `visualize/` folder to search, explore, and visualize all public datasets.
+
+### Running the Visualizer:
+
+```bash
+cd visualize
+npm install
+npm run dev
+```
+
+Visit `http://localhost:3000` to browse by **Division > District > Upazila** or search globally across 53,000+ institutions, hospitals, bank branches, routing numbers, and emergency stations.
+
+---
+
 ## Repository Structure
 
 ```text
 database/
-├── banking/
-│   ├── banks.json
+├── visualize/                   # React + Vite interactive search & visualizer portal
+│   ├── src/
+│   ├── public/data/             # Pre-indexed search and upazila bundle data
+│   └── package.json
+│
+├── education/                   # 40,000+ Educational Institutions
+│   ├── <Division>/
+│   │   └── <District>/
+│   │       └── <Upazila>/
+│   │           ├── _summary.json
+│   │           ├── school/
+│   │           ├── college/
+│   │           └── dakhil_madrasa/
+│   └── education_hierarchy.json
+│
+├── healthcare/                  # 3,590+ Hospitals & Healthcare Facilities
+│   ├── divisions/<Division>/<District>/<Upazila>.json
+│   ├── hospitals.json
+│   ├── blood_banks.json
+│   └── ambulance_services.json
+│
+├── banking/                     # 8,750+ Bank Branches & Routing Numbers
+│   ├── divisions/<Division>/<District>/<Upazila>.json
 │   ├── branches.json
 │   ├── routing_numbers.json
-│   └── mfs_providers.json
+│   └── by_bank/
 │
-├── geography/
-│   ├── divisions.json
-│   ├── districts.json
-│   ├── upazilas.json
-│   ├── unions.json
-│   └── postal_codes.json
+├── emergency/                   # Police, Fire Service & Hotlines
+│   ├── divisions/<Division>/<District>/<Upazila>.json
+│   ├── police_stations.json
+│   ├── fire_stations.json
+│   └── district_administration.json
 │
-├── medicine/
-│   ├── all_medicines.json
-│   ├── generics.json
-│   └── manufacturers.json
+├── geography/                   # Administrative divisions, districts, upazilas, unions
+│   ├── divisions/<Division>/<District>/<Upazila>/info.json
+│   ├── hierarchy.json
+│   ├── postal_codes.json
+│   └── unions.json
 │
-├── education/
-├── land/
-├── law/
-├── healthcare/
-├── emergency/
-├── transport/
-├── Islamic/
-├── governance/
-└── culture/
+├── land/                        # 54,000+ Land Khatians & Mouza Maps
+│   ├── khatians/<Division>/<District>/<Upazila>.json
+│   └── maps/
+│
+├── Lawyer/                      # Bangladesh Bar Association Members
+│   ├── divisions/<Division>/<District>/
+│   └── dhaka_bar_association_members.json
+│
+├── transport/                   # Railway stations, airports, train routes
+│   └── divisions/<Division>/<District>/
+│
+├── company/                     # DSE listed, BASIS IT companies, conglomerates
+├── medicine/                    # Pharmaceuticals, generics, manufacturers
+├── Islamic/                     # Quran, Hadith, Sunnah datasets
+└── law/                         # Major Acts, Penal Code, CRPC
 ```
 
 This is a representative directory overview. Check the repository for the actual available files.

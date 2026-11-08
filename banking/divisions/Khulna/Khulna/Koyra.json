@@ -1,0 +1,65 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Koyra",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "JAIGIR MOHAL BRANCH",
+      "routing_number": "010471061",
+      "swift_code": "AGBKBDDH",
+      "district": "KHULNA",
+      "address": "JAIGIR MOHAL, AMADI, KOYRA, KHULNA 9291",
+      "telephone": "019 23397759",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "106"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "JAIGIRMAHAL BRANCH",
+      "routing_number": "035471062",
+      "swift_code": "BKBABDDH",
+      "district": "KHULNA",
+      "address": "PLOT NO 1635, GARAMADI, KOYRA, KHULNA",
+      "telephone": "mgrjaigirmahal@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1316 / 106"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "KOYRA BRANCH",
+      "routing_number": "035471783",
+      "swift_code": "BKBABDDH",
+      "district": "KHULNA",
+      "address": "PLOT NO SA1744, KOYRA BAZAR, KHULNA",
+      "telephone": "mgrkaira@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1317 / 178"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "KOYRA BRANCH",
+      "routing_number": "200471789",
+      "swift_code": "BSONBDDH",
+      "district": "KHULNA",
+      "address": "KOYRA, KHULNA",
+      "telephone": "041 760098",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "178 / 178"
+    }
+  ]
+}

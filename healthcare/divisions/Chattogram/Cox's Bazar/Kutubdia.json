@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Cox's Bazar",
+  "upazila": "Kutubdia",
+  "total_hospitals": 2,
+  "total_beds": 0,
+  "hospitals": [
+    {
+      "id": "HOSP-0648",
+      "name": "Dr Rezaul Hasan",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "district_slug": "cox_s_bazar",
+      "upazila": "Kutubdia",
+      "address": "Kutubdia, Cox's Bazar",
+      "latitude": 21.879173,
+      "longitude": 91.857448,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0649",
+      "name": "Dr. Nurul Alam",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "district_slug": "cox_s_bazar",
+      "upazila": "Kutubdia",
+      "address": "Kutubdia, Cox's Bazar",
+      "latitude": 21.879411,
+      "longitude": 91.859188,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

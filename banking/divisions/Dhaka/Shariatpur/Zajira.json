@@ -1,0 +1,79 @@
+{
+  "division": "Dhaka",
+  "district": "Shariatpur",
+  "upazila": "Zajira",
+  "total_branches": 5,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "NATIONAL BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "ZAJIRA",
+      "routing_number": "010860706",
+      "swift_code": "",
+      "district": "SHARIATPUR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "070"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "LAWKHOLA BRANCH",
+      "routing_number": "035860499",
+      "swift_code": "BKBABDDH",
+      "district": "SHARIATPUR",
+      "address": "LAWKHOLA, ZAJIRA, SHARIATPUR 8010",
+      "telephone": "017 30708894",
+      "email": "mgrlawkhola@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "1205 / 049"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "ZAJIRA BRANCH",
+      "routing_number": "035860707",
+      "swift_code": "BKBABDDH",
+      "district": "SHARIATPUR",
+      "address": "ZAJIRA, SHARIATPUR",
+      "telephone": "mgrzajira@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1204 / 070"
+    },
+    {
+      "bank_name": "NATIONAL BANK LIMITED",
+      "bank_code": "150",
+      "branch_name": "KAZIRHAT BRANCH",
+      "routing_number": "150860411",
+      "swift_code": "NBLBBDDH",
+      "district": "SHARIATPUR",
+      "address": "DUBISHAYBOR BANDAR, KAZIRHAT, ZAJIRA, SHARIATPUR",
+      "telephone": "017 55538434-35",
+      "email": "kazirhat@nblbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "0146 /"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "ZAJIRA BRANCH",
+      "routing_number": "200860703",
+      "swift_code": "BSONBDDH",
+      "district": "SHARIATPUR",
+      "address": "ZAJIRA, SHARIATPUR",
+      "telephone": "0601 55837, 55845-7",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "070 / 070"
+    }
+  ]
+}

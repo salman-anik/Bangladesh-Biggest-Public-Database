@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Bagerhat",
+  "upazila": "Mollahat",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0011",
+      "name": "Mollahat Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "district_slug": "bagerhat",
+      "upazila": "Mollahat",
+      "address": "Mollahat, Bagerhat",
+      "latitude": 22.928041,
+      "longitude": 89.80108,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

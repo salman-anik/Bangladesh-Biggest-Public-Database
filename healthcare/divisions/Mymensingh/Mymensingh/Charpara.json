@@ -1,0 +1,29 @@
+{
+  "division": "Mymensingh",
+  "district": "Mymensingh",
+  "upazila": "Charpara",
+  "total_hospitals": 1,
+  "total_beds": 1000,
+  "hospitals": [
+    {
+      "id": "HOSP-2580",
+      "name": "Mymensingh Medical College Hospital (MMCH)",
+      "bn_name": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 1000,
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Charpara",
+      "address": "Charpara, Medical College Road, Mymensingh",
+      "emergency_hotline": "091-66063",
+      "telephone": "091-66063",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.mmch.gov.bd",
+      "district_slug": "mymensingh"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,66 @@
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Hakimpur",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "JANATA BANK LIMITED",
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "HAKIMPUR BRANCH",
+      "routing_number": "010280915",
+      "swift_code": "AGBKBDDH031",
+      "district": "DINAJPUR",
+      "address": "BANGLAHILI, HAKIMPUR, DINAJPUR 5270",
+      "telephone": "05329 75351",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "091"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "HILI STHALA BANDAR BRANCH",
+      "routing_number": "135282027",
+      "swift_code": "JANBBDDH",
+      "district": "DINAJPUR",
+      "address": "HILI STHALA BANDAR, BANGLA HILI, HAKIMPUR, DINAJPUR 5270",
+      "telephone": "05329 75389",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "202"
+    },
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "HAKIMPUR BRANCH",
+      "routing_number": "180280911",
+      "swift_code": "HAKIMPUR, BANGLAHILI, PARBATIPUR, DINAJPUR",
+      "district": "DINAJPUR",
+      "address": "05329 75007",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "091"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "HAKIMPUR BRANCH",
+      "routing_number": "200280912",
+      "swift_code": "BSONBDDH",
+      "district": "DINAJPUR",
+      "address": "HAKIMPUR, DINAJPUR",
+      "telephone": "0531 75002",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "091 / 091"
+    }
+  ]
+}

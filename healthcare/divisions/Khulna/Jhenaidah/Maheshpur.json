@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "upazila": "Maheshpur",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-2209",
+      "name": "Kotchandpur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "district_slug": "jhenaidah",
+      "upazila": "Maheshpur",
+      "address": "Maheshpur, Jhenaidah",
+      "latitude": 23.411486,
+      "longitude": 89.00542,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2212",
+      "name": "Kotchandpur Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "district_slug": "jhenaidah",
+      "upazila": "Maheshpur",
+      "address": "Maheshpur, Jhenaidah",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

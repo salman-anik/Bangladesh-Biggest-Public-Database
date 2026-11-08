@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazila": "Ishwardi",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2931",
+      "name": "Ishwardi Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "district_slug": "pabna",
+      "upazila": "Ishwardi",
+      "address": "Ishwardi, Pabna",
+      "latitude": 24.127381,
+      "longitude": 89.071524,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

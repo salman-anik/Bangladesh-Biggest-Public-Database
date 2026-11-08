@@ -1,0 +1,76 @@
+{
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "upazila": "Kishorganj",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Nilphamari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Nilphamari",
+      "phone": "01713-000057",
+      "email": "dcnilphamari@mopa.gov.bd",
+      "website": "http://www.nilphamari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Nilphamari",
+      "phone": "01713-373057",
+      "email": "spnilphamari@police.gov.bd",
+      "control_room": "01713-374057"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Nilphamari",
+      "phone": "01713-555057",
+      "email": "csnilphamari@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-70",
+      "name": "Nilphamari Sadar Police Station",
+      "bn_name": "Nilphamari সদর থানা",
+      "unit": "Nilphamari District Police",
+      "division": "General",
+      "district": "Nilphamari",
+      "address": "Court Building Road, Sadar, Nilphamari",
+      "oc_mobile": "01713-374070",
+      "duty_officer": "01713-399070",
+      "tnt": "02-770070",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-061",
+      "name": "Nilphamari Fire Station & Civil Defence",
+      "bn_name": "Nilphamari ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Nilphamari",
+      "address": "Sadar, Nilphamari",
+      "hotline": "16163",
+      "emergency_phone": "02-9988061",
+      "mobile": "01713-038061",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

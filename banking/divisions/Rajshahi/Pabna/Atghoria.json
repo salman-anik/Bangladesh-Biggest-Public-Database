@@ -1,0 +1,65 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazila": "Atghoria",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "ATGHORIA BRANCH",
+      "routing_number": "010760251",
+      "swift_code": "AGBKBDDH",
+      "district": "PABNA",
+      "address": "ATGHORIA BAZAR, PABNA 6610",
+      "telephone": "015 58426037",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "025"
+    },
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "ATGHORIA BRANCH",
+      "routing_number": "180760257",
+      "swift_code": "CHANDVA, ATGHORIA, PABNA",
+      "district": "PABNA",
+      "address": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "telephone": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "email": "",
+      "fax": "",
+      "branch_code": "025"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "ATGHORIA BRANCH",
+      "routing_number": "200760258",
+      "swift_code": "BSONBDDH",
+      "district": "PABNA",
+      "address": "DEBUDITOR, ATGHORIA, PABNA",
+      "telephone": "0731 65022 (Ext 7)",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "025 / 025"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "EKDANTA BRANCH",
+      "routing_number": "200761031",
+      "swift_code": "BSONBDDH",
+      "district": "PABNA",
+      "address": "EKDANTA, ATGHORIA, PABNA",
+      "telephone": "017 14049152",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "103 / 103"
+    }
+  ]
+}

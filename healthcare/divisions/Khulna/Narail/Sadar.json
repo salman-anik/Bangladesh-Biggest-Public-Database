@@ -1,0 +1,29 @@
+{
+  "division": "Khulna",
+  "district": "Narail",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2738",
+      "name": "Narail 250 Bed District Sadar Hospital",
+      "bn_name": "Narail ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Narail",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Narail",
+      "emergency_hotline": "01730-072065",
+      "telephone": "01730-072065",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "narail"
+    }
+  ],
+  "blood_banks": []
+}

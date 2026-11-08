@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Kurigram",
+  "upazila": "Bhurungamari",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2371",
+      "name": "Bhurungamari Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "district_slug": "kurigram",
+      "upazila": "Bhurungamari",
+      "address": "Bhurungamari, Kurigram",
+      "latitude": 26.119467,
+      "longitude": 89.664592,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

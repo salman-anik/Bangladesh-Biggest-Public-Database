@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Shariatpur",
+  "upazila": "Zanjira",
+  "total_hospitals": 2,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-3311",
+      "name": "Naodoba Union Health Complex, Hospital, Shariatpur Road, Naodoba",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "district_slug": "shariatpur",
+      "upazila": "Zanjira",
+      "address": "Zanjira, Shariatpur",
+      "latitude": 23.398227,
+      "longitude": 90.244608,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3314",
+      "name": "New Rogmukti Pharmacy",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "district_slug": "shariatpur",
+      "upazila": "Zanjira",
+      "address": "Zanjira, Shariatpur",
+      "latitude": 23.405802,
+      "longitude": 90.281429,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

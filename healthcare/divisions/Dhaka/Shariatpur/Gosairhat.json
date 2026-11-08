@@ -1,0 +1,31 @@
+{
+  "division": "Dhaka",
+  "district": "Shariatpur",
+  "upazila": "Gosairhat",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-3306",
+      "name": "Goshairhat Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "district_slug": "shariatpur",
+      "upazila": "Gosairhat",
+      "address": "Gosairhat, Shariatpur",
+      "latitude": 23.079683,
+      "longitude": 90.428994,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

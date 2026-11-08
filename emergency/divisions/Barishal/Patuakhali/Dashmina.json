@@ -1,0 +1,76 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "upazila": "Dashmina",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Patuakhali",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Patuakhali",
+      "phone": "01713-000046",
+      "email": "dcpatuakhali@mopa.gov.bd",
+      "website": "http://www.patuakhali.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Patuakhali",
+      "phone": "01713-373046",
+      "email": "sppatuakhali@police.gov.bd",
+      "control_room": "01713-374046"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Patuakhali",
+      "phone": "01713-555046",
+      "email": "cspatuakhali@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-59",
+      "name": "Patuakhali Sadar Police Station",
+      "bn_name": "Patuakhali সদর থানা",
+      "unit": "Patuakhali District Police",
+      "division": "General",
+      "district": "Patuakhali",
+      "address": "Court Building Road, Sadar, Patuakhali",
+      "oc_mobile": "01713-374059",
+      "duty_officer": "01713-399059",
+      "tnt": "02-770059",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-050",
+      "name": "Patuakhali Fire Station & Civil Defence",
+      "bn_name": "Patuakhali ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Patuakhali",
+      "address": "Sadar, Patuakhali",
+      "hotline": "16163",
+      "emergency_phone": "02-9988050",
+      "mobile": "01713-038050",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

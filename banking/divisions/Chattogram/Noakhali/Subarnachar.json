@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "upazila": "Subarnachar",
+  "total_branches": 3,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "ONE BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "KHASHERHAT BRANCH",
+      "routing_number": "035752028",
+      "swift_code": "BKBABDDH",
+      "district": "NOAKHALI",
+      "address": "KHASHERHAT, SAMIRHAT, CHARBATA, SUBARNACHAR, NOAKHALI 3813",
+      "telephone": "017 30708794",
+      "email": "mgrkhasherhat@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "2602 / 202"
+    },
+    {
+      "bank_name": "ONE BANK LIMITED",
+      "bank_code": "165",
+      "branch_name": "SUBARNACHAR BRANCH",
+      "routing_number": "165752356",
+      "swift_code": "ONEBBDDH",
+      "district": "NOAKHALI",
+      "address": "BISMILLAH TOWER, HARIS CHOWDHURY BAZAR, WEST CHAR JUBILEE, CHAR JABBARSUBARNACHAR, NOAKHALI",
+      "telephone": "017 77734335",
+      "email": "manager.subarnachar@onebank.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "235 / 235"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "SUBARNACHAR BRANCH",
+      "routing_number": "200752358",
+      "swift_code": "BSONBDDH",
+      "district": "NOAKHALI",
+      "address": "SUBARNA CHAR, NOAKHALI",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "235 / 235"
+    }
+  ]
+}

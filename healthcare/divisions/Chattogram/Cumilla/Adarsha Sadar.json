@@ -1,0 +1,29 @@
+{
+  "division": "Chattogram",
+  "district": "Cumilla",
+  "upazila": "Adarsha Sadar",
+  "total_hospitals": 1,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-0666",
+      "name": "Cumilla Medical College Hospital",
+      "bn_name": "কুমিল্লা মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 500,
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Adarsha Sadar",
+      "address": "Kuchaitoli, Cumilla-3500",
+      "emergency_hotline": "081-76856",
+      "telephone": "081-76856",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.comc.gov.bd",
+      "district_slug": "cumilla"
+    }
+  ],
+  "blood_banks": []
+}

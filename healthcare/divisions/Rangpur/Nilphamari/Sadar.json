@@ -1,0 +1,29 @@
+{
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2863",
+      "name": "Nilphamari 250 Bed District Sadar Hospital",
+      "bn_name": "Nilphamari ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Nilphamari",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Nilphamari",
+      "emergency_hotline": "01730-072075",
+      "telephone": "01730-072075",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "nilphamari"
+    }
+  ],
+  "blood_banks": []
+}

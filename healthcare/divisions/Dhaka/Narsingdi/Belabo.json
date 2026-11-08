@@ -1,0 +1,31 @@
+{
+  "division": "Dhaka",
+  "district": "Narsingdi",
+  "upazila": "Belabo",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2771",
+      "name": "Belabo Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "district_slug": "narsingdi",
+      "upazila": "Belabo",
+      "address": "Belabo, Narsingdi",
+      "latitude": 24.107029,
+      "longitude": 90.851371,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

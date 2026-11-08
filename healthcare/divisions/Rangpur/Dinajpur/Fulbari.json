@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Fulbari",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-1915",
+      "name": "Phulbari Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "district_slug": "dinajpur",
+      "upazila": "Fulbari",
+      "address": "Fulbari, Dinajpur",
+      "latitude": 25.50218,
+      "longitude": 88.948267,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1916",
+      "name": "Phulbari Upazila Health complex ফুলবাড়ীর উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "district_slug": "dinajpur",
+      "upazila": "Fulbari",
+      "address": "Fulbari, Dinajpur",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

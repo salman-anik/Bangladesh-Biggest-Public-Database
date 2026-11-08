@@ -1,0 +1,76 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "upazila": "Boda",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Panchagarh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+      "phone": "01713-000059",
+      "email": "dcpanchagarh@mopa.gov.bd",
+      "website": "http://www.panchagarh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Panchagarh",
+      "phone": "01713-373059",
+      "email": "sppanchagarh@police.gov.bd",
+      "control_room": "01713-374059"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Panchagarh",
+      "phone": "01713-555059",
+      "email": "cspanchagarh@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-72",
+      "name": "Panchagarh Sadar Police Station",
+      "bn_name": "Panchagarh সদর থানা",
+      "unit": "Panchagarh District Police",
+      "division": "General",
+      "district": "Panchagarh",
+      "address": "Court Building Road, Sadar, Panchagarh",
+      "oc_mobile": "01713-374072",
+      "duty_officer": "01713-399072",
+      "tnt": "02-770072",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-063",
+      "name": "Panchagarh Fire Station & Civil Defence",
+      "bn_name": "Panchagarh ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Panchagarh",
+      "address": "Sadar, Panchagarh",
+      "hotline": "16163",
+      "emergency_phone": "02-9988063",
+      "mobile": "01713-038063",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Mymensingh",
+  "district": "Netrakona",
+  "upazila": "Atpara",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2827",
+      "name": "Atpara Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "district_slug": "netrakona",
+      "upazila": "Atpara",
+      "address": "Atpara, Netrakona",
+      "latitude": 24.80957,
+      "longitude": 90.86226,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,29 @@
+{
+  "division": "Unknown",
+  "district": "Jhalokati",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2199",
+      "name": "Jhalokati 250 Bed District Sadar Hospital",
+      "bn_name": "Jhalokati ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Jhalokati",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Jhalokati",
+      "emergency_hotline": "01730-072068",
+      "telephone": "01730-072068",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "jhalokati"
+    }
+  ],
+  "blood_banks": []
+}

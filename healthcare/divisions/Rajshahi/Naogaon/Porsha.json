@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "upazila": "Porsha",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2695",
+      "name": "Porsha Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "district_slug": "naogaon",
+      "upazila": "Porsha",
+      "address": "Porsha, Naogaon",
+      "latitude": 25.022935,
+      "longitude": 88.455204,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

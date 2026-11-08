@@ -1,0 +1,126 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-1728",
+      "name": "Purathal Rajnagar Health Centre",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "",
+      "address": "Purathal Rajnagar",
+      "latitude": 23.678831,
+      "longitude": 91.2241,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": [
+    {
+      "id": "BB-001",
+      "name": "Quantum Foundation Blood Lab",
+      "bn_name": "কোয়ান্টাম ফাউন্ডেশন ব্লাড ল্যাব",
+      "organization": "Quantum Foundation",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "119/1 Shantinagar, Kakrail, Dhaka-1217",
+      "hotline": "01714-010869",
+      "phone": "02-9351969",
+      "emergency_24_7": true,
+      "components": [
+        "Whole Blood",
+        "Packed Red Blood Cells (PRBC)",
+        "Fresh Frozen Plasma (FFP)",
+        "Platelet Concentrate"
+      ],
+      "screening_test": "Tested for HIV, Hepatitis B, Hepatitis C, Syphilis, Malaria",
+      "website": "https://quantummethod.org/blood"
+    },
+    {
+      "id": "BB-002",
+      "name": "Bangladesh Red Crescent Society National Blood Center",
+      "bn_name": "বাংলাদেশ রেড ক্রিসেন্ট জাতীয় রক্তদান কেন্দ্র",
+      "organization": "Bangladesh Red Crescent Society",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "7/5 Aurangzeb Road, Mohammadpur, Dhaka-1207",
+      "hotline": "02-9116563",
+      "phone": "01811-458524",
+      "emergency_24_7": true,
+      "components": [
+        "Whole Blood",
+        "PRBC",
+        "FFP",
+        "Platelet"
+      ],
+      "screening_test": "5 mandatory NAT/ELISA screenings",
+      "website": "http://www.bdrcs.org"
+    },
+    {
+      "id": "BB-003",
+      "name": "Sandhani Central Blood Bank (DMCH Unit)",
+      "bn_name": "সন্ধানী কেন্দ্রীয় রক্ত পরিসঞ্চালন কেন্দ্র (ডিএমসিএইচ)",
+      "organization": "Sandhani",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Dhaka Medical College Hospital Ground Floor, Dhaka",
+      "hotline": "02-55165088",
+      "phone": "01712-297298",
+      "emergency_24_7": true,
+      "components": [
+        "Whole Blood",
+        "Fresh Blood"
+      ],
+      "screening_test": "Rapid & Cross-match screening",
+      "website": "http://www.sandhani.org"
+    },
+    {
+      "id": "BB-004",
+      "name": "Badhan (Blood Donation Organization)",
+      "bn_name": "বাঁধন (স্বেচ্ছায় রক্তদানে তরুণদের সংগঠন)",
+      "organization": "Badhan Central",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "TSC Ground Floor, Dhaka University, Dhaka-1000",
+      "hotline": "01521-419163",
+      "phone": "02-9661900",
+      "emergency_24_7": true,
+      "components": [
+        "Donor Network Coordination"
+      ],
+      "screening_test": "Direct Voluntary Donor Placement",
+      "website": "https://www.badhan.org"
+    },
+    {
+      "id": "BB-005",
+      "name": "Police Blood Bank",
+      "bn_name": "পুলিশ ব্লাড ব্যাংক",
+      "organization": "Dhaka Metropolitan Police",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Central Police Hospital, Rajarbagh, Dhaka",
+      "hotline": "02-9362550",
+      "phone": "01713-398386",
+      "emergency_24_7": true,
+      "components": [
+        "Whole Blood",
+        "Platelets",
+        "FFP"
+      ],
+      "screening_test": "Standard 5-test screening",
+      "website": ""
+    }
+  ]
+}

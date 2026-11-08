@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Demra",
+  "total_hospitals": 2,
+  "total_beds": 540,
+  "hospitals": [
+    {
+      "id": "HOSP-0863",
+      "name": "Aichi Medical College Hospital",
+      "bn_name": "",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 500,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Demra",
+      "address": "Demra, Dhaka",
+      "latitude": 23.740981,
+      "longitude": 90.478513,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0903",
+      "name": "Aichi Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Demra",
+      "address": "Demra, Dhaka",
+      "latitude": 23.741004,
+      "longitude": 90.478494,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

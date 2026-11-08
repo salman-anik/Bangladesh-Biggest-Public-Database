@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Tangail",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-3469",
+      "name": "Tangail 250 Bed District Sadar Hospital",
+      "bn_name": "Tangail ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Tangail",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Tangail",
+      "emergency_hotline": "01730-072034",
+      "telephone": "01730-072034",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "tangail"
+    }
+  ],
+  "blood_banks": []
+}

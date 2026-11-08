@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Bogura",
+  "upazila": "Dhupchanchia",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0219",
+      "name": "Dupchachia Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "district_slug": "bogura",
+      "upazila": "Dhupchanchia",
+      "address": "Dhupchanchia, Bogura",
+      "latitude": 24.875807,
+      "longitude": 89.171713,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

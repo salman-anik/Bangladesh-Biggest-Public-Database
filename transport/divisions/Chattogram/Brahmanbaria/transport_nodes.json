@@ -1,0 +1,31 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "BBN",
+      "name": "Brahmanbaria Railway Station",
+      "bn_name": "ব্রাহ্মণবাড়িয়া রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "gauge": "Dual Gauge",
+      "junction": false,
+      "platforms": 3
+    },
+    {
+      "station_code": "AKH",
+      "name": "Akhaura Junction",
+      "bn_name": "আখাউড়া জংশন",
+      "zone": "East Zone",
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "gauge": "Dual Gauge",
+      "junction": true,
+      "platforms": 4
+    }
+  ],
+  "airports": [],
+  "division": "Chattogram",
+  "district": "Brahmanbaria",
+  "total_railway_stations": 2,
+  "total_airports": 0
+}

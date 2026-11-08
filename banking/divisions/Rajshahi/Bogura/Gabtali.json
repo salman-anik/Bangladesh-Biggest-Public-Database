@@ -1,0 +1,51 @@
+{
+  "division": "Rajshahi",
+  "district": "Bogura",
+  "upazila": "Gabtali",
+  "total_branches": 3,
+  "banks_present": [
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "RUPALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "GABTALI BRANCH",
+      "routing_number": "180101032",
+      "swift_code": "GABTALI, BOGRA",
+      "district": "BOGRA",
+      "address": "05025 75007",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "103"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "GABTALI BRANCH",
+      "routing_number": "185101037",
+      "swift_code": "RUPBBDDH",
+      "district": "BOGRA",
+      "address": "GABTALI, BOGRA",
+      "telephone": "05025 75004, 017 56742377",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4036 / 103"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "SUKHANPUKUR BRANCH",
+      "routing_number": "185103019",
+      "swift_code": "RUPBBDDH",
+      "district": "BOGRA",
+      "address": "SUKHANPUKUR, GABTALI, BOGRA",
+      "telephone": "017 20689088",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4077 / 301"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Bangladesh Companies, Corporate Groups & Member Directory Database",
+  "description": "Comprehensive structured database of all publicly listed companies on Dhaka Stock Exchange (DSE), registered IT & software members of BASIS, leading industrial conglomerates, high-growth technology startups, and apex trade chambers across Bangladesh, complete with verified official websites, contact numbers, corporate emails, executive leaders, and registered addresses.",
+  "version": "1.0.0",
+  "country": "Bangladesh",
+  "total_companies_in_master": 3344,
+  "total_dse_listed_companies": 409,
+  "total_basis_it_member_companies": 2882,
+  "total_conglomerates_and_groups": 25,
+  "total_tech_startups": 15,
+  "total_trade_associations_and_chambers": 13,
+  "total_sector_breakdown_files": 11,
+  "files": {
+    "companies_master": "companies_master.json",
+    "dse_listed_companies": "dse_listed_companies.json",
+    "it_basis_members": "it_basis_members.json",
+    "conglomerates_and_groups": "conglomerates_and_groups.json",
+    "startups_and_tech_companies": "startups_and_tech_companies.json",
+    "trade_associations_and_chambers": "trade_associations_and_chambers.json",
+    "by_sector": "by_sector/",
+    "documentation": "README.md"
+  },
+  "last_updated": "2026-11-08"
+}

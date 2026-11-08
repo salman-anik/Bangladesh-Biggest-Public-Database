@@ -1,0 +1,29 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2951",
+      "name": "Panchagarh 250 Bed District Sadar Hospital",
+      "bn_name": "Panchagarh ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Panchagarh",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Panchagarh",
+      "emergency_hotline": "01730-072077",
+      "telephone": "01730-072077",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "panchagarh"
+    }
+  ],
+  "blood_banks": []
+}

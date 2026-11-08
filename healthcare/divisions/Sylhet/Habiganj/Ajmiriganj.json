@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Habiganj",
+  "upazila": "Ajmiriganj",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2118",
+      "name": "Ajmiriganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "district_slug": "habiganj",
+      "upazila": "Ajmiriganj",
+      "address": "Ajmiriganj, Habiganj",
+      "latitude": 24.551579,
+      "longitude": 91.235589,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

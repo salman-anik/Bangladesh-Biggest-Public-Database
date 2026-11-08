@@ -1,0 +1,31 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "PBT",
+      "name": "Parbatipur Junction",
+      "bn_name": "পার্বতীপুর জংশন",
+      "zone": "West Zone",
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "gauge": "Dual / Broad / Meter",
+      "junction": true,
+      "platforms": 5
+    },
+    {
+      "station_code": "DIN",
+      "name": "Dinajpur Railway Station",
+      "bn_name": "দিনাজপুর রেলওয়ে স্টেশন",
+      "zone": "West Zone",
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "gauge": "Broad Gauge",
+      "junction": false,
+      "platforms": 3
+    }
+  ],
+  "airports": [],
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "total_railway_stations": 2,
+  "total_airports": 0
+}

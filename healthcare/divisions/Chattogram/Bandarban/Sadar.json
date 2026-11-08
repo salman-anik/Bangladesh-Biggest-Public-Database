@@ -1,0 +1,29 @@
+{
+  "division": "Chattogram",
+  "district": "Bandarban",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-0087",
+      "name": "Bandarban 250 Bed District Sadar Hospital",
+      "bn_name": "Bandarban ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Bandarban",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Bandarban",
+      "emergency_hotline": "01730-072051",
+      "telephone": "01730-072051",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "bandarban"
+    }
+  ],
+  "blood_banks": []
+}

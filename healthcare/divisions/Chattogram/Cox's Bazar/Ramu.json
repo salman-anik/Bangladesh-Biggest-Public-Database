@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Cox's Bazar",
+  "upazila": "Ramu",
+  "total_hospitals": 1,
+  "total_beds": 300,
+  "hospitals": [
+    {
+      "id": "HOSP-0608",
+      "name": "Ma-O-Shishu Hospital",
+      "bn_name": "",
+      "category": "Specialized Hospital / Institute",
+      "type": "Government",
+      "bed_capacity": 300,
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "district_slug": "cox_s_bazar",
+      "upazila": "Ramu",
+      "address": "Ramu, Cox's Bazar",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

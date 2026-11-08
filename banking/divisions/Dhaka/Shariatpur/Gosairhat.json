@@ -1,0 +1,64 @@
+{
+  "division": "Dhaka",
+  "district": "Shariatpur",
+  "upazila": "Gosairhat",
+  "total_branches": 4,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "HATURIA BAZAR BRANCH",
+      "routing_number": "035860378",
+      "swift_code": "BKBABDDH",
+      "district": "SHARIATPUR",
+      "address": "HATURIA BAZAR, GOSAIRHAT, SHARIATPUR 8050",
+      "telephone": "017 30708890",
+      "email": "mgrhaturiabazar@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "1214 / 037"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "KODALPUR BAZAR BRANCH",
+      "routing_number": "035860431",
+      "swift_code": "BKBABDDH",
+      "district": "SHARIATPUR",
+      "address": "KODALPUR, GOSAIRHAT, SHARIATPUR 8050",
+      "telephone": "017 30708893",
+      "email": "mgrkodalpurbazar@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "1207 / 043"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "NAGERPARA BAZAR BRANCH",
+      "routing_number": "035860552",
+      "swift_code": "BKBABDDH",
+      "district": "SHARIATPUR",
+      "address": "NAGERPARA, GOSAIRHAT, SHARIATPUR 8050",
+      "telephone": "017 30708895",
+      "email": "mgrnagerparabazar@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "1208 / 055"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "GOSAIRHAT BRANCH",
+      "routing_number": "200860345",
+      "swift_code": "BSONBDDH",
+      "district": "SHARIATPUR",
+      "address": "GOSAIRHAT, SHARIATPUR",
+      "telephone": "06024 75013",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "034 / 034"
+    }
+  ]
+}

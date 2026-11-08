@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Sirajganj",
+  "upazila": "Chauhali",
+  "total_hospitals": 1,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-3373",
+      "name": "Khwaja Yunus Ali Medical College and Hospital",
+      "bn_name": "",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 500,
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "district_slug": "sirajganj",
+      "upazila": "Chauhali",
+      "address": "Chauhali, Sirajganj",
+      "latitude": 24.226729,
+      "longitude": 89.703432,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

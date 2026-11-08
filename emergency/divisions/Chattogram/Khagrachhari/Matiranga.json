@@ -1,0 +1,76 @@
+{
+  "division": "Chattogram",
+  "district": "Khagrachhari",
+  "upazila": "Matiranga",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Khagrachhari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Khagrachhari",
+      "phone": "01713-000027",
+      "email": "dckhagrachhari@mopa.gov.bd",
+      "website": "http://www.khagrachhari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Khagrachhari",
+      "phone": "01713-373027",
+      "email": "spkhagrachhari@police.gov.bd",
+      "control_room": "01713-374027"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Khagrachhari",
+      "phone": "01713-555027",
+      "email": "cskhagrachhari@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-40",
+      "name": "Khagrachhari Sadar Police Station",
+      "bn_name": "Khagrachhari সদর থানা",
+      "unit": "Khagrachhari District Police",
+      "division": "General",
+      "district": "Khagrachhari",
+      "address": "Court Building Road, Sadar, Khagrachhari",
+      "oc_mobile": "01713-374040",
+      "duty_officer": "01713-399040",
+      "tnt": "02-770040",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-031",
+      "name": "Khagrachhari Fire Station & Civil Defence",
+      "bn_name": "Khagrachhari ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Khagrachhari",
+      "address": "Sadar, Khagrachhari",
+      "hotline": "16163",
+      "emergency_phone": "02-9988031",
+      "mobile": "01713-038031",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Barguna",
+  "upazila": "Betagi",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0103",
+      "name": "Betagi Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Barguna",
+      "district_slug": "barguna",
+      "upazila": "Betagi",
+      "address": "Betagi, Barguna",
+      "latitude": 22.413582,
+      "longitude": 90.160199,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

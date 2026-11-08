@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Bishwanath",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-3451",
+      "name": "বিশ্বনাথ উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "বিশ্বনাথ উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "district_slug": "sylhet",
+      "upazila": "Bishwanath",
+      "address": "Bishwanath, Sylhet",
+      "latitude": 24.84056,
+      "longitude": 91.725703,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

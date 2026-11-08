@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Magura",
+  "upazila": "Sreepur",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Magura",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Magura",
+      "phone": "01713-000043",
+      "email": "dcmagura@mopa.gov.bd",
+      "website": "http://www.magura.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Magura",
+      "phone": "01713-373043",
+      "email": "spmagura@police.gov.bd",
+      "control_room": "01713-374043"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Magura",
+      "phone": "01713-555043",
+      "email": "csmagura@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-56",
+      "name": "Magura Sadar Police Station",
+      "bn_name": "Magura সদর থানা",
+      "unit": "Magura District Police",
+      "division": "General",
+      "district": "Magura",
+      "address": "Court Building Road, Sadar, Magura",
+      "oc_mobile": "01713-374056",
+      "duty_officer": "01713-399056",
+      "tnt": "02-770056",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-047",
+      "name": "Magura Fire Station & Civil Defence",
+      "bn_name": "Magura ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Magura",
+      "address": "Sadar, Magura",
+      "hotline": "16163",
+      "emergency_phone": "02-9988047",
+      "mobile": "01713-038047",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

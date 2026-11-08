@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Narsingdi",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2769",
+      "name": "Narsingdi 250 Bed District Sadar Hospital",
+      "bn_name": "Narsingdi ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Narsingdi",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Narsingdi",
+      "emergency_hotline": "01730-072040",
+      "telephone": "01730-072040",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "narsingdi"
+    }
+  ],
+  "blood_banks": []
+}

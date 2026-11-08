@@ -1,0 +1,38 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "RJ",
+      "name": "Rajshahi Railway Station",
+      "bn_name": "রাজশাহী রেলওয়ে স্টেশন",
+      "zone": "West Zone",
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "gauge": "Broad Gauge",
+      "junction": true,
+      "platforms": 5
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "RJH",
+      "icao_code": "VGRJ",
+      "name": "Shah Makhdum Airport",
+      "bn_name": "শাহ মখদুম বিমানবন্দর",
+      "type": "Domestic",
+      "city": "Rajshahi",
+      "district": "Rajshahi",
+      "runway_length_ft": 6000,
+      "terminal_count": 1,
+      "hotline": "0721-761350",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Novoair"
+      ]
+    }
+  ],
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "total_railway_stations": 1,
+  "total_airports": 1
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Rajshahi",
+  "district": "Bogura",
+  "upazila": "Adamdighi",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-0217",
+      "name": "Adamdighi Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "district_slug": "bogura",
+      "upazila": "Adamdighi",
+      "address": "Adamdighi, Bogura",
+      "latitude": 24.821995,
+      "longitude": 89.044244,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0254",
+      "name": "Dhaka Road (East) ঢাকা রোড (পূর্ব)",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "district_slug": "bogura",
+      "upazila": "Adamdighi",
+      "address": "Adamdighi, Bogura",
+      "latitude": 24.814835,
+      "longitude": 89.010555,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

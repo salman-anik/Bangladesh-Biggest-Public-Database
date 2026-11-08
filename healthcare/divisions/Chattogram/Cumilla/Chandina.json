@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Cumilla",
+  "upazila": "Chandina",
+  "total_hospitals": 2,
+  "total_beds": 300,
+  "hospitals": [
+    {
+      "id": "HOSP-0667",
+      "name": "Chandina General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "district_slug": "cumilla",
+      "upazila": "Chandina",
+      "address": "Chandina, Cumilla",
+      "latitude": 23.485957,
+      "longitude": 91.006738,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0673",
+      "name": "Chandina Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "district_slug": "cumilla",
+      "upazila": "Chandina",
+      "address": "Chandina, Cumilla",
+      "latitude": 23.487533,
+      "longitude": 90.997133,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

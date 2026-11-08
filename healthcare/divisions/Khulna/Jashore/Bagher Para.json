@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Jashore",
+  "upazila": "Bagher Para",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-2162",
+      "name": "Bagherpara Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Jashore",
+      "district_slug": "jashore",
+      "upazila": "Bagher Para",
+      "address": "Bagher Para, Jashore",
+      "latitude": 23.218849,
+      "longitude": 89.344526,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2163",
+      "name": "Bagherpara Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Jashore",
+      "district_slug": "jashore",
+      "upazila": "Bagher Para",
+      "address": "Bagher Para, Jashore",
+      "latitude": 23.220132,
+      "longitude": 89.344068,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

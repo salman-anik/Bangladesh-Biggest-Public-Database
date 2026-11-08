@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Pirojpur",
+  "upazila": "Pirojpur Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-3000",
+      "name": "Pirozpur General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "district_slug": "pirojpur",
+      "upazila": "Pirojpur Sadar",
+      "address": "Pirojpur Sadar, Pirojpur",
+      "latitude": 22.5783,
+      "longitude": 89.976449,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

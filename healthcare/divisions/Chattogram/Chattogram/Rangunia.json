@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Chattogram",
+  "upazila": "Rangunia",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-0499",
+      "name": "Pomra Family Planning center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "district_slug": "chattogram",
+      "upazila": "Rangunia",
+      "address": "Rangunia, Chattogram",
+      "latitude": 22.462732,
+      "longitude": 92.007393,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

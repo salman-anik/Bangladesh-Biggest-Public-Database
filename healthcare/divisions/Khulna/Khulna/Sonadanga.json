@@ -1,0 +1,28 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Sonadanga",
+  "total_hospitals": 1,
+  "total_beds": 1000,
+  "hospitals": [
+    {
+      "id": "HOSP-2229",
+      "name": "Khulna Medical College Hospital (KMCH)",
+      "bn_name": "খুলনা মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 1000,
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Sonadanga",
+      "address": "Sonadanga, Khulna-9000",
+      "emergency_hotline": "041-760350",
+      "telephone": "041-760350",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.kmc.gov.bd"
+    }
+  ],
+  "blood_banks": []
+}

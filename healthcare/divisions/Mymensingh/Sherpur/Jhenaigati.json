@@ -1,0 +1,52 @@
+{
+  "division": "Mymensingh",
+  "district": "Sherpur",
+  "upazila": "Jhenaigati",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3329",
+      "name": "AK Medicine Centre, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "district_slug": "sherpur",
+      "upazila": "Jhenaigati",
+      "address": "Jhenaigati, Sherpur",
+      "latitude": 25.12052,
+      "longitude": 90.050475,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3362",
+      "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, ঝিনাইগাতী",
+      "bn_name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, ঝিনাইগাতী",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "district_slug": "sherpur",
+      "upazila": "Jhenaigati",
+      "address": "Jhenaigati, Sherpur",
+      "latitude": 25.182485,
+      "longitude": 90.065994,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

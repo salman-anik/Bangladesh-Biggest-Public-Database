@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Chandpur",
+  "upazila": "Chandpur Sadar",
+  "total_branches": 3,
+  "banks_present": [
+    "AB BANK LIMITED",
+    "PUBALI BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AB BANK LIMITED",
+      "bank_code": "020",
+      "branch_name": "CHANDPUR BRANCH",
+      "routing_number": "020130318",
+      "swift_code": "ABBLBDDH",
+      "district": "CHANDPUR",
+      "address": "123/115 KALIBARI POURO NEW MARKET, CHANDPUR SADAR, CHANDPUR",
+      "telephone": "0841 66151, 66153",
+      "email": "chanmg@abbl.com",
+      "fax": "0841 66152",
+      "branch_code": "4132 / 031"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "CHANDPUR BRANCH",
+      "routing_number": "175130434",
+      "swift_code": "PUBABDDH",
+      "district": "CHANDPUR",
+      "address": "COMILLA ROAD, CHANDPUR SADAR, CHANDPUR",
+      "telephone": "0841 3125, 3168",
+      "email": "chandpur@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "043"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "CHANDPUR BRANCH",
+      "routing_number": "200130312",
+      "swift_code": "BSONBDDH",
+      "district": "CHANDPUR",
+      "address": "CHANDPUR SADAR, CHANDPUR",
+      "telephone": "0841 63154",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "031 / 031"
+    }
+  ]
+}

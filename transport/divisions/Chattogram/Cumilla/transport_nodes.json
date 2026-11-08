@@ -1,0 +1,31 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "CML",
+      "name": "Cumilla Railway Station",
+      "bn_name": "কুমিল্লা রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "gauge": "Dual Gauge",
+      "junction": false,
+      "platforms": 3
+    },
+    {
+      "station_code": "LKM",
+      "name": "Laksham Junction",
+      "bn_name": "লাকসাম জংশন",
+      "zone": "East Zone",
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "gauge": "Dual Gauge",
+      "junction": true,
+      "platforms": 5
+    }
+  ],
+  "airports": [],
+  "division": "Chattogram",
+  "district": "Cumilla",
+  "total_railway_stations": 2,
+  "total_airports": 0
+}

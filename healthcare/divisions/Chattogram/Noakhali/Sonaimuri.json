@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "upazila": "Sonaimuri",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-2910",
+      "name": "Begumganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "district_slug": "noakhali",
+      "upazila": "Sonaimuri",
+      "address": "Sonaimuri, Noakhali",
+      "latitude": 23.002537,
+      "longitude": 91.095292,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2915",
+      "name": "Monu Miya Hospital",
+      "bn_name": "মনু মিয়া হাসপাতাল",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "district_slug": "noakhali",
+      "upazila": "Sonaimuri",
+      "address": "Sonaimuri, Noakhali",
+      "latitude": 23.024759,
+      "longitude": 91.150568,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

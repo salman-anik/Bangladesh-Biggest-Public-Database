@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Barishal",
+  "upazila": "Hizla",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0128",
+      "name": "Zanjira Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Barishal",
+      "district_slug": "barishal",
+      "upazila": "Hizla",
+      "address": "Hizla, Barishal",
+      "latitude": 22.910919,
+      "longitude": 90.623217,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

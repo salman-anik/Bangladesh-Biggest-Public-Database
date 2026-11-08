@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Kurigram",
+  "upazila": "Rowmari",
+  "total_branches": 3,
+  "banks_present": [
+    "ISLAMI BANK BANGLADESH LIMITED",
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "ISLAMI BANK BANGLADESH LIMITED",
+      "bank_code": "125",
+      "branch_name": "ROWMARI BRANCH",
+      "routing_number": "125490645",
+      "swift_code": "IBBLBDDH",
+      "district": "KURIGRAM",
+      "address": "ASAD MARKET, ROWMARI BAZAR, KURIGRAM 5640",
+      "telephone": "0582 856046, 017 66665979, 017 55513693",
+      "email": "roumari@islamibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": ""
+    },
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "ROWMARI BRANCH",
+      "routing_number": "180490648",
+      "swift_code": "ROWMARI, KURIGRAM",
+      "district": "KURIGRAM",
+      "address": "05828 56019",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "064"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "ROWMARI BRANCH",
+      "routing_number": "200490649",
+      "swift_code": "BSONBDDH",
+      "district": "KURIGRAM",
+      "address": "ROWMARI, KURIGRAM",
+      "telephone": "0581 61372, 61352",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "064 / 064"
+    }
+  ]
+}

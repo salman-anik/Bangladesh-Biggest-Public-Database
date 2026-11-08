@@ -1,0 +1,52 @@
+{
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "upazila": "Charghat",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-3023",
+      "name": "Charghat Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "district_slug": "rajshahi",
+      "upazila": "Charghat",
+      "address": "Charghat, Rajshahi",
+      "latitude": 24.281556,
+      "longitude": 88.754432,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3033",
+      "name": "Chargat Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "district_slug": "rajshahi",
+      "upazila": "Charghat",
+      "address": "Charghat, Rajshahi",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

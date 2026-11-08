@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Gaibandha",
+  "upazila": "Gaibandha Sadar",
+  "total_hospitals": 2,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-1989",
+      "name": "Gaibandha General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "district_slug": "gaibandha",
+      "upazila": "Gaibandha Sadar",
+      "address": "Gaibandha Sadar, Gaibandha",
+      "latitude": 25.327255,
+      "longitude": 89.537638,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1990",
+      "name": "Gaibandha General hospital pond",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "district_slug": "gaibandha",
+      "upazila": "Gaibandha Sadar",
+      "address": "Gaibandha Sadar, Gaibandha",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

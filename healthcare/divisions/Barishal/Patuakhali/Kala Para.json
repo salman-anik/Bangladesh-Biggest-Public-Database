@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "upazila": "Kala Para",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2976",
+      "name": "Kalapara Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "district_slug": "patuakhali",
+      "upazila": "Kala Para",
+      "address": "Kala Para, Patuakhali",
+      "latitude": 21.987767,
+      "longitude": 90.217776,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

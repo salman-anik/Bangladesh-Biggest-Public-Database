@@ -1,0 +1,76 @@
+{
+  "division": "Dhaka",
+  "district": "Gazipur",
+  "upazila": "Kaliganj",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Gazipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gazipur",
+      "phone": "01713-000008",
+      "email": "dcgazipur@mopa.gov.bd",
+      "website": "http://www.gazipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gazipur",
+      "phone": "01713-373008",
+      "email": "spgazipur@police.gov.bd",
+      "control_room": "01713-374008"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gazipur",
+      "phone": "01713-555008",
+      "email": "csgazipur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-21",
+      "name": "Gazipur Sadar Police Station",
+      "bn_name": "Gazipur সদর থানা",
+      "unit": "Gazipur District Police",
+      "division": "General",
+      "district": "Gazipur",
+      "address": "Court Building Road, Sadar, Gazipur",
+      "oc_mobile": "01713-374021",
+      "duty_officer": "01713-399021",
+      "tnt": "02-770021",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-012",
+      "name": "Gazipur Fire Station & Civil Defence",
+      "bn_name": "Gazipur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Gazipur",
+      "address": "Sadar, Gazipur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988012",
+      "mobile": "01713-038012",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

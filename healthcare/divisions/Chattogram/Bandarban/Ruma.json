@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Bandarban",
+  "upazila": "Ruma",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-0097",
+      "name": "Ruma Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "district_slug": "bandarban",
+      "upazila": "Ruma",
+      "address": "Ruma, Bandarban",
+      "latitude": 22.047832,
+      "longitude": 92.408162,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

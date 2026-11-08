@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Tangail",
+  "upazila": "Sakhipur",
+  "total_hospitals": 2,
+  "total_beds": 290,
+  "hospitals": [
+    {
+      "id": "HOSP-3463",
+      "name": "Al Ihsan General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Dhaka",
+      "district": "Tangail",
+      "district_slug": "tangail",
+      "upazila": "Sakhipur",
+      "address": "Sakhipur, Tangail",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3524",
+      "name": "MI Room PKP",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Tangail",
+      "district_slug": "tangail",
+      "upazila": "Sakhipur",
+      "address": "Sakhipur, Tangail",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

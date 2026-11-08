@@ -1,0 +1,31 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "SRE",
+      "name": "Sreemangal Railway Station",
+      "bn_name": "শ্রীমঙ্গল রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "gauge": "Meter Gauge",
+      "junction": false,
+      "platforms": 2
+    },
+    {
+      "station_code": "KNJ",
+      "name": "Kulaura Junction",
+      "bn_name": "কুলাউড়া জংশন",
+      "zone": "East Zone",
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "gauge": "Meter Gauge",
+      "junction": true,
+      "platforms": 3
+    }
+  ],
+  "airports": [],
+  "division": "Sylhet",
+  "district": "Moulvibazar",
+  "total_railway_stations": 2,
+  "total_airports": 0
+}

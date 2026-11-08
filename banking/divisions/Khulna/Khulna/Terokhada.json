@@ -1,0 +1,65 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Terokhada",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "SHAIKPURA BRANCH",
+      "routing_number": "010472507",
+      "swift_code": "AGBKBDDH",
+      "district": "KHULNA",
+      "address": "SHAIKPURA BAZAR, SHEALI, TEROKHADA, KHULNA 9230",
+      "telephone": "017 32444428",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "250"
+    },
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "TEROKHADA BRANCH",
+      "routing_number": "010472657",
+      "swift_code": "AGBKBDDH",
+      "district": "KHULNA",
+      "address": "FAZLUL HAQUE PILOT SCHOOL, TEROKHADA, KHULNA 9230",
+      "telephone": "04029 56006",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "265"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "TEROKHADA BRANCH",
+      "routing_number": "035472658",
+      "swift_code": "BKBABDDH",
+      "district": "KHULNA",
+      "address": "PLOT NO 948-949, TEROKHADA ,KHULNA 9230",
+      "telephone": "mgrterokhada@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1310 / 265"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "TEROKHADA BRANCH",
+      "routing_number": "200472654",
+      "swift_code": "BSONBDDH",
+      "district": "KHULNA",
+      "address": "TEROKHADA, KHULNA",
+      "telephone": "041 760020-21",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "265 / 265"
+    }
+  ]
+}

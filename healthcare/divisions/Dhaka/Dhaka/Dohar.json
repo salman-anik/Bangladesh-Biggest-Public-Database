@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Dohar",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-1053",
+      "name": "Joypara Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Dohar",
+      "address": "Dohar, Dhaka",
+      "latitude": 23.618813,
+      "longitude": 90.115791,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1242",
+      "name": "দোহার জেনারেল হাসপাতাল",
+      "bn_name": "দোহার জেনারেল হাসপাতাল",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Dohar",
+      "address": "Dohar, Dhaka",
+      "latitude": 23.614716,
+      "longitude": 90.120336,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

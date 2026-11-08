@@ -1,0 +1,65 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Hossainpur",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "CHARPAMDI BRANCH",
+      "routing_number": "010480252",
+      "swift_code": "AGBKBDDH",
+      "district": "KISHOREGANJ",
+      "address": "CHARPAMDI BAZAR, PAMDI, HOSSAINPUR, KISHOREGANJ 2300",
+      "telephone": "017 12742048",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "025"
+    },
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "HOSSAINPUR BRANCH",
+      "routing_number": "010480407",
+      "swift_code": "AGBKBDDH",
+      "district": "KISHOREGANJ",
+      "address": "HOSSAINPUR, KISHOREGANJ 2320",
+      "telephone": "0942 556023",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "040"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "HOSSAINPUR BRANCH",
+      "routing_number": "035480408",
+      "swift_code": "BKBABDDH",
+      "district": "KISHOREGANJ",
+      "address": "HOSSAINPUR BAZAR, HOSSAINPUR, KISHOREGANJ",
+      "telephone": "mgrhossainpur@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4816 / 040"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "HOSSAINPUR BRANCH",
+      "routing_number": "200480404",
+      "swift_code": "BSONBDDH",
+      "district": "KISHOREGANJ",
+      "address": "DIPESHAR, HOSSAINPUR, KISHOREGANJ",
+      "telephone": "0941 55393, 55611 (Ext 6)",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "040 / 040"
+    }
+  ]
+}

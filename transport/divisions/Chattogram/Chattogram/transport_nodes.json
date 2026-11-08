@@ -1,0 +1,41 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "CG",
+      "name": "Chattogram Railway Station",
+      "bn_name": "চট্টগ্রাম রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "gauge": "Dual Gauge",
+      "junction": true,
+      "platforms": 8
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "CGP",
+      "icao_code": "VGEG",
+      "name": "Shah Amanat International Airport",
+      "bn_name": "শাহ আমানত আন্তর্জাতিক বিমানবন্দর",
+      "type": "Major International",
+      "city": "Chattogram",
+      "district": "Chattogram",
+      "runway_length_ft": 9646,
+      "terminal_count": 2,
+      "hotline": "031-2500999",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Air Arabia",
+        "Flydubai",
+        "SalamAir",
+        "Jazeera Airways"
+      ]
+    }
+  ],
+  "division": "Chattogram",
+  "district": "Chattogram",
+  "total_railway_stations": 1,
+  "total_airports": 1
+}

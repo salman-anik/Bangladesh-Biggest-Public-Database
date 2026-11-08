@@ -1,0 +1,26 @@
+{
+  "railway_stations": [],
+  "airports": [
+    {
+      "iata_code": "BZL",
+      "icao_code": "VGBR",
+      "name": "Barishal Airport",
+      "bn_name": "বরিশাল বিমানবন্দর",
+      "type": "Domestic",
+      "city": "Barishal",
+      "district": "Barishal",
+      "runway_length_ft": 6000,
+      "terminal_count": 1,
+      "hotline": "0431-2173593",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Novoair"
+      ]
+    }
+  ],
+  "division": "Dhaka",
+  "district": "Barishal",
+  "total_railway_stations": 0,
+  "total_airports": 1
+}

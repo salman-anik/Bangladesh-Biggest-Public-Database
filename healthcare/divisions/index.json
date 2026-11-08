@@ -1,0 +1,3594 @@
+{
+  "title": "Bangladesh Healthcare Directory - Partitioned by Hierarchy",
+  "description": "Hospitals, clinics, and health facilities organized by Division > District > Upazila",
+  "total_hospitals": 3590,
+  "total_divisions": 9,
+  "total_districts": 68,
+  "total_upazilas": 512,
+  "partitions": [
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Amtali",
+      "hospital_count": 4,
+      "file_path": "divisions/Barishal/Barguna/Amtali.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Barguna Sadar",
+      "hospital_count": 11,
+      "file_path": "divisions/Barishal/Barguna/Barguna Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Betagi",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barguna/Betagi.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Patharghata",
+      "hospital_count": 4,
+      "file_path": "divisions/Barishal/Barguna/Patharghata.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barguna/Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Agailjhara",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Agailjhara.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Babuganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Babuganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Bakerganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Bakerganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Band Road",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Band Road.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Barisal Sadar (Kotwali)",
+      "hospital_count": 18,
+      "file_path": "divisions/Barishal/Barishal/Barisal Sadar (Kotwali).json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Gaurnadi",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Gaurnadi.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Hizla",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Hizla.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Mehendiganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Mehendiganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Muladi",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Barishal/Muladi.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Wazirpur",
+      "hospital_count": 3,
+      "file_path": "divisions/Barishal/Barishal/Wazirpur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Bhola Sadar",
+      "hospital_count": 14,
+      "file_path": "divisions/Barishal/Bhola/Bhola Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Burhanuddin",
+      "hospital_count": 11,
+      "file_path": "divisions/Barishal/Bhola/Burhanuddin.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Char Fasson",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Bhola/Char Fasson.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Daulatkhan",
+      "hospital_count": 11,
+      "file_path": "divisions/Barishal/Bhola/Daulatkhan.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Lalmohan",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Bhola/Lalmohan.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Manpura",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Bhola/Manpura.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Bhola/Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalokati",
+      "upazila": "Jhalokati Sadar",
+      "hospital_count": 2,
+      "file_path": "divisions/Barishal/Jhalokati/Jhalokati Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalokati",
+      "upazila": "Nalchity",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Jhalokati/Nalchity.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalokati",
+      "upazila": "Rajapur",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Jhalokati/Rajapur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Bauphal",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Patuakhali/Bauphal.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Dashmina",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Patuakhali/Dashmina.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Dumki",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Patuakhali/Dumki.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Galachipa",
+      "hospital_count": 12,
+      "file_path": "divisions/Barishal/Patuakhali/Galachipa.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Kala Para",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Patuakhali/Kala Para.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Mirzaganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Patuakhali/Mirzaganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Patuakhali Sadar",
+      "hospital_count": 9,
+      "file_path": "divisions/Barishal/Patuakhali/Patuakhali Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Patuakhali/Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Bhandaria",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Pirojpur/Bhandaria.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Kawkhali",
+      "hospital_count": 2,
+      "file_path": "divisions/Barishal/Pirojpur/Kawkhali.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Mathbaria",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Pirojpur/Mathbaria.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Nazirpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Pirojpur/Nazirpur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Pirojpur Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Pirojpur/Pirojpur Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Barishal/Pirojpur/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Alikadam",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Bandarban/Alikadam.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Lama",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Bandarban/Lama.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Naikhongchhari",
+      "hospital_count": 4,
+      "file_path": "divisions/Chattogram/Bandarban/Naikhongchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Rowangchhari",
+      "hospital_count": 3,
+      "file_path": "divisions/Chattogram/Bandarban/Rowangchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Ruma",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Bandarban/Ruma.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Bandarban/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Thanchi",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Bandarban/Thanchi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Brahmanbaria Sadar",
+      "hospital_count": 5,
+      "file_path": "divisions/Chattogram/Brahmanbaria/Brahmanbaria Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Brahmanbaria/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Chandpur Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chandpur/Chandpur Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Faridganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chandpur/Faridganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Haim Char",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chandpur/Haim Char.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Hajiganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Chandpur/Hajiganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Kachua",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Chandpur/Kachua.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Matlab Dakshin",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chandpur/Matlab Dakshin.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chandpur/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Shahrasti",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chandpur/Shahrasti.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Ananya RA",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chattogram/Ananya RA.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Anowara",
+      "hospital_count": 4,
+      "file_path": "divisions/Chattogram/Chattogram/Anowara.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Bakalia",
+      "hospital_count": 11,
+      "file_path": "divisions/Chattogram/Chattogram/Bakalia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Bayejid Bostami",
+      "hospital_count": 10,
+      "file_path": "divisions/Chattogram/Chattogram/Bayejid Bostami.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Boalkhali",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chattogram/Boalkhali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Chandanaish",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chattogram/Chandanaish.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Chandgaon",
+      "hospital_count": 7,
+      "file_path": "divisions/Chattogram/Chattogram/Chandgaon.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Chittagong Port",
+      "hospital_count": 20,
+      "file_path": "divisions/Chattogram/Chattogram/Chittagong Port.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Double Mooring",
+      "hospital_count": 24,
+      "file_path": "divisions/Chattogram/Chattogram/Double Mooring.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Fatikchhari",
+      "hospital_count": 5,
+      "file_path": "divisions/Chattogram/Chattogram/Fatikchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Halishahar",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Chattogram/Halishahar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Hathazari",
+      "hospital_count": 17,
+      "file_path": "divisions/Chattogram/Chattogram/Hathazari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Khulshi",
+      "hospital_count": 18,
+      "file_path": "divisions/Chattogram/Chattogram/Khulshi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Kotwali",
+      "hospital_count": 77,
+      "file_path": "divisions/Chattogram/Chattogram/Kotwali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Lohagara",
+      "hospital_count": 4,
+      "file_path": "divisions/Chattogram/Chattogram/Lohagara.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Mirsharai",
+      "hospital_count": 12,
+      "file_path": "divisions/Chattogram/Chattogram/Mirsharai.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Panchlaish",
+      "hospital_count": 6,
+      "file_path": "divisions/Chattogram/Chattogram/Panchlaish.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Patenga",
+      "hospital_count": 6,
+      "file_path": "divisions/Chattogram/Chattogram/Patenga.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Patiya",
+      "hospital_count": 4,
+      "file_path": "divisions/Chattogram/Chattogram/Patiya.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Rangunia",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Chattogram/Rangunia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Raozan",
+      "hospital_count": 8,
+      "file_path": "divisions/Chattogram/Chattogram/Raozan.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Satkania",
+      "hospital_count": 3,
+      "file_path": "divisions/Chattogram/Chattogram/Satkania.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Sitakunda",
+      "hospital_count": 17,
+      "file_path": "divisions/Chattogram/Chattogram/Sitakunda.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Chakaria",
+      "hospital_count": 14,
+      "file_path": "divisions/Chattogram/Cox's Bazar/Chakaria.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Cox's Bazar Sadar",
+      "hospital_count": 13,
+      "file_path": "divisions/Chattogram/Cox's Bazar/Cox's Bazar Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Kutubdia",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Cox's Bazar/Kutubdia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Ramu",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cox's Bazar/Ramu.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cox's Bazar/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Ukhia",
+      "hospital_count": 32,
+      "file_path": "divisions/Chattogram/Cox's Bazar/Ukhia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Adarsha Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cumilla/Adarsha Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Barura",
+      "hospital_count": 11,
+      "file_path": "divisions/Chattogram/Cumilla/Barura.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Brahman Para",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cumilla/Brahman Para.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Burichang",
+      "hospital_count": 4,
+      "file_path": "divisions/Chattogram/Cumilla/Burichang.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Chandina",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Cumilla/Chandina.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Chauddagram",
+      "hospital_count": 12,
+      "file_path": "divisions/Chattogram/Cumilla/Chauddagram.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Comilla Adarsha Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cumilla/Comilla Adarsha Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Comilla Sadar Dakshin",
+      "hospital_count": 7,
+      "file_path": "divisions/Chattogram/Cumilla/Comilla Sadar Dakshin.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Daudkandi",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cumilla/Daudkandi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Debidwar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cumilla/Debidwar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Homna",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Cumilla/Homna.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Laksam",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Cumilla/Laksam.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Manoharganj",
+      "hospital_count": 4,
+      "file_path": "divisions/Chattogram/Cumilla/Manoharganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Muradnagar",
+      "hospital_count": 7,
+      "file_path": "divisions/Chattogram/Cumilla/Muradnagar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "upazila": "Nangalkot",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Cumilla/Nangalkot.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Chhagalnaiya",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Feni/Chhagalnaiya.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Daganbhuiyan",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Feni/Daganbhuiyan.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Feni Sadar",
+      "hospital_count": 11,
+      "file_path": "divisions/Chattogram/Feni/Feni Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Parshuram",
+      "hospital_count": 3,
+      "file_path": "divisions/Chattogram/Feni/Parshuram.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Feni/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Sonagazi",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Feni/Sonagazi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Dighinala",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Khagrachhari/Dighinala.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Khagrachhari Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Khagrachhari/Khagrachhari Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Manikchhari",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Khagrachhari/Manikchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Matiranga",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Khagrachhari/Matiranga.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Panchhari",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Khagrachhari/Panchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Khagrachhari/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Lakshmipur Sadar",
+      "hospital_count": 3,
+      "file_path": "divisions/Chattogram/Lakshmipur/Lakshmipur Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Ramganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Lakshmipur/Ramganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Roypur",
+      "hospital_count": 3,
+      "file_path": "divisions/Chattogram/Lakshmipur/Roypur.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Lakshmipur/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Begumganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Noakhali/Begumganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Chatkhil",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Noakhali/Chatkhil.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Hatiya",
+      "hospital_count": 3,
+      "file_path": "divisions/Chattogram/Noakhali/Hatiya.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Noakhali Sadar (Sudharam)",
+      "hospital_count": 5,
+      "file_path": "divisions/Chattogram/Noakhali/Noakhali Sadar (Sudharam).json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Noakhali/Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Senbagh",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Noakhali/Senbagh.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Sonaimuri",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Noakhali/Sonaimuri.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Subarnachar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Noakhali/Subarnachar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Baghai Chhari",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Rangamati/Baghai Chhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Jurai Chhari",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Rangamati/Jurai Chhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Kaptai",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Rangamati/Kaptai.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Kawkhali (Betbunia)",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Rangamati/Kawkhali (Betbunia).json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Rangamati Sadar",
+      "hospital_count": 2,
+      "file_path": "divisions/Chattogram/Rangamati/Rangamati Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Chattogram/Rangamati/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Ashuganj",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Dhaka/Ashuganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Badda",
+      "hospital_count": 29,
+      "file_path": "divisions/Dhaka/Dhaka/Badda.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Banchharampur",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Banchharampur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Bangshal",
+      "hospital_count": 24,
+      "file_path": "divisions/Dhaka/Dhaka/Bangshal.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Bashundhara",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Dhaka/Bashundhara.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Cantonment",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Dhaka/Cantonment.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dakshinkhan",
+      "hospital_count": 6,
+      "file_path": "divisions/Dhaka/Dhaka/Dakshinkhan.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Darus Salam",
+      "hospital_count": 9,
+      "file_path": "divisions/Dhaka/Dhaka/Darus Salam.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Demra",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Dhaka/Demra.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dhamrai",
+      "hospital_count": 5,
+      "file_path": "divisions/Dhaka/Dhaka/Dhamrai.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dhanmondi",
+      "hospital_count": 119,
+      "file_path": "divisions/Dhaka/Dhaka/Dhanmondi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dohar",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Dhaka/Dohar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Gulshan",
+      "hospital_count": 62,
+      "file_path": "divisions/Dhaka/Dhaka/Gulshan.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Hazaribagh",
+      "hospital_count": 12,
+      "file_path": "divisions/Dhaka/Dhaka/Hazaribagh.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Jatrabari",
+      "hospital_count": 14,
+      "file_path": "divisions/Dhaka/Dhaka/Jatrabari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Kafrul",
+      "hospital_count": 82,
+      "file_path": "divisions/Dhaka/Dhaka/Kafrul.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Kamrangir Char",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Dhaka/Kamrangir Char.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Keraniganj",
+      "hospital_count": 20,
+      "file_path": "divisions/Dhaka/Dhaka/Keraniganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Khilkhet",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Dhaka/Khilkhet.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Kotwali",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Kotwali.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Mirpur",
+      "hospital_count": 163,
+      "file_path": "divisions/Dhaka/Dhaka/Mirpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Mohakhali",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Mohakhali.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Mohammadpur",
+      "hospital_count": 109,
+      "file_path": "divisions/Dhaka/Dhaka/Mohammadpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Nabinagar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Nabinagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Nasirnagar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Nasirnagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Pallabi",
+      "hospital_count": 63,
+      "file_path": "divisions/Dhaka/Dhaka/Pallabi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Paltan",
+      "hospital_count": 47,
+      "file_path": "divisions/Dhaka/Dhaka/Paltan.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Panthapath",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Panthapath.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Ramna",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Dhaka/Ramna.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Rampura",
+      "hospital_count": 31,
+      "file_path": "divisions/Dhaka/Dhaka/Rampura.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Sabujbagh",
+      "hospital_count": 41,
+      "file_path": "divisions/Dhaka/Dhaka/Sabujbagh.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Sarail",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Dhaka/Sarail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Savar",
+      "hospital_count": 63,
+      "file_path": "divisions/Dhaka/Dhaka/Savar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Shah Ali",
+      "hospital_count": 29,
+      "file_path": "divisions/Dhaka/Dhaka/Shah Ali.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Shahbagh",
+      "hospital_count": 44,
+      "file_path": "divisions/Dhaka/Dhaka/Shahbagh.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Sher-e-Bangla Nagar",
+      "hospital_count": 9,
+      "file_path": "divisions/Dhaka/Dhaka/Sher-e-Bangla Nagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Sher-e-bangla Nagar",
+      "hospital_count": 65,
+      "file_path": "divisions/Dhaka/Dhaka/Sher-e-bangla Nagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Shyampur",
+      "hospital_count": 34,
+      "file_path": "divisions/Dhaka/Dhaka/Shyampur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Tejgaon Ind. Area",
+      "hospital_count": 41,
+      "file_path": "divisions/Dhaka/Dhaka/Tejgaon Ind. Area.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Turag",
+      "hospital_count": 9,
+      "file_path": "divisions/Dhaka/Dhaka/Turag.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Uttara",
+      "hospital_count": 21,
+      "file_path": "divisions/Dhaka/Dhaka/Uttara.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Alfadanga",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Faridpur/Alfadanga.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Bhanga",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Faridpur/Bhanga.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Boalmari",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Faridpur/Boalmari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Faridpur Sadar",
+      "hospital_count": 15,
+      "file_path": "divisions/Dhaka/Faridpur/Faridpur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Madhukhali",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Faridpur/Madhukhali.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Faridpur/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Gazipur Sadar",
+      "hospital_count": 59,
+      "file_path": "divisions/Dhaka/Gazipur/Gazipur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Kaliakair",
+      "hospital_count": 18,
+      "file_path": "divisions/Dhaka/Gazipur/Kaliakair.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Kapasia",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Gazipur/Kapasia.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Gazipur/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Sreepur",
+      "hospital_count": 15,
+      "file_path": "divisions/Dhaka/Gazipur/Sreepur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Gopalganj Sadar",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Gopalganj/Gopalganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Kashiani",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Gopalganj/Kashiani.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Kotali Para",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Gopalganj/Kotali Para.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Muksudpur",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Gopalganj/Muksudpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Gopalganj/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Tungi Para",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Gopalganj/Tungi Para.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Bhairab",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Kishoreganj/Bhairab.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Hossainpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Kishoreganj/Hossainpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Itna",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Kishoreganj/Itna.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Karimganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Kishoreganj/Karimganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Katiadi",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Kishoreganj/Katiadi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Kishoreganj Sadar",
+      "hospital_count": 21,
+      "file_path": "divisions/Dhaka/Kishoreganj/Kishoreganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Kuliar Char",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Kishoreganj/Kuliar Char.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Mithamain",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Kishoreganj/Mithamain.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Nikli",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Kishoreganj/Nikli.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Pakundia",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Kishoreganj/Pakundia.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Kishoreganj/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Tarail",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Kishoreganj/Tarail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Kalkini",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Madaripur/Kalkini.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Madaripur Sadar",
+      "hospital_count": 7,
+      "file_path": "divisions/Dhaka/Madaripur/Madaripur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Rajoir",
+      "hospital_count": 5,
+      "file_path": "divisions/Dhaka/Madaripur/Rajoir.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Madaripur/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Shib Char",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Madaripur/Shib Char.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Daulatpur",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Manikganj/Daulatpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Ghior",
+      "hospital_count": 5,
+      "file_path": "divisions/Dhaka/Manikganj/Ghior.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Harirampur",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Manikganj/Harirampur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Manikganj Sadar",
+      "hospital_count": 20,
+      "file_path": "divisions/Dhaka/Manikganj/Manikganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Manikganj/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Saturia",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Manikganj/Saturia.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Shibalaya",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Manikganj/Shibalaya.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Singair",
+      "hospital_count": 6,
+      "file_path": "divisions/Dhaka/Manikganj/Singair.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Gazaria",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Munshiganj/Gazaria.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "hospital_count": 17,
+      "file_path": "divisions/Dhaka/Munshiganj/Munshiganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Munshiganj/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Serajdikhan",
+      "hospital_count": 10,
+      "file_path": "divisions/Dhaka/Munshiganj/Serajdikhan.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Sreenagar",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Munshiganj/Sreenagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Tongibari",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Munshiganj/Tongibari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Bandar",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Narayanganj/Bandar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Narayanganj Sadar",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Narayanganj/Narayanganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Rupganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Narayanganj/Rupganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Narayanganj/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Belabo",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Narsingdi/Belabo.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Manohardi",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Narsingdi/Manohardi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Narsingdi Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Narsingdi/Narsingdi Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Narsingdi/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Shibpur",
+      "hospital_count": 4,
+      "file_path": "divisions/Dhaka/Narsingdi/Shibpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Balia Kandi",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Rajbari/Balia Kandi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Goalandaghat",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Rajbari/Goalandaghat.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Pangsha",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Rajbari/Pangsha.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Rajbari Sadar",
+      "hospital_count": 5,
+      "file_path": "divisions/Dhaka/Rajbari/Rajbari Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Rajbari/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Bhedarganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Shariatpur/Bhedarganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Damudya",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Shariatpur/Damudya.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Gosairhat",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Shariatpur/Gosairhat.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Naria",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Shariatpur/Naria.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Shariatpur/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Shariatpur Sadar",
+      "hospital_count": 8,
+      "file_path": "divisions/Dhaka/Shariatpur/Shariatpur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Zanjira",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Shariatpur/Zanjira.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Basail",
+      "hospital_count": 5,
+      "file_path": "divisions/Dhaka/Tangail/Basail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Bhuapur",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Tangail/Bhuapur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Delduar",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Tangail/Delduar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Dhanbari",
+      "hospital_count": 8,
+      "file_path": "divisions/Dhaka/Tangail/Dhanbari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Ghatail",
+      "hospital_count": 17,
+      "file_path": "divisions/Dhaka/Tangail/Ghatail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Gopalpur",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Tangail/Gopalpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Kalihati",
+      "hospital_count": 8,
+      "file_path": "divisions/Dhaka/Tangail/Kalihati.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Madhupur",
+      "hospital_count": 8,
+      "file_path": "divisions/Dhaka/Tangail/Madhupur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Mirzapur",
+      "hospital_count": 7,
+      "file_path": "divisions/Dhaka/Tangail/Mirzapur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Nagarpur",
+      "hospital_count": 3,
+      "file_path": "divisions/Dhaka/Tangail/Nagarpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Dhaka/Tangail/Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Sakhipur",
+      "hospital_count": 2,
+      "file_path": "divisions/Dhaka/Tangail/Sakhipur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Tangail Sadar",
+      "hospital_count": 51,
+      "file_path": "divisions/Dhaka/Tangail/Tangail Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Bagerhat Sadar",
+      "hospital_count": 30,
+      "file_path": "divisions/Khulna/Bagerhat/Bagerhat Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Chitalmari",
+      "hospital_count": 7,
+      "file_path": "divisions/Khulna/Bagerhat/Chitalmari.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Fakirhat",
+      "hospital_count": 4,
+      "file_path": "divisions/Khulna/Bagerhat/Fakirhat.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Kachua",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Bagerhat/Kachua.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Mollahat",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Bagerhat/Mollahat.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Mongla",
+      "hospital_count": 6,
+      "file_path": "divisions/Khulna/Bagerhat/Mongla.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Morrelganj",
+      "hospital_count": 9,
+      "file_path": "divisions/Khulna/Bagerhat/Morrelganj.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Rampal",
+      "hospital_count": 3,
+      "file_path": "divisions/Khulna/Bagerhat/Rampal.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Bagerhat/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Sarankhola",
+      "hospital_count": 23,
+      "file_path": "divisions/Khulna/Bagerhat/Sarankhola.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Alamdanga",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Chuadanga/Alamdanga.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Chuadanga Sadar",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Chuadanga/Chuadanga Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Damurhuda",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Chuadanga/Damurhuda.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Chuadanga/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Abhaynagar",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Jashore/Abhaynagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Bagher Para",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Jashore/Bagher Para.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Chaugachha",
+      "hospital_count": 5,
+      "file_path": "divisions/Khulna/Jashore/Chaugachha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Jhikargachha",
+      "hospital_count": 3,
+      "file_path": "divisions/Khulna/Jashore/Jhikargachha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Keshabpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Jashore/Keshabpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Kotwali",
+      "hospital_count": 24,
+      "file_path": "divisions/Khulna/Jashore/Kotwali.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Manirampur",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Jashore/Manirampur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Harinakunda",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Jhenaidah/Harinakunda.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Jhenaidah Sadar",
+      "hospital_count": 7,
+      "file_path": "divisions/Khulna/Jhenaidah/Jhenaidah Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Kaliganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Jhenaidah/Kaliganj.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Maheshpur",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Jhenaidah/Maheshpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Jhenaidah/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Shailkupa",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Jhenaidah/Shailkupa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Batiaghata",
+      "hospital_count": 5,
+      "file_path": "divisions/Khulna/Khulna/Batiaghata.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Dacope",
+      "hospital_count": 20,
+      "file_path": "divisions/Khulna/Khulna/Dacope.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Daulatpur",
+      "hospital_count": 8,
+      "file_path": "divisions/Khulna/Khulna/Daulatpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Dighalia",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Khulna/Dighalia.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Dumuria",
+      "hospital_count": 9,
+      "file_path": "divisions/Khulna/Khulna/Dumuria.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Khalishpur",
+      "hospital_count": 7,
+      "file_path": "divisions/Khulna/Khulna/Khalishpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Khan Jahan Ali",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Khulna/Khan Jahan Ali.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Khulna Sadar",
+      "hospital_count": 26,
+      "file_path": "divisions/Khulna/Khulna/Khulna Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Koyra",
+      "hospital_count": 9,
+      "file_path": "divisions/Khulna/Khulna/Koyra.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Paikgachha",
+      "hospital_count": 6,
+      "file_path": "divisions/Khulna/Khulna/Paikgachha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Phultala",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Khulna/Phultala.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Rupsa",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Khulna/Rupsa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Sonadanga",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Khulna/Sonadanga.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Terokhada",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Khulna/Terokhada.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Daulatpur",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Kushtia/Daulatpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Khoksa",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Kushtia/Khoksa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Kumarkhali",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Kushtia/Kumarkhali.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Kushtia Sadar",
+      "hospital_count": 4,
+      "file_path": "divisions/Khulna/Kushtia/Kushtia Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Kushtia/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Magura Sadar",
+      "hospital_count": 8,
+      "file_path": "divisions/Khulna/Magura/Magura Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Magura/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Shalikha",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Magura/Shalikha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Sreepur",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Magura/Sreepur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Gangni",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Meherpur/Gangni.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Meherpur Sadar",
+      "hospital_count": 9,
+      "file_path": "divisions/Khulna/Meherpur/Meherpur Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Mujib Nagar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Meherpur/Mujib Nagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Meherpur/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Kalia",
+      "hospital_count": 13,
+      "file_path": "divisions/Khulna/Narail/Kalia.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Lohagara",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Narail/Lohagara.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Narail Sadar",
+      "hospital_count": 5,
+      "file_path": "divisions/Khulna/Narail/Narail Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Narail/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Assasuni",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Satkhira/Assasuni.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Debhata",
+      "hospital_count": 2,
+      "file_path": "divisions/Khulna/Satkhira/Debhata.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Kalaroa",
+      "hospital_count": 7,
+      "file_path": "divisions/Khulna/Satkhira/Kalaroa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Kaliganj",
+      "hospital_count": 3,
+      "file_path": "divisions/Khulna/Satkhira/Kaliganj.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Khulna/Satkhira/Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Satkhira Sadar",
+      "hospital_count": 57,
+      "file_path": "divisions/Khulna/Satkhira/Satkhira Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Shyamnagar",
+      "hospital_count": 3,
+      "file_path": "divisions/Khulna/Satkhira/Shyamnagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Tala",
+      "hospital_count": 3,
+      "file_path": "divisions/Khulna/Satkhira/Tala.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Bakshiganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Jamalpur/Bakshiganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Dewanganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Mymensingh/Jamalpur/Dewanganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Jamalpur Sadar",
+      "hospital_count": 20,
+      "file_path": "divisions/Mymensingh/Jamalpur/Jamalpur Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Madarganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Jamalpur/Madarganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Melandaha",
+      "hospital_count": 2,
+      "file_path": "divisions/Mymensingh/Jamalpur/Melandaha.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Jamalpur/Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Sarishabari",
+      "hospital_count": 3,
+      "file_path": "divisions/Mymensingh/Jamalpur/Sarishabari.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Bhaluka",
+      "hospital_count": 9,
+      "file_path": "divisions/Mymensingh/Mymensingh/Bhaluka.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Charpara",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Mymensingh/Charpara.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Dhobaura",
+      "hospital_count": 2,
+      "file_path": "divisions/Mymensingh/Mymensingh/Dhobaura.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Gaffargaon",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Mymensingh/Gaffargaon.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Gauripur",
+      "hospital_count": 4,
+      "file_path": "divisions/Mymensingh/Mymensingh/Gauripur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Haluaghat",
+      "hospital_count": 7,
+      "file_path": "divisions/Mymensingh/Mymensingh/Haluaghat.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Ishwarganj",
+      "hospital_count": 5,
+      "file_path": "divisions/Mymensingh/Mymensingh/Ishwarganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Muktagachha",
+      "hospital_count": 11,
+      "file_path": "divisions/Mymensingh/Mymensingh/Muktagachha.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Mymensingh Sadar",
+      "hospital_count": 43,
+      "file_path": "divisions/Mymensingh/Mymensingh/Mymensingh Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Nandail",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Mymensingh/Nandail.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Phulpur",
+      "hospital_count": 7,
+      "file_path": "divisions/Mymensingh/Mymensingh/Phulpur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Trishal",
+      "hospital_count": 6,
+      "file_path": "divisions/Mymensingh/Mymensingh/Trishal.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Atpara",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Netrakona/Atpara.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Durgapur",
+      "hospital_count": 5,
+      "file_path": "divisions/Mymensingh/Netrakona/Durgapur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Kalmakanda",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Netrakona/Kalmakanda.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Kendua",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Netrakona/Kendua.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Khaliajuri",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Netrakona/Khaliajuri.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Madan",
+      "hospital_count": 8,
+      "file_path": "divisions/Mymensingh/Netrakona/Madan.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Mohanganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Netrakona/Mohanganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrakona",
+      "upazila": "Netrokona Sadar",
+      "hospital_count": 16,
+      "file_path": "divisions/Mymensingh/Netrakona/Netrokona Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Jhenaigati",
+      "hospital_count": 2,
+      "file_path": "divisions/Mymensingh/Sherpur/Jhenaigati.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Nakla",
+      "hospital_count": 4,
+      "file_path": "divisions/Mymensingh/Sherpur/Nakla.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Nalitabari",
+      "hospital_count": 12,
+      "file_path": "divisions/Mymensingh/Sherpur/Nalitabari.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Mymensingh/Sherpur/Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Sherpur Sadar",
+      "hospital_count": 30,
+      "file_path": "divisions/Mymensingh/Sherpur/Sherpur Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Adamdighi",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Bogura/Adamdighi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Bogra Sadar",
+      "hospital_count": 33,
+      "file_path": "divisions/Rajshahi/Bogura/Bogra Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Dhunat",
+      "hospital_count": 3,
+      "file_path": "divisions/Rajshahi/Bogura/Dhunat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Dhupchanchia",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Bogura/Dhupchanchia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Gabtali",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Bogura/Gabtali.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Kahaloo",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Bogura/Kahaloo.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Nandigram",
+      "hospital_count": 4,
+      "file_path": "divisions/Rajshahi/Bogura/Nandigram.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Sariakandi",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Bogura/Sariakandi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Shajahanpur",
+      "hospital_count": 49,
+      "file_path": "divisions/Rajshahi/Bogura/Shajahanpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Sherpur",
+      "hospital_count": 16,
+      "file_path": "divisions/Rajshahi/Bogura/Sherpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Shibganj",
+      "hospital_count": 5,
+      "file_path": "divisions/Rajshahi/Bogura/Shibganj.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Silimpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Bogura/Silimpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Sonatola",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Bogura/Sonatola.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "upazila": "Bholahat",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Chapai Nawabganj/Bholahat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "upazila": "Gomastapur",
+      "hospital_count": 3,
+      "file_path": "divisions/Rajshahi/Chapai Nawabganj/Gomastapur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "upazila": "Nachole",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Chapai Nawabganj/Nachole.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "upazila": "Nawabganj Sadar",
+      "hospital_count": 4,
+      "file_path": "divisions/Rajshahi/Chapai Nawabganj/Nawabganj Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "upazila": "Shibganj",
+      "hospital_count": 4,
+      "file_path": "divisions/Rajshahi/Chapai Nawabganj/Shibganj.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Akkelpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Joypurhat/Akkelpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Joypurhat/Joypurhat Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Panchbibi",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Joypurhat/Panchbibi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Joypurhat/Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Badalgachhi",
+      "hospital_count": 5,
+      "file_path": "divisions/Rajshahi/Naogaon/Badalgachhi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Dhamoirhat",
+      "hospital_count": 3,
+      "file_path": "divisions/Rajshahi/Naogaon/Dhamoirhat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Mahadebpur",
+      "hospital_count": 12,
+      "file_path": "divisions/Rajshahi/Naogaon/Mahadebpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Naogaon Sadar",
+      "hospital_count": 23,
+      "file_path": "divisions/Rajshahi/Naogaon/Naogaon Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Niamatpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Naogaon/Niamatpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Patnitala",
+      "hospital_count": 12,
+      "file_path": "divisions/Rajshahi/Naogaon/Patnitala.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Porsha",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Naogaon/Porsha.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Raninagar",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Naogaon/Raninagar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Naogaon/Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Sapahar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Naogaon/Sapahar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Baraigram",
+      "hospital_count": 8,
+      "file_path": "divisions/Rajshahi/Natore/Baraigram.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Gurudaspur",
+      "hospital_count": 4,
+      "file_path": "divisions/Rajshahi/Natore/Gurudaspur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Lalpur",
+      "hospital_count": 6,
+      "file_path": "divisions/Rajshahi/Natore/Lalpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Natore Sadar",
+      "hospital_count": 22,
+      "file_path": "divisions/Rajshahi/Natore/Natore Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Natore/Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Singra",
+      "hospital_count": 5,
+      "file_path": "divisions/Rajshahi/Natore/Singra.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Bera",
+      "hospital_count": 7,
+      "file_path": "divisions/Rajshahi/Pabna/Bera.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Bhangura",
+      "hospital_count": 4,
+      "file_path": "divisions/Rajshahi/Pabna/Bhangura.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Chatmohar",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Pabna/Chatmohar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Faridpur",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Pabna/Faridpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Hemayetpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Pabna/Hemayetpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Ishwardi",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Pabna/Ishwardi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Pabna Sadar",
+      "hospital_count": 3,
+      "file_path": "divisions/Rajshahi/Pabna/Pabna Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Pabna/Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Santhia",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Pabna/Santhia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Sujanagar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Pabna/Sujanagar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Boalia",
+      "hospital_count": 9,
+      "file_path": "divisions/Rajshahi/Rajshahi/Boalia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Charghat",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Rajshahi/Charghat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Godagari",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Rajshahi/Godagari.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Mohanpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Rajshahi/Mohanpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Paba",
+      "hospital_count": 3,
+      "file_path": "divisions/Rajshahi/Rajshahi/Paba.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Puthia",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Rajshahi/Puthia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Rajpara",
+      "hospital_count": 49,
+      "file_path": "divisions/Rajshahi/Rajshahi/Rajpara.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Rajputpara",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Rajshahi/Rajputpara.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Tanore",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Rajshahi/Tanore.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Belkuchi",
+      "hospital_count": 4,
+      "file_path": "divisions/Rajshahi/Sirajganj/Belkuchi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Chauhali",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Sirajganj/Chauhali.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Sirajganj/Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Shahjadpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rajshahi/Sirajganj/Shahjadpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Sirajganj Sadar",
+      "hospital_count": 8,
+      "file_path": "divisions/Rajshahi/Sirajganj/Sirajganj Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Tarash",
+      "hospital_count": 2,
+      "file_path": "divisions/Rajshahi/Sirajganj/Tarash.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Ullah Para",
+      "hospital_count": 5,
+      "file_path": "divisions/Rajshahi/Sirajganj/Ullah Para.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Birampur",
+      "hospital_count": 7,
+      "file_path": "divisions/Rangpur/Dinajpur/Birampur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Birganj",
+      "hospital_count": 4,
+      "file_path": "divisions/Rangpur/Dinajpur/Birganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Bochaganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Dinajpur/Bochaganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Dinajpur Sadar",
+      "hospital_count": 23,
+      "file_path": "divisions/Rangpur/Dinajpur/Dinajpur Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Fulbari",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Dinajpur/Fulbari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Hakimpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Dinajpur/Hakimpur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Kaharole",
+      "hospital_count": 3,
+      "file_path": "divisions/Rangpur/Dinajpur/Kaharole.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Nawabganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Dinajpur/Nawabganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Panchbibi",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Dinajpur/Panchbibi.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Parbatipur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Dinajpur/Parbatipur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Dinajpur/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Gaibandha Sadar",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Gaibandha/Gaibandha Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Gobindaganj",
+      "hospital_count": 11,
+      "file_path": "divisions/Rangpur/Gaibandha/Gobindaganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Palashbari",
+      "hospital_count": 3,
+      "file_path": "divisions/Rangpur/Gaibandha/Palashbari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Gaibandha/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Sadullapur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Gaibandha/Sadullapur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Saghatta",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Gaibandha/Saghatta.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Sundarganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Gaibandha/Sundarganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Bhurungamari",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Kurigram/Bhurungamari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Char Rajibpur",
+      "hospital_count": 5,
+      "file_path": "divisions/Rangpur/Kurigram/Char Rajibpur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "hospital_count": 5,
+      "file_path": "divisions/Rangpur/Kurigram/Chilmari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Kurigram Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Kurigram/Kurigram Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Nageshwari",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Kurigram/Nageshwari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Raumari",
+      "hospital_count": 23,
+      "file_path": "divisions/Rangpur/Kurigram/Raumari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Kurigram/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Ulipur",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Kurigram/Ulipur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Hatibandha",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Lalmonirhat/Hatibandha.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Kaliganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Lalmonirhat/Kaliganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Lalmonirhat Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Lalmonirhat/Lalmonirhat Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Patgram",
+      "hospital_count": 3,
+      "file_path": "divisions/Rangpur/Lalmonirhat/Patgram.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Lalmonirhat/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Dimla",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Nilphamari/Dimla.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Domar",
+      "hospital_count": 3,
+      "file_path": "divisions/Rangpur/Nilphamari/Domar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Kishoreganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Nilphamari/Kishoreganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "hospital_count": 24,
+      "file_path": "divisions/Rangpur/Nilphamari/Nilphamari Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Nilphamari/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Saidpur",
+      "hospital_count": 17,
+      "file_path": "divisions/Rangpur/Nilphamari/Saidpur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Atwari",
+      "hospital_count": 7,
+      "file_path": "divisions/Rangpur/Panchagarh/Atwari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Boda",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Panchagarh/Boda.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Debiganj",
+      "hospital_count": 4,
+      "file_path": "divisions/Rangpur/Panchagarh/Debiganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "hospital_count": 12,
+      "file_path": "divisions/Rangpur/Panchagarh/Panchagarh Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Panchagarh/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Badarganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Rangpur/Badarganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Dhap",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Rangpur/Dhap.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Gangachara",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Rangpur/Gangachara.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Mitha Pukur",
+      "hospital_count": 4,
+      "file_path": "divisions/Rangpur/Rangpur/Mitha Pukur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Pirganj",
+      "hospital_count": 7,
+      "file_path": "divisions/Rangpur/Rangpur/Pirganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Rangpur Sadar",
+      "hospital_count": 110,
+      "file_path": "divisions/Rangpur/Rangpur/Rangpur Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Taraganj",
+      "hospital_count": 4,
+      "file_path": "divisions/Rangpur/Rangpur/Taraganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Baliadangi",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Thakurgaon/Baliadangi.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Ranisankail",
+      "hospital_count": 2,
+      "file_path": "divisions/Rangpur/Thakurgaon/Ranisankail.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Rangpur/Thakurgaon/Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Thakurgaon Sadar",
+      "hospital_count": 8,
+      "file_path": "divisions/Rangpur/Thakurgaon/Thakurgaon Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Ajmiriganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Habiganj/Ajmiriganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Baniachong",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Habiganj/Baniachong.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Chunarughat",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Habiganj/Chunarughat.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Habiganj Sadar",
+      "hospital_count": 10,
+      "file_path": "divisions/Sylhet/Habiganj/Habiganj Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Madhabpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Habiganj/Madhabpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Nabiganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Sylhet/Habiganj/Nabiganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Habiganj/Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Barlekha",
+      "hospital_count": 4,
+      "file_path": "divisions/Sylhet/Maulvibazar/Barlekha.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Juri",
+      "hospital_count": 5,
+      "file_path": "divisions/Sylhet/Maulvibazar/Juri.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Kamalganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Sylhet/Maulvibazar/Kamalganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Kulaura",
+      "hospital_count": 3,
+      "file_path": "divisions/Sylhet/Maulvibazar/Kulaura.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Maulvi Bazar Sadar",
+      "hospital_count": 11,
+      "file_path": "divisions/Sylhet/Maulvibazar/Maulvi Bazar Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Rajnagar",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Maulvibazar/Rajnagar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "upazila": "Sreemangal",
+      "hospital_count": 4,
+      "file_path": "divisions/Sylhet/Maulvibazar/Sreemangal.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Bishwambarpur",
+      "hospital_count": 2,
+      "file_path": "divisions/Sylhet/Sunamganj/Bishwambarpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Chhatak",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Chhatak.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Dakshin Sunamganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Dakshin Sunamganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Derai",
+      "hospital_count": 3,
+      "file_path": "divisions/Sylhet/Sunamganj/Derai.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Dowarabazar",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Dowarabazar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Jagannathpur",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Jagannathpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Jamalganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Jamalganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Sulla",
+      "hospital_count": 7,
+      "file_path": "divisions/Sylhet/Sunamganj/Sulla.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Sunamganj Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sunamganj/Sunamganj Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Tahirpur",
+      "hospital_count": 5,
+      "file_path": "divisions/Sylhet/Sunamganj/Tahirpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Balaganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Balaganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Beani Bazar",
+      "hospital_count": 7,
+      "file_path": "divisions/Sylhet/Sylhet/Beani Bazar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Bishwanath",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Bishwanath.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Companiganj",
+      "hospital_count": 2,
+      "file_path": "divisions/Sylhet/Sylhet/Companiganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Dakshin Surma",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Dakshin Surma.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Fenchuganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Fenchuganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Golabganj",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Golabganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Gowainghat",
+      "hospital_count": 2,
+      "file_path": "divisions/Sylhet/Sylhet/Gowainghat.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Jaintiapur",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Jaintiapur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Kajalshah",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Kajalshah.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Kanaighat",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Kanaighat.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Pathantula",
+      "hospital_count": 1,
+      "file_path": "divisions/Sylhet/Sylhet/Pathantula.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Sylhet Sadar",
+      "hospital_count": 26,
+      "file_path": "divisions/Sylhet/Sylhet/Sylhet Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Zakiganj",
+      "hospital_count": 4,
+      "file_path": "divisions/Sylhet/Sylhet/Zakiganj.json"
+    },
+    {
+      "division": "Unknown",
+      "district": "Chapai Nawabganj",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Unknown/Chapai Nawabganj/Sadar.json"
+    },
+    {
+      "division": "Unknown",
+      "district": "Jhalokati",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Unknown/Jhalokati/Sadar.json"
+    },
+    {
+      "division": "Unknown",
+      "district": "Maulvibazar",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Unknown/Maulvibazar/Sadar.json"
+    },
+    {
+      "division": "Unknown",
+      "district": "Netrakona",
+      "upazila": "Sadar",
+      "hospital_count": 1,
+      "file_path": "divisions/Unknown/Netrakona/Sadar.json"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Satkhira",
+  "upazila": "Debhata",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3238",
+      "name": "Barunhat Rural Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Satkhira",
+      "district_slug": "satkhira",
+      "upazila": "Debhata",
+      "address": "Hasnabad-Hingalganj Road, Opp. Gram Panchayat Office, Barunhat, Rameshwarpur",
+      "latitude": 22.536918,
+      "longitude": 88.953071,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3253",
+      "name": "Taki Rural Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Satkhira",
+      "district_slug": "satkhira",
+      "upazila": "Debhata",
+      "address": "Debhata, Satkhira",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

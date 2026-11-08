@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Meherpur",
+  "upazila": "Mujib Nagar",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2538",
+      "name": "Mujibnagar Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Meherpur",
+      "district_slug": "meherpur",
+      "upazila": "Mujib Nagar",
+      "address": "Mujib Nagar, Meherpur",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

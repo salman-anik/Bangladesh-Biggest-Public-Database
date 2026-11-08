@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Jashore",
+  "upazila": "Abhaynagar",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-2168",
+      "name": "A Gofur Memorial Hospital (Private)",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Jashore",
+      "district_slug": "jashore",
+      "upazila": "Abhaynagar",
+      "address": "Abhaynagar, Jashore",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2172",
+      "name": "Doctors' Clinic",
+      "bn_name": "ডক্টরস ক্লিনিক",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Jashore",
+      "district_slug": "jashore",
+      "upazila": "Abhaynagar",
+      "address": "Abhaynagar, Jashore",
+      "latitude": 23.028633,
+      "longitude": 89.395963,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

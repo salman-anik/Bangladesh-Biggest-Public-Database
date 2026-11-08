@@ -1,0 +1,39 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "CHL",
+      "name": "Chilahati Railway Station",
+      "bn_name": "চিলাহাটি রেলওয়ে স্টেশন",
+      "zone": "West Zone",
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "gauge": "Broad Gauge (Haldibari Link)",
+      "junction": true,
+      "platforms": 3
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "SPD",
+      "icao_code": "VGSD",
+      "name": "Saidpur Airport",
+      "bn_name": "সৈয়দপুর বিমানবন্দর",
+      "type": "Major Domestic Hub (Northern Zone)",
+      "city": "Saidpur",
+      "district": "Nilphamari",
+      "runway_length_ft": 6000,
+      "terminal_count": 1,
+      "hotline": "05526-72350",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Novoair",
+        "Air Astra"
+      ]
+    }
+  ],
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "total_railway_stations": 1,
+  "total_airports": 1
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Rangamati",
+  "upazila": "Baghai Chhari",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3092",
+      "name": "উগলছড়ি হেলথ কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "district_slug": "rangamati",
+      "upazila": "Baghai Chhari",
+      "address": "Baghai Chhari, Rangamati",
+      "latitude": 23.139008,
+      "longitude": 92.221219,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3093",
+      "name": "বাঘাইছড়ি উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "district_slug": "rangamati",
+      "upazila": "Baghai Chhari",
+      "address": "Baghai Chhari, Rangamati",
+      "latitude": 23.163429,
+      "longitude": 92.188034,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

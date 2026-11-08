@@ -1,0 +1,31 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Itna",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-2353",
+      "name": "Adittopur community clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Itna",
+      "address": "Itna, Kishoreganj",
+      "latitude": 24.631089,
+      "longitude": 91.197883,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

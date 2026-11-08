@@ -1,0 +1,29 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-3390",
+      "name": "Sunamganj 250 Bed District Sadar Hospital",
+      "bn_name": "Sunamganj ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Sunamganj",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Sunamganj",
+      "emergency_hotline": "01730-072072",
+      "telephone": "01730-072072",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "sunamganj"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,76 @@
+{
+  "division": "Mymensingh",
+  "district": "Jamalpur",
+  "upazila": "Madarganj",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Jamalpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jamalpur",
+      "phone": "01713-000061",
+      "email": "dcjamalpur@mopa.gov.bd",
+      "website": "http://www.jamalpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jamalpur",
+      "phone": "01713-373061",
+      "email": "spjamalpur@police.gov.bd",
+      "control_room": "01713-374061"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jamalpur",
+      "phone": "01713-555061",
+      "email": "csjamalpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-74",
+      "name": "Jamalpur Sadar Police Station",
+      "bn_name": "Jamalpur সদর থানা",
+      "unit": "Jamalpur District Police",
+      "division": "General",
+      "district": "Jamalpur",
+      "address": "Court Building Road, Sadar, Jamalpur",
+      "oc_mobile": "01713-374074",
+      "duty_officer": "01713-399074",
+      "tnt": "02-770074",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-065",
+      "name": "Jamalpur Fire Station & Civil Defence",
+      "bn_name": "Jamalpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Jamalpur",
+      "address": "Sadar, Jamalpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988065",
+      "mobile": "01713-038065",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "division": "Rajshahi",
+  "district": "Sirajganj",
+  "upazila": "Kamarkhand",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Sirajganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sirajganj",
+      "phone": "01713-000031",
+      "email": "dcsirajganj@mopa.gov.bd",
+      "website": "http://www.sirajganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sirajganj",
+      "phone": "01713-373031",
+      "email": "spsirajganj@police.gov.bd",
+      "control_room": "01713-374031"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sirajganj",
+      "phone": "01713-555031",
+      "email": "cssirajganj@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-44",
+      "name": "Sirajganj Sadar Police Station",
+      "bn_name": "Sirajganj সদর থানা",
+      "unit": "Sirajganj District Police",
+      "division": "General",
+      "district": "Sirajganj",
+      "address": "Court Building Road, Sadar, Sirajganj",
+      "oc_mobile": "01713-374044",
+      "duty_officer": "01713-399044",
+      "tnt": "02-770044",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-035",
+      "name": "Sirajganj Fire Station & Civil Defence",
+      "bn_name": "Sirajganj ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Sirajganj",
+      "address": "Sadar, Sirajganj",
+      "hotline": "16163",
+      "emergency_phone": "02-9988035",
+      "mobile": "01713-038035",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

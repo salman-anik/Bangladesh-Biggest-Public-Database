@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "upazila": "Bauphal",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2981",
+      "name": "Bauphal Upazila Helath Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "district_slug": "patuakhali",
+      "upazila": "Bauphal",
+      "address": "Bauphal, Patuakhali",
+      "latitude": 22.414693,
+      "longitude": 90.5615,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Feni",
+  "upazila": "Daganbhuiyan",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-1984",
+      "name": "জাতীয় হাসপাতাল",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Feni",
+      "district_slug": "feni",
+      "upazila": "Daganbhuiyan",
+      "address": "Daganbhuiyan, Feni",
+      "latitude": 22.938316,
+      "longitude": 91.304474,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1985",
+      "name": "দাগনভূঁইয়া উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Feni",
+      "district_slug": "feni",
+      "upazila": "Daganbhuiyan",
+      "address": "Daganbhuiyan, Feni",
+      "latitude": 22.938362,
+      "longitude": 91.310438,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

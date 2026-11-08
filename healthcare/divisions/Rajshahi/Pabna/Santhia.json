@@ -1,0 +1,52 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazila": "Santhia",
+  "total_hospitals": 2,
+  "total_beds": 350,
+  "hospitals": [
+    {
+      "id": "HOSP-2926",
+      "name": "Kidney Foundation Hospital And Research Centre",
+      "bn_name": "",
+      "category": "Specialized Hospital / Institute",
+      "type": "Private",
+      "bed_capacity": 300,
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "district_slug": "pabna",
+      "upazila": "Santhia",
+      "address": "Santhia, Pabna",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2932",
+      "name": "Sathiya Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "district_slug": "pabna",
+      "upazila": "Santhia",
+      "address": "Santhia, Pabna",
+      "latitude": 24.053665,
+      "longitude": 89.54821,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,29 @@
+{
+  "division": "Chattogram",
+  "district": "Cox's Bazar",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-0603",
+      "name": "Cox's Bazar 250 Bed District Sadar Hospital",
+      "bn_name": "কক্সবাজার ২৫০ শয্যা বিশিষ্ট জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Cox's Bazar",
+      "emergency_hotline": "0341-63800",
+      "telephone": "0341-63800",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "cox_s_bazar"
+    }
+  ],
+  "blood_banks": []
+}

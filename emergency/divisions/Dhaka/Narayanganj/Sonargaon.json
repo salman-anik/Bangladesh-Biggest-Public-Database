@@ -1,0 +1,76 @@
+{
+  "division": "Dhaka",
+  "district": "Narayanganj",
+  "upazila": "Sonargaon",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Narayanganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Narayanganj",
+      "phone": "01713-000009",
+      "email": "dcnarayanganj@mopa.gov.bd",
+      "website": "http://www.narayanganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Narayanganj",
+      "phone": "01713-373009",
+      "email": "spnarayanganj@police.gov.bd",
+      "control_room": "01713-374009"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Narayanganj",
+      "phone": "01713-555009",
+      "email": "csnarayanganj@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-22",
+      "name": "Narayanganj Sadar Police Station",
+      "bn_name": "Narayanganj সদর থানা",
+      "unit": "Narayanganj District Police",
+      "division": "General",
+      "district": "Narayanganj",
+      "address": "Court Building Road, Sadar, Narayanganj",
+      "oc_mobile": "01713-374022",
+      "duty_officer": "01713-399022",
+      "tnt": "02-770022",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-013",
+      "name": "Narayanganj Fire Station & Civil Defence",
+      "bn_name": "Narayanganj ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Narayanganj",
+      "address": "Sadar, Narayanganj",
+      "hotline": "16163",
+      "emergency_phone": "02-9988013",
+      "mobile": "01713-038013",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

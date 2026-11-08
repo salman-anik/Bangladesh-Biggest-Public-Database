@@ -1,0 +1,29 @@
+{
+  "division": "Unknown",
+  "district": "Netrakona",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2824",
+      "name": "Netrakona 250 Bed District Sadar Hospital",
+      "bn_name": "Netrakona ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Netrakona",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Netrakona",
+      "emergency_hotline": "01730-072080",
+      "telephone": "01730-072080",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "netrakona"
+    }
+  ],
+  "blood_banks": []
+}

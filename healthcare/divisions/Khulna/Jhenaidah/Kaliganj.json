@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "upazila": "Kaliganj",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2208",
+      "name": "Kaliganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "district_slug": "jhenaidah",
+      "upazila": "Kaliganj",
+      "address": "Kaliganj, Jhenaidah",
+      "latitude": 23.403315,
+      "longitude": 89.142871,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

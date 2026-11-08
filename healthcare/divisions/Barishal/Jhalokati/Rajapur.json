@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Jhalokati",
+  "upazila": "Rajapur",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2201",
+      "name": "Rajapur Upazila Health Complex",
+      "bn_name": "রাজাপুর উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Jhalokati",
+      "district_slug": "jhalokati",
+      "upazila": "Rajapur",
+      "address": "Rajapur, Jhalokati",
+      "latitude": 22.568984,
+      "longitude": 90.133341,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

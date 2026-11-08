@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Chattogram",
+  "upazila": "Boalkhali",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-0597",
+      "name": "সারোয়ারতলী ইউনিয়ন স্বাস্থ্য ও পরিবার কল্যাণ কেন্দ্র",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "district_slug": "chattogram",
+      "upazila": "Boalkhali",
+      "address": "Boalkhali, Chattogram",
+      "latitude": 22.352302,
+      "longitude": 91.943488,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,11 +1,21 @@
 {
-  "total_khatians": 54501,
+  "total_khatians": 83455,
   "total_pdfs_downloaded": 38,
   "total_pdf_size_mb": 12.25,
-  "divisions_represented": 2,
-  "districts_represented": 6,
-  "upazilas_represented": 19,
-  "mouzas_represented": 180,
-  "hierarchy_format": "Division > District > Upazila > Survey > Mouza_JL_No > Khatian.pdf",
-  "last_updated": "2026-11-08T06:22:37.299Z"
+  "divisions_represented": 8,
+  "districts_represented": 43,
+  "upazilas_represented": 91,
+  "mouzas_represented": 261,
+  "divisions_list": [
+    "Barishal",
+    "Chattogram",
+    "Dhaka",
+    "Khulna",
+    "Mymensingh",
+    "Rajshahi",
+    "Rangpur",
+    "Sylhet"
+  ],
+  "hierarchy_format": "division > district > upazila.json",
+  "last_updated": "2026-11-08 13:30:34"
 }

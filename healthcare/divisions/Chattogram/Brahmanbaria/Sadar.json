@@ -1,0 +1,29 @@
+{
+  "division": "Chattogram",
+  "district": "Brahmanbaria",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-0308",
+      "name": "Brahmanbaria 250 Bed District Sadar Hospital",
+      "bn_name": "Brahmanbaria ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Brahmanbaria",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Brahmanbaria",
+      "emergency_hotline": "01730-072044",
+      "telephone": "01730-072044",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "brahmanbaria"
+    }
+  ],
+  "blood_banks": []
+}

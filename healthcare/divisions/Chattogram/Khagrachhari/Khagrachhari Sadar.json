@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Khagrachhari",
+  "upazila": "Khagrachhari Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2223",
+      "name": "Khagrachari General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "district_slug": "khagrachhari",
+      "upazila": "Khagrachhari Sadar",
+      "address": "Khagrachhari Sadar, Khagrachhari",
+      "latitude": 23.10801,
+      "longitude": 91.992782,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

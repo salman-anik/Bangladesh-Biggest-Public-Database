@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Kurigram",
+  "upazila": "Ulipur",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2375",
+      "name": "Ulipur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "district_slug": "kurigram",
+      "upazila": "Ulipur",
+      "address": "Ulipur, Kurigram",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Tarail",
+  "total_branches": 3,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "BANK ASIA LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "TARAIL BRANCH",
+      "routing_number": "035481157",
+      "swift_code": "BKBABDDH",
+      "district": "KISHOREGANJ",
+      "address": "TARAIL BAZAR, TARAIL, KISHOREGANJ",
+      "telephone": "mgrtarail@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4814 / 115"
+    },
+    {
+      "bank_name": "BANK ASIA LIMITED",
+      "bank_code": "070",
+      "branch_name": "TARAIL BRANCH",
+      "routing_number": "070481154",
+      "swift_code": "BALBBDDH",
+      "district": "KISHOREGANJ",
+      "address": "TARAIL BAZAR, KISHOREGANJ",
+      "telephone": "09434 75099",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "115"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "TARAIL BRANCH",
+      "routing_number": "200481153",
+      "swift_code": "BSONBDDH",
+      "district": "KISHOREGANJ",
+      "address": "TARAIL, KISHOREGANJ",
+      "telephone": "09434 75003",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "115 / 115"
+    }
+  ]
+}

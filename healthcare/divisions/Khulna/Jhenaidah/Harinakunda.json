@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "upazila": "Harinakunda",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2207",
+      "name": "Hariakunda Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "district_slug": "jhenaidah",
+      "upazila": "Harinakunda",
+      "address": "Harinakunda, Jhenaidah",
+      "latitude": 23.64985,
+      "longitude": 89.043735,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

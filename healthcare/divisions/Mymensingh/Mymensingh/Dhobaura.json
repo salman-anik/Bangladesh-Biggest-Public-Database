@@ -1,0 +1,52 @@
+{
+  "division": "Mymensingh",
+  "district": "Mymensingh",
+  "upazila": "Dhobaura",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-2591",
+      "name": "Dhobaura Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "district_slug": "mymensingh",
+      "upazila": "Dhobaura",
+      "address": "Dhobaura, Mymensingh",
+      "latitude": 25.090095,
+      "longitude": 90.513466,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2592",
+      "name": "Dhobaura Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "district_slug": "mymensingh",
+      "upazila": "Dhobaura",
+      "address": "Dhobaura, Mymensingh",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

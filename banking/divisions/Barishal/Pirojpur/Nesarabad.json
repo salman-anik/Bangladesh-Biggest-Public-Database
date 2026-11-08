@@ -1,0 +1,80 @@
+{
+  "division": "Barishal",
+  "district": "Pirojpur",
+  "upazila": "Nesarabad",
+  "total_branches": 5,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "BRAC BANK LIMITED",
+    "ISLAMI BANK BANGLADESH LIMITED",
+    "JANATA BANK LIMITED",
+    "PUBALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "BALDIA BRANCH",
+      "routing_number": "035790077",
+      "swift_code": "BKBABDDH",
+      "district": "PIROJPUR",
+      "address": "BALDIA, NESARABAD, PIROJPUR",
+      "telephone": "mgrbaldia@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "0510 / 007"
+    },
+    {
+      "bank_name": "BRAC BANK LIMITED",
+      "bank_code": "060",
+      "branch_name": "SWARUPKHATHI SME BRANCH",
+      "routing_number": "060790989",
+      "swift_code": "BRAKBDDH",
+      "district": "PIROJPUR",
+      "address": "HAQUE MANSION, NUTON ROAD, MIARHAT, KOWRIKHARA NESARABAD, PIROJPUR",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "098"
+    },
+    {
+      "bank_name": "ISLAMI BANK BANGLADESH LIMITED",
+      "bank_code": "125",
+      "branch_name": "MIARHAT BRANCH",
+      "routing_number": "125790611",
+      "swift_code": "IBBLBDDH",
+      "district": "PIROJPUR",
+      "address": "MIARHAT, NESARABAD, PIROJPUR",
+      "telephone": "017 13425965, 017 87679176, 017 30792104",
+      "email": "miarhat@islamibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "061"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "KAWRIKHARA BRANCH",
+      "routing_number": "135790469",
+      "swift_code": "JANBBDDH",
+      "district": "PIROJPUR",
+      "address": "KAWRIKHARA, NESARABAD, PIROJPUR 8522",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "046"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "SARSINA BRANCH",
+      "routing_number": "175790858",
+      "swift_code": "PUBABDDH",
+      "district": "PIROJPUR",
+      "address": "SARSINA, DARUS SUNNAT, NESARABAD, PIROJPUR",
+      "telephone": "0461 286",
+      "email": "sarsina@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "085"
+    }
+  ]
+}

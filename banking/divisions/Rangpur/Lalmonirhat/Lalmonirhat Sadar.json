@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Lalmonirhat",
+  "upazila": "Lalmonirhat Sadar",
+  "total_branches": 3,
+  "banks_present": [
+    "PUBALI BANK LIMITED",
+    "RUPALI BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "LALMONIRHAT BRANCH",
+      "routing_number": "175520460",
+      "swift_code": "PUBABDDH",
+      "district": "LALMONIRHAT",
+      "address": "GOSHALA BAZAR ROAD, LALMONIRHAT SADAR, LALMONIRHAT",
+      "telephone": "0591 498",
+      "email": "lalmonirhat@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "046"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "LALMONIRHAT BRANCH",
+      "routing_number": "185520463",
+      "swift_code": "RUPBBDDH",
+      "district": "LALMONIRHAT",
+      "address": "LALMONIRHAT SADAR, LALMONIRHAT",
+      "telephone": "0591 61239, 017 21541070",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4432 / 046"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "LALMONIRHAT BRANCH",
+      "routing_number": "200520469",
+      "swift_code": "BSONBDDH",
+      "district": "LALMONIRHAT",
+      "address": "LALMONIRHAT SADAR, LALMONIRHAT",
+      "telephone": "0591 61423",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "046 / 046"
+    }
+  ]
+}

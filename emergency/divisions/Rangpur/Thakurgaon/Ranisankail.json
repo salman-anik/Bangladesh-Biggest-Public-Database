@@ -1,0 +1,76 @@
+{
+  "division": "Rangpur",
+  "district": "Thakurgaon",
+  "upazila": "Ranisankail",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Thakurgaon",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Thakurgaon",
+      "phone": "01713-000060",
+      "email": "dcthakurgaon@mopa.gov.bd",
+      "website": "http://www.thakurgaon.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Thakurgaon",
+      "phone": "01713-373060",
+      "email": "spthakurgaon@police.gov.bd",
+      "control_room": "01713-374060"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Thakurgaon",
+      "phone": "01713-555060",
+      "email": "csthakurgaon@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-73",
+      "name": "Thakurgaon Sadar Police Station",
+      "bn_name": "Thakurgaon সদর থানা",
+      "unit": "Thakurgaon District Police",
+      "division": "General",
+      "district": "Thakurgaon",
+      "address": "Court Building Road, Sadar, Thakurgaon",
+      "oc_mobile": "01713-374073",
+      "duty_officer": "01713-399073",
+      "tnt": "02-770073",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-064",
+      "name": "Thakurgaon Fire Station & Civil Defence",
+      "bn_name": "Thakurgaon ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Thakurgaon",
+      "address": "Sadar, Thakurgaon",
+      "hotline": "16163",
+      "emergency_phone": "02-9988064",
+      "mobile": "01713-038064",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

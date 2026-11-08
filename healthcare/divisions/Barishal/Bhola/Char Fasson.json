@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Bhola",
+  "upazila": "Char Fasson",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0153",
+      "name": "Charfasson Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Bhola",
+      "district_slug": "bhola",
+      "upazila": "Char Fasson",
+      "address": "Char Fasson, Bhola",
+      "latitude": 22.184,
+      "longitude": 90.76289,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

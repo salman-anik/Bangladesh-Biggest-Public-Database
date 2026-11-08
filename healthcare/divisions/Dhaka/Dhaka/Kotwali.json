@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Kotwali",
+  "total_hospitals": 1,
+  "total_beds": 900,
+  "hospitals": [
+    {
+      "id": "HOSP-0727",
+      "name": "Sir Salimullah Medical College & Mitford Hospital",
+      "bn_name": "স্যার সলিমুল্লাহ মেডিকেল কলেজ মিটফোর্ড হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 900,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Kotwali",
+      "address": "Mitford Road, Old Dhaka",
+      "emergency_hotline": "02-7319002",
+      "telephone": "02-7319002",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.ssmc.gov.bd",
+      "district_slug": "dhaka"
+    }
+  ],
+  "blood_banks": []
+}

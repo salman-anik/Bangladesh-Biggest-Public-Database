@@ -1,0 +1,39 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "CXB",
+      "name": "Cox's Bazar Iconic Railway Station",
+      "bn_name": "কক্সবাজার আইকনিক রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Chattogram",
+      "district": "Cox's Bazar",
+      "gauge": "Broad Gauge",
+      "junction": false,
+      "platforms": 6
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "CXB",
+      "icao_code": "VGCB",
+      "name": "Cox's Bazar International Airport",
+      "bn_name": "কক্সবাজার আন্তর্জাতিক বিমানবন্দর",
+      "type": "International Maritime Gateway",
+      "city": "Cox's Bazar",
+      "district": "Cox's Bazar",
+      "runway_length_ft": 10700,
+      "terminal_count": 2,
+      "hotline": "0341-63456",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Novoair",
+        "Air Astra"
+      ]
+    }
+  ],
+  "division": "Chattogram",
+  "district": "Cox's Bazar",
+  "total_railway_stations": 1,
+  "total_airports": 1
+}

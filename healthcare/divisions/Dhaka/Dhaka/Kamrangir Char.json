@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Kamrangir Char",
+  "total_hospitals": 2,
+  "total_beds": 60,
+  "hospitals": [
+    {
+      "id": "HOSP-1072",
+      "name": "Manobic Heath Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Kamrangir Char",
+      "address": "Kamrangir Char, Dhaka",
+      "latitude": 23.715556,
+      "longitude": 90.380821,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1895",
+      "name": "ব্র্যাক প্রসব কেন্দ্র",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Kamrangir Char",
+      "address": "Kamrangir Char, Dhaka",
+      "latitude": 23.710209,
+      "longitude": 90.38377,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

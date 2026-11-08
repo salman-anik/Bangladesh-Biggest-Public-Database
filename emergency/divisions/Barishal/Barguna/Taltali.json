@@ -1,0 +1,76 @@
+{
+  "division": "Barishal",
+  "district": "Barguna",
+  "upazila": "Taltali",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Barguna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Barguna",
+      "phone": "01713-000050",
+      "email": "dcbarguna@mopa.gov.bd",
+      "website": "http://www.barguna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Barguna",
+      "phone": "01713-373050",
+      "email": "spbarguna@police.gov.bd",
+      "control_room": "01713-374050"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Barguna",
+      "phone": "01713-555050",
+      "email": "csbarguna@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-63",
+      "name": "Barguna Sadar Police Station",
+      "bn_name": "Barguna সদর থানা",
+      "unit": "Barguna District Police",
+      "division": "General",
+      "district": "Barguna",
+      "address": "Court Building Road, Sadar, Barguna",
+      "oc_mobile": "01713-374063",
+      "duty_officer": "01713-399063",
+      "tnt": "02-770063",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-054",
+      "name": "Barguna Fire Station & Civil Defence",
+      "bn_name": "Barguna ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Barguna",
+      "address": "Sadar, Barguna",
+      "hotline": "16163",
+      "emergency_phone": "02-9988054",
+      "mobile": "01713-038054",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

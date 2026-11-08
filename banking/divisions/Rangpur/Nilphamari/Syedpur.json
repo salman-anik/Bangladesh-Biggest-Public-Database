@@ -1,0 +1,38 @@
+{
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "upazila": "Syedpur",
+  "total_branches": 2,
+  "banks_present": [
+    "BRAC BANK LIMITED",
+    "THE CITY BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BRAC BANK LIMITED",
+      "bank_code": "060",
+      "branch_name": "SAIDPUR BRANCH",
+      "routing_number": "060730794",
+      "swift_code": "BRAKBDDH",
+      "district": "NILPHAMARI",
+      "address": "SAYEDPUR PLAZA, 81 SHER-E- BANGLA ROAD, SYEDPUR, NILPHAMARI 5310",
+      "telephone": "05526 73241-42",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "079"
+    },
+    {
+      "bank_name": "THE CITY BANK LIMITED",
+      "bank_code": "225",
+      "branch_name": "SYEDPUR BRANCH",
+      "routing_number": "225730797",
+      "swift_code": "CIBLBDDH",
+      "district": "NILPHAMARI",
+      "address": "361 SHAHID DR ZIKRUL HOQUE SARAK, SYEDPUR, NILPHAMARI 5310",
+      "telephone": "05526 72350, 017 11435729",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "079 / 079"
+    }
+  ]
+}

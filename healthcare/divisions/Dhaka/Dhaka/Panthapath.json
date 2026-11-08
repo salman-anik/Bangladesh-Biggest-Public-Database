@@ -1,0 +1,30 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Panthapath",
+  "total_hospitals": 1,
+  "total_beds": 400,
+  "hospitals": [
+    {
+      "id": "HOSP-1171",
+      "name": "Square Hospital Ltd.",
+      "bn_name": "স্কয়ার হাসপাতাল লিমিটেড",
+      "category": "Private Tertiary Hospital",
+      "type": "Private",
+      "bed_capacity": 400,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Panthapath",
+      "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, Panthapath, Dhaka",
+      "emergency_hotline": "10616",
+      "telephone": "02-8159457",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "https://www.squarehospital.com",
+      "latitude": 24.372341,
+      "longitude": 88.5805
+    }
+  ],
+  "blood_banks": []
+}

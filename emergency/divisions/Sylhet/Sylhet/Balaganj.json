@@ -1,0 +1,76 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Balaganj",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Sylhet",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sylhet",
+      "phone": "01713-000005",
+      "email": "dcsylhet@mopa.gov.bd",
+      "website": "http://www.sylhet.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sylhet",
+      "phone": "01713-373005",
+      "email": "spsylhet@police.gov.bd",
+      "control_room": "01713-374005"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sylhet",
+      "phone": "01713-555005",
+      "email": "cssylhet@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-SYL-01",
+      "name": "Kotwali Model Police Station (Sylhet)",
+      "bn_name": "কোতোয়ালী মডেল থানা (সিলেট)",
+      "unit": "Sylhet Metropolitan Police (SMP)",
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "address": "Bandarbazar, Sylhet",
+      "oc_mobile": "01713-373601",
+      "duty_officer": "01713-398801",
+      "tnt": "0821-716111",
+      "control_room": "0821-717222"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-009",
+      "name": "Sylhet Central Fire Station",
+      "bn_name": "সিলেট সদর ফায়ার স্টেশন",
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "address": "Taltola, Sylhet",
+      "hotline": "16163",
+      "emergency_phone": "0821-716222",
+      "mobile": "01713-038601",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

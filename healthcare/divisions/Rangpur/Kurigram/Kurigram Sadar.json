@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Kurigram",
+  "upazila": "Kurigram Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2370",
+      "name": "Kurigram General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "district_slug": "kurigram",
+      "upazila": "Kurigram Sadar",
+      "address": "Kurigram Sadar, Kurigram",
+      "latitude": 25.808368,
+      "longitude": 89.645139,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

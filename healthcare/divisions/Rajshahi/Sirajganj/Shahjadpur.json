@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Sirajganj",
+  "upazila": "Shahjadpur",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-3388",
+      "name": "Prottasha Diagnostic Centre",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "district_slug": "sirajganj",
+      "upazila": "Shahjadpur",
+      "address": "Shahjadpur, Sirajganj",
+      "latitude": 24.176042,
+      "longitude": 89.597476,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

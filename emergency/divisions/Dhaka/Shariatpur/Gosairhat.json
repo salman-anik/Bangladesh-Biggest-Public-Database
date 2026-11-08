@@ -1,0 +1,76 @@
+{
+  "division": "Dhaka",
+  "district": "Shariatpur",
+  "upazila": "Gosairhat",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Shariatpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Shariatpur",
+      "phone": "01713-000018",
+      "email": "dcshariatpur@mopa.gov.bd",
+      "website": "http://www.shariatpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Shariatpur",
+      "phone": "01713-373018",
+      "email": "spshariatpur@police.gov.bd",
+      "control_room": "01713-374018"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Shariatpur",
+      "phone": "01713-555018",
+      "email": "csshariatpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-31",
+      "name": "Shariatpur Sadar Police Station",
+      "bn_name": "Shariatpur সদর থানা",
+      "unit": "Shariatpur District Police",
+      "division": "General",
+      "district": "Shariatpur",
+      "address": "Court Building Road, Sadar, Shariatpur",
+      "oc_mobile": "01713-374031",
+      "duty_officer": "01713-399031",
+      "tnt": "02-770031",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-022",
+      "name": "Shariatpur Fire Station & Civil Defence",
+      "bn_name": "Shariatpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Shariatpur",
+      "address": "Sadar, Shariatpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988022",
+      "mobile": "01713-038022",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Gowainghat",
+  "total_hospitals": 2,
+  "total_beds": 70,
+  "hospitals": [
+    {
+      "id": "HOSP-3422",
+      "name": "Gowainghat Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "district_slug": "sylhet",
+      "upazila": "Gowainghat",
+      "address": "Gowainghat, Sylhet",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3457",
+      "name": "Dowbari Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "district_slug": "sylhet",
+      "upazila": "Gowainghat",
+      "address": "Gowainghat, Sylhet",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

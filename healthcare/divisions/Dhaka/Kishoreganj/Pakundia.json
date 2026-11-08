@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Pakundia",
+  "total_hospitals": 2,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2346",
+      "name": "Pakundia Upazilla Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Pakundia",
+      "address": "Pakundia, Kishoreganj",
+      "latitude": 24.329363,
+      "longitude": 90.679494,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2358",
+      "name": "Hamdard Laboratories (WAQF) Bangladesh",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Pakundia",
+      "address": "Pakundia, Kishoreganj",
+      "latitude": 24.326515,
+      "longitude": 90.679716,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

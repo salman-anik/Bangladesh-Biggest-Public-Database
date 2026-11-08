@@ -1,0 +1,31 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "BOG",
+      "name": "Bogura Railway Station",
+      "bn_name": "বগুড়া রেলওয়ে স্টেশন",
+      "zone": "West Zone",
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "gauge": "Meter Gauge",
+      "junction": false,
+      "platforms": 3
+    },
+    {
+      "station_code": "SNT",
+      "name": "Santahar Junction",
+      "bn_name": "সান্তাহার জংশন",
+      "zone": "West Zone",
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "gauge": "Broad Gauge",
+      "junction": true,
+      "platforms": 5
+    }
+  ],
+  "airports": [],
+  "division": "Rajshahi",
+  "district": "Bogura",
+  "total_railway_stations": 2,
+  "total_airports": 0
+}

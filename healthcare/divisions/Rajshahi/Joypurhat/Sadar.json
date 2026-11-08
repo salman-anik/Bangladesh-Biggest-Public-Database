@@ -1,0 +1,29 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2218",
+      "name": "Joypurhat 250 Bed District Sadar Hospital",
+      "bn_name": "Joypurhat ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Joypurhat",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Joypurhat",
+      "emergency_hotline": "01730-072056",
+      "telephone": "01730-072056",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "joypurhat"
+    }
+  ],
+  "blood_banks": []
+}

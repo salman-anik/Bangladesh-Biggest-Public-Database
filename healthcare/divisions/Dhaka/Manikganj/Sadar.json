@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Manikganj",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2462",
+      "name": "Manikganj 250 Bed District Sadar Hospital",
+      "bn_name": "Manikganj ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Manikganj",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Manikganj",
+      "emergency_hotline": "01730-072038",
+      "telephone": "01730-072038",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "manikganj"
+    }
+  ],
+  "blood_banks": []
+}

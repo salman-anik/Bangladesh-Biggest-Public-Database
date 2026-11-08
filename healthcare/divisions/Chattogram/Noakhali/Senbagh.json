@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "upazila": "Senbagh",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2913",
+      "name": "Senbagh Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "district_slug": "noakhali",
+      "upazila": "Senbagh",
+      "address": "Senbagh, Noakhali",
+      "latitude": 22.995618,
+      "longitude": 91.232752,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

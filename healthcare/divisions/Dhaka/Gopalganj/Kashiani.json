@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Gopalganj",
+  "upazila": "Kashiani",
+  "total_hospitals": 2,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-2112",
+      "name": "Ma Dental Care",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "district_slug": "gopalganj",
+      "upazila": "Kashiani",
+      "address": "Kashiani, Gopalganj",
+      "latitude": 23.215322,
+      "longitude": 89.697636,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2113",
+      "name": "Sanjida Sergical Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "district_slug": "gopalganj",
+      "upazila": "Kashiani",
+      "address": "Kashiani, Gopalganj",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

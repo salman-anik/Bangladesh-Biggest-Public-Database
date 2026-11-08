@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "upazila": "Dakshin Sunamganj",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-3389",
+      "name": "Khaled General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "district_slug": "sunamganj",
+      "upazila": "Dakshin Sunamganj",
+      "address": "Dakshin Sunamganj, Sunamganj",
+      "latitude": 24.921823,
+      "longitude": 91.443354,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

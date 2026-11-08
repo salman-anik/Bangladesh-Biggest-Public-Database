@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "upazila": "Dumki",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2984",
+      "name": "Luthran Health Care",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "district_slug": "patuakhali",
+      "upazila": "Dumki",
+      "address": "Dumki, Patuakhali",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

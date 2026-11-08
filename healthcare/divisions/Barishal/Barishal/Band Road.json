@@ -1,0 +1,29 @@
+{
+  "division": "Barishal",
+  "district": "Barishal",
+  "upazila": "Band Road",
+  "total_hospitals": 1,
+  "total_beds": 1000,
+  "hospitals": [
+    {
+      "id": "HOSP-0121",
+      "name": "Sher-e-Bangla Medical College Hospital (SBMCH)",
+      "bn_name": "শের-ই-বাংলা মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 1000,
+      "division": "Barishal",
+      "district": "Barishal",
+      "upazila": "Band Road",
+      "address": "Band Road, Barishal-8200",
+      "emergency_hotline": "0431-2173541",
+      "telephone": "0431-2173541",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.sbmc.edu.bd",
+      "district_slug": "barishal"
+    }
+  ],
+  "blood_banks": []
+}

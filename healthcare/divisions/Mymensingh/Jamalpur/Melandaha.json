@@ -1,0 +1,52 @@
+{
+  "division": "Mymensingh",
+  "district": "Jamalpur",
+  "upazila": "Melandaha",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-2146",
+      "name": "Islampur Upazilla Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "district_slug": "jamalpur",
+      "upazila": "Melandaha",
+      "address": "Melandaha, Jamalpur",
+      "latitude": 25.078022,
+      "longitude": 89.799515,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2151",
+      "name": "Melandaha Upazilla Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "district_slug": "jamalpur",
+      "upazila": "Melandaha",
+      "address": "Melandaha, Jamalpur",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Mymensingh",
+  "district": "Jamalpur",
+  "upazila": "Madarganj",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2138",
+      "name": "Madarganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "district_slug": "jamalpur",
+      "upazila": "Madarganj",
+      "address": "Madarganj, Jamalpur",
+      "latitude": 24.893794,
+      "longitude": 89.717366,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

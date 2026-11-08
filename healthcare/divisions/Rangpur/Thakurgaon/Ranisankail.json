@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Thakurgaon",
+  "upazila": "Ranisankail",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3584",
+      "name": "Diabetic hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "district_slug": "thakurgaon",
+      "upazila": "Ranisankail",
+      "address": "Ranisankail, Thakurgaon",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3588",
+      "name": "Ranisankail Upzilla Sastho Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "district_slug": "thakurgaon",
+      "upazila": "Ranisankail",
+      "address": "Ranisankail, Thakurgaon",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

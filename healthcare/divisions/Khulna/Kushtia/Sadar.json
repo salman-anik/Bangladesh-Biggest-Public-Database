@@ -1,0 +1,29 @@
+{
+  "division": "Khulna",
+  "district": "Kushtia",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2407",
+      "name": "Kushtia 250 Bed District Sadar Hospital",
+      "bn_name": "Kushtia ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Kushtia",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Kushtia",
+      "emergency_hotline": "01730-072058",
+      "telephone": "01730-072058",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "kushtia"
+    }
+  ],
+  "blood_banks": []
+}

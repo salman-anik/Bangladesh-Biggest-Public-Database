@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Satkhira",
+  "upazila": "Assasuni",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Satkhira",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Satkhira",
+      "phone": "01713-000039",
+      "email": "dcsatkhira@mopa.gov.bd",
+      "website": "http://www.satkhira.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Satkhira",
+      "phone": "01713-373039",
+      "email": "spsatkhira@police.gov.bd",
+      "control_room": "01713-374039"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Satkhira",
+      "phone": "01713-555039",
+      "email": "cssatkhira@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-52",
+      "name": "Satkhira Sadar Police Station",
+      "bn_name": "Satkhira সদর থানা",
+      "unit": "Satkhira District Police",
+      "division": "General",
+      "district": "Satkhira",
+      "address": "Court Building Road, Sadar, Satkhira",
+      "oc_mobile": "01713-374052",
+      "duty_officer": "01713-399052",
+      "tnt": "02-770052",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-043",
+      "name": "Satkhira Fire Station & Civil Defence",
+      "bn_name": "Satkhira ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Satkhira",
+      "address": "Sadar, Satkhira",
+      "hotline": "16163",
+      "emergency_phone": "02-9988043",
+      "mobile": "01713-038043",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

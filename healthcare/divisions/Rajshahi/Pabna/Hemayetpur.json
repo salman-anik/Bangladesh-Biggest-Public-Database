@@ -1,0 +1,28 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazila": "Hemayetpur",
+  "total_hospitals": 1,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-2927",
+      "name": "Pabna Mental Hospital",
+      "bn_name": "পাবনা মানসিক হাসপাতাল",
+      "category": "Specialized Psychiatric Hospital",
+      "type": "Government",
+      "bed_capacity": 500,
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Hemayetpur",
+      "address": "Hemayetpur, Pabna-6600",
+      "emergency_hotline": "0731-65488",
+      "telephone": "0731-65488",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

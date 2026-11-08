@@ -1,0 +1,79 @@
+{
+  "division": "Chattogram",
+  "district": "Bandarban",
+  "upazila": "Lama",
+  "total_branches": 5,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "JANATA BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "AZIZ NAGAR BRANCH",
+      "routing_number": "010030073",
+      "swift_code": "AGBKBDDH",
+      "district": "BANDARBAN",
+      "address": "AZIZ NAGAR, LAMA, BANDARBAN",
+      "telephone": "018 19345107",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "007"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "AZIZNAGAR BRANCH",
+      "routing_number": "035030074",
+      "swift_code": "BKBABDDH",
+      "district": "BANDARBAN",
+      "address": "AZIZNAGAR, LAMA, BANDARBAN",
+      "telephone": "mgraziznagar@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "3118 / 007"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "LAMA BRANCH",
+      "routing_number": "035030195",
+      "swift_code": "BKBABDDH",
+      "district": "BANDARBAN",
+      "address": "LAMA, BANDARBAN",
+      "telephone": "mgrlama@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "3117 / 019"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "LAMA BRANCH",
+      "routing_number": "135030190",
+      "swift_code": "JANBBDDH",
+      "district": "BANDARBAN",
+      "address": "LAMA, BANDARBAN 4640",
+      "telephone": "015 53605515",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "019"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "LAMA BRANCH",
+      "routing_number": "200030191",
+      "swift_code": "BSONBDDH",
+      "district": "BANDARBAN",
+      "address": "LAMA, BANDARBAN",
+      "telephone": "015 52204593",
+      "email": "brlama@sonalibank.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "019 / 019"
+    }
+  ]
+}

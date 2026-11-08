@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Parbatipur",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-1918",
+      "name": "100 Bed Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "district_slug": "dinajpur",
+      "upazila": "Parbatipur",
+      "address": "Parbatipur, Dinajpur",
+      "latitude": 25.775794,
+      "longitude": 88.885274,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

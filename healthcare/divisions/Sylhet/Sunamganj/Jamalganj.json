@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "upazila": "Jamalganj",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-3396",
+      "name": "Jamalganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "district_slug": "sunamganj",
+      "upazila": "Jamalganj",
+      "address": "Jamalganj, Sunamganj",
+      "latitude": 24.99879,
+      "longitude": 91.235604,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

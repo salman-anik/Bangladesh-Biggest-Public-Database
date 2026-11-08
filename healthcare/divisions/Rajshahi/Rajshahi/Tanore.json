@@ -1,0 +1,52 @@
+{
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "upazila": "Tanore",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-3026",
+      "name": "Tanore Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "district_slug": "rajshahi",
+      "upazila": "Tanore",
+      "address": "Tanore, Rajshahi",
+      "latitude": 24.575248,
+      "longitude": 88.574969,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3027",
+      "name": "Tanore Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "district_slug": "rajshahi",
+      "upazila": "Tanore",
+      "address": "Tanore, Rajshahi",
+      "latitude": 24.575816,
+      "longitude": 88.57498,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

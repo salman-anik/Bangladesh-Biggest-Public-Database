@@ -1,0 +1,229 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Nawabganj",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Dhaka",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Dhaka",
+      "phone": "01713-000000",
+      "email": "dcdhaka@mopa.gov.bd",
+      "website": "http://www.dhaka.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Dhaka",
+      "phone": "01713-373000",
+      "email": "spdhaka@police.gov.bd",
+      "control_room": "01713-374000"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Dhaka",
+      "phone": "01713-555000",
+      "email": "csdhaka@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DMP-01",
+      "name": "Dhanmondi Police Station",
+      "bn_name": "ধানমন্ডি থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "House 45, Road 8/A, Dhanmondi, Dhaka",
+      "oc_mobile": "01713-373126",
+      "duty_officer": "01713-398336",
+      "tnt": "02-9669933",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-02",
+      "name": "Ramna Police Station",
+      "bn_name": "রমনা মডেল থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "15 Siddheswari Road, Ramna, Dhaka",
+      "oc_mobile": "01713-373125",
+      "duty_officer": "01713-398335",
+      "tnt": "02-9333333",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-03",
+      "name": "Shahbagh Police Station",
+      "bn_name": "শাহবাগ থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Shahbagh Crossing, Dhaka",
+      "oc_mobile": "01713-373127",
+      "duty_officer": "01713-398337",
+      "tnt": "02-9660505",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-04",
+      "name": "Gulshan Police Station",
+      "bn_name": "গুলশান মডেল থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Plot 1, Road 71, Gulshan-2, Dhaka",
+      "oc_mobile": "01713-373155",
+      "duty_officer": "01713-398355",
+      "tnt": "02-8822000",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-05",
+      "name": "Banani Police Station",
+      "bn_name": "বনানী থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "House 1, Road 11, Block F, Banani, Dhaka",
+      "oc_mobile": "01713-373156",
+      "duty_officer": "01713-398356",
+      "tnt": "02-9883333",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-06",
+      "name": "Uttara East Police Station",
+      "bn_name": "উত্তরা পূর্ব থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Sector 4, Uttara, Dhaka",
+      "oc_mobile": "01713-373160",
+      "duty_officer": "01713-398360",
+      "tnt": "02-8951111",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-07",
+      "name": "Mirpur Model Police Station",
+      "bn_name": "মিরপুর মডেল থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Section 2, Mirpur, Dhaka",
+      "oc_mobile": "01713-373145",
+      "duty_officer": "01713-398345",
+      "tnt": "02-9001000",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-08",
+      "name": "Motijheel Police Station",
+      "bn_name": "মতিঝিল থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Outer Circular Road, Motijheel, Dhaka",
+      "oc_mobile": "01713-373130",
+      "duty_officer": "01713-398330",
+      "tnt": "02-9555555",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-09",
+      "name": "Mohammadpur Police Station",
+      "bn_name": "মোহাম্মদপুর থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Asad Avenue, Mohammadpur, Dhaka",
+      "oc_mobile": "01713-373128",
+      "duty_officer": "01713-398328",
+      "tnt": "02-9119999",
+      "control_room": "02-996688998"
+    },
+    {
+      "thana_id": "PS-DMP-10",
+      "name": "Tejgaon Police Station",
+      "bn_name": "তেজগাঁও থানা",
+      "unit": "Dhaka Metropolitan Police (DMP)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Farmgate, Tejgaon, Dhaka",
+      "oc_mobile": "01713-373140",
+      "duty_officer": "01713-398340",
+      "tnt": "02-9110000",
+      "control_room": "02-996688998"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-001",
+      "name": "Fire Service Central Control Room (HQ)",
+      "bn_name": "ফায়ার সার্ভিস কেন্দ্রীয় নিয়ন্ত্রণ কক্ষ (হেডকোয়ার্টার)",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Kazi Alauddin Road, Siddique Bazar, Dhaka-1000",
+      "hotline": "16163",
+      "emergency_phone": "02-223355555",
+      "mobile": "01713-038181",
+      "station_type": "National Headquarters & Central Control"
+    },
+    {
+      "station_id": "FS-002",
+      "name": "Sadarghat River Fire Station",
+      "bn_name": "সদরঘাট নদী ফায়ার স্টেশন",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Sadarghat Launch Terminal, Dhaka",
+      "hotline": "16163",
+      "emergency_phone": "02-7391111",
+      "mobile": "01713-038182",
+      "station_type": "Riverine Rescue & Fire Fighting"
+    },
+    {
+      "station_id": "FS-003",
+      "name": "Tejgaon Fire Station",
+      "bn_name": "তেজগাঁও ফায়ার স্টেশন",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Shaheed Tajuddin Ahmed Avenue, Tejgaon, Dhaka",
+      "hotline": "16163",
+      "emergency_phone": "02-9111111",
+      "mobile": "01713-038183",
+      "station_type": "Class-A Station"
+    },
+    {
+      "station_id": "FS-004",
+      "name": "Kurmitola Fire Station",
+      "bn_name": "কুর্মিটোলা ফায়ার স্টেশন",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "Airport Road, Kurmitola, Dhaka",
+      "hotline": "16163",
+      "emergency_phone": "02-8901111",
+      "mobile": "01713-038184",
+      "station_type": "Class-A Station"
+    }
+  ]
+}

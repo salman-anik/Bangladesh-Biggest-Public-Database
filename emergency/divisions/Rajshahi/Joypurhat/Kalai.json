@@ -1,0 +1,76 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "upazila": "Kalai",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Joypurhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Joypurhat",
+      "phone": "01713-000035",
+      "email": "dcjoypurhat@mopa.gov.bd",
+      "website": "http://www.joypurhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Joypurhat",
+      "phone": "01713-373035",
+      "email": "spjoypurhat@police.gov.bd",
+      "control_room": "01713-374035"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Joypurhat",
+      "phone": "01713-555035",
+      "email": "csjoypurhat@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-48",
+      "name": "Joypurhat Sadar Police Station",
+      "bn_name": "Joypurhat সদর থানা",
+      "unit": "Joypurhat District Police",
+      "division": "General",
+      "district": "Joypurhat",
+      "address": "Court Building Road, Sadar, Joypurhat",
+      "oc_mobile": "01713-374048",
+      "duty_officer": "01713-399048",
+      "tnt": "02-770048",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-039",
+      "name": "Joypurhat Fire Station & Civil Defence",
+      "bn_name": "Joypurhat ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Joypurhat",
+      "address": "Sadar, Joypurhat",
+      "hotline": "16163",
+      "emergency_phone": "02-9988039",
+      "mobile": "01713-038039",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

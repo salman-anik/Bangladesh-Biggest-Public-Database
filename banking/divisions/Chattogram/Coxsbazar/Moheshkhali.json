@@ -1,0 +1,38 @@
+{
+  "division": "Chattogram",
+  "district": "Coxsbazar",
+  "upazila": "Moheshkhali",
+  "total_branches": 2,
+  "banks_present": [
+    "ISLAMI BANK BANGLADESH LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "ISLAMI BANK BANGLADESH LIMITED",
+      "bank_code": "125",
+      "branch_name": "MOHESHKHALI SME",
+      "routing_number": "125220778",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "077"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "MOHESHKHALI",
+      "routing_number": "200220769",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "076"
+    }
+  ]
+}

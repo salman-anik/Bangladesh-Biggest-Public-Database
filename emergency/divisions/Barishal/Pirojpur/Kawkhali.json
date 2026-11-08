@@ -1,0 +1,76 @@
+{
+  "division": "Barishal",
+  "district": "Pirojpur",
+  "upazila": "Kawkhali",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Pirojpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Pirojpur",
+      "phone": "01713-000048",
+      "email": "dcpirojpur@mopa.gov.bd",
+      "website": "http://www.pirojpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Pirojpur",
+      "phone": "01713-373048",
+      "email": "sppirojpur@police.gov.bd",
+      "control_room": "01713-374048"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Pirojpur",
+      "phone": "01713-555048",
+      "email": "cspirojpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-61",
+      "name": "Pirojpur Sadar Police Station",
+      "bn_name": "Pirojpur সদর থানা",
+      "unit": "Pirojpur District Police",
+      "division": "General",
+      "district": "Pirojpur",
+      "address": "Court Building Road, Sadar, Pirojpur",
+      "oc_mobile": "01713-374061",
+      "duty_officer": "01713-399061",
+      "tnt": "02-770061",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-052",
+      "name": "Pirojpur Fire Station & Civil Defence",
+      "bn_name": "Pirojpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Pirojpur",
+      "address": "Sadar, Pirojpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988052",
+      "mobile": "01713-038052",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

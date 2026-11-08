@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2328",
+      "name": "Kishoreganj 250 Bed District Sadar Hospital",
+      "bn_name": "Kishoreganj ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Kishoreganj",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Kishoreganj",
+      "emergency_hotline": "01730-072037",
+      "telephone": "01730-072037",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "kishoreganj"
+    }
+  ],
+  "blood_banks": []
+}

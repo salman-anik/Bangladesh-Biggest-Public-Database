@@ -1,0 +1,48 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Bashundhara",
+  "total_hospitals": 2,
+  "total_beds": 850,
+  "hospitals": [
+    {
+      "id": "HOSP-1005",
+      "name": "Evercare Hospital Dhaka",
+      "bn_name": "এভারকেয়ার হাসপাতাল ঢাকা",
+      "category": "Private Tertiary Hospital (JCI Accredited)",
+      "type": "Private",
+      "bed_capacity": 425,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Bashundhara",
+      "address": "Plot 81, Block E, Bashundhara R/A, Dhaka-1229",
+      "emergency_hotline": "10678",
+      "telephone": "02-8431661",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "https://www.evercarebd.com",
+      "latitude": 23.810188,
+      "longitude": 90.431355
+    },
+    {
+      "id": "HOSP-1006",
+      "name": "Evercare Hospital Dhaka",
+      "bn_name": "এভারকেয়ার হাসপাতাল ঢাকা",
+      "category": "Private Tertiary Hospital (JCI Accredited)",
+      "type": "Private",
+      "bed_capacity": 425,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Bashundhara",
+      "address": "Plot 81, Block E, Bashundhara R/A, Dhaka-1229",
+      "emergency_hotline": "10678",
+      "telephone": "02-8431661",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "https://www.evercarebd.com"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,76 @@
+{
+  "division": "Dhaka",
+  "district": "Madaripur",
+  "upazila": "Kalkini",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Madaripur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Madaripur",
+      "phone": "01713-000019",
+      "email": "dcmadaripur@mopa.gov.bd",
+      "website": "http://www.madaripur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Madaripur",
+      "phone": "01713-373019",
+      "email": "spmadaripur@police.gov.bd",
+      "control_room": "01713-374019"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Madaripur",
+      "phone": "01713-555019",
+      "email": "csmadaripur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-32",
+      "name": "Madaripur Sadar Police Station",
+      "bn_name": "Madaripur সদর থানা",
+      "unit": "Madaripur District Police",
+      "division": "General",
+      "district": "Madaripur",
+      "address": "Court Building Road, Sadar, Madaripur",
+      "oc_mobile": "01713-374032",
+      "duty_officer": "01713-399032",
+      "tnt": "02-770032",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-023",
+      "name": "Madaripur Fire Station & Civil Defence",
+      "bn_name": "Madaripur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Madaripur",
+      "address": "Sadar, Madaripur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988023",
+      "mobile": "01713-038023",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

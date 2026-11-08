@@ -1,0 +1,58 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "DA",
+      "name": "Dhaka Kamalapur Railway Station",
+      "bn_name": "ঢাকা কমলাপুর রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "gauge": "Dual Gauge",
+      "junction": true,
+      "platforms": 9
+    },
+    {
+      "station_code": "CA",
+      "name": "Dhaka Airport Railway Station (Biman Bandar)",
+      "bn_name": "বিমানবন্দর রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "gauge": "Dual Gauge",
+      "junction": false,
+      "platforms": 2
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "DAC",
+      "icao_code": "VGHS",
+      "name": "Hazrat Shahjalal International Airport",
+      "bn_name": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর",
+      "type": "Primary International & Main Hub",
+      "city": "Dhaka",
+      "district": "Dhaka",
+      "runway_length_ft": 10500,
+      "terminal_count": 3,
+      "hotline": "13600 / 02-8901400",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Novoair",
+        "Air Astra",
+        "Emirates",
+        "Qatar Airways",
+        "Saudia",
+        "Singapore Airlines",
+        "Turkish Airlines",
+        "Flydubai",
+        "Gulf Air",
+        "Malaysia Airlines"
+      ]
+    }
+  ],
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "total_railway_stations": 2,
+  "total_airports": 1
+}

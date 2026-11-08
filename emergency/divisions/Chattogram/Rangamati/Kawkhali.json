@@ -1,0 +1,76 @@
+{
+  "division": "Chattogram",
+  "district": "Rangamati",
+  "upazila": "Kawkhali",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Rangamati",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rangamati",
+      "phone": "01713-000028",
+      "email": "dcrangamati@mopa.gov.bd",
+      "website": "http://www.rangamati.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rangamati",
+      "phone": "01713-373028",
+      "email": "sprangamati@police.gov.bd",
+      "control_room": "01713-374028"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rangamati",
+      "phone": "01713-555028",
+      "email": "csrangamati@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-41",
+      "name": "Rangamati Sadar Police Station",
+      "bn_name": "Rangamati সদর থানা",
+      "unit": "Rangamati District Police",
+      "division": "General",
+      "district": "Rangamati",
+      "address": "Court Building Road, Sadar, Rangamati",
+      "oc_mobile": "01713-374041",
+      "duty_officer": "01713-399041",
+      "tnt": "02-770041",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-032",
+      "name": "Rangamati Fire Station & Civil Defence",
+      "bn_name": "Rangamati ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Rangamati",
+      "address": "Sadar, Rangamati",
+      "hotline": "16163",
+      "emergency_phone": "02-9988032",
+      "mobile": "01713-038032",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

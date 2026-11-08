@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Bhola",
+  "upazila": "Manpura",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0155",
+      "name": "Manpura Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Bhola",
+      "district_slug": "bhola",
+      "upazila": "Manpura",
+      "address": "Manpura, Bhola",
+      "latitude": 22.258001,
+      "longitude": 90.966639,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

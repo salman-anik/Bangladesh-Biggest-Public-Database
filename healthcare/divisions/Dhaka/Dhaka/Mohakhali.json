@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Mohakhali",
+  "total_hospitals": 1,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-0823",
+      "name": "National Institute of Cancer Research & Hospital (NICRH)",
+      "bn_name": "জাতীয় ক্যান্সার গবেষণা ইনস্টিটিউট ও হাসপাতাল",
+      "category": "Specialized Oncology Institute",
+      "type": "Government",
+      "bed_capacity": 500,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Mohakhali",
+      "address": "Mohakhali, Dhaka-1212",
+      "emergency_hotline": "02-9880078",
+      "telephone": "02-9880078",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "http://www.nicrh.gov.bd",
+      "district_slug": "dhaka"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "upazila": "Dimla",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-2899",
+      "name": "ডিমলা উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "ডিমলা উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Dimla",
+      "address": "Dimla, Nilphamari",
+      "latitude": 26.156339,
+      "longitude": 88.924971,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2900",
+      "name": "দক্ষিণ বালাপাড়া কমিউনিটি ক্লিনিক",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Dimla",
+      "address": "Dimla, Nilphamari",
+      "latitude": 26.211433,
+      "longitude": 88.906792,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

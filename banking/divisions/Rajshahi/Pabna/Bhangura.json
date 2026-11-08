@@ -1,0 +1,38 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazila": "Bhangura",
+  "total_branches": 2,
+  "banks_present": [
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "BHANGURA BRANCH",
+      "routing_number": "180760499",
+      "swift_code": "BHANGURA, PABNA",
+      "district": "PABNA",
+      "address": "7328 56048",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "049"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "BHANGURA BAZAR BRANCH",
+      "routing_number": "200760524",
+      "swift_code": "BSONBDDH",
+      "district": "PABNA",
+      "address": "BHANGURA, PABNA",
+      "telephone": "0731 65060 (Ext 18)",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "052 / 052"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Jashore",
+  "upazila": "Chougachha",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Jashore",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jashore",
+      "phone": "01713-000037",
+      "email": "dcjashore@mopa.gov.bd",
+      "website": "http://www.jashore.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jashore",
+      "phone": "01713-373037",
+      "email": "spjashore@police.gov.bd",
+      "control_room": "01713-374037"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jashore",
+      "phone": "01713-555037",
+      "email": "csjashore@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-50",
+      "name": "Jashore Sadar Police Station",
+      "bn_name": "Jashore সদর থানা",
+      "unit": "Jashore District Police",
+      "division": "General",
+      "district": "Jashore",
+      "address": "Court Building Road, Sadar, Jashore",
+      "oc_mobile": "01713-374050",
+      "duty_officer": "01713-399050",
+      "tnt": "02-770050",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-041",
+      "name": "Jashore Fire Station & Civil Defence",
+      "bn_name": "Jashore ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Jashore",
+      "address": "Sadar, Jashore",
+      "hotline": "16163",
+      "emergency_phone": "02-9988041",
+      "mobile": "01713-038041",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Barishal",
+  "upazila": "Gaurnadi",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0125",
+      "name": "Gournadi Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Barishal",
+      "district": "Barishal",
+      "district_slug": "barishal",
+      "upazila": "Gaurnadi",
+      "address": "Gaurnadi, Barishal",
+      "latitude": 22.962921,
+      "longitude": 90.226773,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

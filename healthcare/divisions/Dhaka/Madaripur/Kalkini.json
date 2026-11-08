@@ -1,0 +1,31 @@
+{
+  "division": "Dhaka",
+  "district": "Madaripur",
+  "upazila": "Kalkini",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2435",
+      "name": "Kalkini Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "district_slug": "madaripur",
+      "upazila": "Kalkini",
+      "address": "Kalkini, Madaripur",
+      "latitude": 23.0751,
+      "longitude": 90.229206,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

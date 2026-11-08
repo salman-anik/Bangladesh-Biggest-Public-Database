@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Rangpur",
+  "upazila": "Gangachara",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3120",
+      "name": "Family planning Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "district_slug": "rangpur",
+      "upazila": "Gangachara",
+      "address": "Gangachara, Rangpur",
+      "latitude": 25.865073,
+      "longitude": 89.254193,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3140",
+      "name": "Nurunnahar Community Clinic, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "district_slug": "rangpur",
+      "upazila": "Gangachara",
+      "address": "Gangachara, Rangpur",
+      "latitude": 25.857757,
+      "longitude": 89.255969,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,38 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "SY",
+      "name": "Sylhet Railway Station",
+      "bn_name": "সিলেট রেলওয়ে স্টেশন",
+      "zone": "East Zone",
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "gauge": "Meter Gauge",
+      "junction": false,
+      "platforms": 4
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "ZYL",
+      "icao_code": "VGSY",
+      "name": "Osmani International Airport",
+      "bn_name": "ওসমানী আন্তর্জাতিক বিমানবন্দর",
+      "type": "International",
+      "city": "Sylhet",
+      "district": "Sylhet",
+      "runway_length_ft": 10000,
+      "terminal_count": 2,
+      "hotline": "0821-714243",
+      "airlines": [
+        "Biman Bangladesh Airlines (Direct UK flights)",
+        "US-Bangla Airlines",
+        "Novoair"
+      ]
+    }
+  ],
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "total_railway_stations": 1,
+  "total_airports": 1
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Chandpur",
+  "upazila": "Chandpur Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-0315",
+      "name": "Chandpur Sadar Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "district_slug": "chandpur",
+      "upazila": "Chandpur Sadar",
+      "address": "Chandpur Sadar, Chandpur",
+      "latitude": 23.223356,
+      "longitude": 90.65317,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

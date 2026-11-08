@@ -1,0 +1,52 @@
+{
+  "division": "Sylhet",
+  "district": "Maulvibazar",
+  "upazila": "Kamalganj",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-2509",
+      "name": "Kamalganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "district_slug": "maulvibazar",
+      "upazila": "Kamalganj",
+      "address": "Kamalganj, Maulvibazar",
+      "latitude": 24.365944,
+      "longitude": 91.857081,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2515",
+      "name": "Bimal Sinha Memorial S.D. Hospital, Dhalai",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Sylhet",
+      "district": "Maulvibazar",
+      "district_slug": "maulvibazar",
+      "upazila": "Kamalganj",
+      "address": "English Midium School, Kamalpur NP Kamalpur Sub Division, Baligaon Noagaon Road",
+      "latitude": 24.197367,
+      "longitude": 91.828089,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

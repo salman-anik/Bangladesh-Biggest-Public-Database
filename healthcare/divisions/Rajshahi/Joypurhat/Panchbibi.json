@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "upazila": "Panchbibi",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2221",
+      "name": "Panchbibi Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "district_slug": "joypurhat",
+      "upazila": "Panchbibi",
+      "address": "Panchbibi, Joypurhat",
+      "latitude": 25.194688,
+      "longitude": 89.041408,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,29 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Pathantula",
+  "total_hospitals": 1,
+  "total_beds": 925,
+  "hospitals": [
+    {
+      "id": "HOSP-3426",
+      "name": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "bn_name": "জালালাবাদ রাগীব-রাবেয়া মেডিকেল কলেজ হাসপাতাল",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 925,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Pathantula",
+      "address": "Ragib-Rabeya Medical College Road, Pathantula, Sylhet",
+      "emergency_hotline": "0821-719090",
+      "telephone": "0821-719090",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "https://www.jrrmc.edu.bd",
+      "district_slug": "sylhet"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "upazila": "Akkelpur",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2220",
+      "name": "Akkelpur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "district_slug": "joypurhat",
+      "upazila": "Akkelpur",
+      "address": "Akkelpur, Joypurhat",
+      "latitude": 24.967304,
+      "longitude": 89.022595,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

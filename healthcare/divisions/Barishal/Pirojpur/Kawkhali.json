@@ -1,0 +1,52 @@
+{
+  "division": "Barishal",
+  "district": "Pirojpur",
+  "upazila": "Kawkhali",
+  "total_hospitals": 2,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-3004",
+      "name": "মা ক্লিনিক",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "district_slug": "pirojpur",
+      "upazila": "Kawkhali",
+      "address": "Kawkhali, Pirojpur",
+      "latitude": 22.62154,
+      "longitude": 90.060614,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3005",
+      "name": "মুক্তি ক্লিনিক",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "district_slug": "pirojpur",
+      "upazila": "Kawkhali",
+      "address": "Kawkhali, Pirojpur",
+      "latitude": 22.628615,
+      "longitude": 90.059407,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

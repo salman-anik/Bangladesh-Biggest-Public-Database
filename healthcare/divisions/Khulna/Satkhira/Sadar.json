@@ -1,0 +1,29 @@
+{
+  "division": "Khulna",
+  "district": "Satkhira",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-3225",
+      "name": "Satkhira 250 Bed District Sadar Hospital",
+      "bn_name": "Satkhira ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Satkhira",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Satkhira",
+      "emergency_hotline": "01730-072059",
+      "telephone": "01730-072059",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "satkhira"
+    }
+  ],
+  "blood_banks": []
+}

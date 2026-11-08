@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Chandpur",
+  "upazila": "Kachua",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-0320",
+      "name": "Kachua Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "district_slug": "chandpur",
+      "upazila": "Kachua",
+      "address": "Kachua, Chandpur",
+      "latitude": 23.340907,
+      "longitude": 90.890766,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0321",
+      "name": "Kachua Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "district_slug": "chandpur",
+      "upazila": "Kachua",
+      "address": "Kachua, Chandpur",
+      "latitude": 23.341085,
+      "longitude": 90.889473,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

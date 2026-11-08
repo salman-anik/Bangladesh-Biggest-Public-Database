@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "upazila": "Chhatak",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-3400",
+      "name": "koitok hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "district_slug": "sunamganj",
+      "upazila": "Chhatak",
+      "address": "Chhatak, Sunamganj",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,52 @@
+{
+  "division": "Rajshahi",
+  "district": "Chapai Nawabganj",
+  "upazila": "Bholahat",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-0326",
+      "name": "Bholarhat Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "district_slug": "chapai_nawabganj",
+      "upazila": "Bholahat",
+      "address": "Bholahat, Chapai Nawabganj",
+      "latitude": 24.936379,
+      "longitude": 88.221832,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0330",
+      "name": "Muchia Anchal Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "district_slug": "chapai_nawabganj",
+      "upazila": "Bholahat",
+      "address": "Nalagola-Pakuahat-Malda Road, Near Buniadpur Vocational Training School, Muchia",
+      "latitude": 24.966072,
+      "longitude": 88.224234,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Habiganj",
+  "upazila": "Madhabpur",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2119",
+      "name": "Madhabpur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "district_slug": "habiganj",
+      "upazila": "Madhabpur",
+      "address": "Madhabpur, Habiganj",
+      "latitude": 24.097149,
+      "longitude": 91.287509,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

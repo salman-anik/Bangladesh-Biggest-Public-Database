@@ -1,0 +1,31 @@
+{
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "upazila": "Puthia",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-3061",
+      "name": "Fatema Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "district_slug": "rajshahi",
+      "upazila": "Puthia",
+      "address": "Puthia, Rajshahi",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

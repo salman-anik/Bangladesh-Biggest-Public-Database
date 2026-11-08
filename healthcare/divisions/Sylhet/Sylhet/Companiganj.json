@@ -1,0 +1,52 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Companiganj",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-3419",
+      "name": "Companygonj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "district_slug": "sylhet",
+      "upazila": "Companiganj",
+      "address": "Companiganj, Sylhet",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3420",
+      "name": "Companygonj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "district_slug": "sylhet",
+      "upazila": "Companiganj",
+      "address": "Companiganj, Sylhet",
+      "latitude": 25.085457,
+      "longitude": 91.755414,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

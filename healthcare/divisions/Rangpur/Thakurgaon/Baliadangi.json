@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Thakurgaon",
+  "upazila": "Baliadangi",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-3582",
+      "name": "Baliadangi Upazila Health Comlex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "district_slug": "thakurgaon",
+      "upazila": "Baliadangi",
+      "address": "Baliadangi, Thakurgaon",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

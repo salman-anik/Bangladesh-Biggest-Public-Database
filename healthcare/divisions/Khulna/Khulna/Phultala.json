@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Phultala",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-2267",
+      "name": "Bajerdanga Community Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Khulna",
+      "district": "Khulna",
+      "district_slug": "khulna",
+      "upazila": "Phultala",
+      "address": "Phultala, Khulna",
+      "latitude": 22.983206,
+      "longitude": 89.456638,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

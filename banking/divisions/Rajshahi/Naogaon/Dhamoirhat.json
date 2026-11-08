@@ -1,0 +1,51 @@
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "upazila": "Dhamoirhat",
+  "total_branches": 3,
+  "banks_present": [
+    "JANATA BANK LIMITED",
+    "RAJSHAHI KRISHI UNNAYAN BANK"
+  ],
+  "branches": [
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "AGRADIGUN BRANCH",
+      "routing_number": "135640072",
+      "swift_code": "JANBBDDH",
+      "district": "NAOGAON",
+      "address": "AGRADIGUN, DHAMOIRHAT, NAOGAON 6580",
+      "telephone": "017 30009646",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "007"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "DHAMOIRHAT BRANCH",
+      "routing_number": "135640498",
+      "swift_code": "JANBBDDH",
+      "district": "NAOGAON",
+      "address": "DHAMOIR HAT, NAOGAON 6580",
+      "telephone": "07424 56006",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "049"
+    },
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "DHAMOIRHAT BRANCH",
+      "routing_number": "180640498",
+      "swift_code": "DHAMOIRHAT, NAOGAON",
+      "district": "NAOGAON",
+      "address": "07424 56015",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "049"
+    }
+  ]
+}

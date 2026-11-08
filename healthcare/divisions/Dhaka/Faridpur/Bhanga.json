@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Faridpur",
+  "upazila": "Bhanga",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-1948",
+      "name": "Bhanga Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Bhanga",
+      "address": "Bhanga, Faridpur",
+      "latitude": 23.382152,
+      "longitude": 89.980021,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1963",
+      "name": "Sheba Diagonistics Centre, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Bhanga",
+      "address": "Bhanga, Faridpur",
+      "latitude": 23.381618,
+      "longitude": 89.982728,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

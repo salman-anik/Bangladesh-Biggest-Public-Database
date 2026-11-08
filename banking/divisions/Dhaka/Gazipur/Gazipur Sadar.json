@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Gazipur",
+  "upazila": "Gazipur Sadar",
+  "total_branches": 3,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "JANATA BANK LIMITED",
+    "UNITED COMMERCIAL BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "BOARD BAZAR BRANCH",
+      "routing_number": "010330223",
+      "swift_code": "AGBKBDDH",
+      "district": "GAZIPUR",
+      "address": "BOARD BAZAR, GAZIPUR SADAR, GAZIPUR 1704",
+      "telephone": "02 9291380",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "022"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "PORABARI BAZAR BRANCH",
+      "routing_number": "135331244",
+      "swift_code": "JANBBDDH",
+      "district": "GAZIPUR",
+      "address": "IPSHA, GAZIPUR SADAR, GAZIPUR 1706",
+      "telephone": "02 9204168",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "124"
+    },
+    {
+      "bank_name": "UNITED COMMERCIAL BANK LIMITED",
+      "bank_code": "245",
+      "branch_name": "BHAWAL MIRZAPUR BRANCH",
+      "routing_number": "245330243",
+      "swift_code": "UCBLBDDH",
+      "district": "GAZIPUR",
+      "address": "HALIMA PLAZA, BHAWAL MIRZAPUR, GAZIPUR SADAR, GAZIPUR",
+      "telephone": "017 09635957, 019 55515472",
+      "email": "bmb@ucb.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": ""
+    }
+  ]
+}

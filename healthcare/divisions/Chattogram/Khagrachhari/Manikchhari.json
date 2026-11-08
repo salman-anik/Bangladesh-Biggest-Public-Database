@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Khagrachhari",
+  "upazila": "Manikchhari",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2226",
+      "name": "Manikchari Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "district_slug": "khagrachhari",
+      "upazila": "Manikchhari",
+      "address": "Manikchhari, Khagrachhari",
+      "latitude": 22.85019,
+      "longitude": 91.841178,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

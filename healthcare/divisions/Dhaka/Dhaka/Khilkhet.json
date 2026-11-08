@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Khilkhet",
+  "total_hospitals": 2,
+  "total_beds": 750,
+  "hospitals": [
+    {
+      "id": "HOSP-0741",
+      "name": "City Dental College & General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Khilkhet",
+      "address": "Khilkhet, Dhaka",
+      "latitude": 23.835513,
+      "longitude": 90.418454,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0865",
+      "name": "Ashiyan Medical College Hospital",
+      "bn_name": "",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 500,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Khilkhet",
+      "address": "Khilkhet, Dhaka",
+      "latitude": 23.83512,
+      "longitude": 90.453559,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

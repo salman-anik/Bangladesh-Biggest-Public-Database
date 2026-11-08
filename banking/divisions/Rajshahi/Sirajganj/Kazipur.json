@@ -1,0 +1,78 @@
+{
+  "division": "Rajshahi",
+  "district": "Sirajganj",
+  "upazila": "Kazipur",
+  "total_branches": 5,
+  "banks_present": [
+    "JAMUNA BANK LIMITED",
+    "SONALI BANK LIMITED",
+    "UTTARA BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "JAMUNA BANK LIMITED",
+      "bank_code": "130",
+      "branch_name": "KAZIPUR SME BRANCH",
+      "routing_number": "130881094",
+      "swift_code": "JAMUBDDH",
+      "district": "SIRAJGANJ",
+      "address": "WARD 4, KAZIPUR POURASHAVA, KAZIPUR, SIRAJGANJ",
+      "telephone": "07525 56234, 56233",
+      "email": "manager.kazipur-sme@jamunabank.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "109"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "KAZIPUR BRANCH",
+      "routing_number": "200881090",
+      "swift_code": "BSONBDDH",
+      "district": "SIRAJGANJ",
+      "address": "KAZIPUR, SIRAJGANJ",
+      "telephone": "07525 56115",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "109 / 109"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "NATUARPARA BRANCH",
+      "routing_number": "200881429",
+      "swift_code": "BSONBDDH",
+      "district": "SIRAJGANJ",
+      "address": "NATUARPARA, KAZIPUR, SIRAJGANJ",
+      "telephone": "07526 8010",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "142 / 142"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "SONAMUKHI BRANCH",
+      "routing_number": "200882028",
+      "swift_code": "BSONBDDH",
+      "district": "SIRAJGANJ",
+      "address": "SONAMUKHI, KAZIPUR, SIRAJGANJ",
+      "telephone": "07526 8009",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "202 / 202"
+    },
+    {
+      "bank_name": "UTTARA BANK LIMITED",
+      "bank_code": "250",
+      "branch_name": "SUBGACHA BRANCH",
+      "routing_number": "250882081",
+      "swift_code": "UTBLBDDH",
+      "district": "SIRAJGANJ",
+      "address": "PUPIL BARIA BAZAR, BHAGABATI, KAZIPUR, SIRAJGANJ",
+      "telephone": "019 91144372, 07525 56260",
+      "email": "subgacha.manager@uttarabank-bd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "208 / 208"
+    }
+  ]
+}

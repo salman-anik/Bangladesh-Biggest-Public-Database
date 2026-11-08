@@ -1,0 +1,76 @@
+{
+  "division": "Chattogram",
+  "district": "Bandarban",
+  "upazila": "Ruma",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Bandarban",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bandarban",
+      "phone": "01713-000029",
+      "email": "dcbandarban@mopa.gov.bd",
+      "website": "http://www.bandarban.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bandarban",
+      "phone": "01713-373029",
+      "email": "spbandarban@police.gov.bd",
+      "control_room": "01713-374029"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bandarban",
+      "phone": "01713-555029",
+      "email": "csbandarban@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-42",
+      "name": "Bandarban Sadar Police Station",
+      "bn_name": "Bandarban সদর থানা",
+      "unit": "Bandarban District Police",
+      "division": "General",
+      "district": "Bandarban",
+      "address": "Court Building Road, Sadar, Bandarban",
+      "oc_mobile": "01713-374042",
+      "duty_officer": "01713-399042",
+      "tnt": "02-770042",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-033",
+      "name": "Bandarban Fire Station & Civil Defence",
+      "bn_name": "Bandarban ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Bandarban",
+      "address": "Sadar, Bandarban",
+      "hotline": "16163",
+      "emergency_phone": "02-9988033",
+      "mobile": "01713-038033",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "division": "Dhaka",
+  "district": "Munshiganj",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2548",
+      "name": "Munshiganj 250 Bed District Sadar Hospital",
+      "bn_name": "Munshiganj ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Munshiganj",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Munshiganj",
+      "emergency_hotline": "01730-072039",
+      "telephone": "01730-072039",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "munshiganj"
+    }
+  ],
+  "blood_banks": []
+}

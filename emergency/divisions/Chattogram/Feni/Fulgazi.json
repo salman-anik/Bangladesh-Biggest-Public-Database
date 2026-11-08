@@ -1,0 +1,76 @@
+{
+  "division": "Chattogram",
+  "district": "Feni",
+  "upazila": "Fulgazi",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Feni",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Feni",
+      "phone": "01713-000024",
+      "email": "dcfeni@mopa.gov.bd",
+      "website": "http://www.feni.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Feni",
+      "phone": "01713-373024",
+      "email": "spfeni@police.gov.bd",
+      "control_room": "01713-374024"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Feni",
+      "phone": "01713-555024",
+      "email": "csfeni@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-37",
+      "name": "Feni Sadar Police Station",
+      "bn_name": "Feni সদর থানা",
+      "unit": "Feni District Police",
+      "division": "General",
+      "district": "Feni",
+      "address": "Court Building Road, Sadar, Feni",
+      "oc_mobile": "01713-374037",
+      "duty_officer": "01713-399037",
+      "tnt": "02-770037",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-028",
+      "name": "Feni Fire Station & Civil Defence",
+      "bn_name": "Feni ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Feni",
+      "address": "Sadar, Feni",
+      "hotline": "16163",
+      "emergency_phone": "02-9988028",
+      "mobile": "01713-038028",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

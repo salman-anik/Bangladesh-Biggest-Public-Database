@@ -1,0 +1,38 @@
+{
+  "division": "Mymensingh",
+  "district": "Mymensingh",
+  "upazila": "Muktagacha",
+  "total_branches": 2,
+  "banks_present": [
+    "BRAC BANK LIMITED",
+    "ISLAMI BANK BANGLADESH LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BRAC BANK LIMITED",
+      "bank_code": "060",
+      "branch_name": "MUKTAGACHA SME BRANCH",
+      "routing_number": "060611697",
+      "swift_code": "BRAKBDDH",
+      "district": "MYMENSINGH",
+      "address": "HOUSE 62, PURATON BUS STAND, MAIN ROAD MUKTAGACHA, MYMENSINGH",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "169"
+    },
+    {
+      "bank_name": "ISLAMI BANK BANGLADESH LIMITED",
+      "bank_code": "125",
+      "branch_name": "MUKTAGACHA SME BRANCH",
+      "routing_number": "125611703",
+      "swift_code": "IBBLBDDH",
+      "district": "MYMENSINGH",
+      "address": "BARA MASJID SUPER MARKET, MUKTAGACHA, MYMENSINGH",
+      "telephone": "09028 75160, 017 13425923, 017 30783832",
+      "email": "muktagacha@islamibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "170"
+    }
+  ]
+}

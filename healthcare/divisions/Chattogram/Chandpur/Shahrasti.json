@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Chandpur",
+  "upazila": "Shahrasti",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-0323",
+      "name": "Shahrasti Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "district_slug": "chandpur",
+      "upazila": "Shahrasti",
+      "address": "Shahrasti, Chandpur",
+      "latitude": 23.22802,
+      "longitude": 90.949288,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

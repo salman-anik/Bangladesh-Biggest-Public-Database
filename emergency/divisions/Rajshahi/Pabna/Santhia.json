@@ -1,0 +1,76 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazila": "Santhia",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Pabna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Pabna",
+      "phone": "01713-000032",
+      "email": "dcpabna@mopa.gov.bd",
+      "website": "http://www.pabna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Pabna",
+      "phone": "01713-373032",
+      "email": "sppabna@police.gov.bd",
+      "control_room": "01713-374032"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Pabna",
+      "phone": "01713-555032",
+      "email": "cspabna@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-45",
+      "name": "Pabna Sadar Police Station",
+      "bn_name": "Pabna সদর থানা",
+      "unit": "Pabna District Police",
+      "division": "General",
+      "district": "Pabna",
+      "address": "Court Building Road, Sadar, Pabna",
+      "oc_mobile": "01713-374045",
+      "duty_officer": "01713-399045",
+      "tnt": "02-770045",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-036",
+      "name": "Pabna Fire Station & Civil Defence",
+      "bn_name": "Pabna ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Pabna",
+      "address": "Sadar, Pabna",
+      "hotline": "16163",
+      "emergency_phone": "02-9988036",
+      "mobile": "01713-038036",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

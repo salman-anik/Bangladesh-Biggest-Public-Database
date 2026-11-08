@@ -1,0 +1,76 @@
+{
+  "division": "Mymensingh",
+  "district": "Sherpur",
+  "upazila": "Sreebordi",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Sherpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sherpur",
+      "phone": "01713-000063",
+      "email": "dcsherpur@mopa.gov.bd",
+      "website": "http://www.sherpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sherpur",
+      "phone": "01713-373063",
+      "email": "spsherpur@police.gov.bd",
+      "control_room": "01713-374063"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sherpur",
+      "phone": "01713-555063",
+      "email": "cssherpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-76",
+      "name": "Sherpur Sadar Police Station",
+      "bn_name": "Sherpur সদর থানা",
+      "unit": "Sherpur District Police",
+      "division": "General",
+      "district": "Sherpur",
+      "address": "Court Building Road, Sadar, Sherpur",
+      "oc_mobile": "01713-374076",
+      "duty_officer": "01713-399076",
+      "tnt": "02-770076",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-067",
+      "name": "Sherpur Fire Station & Civil Defence",
+      "bn_name": "Sherpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Sherpur",
+      "address": "Sadar, Sherpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988067",
+      "mobile": "01713-038067",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

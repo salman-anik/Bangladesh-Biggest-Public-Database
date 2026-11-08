@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "upazila": "Shailkupa",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Jhenaidah",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jhenaidah",
+      "phone": "01713-000041",
+      "email": "dcjhenaidah@mopa.gov.bd",
+      "website": "http://www.jhenaidah.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jhenaidah",
+      "phone": "01713-373041",
+      "email": "spjhenaidah@police.gov.bd",
+      "control_room": "01713-374041"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jhenaidah",
+      "phone": "01713-555041",
+      "email": "csjhenaidah@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-54",
+      "name": "Jhenaidah Sadar Police Station",
+      "bn_name": "Jhenaidah সদর থানা",
+      "unit": "Jhenaidah District Police",
+      "division": "General",
+      "district": "Jhenaidah",
+      "address": "Court Building Road, Sadar, Jhenaidah",
+      "oc_mobile": "01713-374054",
+      "duty_officer": "01713-399054",
+      "tnt": "02-770054",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-045",
+      "name": "Jhenaidah Fire Station & Civil Defence",
+      "bn_name": "Jhenaidah ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Jhenaidah",
+      "address": "Sadar, Jhenaidah",
+      "hotline": "16163",
+      "emergency_phone": "02-9988045",
+      "mobile": "01713-038045",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

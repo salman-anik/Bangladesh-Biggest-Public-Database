@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Dhaka",
+  "upazila": "Cantonment",
+  "total_hospitals": 2,
+  "total_beds": 270,
+  "hospitals": [
+    {
+      "id": "HOSP-0772",
+      "name": "Surovi maternity general hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Cantonment",
+      "address": "Cantonment, Dhaka",
+      "latitude": 23.828539,
+      "longitude": 90.39209,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1594",
+      "name": "Lab in diagnostic center",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "district_slug": "dhaka",
+      "upazila": "Cantonment",
+      "address": "Cantonment, Dhaka",
+      "latitude": 23.824458,
+      "longitude": 90.393975,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,49 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "JSR",
+      "name": "Jashore Junction",
+      "bn_name": "যশোর জংশন",
+      "zone": "West Zone",
+      "division": "Khulna",
+      "district": "Jashore",
+      "gauge": "Broad Gauge",
+      "junction": true,
+      "platforms": 3
+    },
+    {
+      "station_code": "BNP",
+      "name": "Benapole Railway Station",
+      "bn_name": "বেনাপোল রেলওয়ে স্টেশন",
+      "zone": "West Zone",
+      "division": "Khulna",
+      "district": "Jashore",
+      "gauge": "Broad Gauge (Petrapole Link)",
+      "junction": true,
+      "platforms": 3
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "JSR",
+      "icao_code": "VGJR",
+      "name": "Jashore Airport",
+      "bn_name": "যশোর বিমানবন্দর",
+      "type": "Domestic (Southwestern Hub)",
+      "city": "Jashore",
+      "district": "Jashore",
+      "runway_length_ft": 8000,
+      "terminal_count": 1,
+      "hotline": "0421-68670",
+      "airlines": [
+        "Biman Bangladesh Airlines",
+        "US-Bangla Airlines",
+        "Novoair"
+      ]
+    }
+  ],
+  "division": "Khulna",
+  "district": "Jashore",
+  "total_railway_stations": 2,
+  "total_airports": 1
+}

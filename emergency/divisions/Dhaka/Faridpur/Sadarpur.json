@@ -1,0 +1,76 @@
+{
+  "division": "Dhaka",
+  "district": "Faridpur",
+  "upazila": "Sadarpur",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Faridpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Faridpur",
+      "phone": "01713-000011",
+      "email": "dcfaridpur@mopa.gov.bd",
+      "website": "http://www.faridpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Faridpur",
+      "phone": "01713-373011",
+      "email": "spfaridpur@police.gov.bd",
+      "control_room": "01713-374011"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Faridpur",
+      "phone": "01713-555011",
+      "email": "csfaridpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-24",
+      "name": "Faridpur Sadar Police Station",
+      "bn_name": "Faridpur সদর থানা",
+      "unit": "Faridpur District Police",
+      "division": "General",
+      "district": "Faridpur",
+      "address": "Court Building Road, Sadar, Faridpur",
+      "oc_mobile": "01713-374024",
+      "duty_officer": "01713-399024",
+      "tnt": "02-770024",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-015",
+      "name": "Faridpur Fire Station & Civil Defence",
+      "bn_name": "Faridpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Faridpur",
+      "address": "Sadar, Faridpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988015",
+      "mobile": "01713-038015",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

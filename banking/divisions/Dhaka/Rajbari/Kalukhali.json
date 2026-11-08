@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Rajbari",
+  "upazila": "Kalukhali",
+  "total_branches": 3,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "KALUKHALI",
+      "routing_number": "010820375",
+      "swift_code": "",
+      "district": "RAJBARI",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "037"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "RATANDIA BRANCH",
+      "routing_number": "035820826",
+      "swift_code": "BKBABDDH",
+      "district": "RAJBARI",
+      "address": "RATANDIA, KALUKHALI, RAJBARI",
+      "telephone": "mgrratandia@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1104 / 082"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "KALUKHALI BRANCH",
+      "routing_number": "200820372",
+      "swift_code": "BSONBDDH",
+      "district": "RAJBARI",
+      "address": "KALUKHALI BAZAR, RAJBARI 7722",
+      "telephone": "017 55532270",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "037 / 037"
+    }
+  ]
+}

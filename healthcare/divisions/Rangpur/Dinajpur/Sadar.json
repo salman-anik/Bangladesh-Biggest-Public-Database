@@ -1,0 +1,29 @@
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-1901",
+      "name": "M Abdur Rahim Medical College Hospital",
+      "bn_name": "এম আব্দুর রহিম মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 500,
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Sadar",
+      "address": "Dinajpur Sadar, Dinajpur",
+      "emergency_hotline": "0531-63300",
+      "telephone": "0531-63300",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "dinajpur"
+    }
+  ],
+  "blood_banks": []
+}

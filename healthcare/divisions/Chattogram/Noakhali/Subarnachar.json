@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "upazila": "Subarnachar",
+  "total_hospitals": 1,
+  "total_beds": 20,
+  "hospitals": [
+    {
+      "id": "HOSP-2920",
+      "name": "Mir Somaj Community Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "district_slug": "noakhali",
+      "upazila": "Subarnachar",
+      "address": "Subarnachar, Noakhali",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

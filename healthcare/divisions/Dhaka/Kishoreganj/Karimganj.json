@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Karimganj",
+  "total_hospitals": 2,
+  "total_beds": 540,
+  "hospitals": [
+    {
+      "id": "HOSP-2337",
+      "name": "President Abdul Hamid Medical College and Hospital রাষ্ট্রপতি আবদুল হামিদ মেডিকেল কলেজ ও হাসপাতাল",
+      "bn_name": "",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 500,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Karimganj",
+      "address": "Karimganj, Kishoreganj",
+      "latitude": 24.447659,
+      "longitude": 90.855546,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2342",
+      "name": "Karimganj Upazilla Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Karimganj",
+      "address": "Karimganj, Kishoreganj",
+      "latitude": 24.46579,
+      "longitude": 90.871875,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,66 @@
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "upazila": "Mohadevpur",
+  "total_branches": 4,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "AL-ARAFAH ISLAMI BANK LIMITED",
+    "ISLAMI BANK BANGLADESH LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "BUS STAND BRANCH",
+      "routing_number": "010640434",
+      "swift_code": "AGBKBDDH",
+      "district": "NAOGAON",
+      "address": "MOHADEVPUR ROAD, NAOGAON 6500",
+      "telephone": "0741 62676",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "043"
+    },
+    {
+      "bank_name": "AL-ARAFAH ISLAMI BANK LIMITED",
+      "bank_code": "015",
+      "branch_name": "MOHADEBPUR BRANCH",
+      "routing_number": "015641096",
+      "swift_code": "ALARBDDH",
+      "district": "NAOGAON",
+      "address": "PLOT 425, MOHADEVPUR, NAOGAON",
+      "telephone": "0742 675136, 017 11425675",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "109"
+    },
+    {
+      "bank_name": "ISLAMI BANK BANGLADESH LIMITED",
+      "bank_code": "125",
+      "branch_name": "MOHADEBPUR BRANCH",
+      "routing_number": "125641094",
+      "swift_code": "IBBLBDDH",
+      "district": "NAOGAON",
+      "address": "KISMAT PLAZA, UPAZILLA ROAD, MOHADEVPUR, NAOGAON",
+      "telephone": "07426 75235, 017 30328870",
+      "email": "mohadevpur@islamibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "109"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "MOHADEVPUR BRANCH",
+      "routing_number": "200641098",
+      "swift_code": "BSONBDDH",
+      "district": "NAOGAON",
+      "address": "MOHADEVPUR, NAOGAON",
+      "telephone": "0741 52186 (Ext 5)",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "109 / 109"
+    }
+  ]
+}

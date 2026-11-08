@@ -1,0 +1,29 @@
+{
+  "division": "Chattogram",
+  "district": "Chattogram",
+  "upazila": "Ananya RA",
+  "total_hospitals": 1,
+  "total_beds": 470,
+  "hospitals": [
+    {
+      "id": "HOSP-0433",
+      "name": "Evercare Hospital Chattogram",
+      "bn_name": "এভারকেয়ার হাসপাতাল চট্টগ্রাম",
+      "category": "Private Tertiary Hospital",
+      "type": "Private",
+      "bed_capacity": 470,
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Ananya R/A",
+      "address": "Plot H1, Ananya Residential Area, Oxygen-Kuwaish Road, Chattogram",
+      "emergency_hotline": "10678",
+      "telephone": "031-333333",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "https://www.evercarebd.com/chattogram",
+      "district_slug": "chattogram"
+    }
+  ],
+  "blood_banks": []
+}

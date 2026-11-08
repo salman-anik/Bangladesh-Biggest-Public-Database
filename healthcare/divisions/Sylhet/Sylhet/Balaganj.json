@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Balaganj",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-3418",
+      "name": "Balaganj Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "district_slug": "sylhet",
+      "upazila": "Balaganj",
+      "address": "Balaganj, Sylhet",
+      "latitude": 24.654997,
+      "longitude": 91.836512,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

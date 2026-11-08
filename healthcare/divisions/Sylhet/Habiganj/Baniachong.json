@@ -1,0 +1,31 @@
+{
+  "division": "Sylhet",
+  "district": "Habiganj",
+  "upazila": "Baniachong",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2126",
+      "name": "বানিয়াচং ঊপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "district_slug": "habiganj",
+      "upazila": "Baniachong",
+      "address": "Baniachong, Habiganj",
+      "latitude": 24.504396,
+      "longitude": 91.363971,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

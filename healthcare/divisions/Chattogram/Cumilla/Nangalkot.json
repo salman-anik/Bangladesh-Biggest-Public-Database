@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Cumilla",
+  "upazila": "Nangalkot",
+  "total_hospitals": 2,
+  "total_beds": 60,
+  "hospitals": [
+    {
+      "id": "HOSP-0707",
+      "name": "নাঙলকোট উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "district_slug": "cumilla",
+      "upazila": "Nangalkot",
+      "address": "Nangalkot, Cumilla",
+      "latitude": 23.171579,
+      "longitude": 91.198933,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0717",
+      "name": "Shreehashy Community Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Chattogram",
+      "district": "Cumilla",
+      "district_slug": "cumilla",
+      "upazila": "Nangalkot",
+      "address": "Nangalkot, Cumilla",
+      "latitude": 23.125772,
+      "longitude": 91.198734,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

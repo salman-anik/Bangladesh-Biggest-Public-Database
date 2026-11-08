@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "upazila": "Chatkhil",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2912",
+      "name": "Chatkhil Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "district_slug": "noakhali",
+      "upazila": "Chatkhil",
+      "address": "Chatkhil, Noakhali",
+      "latitude": 23.060157,
+      "longitude": 90.969302,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

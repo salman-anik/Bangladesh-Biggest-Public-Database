@@ -1,0 +1,31 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Dighalia",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-2245",
+      "name": "Dighalia Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Khulna",
+      "district_slug": "khulna",
+      "upazila": "Dighalia",
+      "address": "Dighalia, Khulna",
+      "latitude": 22.891605,
+      "longitude": 89.535211,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

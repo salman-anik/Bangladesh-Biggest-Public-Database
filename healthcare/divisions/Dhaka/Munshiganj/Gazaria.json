@@ -1,0 +1,31 @@
+{
+  "division": "Dhaka",
+  "district": "Munshiganj",
+  "upazila": "Gazaria",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-2552",
+      "name": "Gazaria Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Gazaria",
+      "address": "Gazaria, Munshiganj",
+      "latitude": 23.552968,
+      "longitude": 90.652919,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Rangpur",
+  "district": "Rangpur",
+  "upazila": "Badarganj",
+  "total_hospitals": 1,
+  "total_beds": 50,
+  "hospitals": [
+    {
+      "id": "HOSP-3106",
+      "name": "Badarganj Upazila Health Complex",
+      "bn_name": "বদরগঞ্জ উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "district_slug": "rangpur",
+      "upazila": "Badarganj",
+      "address": "Badarganj, Rangpur",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

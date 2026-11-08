@@ -1,0 +1,36 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "ISD",
+      "name": "Ishwardi Junction",
+      "bn_name": "ঈশ্বরদী জংশন",
+      "zone": "West Zone",
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "gauge": "Broad / Dual Gauge",
+      "junction": true,
+      "platforms": 6
+    }
+  ],
+  "airports": [
+    {
+      "iata_code": "IRD",
+      "icao_code": "VGIS",
+      "name": "Ishwardi Airport",
+      "bn_name": "ঈশ্বরদী বিমানবন্দর (স্ট্যান্ডবাই)",
+      "type": "Domestic (Short-takeoff / STOL)",
+      "city": "Ishwardi",
+      "district": "Pabna",
+      "runway_length_ft": 4700,
+      "terminal_count": 1,
+      "hotline": "0732-663240",
+      "airlines": [
+        "Charter & Defense Operations"
+      ]
+    }
+  ],
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "total_railway_stations": 1,
+  "total_airports": 1
+}

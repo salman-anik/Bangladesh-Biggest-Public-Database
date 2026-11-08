@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Coxsbazar",
+  "upazila": "Kutubdia",
+  "total_branches": 3,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "JANATA BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "KUTUBDIA",
+      "routing_number": "035220671",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "067"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "KUTUBDIA",
+      "routing_number": "135220676",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "067"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "KUTUBDIA",
+      "routing_number": "200220677",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "067"
+    }
+  ]
+}

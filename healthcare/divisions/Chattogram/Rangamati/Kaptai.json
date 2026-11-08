@@ -1,0 +1,31 @@
+{
+  "division": "Chattogram",
+  "district": "Rangamati",
+  "upazila": "Kaptai",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-3094",
+      "name": "লগ গেইট সরকারি হাসপাতাল",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "district_slug": "rangamati",
+      "upazila": "Kaptai",
+      "address": "Kaptai, Rangamati",
+      "latitude": 22.502824,
+      "longitude": 92.209529,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

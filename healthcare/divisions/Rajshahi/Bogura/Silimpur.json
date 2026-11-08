@@ -1,0 +1,28 @@
+{
+  "division": "Rajshahi",
+  "district": "Bogura",
+  "upazila": "Silimpur",
+  "total_hospitals": 1,
+  "total_beds": 500,
+  "hospitals": [
+    {
+      "id": "HOSP-0190",
+      "name": "Shahid Ziaur Rahman Medical College Hospital",
+      "bn_name": "শহীদ জিয়াউর রহমান মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 500,
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Silimpur",
+      "address": "Silimpur, Bogura",
+      "emergency_hotline": "051-68936",
+      "telephone": "051-68936",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.szmc.gov.bd"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,29 @@
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Kajalshah",
+  "total_hospitals": 1,
+  "total_beds": 1000,
+  "hospitals": [
+    {
+      "id": "HOSP-3413",
+      "name": "Sylhet MAG Osmani Medical College Hospital",
+      "bn_name": "সিলেট এম.এ.জি. ওসমানী মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 1000,
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Kajalshah",
+      "address": "Kajalshah, Sylhet-3100",
+      "emergency_hotline": "0821-713487",
+      "telephone": "0821-713487",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.magosmanimedical.com",
+      "district_slug": "sylhet"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,79 @@
+{
+  "division": "Dhaka",
+  "district": "Faridpur",
+  "upazila": "Faridpur Sadar",
+  "total_branches": 5,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "MODHUMOTI BANK LIMITED",
+    "RUPALI BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "ISHAN GOPALPUR BRANCH",
+      "routing_number": "035290793",
+      "swift_code": "BKBABDDH",
+      "district": "FARIDPUR",
+      "address": "ISHAN GOPALPUR, FARIDPUR SADAR, FARIDPUR 7800",
+      "telephone": "017 30708355",
+      "email": "mgrishangopalpur@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "0803 / 079"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "TAMBULKHANA BAZAR BRANCH",
+      "routing_number": "035291439",
+      "swift_code": "BKBABDDH",
+      "district": "FARIDPUR",
+      "address": "TAMBULKHANA BAZAR, FARIDPUR SADAR, FARIDPUR",
+      "telephone": "017 15030020",
+      "email": "mgrtambulkhanabazar@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "0828 / 0828"
+    },
+    {
+      "bank_name": "MODHUMOTI BANK LIMITED",
+      "bank_code": "0",
+      "branch_name": "KANAIPUR BRANCH",
+      "routing_number": "295290917",
+      "swift_code": "MODHBDDH",
+      "district": "FARIDPUR",
+      "address": "KANAIPUR BAZAR, FARIDPUR SADAR, FARIDPUR",
+      "telephone": "017 19632906",
+      "email": "asfakur.rahaman@modhumotibankltd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "091 / 091"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "FARIDPUR BRANCH",
+      "routing_number": "185290522",
+      "swift_code": "RUPBBDDH",
+      "district": "FARIDPUR",
+      "address": "FARIDPUR SADAR, FARIDPUR",
+      "telephone": "0631 62517, 63336, 017 12965264",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1107 / 052"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "FARIDPUR BRANCH",
+      "routing_number": "200290528",
+      "swift_code": "BSONBDDH",
+      "district": "FARIDPUR",
+      "address": "FARIDPUR SADAR, FARIDPUR",
+      "telephone": "0631 63084, 64208, 63084",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "052 / 052"
+    }
+  ]
+}

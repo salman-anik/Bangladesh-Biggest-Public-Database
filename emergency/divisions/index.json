@@ -1,0 +1,2973 @@
+{
+  "title": "Bangladesh Emergency Services - Partitioned Hierarchy",
+  "description": "Emergency services, police stations, fire service, and district administration organized by Division > District > Upazila",
+  "total_divisions": 8,
+  "total_districts": 64,
+  "total_upazilas": 494,
+  "partitions": [
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Debidwar",
+      "file_path": "divisions/Chattogram/Comilla/Debidwar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Barura",
+      "file_path": "divisions/Chattogram/Comilla/Barura.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Brahmanpara",
+      "file_path": "divisions/Chattogram/Comilla/Brahmanpara.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Chandina",
+      "file_path": "divisions/Chattogram/Comilla/Chandina.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Chauddagram",
+      "file_path": "divisions/Chattogram/Comilla/Chauddagram.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Daudkandi",
+      "file_path": "divisions/Chattogram/Comilla/Daudkandi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Homna",
+      "file_path": "divisions/Chattogram/Comilla/Homna.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Laksam",
+      "file_path": "divisions/Chattogram/Comilla/Laksam.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Muradnagar",
+      "file_path": "divisions/Chattogram/Comilla/Muradnagar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Nangalkot",
+      "file_path": "divisions/Chattogram/Comilla/Nangalkot.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Comilla Sadar",
+      "file_path": "divisions/Chattogram/Comilla/Comilla Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Meghna",
+      "file_path": "divisions/Chattogram/Comilla/Meghna.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Monohargonj",
+      "file_path": "divisions/Chattogram/Comilla/Monohargonj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Sadarsouth",
+      "file_path": "divisions/Chattogram/Comilla/Sadarsouth.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Titas",
+      "file_path": "divisions/Chattogram/Comilla/Titas.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Burichang",
+      "file_path": "divisions/Chattogram/Comilla/Burichang.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Comilla",
+      "upazila": "Lalmai",
+      "file_path": "divisions/Chattogram/Comilla/Lalmai.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Chhagalnaiya",
+      "file_path": "divisions/Chattogram/Feni/Chhagalnaiya.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Feni Sadar",
+      "file_path": "divisions/Chattogram/Feni/Feni Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Sonagazi",
+      "file_path": "divisions/Chattogram/Feni/Sonagazi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Fulgazi",
+      "file_path": "divisions/Chattogram/Feni/Fulgazi.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Parshuram",
+      "file_path": "divisions/Chattogram/Feni/Parshuram.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Feni",
+      "upazila": "Daganbhuiyan",
+      "file_path": "divisions/Chattogram/Feni/Daganbhuiyan.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Brahmanbaria Sadar",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Brahmanbaria Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Kasba",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Kasba.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Nasirnagar",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Nasirnagar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Sarail",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Sarail.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Ashuganj",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Ashuganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Akhaura",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Akhaura.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Nabinagar",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Nabinagar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Bancharampur",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Bancharampur.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Brahmanbaria",
+      "upazila": "Bijoynagar",
+      "file_path": "divisions/Chattogram/Brahmanbaria/Bijoynagar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Rangamati Sadar",
+      "file_path": "divisions/Chattogram/Rangamati/Rangamati Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Kaptai",
+      "file_path": "divisions/Chattogram/Rangamati/Kaptai.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Kawkhali",
+      "file_path": "divisions/Chattogram/Rangamati/Kawkhali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Baghaichari",
+      "file_path": "divisions/Chattogram/Rangamati/Baghaichari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Barkal",
+      "file_path": "divisions/Chattogram/Rangamati/Barkal.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Langadu",
+      "file_path": "divisions/Chattogram/Rangamati/Langadu.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Rajasthali",
+      "file_path": "divisions/Chattogram/Rangamati/Rajasthali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Belaichari",
+      "file_path": "divisions/Chattogram/Rangamati/Belaichari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Juraichari",
+      "file_path": "divisions/Chattogram/Rangamati/Juraichari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "upazila": "Naniarchar",
+      "file_path": "divisions/Chattogram/Rangamati/Naniarchar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Noakhali Sadar",
+      "file_path": "divisions/Chattogram/Noakhali/Noakhali Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Companiganj",
+      "file_path": "divisions/Chattogram/Noakhali/Companiganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Begumganj",
+      "file_path": "divisions/Chattogram/Noakhali/Begumganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Hatia",
+      "file_path": "divisions/Chattogram/Noakhali/Hatia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Subarnachar",
+      "file_path": "divisions/Chattogram/Noakhali/Subarnachar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Kabirhat",
+      "file_path": "divisions/Chattogram/Noakhali/Kabirhat.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Senbug",
+      "file_path": "divisions/Chattogram/Noakhali/Senbug.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Chatkhil",
+      "file_path": "divisions/Chattogram/Noakhali/Chatkhil.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Noakhali",
+      "upazila": "Sonaimori",
+      "file_path": "divisions/Chattogram/Noakhali/Sonaimori.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Haimchar",
+      "file_path": "divisions/Chattogram/Chandpur/Haimchar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Kachua",
+      "file_path": "divisions/Chattogram/Chandpur/Kachua.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Shahrasti",
+      "file_path": "divisions/Chattogram/Chandpur/Shahrasti.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Chandpur Sadar",
+      "file_path": "divisions/Chattogram/Chandpur/Chandpur Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Matlab South",
+      "file_path": "divisions/Chattogram/Chandpur/Matlab South.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Hajiganj",
+      "file_path": "divisions/Chattogram/Chandpur/Hajiganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Matlab North",
+      "file_path": "divisions/Chattogram/Chandpur/Matlab North.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chandpur",
+      "upazila": "Faridgonj",
+      "file_path": "divisions/Chattogram/Chandpur/Faridgonj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Lakshmipur Sadar",
+      "file_path": "divisions/Chattogram/Lakshmipur/Lakshmipur Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Kamalnagar",
+      "file_path": "divisions/Chattogram/Lakshmipur/Kamalnagar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Raipur",
+      "file_path": "divisions/Chattogram/Lakshmipur/Raipur.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Ramgati",
+      "file_path": "divisions/Chattogram/Lakshmipur/Ramgati.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Lakshmipur",
+      "upazila": "Ramganj",
+      "file_path": "divisions/Chattogram/Lakshmipur/Ramganj.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Rangunia",
+      "file_path": "divisions/Chattogram/Chattogram/Rangunia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Sitakunda",
+      "file_path": "divisions/Chattogram/Chattogram/Sitakunda.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Mirsharai",
+      "file_path": "divisions/Chattogram/Chattogram/Mirsharai.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Patiya",
+      "file_path": "divisions/Chattogram/Chattogram/Patiya.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Sandwip",
+      "file_path": "divisions/Chattogram/Chattogram/Sandwip.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Banshkhali",
+      "file_path": "divisions/Chattogram/Chattogram/Banshkhali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Boalkhali",
+      "file_path": "divisions/Chattogram/Chattogram/Boalkhali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Anwara",
+      "file_path": "divisions/Chattogram/Chattogram/Anwara.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Chandanaish",
+      "file_path": "divisions/Chattogram/Chattogram/Chandanaish.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Satkania",
+      "file_path": "divisions/Chattogram/Chattogram/Satkania.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Lohagara",
+      "file_path": "divisions/Chattogram/Chattogram/Lohagara.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Hathazari",
+      "file_path": "divisions/Chattogram/Chattogram/Hathazari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Fatikchhari",
+      "file_path": "divisions/Chattogram/Chattogram/Fatikchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Raozan",
+      "file_path": "divisions/Chattogram/Chattogram/Raozan.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Chattogram",
+      "upazila": "Karnafuli",
+      "file_path": "divisions/Chattogram/Chattogram/Karnafuli.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Coxsbazar Sadar",
+      "file_path": "divisions/Chattogram/Coxsbazar/Coxsbazar Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Chakaria",
+      "file_path": "divisions/Chattogram/Coxsbazar/Chakaria.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Kutubdia",
+      "file_path": "divisions/Chattogram/Coxsbazar/Kutubdia.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Ukhiya",
+      "file_path": "divisions/Chattogram/Coxsbazar/Ukhiya.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Moheshkhali",
+      "file_path": "divisions/Chattogram/Coxsbazar/Moheshkhali.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Pekua",
+      "file_path": "divisions/Chattogram/Coxsbazar/Pekua.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Ramu",
+      "file_path": "divisions/Chattogram/Coxsbazar/Ramu.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Teknaf",
+      "file_path": "divisions/Chattogram/Coxsbazar/Teknaf.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Coxsbazar",
+      "upazila": "Eidgaon",
+      "file_path": "divisions/Chattogram/Coxsbazar/Eidgaon.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Khagrachhari Sadar",
+      "file_path": "divisions/Chattogram/Khagrachhari/Khagrachhari Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Dighinala",
+      "file_path": "divisions/Chattogram/Khagrachhari/Dighinala.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Panchari",
+      "file_path": "divisions/Chattogram/Khagrachhari/Panchari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Laxmichhari",
+      "file_path": "divisions/Chattogram/Khagrachhari/Laxmichhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Mohalchari",
+      "file_path": "divisions/Chattogram/Khagrachhari/Mohalchari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Manikchari",
+      "file_path": "divisions/Chattogram/Khagrachhari/Manikchari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Ramgarh",
+      "file_path": "divisions/Chattogram/Khagrachhari/Ramgarh.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Matiranga",
+      "file_path": "divisions/Chattogram/Khagrachhari/Matiranga.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Khagrachhari",
+      "upazila": "Guimara",
+      "file_path": "divisions/Chattogram/Khagrachhari/Guimara.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Bandarban Sadar",
+      "file_path": "divisions/Chattogram/Bandarban/Bandarban Sadar.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Alikadam",
+      "file_path": "divisions/Chattogram/Bandarban/Alikadam.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Naikhongchhari",
+      "file_path": "divisions/Chattogram/Bandarban/Naikhongchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Rowangchhari",
+      "file_path": "divisions/Chattogram/Bandarban/Rowangchhari.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Lama",
+      "file_path": "divisions/Chattogram/Bandarban/Lama.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Ruma",
+      "file_path": "divisions/Chattogram/Bandarban/Ruma.json"
+    },
+    {
+      "division": "Chattogram",
+      "district": "Bandarban",
+      "upazila": "Thanchi",
+      "file_path": "divisions/Chattogram/Bandarban/Thanchi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Belkuchi",
+      "file_path": "divisions/Rajshahi/Sirajganj/Belkuchi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Chauhali",
+      "file_path": "divisions/Rajshahi/Sirajganj/Chauhali.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Kamarkhand",
+      "file_path": "divisions/Rajshahi/Sirajganj/Kamarkhand.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Kazipur",
+      "file_path": "divisions/Rajshahi/Sirajganj/Kazipur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Raigonj",
+      "file_path": "divisions/Rajshahi/Sirajganj/Raigonj.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Shahjadpur",
+      "file_path": "divisions/Rajshahi/Sirajganj/Shahjadpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Sirajganj Sadar",
+      "file_path": "divisions/Rajshahi/Sirajganj/Sirajganj Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Tarash",
+      "file_path": "divisions/Rajshahi/Sirajganj/Tarash.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "upazila": "Ullapara",
+      "file_path": "divisions/Rajshahi/Sirajganj/Ullapara.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Sujanagar",
+      "file_path": "divisions/Rajshahi/Pabna/Sujanagar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Ishurdi",
+      "file_path": "divisions/Rajshahi/Pabna/Ishurdi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Bhangura",
+      "file_path": "divisions/Rajshahi/Pabna/Bhangura.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Pabna Sadar",
+      "file_path": "divisions/Rajshahi/Pabna/Pabna Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Bera",
+      "file_path": "divisions/Rajshahi/Pabna/Bera.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Atghoria",
+      "file_path": "divisions/Rajshahi/Pabna/Atghoria.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Chatmohar",
+      "file_path": "divisions/Rajshahi/Pabna/Chatmohar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Santhia",
+      "file_path": "divisions/Rajshahi/Pabna/Santhia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "upazila": "Faridpur",
+      "file_path": "divisions/Rajshahi/Pabna/Faridpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Kahaloo",
+      "file_path": "divisions/Rajshahi/Bogura/Kahaloo.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Bogra Sadar",
+      "file_path": "divisions/Rajshahi/Bogura/Bogra Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Shariakandi",
+      "file_path": "divisions/Rajshahi/Bogura/Shariakandi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Shajahanpur",
+      "file_path": "divisions/Rajshahi/Bogura/Shajahanpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Dupchanchia",
+      "file_path": "divisions/Rajshahi/Bogura/Dupchanchia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Adamdighi",
+      "file_path": "divisions/Rajshahi/Bogura/Adamdighi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Nondigram",
+      "file_path": "divisions/Rajshahi/Bogura/Nondigram.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Sonatala",
+      "file_path": "divisions/Rajshahi/Bogura/Sonatala.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Dhunot",
+      "file_path": "divisions/Rajshahi/Bogura/Dhunot.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Gabtali",
+      "file_path": "divisions/Rajshahi/Bogura/Gabtali.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Sherpur",
+      "file_path": "divisions/Rajshahi/Bogura/Sherpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "upazila": "Shibganj",
+      "file_path": "divisions/Rajshahi/Bogura/Shibganj.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Paba",
+      "file_path": "divisions/Rajshahi/Rajshahi/Paba.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Durgapur",
+      "file_path": "divisions/Rajshahi/Rajshahi/Durgapur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Mohonpur",
+      "file_path": "divisions/Rajshahi/Rajshahi/Mohonpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Charghat",
+      "file_path": "divisions/Rajshahi/Rajshahi/Charghat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Puthia",
+      "file_path": "divisions/Rajshahi/Rajshahi/Puthia.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Bagha",
+      "file_path": "divisions/Rajshahi/Rajshahi/Bagha.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Godagari",
+      "file_path": "divisions/Rajshahi/Rajshahi/Godagari.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Tanore",
+      "file_path": "divisions/Rajshahi/Rajshahi/Tanore.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Bagmara",
+      "file_path": "divisions/Rajshahi/Rajshahi/Bagmara.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Natore Sadar",
+      "file_path": "divisions/Rajshahi/Natore/Natore Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Singra",
+      "file_path": "divisions/Rajshahi/Natore/Singra.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Baraigram",
+      "file_path": "divisions/Rajshahi/Natore/Baraigram.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Bagatipara",
+      "file_path": "divisions/Rajshahi/Natore/Bagatipara.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Lalpur",
+      "file_path": "divisions/Rajshahi/Natore/Lalpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Gurudaspur",
+      "file_path": "divisions/Rajshahi/Natore/Gurudaspur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "upazila": "Naldanga",
+      "file_path": "divisions/Rajshahi/Natore/Naldanga.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Akkelpur",
+      "file_path": "divisions/Rajshahi/Joypurhat/Akkelpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Kalai",
+      "file_path": "divisions/Rajshahi/Joypurhat/Kalai.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Khetlal",
+      "file_path": "divisions/Rajshahi/Joypurhat/Khetlal.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Panchbibi",
+      "file_path": "divisions/Rajshahi/Joypurhat/Panchbibi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "file_path": "divisions/Rajshahi/Joypurhat/Joypurhat Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapainawabganj",
+      "upazila": "Chapainawabganj Sadar",
+      "file_path": "divisions/Rajshahi/Chapainawabganj/Chapainawabganj Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapainawabganj",
+      "upazila": "Gomostapur",
+      "file_path": "divisions/Rajshahi/Chapainawabganj/Gomostapur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapainawabganj",
+      "upazila": "Nachol",
+      "file_path": "divisions/Rajshahi/Chapainawabganj/Nachol.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapainawabganj",
+      "upazila": "Bholahat",
+      "file_path": "divisions/Rajshahi/Chapainawabganj/Bholahat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Chapainawabganj",
+      "upazila": "Shibganj",
+      "file_path": "divisions/Rajshahi/Chapainawabganj/Shibganj.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Mohadevpur",
+      "file_path": "divisions/Rajshahi/Naogaon/Mohadevpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Badalgachi",
+      "file_path": "divisions/Rajshahi/Naogaon/Badalgachi.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Patnitala",
+      "file_path": "divisions/Rajshahi/Naogaon/Patnitala.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Dhamoirhat",
+      "file_path": "divisions/Rajshahi/Naogaon/Dhamoirhat.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Niamatpur",
+      "file_path": "divisions/Rajshahi/Naogaon/Niamatpur.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Manda",
+      "file_path": "divisions/Rajshahi/Naogaon/Manda.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Atrai",
+      "file_path": "divisions/Rajshahi/Naogaon/Atrai.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Raninagar",
+      "file_path": "divisions/Rajshahi/Naogaon/Raninagar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Naogaon Sadar",
+      "file_path": "divisions/Rajshahi/Naogaon/Naogaon Sadar.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Porsha",
+      "file_path": "divisions/Rajshahi/Naogaon/Porsha.json"
+    },
+    {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "upazila": "Sapahar",
+      "file_path": "divisions/Rajshahi/Naogaon/Sapahar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Manirampur",
+      "file_path": "divisions/Khulna/Jashore/Manirampur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Abhaynagar",
+      "file_path": "divisions/Khulna/Jashore/Abhaynagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Bagherpara",
+      "file_path": "divisions/Khulna/Jashore/Bagherpara.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Chougachha",
+      "file_path": "divisions/Khulna/Jashore/Chougachha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Jhikargacha",
+      "file_path": "divisions/Khulna/Jashore/Jhikargacha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Keshabpur",
+      "file_path": "divisions/Khulna/Jashore/Keshabpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Jessore Sadar",
+      "file_path": "divisions/Khulna/Jashore/Jessore Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jashore",
+      "upazila": "Sharsha",
+      "file_path": "divisions/Khulna/Jashore/Sharsha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Assasuni",
+      "file_path": "divisions/Khulna/Satkhira/Assasuni.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Debhata",
+      "file_path": "divisions/Khulna/Satkhira/Debhata.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Kalaroa",
+      "file_path": "divisions/Khulna/Satkhira/Kalaroa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Satkhira Sadar",
+      "file_path": "divisions/Khulna/Satkhira/Satkhira Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Shyamnagar",
+      "file_path": "divisions/Khulna/Satkhira/Shyamnagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Tala",
+      "file_path": "divisions/Khulna/Satkhira/Tala.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "upazila": "Kaliganj",
+      "file_path": "divisions/Khulna/Satkhira/Kaliganj.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Mujibnagar",
+      "file_path": "divisions/Khulna/Meherpur/Mujibnagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Meherpur Sadar",
+      "file_path": "divisions/Khulna/Meherpur/Meherpur Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "upazila": "Gangni",
+      "file_path": "divisions/Khulna/Meherpur/Gangni.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Narail Sadar",
+      "file_path": "divisions/Khulna/Narail/Narail Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Lohagara",
+      "file_path": "divisions/Khulna/Narail/Lohagara.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Narail",
+      "upazila": "Kalia",
+      "file_path": "divisions/Khulna/Narail/Kalia.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Chuadanga Sadar",
+      "file_path": "divisions/Khulna/Chuadanga/Chuadanga Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Alamdanga",
+      "file_path": "divisions/Khulna/Chuadanga/Alamdanga.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Damurhuda",
+      "file_path": "divisions/Khulna/Chuadanga/Damurhuda.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "upazila": "Jibannagar",
+      "file_path": "divisions/Khulna/Chuadanga/Jibannagar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Kushtia Sadar",
+      "file_path": "divisions/Khulna/Kushtia/Kushtia Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Kumarkhali",
+      "file_path": "divisions/Khulna/Kushtia/Kumarkhali.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Khoksa",
+      "file_path": "divisions/Khulna/Kushtia/Khoksa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Mirpur",
+      "file_path": "divisions/Khulna/Kushtia/Mirpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Daulatpur",
+      "file_path": "divisions/Khulna/Kushtia/Daulatpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "upazila": "Bheramara",
+      "file_path": "divisions/Khulna/Kushtia/Bheramara.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Shalikha",
+      "file_path": "divisions/Khulna/Magura/Shalikha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Sreepur",
+      "file_path": "divisions/Khulna/Magura/Sreepur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Magura Sadar",
+      "file_path": "divisions/Khulna/Magura/Magura Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Magura",
+      "upazila": "Mohammadpur",
+      "file_path": "divisions/Khulna/Magura/Mohammadpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Paikgasa",
+      "file_path": "divisions/Khulna/Khulna/Paikgasa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Fultola",
+      "file_path": "divisions/Khulna/Khulna/Fultola.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Digholia",
+      "file_path": "divisions/Khulna/Khulna/Digholia.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Rupsha",
+      "file_path": "divisions/Khulna/Khulna/Rupsha.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Terokhada",
+      "file_path": "divisions/Khulna/Khulna/Terokhada.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Dumuria",
+      "file_path": "divisions/Khulna/Khulna/Dumuria.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Botiaghata",
+      "file_path": "divisions/Khulna/Khulna/Botiaghata.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Dakop",
+      "file_path": "divisions/Khulna/Khulna/Dakop.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Khulna",
+      "upazila": "Koyra",
+      "file_path": "divisions/Khulna/Khulna/Koyra.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Fakirhat",
+      "file_path": "divisions/Khulna/Bagerhat/Fakirhat.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Bagerhat Sadar",
+      "file_path": "divisions/Khulna/Bagerhat/Bagerhat Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Mollahat",
+      "file_path": "divisions/Khulna/Bagerhat/Mollahat.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Sarankhola",
+      "file_path": "divisions/Khulna/Bagerhat/Sarankhola.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Rampal",
+      "file_path": "divisions/Khulna/Bagerhat/Rampal.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Morrelganj",
+      "file_path": "divisions/Khulna/Bagerhat/Morrelganj.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Kachua",
+      "file_path": "divisions/Khulna/Bagerhat/Kachua.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Mongla",
+      "file_path": "divisions/Khulna/Bagerhat/Mongla.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "upazila": "Chitalmari",
+      "file_path": "divisions/Khulna/Bagerhat/Chitalmari.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Jhenaidah Sadar",
+      "file_path": "divisions/Khulna/Jhenaidah/Jhenaidah Sadar.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Shailkupa",
+      "file_path": "divisions/Khulna/Jhenaidah/Shailkupa.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Harinakundu",
+      "file_path": "divisions/Khulna/Jhenaidah/Harinakundu.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Kaliganj",
+      "file_path": "divisions/Khulna/Jhenaidah/Kaliganj.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Kotchandpur",
+      "file_path": "divisions/Khulna/Jhenaidah/Kotchandpur.json"
+    },
+    {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "upazila": "Moheshpur",
+      "file_path": "divisions/Khulna/Jhenaidah/Moheshpur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalakathi",
+      "upazila": "Jhalakathi Sadar",
+      "file_path": "divisions/Barishal/Jhalakathi/Jhalakathi Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalakathi",
+      "upazila": "Kathalia",
+      "file_path": "divisions/Barishal/Jhalakathi/Kathalia.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalakathi",
+      "upazila": "Nalchity",
+      "file_path": "divisions/Barishal/Jhalakathi/Nalchity.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Jhalakathi",
+      "upazila": "Rajapur",
+      "file_path": "divisions/Barishal/Jhalakathi/Rajapur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Bauphal",
+      "file_path": "divisions/Barishal/Patuakhali/Bauphal.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Patuakhali Sadar",
+      "file_path": "divisions/Barishal/Patuakhali/Patuakhali Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Dumki",
+      "file_path": "divisions/Barishal/Patuakhali/Dumki.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Dashmina",
+      "file_path": "divisions/Barishal/Patuakhali/Dashmina.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Kalapara",
+      "file_path": "divisions/Barishal/Patuakhali/Kalapara.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Mirzaganj",
+      "file_path": "divisions/Barishal/Patuakhali/Mirzaganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Galachipa",
+      "file_path": "divisions/Barishal/Patuakhali/Galachipa.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Rangabali",
+      "file_path": "divisions/Barishal/Patuakhali/Rangabali.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Pirojpur Sadar",
+      "file_path": "divisions/Barishal/Pirojpur/Pirojpur Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Nazirpur",
+      "file_path": "divisions/Barishal/Pirojpur/Nazirpur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Kawkhali",
+      "file_path": "divisions/Barishal/Pirojpur/Kawkhali.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Zianagar",
+      "file_path": "divisions/Barishal/Pirojpur/Zianagar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Bhandaria",
+      "file_path": "divisions/Barishal/Pirojpur/Bhandaria.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Mathbaria",
+      "file_path": "divisions/Barishal/Pirojpur/Mathbaria.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Pirojpur",
+      "upazila": "Nesarabad",
+      "file_path": "divisions/Barishal/Pirojpur/Nesarabad.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Barisal Sadar",
+      "file_path": "divisions/Barishal/Barisal/Barisal Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Bakerganj",
+      "file_path": "divisions/Barishal/Barisal/Bakerganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Babuganj",
+      "file_path": "divisions/Barishal/Barisal/Babuganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Wazirpur",
+      "file_path": "divisions/Barishal/Barisal/Wazirpur.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Banaripara",
+      "file_path": "divisions/Barishal/Barisal/Banaripara.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Gournadi",
+      "file_path": "divisions/Barishal/Barisal/Gournadi.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Agailjhara",
+      "file_path": "divisions/Barishal/Barisal/Agailjhara.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Mehendiganj",
+      "file_path": "divisions/Barishal/Barisal/Mehendiganj.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Muladi",
+      "file_path": "divisions/Barishal/Barisal/Muladi.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barisal",
+      "upazila": "Hizla",
+      "file_path": "divisions/Barishal/Barisal/Hizla.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Bhola Sadar",
+      "file_path": "divisions/Barishal/Bhola/Bhola Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Borhan Sddin",
+      "file_path": "divisions/Barishal/Bhola/Borhan Sddin.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Charfesson",
+      "file_path": "divisions/Barishal/Bhola/Charfesson.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Doulatkhan",
+      "file_path": "divisions/Barishal/Bhola/Doulatkhan.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Monpura",
+      "file_path": "divisions/Barishal/Bhola/Monpura.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Tazumuddin",
+      "file_path": "divisions/Barishal/Bhola/Tazumuddin.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Bhola",
+      "upazila": "Lalmohan",
+      "file_path": "divisions/Barishal/Bhola/Lalmohan.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Amtali",
+      "file_path": "divisions/Barishal/Barguna/Amtali.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Barguna Sadar",
+      "file_path": "divisions/Barishal/Barguna/Barguna Sadar.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Betagi",
+      "file_path": "divisions/Barishal/Barguna/Betagi.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Bamna",
+      "file_path": "divisions/Barishal/Barguna/Bamna.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Pathorghata",
+      "file_path": "divisions/Barishal/Barguna/Pathorghata.json"
+    },
+    {
+      "division": "Barishal",
+      "district": "Barguna",
+      "upazila": "Taltali",
+      "file_path": "divisions/Barishal/Barguna/Taltali.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Balaganj",
+      "file_path": "divisions/Sylhet/Sylhet/Balaganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Beanibazar",
+      "file_path": "divisions/Sylhet/Sylhet/Beanibazar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Bishwanath",
+      "file_path": "divisions/Sylhet/Sylhet/Bishwanath.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Companiganj",
+      "file_path": "divisions/Sylhet/Sylhet/Companiganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Fenchuganj",
+      "file_path": "divisions/Sylhet/Sylhet/Fenchuganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Golapganj",
+      "file_path": "divisions/Sylhet/Sylhet/Golapganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Gowainghat",
+      "file_path": "divisions/Sylhet/Sylhet/Gowainghat.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Jaintiapur",
+      "file_path": "divisions/Sylhet/Sylhet/Jaintiapur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Kanaighat",
+      "file_path": "divisions/Sylhet/Sylhet/Kanaighat.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Sylhet Sadar",
+      "file_path": "divisions/Sylhet/Sylhet/Sylhet Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Zakiganj",
+      "file_path": "divisions/Sylhet/Sylhet/Zakiganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Dakshinsurma",
+      "file_path": "divisions/Sylhet/Sylhet/Dakshinsurma.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upazila": "Osmaninagar",
+      "file_path": "divisions/Sylhet/Sylhet/Osmaninagar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Barlekha",
+      "file_path": "divisions/Sylhet/Moulvibazar/Barlekha.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Kamolganj",
+      "file_path": "divisions/Sylhet/Moulvibazar/Kamolganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Kulaura",
+      "file_path": "divisions/Sylhet/Moulvibazar/Kulaura.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Moulvibazar Sadar",
+      "file_path": "divisions/Sylhet/Moulvibazar/Moulvibazar Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Rajnagar",
+      "file_path": "divisions/Sylhet/Moulvibazar/Rajnagar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Sreemangal",
+      "file_path": "divisions/Sylhet/Moulvibazar/Sreemangal.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "upazila": "Juri",
+      "file_path": "divisions/Sylhet/Moulvibazar/Juri.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Nabiganj",
+      "file_path": "divisions/Sylhet/Habiganj/Nabiganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Bahubal",
+      "file_path": "divisions/Sylhet/Habiganj/Bahubal.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Ajmiriganj",
+      "file_path": "divisions/Sylhet/Habiganj/Ajmiriganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Baniachong",
+      "file_path": "divisions/Sylhet/Habiganj/Baniachong.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Lakhai",
+      "file_path": "divisions/Sylhet/Habiganj/Lakhai.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Chunarughat",
+      "file_path": "divisions/Sylhet/Habiganj/Chunarughat.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Habiganj Sadar",
+      "file_path": "divisions/Sylhet/Habiganj/Habiganj Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "upazila": "Madhabpur",
+      "file_path": "divisions/Sylhet/Habiganj/Madhabpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Sunamganj Sadar",
+      "file_path": "divisions/Sylhet/Sunamganj/Sunamganj Sadar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "South Sunamganj",
+      "file_path": "divisions/Sylhet/Sunamganj/South Sunamganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Bishwambarpur",
+      "file_path": "divisions/Sylhet/Sunamganj/Bishwambarpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Chhatak",
+      "file_path": "divisions/Sylhet/Sunamganj/Chhatak.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Jagannathpur",
+      "file_path": "divisions/Sylhet/Sunamganj/Jagannathpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Dowarabazar",
+      "file_path": "divisions/Sylhet/Sunamganj/Dowarabazar.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Tahirpur",
+      "file_path": "divisions/Sylhet/Sunamganj/Tahirpur.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Dharmapasha",
+      "file_path": "divisions/Sylhet/Sunamganj/Dharmapasha.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Jamalganj",
+      "file_path": "divisions/Sylhet/Sunamganj/Jamalganj.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Shalla",
+      "file_path": "divisions/Sylhet/Sunamganj/Shalla.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Derai",
+      "file_path": "divisions/Sylhet/Sunamganj/Derai.json"
+    },
+    {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "upazila": "Madhyanagar",
+      "file_path": "divisions/Sylhet/Sunamganj/Madhyanagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Belabo",
+      "file_path": "divisions/Dhaka/Narsingdi/Belabo.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Monohardi",
+      "file_path": "divisions/Dhaka/Narsingdi/Monohardi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Narsingdi Sadar",
+      "file_path": "divisions/Dhaka/Narsingdi/Narsingdi Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Palash",
+      "file_path": "divisions/Dhaka/Narsingdi/Palash.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Raipura",
+      "file_path": "divisions/Dhaka/Narsingdi/Raipura.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "upazila": "Shibpur",
+      "file_path": "divisions/Dhaka/Narsingdi/Shibpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Kaliganj",
+      "file_path": "divisions/Dhaka/Gazipur/Kaliganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Kaliakair",
+      "file_path": "divisions/Dhaka/Gazipur/Kaliakair.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Kapasia",
+      "file_path": "divisions/Dhaka/Gazipur/Kapasia.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Gazipur Sadar",
+      "file_path": "divisions/Dhaka/Gazipur/Gazipur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "upazila": "Sreepur",
+      "file_path": "divisions/Dhaka/Gazipur/Sreepur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Shariatpur Sadar",
+      "file_path": "divisions/Dhaka/Shariatpur/Shariatpur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Naria",
+      "file_path": "divisions/Dhaka/Shariatpur/Naria.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Zajira",
+      "file_path": "divisions/Dhaka/Shariatpur/Zajira.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Gosairhat",
+      "file_path": "divisions/Dhaka/Shariatpur/Gosairhat.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Bhedarganj",
+      "file_path": "divisions/Dhaka/Shariatpur/Bhedarganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "upazila": "Damudya",
+      "file_path": "divisions/Dhaka/Shariatpur/Damudya.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Araihazar",
+      "file_path": "divisions/Dhaka/Narayanganj/Araihazar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Bandar",
+      "file_path": "divisions/Dhaka/Narayanganj/Bandar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Narayanganj Sadar",
+      "file_path": "divisions/Dhaka/Narayanganj/Narayanganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Rupganj",
+      "file_path": "divisions/Dhaka/Narayanganj/Rupganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "upazila": "Sonargaon",
+      "file_path": "divisions/Dhaka/Narayanganj/Sonargaon.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Basail",
+      "file_path": "divisions/Dhaka/Tangail/Basail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Bhuapur",
+      "file_path": "divisions/Dhaka/Tangail/Bhuapur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Delduar",
+      "file_path": "divisions/Dhaka/Tangail/Delduar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Ghatail",
+      "file_path": "divisions/Dhaka/Tangail/Ghatail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Gopalpur",
+      "file_path": "divisions/Dhaka/Tangail/Gopalpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Madhupur",
+      "file_path": "divisions/Dhaka/Tangail/Madhupur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Mirzapur",
+      "file_path": "divisions/Dhaka/Tangail/Mirzapur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Nagarpur",
+      "file_path": "divisions/Dhaka/Tangail/Nagarpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Sakhipur",
+      "file_path": "divisions/Dhaka/Tangail/Sakhipur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Tangail Sadar",
+      "file_path": "divisions/Dhaka/Tangail/Tangail Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Kalihati",
+      "file_path": "divisions/Dhaka/Tangail/Kalihati.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "upazila": "Dhanbari",
+      "file_path": "divisions/Dhaka/Tangail/Dhanbari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Itna",
+      "file_path": "divisions/Dhaka/Kishoreganj/Itna.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Katiadi",
+      "file_path": "divisions/Dhaka/Kishoreganj/Katiadi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Bhairab",
+      "file_path": "divisions/Dhaka/Kishoreganj/Bhairab.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Tarail",
+      "file_path": "divisions/Dhaka/Kishoreganj/Tarail.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Hossainpur",
+      "file_path": "divisions/Dhaka/Kishoreganj/Hossainpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Pakundia",
+      "file_path": "divisions/Dhaka/Kishoreganj/Pakundia.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Kuliarchar",
+      "file_path": "divisions/Dhaka/Kishoreganj/Kuliarchar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Kishoreganj Sadar",
+      "file_path": "divisions/Dhaka/Kishoreganj/Kishoreganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Karimgonj",
+      "file_path": "divisions/Dhaka/Kishoreganj/Karimgonj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Bajitpur",
+      "file_path": "divisions/Dhaka/Kishoreganj/Bajitpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Austagram",
+      "file_path": "divisions/Dhaka/Kishoreganj/Austagram.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Mithamoin",
+      "file_path": "divisions/Dhaka/Kishoreganj/Mithamoin.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "upazila": "Nikli",
+      "file_path": "divisions/Dhaka/Kishoreganj/Nikli.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Harirampur",
+      "file_path": "divisions/Dhaka/Manikganj/Harirampur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Saturia",
+      "file_path": "divisions/Dhaka/Manikganj/Saturia.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Manikganj Sadar",
+      "file_path": "divisions/Dhaka/Manikganj/Manikganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Gior",
+      "file_path": "divisions/Dhaka/Manikganj/Gior.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Shibaloy",
+      "file_path": "divisions/Dhaka/Manikganj/Shibaloy.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Doulatpur",
+      "file_path": "divisions/Dhaka/Manikganj/Doulatpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "upazila": "Singiar",
+      "file_path": "divisions/Dhaka/Manikganj/Singiar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Savar",
+      "file_path": "divisions/Dhaka/Dhaka/Savar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dhamrai",
+      "file_path": "divisions/Dhaka/Dhaka/Dhamrai.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Keraniganj",
+      "file_path": "divisions/Dhaka/Dhaka/Keraniganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Nawabganj",
+      "file_path": "divisions/Dhaka/Dhaka/Nawabganj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dohar",
+      "file_path": "divisions/Dhaka/Dhaka/Dohar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "file_path": "divisions/Dhaka/Munshiganj/Munshiganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Sreenagar",
+      "file_path": "divisions/Dhaka/Munshiganj/Sreenagar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Sirajdikhan",
+      "file_path": "divisions/Dhaka/Munshiganj/Sirajdikhan.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Louhajanj",
+      "file_path": "divisions/Dhaka/Munshiganj/Louhajanj.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Gajaria",
+      "file_path": "divisions/Dhaka/Munshiganj/Gajaria.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "upazila": "Tongibari",
+      "file_path": "divisions/Dhaka/Munshiganj/Tongibari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Rajbari Sadar",
+      "file_path": "divisions/Dhaka/Rajbari/Rajbari Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Goalanda",
+      "file_path": "divisions/Dhaka/Rajbari/Goalanda.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Pangsa",
+      "file_path": "divisions/Dhaka/Rajbari/Pangsa.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Baliakandi",
+      "file_path": "divisions/Dhaka/Rajbari/Baliakandi.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "upazila": "Kalukhali",
+      "file_path": "divisions/Dhaka/Rajbari/Kalukhali.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Madaripur Sadar",
+      "file_path": "divisions/Dhaka/Madaripur/Madaripur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Shibchar",
+      "file_path": "divisions/Dhaka/Madaripur/Shibchar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Kalkini",
+      "file_path": "divisions/Dhaka/Madaripur/Kalkini.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Rajoir",
+      "file_path": "divisions/Dhaka/Madaripur/Rajoir.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "upazila": "Dasar",
+      "file_path": "divisions/Dhaka/Madaripur/Dasar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Gopalganj Sadar",
+      "file_path": "divisions/Dhaka/Gopalganj/Gopalganj Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Kashiani",
+      "file_path": "divisions/Dhaka/Gopalganj/Kashiani.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Tungipara",
+      "file_path": "divisions/Dhaka/Gopalganj/Tungipara.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Kotalipara",
+      "file_path": "divisions/Dhaka/Gopalganj/Kotalipara.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "upazila": "Muksudpur",
+      "file_path": "divisions/Dhaka/Gopalganj/Muksudpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Faridpur Sadar",
+      "file_path": "divisions/Dhaka/Faridpur/Faridpur Sadar.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Alfadanga",
+      "file_path": "divisions/Dhaka/Faridpur/Alfadanga.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Boalmari",
+      "file_path": "divisions/Dhaka/Faridpur/Boalmari.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Sadarpur",
+      "file_path": "divisions/Dhaka/Faridpur/Sadarpur.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Nagarkanda",
+      "file_path": "divisions/Dhaka/Faridpur/Nagarkanda.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Bhanga",
+      "file_path": "divisions/Dhaka/Faridpur/Bhanga.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Charbhadrasan",
+      "file_path": "divisions/Dhaka/Faridpur/Charbhadrasan.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Madhukhali",
+      "file_path": "divisions/Dhaka/Faridpur/Madhukhali.json"
+    },
+    {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "upazila": "Saltha",
+      "file_path": "divisions/Dhaka/Faridpur/Saltha.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "file_path": "divisions/Rangpur/Panchagarh/Panchagarh Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Debiganj",
+      "file_path": "divisions/Rangpur/Panchagarh/Debiganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Boda",
+      "file_path": "divisions/Rangpur/Panchagarh/Boda.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Atwari",
+      "file_path": "divisions/Rangpur/Panchagarh/Atwari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "upazila": "Tetulia",
+      "file_path": "divisions/Rangpur/Panchagarh/Tetulia.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Nawabganj",
+      "file_path": "divisions/Rangpur/Dinajpur/Nawabganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Birganj",
+      "file_path": "divisions/Rangpur/Dinajpur/Birganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Ghoraghat",
+      "file_path": "divisions/Rangpur/Dinajpur/Ghoraghat.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Birampur",
+      "file_path": "divisions/Rangpur/Dinajpur/Birampur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Parbatipur",
+      "file_path": "divisions/Rangpur/Dinajpur/Parbatipur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Bochaganj",
+      "file_path": "divisions/Rangpur/Dinajpur/Bochaganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Kaharol",
+      "file_path": "divisions/Rangpur/Dinajpur/Kaharol.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Fulbari",
+      "file_path": "divisions/Rangpur/Dinajpur/Fulbari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Dinajpur Sadar",
+      "file_path": "divisions/Rangpur/Dinajpur/Dinajpur Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Hakimpur",
+      "file_path": "divisions/Rangpur/Dinajpur/Hakimpur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Khansama",
+      "file_path": "divisions/Rangpur/Dinajpur/Khansama.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Birol",
+      "file_path": "divisions/Rangpur/Dinajpur/Birol.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "upazila": "Chirirbandar",
+      "file_path": "divisions/Rangpur/Dinajpur/Chirirbandar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Lalmonirhat Sadar",
+      "file_path": "divisions/Rangpur/Lalmonirhat/Lalmonirhat Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Kaliganj",
+      "file_path": "divisions/Rangpur/Lalmonirhat/Kaliganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Hatibandha",
+      "file_path": "divisions/Rangpur/Lalmonirhat/Hatibandha.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Patgram",
+      "file_path": "divisions/Rangpur/Lalmonirhat/Patgram.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "upazila": "Aditmari",
+      "file_path": "divisions/Rangpur/Lalmonirhat/Aditmari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Syedpur",
+      "file_path": "divisions/Rangpur/Nilphamari/Syedpur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Domar",
+      "file_path": "divisions/Rangpur/Nilphamari/Domar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Dimla",
+      "file_path": "divisions/Rangpur/Nilphamari/Dimla.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Jaldhaka",
+      "file_path": "divisions/Rangpur/Nilphamari/Jaldhaka.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Kishorganj",
+      "file_path": "divisions/Rangpur/Nilphamari/Kishorganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "file_path": "divisions/Rangpur/Nilphamari/Nilphamari Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Sadullapur",
+      "file_path": "divisions/Rangpur/Gaibandha/Sadullapur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Gaibandha Sadar",
+      "file_path": "divisions/Rangpur/Gaibandha/Gaibandha Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Palashbari",
+      "file_path": "divisions/Rangpur/Gaibandha/Palashbari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Saghata",
+      "file_path": "divisions/Rangpur/Gaibandha/Saghata.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Gobindaganj",
+      "file_path": "divisions/Rangpur/Gaibandha/Gobindaganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Sundarganj",
+      "file_path": "divisions/Rangpur/Gaibandha/Sundarganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "upazila": "Phulchari",
+      "file_path": "divisions/Rangpur/Gaibandha/Phulchari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Thakurgaon Sadar",
+      "file_path": "divisions/Rangpur/Thakurgaon/Thakurgaon Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Pirganj",
+      "file_path": "divisions/Rangpur/Thakurgaon/Pirganj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Ranisankail",
+      "file_path": "divisions/Rangpur/Thakurgaon/Ranisankail.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Haripur",
+      "file_path": "divisions/Rangpur/Thakurgaon/Haripur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "upazila": "Baliadangi",
+      "file_path": "divisions/Rangpur/Thakurgaon/Baliadangi.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Rangpur Sadar",
+      "file_path": "divisions/Rangpur/Rangpur/Rangpur Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Gangachara",
+      "file_path": "divisions/Rangpur/Rangpur/Gangachara.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Taragonj",
+      "file_path": "divisions/Rangpur/Rangpur/Taragonj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Badargonj",
+      "file_path": "divisions/Rangpur/Rangpur/Badargonj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Mithapukur",
+      "file_path": "divisions/Rangpur/Rangpur/Mithapukur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Pirgonj",
+      "file_path": "divisions/Rangpur/Rangpur/Pirgonj.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Kaunia",
+      "file_path": "divisions/Rangpur/Rangpur/Kaunia.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "upazila": "Pirgacha",
+      "file_path": "divisions/Rangpur/Rangpur/Pirgacha.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Kurigram Sadar",
+      "file_path": "divisions/Rangpur/Kurigram/Kurigram Sadar.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Nageshwari",
+      "file_path": "divisions/Rangpur/Kurigram/Nageshwari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Bhurungamari",
+      "file_path": "divisions/Rangpur/Kurigram/Bhurungamari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Phulbari",
+      "file_path": "divisions/Rangpur/Kurigram/Phulbari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Rajarhat",
+      "file_path": "divisions/Rangpur/Kurigram/Rajarhat.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Ulipur",
+      "file_path": "divisions/Rangpur/Kurigram/Ulipur.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Chilmari",
+      "file_path": "divisions/Rangpur/Kurigram/Chilmari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Rowmari",
+      "file_path": "divisions/Rangpur/Kurigram/Rowmari.json"
+    },
+    {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "upazila": "Charrajibpur",
+      "file_path": "divisions/Rangpur/Kurigram/Charrajibpur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Sherpur Sadar",
+      "file_path": "divisions/Mymensingh/Sherpur/Sherpur Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Nalitabari",
+      "file_path": "divisions/Mymensingh/Sherpur/Nalitabari.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Sreebordi",
+      "file_path": "divisions/Mymensingh/Sherpur/Sreebordi.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Nokla",
+      "file_path": "divisions/Mymensingh/Sherpur/Nokla.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "upazila": "Jhenaigati",
+      "file_path": "divisions/Mymensingh/Sherpur/Jhenaigati.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Fulbaria",
+      "file_path": "divisions/Mymensingh/Mymensingh/Fulbaria.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Trishal",
+      "file_path": "divisions/Mymensingh/Mymensingh/Trishal.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Bhaluka",
+      "file_path": "divisions/Mymensingh/Mymensingh/Bhaluka.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Muktagacha",
+      "file_path": "divisions/Mymensingh/Mymensingh/Muktagacha.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Mymensingh Sadar",
+      "file_path": "divisions/Mymensingh/Mymensingh/Mymensingh Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Dhobaura",
+      "file_path": "divisions/Mymensingh/Mymensingh/Dhobaura.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Phulpur",
+      "file_path": "divisions/Mymensingh/Mymensingh/Phulpur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Haluaghat",
+      "file_path": "divisions/Mymensingh/Mymensingh/Haluaghat.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Gouripur",
+      "file_path": "divisions/Mymensingh/Mymensingh/Gouripur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Gafargaon",
+      "file_path": "divisions/Mymensingh/Mymensingh/Gafargaon.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Iswarganj",
+      "file_path": "divisions/Mymensingh/Mymensingh/Iswarganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Nandail",
+      "file_path": "divisions/Mymensingh/Mymensingh/Nandail.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "upazila": "Tarakanda",
+      "file_path": "divisions/Mymensingh/Mymensingh/Tarakanda.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Jamalpur Sadar",
+      "file_path": "divisions/Mymensingh/Jamalpur/Jamalpur Sadar.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Melandah",
+      "file_path": "divisions/Mymensingh/Jamalpur/Melandah.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Islampur",
+      "file_path": "divisions/Mymensingh/Jamalpur/Islampur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Dewangonj",
+      "file_path": "divisions/Mymensingh/Jamalpur/Dewangonj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Sarishabari",
+      "file_path": "divisions/Mymensingh/Jamalpur/Sarishabari.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Madarganj",
+      "file_path": "divisions/Mymensingh/Jamalpur/Madarganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "upazila": "Bokshiganj",
+      "file_path": "divisions/Mymensingh/Jamalpur/Bokshiganj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Barhatta",
+      "file_path": "divisions/Mymensingh/Netrokona/Barhatta.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Durgapur",
+      "file_path": "divisions/Mymensingh/Netrokona/Durgapur.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Kendua",
+      "file_path": "divisions/Mymensingh/Netrokona/Kendua.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Atpara",
+      "file_path": "divisions/Mymensingh/Netrokona/Atpara.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Madan",
+      "file_path": "divisions/Mymensingh/Netrokona/Madan.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Khaliajuri",
+      "file_path": "divisions/Mymensingh/Netrokona/Khaliajuri.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Kalmakanda",
+      "file_path": "divisions/Mymensingh/Netrokona/Kalmakanda.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Mohongonj",
+      "file_path": "divisions/Mymensingh/Netrokona/Mohongonj.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Purbadhala",
+      "file_path": "divisions/Mymensingh/Netrokona/Purbadhala.json"
+    },
+    {
+      "division": "Mymensingh",
+      "district": "Netrokona",
+      "upazila": "Netrokona Sadar",
+      "file_path": "divisions/Mymensingh/Netrokona/Netrokona Sadar.json"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "upazila": "Godagari",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Rajshahi",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rajshahi",
+      "phone": "01713-000002",
+      "email": "dcrajshahi@mopa.gov.bd",
+      "website": "http://www.rajshahi.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rajshahi",
+      "phone": "01713-373002",
+      "email": "sprajshahi@police.gov.bd",
+      "control_room": "01713-374002"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rajshahi",
+      "phone": "01713-555002",
+      "email": "csrajshahi@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-RAJ-01",
+      "name": "Boalia Model Police Station",
+      "bn_name": "বোয়ালিয়া মডেল থানা (রাজশাহী)",
+      "unit": "Rajshahi Metropolitan Police (RMP)",
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "address": "Saheb Bazar, Rajshahi",
+      "oc_mobile": "01713-373301",
+      "duty_officer": "01713-398501",
+      "tnt": "0721-772111",
+      "control_room": "0721-772222"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-006",
+      "name": "Rajshahi Central Fire Station",
+      "bn_name": "রাজশাহী সদর ফায়ার স্টেশন",
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "address": "Sopura, Rajshahi",
+      "hotline": "16163",
+      "emergency_phone": "0721-772222",
+      "mobile": "01713-038301",
+      "station_type": "Divisional Headquarters"
+    }
+  ]
+}

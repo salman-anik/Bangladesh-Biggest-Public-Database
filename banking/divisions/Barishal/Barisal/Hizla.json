@@ -1,0 +1,52 @@
+{
+  "division": "Barishal",
+  "district": "Barisal",
+  "upazila": "Hizla",
+  "total_branches": 3,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "PUBALI BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "HIZLA BRANCH",
+      "routing_number": "035060978",
+      "swift_code": "BKBABDDH",
+      "district": "BARISAL",
+      "address": "KUNNA, BARAJALIA, HIZLA, BARISAL",
+      "telephone": "mgrhijla@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "216 / 097"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "HIZLA BRANCH",
+      "routing_number": "175060975",
+      "swift_code": "PUBABDDH",
+      "district": "BARISAL",
+      "address": "KHUNNA GOBINDAPUR, UPAZILA BHABAN, BARJALIA, HIZLA, BARISAL",
+      "telephone": "hizla@pubalibankbd.com",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "097"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "HIZLA BRANCH",
+      "routing_number": "200060974",
+      "swift_code": "BSONBDDH",
+      "district": "BARISAL",
+      "address": "HIZLA, BARISAL",
+      "telephone": "0431 71124-26",
+      "email": "brhizla@sonalibank.com.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "097 / 097"
+    }
+  ]
+}

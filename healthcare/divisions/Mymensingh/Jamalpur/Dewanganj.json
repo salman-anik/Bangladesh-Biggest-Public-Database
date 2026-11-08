@@ -1,0 +1,52 @@
+{
+  "division": "Mymensingh",
+  "district": "Jamalpur",
+  "upazila": "Dewanganj",
+  "total_hospitals": 2,
+  "total_beds": 90,
+  "hospitals": [
+    {
+      "id": "HOSP-2137",
+      "name": "Char Rajibpur Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "district_slug": "jamalpur",
+      "upazila": "Dewanganj",
+      "address": "Dewanganj, Jamalpur",
+      "latitude": 25.364653,
+      "longitude": 89.765778,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2141",
+      "name": "Dewangonj Upazilla Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Mymensingh",
+      "district": "Jamalpur",
+      "district_slug": "jamalpur",
+      "upazila": "Dewanganj",
+      "address": "Dewanganj, Jamalpur",
+      "latitude": 25.162088,
+      "longitude": 89.758944,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,29 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-2972",
+      "name": "Patuakhali 250 Bed Medical College Hospital",
+      "bn_name": "পটুয়াখালী ২৫০ শয্যা মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Barishal",
+      "district": "Patuakhali",
+      "upazila": "Sadar",
+      "address": "Sadar Road, Patuakhali",
+      "emergency_hotline": "0441-62244",
+      "telephone": "0441-62244",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "patuakhali"
+    }
+  ],
+  "blood_banks": []
+}

@@ -1,0 +1,31 @@
+{
+  "division": "Barishal",
+  "district": "Barishal",
+  "upazila": "Muladi",
+  "total_hospitals": 1,
+  "total_beds": 40,
+  "hospitals": [
+    {
+      "id": "HOSP-0129",
+      "name": "Alimabad Union Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Barishal",
+      "district": "Barishal",
+      "district_slug": "barishal",
+      "upazila": "Muladi",
+      "address": "Muladi, Barishal",
+      "latitude": 23.005891,
+      "longitude": 90.333389,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

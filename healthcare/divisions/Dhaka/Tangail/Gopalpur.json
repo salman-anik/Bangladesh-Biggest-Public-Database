@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Tangail",
+  "upazila": "Gopalpur",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3495",
+      "name": "Chatila Sub Health Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Tangail",
+      "district_slug": "tangail",
+      "upazila": "Gopalpur",
+      "address": "Gopalpur, Tangail",
+      "latitude": 24.592141,
+      "longitude": 89.912699,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3536",
+      "name": "Nagda Shimla Health Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Tangail",
+      "district_slug": "tangail",
+      "upazila": "Gopalpur",
+      "address": "Gopalpur, Tangail",
+      "latitude": 24.614087,
+      "longitude": 89.916475,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

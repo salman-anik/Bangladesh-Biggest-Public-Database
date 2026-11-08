@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Rupsa",
+  "total_hospitals": 2,
+  "total_beds": 70,
+  "hospitals": [
+    {
+      "id": "HOSP-2235",
+      "name": "Rupsha Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Khulna",
+      "district_slug": "khulna",
+      "upazila": "Rupsa",
+      "address": "Rupsa, Khulna",
+      "latitude": 22.797848,
+      "longitude": 89.641167,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2274",
+      "name": "Community Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Khulna",
+      "district": "Khulna",
+      "district_slug": "khulna",
+      "upazila": "Rupsa",
+      "address": "Rupsa, Khulna",
+      "latitude": 22.76725,
+      "longitude": 89.596311,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

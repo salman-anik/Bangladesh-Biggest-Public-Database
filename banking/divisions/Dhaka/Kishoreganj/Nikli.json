@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Nikli",
+  "total_branches": 3,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "BANGLADESH KRISHI BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "NIKLI BRANCH",
+      "routing_number": "010481006",
+      "swift_code": "AGBKBDDH",
+      "district": "KISHOREGANJ",
+      "address": "NIKLI, KISHOREGANJ 2360",
+      "telephone": "09432 56013",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "100"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "NIKLI BRANCH",
+      "routing_number": "035481007",
+      "swift_code": "BKBABDDH",
+      "district": "KISHOREGANJ",
+      "address": "NIKLI BAZAR, KISHOREGANJ",
+      "telephone": "mgrnikli@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4820 / 100"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "NIKLI BRANCH",
+      "routing_number": "200481003",
+      "swift_code": "BSONBDDH",
+      "district": "KISHOREGANJ",
+      "address": "NIKLI, KISHOREGANJ",
+      "telephone": "0941 55949, 55685 (Ext 1)",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "100 / 100"
+    }
+  ]
+}

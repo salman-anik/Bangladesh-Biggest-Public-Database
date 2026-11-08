@@ -1,0 +1,52 @@
+{
+  "division": "Barishal",
+  "district": "Jhalokati",
+  "upazila": "Jhalokati Sadar",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-2202",
+      "name": "Mirzapur Community Clinic",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Barishal",
+      "district": "Jhalokati",
+      "district_slug": "jhalokati",
+      "upazila": "Jhalokati Sadar",
+      "address": "Jhalokati Sadar, Jhalokati",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2203",
+      "name": "ঝালকাঠি সদর হাসপাতাল",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Barishal",
+      "district": "Jhalokati",
+      "district_slug": "jhalokati",
+      "upazila": "Jhalokati Sadar",
+      "address": "Jhalokati Sadar, Jhalokati",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

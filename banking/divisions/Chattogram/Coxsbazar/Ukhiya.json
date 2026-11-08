@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Coxsbazar",
+  "upazila": "Ukhiya",
+  "total_branches": 3,
+  "banks_present": [
+    "BANGLADESH KRISHI BANK",
+    "PUBALI BANK LIMITED",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "UKHIYA",
+      "routing_number": "035220947",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "094"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "UKHIYA",
+      "routing_number": "175220944",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "094"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "UKHIYA",
+      "routing_number": "200220943",
+      "swift_code": "",
+      "district": "COXS_BAZAR",
+      "address": "",
+      "telephone": "",
+      "email": "",
+      "fax": "",
+      "branch_code": "094"
+    }
+  ]
+}

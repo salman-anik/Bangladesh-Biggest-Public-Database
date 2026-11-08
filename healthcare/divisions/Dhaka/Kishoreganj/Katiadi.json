@@ -1,0 +1,52 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "upazila": "Katiadi",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-2343",
+      "name": "Katiyadi Upazilla Health Complex",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Katiadi",
+      "address": "Katiadi, Kishoreganj",
+      "latitude": 24.24437,
+      "longitude": 90.797809,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2349",
+      "name": "কটিয়াদি পশু হাসপাতাল",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "district_slug": "kishoreganj",
+      "upazila": "Katiadi",
+      "address": "Katiadi, Kishoreganj",
+      "latitude": 24.250596,
+      "longitude": 90.798586,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

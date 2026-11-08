@@ -1,0 +1,31 @@
+{
+  "railway_stations": [
+    {
+      "station_code": "TGI",
+      "name": "Tongi Junction",
+      "bn_name": "টঙ্গী জংশন",
+      "zone": "East Zone",
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "gauge": "Dual Gauge",
+      "junction": true,
+      "platforms": 4
+    },
+    {
+      "station_code": "JOY",
+      "name": "Joydebpur Junction",
+      "bn_name": "জয়দেবপুর জংশন",
+      "zone": "East Zone",
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "gauge": "Dual Gauge",
+      "junction": true,
+      "platforms": 4
+    }
+  ],
+  "airports": [],
+  "division": "Dhaka",
+  "district": "Gazipur",
+  "total_railway_stations": 2,
+  "total_airports": 0
+}

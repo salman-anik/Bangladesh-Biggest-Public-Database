@@ -1,0 +1,80 @@
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "upazila": "Porsha",
+  "total_branches": 5,
+  "banks_present": [
+    "AGRANI BANK LIMITED",
+    "JANATA BANK LIMITED",
+    "MERCANTILE BANK LIMITED",
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "NITHPUR BRANCH",
+      "routing_number": "010641338",
+      "swift_code": "AGBKBDDH",
+      "district": "NAOGAON",
+      "address": "SADAR ROAD, NITHPUR, PORSHA, NAOGAON 6550",
+      "telephone": "07429 56008, 011 99393228",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "133"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "NITHPUR BRANCH",
+      "routing_number": "135641334",
+      "swift_code": "JANBBDDH",
+      "district": "NAOGAON",
+      "address": "NITHPUR, PORSHA, NAOGAON 6550",
+      "telephone": "07429 56007",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "133"
+    },
+    {
+      "bank_name": "MERCANTILE BANK LIMITED",
+      "bank_code": "140",
+      "branch_name": "SHISHAHAT BRANCH",
+      "routing_number": "140641895",
+      "swift_code": "MBLBBDDH",
+      "district": "NAOGAON",
+      "address": "SHISHAHAT, PORSHA, NAOGAON",
+      "telephone": "017 55533141",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": ""
+    },
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "PORSHA BRANCH",
+      "routing_number": "180641518",
+      "swift_code": "PORSHA, NAOGAON",
+      "district": "NAOGAON",
+      "address": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "telephone": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "email": "",
+      "fax": "",
+      "branch_code": "151"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "PORSHA BRANCH",
+      "routing_number": "200641519",
+      "swift_code": "BSONBDDH",
+      "district": "NAOGAON",
+      "address": "PORSHA, NAOGAON",
+      "telephone": "0741 52371",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "151 / 151"
+    }
+  ]
+}

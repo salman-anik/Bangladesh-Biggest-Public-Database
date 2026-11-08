@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Khulna",
+  "upazila": "Terokhada",
+  "total_hospitals": 2,
+  "total_beds": 100,
+  "hospitals": [
+    {
+      "id": "HOSP-2236",
+      "name": "Terokhada Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Khulna",
+      "district_slug": "khulna",
+      "upazila": "Terokhada",
+      "address": "Terokhada, Khulna",
+      "latitude": 22.92819,
+      "longitude": 89.672848,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2237",
+      "name": "Terokhada Upazila Health Complex",
+      "bn_name": "",
+      "category": "Upazila Health Complex (UHC)",
+      "type": "Government",
+      "bed_capacity": 50,
+      "division": "Khulna",
+      "district": "Khulna",
+      "district_slug": "khulna",
+      "upazila": "Terokhada",
+      "address": "Terokhada, Khulna",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

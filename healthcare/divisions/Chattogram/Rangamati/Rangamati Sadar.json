@@ -1,0 +1,52 @@
+{
+  "division": "Chattogram",
+  "district": "Rangamati",
+  "upazila": "Rangamati Sadar",
+  "total_hospitals": 2,
+  "total_beds": 80,
+  "hospitals": [
+    {
+      "id": "HOSP-3089",
+      "name": "BRAC TB Diagnostic Center Rangamati",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "district_slug": "rangamati",
+      "upazila": "Rangamati Sadar",
+      "address": "Rangamati Sadar, Rangamati",
+      "latitude": 22.657777,
+      "longitude": 92.173399,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-3091",
+      "name": "Rangamati Govt: Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Chattogram",
+      "district": "Rangamati",
+      "district_slug": "rangamati",
+      "upazila": "Rangamati Sadar",
+      "address": "Rangamati Sadar, Rangamati",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

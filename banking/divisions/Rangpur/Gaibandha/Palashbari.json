@@ -1,0 +1,52 @@
+{
+  "division": "Rangpur",
+  "district": "Gaibandha",
+  "upazila": "Palashbari",
+  "total_branches": 3,
+  "banks_present": [
+    "JANATA BANK LIMITED",
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "PALASHBARI BRANCH",
+      "routing_number": "135321096",
+      "swift_code": "JANBBDDH",
+      "district": "GAIBANDHA",
+      "address": "PALASHBARI, GAIBANDHA 5730",
+      "telephone": "05424 56030",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "109"
+    },
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "PALASHBARI BRANCH",
+      "routing_number": "180321096",
+      "swift_code": "PALASHBARI, GAIBANDHA",
+      "district": "GAIBANDHA",
+      "address": "05426 88075",
+      "telephone": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "email": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "fax": "",
+      "branch_code": "109"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "PALASHBARI BRANCH",
+      "routing_number": "200321097",
+      "swift_code": "BSONBDDH",
+      "district": "GAIBANDHA",
+      "address": "PALASHBARI, GAIBANDHA",
+      "telephone": "0541 61308, 61311, 017 55584846",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "109 / 109"
+    }
+  ]
+}

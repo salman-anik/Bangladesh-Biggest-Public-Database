@@ -1,0 +1,29 @@
+{
+  "division": "Barishal",
+  "district": "Bhola",
+  "upazila": "Sadar",
+  "total_hospitals": 1,
+  "total_beds": 250,
+  "hospitals": [
+    {
+      "id": "HOSP-0150",
+      "name": "Bhola 250 Bed District Sadar Hospital",
+      "bn_name": "Bhola ২৫০ শয্যা জেলা সদর হাসপাতাল",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "General",
+      "district": "Bhola",
+      "upazila": "Sadar",
+      "address": "Hospital Road, Sadar, Bhola",
+      "emergency_hotline": "01730-072066",
+      "telephone": "01730-072066",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": "",
+      "district_slug": "bhola"
+    }
+  ],
+  "blood_banks": []
+}

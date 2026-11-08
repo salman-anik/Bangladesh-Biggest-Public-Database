@@ -1,0 +1,76 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "upazila": "Shalla",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Sunamganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sunamganj",
+      "phone": "01713-000053",
+      "email": "dcsunamganj@mopa.gov.bd",
+      "website": "http://www.sunamganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sunamganj",
+      "phone": "01713-373053",
+      "email": "spsunamganj@police.gov.bd",
+      "control_room": "01713-374053"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sunamganj",
+      "phone": "01713-555053",
+      "email": "cssunamganj@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-66",
+      "name": "Sunamganj Sadar Police Station",
+      "bn_name": "Sunamganj সদর থানা",
+      "unit": "Sunamganj District Police",
+      "division": "General",
+      "district": "Sunamganj",
+      "address": "Court Building Road, Sadar, Sunamganj",
+      "oc_mobile": "01713-374066",
+      "duty_officer": "01713-399066",
+      "tnt": "02-770066",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-057",
+      "name": "Sunamganj Fire Station & Civil Defence",
+      "bn_name": "Sunamganj ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Sunamganj",
+      "address": "Sadar, Sunamganj",
+      "hotline": "16163",
+      "emergency_phone": "02-9988057",
+      "mobile": "01713-038057",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

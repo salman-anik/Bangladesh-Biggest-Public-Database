@@ -1,0 +1,29 @@
+{
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "upazila": "Rajputpara",
+  "total_hospitals": 1,
+  "total_beds": 1200,
+  "hospitals": [
+    {
+      "id": "HOSP-3019",
+      "name": "Rajshahi Medical College Hospital (RMCH)",
+      "bn_name": "রাজশাহী মেডিকেল কলেজ হাসপাতাল",
+      "category": "Govt Medical College Hospital",
+      "type": "Government",
+      "bed_capacity": 1200,
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upazila": "Rajputpara",
+      "address": "Laxmipur, Rajshahi-6000",
+      "emergency_hotline": "0721-772150",
+      "telephone": "0721-772150",
+      "icu_available": true,
+      "ccu_available": true,
+      "ambulance_available": true,
+      "website": "http://www.rmc.ac.bd",
+      "district_slug": "rajshahi"
+    }
+  ],
+  "blood_banks": []
+}

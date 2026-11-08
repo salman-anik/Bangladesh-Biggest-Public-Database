@@ -1,0 +1,76 @@
+{
+  "division": "Khulna",
+  "district": "Kushtia",
+  "upazila": "Daulatpur",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Kushtia",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kushtia",
+      "phone": "01713-000038",
+      "email": "dckushtia@mopa.gov.bd",
+      "website": "http://www.kushtia.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kushtia",
+      "phone": "01713-373038",
+      "email": "spkushtia@police.gov.bd",
+      "control_room": "01713-374038"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kushtia",
+      "phone": "01713-555038",
+      "email": "cskushtia@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-51",
+      "name": "Kushtia Sadar Police Station",
+      "bn_name": "Kushtia সদর থানা",
+      "unit": "Kushtia District Police",
+      "division": "General",
+      "district": "Kushtia",
+      "address": "Court Building Road, Sadar, Kushtia",
+      "oc_mobile": "01713-374051",
+      "duty_officer": "01713-399051",
+      "tnt": "02-770051",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-042",
+      "name": "Kushtia Fire Station & Civil Defence",
+      "bn_name": "Kushtia ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Kushtia",
+      "address": "Sadar, Kushtia",
+      "hotline": "16163",
+      "emergency_phone": "02-9988042",
+      "mobile": "01713-038042",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

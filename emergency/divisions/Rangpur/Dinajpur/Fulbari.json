@@ -1,0 +1,76 @@
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Fulbari",
+  "national_hotlines": [
+    {
+      "name": "National Emergency Service (Police, Fire, Ambulance)",
+      "number": "999"
+    },
+    {
+      "name": "National Information & Citizen Service",
+      "number": "333"
+    },
+    {
+      "name": "Government Legal Aid",
+      "number": "16430"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098"
+    },
+    {
+      "name": "Women & Children Repression Prevention Helpline",
+      "number": "109"
+    }
+  ],
+  "district_administration": {
+    "district": "Dinajpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Dinajpur",
+      "phone": "01713-000054",
+      "email": "dcdinajpur@mopa.gov.bd",
+      "website": "http://www.dinajpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Dinajpur",
+      "phone": "01713-373054",
+      "email": "spdinajpur@police.gov.bd",
+      "control_room": "01713-374054"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Dinajpur",
+      "phone": "01713-555054",
+      "email": "csdinajpur@dghs.gov.bd"
+    }
+  },
+  "police_stations": [
+    {
+      "thana_id": "PS-DIST-67",
+      "name": "Dinajpur Sadar Police Station",
+      "bn_name": "Dinajpur সদর থানা",
+      "unit": "Dinajpur District Police",
+      "division": "General",
+      "district": "Dinajpur",
+      "address": "Court Building Road, Sadar, Dinajpur",
+      "oc_mobile": "01713-374067",
+      "duty_officer": "01713-399067",
+      "tnt": "02-770067",
+      "control_room": "01713-374000"
+    }
+  ],
+  "fire_stations": [
+    {
+      "station_id": "FS-058",
+      "name": "Dinajpur Fire Station & Civil Defence",
+      "bn_name": "Dinajpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+      "division": "General",
+      "district": "Dinajpur",
+      "address": "Sadar, Dinajpur",
+      "hotline": "16163",
+      "emergency_phone": "02-9988058",
+      "mobile": "01713-038058",
+      "station_type": "District Headquarters Station"
+    }
+  ]
+}

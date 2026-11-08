@@ -1,0 +1,52 @@
+{
+  "division": "Khulna",
+  "district": "Chuadanga",
+  "upazila": "Chuadanga Sadar",
+  "total_hospitals": 2,
+  "total_beds": 290,
+  "hospitals": [
+    {
+      "id": "HOSP-0599",
+      "name": "Chuadanga General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "district_slug": "chuadanga",
+      "upazila": "Chuadanga Sadar",
+      "address": "Chuadanga Sadar, Chuadanga",
+      "latitude": 23.635679,
+      "longitude": 88.847399,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0602",
+      "name": "Puratan Hospital para",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "district_slug": "chuadanga",
+      "upazila": "Chuadanga Sadar",
+      "address": "Chuadanga Sadar, Chuadanga",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "blood_banks": []
+}

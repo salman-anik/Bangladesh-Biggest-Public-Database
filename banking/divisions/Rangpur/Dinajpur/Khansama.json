@@ -1,0 +1,38 @@
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Khansama",
+  "total_branches": 2,
+  "banks_present": [
+    "RAJSHAHI KRISHI UNNAYAN BANK",
+    "SONALI BANK LIMITED"
+  ],
+  "branches": [
+    {
+      "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK",
+      "bank_code": "180",
+      "branch_name": "KHANSAMA BRANCH",
+      "routing_number": "180281215",
+      "swift_code": "KHANSAMA, DINAJPUR",
+      "district": "DINAJPUR",
+      "address": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "telephone": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "email": "",
+      "fax": "",
+      "branch_code": "121"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "KHANSAMA BRANCH",
+      "routing_number": "200281216",
+      "swift_code": "BSONBDDH",
+      "district": "DINAJPUR",
+      "address": "KHANSAMA, DINAJPUR",
+      "telephone": "0531 64098, 63098 (Ext 8)",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "121 / 121"
+    }
+  ]
+}

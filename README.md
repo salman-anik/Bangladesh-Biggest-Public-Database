@@ -40,7 +40,7 @@ The repository is organized into the following subject areas.
 | Geography & Administration | Divisions, districts, upazilas, unions and postal codes | `database/geography/` |
 | Banking & Finance | Banks, branches, routing numbers and mobile financial services | `database/banking/` |
 | Companies & Businesses | Listed companies (DSE), IT members (BASIS), conglomerates, startups, trade bodies | `database/company/` |
-| Medicine & Pharmaceuticals | Medicines, generic names, manufacturers and dosage forms | `database/medicine/` |
+| Medicine & Pharmaceuticals | 33,219 medicines, 1,233 diseases/indications, 2,594 generics, manufacturers and dosage forms | `database/medicine/` |
 | Education | Schools, colleges, educational institutions and EIIN information | `database/education/` |
 | Land Records | Land administration, survey information and available public records | `database/land/` |
 | Law & Legal Information | Constitution, legislation, legal codes and public legal directories | `database/law/` |
@@ -68,6 +68,17 @@ database/<category>/[divisions/]<Division>/<District>/<Upazila>[.json]
 - **Geography:** `geography/divisions/<Division>/<District>/<Upazila>/info.json` (unions, postal codes, coordinates, and official government portal links).
 - **Land Records:** `land/khatians/<Division>/<District>/<Upazila>.json` (54,000+ ePorcha khatian records partitioned by upazila).
 - **Transport:** `transport/divisions/<Division>/<District>/transport_nodes.json` (railway stations and airports).
+
+---
+
+## Medicine & Disease Data (`medicine/`)
+
+The `medicine/` directory contains a comprehensive Bangladesh pharmaceutical and disease/indication dataset (last updated `2026-11-07`):
+
+- **33,219 Medicines** (`all_medicines_summary.json`): Brand-level medicine records with generic names, strengths, dosage forms, manufacturers, BDT pricing, and clinical monograph details.
+- **1,233 Diseases / Medical Indications** (`indications.json`): Medical conditions and therapeutic indications mapped to matching medicine counts.
+- **2,594 Generics** (`generics.json`): Clinical monographs for active pharmaceutical ingredients.
+- **Additional Catalogs:** 435 manufacturers (`manufacturers.json`), 215 dosage forms (`dosage_forms.json`), and 556 therapeutic classes (`therapeutic_classes.json`), plus pre-segmented `by_company/` and `by_form/` directories.
 
 ---
 
@@ -142,7 +153,7 @@ database/
 │   └── divisions/<Division>/<District>/
 │
 ├── company/                     # DSE listed, BASIS IT companies, conglomerates
-├── medicine/                    # Pharmaceuticals, generics, manufacturers
+├── medicine/                    # 33,219 Medicines, 2,594 Generics, 1,233 Diseases/Indications
 ├── Islamic/                     # Quran, Hadith, Sunnah datasets
 └── law/                         # Major Acts, Penal Code, CRPC
 ```
@@ -307,4 +318,3 @@ Computer Science & Engineering Student | Data Science Enthusiast | Developer
 **Building a more accessible Bangladesh data ecosystem, one dataset at a time.**
 
 If this project is useful to you, consider giving it a ⭐ and contributing to its development.
-

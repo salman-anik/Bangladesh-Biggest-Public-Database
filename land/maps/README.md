@@ -4,14 +4,14 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 
 - **Google Drive Maps Root Folder:** [Open `land/maps` in Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u)
 - **Master Index:** [`index.json`](./index.json)
-- **Uploaded Maps with Live File Links (`17,178` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
+- **Uploaded Maps with Live File Links (`17,508` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
 
 ## Divisions & Districts (Google Drive Folders + Partitioned Catalogs)
 
 | Division | Districts | Total Map Files | Total Size | Uploaded to Drive | Google Drive Folder |
 |---|---:|---:|---:|---:|---|
-| **Barishal** | 6 | 17,107 | 200.53 GB | 17,090 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
-| **Chattogram** | 8 | 39,249 | 416.80 GB | 16 | [Open Chattogram Drive Folder](https://drive.google.com/drive/folders/1rDm8EnTOj0NpIM8UaGwPlMiIFSk4KQts) |
+| **Barishal** | 6 | 17,107 | 200.53 GB | 17,106 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
+| **Chattogram** | 8 | 39,249 | 416.80 GB | 330 | [Open Chattogram Drive Folder](https://drive.google.com/drive/folders/1rDm8EnTOj0NpIM8UaGwPlMiIFSk4KQts) |
 | **Dhaka** | 13 | 62,976 | 645.82 GB | 32 | [Open Dhaka Drive Folder](https://drive.google.com/drive/folders/1DcOgN4Lb32oFCBxLuF5e5ADxBjaMm2G4) |
 | **Khulna** | 10 | 22,439 | 229.98 GB | 8 | [Open Khulna Drive Folder](https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg) |
 | **Mymensingh** | 4 | 19,315 | 189.59 GB | 8 | [Open Mymensingh Drive Folder](https://drive.google.com/drive/folders/1eM0u01E9fjKmHF7XnPxm11m_k3rUvtcx) |
@@ -29,12 +29,12 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 | Bhola | 6 | 3,577 | 42.19 | 3,577 | [Drive Folder](https://drive.google.com/drive/folders/1PKLAaX-k4dvZ6EBrBerwjHOIsCZMyjge) | [`Bhola.json`](./Barishal/Bhola.json) |
 | Jhalokati | 4 | 857 | 10.08 | 857 | [Drive Folder](https://drive.google.com/drive/folders/1olq57r_8jlrOjGihS6oqJiA1T7sZ8mvd) | [`Jhalokati.json`](./Barishal/Jhalokati.json) |
 | Patuakhali | 7 | 3,676 | 41.12 | 3,675 | [Drive Folder](https://drive.google.com/drive/folders/1p5vPUlQh2IjCYJCbkiSB6AhUY9nGonna) | [`Patuakhali.json`](./Barishal/Patuakhali.json) |
-| Pirojpur | 5 | 2,727 | 32.17 | 2,711 | [Drive Folder](https://drive.google.com/drive/folders/1wOlWUqT_59h_a-mPgS8dDWQAMHM_cWZI) | [`Pirojpur.json`](./Barishal/Pirojpur.json) |
+| Pirojpur | 5 | 2,727 | 32.17 | 2,727 | [Drive Folder](https://drive.google.com/drive/folders/1wOlWUqT_59h_a-mPgS8dDWQAMHM_cWZI) | [`Pirojpur.json`](./Barishal/Pirojpur.json) |
 
 ### Chattogram Division
 | District | Upazilas | Files | Size (GB) | Uploaded | Drive Folder | Catalog JSON |
 |---|---:|---:|---:|---:|---|---|
-| Brahmanbaria0 | 7 | 2,517 | 25.51 | 16 | [Drive Folder](https://drive.google.com/drive/folders/1Dir-eGgurNUQN279n6iJs7E26NTv0nFm) | [`Brahmanbaria0.json`](./Chattogram/Brahmanbaria0.json) |
+| Brahmanbaria0 | 7 | 2,517 | 25.51 | 330 | [Drive Folder](https://drive.google.com/drive/folders/1Dir-eGgurNUQN279n6iJs7E26NTv0nFm) | [`Brahmanbaria0.json`](./Chattogram/Brahmanbaria0.json) |
 | Chandpur | 8 | 4,433 | 48.70 | 0 | [Drive Folder](https://drive.google.com/drive/folders/152yfDBm136RVbesnt4bmKiJ11WHZ_R-V) | [`Chandpur.json`](./Chattogram/Chandpur.json) |
 | Chittagong | 20 | 9,379 | 99.55 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1kSktiM6Pvqv2Q-Ffwa-f5RP7dtRxSr11) | [`Chittagong.json`](./Chattogram/Chittagong.json) |
 | Comilla | 18 | 9,060 | 97.10 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1Z6Lm0HXBlWYsD6--3qN4O2UbkNsQooor) | [`Comilla.json`](./Chattogram/Comilla.json) |

@@ -587,7 +587,7 @@ def main():
     parser.add_argument("--limit-gb", type=float, default=700.0, help="Stop cleanly after uploading N GB per cycle (default 700 GB for Drive 750 GB/day cap; 0 = unlimited until quota)")
     parser.add_argument("--refresh-github", action="store_true", help="Regenerate GitHub JSONs and README with Drive links")
     parser.add_argument("--refresh-only", action="store_true", help="Only regenerate GitHub JSONs and README from existing DB without uploading")
-    parser.add_argument("--continuous", action="store_true", help="Wait across 24h Google Drive upload quota windows and resume automatically until 100% uploaded")
+    parser.add_argument("--continuous", action="store_true", help="Wait across 24h Google Drive upload quota windows and resume automatically until all files are uploaded")
     parser.add_argument("--auto-push-github", action="store_true", help="Automatically commit and push updated land/maps catalogs every 250 files and on quota pause")
     args = parser.parse_args()
 

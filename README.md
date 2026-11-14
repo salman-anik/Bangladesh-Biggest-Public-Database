@@ -50,7 +50,7 @@ The repository is organized into the following subject areas.
 | Environment & Pollution | DoE daily AQI by year (2023–2026) & city (14 cities), plus water quality reports | `environment/` |
 | Elections & Constituencies | 300 parliamentary constituencies by Division > District & seat range, plus 63 registered political parties | `elections/` |
 | Government Procurement | BPPA/CPTU e-GP contract awards categorized by Division > District & procuring ministry | `procurement/` |
-| Land Records & Mouza Maps | 93,953 ePorcha khatian records (61 districts, 515 upazilas), 171,877 cataloged mouzas (527 upazilas) & [226,157 Mouza map files (2,385.37 GB) linked from Google Drive](./land/maps/README.md) | `land/` |
+| Land Records & Mouza Maps | 93,953 ePorcha khatian records (61 districts, 515 upazilas), 171,877 cataloged mouzas (527 upazilas) & [226,157 Mouza map files (2,385.37 GB) linked directly online via `free.mouzamap.tech`](./land/maps/README.md) | `land/` |
 | Law & Legal Information | Constitution by Part, Penal Code 1860, CrPC 1898, major acts by category & legal glossary | `law/` |
 | Lawyers Directory | 34,591 Dhaka Bar Association members by division, district and status | `Lawyer/` |
 | Healthcare | 3,590 hospitals, diagnostic centers, doctors, blood banks and ambulance services | `healthcare/` |
@@ -214,12 +214,12 @@ jq '.[] | select(.district_name == "Dhaka")' \
   geography/upazilas.json
 ```
 
-## Google Drive Full Mirror & Large Files
+## Google Drive Mirror & Direct Online Map Links
 
-All **JSON/CSV datasets, metadata, and scripts** live directly inside this GitHub repository, while **large binary Mouza map files** (`PDF`/`JPG`/`TIF` from [`mouzamap.tech`](https://mouzamap.tech/)) and high-resolution GIS GeoJSON boundary layers are stored as **uncompressed folders (zero ZIP archives)** in **Google Drive** and linked from GitHub:
+All **JSON/CSV datasets, metadata, and scripts** live directly inside this GitHub repository and are mirrored as **uncompressed folders (zero ZIP archives)** in **Google Drive**. Because the **226,157 Mouza map files (`PDF`/`JPG`/`TIF`, ~2.33 TB)** from [`mouzamap.tech`](https://mouzamap.tech/) are too heavy for GitHub or personal Google Drive storage, [`land/maps/`](./land/maps/README.md) links directly to their live online URLs on [`free.mouzamap.tech`](https://free.mouzamap.tech/):
 
 - **Full Repository Google Drive Mirror:** [Open `Bangladesh-Biggest-Public-Database` on Google Drive](https://drive.google.com/drive/folders/1ObOiGGQXl9B4bodcnDkx7g5yU_dc-Gol) (full manifest: [`drive_mirror.json`](./drive_mirror.json))
-- **Mouza Maps Root (`land/maps/`):** [Open `land/maps` on Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u) — 226,157 cataloged map files (~2.33 TB) organized by Division → District → Upazila → Survey; see [`land/maps/README.md`](./land/maps/README.md) & [`land/maps/index.json`](./land/maps/index.json)
+- **Mouza Maps Catalog (`land/maps/`):** [Direct Online Mouza Map Links (`free.mouzamap.tech`)](./land/maps/README.md) — 226,157 cataloged map files (~2.33 TB) organized by Division → District → Upazila → Survey; see [`land/maps/index.json`](./land/maps/index.json)
 - **Land Records Folder (`land/`):** [Open `land` on Google Drive](https://drive.google.com/drive/folders/1hbpHQ-3DFp1AsSZr_ISKV4g59KeKGb5e) — see [`land/README.md`](./land/README.md)
 - **Geography & High-Res GIS Boundaries (`geography/geojson/`):** [Open `geography/geojson` on Google Drive](https://drive.google.com/drive/folders/1slEFybA33XtFDW1vqK60nwkwqGHpL8XO) (parent [`geography/`](https://drive.google.com/drive/folders/1oo_tHSf42JXy5NUVY2qxH6KctXOZhVj9)) — see [`geography/geojson/README.md`](./geography/geojson/README.md)
 

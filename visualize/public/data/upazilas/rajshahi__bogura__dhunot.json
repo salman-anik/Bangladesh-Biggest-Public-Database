@@ -1,1 +1,440 @@
-{"division": "Rajshahi", "district": "Bogura", "upazila": "Dhunot", "upazila_slug": "rajshahi__bogura__dhunot", "geography": {"division": "Rajshahi", "division_bn": "রাজশাহী", "district": "Bogura", "district_bn": "বগুড়া", "district_lat": "24.8465228", "district_lon": "89.377755", "upazila_id": "130", "upazila": "Dhunot", "upazila_bn": "ধুনট", "official_url": "dhunot.bogra.gov.bd", "total_unions": 10, "unions": [{"id": "1171", "name": "Nimgachi", "bn_name": "নিমগাছি", "url": "nimgachiup.bogra.gov.bd"}, {"id": "1172", "name": "Kalerpara", "bn_name": "কালেরপাড়া", "url": "kalerparaup.bogra.gov.bd"}, {"id": "1173", "name": "Chikashi", "bn_name": "চিকাশী", "url": "chikashiup.bogra.gov.bd"}, {"id": "1174", "name": "Gossainbari", "bn_name": "গোসাইবাড়ী", "url": "gossainbariup.bogra.gov.bd"}, {"id": "1175", "name": "Bhandarbari", "bn_name": "ভান্ডারবাড়ী", "url": "bhandarbariup.bogra.gov.bd"}, {"id": "1176", "name": "Gopalnagar", "bn_name": "১গোপালনগর", "url": "gopalnagarup.bogra.gov.bd"}, {"id": "1177", "name": "Mothurapur", "bn_name": "মথুরাপুর", "url": "mothurapurup.bogra.gov.bd"}, {"id": "1178", "name": "Chowkibari", "bn_name": "চৌকিবাড়ী", "url": "chowkibariup.bogra.gov.bd"}, {"id": "1179", "name": "Elangi", "bn_name": "এলাঙ্গী", "url": "elangiup.bogra.gov.bd"}, {"id": "1180", "name": "Dhunat Sadar", "bn_name": "ধুনট সদর", "url": "dhunatsadarup.bogra.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 0, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 10, "postcodes_count": 0, "land_khatians_count": 0, "mouzas_count": 0}, "education": [], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 0, "mouza_count": 5950, "mouza_scope": "district", "sample_khatians": [], "sample_mouzas": [{"mouza_name": "হলুদঘর", "jl_no": "11", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "মোল্লাপুর", "jl_no": "22", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "কামার কুড়ি", "jl_no": "29", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "কায়েতপাড়া", "jl_no": "31", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "কাশিমিলা", "jl_no": "32", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "ভেবরা", "jl_no": "37", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "জিনরী", "jl_no": "39", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "শিয়ালশোন", "jl_no": "40", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "ডহরপুর", "jl_no": "42", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "ডালম্বা", "jl_no": "43", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "আদমদিঘি", "jl_no": "44", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "পাইকপাড়া", "jl_no": "45", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "রামপুরা", "jl_no": "47", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "কাশীমালা", "jl_no": "48", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "কুসুম্বী", "jl_no": "51", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "তালসন", "jl_no": "52", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "তেতুঁলিয়া", "jl_no": "53", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "দিঘরা", "jl_no": "56", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "কেশরতা", "jl_no": "57", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "বড়বড়িয়া", "jl_no": "58", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "মুরাদপুর", "jl_no": "59", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "লক্ষীপুর", "jl_no": "60", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "সিহরী", "jl_no": "61", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "ডুমুরগাঁও", "jl_no": "62", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "উজ্জলতা", "jl_no": "63", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "তেঘরী", "jl_no": "65", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "দক্ষিণ বিষ্ণপুর", "jl_no": "66", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "দত্তবাড়িয়া", "jl_no": "67", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "মঙ্গলপুর", "jl_no": "70", "survey": "BRS", "upazila": "ADAMDIGHI"}, {"mouza_name": "সাঐল", "jl_no": "71", "survey": "BRS", "upazila": "ADAMDIGHI"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1_CEtFi9uNHAVOr1iMDdn1uZh39eX5ANe", "district_drive_url": "https://drive.google.com/drive/folders/1N5amn4JL-4aLmL2knr2Y6cbvp_8e-4RR", "district_total_maps": 3044, "district_uploaded_maps": 8, "district_total_gb": 31.542, "catalog_github_path": "land/maps/Rajshahi/Bogura.json"}}, "governance": {"administration": {"district": "Bogura", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Bogura", "phone": "01713-000030", "email": "dcbogura@mopa.gov.bd", "website": "http://www.bogura.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Bogura", "phone": "01713-373030", "email": "spbogura@police.gov.bd", "control_room": "01713-374030"}, "civil_surgeon_office": {"title": "Civil Surgeon, Bogura", "phone": "01713-555030", "email": "csbogura@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "36", "name": {"en": "Bogra-1", "bn": "বগুড়া-১"}, "total_voters": 376019}, {"code": "37", "name": {"en": "Bogra-2", "bn": "বগুড়া-২"}, "total_voters": 342155}, {"code": "38", "name": {"en": "Bogra-3", "bn": "বগুড়া-৩"}, "total_voters": 339181}, {"code": "39", "name": {"en": "Bogra-4", "bn": "বগুড়া-৪"}, "total_voters": 359523}, {"code": "40", "name": {"en": "Bogra-5", "bn": "বগুড়া-৫"}, "total_voters": 572340}, {"code": "41", "name": {"en": "Bogra-6", "bn": "বগুড়া-৬"}, "total_voters": 454043}, {"code": "42", "name": {"en": "Bogra-7", "bn": "বগুড়া-৭"}, "total_voters": 538092}], "upazila_portal": "dhunot.bogra.gov.bd", "district_portal": "http://www.bogura.gov.bd", "union_portals_count": 10, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rajshahi",
+  "district": "Bogura",
+  "upazila": "Dhunot",
+  "upazila_slug": "rajshahi__bogura__dhunot",
+  "geography": {
+    "division": "Rajshahi",
+    "division_bn": "রাজশাহী",
+    "district": "Bogura",
+    "district_bn": "বগুড়া",
+    "district_lat": "24.8465228",
+    "district_lon": "89.377755",
+    "upazila_id": "130",
+    "upazila": "Dhunot",
+    "upazila_bn": "ধুনট",
+    "official_url": "dhunot.bogra.gov.bd",
+    "total_unions": 10,
+    "unions": [
+      {
+        "id": "1171",
+        "name": "Nimgachi",
+        "bn_name": "নিমগাছি",
+        "url": "nimgachiup.bogra.gov.bd"
+      },
+      {
+        "id": "1172",
+        "name": "Kalerpara",
+        "bn_name": "কালেরপাড়া",
+        "url": "kalerparaup.bogra.gov.bd"
+      },
+      {
+        "id": "1173",
+        "name": "Chikashi",
+        "bn_name": "চিকাশী",
+        "url": "chikashiup.bogra.gov.bd"
+      },
+      {
+        "id": "1174",
+        "name": "Gossainbari",
+        "bn_name": "গোসাইবাড়ী",
+        "url": "gossainbariup.bogra.gov.bd"
+      },
+      {
+        "id": "1175",
+        "name": "Bhandarbari",
+        "bn_name": "ভান্ডারবাড়ী",
+        "url": "bhandarbariup.bogra.gov.bd"
+      },
+      {
+        "id": "1176",
+        "name": "Gopalnagar",
+        "bn_name": "১গোপালনগর",
+        "url": "gopalnagarup.bogra.gov.bd"
+      },
+      {
+        "id": "1177",
+        "name": "Mothurapur",
+        "bn_name": "মথুরাপুর",
+        "url": "mothurapurup.bogra.gov.bd"
+      },
+      {
+        "id": "1178",
+        "name": "Chowkibari",
+        "bn_name": "চৌকিবাড়ী",
+        "url": "chowkibariup.bogra.gov.bd"
+      },
+      {
+        "id": "1179",
+        "name": "Elangi",
+        "bn_name": "এলাঙ্গী",
+        "url": "elangiup.bogra.gov.bd"
+      },
+      {
+        "id": "1180",
+        "name": "Dhunat Sadar",
+        "bn_name": "ধুনট সদর",
+        "url": "dhunatsadarup.bogra.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 0,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 10,
+    "postcodes_count": 0,
+    "land_khatians_count": 0,
+    "mouzas_count": 0
+  },
+  "education": [],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 0,
+    "mouza_count": 5950,
+    "mouza_scope": "district",
+    "sample_khatians": [],
+    "sample_mouzas": [
+      {
+        "mouza_name": "হলুদঘর",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "মোল্লাপুর",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "কামার কুড়ি",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "কায়েতপাড়া",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "কাশিমিলা",
+        "jl_no": "32",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "ভেবরা",
+        "jl_no": "37",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "জিনরী",
+        "jl_no": "39",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "শিয়ালশোন",
+        "jl_no": "40",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "ডহরপুর",
+        "jl_no": "42",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "ডালম্বা",
+        "jl_no": "43",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "আদমদিঘি",
+        "jl_no": "44",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "পাইকপাড়া",
+        "jl_no": "45",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "রামপুরা",
+        "jl_no": "47",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "কাশীমালা",
+        "jl_no": "48",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "কুসুম্বী",
+        "jl_no": "51",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "তালসন",
+        "jl_no": "52",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "তেতুঁলিয়া",
+        "jl_no": "53",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "দিঘরা",
+        "jl_no": "56",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "কেশরতা",
+        "jl_no": "57",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "বড়বড়িয়া",
+        "jl_no": "58",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "মুরাদপুর",
+        "jl_no": "59",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "লক্ষীপুর",
+        "jl_no": "60",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "সিহরী",
+        "jl_no": "61",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "ডুমুরগাঁও",
+        "jl_no": "62",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "উজ্জলতা",
+        "jl_no": "63",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "তেঘরী",
+        "jl_no": "65",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "দক্ষিণ বিষ্ণপুর",
+        "jl_no": "66",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "দত্তবাড়িয়া",
+        "jl_no": "67",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "মঙ্গলপুর",
+        "jl_no": "70",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      },
+      {
+        "mouza_name": "সাঐল",
+        "jl_no": "71",
+        "survey": "BRS",
+        "upazila": "ADAMDIGHI"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/2:/",
+      "district_drive_url": "https://free.mouzamap.tech/2:/Bogura/",
+      "district_total_maps": 3044,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 31.542,
+      "catalog_github_path": "land/maps/Rajshahi/Bogura.json",
+      "online_folder_url": "https://free.mouzamap.tech/2:/Bogura/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Bogura",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Bogura",
+        "phone": "01713-000030",
+        "email": "dcbogura@mopa.gov.bd",
+        "website": "http://www.bogura.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Bogura",
+        "phone": "01713-373030",
+        "email": "spbogura@police.gov.bd",
+        "control_room": "01713-374030"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Bogura",
+        "phone": "01713-555030",
+        "email": "csbogura@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "36",
+        "name": {
+          "en": "Bogra-1",
+          "bn": "বগুড়া-১"
+        },
+        "total_voters": 376019
+      },
+      {
+        "code": "37",
+        "name": {
+          "en": "Bogra-2",
+          "bn": "বগুড়া-২"
+        },
+        "total_voters": 342155
+      },
+      {
+        "code": "38",
+        "name": {
+          "en": "Bogra-3",
+          "bn": "বগুড়া-৩"
+        },
+        "total_voters": 339181
+      },
+      {
+        "code": "39",
+        "name": {
+          "en": "Bogra-4",
+          "bn": "বগুড়া-৪"
+        },
+        "total_voters": 359523
+      },
+      {
+        "code": "40",
+        "name": {
+          "en": "Bogra-5",
+          "bn": "বগুড়া-৫"
+        },
+        "total_voters": 572340
+      },
+      {
+        "code": "41",
+        "name": {
+          "en": "Bogra-6",
+          "bn": "বগুড়া-৬"
+        },
+        "total_voters": 454043
+      },
+      {
+        "code": "42",
+        "name": {
+          "en": "Bogra-7",
+          "bn": "বগুড়া-৭"
+        },
+        "total_voters": 538092
+      }
+    ],
+    "upazila_portal": "dhunot.bogra.gov.bd",
+    "district_portal": "http://www.bogura.gov.bd",
+    "union_portals_count": 10,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

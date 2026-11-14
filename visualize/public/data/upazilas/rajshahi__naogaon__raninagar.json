@@ -1,1 +1,1155 @@
-{"division": "Rajshahi", "district": "Naogaon", "upazila": "Raninagar", "upazila_slug": "rajshahi__naogaon__raninagar", "geography": {"division": "Rajshahi", "division_bn": "রাজশাহী", "district": "Naogaon", "district_bn": "নওগাঁ", "district_lat": "24.83256191", "district_lon": "88.92485205", "upazila_id": "167", "upazila": "Raninagar", "upazila_bn": "রাণীনগর", "official_url": "raninagar.naogaon.gov.bd", "total_unions": 8, "unions": [{"id": "1481", "name": "Khatteshawr", "bn_name": "খট্টেশ্বর রাণীনগর", "url": "1nokhatteshawrup.naogaon.gov.bd"}, {"id": "1482", "name": "Kashimpur", "bn_name": "কাশিমপুর", "url": "2nokashimpurup.naogaon.gov.bd"}, {"id": "1483", "name": "Gona", "bn_name": "গোনা", "url": "3nogonaup.naogaon.gov.bd"}, {"id": "1484", "name": "Paroil", "bn_name": "পারইল", "url": "4noparoilup.naogaon.gov.bd"}, {"id": "1485", "name": "Borgoca", "bn_name": "বরগাছা", "url": "5noborgocaup.naogaon.gov.bd"}, {"id": "1486", "name": "Kaligram", "bn_name": "কালিগ্রাম", "url": "6nokaligramup.naogaon.gov.bd"}, {"id": "1487", "name": "Ekdala", "bn_name": "একডালা", "url": "7noekdalaup.naogaon.gov.bd"}, {"id": "1488", "name": "Mirat", "bn_name": "মিরাট", "url": "8nomiratup.naogaon.gov.bd"}], "total_post_offices": 2, "postal_codes": [{"postcode": "6591", "postcode_bn": "৬৫৯১", "sub_office": "Kashimpur", "sub_office_bn": "কাশিমপুর"}, {"postcode": "6590", "postcode_bn": "৬৫৯০", "sub_office": "Raninagar", "sub_office_bn": "রানীনগর"}]}, "stats": {"education_count": 45, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 8, "postcodes_count": 2, "land_khatians_count": 25, "mouzas_count": 526}, "education": [{"eiin": "123743", "name": "ABAD PUKUR COLLEGE,ABAD PUKUR", "name_bn": "আবাদপুকুর কলেজ,আবাদপুকুর", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01719976036", "email": "c123743r@gmail.com", "teacher_count": 0, "file": "ABAD PUKUR COLLEGE,ABAD PUKUR.json"}, {"eiin": "123744", "name": "ABADPUKUR MOHAVIDYALAYA,KALIGRAM MORUPARA", "name_bn": "আবাদপুকুর মহাবিদ্যালয়,কালিগ্রাম,মরুপাড়া", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01716224656", "email": "abadpukurmohavi@gmail.com", "teacher_count": 0, "file": "ABADPUKUR MOHAVIDYALAYA,KALIGRAM MORUPARA.json"}, {"eiin": "123742", "name": "RANINAGAR WOMEN S COLLEGE", "name_bn": "রাণীনগর মহিলা কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01712690975", "email": "raninagarwcollege@yahoo.com", "teacher_count": 0, "file": "RANINAGAR WOMEN S COLLEGE.json"}, {"eiin": "123741", "name": "SHER-E-BANGLA GOVT. MAHAVIDYALAYA", "name_bn": "শের-এ-বাংলা সরকারি ডিগ্রি মহাবিদ্যালয়", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01711164683", "email": "sbmraninagar@gmail.com", "teacher_count": 0, "file": "SHER-E-BANGLA GOVT. MAHAVIDYALAYA.json"}, {"eiin": "123740", "name": "ABADPUKUR ISLAMIA DAKHIL MADRASHA", "name_bn": "আবাদপুকুর ইসলামিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01728794646", "email": "a123740r@gmail.com", "teacher_count": 0, "file": "ABADPUKUR ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "123739", "name": "BOHAR ISLAMIA DAKHIL MADRASA", "name_bn": "বোঁহার ইসলামীয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714512905", "email": "md123739r@gmail.com", "teacher_count": 0, "file": "BOHAR ISLAMIA DAKHIL MADRASA.json"}, {"eiin": "123738", "name": "PAROIL ISLAMIA DAKHIL MADRASHA", "name_bn": "পারইল ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01734142021", "email": "m123738r@gmail.com", "teacher_count": 0, "file": "PAROIL ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "123737", "name": "RAJAPUR SIDDIQUEA DAKHIL MADRASA", "name_bn": "রাজাপুর সিদ্দিকীয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714657894", "email": "m123737r@gmail.com", "teacher_count": 0, "file": "RAJAPUR SIDDIQUEA DAKHIL MADRASA.json"}, {"eiin": "123734", "name": "BHETY SIDDIQUIA FAZIL MADRASHA", "name_bn": "ভেটী সিদ্দিকীয়া ফাজিল (স্নাতক) মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01716282848", "email": "m123734r@gmail.com", "teacher_count": 0, "file": "BHETY SIDDIQUIA FAZIL MADRASHA.json"}, {"eiin": "123735", "name": "PANCHUPUR ALIM MADRASHA", "name_bn": "পাঁচুপুর আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01718253218", "email": "m123735r@gmail.com", "teacher_count": 0, "file": "PANCHUPUR ALIM MADRASHA.json"}, {"eiin": "123736", "name": "RANI NAGAR AL-AMIN ALIM MADRASA", "name_bn": "রানিনগর আল-আমিন দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01762617751", "email": "radm123736@gmail.com", "teacher_count": 0, "file": "RANI NAGAR AL-AMIN ALIM MADRASA.json"}, {"eiin": "132101", "name": "BAROKHOL TECHNICAL AND BUSINESS MANAGMENT COLLEGE", "name_bn": "বড়খোল টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01723605743", "email": null, "teacher_count": 0, "file": "BAROKHOL TECHNICAL AND BUSINESS MANAGMENT COLLEGE.json"}, {"eiin": "132102", "name": "SHAFIKPUR TECHNICAL AND BUSINESS MANAGEMENT COLLEGE", "name_bn": "শফিকপুর টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01714258646", "email": null, "teacher_count": 0, "file": "SHAFIKPUR TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "137438", "name": "BIJOYKANDI GOVT. PRIMARY SCHOOL", "name_bn": null, "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01719898282", "email": "taoziahmekhla2020@gmail.com", "teacher_count": 103, "file": "BIJOYKANDI GOVT. PRIMARY SCHOOL.json"}, {"eiin": "123709", "name": "ABADPUKUR HIGH SCHOOL", "name_bn": "আবাদপুকুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718690810", "email": "s123709r@gmail.com", "teacher_count": 286, "file": "ABADPUKUR HIGH SCHOOL.json"}, {"eiin": "123731", "name": "ABADPUKUR JUNIOUR GIRLS SCHOOL", "name_bn": "আবাদপুকুর নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01718842153", "email": "abadpukurbalikabiddaloy@gmail.com", "teacher_count": 132, "file": "ABADPUKUR JUNIOUR GIRLS SCHOOL.json"}, {"eiin": "123724", "name": "AKNA BANSBARIA HLGH SCHDOL", "name_bn": "আকনা বাঁশবাড়িয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01774890804", "email": "s123724r@gmail.com", "teacher_count": 212, "file": "AKNA BANSBARIA HLGH SCHDOL.json"}, {"eiin": "123710", "name": "ATAIKULA JANAKALLYAN HIGH SCHOOL", "name_bn": "আতাইকুলা জণকল্যান উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01729617237", "email": "s123710r@gmail.com", "teacher_count": 214, "file": "ATAIKULA JANAKALLYAN HIGH SCHOOL.json"}, {"eiin": "123720", "name": "BARAKHOL HIGH SCHOOL", "name_bn": "বড়খোল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01736350268", "email": "s123720r@gmail.com", "teacher_count": 201, "file": "BARAKHOL HIGH SCHOOL.json"}, {"eiin": "123732", "name": "BISHIA HIGH SCHOOL", "name_bn": "বিশিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714930513", "email": "s123732r@gmail.com", "teacher_count": 152, "file": "BISHIA HIGH SCHOOL.json"}, {"eiin": "123727", "name": "DEULA MANIKHAR HIGH SCHOOL", "name_bn": "দেউলা-মানিকহার উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716902419", "email": "s123727r@gmail.com", "teacher_count": 190, "file": "DEULA MANIKHAR HIGH SCHOOL.json"}, {"eiin": "123708", "name": "GHOSHGRAM KAFILIA HIGH SCHOOL", "name_bn": "ঘোষগ্রাম কফিলিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714602297", "email": "s123708r@gmail.com", "teacher_count": 206, "file": "GHOSHGRAM KAFILIA HIGH SCHOOL.json"}, {"eiin": "123707", "name": "GOHELAPUR N. M. HIGH SCHOOL", "name_bn": "গহেলাপুর এন.এম. উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713931836", "email": "s123707r@gmail.com", "teacher_count": 231, "file": "GOHELAPUR N. M. HIGH SCHOOL.json"}, {"eiin": "123725", "name": "GONA HIGH SCHOOL", "name_bn": "গোনা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712371334", "email": "s123725r@gmail.com", "teacher_count": 329, "file": "GONA HIGH SCHOOL.json"}, {"eiin": "123711", "name": "GUATA HIGH SCHOOL", "name_bn": "গুয়াতা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01736773628", "email": "s123711r@gmail.com", "teacher_count": 182, "file": "GUATA HIGH SCHOOL.json"}, {"eiin": "123716", "name": "JALKAI JUNIOR HIGH SCHOOL", "name_bn": "জলকৈ নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01713797189", "email": "s123716r@gmail.com", "teacher_count": 108, "file": "JALKAI JUNIOR HIGH SCHOOL.json"}, {"eiin": "123714", "name": "KALIGRAM HIGH SCHOOL", "name_bn": "কালিগ্রাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740842452", "email": "s123714r@gmail.com", "teacher_count": 175, "file": "KALIGRAM HIGH SCHOOL.json"}, {"eiin": "123705", "name": "KAMTA S. N. HIGH SCHOOL", "name_bn": "কামতা সত্যেন্দ্রনাথ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718857690", "email": "ks123705@gmail.com", "teacher_count": 254, "file": "KAMTA S. N. HIGH SCHOOL.json"}, {"eiin": "123730", "name": "KANUZ ADARSHO HIGH SCHOOL", "name_bn": "কনৌজ আদশ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719933681", "email": "s123730r@gmail.com", "teacher_count": 155, "file": "KANUZ ADARSHO HIGH SCHOOL.json"}, {"eiin": "123718", "name": "KARAJGRAM HIGH SCHOOL", "name_bn": "করজগ্রাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01723783547", "email": "s123718r@gmail.com", "teacher_count": 192, "file": "KARAJGRAM HIGH SCHOOL.json"}, {"eiin": "123726", "name": "KUJAEEL GIRLS HIGH SCHOOL", "name_bn": "কুজাইল বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01733178461", "email": "s123726r@gmail.com", "teacher_count": 193, "file": "KUJAEEL GIRLS HIGH SCHOOL.json"}, {"eiin": "123715", "name": "MALSHAN GIRIGRAM HIGH SCHOOL", "name_bn": "মালশন গিরিগ্রাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01761549013", "email": "s123715r@gmail.com", "teacher_count": 206, "file": "MALSHAN GIRIGRAM HIGH SCHOOL.json"}, {"eiin": "123722", "name": "MIRAT HIGH SCHOOL", "name_bn": "মিরাট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01739900830", "email": "s123722r@gmail.com", "teacher_count": 204, "file": "MIRAT HIGH SCHOOL.json"}, {"eiin": "123729", "name": "MODHUPUR HIGH SCHOOL", "name_bn": "মধুপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719617003", "email": "s123729r@gmail.com", "teacher_count": 190, "file": "MODHUPUR HIGH SCHOOL.json"}, {"eiin": "123712", "name": "PALSHA KRISHNAPUR HIGH SCHOOL", "name_bn": "পালশা কৃষ্ণপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718854451", "email": "s123712r@gmail.com", "teacher_count": 208, "file": "PALSHA KRISHNAPUR HIGH SCHOOL.json"}, {"eiin": "123717", "name": "PARAIL HIGH SCHOOL", "name_bn": "পারইল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01759449567", "email": "s123717r@gmail.com", "teacher_count": 206, "file": "PARAIL HIGH SCHOOL.json"}, {"eiin": "130591", "name": "PUTHIA AZIZUR RAHAMAN MEMORIAL ACADEMY", "name_bn": "পুঠিয়া আজিজুর রহমান মেমোরিয়াল একাডেমি।", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01715507384", "email": "s130591r@gmail.com", "teacher_count": 130, "file": "PUTHIA AZIZUR RAHAMAN MEMORIAL ACADEMY.json"}, {"eiin": "123719", "name": "RANINAGAR GIRLS HIGH SCHOOL", "name_bn": "রাণীনগর উচ্চ বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717006174", "email": "s123719r@gmail.com", "teacher_count": 257, "file": "RANINAGAR GIRLS HIGH SCHOOL.json"}, {"eiin": "123706", "name": "RANINAGAR PAILOT HIGH SCHOOL", "name_bn": "রাণীনগর সরকারি পাইলট মডেল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718822139", "email": "s123706r@gmail.com", "teacher_count": 180, "file": "RANINAGAR PAILOT HIGH SCHOOL.json"}, {"eiin": "123704", "name": "RATOWAL WORLD POET RABINDRANATH HIGH SCHOOL", "name_bn": "রাতোয়াল বিশ্বকবি রবীন্দ্রনাথ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01762607874", "email": "s123704r@gmail.com", "teacher_count": 184, "file": "RATOWAL WORLD POET RABINDRANATH HIGH SCHOOL.json"}, {"eiin": "123728", "name": "SANJOYPUR JUNIOR HIGH SCHOOL", "name_bn": "সনজয়পুর নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01712313990", "email": "sonjoypurjs1996@yahoo.com", "teacher_count": 112, "file": "SANJOYPUR JUNIOR HIGH SCHOOL.json"}, {"eiin": "123723", "name": "SHAFIKPUR HIGH SCHOOL", "name_bn": "শফিকপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719404099", "email": "s123723r@gmail.com", "teacher_count": 239, "file": "SHAFIKPUR HIGH SCHOOL.json"}, {"eiin": "123713", "name": "SHIALA HIGH SCHOOL", "name_bn": "শিয়ালা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01728163390", "email": "s123713r@gmail.com", "teacher_count": 189, "file": "SHIALA HIGH SCHOOL.json"}, {"eiin": "123721", "name": "TRIMOHANI HIGH SCHOOL", "name_bn": "ত্রিমোহনী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01729369902", "email": "s123721r@gmail.com", "teacher_count": 220, "file": "TRIMOHANI HIGH SCHOOL.json"}, {"eiin": "123733", "name": "UNITED HIGH SCHOOL", "name_bn": "ইউনাইটেড উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713772806", "email": "s123733r@gmail.com", "teacher_count": 203, "file": "UNITED HIGH SCHOOL.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 526, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "পূর্ব্ব পাকিস্তান প্রদেশ পক্ষে কালেক্টর রাজশাহী", "dags": "6,66,81,88,122,124,175,189,192,194,217,232,233,235,238,246,287,305,326,327,339,3", "total_land": "36.48"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "বড় খোল প্রি প্রাইমারী স্কুল কমিটির পক্ষে চীফ একজিকিউটিভ অফিসার প্রাইমারী এডুকেশন রাজশাহী", "dags": "40,128,130,410,418", "total_land": "1.07"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আছিমদ্দিন সরদার,ইয়াদ আলী সরদার,ছিপাত আলী সরদার,সোবেদা খাতুন,ছাপিরন বেওয়া,রাবিয়া খাতুন", "dags": "150,495", "total_land": "0.54"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "কুড়িয়া পাড়া মসজিদ,কমিটির পক্ষে মোতয়ালী,দং অছিমুদ্দিন প্রামানিক", "dags": "188/1241", "total_land": "0.20"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "অনন্তভান বিবি", "dags": "2282", "total_land": "0.73"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "অনন্তভান বিবি", "dags": "2281,2296,2375,2379", "total_land": "1.86"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "অবিজান বিবি,ছিফাতুল্যা প্রামানিক", "dags": "2093,2096", "total_land": "0.53"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "অবিজান বিবি,সুকমন বেওয়া", "dags": "1234", "total_land": "0.14"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আজফা বিবি,আলেয়া বিবি,সুপিয়া খাতুন,মোহন নেছা,মির বকস,মতিজান", "dags": "2381", "total_land": "0.26"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "অমৃত লাল চৌধুরী", "dags": "2274,2291", "total_land": "1.83"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্কেল আলী প্রামানিক,তাছের আলী প্রামানিক,খয়ের আলী প্রামানিক,দসরত আলী,আছির প্রামানিক,রিজিয়া খাতুন", "dags": "86,147,227,396,834,979,1142", "total_land": "1.02"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আকালু সাকিনদার,একাব্বর আলী সাকিনদার,ইয়াকুব আলী সাকিনদার,পয়মন বিবি,কাছু বিবি,গুলজান বিবি", "dags": "149", "total_land": "0.23"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্কাছ প্রামানিক,মুজাহার প্রামানিক,ময়না বেওয়া", "dags": "126", "total_land": "0.12"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্কাছ আলী প্রামানিক,মুজাহার প্রামানিক,ময়না বেওয়া,আবদুল আজিজ মোল্লা,আবদুল রশিদ মোল্লা,জোনাব আলী মোল্লা,মহিরন বেওয়া,কাবেজান বিবি,আলেজান বিবি,আয়াজ মোল্লা,আমজাদ মো", "dags": "319,1112,321,963,1093,406,409,562,566,455,2009,2014,2010,2015,2011,2013,2017,201", "total_land": "3.69"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্কাছ আলী প্রামানিক,মোজাহার প্রামানিক,খিরজান বিবি", "dags": "490,560,568,593,943,945,1065,1152,1153", "total_land": "2.48"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্কেল আলী আকন্দ,আছন আলী আকন্দ", "dags": "789", "total_land": "0.26"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্কেল আলী সরদার", "dags": "2380", "total_land": "0.58"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আকবর আলী সরদার,আশেক আলী সরদার,আয়জান বিবি,তানা আত্রাই", "dags": "2437", "total_land": "0.96"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্রাম আলী মোল্লা", "dags": "2184", "total_land": "0.66"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "বড়খোল", "jl_no": "1", "owners": "আক্রাম আলী মোল্লা,জয়নাল আবদীন মোল্লা,আহশান আলী মোল্লা,জাহেদ আলী", "dags": "2200", "total_land": "0.54"}], "sample_mouzas": [{"mouza_name": "বালুভরা", "jl_no": "1", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "পলিবাহাদুরপুর", "jl_no": "2", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "চকমনু", "jl_no": "3", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "চক কুতুব", "jl_no": "4", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "চক আদিন", "jl_no": "5", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "এনায়েতপুর", "jl_no": "6", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "কাশিমপুর", "jl_no": "7", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "চককুজাইল", "jl_no": "8", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "দুর্গাপুর", "jl_no": "9", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "সবর্বরামপুর", "jl_no": "10", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "খট্টেশ্বর রাণীনগর", "jl_no": "13", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "রনসিঙ্গা", "jl_no": "14", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "ভুতপাড়ারাজাপুর", "jl_no": "15", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "বেলবাড়ী", "jl_no": "16", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "ভগবানপুর", "jl_no": "17", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "গোনা", "jl_no": "19", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "ক্ষিদ্র চাপড়া", "jl_no": "20", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "রাতুয়া", "jl_no": "21", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "পিরেরা", "jl_no": "22", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "ভবানীপুর", "jl_no": "23", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "ঘোষগাঁও", "jl_no": "25", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "কাজিপাড়া", "jl_no": "26", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "মালঞ্চি", "jl_no": "27", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "নন্দবাড়ী", "jl_no": "28", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "কৃষ্ণপুর", "jl_no": "29", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "পশ্চিম গোবিন্দপুর", "jl_no": "43", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "খাজুরিয়া", "jl_no": "44", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "আরজী গহেলাপুর", "jl_no": "45", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "কচুয়া", "jl_no": "46", "survey": "CS", "upazila": "RANINAGAR"}, {"mouza_name": "লোহাচুড়া", "jl_no": "47", "survey": "CS", "upazila": "RANINAGAR"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1_CEtFi9uNHAVOr1iMDdn1uZh39eX5ANe", "district_drive_url": "https://drive.google.com/drive/folders/17vaM9MIGzwJdm_1a_mse8OUh3_xuUae4", "district_total_maps": 4644, "district_uploaded_maps": 0, "district_total_gb": 49.651, "catalog_github_path": "land/maps/Rajshahi/Naogaon.json"}}, "governance": {"administration": {"district": "Naogaon", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Naogaon", "phone": "01713-000034", "email": "dcnaogaon@mopa.gov.bd", "website": "http://www.naogaon.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Naogaon", "phone": "01713-373034", "email": "spnaogaon@police.gov.bd", "control_room": "01713-374034"}, "civil_surgeon_office": {"title": "Civil Surgeon, Naogaon", "phone": "01713-555034", "email": "csnaogaon@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "46", "name": {"en": "Noagoan-1", "bn": "নওগাঁ-১"}, "total_voters": 474067}, {"code": "47", "name": {"en": "Noagoan-2", "bn": "নওগাঁ-২"}, "total_voters": 372436}, {"code": "48", "name": {"en": "Noagoan-3", "bn": "নওগাঁ-৩"}, "total_voters": 440785}, {"code": "49", "name": {"en": "Noagoan-4", "bn": "নওগাঁ-৪"}, "total_voters": 333862}, {"code": "50", "name": {"en": "Noagoan-5", "bn": "নওগাঁ-৫"}, "total_voters": 363030}, {"code": "51", "name": {"en": "Noagoan-6", "bn": "নওগাঁ-৬"}, "total_voters": 345416}], "upazila_portal": "raninagar.naogaon.gov.bd", "district_portal": "http://www.naogaon.gov.bd", "union_portals_count": 8, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "upazila": "Raninagar",
+  "upazila_slug": "rajshahi__naogaon__raninagar",
+  "geography": {
+    "division": "Rajshahi",
+    "division_bn": "রাজশাহী",
+    "district": "Naogaon",
+    "district_bn": "নওগাঁ",
+    "district_lat": "24.83256191",
+    "district_lon": "88.92485205",
+    "upazila_id": "167",
+    "upazila": "Raninagar",
+    "upazila_bn": "রাণীনগর",
+    "official_url": "raninagar.naogaon.gov.bd",
+    "total_unions": 8,
+    "unions": [
+      {
+        "id": "1481",
+        "name": "Khatteshawr",
+        "bn_name": "খট্টেশ্বর রাণীনগর",
+        "url": "1nokhatteshawrup.naogaon.gov.bd"
+      },
+      {
+        "id": "1482",
+        "name": "Kashimpur",
+        "bn_name": "কাশিমপুর",
+        "url": "2nokashimpurup.naogaon.gov.bd"
+      },
+      {
+        "id": "1483",
+        "name": "Gona",
+        "bn_name": "গোনা",
+        "url": "3nogonaup.naogaon.gov.bd"
+      },
+      {
+        "id": "1484",
+        "name": "Paroil",
+        "bn_name": "পারইল",
+        "url": "4noparoilup.naogaon.gov.bd"
+      },
+      {
+        "id": "1485",
+        "name": "Borgoca",
+        "bn_name": "বরগাছা",
+        "url": "5noborgocaup.naogaon.gov.bd"
+      },
+      {
+        "id": "1486",
+        "name": "Kaligram",
+        "bn_name": "কালিগ্রাম",
+        "url": "6nokaligramup.naogaon.gov.bd"
+      },
+      {
+        "id": "1487",
+        "name": "Ekdala",
+        "bn_name": "একডালা",
+        "url": "7noekdalaup.naogaon.gov.bd"
+      },
+      {
+        "id": "1488",
+        "name": "Mirat",
+        "bn_name": "মিরাট",
+        "url": "8nomiratup.naogaon.gov.bd"
+      }
+    ],
+    "total_post_offices": 2,
+    "postal_codes": [
+      {
+        "postcode": "6591",
+        "postcode_bn": "৬৫৯১",
+        "sub_office": "Kashimpur",
+        "sub_office_bn": "কাশিমপুর"
+      },
+      {
+        "postcode": "6590",
+        "postcode_bn": "৬৫৯০",
+        "sub_office": "Raninagar",
+        "sub_office_bn": "রানীনগর"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 45,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 8,
+    "postcodes_count": 2,
+    "land_khatians_count": 25,
+    "mouzas_count": 526
+  },
+  "education": [
+    {
+      "eiin": "123743",
+      "name": "ABAD PUKUR COLLEGE,ABAD PUKUR",
+      "name_bn": "আবাদপুকুর কলেজ,আবাদপুকুর",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01719976036",
+      "email": "c123743r@gmail.com",
+      "teacher_count": 0,
+      "file": "ABAD PUKUR COLLEGE,ABAD PUKUR.json"
+    },
+    {
+      "eiin": "123744",
+      "name": "ABADPUKUR MOHAVIDYALAYA,KALIGRAM MORUPARA",
+      "name_bn": "আবাদপুকুর মহাবিদ্যালয়,কালিগ্রাম,মরুপাড়া",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01716224656",
+      "email": "abadpukurmohavi@gmail.com",
+      "teacher_count": 0,
+      "file": "ABADPUKUR MOHAVIDYALAYA,KALIGRAM MORUPARA.json"
+    },
+    {
+      "eiin": "123742",
+      "name": "RANINAGAR WOMEN S COLLEGE",
+      "name_bn": "রাণীনগর মহিলা কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01712690975",
+      "email": "raninagarwcollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "RANINAGAR WOMEN S COLLEGE.json"
+    },
+    {
+      "eiin": "123741",
+      "name": "SHER-E-BANGLA GOVT. MAHAVIDYALAYA",
+      "name_bn": "শের-এ-বাংলা সরকারি ডিগ্রি মহাবিদ্যালয়",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01711164683",
+      "email": "sbmraninagar@gmail.com",
+      "teacher_count": 0,
+      "file": "SHER-E-BANGLA GOVT. MAHAVIDYALAYA.json"
+    },
+    {
+      "eiin": "123740",
+      "name": "ABADPUKUR ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "আবাদপুকুর ইসলামিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01728794646",
+      "email": "a123740r@gmail.com",
+      "teacher_count": 0,
+      "file": "ABADPUKUR ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "123739",
+      "name": "BOHAR ISLAMIA DAKHIL MADRASA",
+      "name_bn": "বোঁহার ইসলামীয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714512905",
+      "email": "md123739r@gmail.com",
+      "teacher_count": 0,
+      "file": "BOHAR ISLAMIA DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "123738",
+      "name": "PAROIL ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "পারইল ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01734142021",
+      "email": "m123738r@gmail.com",
+      "teacher_count": 0,
+      "file": "PAROIL ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "123737",
+      "name": "RAJAPUR SIDDIQUEA DAKHIL MADRASA",
+      "name_bn": "রাজাপুর সিদ্দিকীয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714657894",
+      "email": "m123737r@gmail.com",
+      "teacher_count": 0,
+      "file": "RAJAPUR SIDDIQUEA DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "123734",
+      "name": "BHETY SIDDIQUIA FAZIL MADRASHA",
+      "name_bn": "ভেটী সিদ্দিকীয়া ফাজিল (স্নাতক) মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01716282848",
+      "email": "m123734r@gmail.com",
+      "teacher_count": 0,
+      "file": "BHETY SIDDIQUIA FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "123735",
+      "name": "PANCHUPUR ALIM MADRASHA",
+      "name_bn": "পাঁচুপুর আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01718253218",
+      "email": "m123735r@gmail.com",
+      "teacher_count": 0,
+      "file": "PANCHUPUR ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "123736",
+      "name": "RANI NAGAR AL-AMIN ALIM MADRASA",
+      "name_bn": "রানিনগর আল-আমিন দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01762617751",
+      "email": "radm123736@gmail.com",
+      "teacher_count": 0,
+      "file": "RANI NAGAR AL-AMIN ALIM MADRASA.json"
+    },
+    {
+      "eiin": "132101",
+      "name": "BAROKHOL TECHNICAL AND BUSINESS MANAGMENT COLLEGE",
+      "name_bn": "বড়খোল টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01723605743",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BAROKHOL TECHNICAL AND BUSINESS MANAGMENT COLLEGE.json"
+    },
+    {
+      "eiin": "132102",
+      "name": "SHAFIKPUR TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "শফিকপুর টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01714258646",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SHAFIKPUR TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "137438",
+      "name": "BIJOYKANDI GOVT. PRIMARY SCHOOL",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01719898282",
+      "email": "taoziahmekhla2020@gmail.com",
+      "teacher_count": 103,
+      "file": "BIJOYKANDI GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "123709",
+      "name": "ABADPUKUR HIGH SCHOOL",
+      "name_bn": "আবাদপুকুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718690810",
+      "email": "s123709r@gmail.com",
+      "teacher_count": 286,
+      "file": "ABADPUKUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123731",
+      "name": "ABADPUKUR JUNIOUR GIRLS SCHOOL",
+      "name_bn": "আবাদপুকুর নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01718842153",
+      "email": "abadpukurbalikabiddaloy@gmail.com",
+      "teacher_count": 132,
+      "file": "ABADPUKUR JUNIOUR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "123724",
+      "name": "AKNA BANSBARIA HLGH SCHDOL",
+      "name_bn": "আকনা বাঁশবাড়িয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01774890804",
+      "email": "s123724r@gmail.com",
+      "teacher_count": 212,
+      "file": "AKNA BANSBARIA HLGH SCHDOL.json"
+    },
+    {
+      "eiin": "123710",
+      "name": "ATAIKULA JANAKALLYAN HIGH SCHOOL",
+      "name_bn": "আতাইকুলা জণকল্যান উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01729617237",
+      "email": "s123710r@gmail.com",
+      "teacher_count": 214,
+      "file": "ATAIKULA JANAKALLYAN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123720",
+      "name": "BARAKHOL HIGH SCHOOL",
+      "name_bn": "বড়খোল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01736350268",
+      "email": "s123720r@gmail.com",
+      "teacher_count": 201,
+      "file": "BARAKHOL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123732",
+      "name": "BISHIA HIGH SCHOOL",
+      "name_bn": "বিশিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714930513",
+      "email": "s123732r@gmail.com",
+      "teacher_count": 152,
+      "file": "BISHIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123727",
+      "name": "DEULA MANIKHAR HIGH SCHOOL",
+      "name_bn": "দেউলা-মানিকহার উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716902419",
+      "email": "s123727r@gmail.com",
+      "teacher_count": 190,
+      "file": "DEULA MANIKHAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123708",
+      "name": "GHOSHGRAM KAFILIA HIGH SCHOOL",
+      "name_bn": "ঘোষগ্রাম কফিলিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714602297",
+      "email": "s123708r@gmail.com",
+      "teacher_count": 206,
+      "file": "GHOSHGRAM KAFILIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123707",
+      "name": "GOHELAPUR N. M. HIGH SCHOOL",
+      "name_bn": "গহেলাপুর এন.এম. উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713931836",
+      "email": "s123707r@gmail.com",
+      "teacher_count": 231,
+      "file": "GOHELAPUR N. M. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123725",
+      "name": "GONA HIGH SCHOOL",
+      "name_bn": "গোনা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712371334",
+      "email": "s123725r@gmail.com",
+      "teacher_count": 329,
+      "file": "GONA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123711",
+      "name": "GUATA HIGH SCHOOL",
+      "name_bn": "গুয়াতা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01736773628",
+      "email": "s123711r@gmail.com",
+      "teacher_count": 182,
+      "file": "GUATA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123716",
+      "name": "JALKAI JUNIOR HIGH SCHOOL",
+      "name_bn": "জলকৈ নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01713797189",
+      "email": "s123716r@gmail.com",
+      "teacher_count": 108,
+      "file": "JALKAI JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123714",
+      "name": "KALIGRAM HIGH SCHOOL",
+      "name_bn": "কালিগ্রাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740842452",
+      "email": "s123714r@gmail.com",
+      "teacher_count": 175,
+      "file": "KALIGRAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123705",
+      "name": "KAMTA S. N. HIGH SCHOOL",
+      "name_bn": "কামতা সত্যেন্দ্রনাথ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718857690",
+      "email": "ks123705@gmail.com",
+      "teacher_count": 254,
+      "file": "KAMTA S. N. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123730",
+      "name": "KANUZ ADARSHO HIGH SCHOOL",
+      "name_bn": "কনৌজ আদশ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719933681",
+      "email": "s123730r@gmail.com",
+      "teacher_count": 155,
+      "file": "KANUZ ADARSHO HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123718",
+      "name": "KARAJGRAM HIGH SCHOOL",
+      "name_bn": "করজগ্রাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01723783547",
+      "email": "s123718r@gmail.com",
+      "teacher_count": 192,
+      "file": "KARAJGRAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123726",
+      "name": "KUJAEEL GIRLS HIGH SCHOOL",
+      "name_bn": "কুজাইল বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01733178461",
+      "email": "s123726r@gmail.com",
+      "teacher_count": 193,
+      "file": "KUJAEEL GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123715",
+      "name": "MALSHAN GIRIGRAM HIGH SCHOOL",
+      "name_bn": "মালশন গিরিগ্রাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01761549013",
+      "email": "s123715r@gmail.com",
+      "teacher_count": 206,
+      "file": "MALSHAN GIRIGRAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123722",
+      "name": "MIRAT HIGH SCHOOL",
+      "name_bn": "মিরাট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01739900830",
+      "email": "s123722r@gmail.com",
+      "teacher_count": 204,
+      "file": "MIRAT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123729",
+      "name": "MODHUPUR HIGH SCHOOL",
+      "name_bn": "মধুপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719617003",
+      "email": "s123729r@gmail.com",
+      "teacher_count": 190,
+      "file": "MODHUPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123712",
+      "name": "PALSHA KRISHNAPUR HIGH SCHOOL",
+      "name_bn": "পালশা কৃষ্ণপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718854451",
+      "email": "s123712r@gmail.com",
+      "teacher_count": 208,
+      "file": "PALSHA KRISHNAPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123717",
+      "name": "PARAIL HIGH SCHOOL",
+      "name_bn": "পারইল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01759449567",
+      "email": "s123717r@gmail.com",
+      "teacher_count": 206,
+      "file": "PARAIL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130591",
+      "name": "PUTHIA AZIZUR RAHAMAN MEMORIAL ACADEMY",
+      "name_bn": "পুঠিয়া আজিজুর রহমান মেমোরিয়াল একাডেমি।",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01715507384",
+      "email": "s130591r@gmail.com",
+      "teacher_count": 130,
+      "file": "PUTHIA AZIZUR RAHAMAN MEMORIAL ACADEMY.json"
+    },
+    {
+      "eiin": "123719",
+      "name": "RANINAGAR GIRLS HIGH SCHOOL",
+      "name_bn": "রাণীনগর উচ্চ বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717006174",
+      "email": "s123719r@gmail.com",
+      "teacher_count": 257,
+      "file": "RANINAGAR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123706",
+      "name": "RANINAGAR PAILOT HIGH SCHOOL",
+      "name_bn": "রাণীনগর সরকারি পাইলট মডেল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718822139",
+      "email": "s123706r@gmail.com",
+      "teacher_count": 180,
+      "file": "RANINAGAR PAILOT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123704",
+      "name": "RATOWAL WORLD POET RABINDRANATH HIGH SCHOOL",
+      "name_bn": "রাতোয়াল বিশ্বকবি রবীন্দ্রনাথ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01762607874",
+      "email": "s123704r@gmail.com",
+      "teacher_count": 184,
+      "file": "RATOWAL WORLD POET RABINDRANATH HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123728",
+      "name": "SANJOYPUR JUNIOR HIGH SCHOOL",
+      "name_bn": "সনজয়পুর নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01712313990",
+      "email": "sonjoypurjs1996@yahoo.com",
+      "teacher_count": 112,
+      "file": "SANJOYPUR JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123723",
+      "name": "SHAFIKPUR HIGH SCHOOL",
+      "name_bn": "শফিকপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719404099",
+      "email": "s123723r@gmail.com",
+      "teacher_count": 239,
+      "file": "SHAFIKPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123713",
+      "name": "SHIALA HIGH SCHOOL",
+      "name_bn": "শিয়ালা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01728163390",
+      "email": "s123713r@gmail.com",
+      "teacher_count": 189,
+      "file": "SHIALA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123721",
+      "name": "TRIMOHANI HIGH SCHOOL",
+      "name_bn": "ত্রিমোহনী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01729369902",
+      "email": "s123721r@gmail.com",
+      "teacher_count": 220,
+      "file": "TRIMOHANI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "123733",
+      "name": "UNITED HIGH SCHOOL",
+      "name_bn": "ইউনাইটেড উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713772806",
+      "email": "s123733r@gmail.com",
+      "teacher_count": 203,
+      "file": "UNITED HIGH SCHOOL.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 526,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "পূর্ব্ব পাকিস্তান প্রদেশ পক্ষে কালেক্টর রাজশাহী",
+        "dags": "6,66,81,88,122,124,175,189,192,194,217,232,233,235,238,246,287,305,326,327,339,3",
+        "total_land": "36.48"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "বড় খোল প্রি প্রাইমারী স্কুল কমিটির পক্ষে চীফ একজিকিউটিভ অফিসার প্রাইমারী এডুকেশন রাজশাহী",
+        "dags": "40,128,130,410,418",
+        "total_land": "1.07"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আছিমদ্দিন সরদার,ইয়াদ আলী সরদার,ছিপাত আলী সরদার,সোবেদা খাতুন,ছাপিরন বেওয়া,রাবিয়া খাতুন",
+        "dags": "150,495",
+        "total_land": "0.54"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "কুড়িয়া পাড়া মসজিদ,কমিটির পক্ষে মোতয়ালী,দং অছিমুদ্দিন প্রামানিক",
+        "dags": "188/1241",
+        "total_land": "0.20"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "অনন্তভান বিবি",
+        "dags": "2282",
+        "total_land": "0.73"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "অনন্তভান বিবি",
+        "dags": "2281,2296,2375,2379",
+        "total_land": "1.86"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "অবিজান বিবি,ছিফাতুল্যা প্রামানিক",
+        "dags": "2093,2096",
+        "total_land": "0.53"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "অবিজান বিবি,সুকমন বেওয়া",
+        "dags": "1234",
+        "total_land": "0.14"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আজফা বিবি,আলেয়া বিবি,সুপিয়া খাতুন,মোহন নেছা,মির বকস,মতিজান",
+        "dags": "2381",
+        "total_land": "0.26"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "অমৃত লাল চৌধুরী",
+        "dags": "2274,2291",
+        "total_land": "1.83"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্কেল আলী প্রামানিক,তাছের আলী প্রামানিক,খয়ের আলী প্রামানিক,দসরত আলী,আছির প্রামানিক,রিজিয়া খাতুন",
+        "dags": "86,147,227,396,834,979,1142",
+        "total_land": "1.02"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আকালু সাকিনদার,একাব্বর আলী সাকিনদার,ইয়াকুব আলী সাকিনদার,পয়মন বিবি,কাছু বিবি,গুলজান বিবি",
+        "dags": "149",
+        "total_land": "0.23"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্কাছ প্রামানিক,মুজাহার প্রামানিক,ময়না বেওয়া",
+        "dags": "126",
+        "total_land": "0.12"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্কাছ আলী প্রামানিক,মুজাহার প্রামানিক,ময়না বেওয়া,আবদুল আজিজ মোল্লা,আবদুল রশিদ মোল্লা,জোনাব আলী মোল্লা,মহিরন বেওয়া,কাবেজান বিবি,আলেজান বিবি,আয়াজ মোল্লা,আমজাদ মো",
+        "dags": "319,1112,321,963,1093,406,409,562,566,455,2009,2014,2010,2015,2011,2013,2017,201",
+        "total_land": "3.69"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্কাছ আলী প্রামানিক,মোজাহার প্রামানিক,খিরজান বিবি",
+        "dags": "490,560,568,593,943,945,1065,1152,1153",
+        "total_land": "2.48"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্কেল আলী আকন্দ,আছন আলী আকন্দ",
+        "dags": "789",
+        "total_land": "0.26"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্কেল আলী সরদার",
+        "dags": "2380",
+        "total_land": "0.58"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আকবর আলী সরদার,আশেক আলী সরদার,আয়জান বিবি,তানা আত্রাই",
+        "dags": "2437",
+        "total_land": "0.96"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্রাম আলী মোল্লা",
+        "dags": "2184",
+        "total_land": "0.66"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "বড়খোল",
+        "jl_no": "1",
+        "owners": "আক্রাম আলী মোল্লা,জয়নাল আবদীন মোল্লা,আহশান আলী মোল্লা,জাহেদ আলী",
+        "dags": "2200",
+        "total_land": "0.54"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "বালুভরা",
+        "jl_no": "1",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "পলিবাহাদুরপুর",
+        "jl_no": "2",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "চকমনু",
+        "jl_no": "3",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "চক কুতুব",
+        "jl_no": "4",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "চক আদিন",
+        "jl_no": "5",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "এনায়েতপুর",
+        "jl_no": "6",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "কাশিমপুর",
+        "jl_no": "7",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "চককুজাইল",
+        "jl_no": "8",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "দুর্গাপুর",
+        "jl_no": "9",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "সবর্বরামপুর",
+        "jl_no": "10",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "খট্টেশ্বর রাণীনগর",
+        "jl_no": "13",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "রনসিঙ্গা",
+        "jl_no": "14",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "ভুতপাড়ারাজাপুর",
+        "jl_no": "15",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "বেলবাড়ী",
+        "jl_no": "16",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "ভগবানপুর",
+        "jl_no": "17",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "গোনা",
+        "jl_no": "19",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "ক্ষিদ্র চাপড়া",
+        "jl_no": "20",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "রাতুয়া",
+        "jl_no": "21",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "পিরেরা",
+        "jl_no": "22",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "ভবানীপুর",
+        "jl_no": "23",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "ঘোষগাঁও",
+        "jl_no": "25",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "কাজিপাড়া",
+        "jl_no": "26",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "মালঞ্চি",
+        "jl_no": "27",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "নন্দবাড়ী",
+        "jl_no": "28",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "কৃষ্ণপুর",
+        "jl_no": "29",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "পশ্চিম গোবিন্দপুর",
+        "jl_no": "43",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "খাজুরিয়া",
+        "jl_no": "44",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "আরজী গহেলাপুর",
+        "jl_no": "45",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "কচুয়া",
+        "jl_no": "46",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      },
+      {
+        "mouza_name": "লোহাচুড়া",
+        "jl_no": "47",
+        "survey": "CS",
+        "upazila": "RANINAGAR"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/2:/",
+      "district_drive_url": "https://free.mouzamap.tech/2:/Naogaon/",
+      "district_total_maps": 4644,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 49.651,
+      "catalog_github_path": "land/maps/Rajshahi/Naogaon.json",
+      "online_folder_url": "https://free.mouzamap.tech/2:/Naogaon/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Naogaon",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Naogaon",
+        "phone": "01713-000034",
+        "email": "dcnaogaon@mopa.gov.bd",
+        "website": "http://www.naogaon.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Naogaon",
+        "phone": "01713-373034",
+        "email": "spnaogaon@police.gov.bd",
+        "control_room": "01713-374034"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Naogaon",
+        "phone": "01713-555034",
+        "email": "csnaogaon@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "46",
+        "name": {
+          "en": "Noagoan-1",
+          "bn": "নওগাঁ-১"
+        },
+        "total_voters": 474067
+      },
+      {
+        "code": "47",
+        "name": {
+          "en": "Noagoan-2",
+          "bn": "নওগাঁ-২"
+        },
+        "total_voters": 372436
+      },
+      {
+        "code": "48",
+        "name": {
+          "en": "Noagoan-3",
+          "bn": "নওগাঁ-৩"
+        },
+        "total_voters": 440785
+      },
+      {
+        "code": "49",
+        "name": {
+          "en": "Noagoan-4",
+          "bn": "নওগাঁ-৪"
+        },
+        "total_voters": 333862
+      },
+      {
+        "code": "50",
+        "name": {
+          "en": "Noagoan-5",
+          "bn": "নওগাঁ-৫"
+        },
+        "total_voters": 363030
+      },
+      {
+        "code": "51",
+        "name": {
+          "en": "Noagoan-6",
+          "bn": "নওগাঁ-৬"
+        },
+        "total_voters": 345416
+      }
+    ],
+    "upazila_portal": "raninagar.naogaon.gov.bd",
+    "district_portal": "http://www.naogaon.gov.bd",
+    "union_portals_count": 8,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

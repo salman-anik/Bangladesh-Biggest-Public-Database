@@ -1,1 +1,2526 @@
-{"division": "Dhaka", "district": "Faridpur", "upazila": "Faridpur Sadar", "upazila_slug": "dhaka__faridpur__faridpur_sadar", "geography": {"division": "Dhaka", "division_bn": "ঢাকা", "district": "Faridpur", "district_bn": "ফরিদপুর", "district_lat": "23.6070822", "district_lon": "89.8429406", "upazila_id": "390", "upazila": "Faridpur Sadar", "upazila_bn": "ফরিদপুর সদর", "official_url": "sadar.faridpur.gov.bd", "total_unions": 11, "unions": [{"id": "3569", "name": "Ishangopalpur", "bn_name": "ঈশানগোপালপুর", "url": "ishangopalpurup.faridpur.gov.bd"}, {"id": "3570", "name": "Charmadbdia", "bn_name": "চরমাধবদিয়া", "url": "charmadbdiaup.faridpur.gov.bd"}, {"id": "3571", "name": "Aliabad", "bn_name": "আলিয়াবাদ", "url": "aliabadup.faridpur.gov.bd"}, {"id": "3572", "name": "Uttarchannel", "bn_name": "নর্থচ্যানেল", "url": "uttarchannelup.faridpur.gov.bd"}, {"id": "3573", "name": "Decreerchar", "bn_name": "ডিক্রিরচর", "url": "decreercharup.faridpur.gov.bd"}, {"id": "3574", "name": "Majchar", "bn_name": "মাচ্চর", "url": "majcharup.faridpur.gov.bd"}, {"id": "3575", "name": "Krishnanagar", "bn_name": "কৃষ্ণনগর", "url": "krishnanagarup.faridpur.gov.bd"}, {"id": "3576", "name": "Ambikapur", "bn_name": "অম্বিকাপুর", "url": "ambikapurup.faridpur.gov.bd"}, {"id": "3577", "name": "Kanaipur", "bn_name": "কানাইপুর", "url": "kanaipurup.faridpur.gov.bd"}, {"id": "3578", "name": "Kaijuri", "bn_name": "কৈজুরী", "url": "kaijuriup.faridpur.gov.bd"}, {"id": "3579", "name": "Greda", "bn_name": "গেরদা", "url": "gredaup.faridpur.gov.bd"}], "total_post_offices": 4, "postal_codes": [{"postcode": "7802", "postcode_bn": "৭৮০২", "sub_office": "Ambikapur", "sub_office_bn": "অম্বিকাপুর"}, {"postcode": "7803", "postcode_bn": "৭৮০৩", "sub_office": "Baitulaman Politecni", "sub_office_bn": "বাইতুলমান পলিটেকনিক"}, {"postcode": "7800", "postcode_bn": "৭৮০০", "sub_office": "Faridpursadar", "sub_office_bn": "ফরিদপুর সদর"}, {"postcode": "7801", "postcode_bn": "৭৮০১", "sub_office": "Kanaipur", "sub_office_bn": "কানাইপুর"}]}, "stats": {"education_count": 120, "healthcare_count": 15, "banking_count": 5, "police_count": 1, "fire_count": 1, "unions_count": 11, "postcodes_count": 4, "land_khatians_count": 25, "mouzas_count": 769}, "education": [{"eiin": "108803", "name": "ALHAJ ABDUL KHALEQUE COLLEGE", "name_bn": "আলহাজ্ব আবদুল খালেক কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01916153540", "email": "aakdcf@gmail.com", "teacher_count": 0, "file": "ALHAJ ABDUL KHALEQUE COLLEGE.json"}, {"eiin": "108801", "name": "BAKHUNDA COLLEGE", "name_bn": "বাখুন্ডা কলেজ, ফরিদপুর", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01740890872", "email": "bakhundacollege@yahoo.com", "teacher_count": 0, "file": "BAKHUNDA COLLEGE.json"}, {"eiin": "108796", "name": "ENGINEER KHANDKER MOSHARRAF HOSSAIN COLLEGE", "name_bn": "ইঞ্জিনিয়ার খন্দকার মোশাররফ হোসেন কলেজ", "type": "COLLEGE", "level": "Masters", "category": "college", "mobile": "01720529225", "email": "ekmhcf@gmail.com", "teacher_count": 0, "file": "ENGINEER KHANDKER MOSHARRAF HOSSAIN COLLEGE.json"}, {"eiin": "108798", "name": "FARIDPUR CITY COLLEGE", "name_bn": "ফরিদপুর সিটি কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01711468736", "email": "faridpurcityc@gmail.com", "teacher_count": 0, "file": "FARIDPUR CITY COLLEGE.json"}, {"eiin": "132785", "name": "FARIDPUR GOVT. COLLEGE", "name_bn": "ফরিদপুর সরকারি কলেজ, ফরিদপুর", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01712614730", "email": "faridpurgovtcollege@gmail.com", "teacher_count": 0, "file": "FARIDPUR GOVT. COLLEGE.json"}, {"eiin": "108800", "name": "FARIDPUR MUSLIM MISSION COLLEGE", "name_bn": "ফরিদপুর মুসলিম মিশন কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01716479866", "email": "fmmceducation@gmail.com", "teacher_count": 0, "file": "FARIDPUR MUSLIM MISSION COLLEGE.json"}, {"eiin": "108794", "name": "GOVT SARADA SUNDARI MOHILA COLLEGE", "name_bn": "সরকারি সারদা সুন্দরী মহিলা কলেজ", "type": "COLLEGE", "level": "Masters", "category": "college", "mobile": "01716245725", "email": "govtsaradasundari@gmail.com", "teacher_count": 0, "file": "GOVT SARADA SUNDARI MOHILA COLLEGE.json"}, {"eiin": "108797", "name": "GOVT. RAJENDRA COLLEGE FARIPUR", "name_bn": "সরকারি রাজেন্দ্র কলেজ, ফরিদপুর", "type": "COLLEGE", "level": "Masters", "category": "college", "mobile": "01711073711", "email": "rajendracollege@yahoo.com", "teacher_count": 0, "file": "GOVT. RAJENDRA COLLEGE FARIPUR.json"}, {"eiin": "108795", "name": "GOVT. YASIN COLLEGE FARIDPUR", "name_bn": "সরকারি ইয়াছিন কলেজ, ফরিদপুর।", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01716743172", "email": "yasincollege@yahoo.com", "teacher_count": 0, "file": "GOVT. YASIN COLLEGE FARIDPUR.json"}, {"eiin": "135343", "name": "HAZI ABUL HOSSAIN COLLEGE", "name_bn": "হাজী আবুল হোসেন কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01767411936", "email": "haziabulhossaincollege@gmail.com", "teacher_count": 0, "file": "HAZI ABUL HOSSAIN COLLEGE.json"}, {"eiin": "108783", "name": "AZIZUL ULUM DAKHIL MADRASHA", "name_bn": "আজিজুল উলুম দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01718751577", "email": "mesba1975@gmail.com", "teacher_count": 0, "file": "AZIZUL ULUM DAKHIL MADRASHA.json"}, {"eiin": "108782", "name": "BHUARKANDI DAKHIL MADRASHA", "name_bn": "ভূয়ারকান্দি দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01736347810", "email": "bhuarkandidakhilmadrasah108782@gmail.com", "teacher_count": 0, "file": "BHUARKANDI DAKHIL MADRASHA.json"}, {"eiin": "108784", "name": "FARIDPUR MUSLIM MISSION DAKHIL MADRASHA", "name_bn": "ফরিদপুর মুসলিম মিশন দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01710989845", "email": "habibur556@gmail.com", "teacher_count": 0, "file": "FARIDPUR MUSLIM MISSION DAKHIL MADRASHA.json"}, {"eiin": "108781", "name": "GERDA AINUL ULUM MADRASHA", "name_bn": "গেরদা আইনুল উলুম দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01734395171", "email": "gerdaainululummd@gmail.com", "teacher_count": 0, "file": "GERDA AINUL ULUM MADRASHA.json"}, {"eiin": "140137", "name": "IDEAL DAKHIL MADRASHA", "name_bn": "আইডিয়াল দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01715868350", "email": "ideal.madrasah.2009@gmail.com", "teacher_count": 0, "file": "IDEAL DAKHIL MADRASHA.json"}, {"eiin": "108789", "name": "KOSHA GOPAL PUR MUAZZAMIAH DAKHIL MADRASHA", "name_bn": "কোশাগোপালপুর মোয়াজ্জেমিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01721458329", "email": "kmdm108789@gmail.com", "teacher_count": 0, "file": "KOSHA GOPAL PUR MUAZZAMIAH DAKHIL MADRASHA.json"}, {"eiin": "108790", "name": "PASCHIM BILNALIA DAKHIL MADRASHA", "name_bn": "পশ্চিম বিলনালিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01726490185", "email": "paschimbilnaiad@gmail.com", "teacher_count": 0, "file": "PASCHIM BILNALIA DAKHIL MADRASHA.json"}, {"eiin": "131676", "name": "SALMAN FARSI DAKHIL MADRAHA AND SHISU ODON", "name_bn": "সালমান ফারসী (রা:) দাখিল মাদরাসা ও শিশু সদন", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01752109106", "email": "salmanfarshi131676@gmail.com", "teacher_count": 0, "file": "SALMAN FARSI DAKHIL MADRAHA AND SHISU ODON.json"}, {"eiin": "108791", "name": "SHOLAKONDA KARAMOTIA DAKHIL MADRASHA", "name_bn": "শোলাকুন্ডু কেরামতিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01746221470", "email": "sholakundakdmadrasah@gmail.com", "teacher_count": 0, "file": "SHOLAKONDA KARAMOTIA DAKHIL MADRASHA.json"}, {"eiin": "108788", "name": "BAKIGONJ ISLAMIA FAZIL MADRASHA", "name_bn": "বাকিগঞ্জ ইসলামিয়া কামিল মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01712931058", "email": "bakiganjmadrasah42@gmail.com", "teacher_count": 0, "file": "BAKIGONJ ISLAMIA FAZIL MADRASHA.json"}, {"eiin": "108786", "name": "BISMILLASHA DARGAH ALIM MADRASAH", "name_bn": "বিসমিল্লাহ শাহ দরগাহ ফাজিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01797011098", "email": "bsm108786@gmail.com", "teacher_count": 0, "file": "BISMILLASHA DARGAH ALIM MADRASAH.json"}, {"eiin": "108785", "name": "FARIDPUR CHUNAGHATA ALIM MADRASAH", "name_bn": "ফরিদপুর চুনাঘাটা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01771391522", "email": "fcdm2000@gmail.com", "teacher_count": 0, "file": "FARIDPUR CHUNAGHATA ALIM MADRASAH.json"}, {"eiin": "108792", "name": "HAKKANI DORBAR SHARIF DHAKIL MADRASHA", "name_bn": "হাক্কানী দরবার শরীফ আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01716301268", "email": "hakkanidarbarsharifamm@gmail.com", "teacher_count": 0, "file": "HAKKANI DORBAR SHARIF DHAKIL MADRASHA.json"}, {"eiin": "108787", "name": "SOBJAN NESSA MOHILA FAZIL MADRSASHA", "name_bn": "সবজাননেসা মহিলা কামিল মাদ্রাসা", "type": "MADRASHA", "level": "Kamil", "category": "madrasa_other", "mobile": "01727013853", "email": "sabjannesamkamilmadrasha@gmail.com", "teacher_count": 0, "file": "SOBJAN NESSA MOHILA FAZIL MADRSASHA.json"}, {"eiin": "138233", "name": "ADARSO POLYTECHNIC INSTITUTE", "name_bn": "আদর্শ পলিটেকনিক ইনস্টিটিউট", "type": null, "level": null, "category": "other", "mobile": "01720452981", "email": null, "teacher_count": 0, "file": "ADARSO POLYTECHNIC INSTITUTE.json"}, {"eiin": "132527", "name": "AGRICULTURE TARAINING INSTITUTE", "name_bn": "কৃষি প্রশিক্ষণ ইনস্টিটিউট, ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01712921357", "email": null, "teacher_count": 0, "file": "AGRICULTURE TARAINING INSTITUTE.json"}, {"eiin": "132457", "name": "BANGLADESH COMPUTER AND MANAGEMENT INSTITUTE", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01711197534", "email": null, "teacher_count": 0, "file": "BANGLADESH COMPUTER AND MANAGEMENT INSTITUTE.json"}, {"eiin": "139923", "name": "BOKAIL IDEAL TECHNICAL ACADEMY", "name_bn": "বোকাইল আইডিয়াল টেকনিক্যাল একাডেমি", "type": null, "level": null, "category": "other", "mobile": "01995155930", "email": null, "teacher_count": 0, "file": "BOKAIL IDEAL TECHNICAL ACADEMY.json"}, {"eiin": "133472", "name": "DIABETIC ASSOCIATION NURSING , DIABETIC ASSOCIATION HOSPITAL, FARIDPUR", "name_bn": "ডায়াবেটিক এসোসিয়েশন নার্সিং ইনস্টিটিউট, ডায়াবেটিক এসোসিয়েশন মেডিকেল কলেজ হাসপাতাল, ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01712742504", "email": null, "teacher_count": 0, "file": "DIABETIC ASSOCIATION NURSING , DIABETIC ASSOCIATION HOSPITAL, FARIDPUR.json"}, {"eiin": "132316", "name": "FARIDOPUR POLYTECHNIC INSTITUE", "name_bn": "ফরিদপুর পলিটেকনিক ইনস্টিটিউট, ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01712256087", "email": null, "teacher_count": 0, "file": "FARIDOPUR POLYTECHNIC INSTITUE.json"}, {"eiin": "133464", "name": "FARIDPUR HOMOEPATHY MEDICAL COLLEGE AND HOSPITAL", "name_bn": "ফরিদপুর হোমিওপ্যাথি মেডিকেল কলেজ ও হাসপাতাল", "type": null, "level": null, "category": "other", "mobile": "01716470997", "email": null, "teacher_count": 0, "file": "FARIDPUR HOMOEPATHY MEDICAL COLLEGE AND HOSPITAL.json"}, {"eiin": "135458", "name": "FARIDPUR INSTITUTE OF ENGINEERING AND TECHNOLOGY (FIET)", "name_bn": "ফরিদপুর ইন্সটিটিউট অব ইঞ্জিনিয়ারিং এ্যান্ড টেকনোলজি(ফিয়েট)", "type": null, "level": null, "category": "other", "mobile": "01712088229", "email": null, "teacher_count": 0, "file": "FARIDPUR INSTITUTE OF ENGINEERING AND TECHNOLOGY (FIET).json"}, {"eiin": "135935", "name": "FARIDPUR INSTITUTE OF INFORMATION TECHNOLOGY", "name_bn": "ফরিদপুর ইন্সটিটিউট অব ইনফরমেশন টেকনোলজি", "type": null, "level": null, "category": "other", "mobile": "01724527614", "email": null, "teacher_count": 0, "file": "FARIDPUR INSTITUTE OF INFORMATION TECHNOLOGY.json"}, {"eiin": "133572", "name": "FARIDPUR LAW COLLEGE", "name_bn": "ফরিদপুর আইন মহাবিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01716986657", "email": null, "teacher_count": 0, "file": "FARIDPUR LAW COLLEGE.json"}, {"eiin": "139749", "name": "FARIDPUR TEXTILE INSTITUTE FARIDPUR", "name_bn": "ফরিদপুর টেক্সটাইল ইনস্টিটিউট, ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01979412064", "email": null, "teacher_count": 0, "file": "FARIDPUR TEXTILE INSTITUTE FARIDPUR.json"}, {"eiin": "132812", "name": "GERDA ISLAMI ACADEMY TECNICAL AND BUSINESS AMANGEMENT COLLAGE", "name_bn": "গেরদা ইসলামী একাডেমী টেকনিকেল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01721933026", "email": null, "teacher_count": 0, "file": "GERDA ISLAMI ACADEMY TECNICAL AND BUSINESS AMANGEMENT COLLAGE.json"}, {"eiin": "138049", "name": "GLORIOUS POLYTECHNIC INSTITUTE", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01739940390", "email": null, "teacher_count": 0, "file": "GLORIOUS POLYTECHNIC INSTITUTE.json"}, {"eiin": "140525", "name": "GOVERNMENT HEARING IMPAIREAD SCHOOL", "name_bn": "সরকারি বাক্-শ্রবণ প্রতিবন্ধী বিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01757994442", "email": null, "teacher_count": 0, "file": "GOVERNMENT HEARING IMPAIREAD SCHOOL.json"}, {"eiin": "133293", "name": "GOVT. TEACHER'S TRAINING COLLEGE, FARIDPUR", "name_bn": "সরকারি টিচার্স ট্রেনিং কলেজ, ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01711456240", "email": null, "teacher_count": 0, "file": "GOVT. TEACHER'S TRAINING COLLEGE, FARIDPUR.json"}, {"eiin": "140142", "name": "GRASSROOTS COLLEGE OF TECHNOLOGY", "name_bn": "গ্রাসরুটস কলেজ অব টেকনোলজি", "type": null, "level": null, "category": "other", "mobile": "01715097829", "email": null, "teacher_count": 0, "file": "GRASSROOTS COLLEGE OF TECHNOLOGY [140142].json"}, {"eiin": "132916", "name": "GRASSROOTS COLLEGE OF TECHNOLOGY", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01727844632", "email": null, "teacher_count": 0, "file": "GRASSROOTS COLLEGE OF TECHNOLOGY.json"}, {"eiin": "136003", "name": "IDEAL COMPUTER", "name_bn": "আইডিয়াল কম্পিউটার", "type": null, "level": null, "category": "other", "mobile": "01868887578", "email": null, "teacher_count": 0, "file": "IDEAL COMPUTER.json"}, {"eiin": "132798", "name": "J M MODEL TECHERS TRAINING COLLEGE", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01714564272", "email": null, "teacher_count": 0, "file": "J M MODEL TECHERS TRAINING COLLEGE.json"}, {"eiin": "140546", "name": "JOHURA GIAS JUNIOR SCHOOL", "name_bn": "জহুরা গিয়াস জুনিয়র স্কুল", "type": null, "level": null, "category": "other", "mobile": "01731523839", "email": null, "teacher_count": 0, "file": "JOHURA GIAS JUNIOR SCHOOL.json"}, {"eiin": "132529", "name": "NATIONAL POLYTECHNIC INSTITUTE", "name_bn": "ন্যাশনাল পলিটেকনিক ইনস্টিটিউট ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01711707973", "email": null, "teacher_count": 0, "file": "NATIONAL POLYTECHNIC INSTITUTE.json"}, {"eiin": "133563", "name": "NURSING INSTITUTE, FARIDPUR", "name_bn": "নার্সিং ও মিডওয়াইফারি কলেজ ফরিদপুর", "type": null, "level": null, "category": "other", "mobile": "01725945343", "email": null, "teacher_count": 0, "file": "NURSING INSTITUTE, FARIDPUR.json"}, {"eiin": "136005", "name": "ORNET IT CENTER", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01724527614", "email": null, "teacher_count": 0, "file": "ORNET IT CENTER.json"}, {"eiin": "135936", "name": "PERFECT COMPUTER ACADEMY AND DIGITAL IT", "name_bn": "পারফেক্ট কম্পিউটার একাডমি এন্ড ডিজিটাল আইটি", "type": null, "level": null, "category": "other", "mobile": "01780186318", "email": null, "teacher_count": 0, "file": "PERFECT COMPUTER ACADEMY AND DIGITAL IT.json"}, {"eiin": "133275", "name": "PRIMARY TEACHER'S TRAINING INSTITUTE, FARIDPUR", "name_bn": "প্রাইমারি টিচার্স ট্রেনিং ইনস্টিটিউট, ফরিদপুর।", "type": null, "level": null, "category": "other", "mobile": "01712712930", "email": null, "teacher_count": 0, "file": "PRIMARY TEACHER'S TRAINING INSTITUTE, FARIDPUR.json"}, {"eiin": "135937", "name": "SMART COMPUTER AND TECHNICAL TRAINING INSTITUTE", "name_bn": "স্মাট কম্পিউটার এন্ড টেকনিক্যাল ট্রেনিং ইনষ্টিটিউট", "type": null, "level": null, "category": "other", "mobile": "01724586411", "email": null, "teacher_count": 0, "file": "SMART COMPUTER AND TECHNICAL TRAINING INSTITUTE.json"}, {"eiin": "133282", "name": "SUNFLOWER TEACHERS TRANING COLLAGE", "name_bn": "সানফ্লাওয়ার টিচার্স ট্রেনিং কলেজ", "type": null, "level": null, "category": "other", "mobile": "01976540270", "email": null, "teacher_count": 0, "file": "SUNFLOWER TEACHERS TRANING COLLAGE.json"}, {"eiin": "133141", "name": "TECHNICAL TRAINING CENTRE FARIDPUR", "name_bn": "ফরিদপুর কারিগরি প্রশিক্ষণ কেন্দ্র", "type": null, "level": null, "category": "other", "mobile": "01716280022", "email": null, "teacher_count": 0, "file": "TECHNICAL TRAINING CENTRE FARIDPUR.json"}, {"eiin": "132501", "name": "TEXTILE VOCATIONAL INSTITUTE", "name_bn": "টেক্সটােইল ভোকেশনাল ইনস্টিটিউট", "type": null, "level": null, "category": "other", "mobile": "01557245349", "email": null, "teacher_count": 0, "file": "TEXTILE VOCATIONAL INSTITUTE.json"}, {"eiin": "137107", "name": "AYJUDDIN MATUBBOR KANDI GOVT. PRIMARY SCHOOL", "name_bn": "আইজদ্দিন মাতুব্বর কান্দি সরকারি প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01778788164", "email": "amkgps8@gmail.com", "teacher_count": 132, "file": "AYJUDDIN MATUBBOR KANDI GOVT. PRIMARY SCHOOL.json"}, {"eiin": "136712", "name": "TIMES UNIVERSITY OF BANGLADESH", "name_bn": "টাইমস ইউনিভার্সিটি বাংলাদেশ", "type": "PRIVATE UNIVERSITY", "level": "Masters", "category": "private_university", "mobile": "01771766591", "email": "tubbangladesh@gmail.com", "teacher_count": 0, "file": "TIMES UNIVERSITY OF BANGLADESH.json"}, {"eiin": "108766", "name": "ABDUL KHALEQUE HIGH SCHOOL", "name_bn": "আবদুল খালেক উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714744699", "email": "akhighschool5070@yahoo.com", "teacher_count": 262, "file": "ABDUL KHALEQUE HIGH SCHOOL.json"}, {"eiin": "130772", "name": "ADAMPUR SHAHJUDDIN MONDOL HIGH SCHOOL", "name_bn": "আদমপুর শাহাজদ্দিন মন্ডল হাই স্কুল", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01772196167", "email": "aacademy2007@gmail.com", "teacher_count": 165, "file": "ADAMPUR SHAHJUDDIN MONDOL HIGH SCHOOL.json"}, {"eiin": "108742", "name": "ADARSHA GIRLS HIGH SCHOOL", "name_bn": "আদর্শ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718724228", "email": "jainulabedin74@gmail.com", "teacher_count": 283, "file": "ADARSHA GIRLS HIGH SCHOOL.json"}, {"eiin": "140252", "name": "ADVENTIST INTERNATIONAL MISSION SCHOOL", "name_bn": "অ্যাড্ভেন্টিস্ট ইন্টারন্যাশনাল মিশন স্কুল (ইংলিশ ভার্সন)", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01958461138", "email": "aimsfaridpur9@gmail.com", "teacher_count": 32, "file": "ADVENTIST INTERNATIONAL MISSION SCHOOL.json"}, {"eiin": "108769", "name": "ALHAJ M A AZIZ HIGH SCHOOL", "name_bn": "আলহাজ্জ্ব এম. এ আজিজ হাই স্কূল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712558084", "email": "enamulhq5@gmail.com", "teacher_count": 170, "file": "ALHAJ M A AZIZ HIGH SCHOOL.json"}, {"eiin": "108773", "name": "\"AMEDER SCHOOL\" MONGOL KOT HIGH SCHOOL", "name_bn": "আমাদের স্কুল মঙ্গলকোট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720081714", "email": "amaderschoolmongolkot@gmail.com", "teacher_count": 198, "file": "AMEDER SCHOOL MONGOL KOT HIGH SCHOOL.json"}, {"eiin": "108744", "name": "ANSERUDDIN HIGH SCHOOL", "name_bn": "আনছার উদ্দিন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717485560", "email": "sheikhmazafar@gmail.com", "teacher_count": 237, "file": "ANSERUDDIN HIGH SCHOOL.json"}, {"eiin": "108771", "name": "BAITUL AMAN ADARSHAW ACADEMY", "name_bn": "বায়তুল আমান আদর্শ একাডেমী", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718129312", "email": "baitulaman1234@gmail.com", "teacher_count": 155, "file": "BAITUL AMAN ADARSHAW ACADEMY.json"}, {"eiin": "108733", "name": "BAITUL MOKADDEM INSTITUTE HIGH SCHOOL", "name_bn": "বায়তুল মোকাদ্দেম ইন্সটিটিউট", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715286862", "email": "bmihs1982@gmail.com", "teacher_count": 248, "file": "BAITUL MOKADDEM INSTITUTE HIGH SCHOOL.json"}, {"eiin": "108737", "name": "BAKHUNDA HIGH SCHOOL", "name_bn": "বাখুন্ডা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711516859", "email": "bakhundahs@gmail.com", "teacher_count": 202, "file": "BAKHUNDA HIGH SCHOOL.json"}, {"eiin": "108740", "name": "BEGUM ROKEYA KISHOLOYA GIRL'S HIGH SCHOOL", "name_bn": "বেগম রোকেয়া কিশলয় বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712584074", "email": "begumrokeyaghs@gmail.com", "teacher_count": 240, "file": "BEGUM ROKEYA KISHOLOYA GIRL'S HIGH SCHOOL.json"}, {"eiin": "133883", "name": "BHASANCHAR HAMID NAGAR HIGH SCHOOL", "name_bn": "ভাষানচর হামিদ নগর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724415298", "email": "bhnhighschool01@gmail.com", "teacher_count": 166, "file": "BHASANCHAR HAMID NAGAR HIGH SCHOOL.json"}, {"eiin": "108776", "name": "BONOGRAM HIGH SCHOOL", "name_bn": "বনগ্রাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717005496", "email": "bohschool4@gmail.com", "teacher_count": 170, "file": "BONOGRAM HIGH SCHOOL.json"}, {"eiin": "108755", "name": "CHAR TEPAKHOLA HIGH SCHOOL", "name_bn": "চর টেপাখোলা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01705797166", "email": "abusayeem2014@gmail.com", "teacher_count": 231, "file": "CHAR TEPAKHOLA HIGH SCHOOL.json"}, {"eiin": "108760", "name": "CHARMADHABDIA UNITED HIGH SCHOOL", "name_bn": "চরমাধবদিয়া ইউনাইটেড উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01782620023", "email": "cmuhs0012@gmail.com", "teacher_count": 184, "file": "CHARMADHABDIA UNITED HIGH SCHOOL.json"}, {"eiin": "108779", "name": "DHULDI ABDUL KUDDUS MUNSHI HIGH SCHOOL", "name_bn": "ধুলদী আব্দুল কুদ্দস মুন্সী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716631888", "email": "sujonahmed1888@gmail.com", "teacher_count": 127, "file": "DHULDI ABDUL KUDDUS MUNSHI HIGH SCHOOL.json"}, {"eiin": "108749", "name": "DOMRAKANDI HGIH SCHOOL", "name_bn": "ডোমরাকান্দি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712605593", "email": "domrakandihighschool2017@gmail.com", "teacher_count": 249, "file": "DOMRAKANDI HGIH SCHOOL.json"}, {"eiin": "108745", "name": "FARIDPUR GOVT GIRL'S HIGH SCHOOL", "name_bn": "ফরিদপুর সরকারি বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01777355236", "email": "faridpurgghs@gmail.com", "teacher_count": 675, "file": "FARIDPUR GOVT GIRL'S HIGH SCHOOL.json"}, {"eiin": "108729", "name": "FARIDPUR HIGH SCHOOL", "name_bn": "ফরিদপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718588120", "email": "faridpurhlghschool@gmail.com", "teacher_count": 256, "file": "FARIDPUR HIGH SCHOOL.json"}, {"eiin": "108732", "name": "FARIDPUR ZILLA SCHOOL", "name_bn": "ফরিদপুর জিলা স্কুল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716964075", "email": "faridpurzillaschool@yahoo.com", "teacher_count": 735, "file": "FARIDPUR ZILLA SCHOOL.json"}, {"eiin": "108759", "name": "GERDA A. F. MUJIBUR RAHMAN MADHYAMIK BIDYALAYA", "name_bn": "গেরদা এ, এফ, মুজিবুর রহমান মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712742756", "email": "gafmrmb@gmail.com", "teacher_count": 195, "file": "GERDA A. F. MUJIBUR RAHMAN MADHYAMIK BIDYALAYA.json"}, {"eiin": "130853", "name": "GOLAP BAG LATIFUNNESSA GIRLS HIGH SCHOOL", "name_bn": "গোলাপবাগ লতিফুন নেছা বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01727182849", "email": "golapbaglatifunnessagirlshighs@gmail.com", "teacher_count": 120, "file": "GOLAP BAG LATIFUNNESSA GIRLS HIGH SCHOOL.json"}, {"eiin": "130854", "name": "HABELI DOIRAMPUR JUNIOR HIGH SCHOOL", "name_bn": "হাবেলী দয়ারামপুর নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01923680587", "email": "habelidoirampurjrhighschool@gmail.com", "teacher_count": 112, "file": "HABELI DOIRAMPUR JUNIOR HIGH SCHOOL.json"}, {"eiin": "108757", "name": "HAT GOBINDA PUR HIGH SCHOOL", "name_bn": "হাট গোবিন্দপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714542942", "email": "hatgobindapurhighschool@yahoo.com", "teacher_count": 201, "file": "HAT GOBINDA PUR HIGH SCHOOL.json"}, {"eiin": "108747", "name": "HITAISHI HIGH SCHOOL", "name_bn": "হিতৈষী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715796303", "email": "hitaishischool@gmail.com", "teacher_count": 195, "file": "HITAISHI HIGH SCHOOL.json"}, {"eiin": "108746", "name": "ISHAN GIRLS HIGH SCHOOL", "name_bn": "ঈশান বালিকা উচ্চ বিদ্যাল, ফরিদপুর", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716403376", "email": "ishangirlshighschool@gmail.com", "teacher_count": 194, "file": "ISHAN GIRLS HIGH SCHOOL.json"}, {"eiin": "108761", "name": "ISHAN INSTITUTION", "name_bn": "ঈশান ইনস্টিটিউশন", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715314494", "email": "ishaninstitution76@yahoo.com", "teacher_count": 284, "file": "ISHAN INSTITUTION.json"}, {"eiin": "108780", "name": "KAMARDANGI BEGUM FERDOUSI MOHON MIA JUNIOR HIGH SCHOOL", "name_bn": "কামার ডাঙ্গী বেগম ফেরদৌসী মোহন মিয়া হাইস্কুল", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01710910607", "email": "kamardangibfmmjhschool@gmail.com", "teacher_count": 109, "file": "KAMARDANGI BEGUM FERDOUSI MOHON MIA JUNIOR HIGH SCHOOL.json"}, {"eiin": "108748", "name": "KAMLAPUR HIGH SCHOOL", "name_bn": "কমলাপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01726237616", "email": "kamlapurhighs@gmail.com", "teacher_count": 181, "file": "KAMLAPUR HIGH SCHOOL.json"}, {"eiin": "108750", "name": "KANAIPUR HIGH SCHOOL", "name_bn": "কানাইপুর স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716306826", "email": "shahjahan66khs@gmail.com", "teacher_count": 400, "file": "KANAIPUR HIGH SCHOOL.json"}, {"eiin": "108756", "name": "KHALIL PUR HIGH SCHOOL", "name_bn": "খলিলপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718553583", "email": "khalilpurhighschool145@gmail.com", "teacher_count": 239, "file": "KHALIL PUR HIGH SCHOOL.json"}, {"eiin": "139133", "name": "KHANDAKAR MOSHARRAF HOSSAIN HIGH SCHOOL", "name_bn": "খন্দকার মোশাররফ হোসেন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01753147899", "email": "kmhhs139133@gmail.com", "teacher_count": 42, "file": "KHANDAKAR MOSHARRAF HOSSAIN HIGH SCHOOL.json"}, {"eiin": "108734", "name": "KOMORPUR ABDUL AZIZ INSTITUTION", "name_bn": "কোমরপুর আব্দুল আজিজ ইনষ্টিটিউশন", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715869208", "email": "komorpuraai108734@gmail.com", "teacher_count": 231, "file": "KOMORPUR ABDUL AZIZ INSTITUTION.json"}, {"eiin": "108772", "name": "KOSHAGOPALPUR HIGH SCHOOL", "name_bn": "কোশাগোপালপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01786148848", "email": "koshagopalpurhs108772@gmail.com", "teacher_count": 185, "file": "KOSHAGOPALPUR HIGH SCHOOL.json"}, {"eiin": "108754", "name": "KRISHNANAGAR HIGH SCHOOL", "name_bn": "কৃষ্ণনগর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714562790", "email": "krishnanagarhs108754@gmail.com", "teacher_count": 198, "file": "KRISHNANAGAR HIGH SCHOOL.json"}, {"eiin": "108753", "name": "LASHKER KANDI HIGH SCHOOL", "name_bn": "লস্করকান্দি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716967746", "email": "emdadhossain0009@gmail.com", "teacher_count": 199, "file": "LASHKER KANDI HIGH SCHOOL.json"}, {"eiin": "108752", "name": "MADHABDIA MOEZUDDIN HIGH SCHOOL", "name_bn": "মাধবদিয়া ময়েজউদ্দিন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01728383237", "email": "madhabdiamhs1961@gmail.com", "teacher_count": 179, "file": "MADHABDIA MOEZUDDIN HIGH SCHOOL.json"}, {"eiin": "108738", "name": "MAHIM INSTITUTION", "name_bn": "মহিম ইন্সটিটিউশন", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01191098429", "email": "mohimschool@gmail.com", "teacher_count": 194, "file": "MAHIM INSTITUTION.json"}, {"eiin": "108735", "name": "MOEZ UDDIN HIGH SCHOOL", "name_bn": "ময়েজউদ্দিন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716014415", "email": "moezuddinhighschoolfaridpur@gmail.com", "teacher_count": 193, "file": "MOEZ UDDIN HIGH SCHOOL.json"}, {"eiin": "108770", "name": "MOHON MIA HIGH SCHOOL", "name_bn": "মোহন মিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740874743", "email": "mohonmiahighschool@gmail.com", "teacher_count": 196, "file": "MOHON MIA HIGH SCHOOL.json"}, {"eiin": "139180", "name": "MOTALEB HOSSAIN JUNIOR HIGH SCHOOL", "name_bn": "মোতালেব হোসেন হাই স্কুল", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01718051026", "email": "motalebhossainjhs@gmail.com", "teacher_count": 54, "file": "MOTALEB HOSSAIN JUNIOR HIGH SCHOOL.json"}, {"eiin": "108764", "name": "MUNSHIR BAZAR HIGH SCHOOL", "name_bn": "মুন্সীর বাজার উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718171984", "email": "munshirbazarschool@gmail.com", "teacher_count": 300, "file": "MUNSHIR BAZAR HIGH SCHOOL.json"}, {"eiin": "108736", "name": "NODI GOBESHANA INSTITUTE BIDYANIKETON", "name_bn": "নদী গবেষণা ইনস্টিটিউট বিদ্যানিকেতন", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719284916", "email": "ngib108736@gmail.com", "teacher_count": 106, "file": "NODI GOBESHANA INSTITUTE BIDYANIKETON.json"}, {"eiin": "108778", "name": "NORTH CHANNAL YOUSUF ALI CHOWDHURY (MOHAN MIA) JUNIOR HIGH SCHOOL", "name_bn": "নর্থ চ্যানেল ইউসুফ অালী চৌধুরী (মোহন মিয়া) নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01704777591", "email": "samiibneyousuf@yahoo.com", "teacher_count": 92, "file": "NORTH CHANNAL YOUSUF ALI CHOWDHURY (MOHAN MIA) JUNIOR HIGH SCHOOL.json"}, {"eiin": "133720", "name": "NURUL ISLAM HIGH SCHOOL", "name_bn": "নূরুল ইসলাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716214637", "email": "www.nurulislamhighschool0@gmail.com", "teacher_count": 154, "file": "NURUL ISLAM HIGH SCHOOL.json"}, {"eiin": "108765", "name": "PADMAR CHAR HIGH SCHOOL", "name_bn": "পদ্মার চর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01732043293", "email": "padmarcharmadda1988@gmail.com", "teacher_count": 200, "file": "PADMAR CHAR HIGH SCHOOL.json"}, {"eiin": "108731", "name": "PARAMANANDA PUR HIGH SCHOOL", "name_bn": "পরমানন্দপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01725429529", "email": "phschool5099@gmail.com", "teacher_count": 141, "file": "PARAMANANDA PUR HIGH SCHOOL.json"}, {"eiin": "108777", "name": "PARANPUR HIGH SCHOOL", "name_bn": "পরানপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724440210", "email": "paranpurhighschool2001@gmail.com", "teacher_count": 112, "file": "PARANPUR HIGH SCHOOL.json"}, {"eiin": "108730", "name": "POLICE LINES HIGH SCHOOL", "name_bn": "পুলিশ লাইন্স স্কুল অ্যান্ড কলেজ, ফরিদপুর", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01727623024", "email": "policelineshighschool@yahoo.com", "teacher_count": 453, "file": "POLICE LINES HIGH SCHOOL.json"}, {"eiin": "108768", "name": "PORDIA HIGH SCHOOL", "name_bn": "পোরদিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714744386", "email": "pordiahighschool1992@gmail.com", "teacher_count": 214, "file": "PORDIA HIGH SCHOOL.json"}, {"eiin": "108763", "name": "RONKAIL HIGH SCHOOL", "name_bn": "রনকাইল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714563984", "email": "ronkailhighschool@gmail.com", "teacher_count": 214, "file": "RONKAIL HIGH SCHOOL.json"}, {"eiin": "130756", "name": "S. A. MANNAN SCHOOL", "name_bn": "এস এ মান্নান স্কুল", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01711009299", "email": "samannanschool@gmail.com", "teacher_count": 180, "file": "S. A. MANNAN SCHOOL.json"}, {"eiin": "108762", "name": "SADIPUR HIGH SCHOOL", "name_bn": "সাদীপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01772835402", "email": "sadipurhighschool1981@gmail.com", "teacher_count": 236, "file": "SADIPUR HIGH SCHOOL.json"}, {"eiin": "108805", "name": "SAJEDA KABIR UDDIN POURA GIRLS HIGH SCHOOL,ALIPUR, FARIDPUR", "name_bn": "সাজেদা কবির উদ্দিন পৌর বালিকা উচ্চ বিদ্যালয়, আলিপুর, ফরিদপুর", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01918014340", "email": "headteacher.skpghs@gmail.com", "teacher_count": 181, "file": "SAJEDA KABIR UDDIN POURA GIRLS HIGH SCHOOL,ALIPUR, FARIDPUR.json"}, {"eiin": "108741", "name": "SARODA SUNDARI GIRLS HIGH SCHOOL", "name_bn": "সারদা সুন্দরী বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712430825", "email": "khanmonir825@gmail.com", "teacher_count": 316, "file": "SARODA SUNDARI GIRLS HIGH SCHOOL.json"}, {"eiin": "130751", "name": "SCHOLASTIC HIGH SCHOOL", "name_bn": null, "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715868431", "email": null, "teacher_count": 140, "file": "SCHOLASTIC HIGH SCHOOL.json"}, {"eiin": "108751", "name": "SHIBRAMPUR R D ACADEMY", "name_bn": "শিবরামপুর আর ডি একাডেমী", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717225644", "email": "srdaccademy@yahoo.com", "teacher_count": 242, "file": "SHIBRAMPUR R D ACADEMY.json"}, {"eiin": "108774", "name": "SHOVARAMPUR HIGH SCHOOL", "name_bn": "শোভারামপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01736397378", "email": "shovarampurhighschool@gmail.com", "teacher_count": 212, "file": "SHOVARAMPUR HIGH SCHOOL.json"}, {"eiin": "139433", "name": "TARAR MELA ISHAN MEMORIAL SCHOOL", "name_bn": "তারার মেলা ঈশান মেমোরিয়াল স্কুল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01725898785", "email": "tararmelaschool1976@gmail.com", "teacher_count": 112, "file": "TARAR MELA ISHAN MEMORIAL SCHOOL.json"}, {"eiin": "108758", "name": "UJAN MALLIKPUR HIGH SCHOOL", "name_bn": "উজান মল্লিকপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716911760", "email": "ujanmhs1969@gmail.com", "teacher_count": 210, "file": "UJAN MALLIKPUR HIGH SCHOOL.json"}, {"eiin": "108767", "name": "UTTAR BILMAMUDPUR HIGH SCHOOL", "name_bn": "উত্তর বিলমামুদপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720056621", "email": "uttarbilmaudpurhighschool@yahoo.com", "teacher_count": 199, "file": "UTTAR BILMAMUDPUR HIGH SCHOOL.json"}, {"eiin": "108739", "name": "ZOHORA BEGUM HIGH SCHOOL", "name_bn": "জোহরা বেগম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01816220203", "email": "zohorabegumhighschool07@gmail.com", "teacher_count": 195, "file": "ZOHORA BEGUM HIGH SCHOOL.json"}, {"eiin": "139217", "name": "FARIDPUR ZILA PROSHASON SCHOOL AND COLLEGE", "name_bn": "ফরিদপুর জেলা প্রশাসন স্কুল এন্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01712757374", "email": "fdasc.edu.bd@gmail.com", "teacher_count": 0, "file": "FARIDPUR ZILA PROSHASON SCHOOL AND COLLEGE.json"}, {"eiin": "108743", "name": "HALIMA GIRLS SCHOOL AND COLLEGE, FARIDPUR", "name_bn": "হালিমা গার্লস স্কুল এন্ড কলেজ, ফরিদপুর।", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01716214636", "email": "halimagirlsscf32@gmail.com", "teacher_count": 0, "file": "HALIMA GIRLS SCHOOL AND COLLEGE, FARIDPUR.json"}, {"eiin": "108775", "name": "KABI JASIM UDDIN SCHOOL AND COLLEGE", "name_bn": "কবি জসীম উদদীন স্কুল অ্যান্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01718012867", "email": "kabijashimuddinschool108775@gmail.com", "teacher_count": 0, "file": "KABI JASIM UDDIN SCHOOL AND COLLEGE.json"}], "healthcare": [{"id": "HOSP-1952", "name": "Faridpur Medical College Hospital", "bn_name": "", "category": "Private Medical College Hospital", "type": "Private", "bed_capacity": 500, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.588129, "longitude": 89.835258, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1953", "name": "Faridpur Medical College Hospital", "bn_name": "", "category": "Private Medical College Hospital", "type": "Private", "bed_capacity": 500, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.589352, "longitude": 89.835914, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1954", "name": "Aftab DIgital Diagonestcis Center", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.605159, "longitude": 89.836897, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1955", "name": "Clasic Dental", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.604857, "longitude": 89.836729, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1956", "name": "Faridpur Al Madina Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.589114, "longitude": 89.833129, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1957", "name": "Janani D Lab", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.605296, "longitude": 89.837198, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1958", "name": "Ma Moni Digital Diagonestics Center", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.589028, "longitude": 89.833234, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1959", "name": "Monika Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.60492, "longitude": 89.836806, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1960", "name": "Porichorza Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": null, "longitude": null, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1961", "name": "Provati Private Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.589503, "longitude": 89.832838, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1962", "name": "Samorita Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.604765, "longitude": 89.836423, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1964", "name": "Shefa Diagonestics Center", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.604988, "longitude": 89.836672, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1965", "name": "kollann Diagonestics Center", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.604701, "longitude": 89.836544, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1967", "name": "Appolo dental", "bn_name": "", "category": "Doctor / Dental Consultation", "type": "Private", "bed_capacity": 0, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.603499, "longitude": 89.837756, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-1968", "name": "Eyor Dentist", "bn_name": "", "category": "Doctor / Dental Consultation", "type": "Private", "bed_capacity": 0, "division": "Dhaka", "district": "Faridpur", "district_slug": "faridpur", "upazila": "Faridpur Sadar", "address": "Faridpur Sadar, Faridpur", "latitude": 23.603611, "longitude": 89.838142, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}], "banking": [{"bank_name": "BANGLADESH KRISHI BANK", "bank_code": "035", "branch_name": "ISHAN GOPALPUR BRANCH", "routing_number": "035290793", "swift_code": "BKBABDDH", "district": "FARIDPUR", "address": "ISHAN GOPALPUR, FARIDPUR SADAR, FARIDPUR 7800", "telephone": "017 30708355", "email": "mgrishangopalpur@krishibank.org.bd", "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "branch_code": "0803 / 079"}, {"bank_name": "BANGLADESH KRISHI BANK", "bank_code": "035", "branch_name": "TAMBULKHANA BAZAR BRANCH", "routing_number": "035291439", "swift_code": "BKBABDDH", "district": "FARIDPUR", "address": "TAMBULKHANA BAZAR, FARIDPUR SADAR, FARIDPUR", "telephone": "017 15030020", "email": "mgrtambulkhanabazar@krishibank.org.bd", "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "branch_code": "0828 / 0828"}, {"bank_name": "MODHUMOTI BANK LIMITED", "bank_code": "0", "branch_name": "KANAIPUR BRANCH", "routing_number": "295290917", "swift_code": "MODHBDDH", "district": "FARIDPUR", "address": "KANAIPUR BAZAR, FARIDPUR SADAR, FARIDPUR", "telephone": "017 19632906", "email": "asfakur.rahaman@modhumotibankltd.com", "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "branch_code": "091 / 091"}, {"bank_name": "RUPALI BANK LIMITED", "bank_code": "185", "branch_name": "FARIDPUR BRANCH", "routing_number": "185290522", "swift_code": "RUPBBDDH", "district": "FARIDPUR", "address": "FARIDPUR SADAR, FARIDPUR", "telephone": "0631 62517, 63336, 017 12965264", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "1107 / 052"}, {"bank_name": "SONALI BANK LIMITED", "bank_code": "200", "branch_name": "FARIDPUR BRANCH", "routing_number": "200290528", "swift_code": "BSONBDDH", "district": "FARIDPUR", "address": "FARIDPUR SADAR, FARIDPUR", "telephone": "0631 63084, 64208, 63084", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "052 / 052"}], "emergency": {"division": "Dhaka", "district": "Faridpur", "upazila": "Faridpur Sadar", "national_hotlines": [{"name": "National Emergency Service (Police, Fire, Ambulance)", "number": "999"}, {"name": "National Information & Citizen Service", "number": "333"}, {"name": "Government Legal Aid", "number": "16430"}, {"name": "Child Helpline", "number": "1098"}, {"name": "Women & Children Repression Prevention Helpline", "number": "109"}], "district_administration": {"district": "Faridpur", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Faridpur", "phone": "01713-000011", "email": "dcfaridpur@mopa.gov.bd", "website": "http://www.faridpur.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Faridpur", "phone": "01713-373011", "email": "spfaridpur@police.gov.bd", "control_room": "01713-374011"}, "civil_surgeon_office": {"title": "Civil Surgeon, Faridpur", "phone": "01713-555011", "email": "csfaridpur@dghs.gov.bd"}}, "police_stations": [{"thana_id": "PS-DIST-24", "name": "Faridpur Sadar Police Station", "bn_name": "Faridpur সদর থানা", "unit": "Faridpur District Police", "division": "General", "district": "Faridpur", "address": "Court Building Road, Sadar, Faridpur", "oc_mobile": "01713-374024", "duty_officer": "01713-399024", "tnt": "02-770024", "control_room": "01713-374000"}], "fire_stations": [{"station_id": "FS-015", "name": "Faridpur Fire Station & Civil Defence", "bn_name": "Faridpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন", "division": "General", "district": "Faridpur", "address": "Sadar, Faridpur", "hotline": "16163", "emergency_phone": "02-9988015", "mobile": "01713-038015", "station_type": "District Headquarters Station"}]}, "land_khatian_count": 25, "land": {"khatian_count": 25, "mouza_count": 769, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "জমিদারী ধুলদী,ক রায় কিরণচন্দ্র রায় বাহাদুর,খ মৃত যতীন্দ্রনাথ রায় ষ্টেটের,একজিকিউট্রিকস বিভাবতী রায়,গ মৃত যোগেন্দ্রনাথ রায়ের ষ্টেটের,একজিকিউটার ধীরেন্দ্রনাথ রায়,", "dags": "", "total_land": "317.59"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "জোত জৈনুদ্দিন সেখ,জবেদআলী সেখ,গোলাপআলী সেখ,সাহেবআলী সেখ,নায়েবআলী সেখ,আরসাদআলী সেখ,ইন্তাজআলী সেখ", "dags": "368/488,369", "total_land": "3.30"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "মৌরশী রাজকুমার রায়,শৈলেন্দ্রকুমার রায়,অরুনকুমার রায়,প্রফুল্লকুমার রায়", "dags": "", "total_land": "52.34"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "জোত বাছেরআলী চৌধুরী গং,ক আজিজলহক মিঞা,মোজাফফরআলী মিঞা,আবদুলহাকিম মিঞা,রোকনদ্দিন মিঞা,হোসেনদ্দিন মিঞা,মুনছরদ্দিন মিঞা,হাসেনদ্দিন মিঞা,সাহাজদ্দিন মিঞা,খ আব্দুল সে", "dags": "343,368,369,424,374/489", "total_land": "9.38"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "জোত মোবারেক মিঞা,এন্তাজআলী,গোলাপআলী সেখ,সাহেবআলী সেখ,নায়েবআলী সেখ,আরসাদআলী সেখ", "dags": "343,368/487,369,424", "total_land": "4.93"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "ইয়ারউদ্দিন সেখ", "dags": "371", "total_land": "0.08"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "বিশু সেখ", "dags": "380", "total_land": "0.09"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "মনিরদ্দিন সেখ,আপছারউদ্দিন সেখ,সামসুদ্দিন সেখ", "dags": "370", "total_land": "0.09"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "রসিকলাল মজুমদার", "dags": "372", "total_land": "0.10"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "জোত মুন্সি আহাহ্মদউল্লা,সুন্সি আহাহ্মদউল্লা,হাছিনা খাতুন,মাজিদা খাতুন,লায়েলা খাতুন,সরিকসূত্রেদং আক্রমন্নেছা", "dags": "328,343,368/486,369,424", "total_land": "4.77"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "ফেদু সেখ,হাসেন সেখ,মছিরন খাতুন,সরিকসূত্রেদং লালজান খাতুন,ভোলজান খাতুন,ফুলজান খাতুন,নহেমান খাতুন", "dags": "379", "total_land": "0.19"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "রেয়াজদ্দিন সেখ,কফিলদ্দিন সেখ,ওফাজদ্দিন সেখ,অখিলদ্দিন সেখ", "dags": "375", "total_land": "0.28"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "ক অমুল্যচরণ রায়,অমরেন্দ্রনাথ রায়,অরবিন্দনাথ রায়,জিবনস্বত্ব গোপেশ্বরী রায়,একজিকিউটার অমুল্যচরণ রায়,খ তরিপউল্লা বিশ্বাস,আফাসারউদ্দিন বিশ্বাস,গ রফিউদ্দিন বিশ্বাস,স", "dags": "", "total_land": "24.61"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "আইনদ্দিন সেখ,বানু সেখ,সাহাজদ্দিন সেখ,মইজদ্দিন সেখ,ইছমাইল সেখ,খতেজান বিবি,সরিকসূত্রেদং মাজু বিবি,আমিরজান্নেছা খাতুন,নেকজান বিবি", "dags": "332,238,336", "total_land": "1.76"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "মালু সেখ", "dags": "", "total_land": "0.56"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "তছিরন্নেছা,ছরেজান্নেছা,কুলছুমন্নেছা", "dags": "428,434", "total_land": "0.56"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "ইছমাইল সেখ", "dags": "240,334,339", "total_land": "1.58"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "নীলমাধব দত্ত", "dags": "239,335,338", "total_land": "1.66"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "পূর্ণচন্দ্র মজুমদার,ঈশানচন্দ্র মজুমদার,জ্ঞানেন্দ্রচন্দ্র মজুমদার,সতীশচন্দ্র মজুমদার", "dags": "425,435", "total_land": "0.60"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "ডিক্রিরচর বারখাদা", "jl_no": "1", "owners": "মাখনলাল মজুমদার,কিরণচন্দ্র মজুমদার", "dags": "426,436", "total_land": "0.52"}], "sample_mouzas": [{"mouza_name": "ডিক্রীর চর বারখাদা", "jl_no": "1", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "ফতেপুর", "jl_no": "2", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চাঁদপুর", "jl_no": "3", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "গোপালপুর", "jl_no": "4", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "বিষ্ণুপুর", "jl_no": "5", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "গুয়াতলা", "jl_no": "6", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "জয়দেবপুর", "jl_no": "7", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চন্ডিপুর", "jl_no": "8", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চক ফতেপুর", "jl_no": "9", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "মদনদিয়া", "jl_no": "10", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চকভবানীপুর", "jl_no": "11", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "শিবরামপুর", "jl_no": "12", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "ঘন শ্যামপুর", "jl_no": "13", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "খলিলপুর", "jl_no": "14", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "বাকচর", "jl_no": "15", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "পরানপুর", "jl_no": "16", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "ধুলদিরাজাপুর", "jl_no": "17", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "মাজচর কোওরপুর", "jl_no": "18", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "পারচর", "jl_no": "19", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "শ্যাম সুন্দরপুর", "jl_no": "20", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "গোবিন্দপুর", "jl_no": "21", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চর কৃষ্ণনগর", "jl_no": "22", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চতর  ", "jl_no": "22", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "খালিশপুর ", "jl_no": "23", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "সদরদী", "jl_no": "24", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "আজলবেড়া ", "jl_no": "24", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "লক্ষীকোল", "jl_no": "25", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "চর চাঁদপুর\t", "jl_no": "25", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "ভাবুকদিয়া", "jl_no": "26", "survey": "BRS", "upazila": "FARIDPUR SADAR"}, {"mouza_name": "ধোপাডাঙ্গা", "jl_no": "26", "survey": "BRS", "upazila": "FARIDPUR SADAR"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1DcOgN4Lb32oFCBxLuF5e5ADxBjaMm2G4", "district_drive_url": "https://drive.google.com/drive/folders/1Eo7jVjNESbfV4ECSRlngISWRUpS5Ex5_", "district_total_maps": 8440, "district_uploaded_maps": 0, "district_total_gb": 82.917, "catalog_github_path": "land/maps/Dhaka/Faridpur.json"}}, "governance": {"administration": {"district": "Faridpur", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Faridpur", "phone": "01713-000011", "email": "dcfaridpur@mopa.gov.bd", "website": "http://www.faridpur.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Faridpur", "phone": "01713-373011", "email": "spfaridpur@police.gov.bd", "control_room": "01713-374011"}, "civil_surgeon_office": {"title": "Civil Surgeon, Faridpur", "phone": "01713-555011", "email": "csfaridpur@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "211", "name": {"en": "Faridpur-1", "bn": "ফরিদপুর-১"}, "total_voters": 510540}, {"code": "212", "name": {"en": "Faridpur-2", "bn": "ফরিদপুর-২"}, "total_voters": 332041}, {"code": "213", "name": {"en": "Faridpur-3", "bn": "ফরিদপুর-৩"}, "total_voters": 432628}, {"code": "214", "name": {"en": "Faridpur-4", "bn": "ফরিদপুর-৪"}, "total_voters": 496706}], "upazila_portal": "sadar.faridpur.gov.bd", "district_portal": "http://www.faridpur.gov.bd", "union_portals_count": 11, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Dhaka",
+  "district": "Faridpur",
+  "upazila": "Faridpur Sadar",
+  "upazila_slug": "dhaka__faridpur__faridpur_sadar",
+  "geography": {
+    "division": "Dhaka",
+    "division_bn": "ঢাকা",
+    "district": "Faridpur",
+    "district_bn": "ফরিদপুর",
+    "district_lat": "23.6070822",
+    "district_lon": "89.8429406",
+    "upazila_id": "390",
+    "upazila": "Faridpur Sadar",
+    "upazila_bn": "ফরিদপুর সদর",
+    "official_url": "sadar.faridpur.gov.bd",
+    "total_unions": 11,
+    "unions": [
+      {
+        "id": "3569",
+        "name": "Ishangopalpur",
+        "bn_name": "ঈশানগোপালপুর",
+        "url": "ishangopalpurup.faridpur.gov.bd"
+      },
+      {
+        "id": "3570",
+        "name": "Charmadbdia",
+        "bn_name": "চরমাধবদিয়া",
+        "url": "charmadbdiaup.faridpur.gov.bd"
+      },
+      {
+        "id": "3571",
+        "name": "Aliabad",
+        "bn_name": "আলিয়াবাদ",
+        "url": "aliabadup.faridpur.gov.bd"
+      },
+      {
+        "id": "3572",
+        "name": "Uttarchannel",
+        "bn_name": "নর্থচ্যানেল",
+        "url": "uttarchannelup.faridpur.gov.bd"
+      },
+      {
+        "id": "3573",
+        "name": "Decreerchar",
+        "bn_name": "ডিক্রিরচর",
+        "url": "decreercharup.faridpur.gov.bd"
+      },
+      {
+        "id": "3574",
+        "name": "Majchar",
+        "bn_name": "মাচ্চর",
+        "url": "majcharup.faridpur.gov.bd"
+      },
+      {
+        "id": "3575",
+        "name": "Krishnanagar",
+        "bn_name": "কৃষ্ণনগর",
+        "url": "krishnanagarup.faridpur.gov.bd"
+      },
+      {
+        "id": "3576",
+        "name": "Ambikapur",
+        "bn_name": "অম্বিকাপুর",
+        "url": "ambikapurup.faridpur.gov.bd"
+      },
+      {
+        "id": "3577",
+        "name": "Kanaipur",
+        "bn_name": "কানাইপুর",
+        "url": "kanaipurup.faridpur.gov.bd"
+      },
+      {
+        "id": "3578",
+        "name": "Kaijuri",
+        "bn_name": "কৈজুরী",
+        "url": "kaijuriup.faridpur.gov.bd"
+      },
+      {
+        "id": "3579",
+        "name": "Greda",
+        "bn_name": "গেরদা",
+        "url": "gredaup.faridpur.gov.bd"
+      }
+    ],
+    "total_post_offices": 4,
+    "postal_codes": [
+      {
+        "postcode": "7802",
+        "postcode_bn": "৭৮০২",
+        "sub_office": "Ambikapur",
+        "sub_office_bn": "অম্বিকাপুর"
+      },
+      {
+        "postcode": "7803",
+        "postcode_bn": "৭৮০৩",
+        "sub_office": "Baitulaman Politecni",
+        "sub_office_bn": "বাইতুলমান পলিটেকনিক"
+      },
+      {
+        "postcode": "7800",
+        "postcode_bn": "৭৮০০",
+        "sub_office": "Faridpursadar",
+        "sub_office_bn": "ফরিদপুর সদর"
+      },
+      {
+        "postcode": "7801",
+        "postcode_bn": "৭৮০১",
+        "sub_office": "Kanaipur",
+        "sub_office_bn": "কানাইপুর"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 120,
+    "healthcare_count": 15,
+    "banking_count": 5,
+    "police_count": 1,
+    "fire_count": 1,
+    "unions_count": 11,
+    "postcodes_count": 4,
+    "land_khatians_count": 25,
+    "mouzas_count": 769
+  },
+  "education": [
+    {
+      "eiin": "108803",
+      "name": "ALHAJ ABDUL KHALEQUE COLLEGE",
+      "name_bn": "আলহাজ্ব আবদুল খালেক কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01916153540",
+      "email": "aakdcf@gmail.com",
+      "teacher_count": 0,
+      "file": "ALHAJ ABDUL KHALEQUE COLLEGE.json"
+    },
+    {
+      "eiin": "108801",
+      "name": "BAKHUNDA COLLEGE",
+      "name_bn": "বাখুন্ডা কলেজ, ফরিদপুর",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01740890872",
+      "email": "bakhundacollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "BAKHUNDA COLLEGE.json"
+    },
+    {
+      "eiin": "108796",
+      "name": "ENGINEER KHANDKER MOSHARRAF HOSSAIN COLLEGE",
+      "name_bn": "ইঞ্জিনিয়ার খন্দকার মোশাররফ হোসেন কলেজ",
+      "type": "COLLEGE",
+      "level": "Masters",
+      "category": "college",
+      "mobile": "01720529225",
+      "email": "ekmhcf@gmail.com",
+      "teacher_count": 0,
+      "file": "ENGINEER KHANDKER MOSHARRAF HOSSAIN COLLEGE.json"
+    },
+    {
+      "eiin": "108798",
+      "name": "FARIDPUR CITY COLLEGE",
+      "name_bn": "ফরিদপুর সিটি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01711468736",
+      "email": "faridpurcityc@gmail.com",
+      "teacher_count": 0,
+      "file": "FARIDPUR CITY COLLEGE.json"
+    },
+    {
+      "eiin": "132785",
+      "name": "FARIDPUR GOVT. COLLEGE",
+      "name_bn": "ফরিদপুর সরকারি কলেজ, ফরিদপুর",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01712614730",
+      "email": "faridpurgovtcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "FARIDPUR GOVT. COLLEGE.json"
+    },
+    {
+      "eiin": "108800",
+      "name": "FARIDPUR MUSLIM MISSION COLLEGE",
+      "name_bn": "ফরিদপুর মুসলিম মিশন কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01716479866",
+      "email": "fmmceducation@gmail.com",
+      "teacher_count": 0,
+      "file": "FARIDPUR MUSLIM MISSION COLLEGE.json"
+    },
+    {
+      "eiin": "108794",
+      "name": "GOVT SARADA SUNDARI MOHILA COLLEGE",
+      "name_bn": "সরকারি সারদা সুন্দরী মহিলা কলেজ",
+      "type": "COLLEGE",
+      "level": "Masters",
+      "category": "college",
+      "mobile": "01716245725",
+      "email": "govtsaradasundari@gmail.com",
+      "teacher_count": 0,
+      "file": "GOVT SARADA SUNDARI MOHILA COLLEGE.json"
+    },
+    {
+      "eiin": "108797",
+      "name": "GOVT. RAJENDRA COLLEGE FARIPUR",
+      "name_bn": "সরকারি রাজেন্দ্র কলেজ, ফরিদপুর",
+      "type": "COLLEGE",
+      "level": "Masters",
+      "category": "college",
+      "mobile": "01711073711",
+      "email": "rajendracollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "GOVT. RAJENDRA COLLEGE FARIPUR.json"
+    },
+    {
+      "eiin": "108795",
+      "name": "GOVT. YASIN COLLEGE FARIDPUR",
+      "name_bn": "সরকারি ইয়াছিন কলেজ, ফরিদপুর।",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01716743172",
+      "email": "yasincollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "GOVT. YASIN COLLEGE FARIDPUR.json"
+    },
+    {
+      "eiin": "135343",
+      "name": "HAZI ABUL HOSSAIN COLLEGE",
+      "name_bn": "হাজী আবুল হোসেন কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01767411936",
+      "email": "haziabulhossaincollege@gmail.com",
+      "teacher_count": 0,
+      "file": "HAZI ABUL HOSSAIN COLLEGE.json"
+    },
+    {
+      "eiin": "108783",
+      "name": "AZIZUL ULUM DAKHIL MADRASHA",
+      "name_bn": "আজিজুল উলুম দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01718751577",
+      "email": "mesba1975@gmail.com",
+      "teacher_count": 0,
+      "file": "AZIZUL ULUM DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "108782",
+      "name": "BHUARKANDI DAKHIL MADRASHA",
+      "name_bn": "ভূয়ারকান্দি দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01736347810",
+      "email": "bhuarkandidakhilmadrasah108782@gmail.com",
+      "teacher_count": 0,
+      "file": "BHUARKANDI DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "108784",
+      "name": "FARIDPUR MUSLIM MISSION DAKHIL MADRASHA",
+      "name_bn": "ফরিদপুর মুসলিম মিশন দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01710989845",
+      "email": "habibur556@gmail.com",
+      "teacher_count": 0,
+      "file": "FARIDPUR MUSLIM MISSION DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "108781",
+      "name": "GERDA AINUL ULUM MADRASHA",
+      "name_bn": "গেরদা আইনুল উলুম দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01734395171",
+      "email": "gerdaainululummd@gmail.com",
+      "teacher_count": 0,
+      "file": "GERDA AINUL ULUM MADRASHA.json"
+    },
+    {
+      "eiin": "140137",
+      "name": "IDEAL DAKHIL MADRASHA",
+      "name_bn": "আইডিয়াল দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01715868350",
+      "email": "ideal.madrasah.2009@gmail.com",
+      "teacher_count": 0,
+      "file": "IDEAL DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "108789",
+      "name": "KOSHA GOPAL PUR MUAZZAMIAH DAKHIL MADRASHA",
+      "name_bn": "কোশাগোপালপুর মোয়াজ্জেমিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01721458329",
+      "email": "kmdm108789@gmail.com",
+      "teacher_count": 0,
+      "file": "KOSHA GOPAL PUR MUAZZAMIAH DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "108790",
+      "name": "PASCHIM BILNALIA DAKHIL MADRASHA",
+      "name_bn": "পশ্চিম বিলনালিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01726490185",
+      "email": "paschimbilnaiad@gmail.com",
+      "teacher_count": 0,
+      "file": "PASCHIM BILNALIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "131676",
+      "name": "SALMAN FARSI DAKHIL MADRAHA AND SHISU ODON",
+      "name_bn": "সালমান ফারসী (রা:) দাখিল মাদরাসা ও শিশু সদন",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01752109106",
+      "email": "salmanfarshi131676@gmail.com",
+      "teacher_count": 0,
+      "file": "SALMAN FARSI DAKHIL MADRAHA AND SHISU ODON.json"
+    },
+    {
+      "eiin": "108791",
+      "name": "SHOLAKONDA KARAMOTIA DAKHIL MADRASHA",
+      "name_bn": "শোলাকুন্ডু কেরামতিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01746221470",
+      "email": "sholakundakdmadrasah@gmail.com",
+      "teacher_count": 0,
+      "file": "SHOLAKONDA KARAMOTIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "108788",
+      "name": "BAKIGONJ ISLAMIA FAZIL MADRASHA",
+      "name_bn": "বাকিগঞ্জ ইসলামিয়া কামিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01712931058",
+      "email": "bakiganjmadrasah42@gmail.com",
+      "teacher_count": 0,
+      "file": "BAKIGONJ ISLAMIA FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "108786",
+      "name": "BISMILLASHA DARGAH ALIM MADRASAH",
+      "name_bn": "বিসমিল্লাহ শাহ দরগাহ ফাজিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01797011098",
+      "email": "bsm108786@gmail.com",
+      "teacher_count": 0,
+      "file": "BISMILLASHA DARGAH ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "108785",
+      "name": "FARIDPUR CHUNAGHATA ALIM MADRASAH",
+      "name_bn": "ফরিদপুর চুনাঘাটা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01771391522",
+      "email": "fcdm2000@gmail.com",
+      "teacher_count": 0,
+      "file": "FARIDPUR CHUNAGHATA ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "108792",
+      "name": "HAKKANI DORBAR SHARIF DHAKIL MADRASHA",
+      "name_bn": "হাক্কানী দরবার শরীফ আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01716301268",
+      "email": "hakkanidarbarsharifamm@gmail.com",
+      "teacher_count": 0,
+      "file": "HAKKANI DORBAR SHARIF DHAKIL MADRASHA.json"
+    },
+    {
+      "eiin": "108787",
+      "name": "SOBJAN NESSA MOHILA FAZIL MADRSASHA",
+      "name_bn": "সবজাননেসা মহিলা কামিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Kamil",
+      "category": "madrasa_other",
+      "mobile": "01727013853",
+      "email": "sabjannesamkamilmadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "SOBJAN NESSA MOHILA FAZIL MADRSASHA.json"
+    },
+    {
+      "eiin": "138233",
+      "name": "ADARSO POLYTECHNIC INSTITUTE",
+      "name_bn": "আদর্শ পলিটেকনিক ইনস্টিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01720452981",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ADARSO POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "132527",
+      "name": "AGRICULTURE TARAINING INSTITUTE",
+      "name_bn": "কৃষি প্রশিক্ষণ ইনস্টিটিউট, ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712921357",
+      "email": null,
+      "teacher_count": 0,
+      "file": "AGRICULTURE TARAINING INSTITUTE.json"
+    },
+    {
+      "eiin": "132457",
+      "name": "BANGLADESH COMPUTER AND MANAGEMENT INSTITUTE",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711197534",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BANGLADESH COMPUTER AND MANAGEMENT INSTITUTE.json"
+    },
+    {
+      "eiin": "139923",
+      "name": "BOKAIL IDEAL TECHNICAL ACADEMY",
+      "name_bn": "বোকাইল আইডিয়াল টেকনিক্যাল একাডেমি",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01995155930",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BOKAIL IDEAL TECHNICAL ACADEMY.json"
+    },
+    {
+      "eiin": "133472",
+      "name": "DIABETIC ASSOCIATION NURSING , DIABETIC ASSOCIATION HOSPITAL, FARIDPUR",
+      "name_bn": "ডায়াবেটিক এসোসিয়েশন নার্সিং ইনস্টিটিউট, ডায়াবেটিক এসোসিয়েশন মেডিকেল কলেজ হাসপাতাল, ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712742504",
+      "email": null,
+      "teacher_count": 0,
+      "file": "DIABETIC ASSOCIATION NURSING , DIABETIC ASSOCIATION HOSPITAL, FARIDPUR.json"
+    },
+    {
+      "eiin": "132316",
+      "name": "FARIDOPUR POLYTECHNIC INSTITUE",
+      "name_bn": "ফরিদপুর পলিটেকনিক ইনস্টিটিউট, ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712256087",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDOPUR POLYTECHNIC INSTITUE.json"
+    },
+    {
+      "eiin": "133464",
+      "name": "FARIDPUR HOMOEPATHY MEDICAL COLLEGE AND HOSPITAL",
+      "name_bn": "ফরিদপুর হোমিওপ্যাথি মেডিকেল কলেজ ও হাসপাতাল",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716470997",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDPUR HOMOEPATHY MEDICAL COLLEGE AND HOSPITAL.json"
+    },
+    {
+      "eiin": "135458",
+      "name": "FARIDPUR INSTITUTE OF ENGINEERING AND TECHNOLOGY (FIET)",
+      "name_bn": "ফরিদপুর ইন্সটিটিউট অব ইঞ্জিনিয়ারিং এ্যান্ড টেকনোলজি(ফিয়েট)",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712088229",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDPUR INSTITUTE OF ENGINEERING AND TECHNOLOGY (FIET).json"
+    },
+    {
+      "eiin": "135935",
+      "name": "FARIDPUR INSTITUTE OF INFORMATION TECHNOLOGY",
+      "name_bn": "ফরিদপুর ইন্সটিটিউট অব ইনফরমেশন টেকনোলজি",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01724527614",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDPUR INSTITUTE OF INFORMATION TECHNOLOGY.json"
+    },
+    {
+      "eiin": "133572",
+      "name": "FARIDPUR LAW COLLEGE",
+      "name_bn": "ফরিদপুর আইন মহাবিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716986657",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDPUR LAW COLLEGE.json"
+    },
+    {
+      "eiin": "139749",
+      "name": "FARIDPUR TEXTILE INSTITUTE FARIDPUR",
+      "name_bn": "ফরিদপুর টেক্সটাইল ইনস্টিটিউট, ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01979412064",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDPUR TEXTILE INSTITUTE FARIDPUR.json"
+    },
+    {
+      "eiin": "132812",
+      "name": "GERDA ISLAMI ACADEMY TECNICAL AND BUSINESS AMANGEMENT COLLAGE",
+      "name_bn": "গেরদা ইসলামী একাডেমী টেকনিকেল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01721933026",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GERDA ISLAMI ACADEMY TECNICAL AND BUSINESS AMANGEMENT COLLAGE.json"
+    },
+    {
+      "eiin": "138049",
+      "name": "GLORIOUS POLYTECHNIC INSTITUTE",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01739940390",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GLORIOUS POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "140525",
+      "name": "GOVERNMENT HEARING IMPAIREAD SCHOOL",
+      "name_bn": "সরকারি বাক্-শ্রবণ প্রতিবন্ধী বিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01757994442",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GOVERNMENT HEARING IMPAIREAD SCHOOL.json"
+    },
+    {
+      "eiin": "133293",
+      "name": "GOVT. TEACHER'S TRAINING COLLEGE, FARIDPUR",
+      "name_bn": "সরকারি টিচার্স ট্রেনিং কলেজ, ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711456240",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GOVT. TEACHER'S TRAINING COLLEGE, FARIDPUR.json"
+    },
+    {
+      "eiin": "140142",
+      "name": "GRASSROOTS COLLEGE OF TECHNOLOGY",
+      "name_bn": "গ্রাসরুটস কলেজ অব টেকনোলজি",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01715097829",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GRASSROOTS COLLEGE OF TECHNOLOGY [140142].json"
+    },
+    {
+      "eiin": "132916",
+      "name": "GRASSROOTS COLLEGE OF TECHNOLOGY",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01727844632",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GRASSROOTS COLLEGE OF TECHNOLOGY.json"
+    },
+    {
+      "eiin": "136003",
+      "name": "IDEAL COMPUTER",
+      "name_bn": "আইডিয়াল কম্পিউটার",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01868887578",
+      "email": null,
+      "teacher_count": 0,
+      "file": "IDEAL COMPUTER.json"
+    },
+    {
+      "eiin": "132798",
+      "name": "J M MODEL TECHERS TRAINING COLLEGE",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01714564272",
+      "email": null,
+      "teacher_count": 0,
+      "file": "J M MODEL TECHERS TRAINING COLLEGE.json"
+    },
+    {
+      "eiin": "140546",
+      "name": "JOHURA GIAS JUNIOR SCHOOL",
+      "name_bn": "জহুরা গিয়াস জুনিয়র স্কুল",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731523839",
+      "email": null,
+      "teacher_count": 0,
+      "file": "JOHURA GIAS JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "132529",
+      "name": "NATIONAL POLYTECHNIC INSTITUTE",
+      "name_bn": "ন্যাশনাল পলিটেকনিক ইনস্টিটিউট ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711707973",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NATIONAL POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "133563",
+      "name": "NURSING INSTITUTE, FARIDPUR",
+      "name_bn": "নার্সিং ও মিডওয়াইফারি কলেজ ফরিদপুর",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01725945343",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NURSING INSTITUTE, FARIDPUR.json"
+    },
+    {
+      "eiin": "136005",
+      "name": "ORNET IT CENTER",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01724527614",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ORNET IT CENTER.json"
+    },
+    {
+      "eiin": "135936",
+      "name": "PERFECT COMPUTER ACADEMY AND DIGITAL IT",
+      "name_bn": "পারফেক্ট কম্পিউটার একাডমি এন্ড ডিজিটাল আইটি",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01780186318",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PERFECT COMPUTER ACADEMY AND DIGITAL IT.json"
+    },
+    {
+      "eiin": "133275",
+      "name": "PRIMARY TEACHER'S TRAINING INSTITUTE, FARIDPUR",
+      "name_bn": "প্রাইমারি টিচার্স ট্রেনিং ইনস্টিটিউট, ফরিদপুর।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712712930",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PRIMARY TEACHER'S TRAINING INSTITUTE, FARIDPUR.json"
+    },
+    {
+      "eiin": "135937",
+      "name": "SMART COMPUTER AND TECHNICAL TRAINING INSTITUTE",
+      "name_bn": "স্মাট কম্পিউটার এন্ড টেকনিক্যাল ট্রেনিং ইনষ্টিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01724586411",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SMART COMPUTER AND TECHNICAL TRAINING INSTITUTE.json"
+    },
+    {
+      "eiin": "133282",
+      "name": "SUNFLOWER TEACHERS TRANING COLLAGE",
+      "name_bn": "সানফ্লাওয়ার টিচার্স ট্রেনিং কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01976540270",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SUNFLOWER TEACHERS TRANING COLLAGE.json"
+    },
+    {
+      "eiin": "133141",
+      "name": "TECHNICAL TRAINING CENTRE FARIDPUR",
+      "name_bn": "ফরিদপুর কারিগরি প্রশিক্ষণ কেন্দ্র",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716280022",
+      "email": null,
+      "teacher_count": 0,
+      "file": "TECHNICAL TRAINING CENTRE FARIDPUR.json"
+    },
+    {
+      "eiin": "132501",
+      "name": "TEXTILE VOCATIONAL INSTITUTE",
+      "name_bn": "টেক্সটােইল ভোকেশনাল ইনস্টিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01557245349",
+      "email": null,
+      "teacher_count": 0,
+      "file": "TEXTILE VOCATIONAL INSTITUTE.json"
+    },
+    {
+      "eiin": "137107",
+      "name": "AYJUDDIN MATUBBOR KANDI GOVT. PRIMARY SCHOOL",
+      "name_bn": "আইজদ্দিন মাতুব্বর কান্দি সরকারি প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01778788164",
+      "email": "amkgps8@gmail.com",
+      "teacher_count": 132,
+      "file": "AYJUDDIN MATUBBOR KANDI GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "136712",
+      "name": "TIMES UNIVERSITY OF BANGLADESH",
+      "name_bn": "টাইমস ইউনিভার্সিটি বাংলাদেশ",
+      "type": "PRIVATE UNIVERSITY",
+      "level": "Masters",
+      "category": "private_university",
+      "mobile": "01771766591",
+      "email": "tubbangladesh@gmail.com",
+      "teacher_count": 0,
+      "file": "TIMES UNIVERSITY OF BANGLADESH.json"
+    },
+    {
+      "eiin": "108766",
+      "name": "ABDUL KHALEQUE HIGH SCHOOL",
+      "name_bn": "আবদুল খালেক উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714744699",
+      "email": "akhighschool5070@yahoo.com",
+      "teacher_count": 262,
+      "file": "ABDUL KHALEQUE HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130772",
+      "name": "ADAMPUR SHAHJUDDIN MONDOL HIGH SCHOOL",
+      "name_bn": "আদমপুর শাহাজদ্দিন মন্ডল হাই স্কুল",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01772196167",
+      "email": "aacademy2007@gmail.com",
+      "teacher_count": 165,
+      "file": "ADAMPUR SHAHJUDDIN MONDOL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108742",
+      "name": "ADARSHA GIRLS HIGH SCHOOL",
+      "name_bn": "আদর্শ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718724228",
+      "email": "jainulabedin74@gmail.com",
+      "teacher_count": 283,
+      "file": "ADARSHA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "140252",
+      "name": "ADVENTIST INTERNATIONAL MISSION SCHOOL",
+      "name_bn": "অ্যাড্ভেন্টিস্ট ইন্টারন্যাশনাল মিশন স্কুল (ইংলিশ ভার্সন)",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01958461138",
+      "email": "aimsfaridpur9@gmail.com",
+      "teacher_count": 32,
+      "file": "ADVENTIST INTERNATIONAL MISSION SCHOOL.json"
+    },
+    {
+      "eiin": "108769",
+      "name": "ALHAJ M A AZIZ HIGH SCHOOL",
+      "name_bn": "আলহাজ্জ্ব এম. এ আজিজ হাই স্কূল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712558084",
+      "email": "enamulhq5@gmail.com",
+      "teacher_count": 170,
+      "file": "ALHAJ M A AZIZ HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108773",
+      "name": "\"AMEDER SCHOOL\" MONGOL KOT HIGH SCHOOL",
+      "name_bn": "আমাদের স্কুল মঙ্গলকোট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720081714",
+      "email": "amaderschoolmongolkot@gmail.com",
+      "teacher_count": 198,
+      "file": "AMEDER SCHOOL MONGOL KOT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108744",
+      "name": "ANSERUDDIN HIGH SCHOOL",
+      "name_bn": "আনছার উদ্দিন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717485560",
+      "email": "sheikhmazafar@gmail.com",
+      "teacher_count": 237,
+      "file": "ANSERUDDIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108771",
+      "name": "BAITUL AMAN ADARSHAW ACADEMY",
+      "name_bn": "বায়তুল আমান আদর্শ একাডেমী",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718129312",
+      "email": "baitulaman1234@gmail.com",
+      "teacher_count": 155,
+      "file": "BAITUL AMAN ADARSHAW ACADEMY.json"
+    },
+    {
+      "eiin": "108733",
+      "name": "BAITUL MOKADDEM INSTITUTE HIGH SCHOOL",
+      "name_bn": "বায়তুল মোকাদ্দেম ইন্সটিটিউট",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715286862",
+      "email": "bmihs1982@gmail.com",
+      "teacher_count": 248,
+      "file": "BAITUL MOKADDEM INSTITUTE HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108737",
+      "name": "BAKHUNDA HIGH SCHOOL",
+      "name_bn": "বাখুন্ডা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711516859",
+      "email": "bakhundahs@gmail.com",
+      "teacher_count": 202,
+      "file": "BAKHUNDA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108740",
+      "name": "BEGUM ROKEYA KISHOLOYA GIRL'S HIGH SCHOOL",
+      "name_bn": "বেগম রোকেয়া কিশলয় বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712584074",
+      "email": "begumrokeyaghs@gmail.com",
+      "teacher_count": 240,
+      "file": "BEGUM ROKEYA KISHOLOYA GIRL'S HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "133883",
+      "name": "BHASANCHAR HAMID NAGAR HIGH SCHOOL",
+      "name_bn": "ভাষানচর হামিদ নগর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724415298",
+      "email": "bhnhighschool01@gmail.com",
+      "teacher_count": 166,
+      "file": "BHASANCHAR HAMID NAGAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108776",
+      "name": "BONOGRAM HIGH SCHOOL",
+      "name_bn": "বনগ্রাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717005496",
+      "email": "bohschool4@gmail.com",
+      "teacher_count": 170,
+      "file": "BONOGRAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108755",
+      "name": "CHAR TEPAKHOLA HIGH SCHOOL",
+      "name_bn": "চর টেপাখোলা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01705797166",
+      "email": "abusayeem2014@gmail.com",
+      "teacher_count": 231,
+      "file": "CHAR TEPAKHOLA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108760",
+      "name": "CHARMADHABDIA UNITED HIGH SCHOOL",
+      "name_bn": "চরমাধবদিয়া ইউনাইটেড উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01782620023",
+      "email": "cmuhs0012@gmail.com",
+      "teacher_count": 184,
+      "file": "CHARMADHABDIA UNITED HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108779",
+      "name": "DHULDI ABDUL KUDDUS MUNSHI HIGH SCHOOL",
+      "name_bn": "ধুলদী আব্দুল কুদ্দস মুন্সী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716631888",
+      "email": "sujonahmed1888@gmail.com",
+      "teacher_count": 127,
+      "file": "DHULDI ABDUL KUDDUS MUNSHI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108749",
+      "name": "DOMRAKANDI HGIH SCHOOL",
+      "name_bn": "ডোমরাকান্দি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712605593",
+      "email": "domrakandihighschool2017@gmail.com",
+      "teacher_count": 249,
+      "file": "DOMRAKANDI HGIH SCHOOL.json"
+    },
+    {
+      "eiin": "108745",
+      "name": "FARIDPUR GOVT GIRL'S HIGH SCHOOL",
+      "name_bn": "ফরিদপুর সরকারি বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01777355236",
+      "email": "faridpurgghs@gmail.com",
+      "teacher_count": 675,
+      "file": "FARIDPUR GOVT GIRL'S HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108729",
+      "name": "FARIDPUR HIGH SCHOOL",
+      "name_bn": "ফরিদপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718588120",
+      "email": "faridpurhlghschool@gmail.com",
+      "teacher_count": 256,
+      "file": "FARIDPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108732",
+      "name": "FARIDPUR ZILLA SCHOOL",
+      "name_bn": "ফরিদপুর জিলা স্কুল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716964075",
+      "email": "faridpurzillaschool@yahoo.com",
+      "teacher_count": 735,
+      "file": "FARIDPUR ZILLA SCHOOL.json"
+    },
+    {
+      "eiin": "108759",
+      "name": "GERDA A. F. MUJIBUR RAHMAN MADHYAMIK BIDYALAYA",
+      "name_bn": "গেরদা এ, এফ, মুজিবুর রহমান মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712742756",
+      "email": "gafmrmb@gmail.com",
+      "teacher_count": 195,
+      "file": "GERDA A. F. MUJIBUR RAHMAN MADHYAMIK BIDYALAYA.json"
+    },
+    {
+      "eiin": "130853",
+      "name": "GOLAP BAG LATIFUNNESSA GIRLS HIGH SCHOOL",
+      "name_bn": "গোলাপবাগ লতিফুন নেছা বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01727182849",
+      "email": "golapbaglatifunnessagirlshighs@gmail.com",
+      "teacher_count": 120,
+      "file": "GOLAP BAG LATIFUNNESSA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130854",
+      "name": "HABELI DOIRAMPUR JUNIOR HIGH SCHOOL",
+      "name_bn": "হাবেলী দয়ারামপুর নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01923680587",
+      "email": "habelidoirampurjrhighschool@gmail.com",
+      "teacher_count": 112,
+      "file": "HABELI DOIRAMPUR JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108757",
+      "name": "HAT GOBINDA PUR HIGH SCHOOL",
+      "name_bn": "হাট গোবিন্দপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714542942",
+      "email": "hatgobindapurhighschool@yahoo.com",
+      "teacher_count": 201,
+      "file": "HAT GOBINDA PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108747",
+      "name": "HITAISHI HIGH SCHOOL",
+      "name_bn": "হিতৈষী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715796303",
+      "email": "hitaishischool@gmail.com",
+      "teacher_count": 195,
+      "file": "HITAISHI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108746",
+      "name": "ISHAN GIRLS HIGH SCHOOL",
+      "name_bn": "ঈশান বালিকা উচ্চ বিদ্যাল, ফরিদপুর",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716403376",
+      "email": "ishangirlshighschool@gmail.com",
+      "teacher_count": 194,
+      "file": "ISHAN GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108761",
+      "name": "ISHAN INSTITUTION",
+      "name_bn": "ঈশান ইনস্টিটিউশন",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715314494",
+      "email": "ishaninstitution76@yahoo.com",
+      "teacher_count": 284,
+      "file": "ISHAN INSTITUTION.json"
+    },
+    {
+      "eiin": "108780",
+      "name": "KAMARDANGI BEGUM FERDOUSI MOHON MIA JUNIOR HIGH SCHOOL",
+      "name_bn": "কামার ডাঙ্গী বেগম ফেরদৌসী মোহন মিয়া হাইস্কুল",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01710910607",
+      "email": "kamardangibfmmjhschool@gmail.com",
+      "teacher_count": 109,
+      "file": "KAMARDANGI BEGUM FERDOUSI MOHON MIA JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108748",
+      "name": "KAMLAPUR HIGH SCHOOL",
+      "name_bn": "কমলাপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01726237616",
+      "email": "kamlapurhighs@gmail.com",
+      "teacher_count": 181,
+      "file": "KAMLAPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108750",
+      "name": "KANAIPUR HIGH SCHOOL",
+      "name_bn": "কানাইপুর স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716306826",
+      "email": "shahjahan66khs@gmail.com",
+      "teacher_count": 400,
+      "file": "KANAIPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108756",
+      "name": "KHALIL PUR HIGH SCHOOL",
+      "name_bn": "খলিলপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718553583",
+      "email": "khalilpurhighschool145@gmail.com",
+      "teacher_count": 239,
+      "file": "KHALIL PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139133",
+      "name": "KHANDAKAR MOSHARRAF HOSSAIN HIGH SCHOOL",
+      "name_bn": "খন্দকার মোশাররফ হোসেন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01753147899",
+      "email": "kmhhs139133@gmail.com",
+      "teacher_count": 42,
+      "file": "KHANDAKAR MOSHARRAF HOSSAIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108734",
+      "name": "KOMORPUR ABDUL AZIZ INSTITUTION",
+      "name_bn": "কোমরপুর আব্দুল আজিজ ইনষ্টিটিউশন",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715869208",
+      "email": "komorpuraai108734@gmail.com",
+      "teacher_count": 231,
+      "file": "KOMORPUR ABDUL AZIZ INSTITUTION.json"
+    },
+    {
+      "eiin": "108772",
+      "name": "KOSHAGOPALPUR HIGH SCHOOL",
+      "name_bn": "কোশাগোপালপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01786148848",
+      "email": "koshagopalpurhs108772@gmail.com",
+      "teacher_count": 185,
+      "file": "KOSHAGOPALPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108754",
+      "name": "KRISHNANAGAR HIGH SCHOOL",
+      "name_bn": "কৃষ্ণনগর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714562790",
+      "email": "krishnanagarhs108754@gmail.com",
+      "teacher_count": 198,
+      "file": "KRISHNANAGAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108753",
+      "name": "LASHKER KANDI HIGH SCHOOL",
+      "name_bn": "লস্করকান্দি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716967746",
+      "email": "emdadhossain0009@gmail.com",
+      "teacher_count": 199,
+      "file": "LASHKER KANDI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108752",
+      "name": "MADHABDIA MOEZUDDIN HIGH SCHOOL",
+      "name_bn": "মাধবদিয়া ময়েজউদ্দিন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01728383237",
+      "email": "madhabdiamhs1961@gmail.com",
+      "teacher_count": 179,
+      "file": "MADHABDIA MOEZUDDIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108738",
+      "name": "MAHIM INSTITUTION",
+      "name_bn": "মহিম ইন্সটিটিউশন",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01191098429",
+      "email": "mohimschool@gmail.com",
+      "teacher_count": 194,
+      "file": "MAHIM INSTITUTION.json"
+    },
+    {
+      "eiin": "108735",
+      "name": "MOEZ UDDIN HIGH SCHOOL",
+      "name_bn": "ময়েজউদ্দিন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716014415",
+      "email": "moezuddinhighschoolfaridpur@gmail.com",
+      "teacher_count": 193,
+      "file": "MOEZ UDDIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108770",
+      "name": "MOHON MIA HIGH SCHOOL",
+      "name_bn": "মোহন মিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740874743",
+      "email": "mohonmiahighschool@gmail.com",
+      "teacher_count": 196,
+      "file": "MOHON MIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139180",
+      "name": "MOTALEB HOSSAIN JUNIOR HIGH SCHOOL",
+      "name_bn": "মোতালেব হোসেন হাই স্কুল",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01718051026",
+      "email": "motalebhossainjhs@gmail.com",
+      "teacher_count": 54,
+      "file": "MOTALEB HOSSAIN JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108764",
+      "name": "MUNSHIR BAZAR HIGH SCHOOL",
+      "name_bn": "মুন্সীর বাজার উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718171984",
+      "email": "munshirbazarschool@gmail.com",
+      "teacher_count": 300,
+      "file": "MUNSHIR BAZAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108736",
+      "name": "NODI GOBESHANA INSTITUTE BIDYANIKETON",
+      "name_bn": "নদী গবেষণা ইনস্টিটিউট বিদ্যানিকেতন",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719284916",
+      "email": "ngib108736@gmail.com",
+      "teacher_count": 106,
+      "file": "NODI GOBESHANA INSTITUTE BIDYANIKETON.json"
+    },
+    {
+      "eiin": "108778",
+      "name": "NORTH CHANNAL YOUSUF ALI CHOWDHURY (MOHAN MIA) JUNIOR HIGH SCHOOL",
+      "name_bn": "নর্থ চ্যানেল ইউসুফ অালী চৌধুরী (মোহন মিয়া) নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01704777591",
+      "email": "samiibneyousuf@yahoo.com",
+      "teacher_count": 92,
+      "file": "NORTH CHANNAL YOUSUF ALI CHOWDHURY (MOHAN MIA) JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "133720",
+      "name": "NURUL ISLAM HIGH SCHOOL",
+      "name_bn": "নূরুল ইসলাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716214637",
+      "email": "www.nurulislamhighschool0@gmail.com",
+      "teacher_count": 154,
+      "file": "NURUL ISLAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108765",
+      "name": "PADMAR CHAR HIGH SCHOOL",
+      "name_bn": "পদ্মার চর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01732043293",
+      "email": "padmarcharmadda1988@gmail.com",
+      "teacher_count": 200,
+      "file": "PADMAR CHAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108731",
+      "name": "PARAMANANDA PUR HIGH SCHOOL",
+      "name_bn": "পরমানন্দপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01725429529",
+      "email": "phschool5099@gmail.com",
+      "teacher_count": 141,
+      "file": "PARAMANANDA PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108777",
+      "name": "PARANPUR HIGH SCHOOL",
+      "name_bn": "পরানপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724440210",
+      "email": "paranpurhighschool2001@gmail.com",
+      "teacher_count": 112,
+      "file": "PARANPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108730",
+      "name": "POLICE LINES HIGH SCHOOL",
+      "name_bn": "পুলিশ লাইন্স স্কুল অ্যান্ড কলেজ, ফরিদপুর",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01727623024",
+      "email": "policelineshighschool@yahoo.com",
+      "teacher_count": 453,
+      "file": "POLICE LINES HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108768",
+      "name": "PORDIA HIGH SCHOOL",
+      "name_bn": "পোরদিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714744386",
+      "email": "pordiahighschool1992@gmail.com",
+      "teacher_count": 214,
+      "file": "PORDIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108763",
+      "name": "RONKAIL HIGH SCHOOL",
+      "name_bn": "রনকাইল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714563984",
+      "email": "ronkailhighschool@gmail.com",
+      "teacher_count": 214,
+      "file": "RONKAIL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130756",
+      "name": "S. A. MANNAN SCHOOL",
+      "name_bn": "এস এ মান্নান স্কুল",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01711009299",
+      "email": "samannanschool@gmail.com",
+      "teacher_count": 180,
+      "file": "S. A. MANNAN SCHOOL.json"
+    },
+    {
+      "eiin": "108762",
+      "name": "SADIPUR HIGH SCHOOL",
+      "name_bn": "সাদীপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01772835402",
+      "email": "sadipurhighschool1981@gmail.com",
+      "teacher_count": 236,
+      "file": "SADIPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108805",
+      "name": "SAJEDA KABIR UDDIN POURA GIRLS HIGH SCHOOL,ALIPUR, FARIDPUR",
+      "name_bn": "সাজেদা কবির উদ্দিন পৌর বালিকা উচ্চ বিদ্যালয়, আলিপুর, ফরিদপুর",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01918014340",
+      "email": "headteacher.skpghs@gmail.com",
+      "teacher_count": 181,
+      "file": "SAJEDA KABIR UDDIN POURA GIRLS HIGH SCHOOL,ALIPUR, FARIDPUR.json"
+    },
+    {
+      "eiin": "108741",
+      "name": "SARODA SUNDARI GIRLS HIGH SCHOOL",
+      "name_bn": "সারদা সুন্দরী বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712430825",
+      "email": "khanmonir825@gmail.com",
+      "teacher_count": 316,
+      "file": "SARODA SUNDARI GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130751",
+      "name": "SCHOLASTIC HIGH SCHOOL",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715868431",
+      "email": null,
+      "teacher_count": 140,
+      "file": "SCHOLASTIC HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108751",
+      "name": "SHIBRAMPUR R D ACADEMY",
+      "name_bn": "শিবরামপুর আর ডি একাডেমী",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717225644",
+      "email": "srdaccademy@yahoo.com",
+      "teacher_count": 242,
+      "file": "SHIBRAMPUR R D ACADEMY.json"
+    },
+    {
+      "eiin": "108774",
+      "name": "SHOVARAMPUR HIGH SCHOOL",
+      "name_bn": "শোভারামপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01736397378",
+      "email": "shovarampurhighschool@gmail.com",
+      "teacher_count": 212,
+      "file": "SHOVARAMPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139433",
+      "name": "TARAR MELA ISHAN MEMORIAL SCHOOL",
+      "name_bn": "তারার মেলা ঈশান মেমোরিয়াল স্কুল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01725898785",
+      "email": "tararmelaschool1976@gmail.com",
+      "teacher_count": 112,
+      "file": "TARAR MELA ISHAN MEMORIAL SCHOOL.json"
+    },
+    {
+      "eiin": "108758",
+      "name": "UJAN MALLIKPUR HIGH SCHOOL",
+      "name_bn": "উজান মল্লিকপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716911760",
+      "email": "ujanmhs1969@gmail.com",
+      "teacher_count": 210,
+      "file": "UJAN MALLIKPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108767",
+      "name": "UTTAR BILMAMUDPUR HIGH SCHOOL",
+      "name_bn": "উত্তর বিলমামুদপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720056621",
+      "email": "uttarbilmaudpurhighschool@yahoo.com",
+      "teacher_count": 199,
+      "file": "UTTAR BILMAMUDPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "108739",
+      "name": "ZOHORA BEGUM HIGH SCHOOL",
+      "name_bn": "জোহরা বেগম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01816220203",
+      "email": "zohorabegumhighschool07@gmail.com",
+      "teacher_count": 195,
+      "file": "ZOHORA BEGUM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139217",
+      "name": "FARIDPUR ZILA PROSHASON SCHOOL AND COLLEGE",
+      "name_bn": "ফরিদপুর জেলা প্রশাসন স্কুল এন্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01712757374",
+      "email": "fdasc.edu.bd@gmail.com",
+      "teacher_count": 0,
+      "file": "FARIDPUR ZILA PROSHASON SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "108743",
+      "name": "HALIMA GIRLS SCHOOL AND COLLEGE, FARIDPUR",
+      "name_bn": "হালিমা গার্লস স্কুল এন্ড কলেজ, ফরিদপুর।",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01716214636",
+      "email": "halimagirlsscf32@gmail.com",
+      "teacher_count": 0,
+      "file": "HALIMA GIRLS SCHOOL AND COLLEGE, FARIDPUR.json"
+    },
+    {
+      "eiin": "108775",
+      "name": "KABI JASIM UDDIN SCHOOL AND COLLEGE",
+      "name_bn": "কবি জসীম উদদীন স্কুল অ্যান্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01718012867",
+      "email": "kabijashimuddinschool108775@gmail.com",
+      "teacher_count": 0,
+      "file": "KABI JASIM UDDIN SCHOOL AND COLLEGE.json"
+    }
+  ],
+  "healthcare": [
+    {
+      "id": "HOSP-1952",
+      "name": "Faridpur Medical College Hospital",
+      "bn_name": "",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 500,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.588129,
+      "longitude": 89.835258,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1953",
+      "name": "Faridpur Medical College Hospital",
+      "bn_name": "",
+      "category": "Private Medical College Hospital",
+      "type": "Private",
+      "bed_capacity": 500,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.589352,
+      "longitude": 89.835914,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1954",
+      "name": "Aftab DIgital Diagonestcis Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.605159,
+      "longitude": 89.836897,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1955",
+      "name": "Clasic Dental",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.604857,
+      "longitude": 89.836729,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1956",
+      "name": "Faridpur Al Madina Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.589114,
+      "longitude": 89.833129,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1957",
+      "name": "Janani D Lab",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.605296,
+      "longitude": 89.837198,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1958",
+      "name": "Ma Moni Digital Diagonestics Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.589028,
+      "longitude": 89.833234,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1959",
+      "name": "Monika Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.60492,
+      "longitude": 89.836806,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1960",
+      "name": "Porichorza Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1961",
+      "name": "Provati Private Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.589503,
+      "longitude": 89.832838,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1962",
+      "name": "Samorita Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.604765,
+      "longitude": 89.836423,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1964",
+      "name": "Shefa Diagonestics Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.604988,
+      "longitude": 89.836672,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1965",
+      "name": "kollann Diagonestics Center",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.604701,
+      "longitude": 89.836544,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1967",
+      "name": "Appolo dental",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.603499,
+      "longitude": 89.837756,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-1968",
+      "name": "Eyor Dentist",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "district_slug": "faridpur",
+      "upazila": "Faridpur Sadar",
+      "address": "Faridpur Sadar, Faridpur",
+      "latitude": 23.603611,
+      "longitude": 89.838142,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "banking": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "ISHAN GOPALPUR BRANCH",
+      "routing_number": "035290793",
+      "swift_code": "BKBABDDH",
+      "district": "FARIDPUR",
+      "address": "ISHAN GOPALPUR, FARIDPUR SADAR, FARIDPUR 7800",
+      "telephone": "017 30708355",
+      "email": "mgrishangopalpur@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "0803 / 079"
+    },
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "TAMBULKHANA BAZAR BRANCH",
+      "routing_number": "035291439",
+      "swift_code": "BKBABDDH",
+      "district": "FARIDPUR",
+      "address": "TAMBULKHANA BAZAR, FARIDPUR SADAR, FARIDPUR",
+      "telephone": "017 15030020",
+      "email": "mgrtambulkhanabazar@krishibank.org.bd",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "0828 / 0828"
+    },
+    {
+      "bank_name": "MODHUMOTI BANK LIMITED",
+      "bank_code": "0",
+      "branch_name": "KANAIPUR BRANCH",
+      "routing_number": "295290917",
+      "swift_code": "MODHBDDH",
+      "district": "FARIDPUR",
+      "address": "KANAIPUR BAZAR, FARIDPUR SADAR, FARIDPUR",
+      "telephone": "017 19632906",
+      "email": "asfakur.rahaman@modhumotibankltd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "091 / 091"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "FARIDPUR BRANCH",
+      "routing_number": "185290522",
+      "swift_code": "RUPBBDDH",
+      "district": "FARIDPUR",
+      "address": "FARIDPUR SADAR, FARIDPUR",
+      "telephone": "0631 62517, 63336, 017 12965264",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "1107 / 052"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "FARIDPUR BRANCH",
+      "routing_number": "200290528",
+      "swift_code": "BSONBDDH",
+      "district": "FARIDPUR",
+      "address": "FARIDPUR SADAR, FARIDPUR",
+      "telephone": "0631 63084, 64208, 63084",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "052 / 052"
+    }
+  ],
+  "emergency": {
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "upazila": "Faridpur Sadar",
+    "national_hotlines": [
+      {
+        "name": "National Emergency Service (Police, Fire, Ambulance)",
+        "number": "999"
+      },
+      {
+        "name": "National Information & Citizen Service",
+        "number": "333"
+      },
+      {
+        "name": "Government Legal Aid",
+        "number": "16430"
+      },
+      {
+        "name": "Child Helpline",
+        "number": "1098"
+      },
+      {
+        "name": "Women & Children Repression Prevention Helpline",
+        "number": "109"
+      }
+    ],
+    "district_administration": {
+      "district": "Faridpur",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Faridpur",
+        "phone": "01713-000011",
+        "email": "dcfaridpur@mopa.gov.bd",
+        "website": "http://www.faridpur.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Faridpur",
+        "phone": "01713-373011",
+        "email": "spfaridpur@police.gov.bd",
+        "control_room": "01713-374011"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Faridpur",
+        "phone": "01713-555011",
+        "email": "csfaridpur@dghs.gov.bd"
+      }
+    },
+    "police_stations": [
+      {
+        "thana_id": "PS-DIST-24",
+        "name": "Faridpur Sadar Police Station",
+        "bn_name": "Faridpur সদর থানা",
+        "unit": "Faridpur District Police",
+        "division": "General",
+        "district": "Faridpur",
+        "address": "Court Building Road, Sadar, Faridpur",
+        "oc_mobile": "01713-374024",
+        "duty_officer": "01713-399024",
+        "tnt": "02-770024",
+        "control_room": "01713-374000"
+      }
+    ],
+    "fire_stations": [
+      {
+        "station_id": "FS-015",
+        "name": "Faridpur Fire Station & Civil Defence",
+        "bn_name": "Faridpur ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+        "division": "General",
+        "district": "Faridpur",
+        "address": "Sadar, Faridpur",
+        "hotline": "16163",
+        "emergency_phone": "02-9988015",
+        "mobile": "01713-038015",
+        "station_type": "District Headquarters Station"
+      }
+    ]
+  },
+  "land_khatian_count": 25,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 769,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "জমিদারী ধুলদী,ক রায় কিরণচন্দ্র রায় বাহাদুর,খ মৃত যতীন্দ্রনাথ রায় ষ্টেটের,একজিকিউট্রিকস বিভাবতী রায়,গ মৃত যোগেন্দ্রনাথ রায়ের ষ্টেটের,একজিকিউটার ধীরেন্দ্রনাথ রায়,",
+        "dags": "",
+        "total_land": "317.59"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "জোত জৈনুদ্দিন সেখ,জবেদআলী সেখ,গোলাপআলী সেখ,সাহেবআলী সেখ,নায়েবআলী সেখ,আরসাদআলী সেখ,ইন্তাজআলী সেখ",
+        "dags": "368/488,369",
+        "total_land": "3.30"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "মৌরশী রাজকুমার রায়,শৈলেন্দ্রকুমার রায়,অরুনকুমার রায়,প্রফুল্লকুমার রায়",
+        "dags": "",
+        "total_land": "52.34"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "জোত বাছেরআলী চৌধুরী গং,ক আজিজলহক মিঞা,মোজাফফরআলী মিঞা,আবদুলহাকিম মিঞা,রোকনদ্দিন মিঞা,হোসেনদ্দিন মিঞা,মুনছরদ্দিন মিঞা,হাসেনদ্দিন মিঞা,সাহাজদ্দিন মিঞা,খ আব্দুল সে",
+        "dags": "343,368,369,424,374/489",
+        "total_land": "9.38"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "জোত মোবারেক মিঞা,এন্তাজআলী,গোলাপআলী সেখ,সাহেবআলী সেখ,নায়েবআলী সেখ,আরসাদআলী সেখ",
+        "dags": "343,368/487,369,424",
+        "total_land": "4.93"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "ইয়ারউদ্দিন সেখ",
+        "dags": "371",
+        "total_land": "0.08"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "বিশু সেখ",
+        "dags": "380",
+        "total_land": "0.09"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "মনিরদ্দিন সেখ,আপছারউদ্দিন সেখ,সামসুদ্দিন সেখ",
+        "dags": "370",
+        "total_land": "0.09"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "রসিকলাল মজুমদার",
+        "dags": "372",
+        "total_land": "0.10"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "জোত মুন্সি আহাহ্মদউল্লা,সুন্সি আহাহ্মদউল্লা,হাছিনা খাতুন,মাজিদা খাতুন,লায়েলা খাতুন,সরিকসূত্রেদং আক্রমন্নেছা",
+        "dags": "328,343,368/486,369,424",
+        "total_land": "4.77"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "ফেদু সেখ,হাসেন সেখ,মছিরন খাতুন,সরিকসূত্রেদং লালজান খাতুন,ভোলজান খাতুন,ফুলজান খাতুন,নহেমান খাতুন",
+        "dags": "379",
+        "total_land": "0.19"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "রেয়াজদ্দিন সেখ,কফিলদ্দিন সেখ,ওফাজদ্দিন সেখ,অখিলদ্দিন সেখ",
+        "dags": "375",
+        "total_land": "0.28"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "ক অমুল্যচরণ রায়,অমরেন্দ্রনাথ রায়,অরবিন্দনাথ রায়,জিবনস্বত্ব গোপেশ্বরী রায়,একজিকিউটার অমুল্যচরণ রায়,খ তরিপউল্লা বিশ্বাস,আফাসারউদ্দিন বিশ্বাস,গ রফিউদ্দিন বিশ্বাস,স",
+        "dags": "",
+        "total_land": "24.61"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "আইনদ্দিন সেখ,বানু সেখ,সাহাজদ্দিন সেখ,মইজদ্দিন সেখ,ইছমাইল সেখ,খতেজান বিবি,সরিকসূত্রেদং মাজু বিবি,আমিরজান্নেছা খাতুন,নেকজান বিবি",
+        "dags": "332,238,336",
+        "total_land": "1.76"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "মালু সেখ",
+        "dags": "",
+        "total_land": "0.56"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "তছিরন্নেছা,ছরেজান্নেছা,কুলছুমন্নেছা",
+        "dags": "428,434",
+        "total_land": "0.56"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "ইছমাইল সেখ",
+        "dags": "240,334,339",
+        "total_land": "1.58"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "নীলমাধব দত্ত",
+        "dags": "239,335,338",
+        "total_land": "1.66"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "পূর্ণচন্দ্র মজুমদার,ঈশানচন্দ্র মজুমদার,জ্ঞানেন্দ্রচন্দ্র মজুমদার,সতীশচন্দ্র মজুমদার",
+        "dags": "425,435",
+        "total_land": "0.60"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "ডিক্রিরচর বারখাদা",
+        "jl_no": "1",
+        "owners": "মাখনলাল মজুমদার,কিরণচন্দ্র মজুমদার",
+        "dags": "426,436",
+        "total_land": "0.52"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "ডিক্রীর চর বারখাদা",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "ফতেপুর",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চাঁদপুর",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "গোপালপুর",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "বিষ্ণুপুর",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "গুয়াতলা",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "জয়দেবপুর",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চন্ডিপুর",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চক ফতেপুর",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "মদনদিয়া",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চকভবানীপুর",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "শিবরামপুর",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "ঘন শ্যামপুর",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "খলিলপুর",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "বাকচর",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "পরানপুর",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "ধুলদিরাজাপুর",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "মাজচর কোওরপুর",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "পারচর",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "শ্যাম সুন্দরপুর",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "গোবিন্দপুর",
+        "jl_no": "21",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চর কৃষ্ণনগর",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চতর  ",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "খালিশপুর ",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "সদরদী",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "আজলবেড়া ",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "লক্ষীকোল",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "চর চাঁদপুর\t",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "ভাবুকদিয়া",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      },
+      {
+        "mouza_name": "ধোপাডাঙ্গা",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "FARIDPUR SADAR"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/0:/",
+      "district_drive_url": "https://free.mouzamap.tech/0:/Faridpur/",
+      "district_total_maps": 8440,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 82.917,
+      "catalog_github_path": "land/maps/Dhaka/Faridpur.json",
+      "online_folder_url": "https://free.mouzamap.tech/0:/Faridpur/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Faridpur",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Faridpur",
+        "phone": "01713-000011",
+        "email": "dcfaridpur@mopa.gov.bd",
+        "website": "http://www.faridpur.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Faridpur",
+        "phone": "01713-373011",
+        "email": "spfaridpur@police.gov.bd",
+        "control_room": "01713-374011"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Faridpur",
+        "phone": "01713-555011",
+        "email": "csfaridpur@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "211",
+        "name": {
+          "en": "Faridpur-1",
+          "bn": "ফরিদপুর-১"
+        },
+        "total_voters": 510540
+      },
+      {
+        "code": "212",
+        "name": {
+          "en": "Faridpur-2",
+          "bn": "ফরিদপুর-২"
+        },
+        "total_voters": 332041
+      },
+      {
+        "code": "213",
+        "name": {
+          "en": "Faridpur-3",
+          "bn": "ফরিদপুর-৩"
+        },
+        "total_voters": 432628
+      },
+      {
+        "code": "214",
+        "name": {
+          "en": "Faridpur-4",
+          "bn": "ফরিদপুর-৪"
+        },
+        "total_voters": 496706
+      }
+    ],
+    "upazila_portal": "sadar.faridpur.gov.bd",
+    "district_portal": "http://www.faridpur.gov.bd",
+    "union_portals_count": 11,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

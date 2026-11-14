@@ -1,1 +1,1794 @@
-{"division": "Dhaka", "district": "Munshiganj", "upazila": "Munshiganj Sadar", "upazila_slug": "dhaka__munshiganj__munshiganj_sadar", "geography": {"division": "Dhaka", "division_bn": "ঢাকা", "district": "Munshiganj", "district_bn": "মুন্সিগঞ্জ", "district_lat": "23.5435742", "district_lon": "90.5354327", "upazila_id": "370", "upazila": "Munshiganj Sadar", "upazila_bn": "মুন্সিগঞ্জ সদর", "official_url": "sadar.munshiganj.gov.bd", "total_unions": 9, "unions": [{"id": "3333", "name": "Rampal", "bn_name": "রামপাল", "url": "rampalup.munshiganj.gov.bd"}, {"id": "3334", "name": "Panchashar", "bn_name": "পঞ্চসার", "url": "panchasharup.munshiganj.gov.bd"}, {"id": "3335", "name": "Bajrajogini", "bn_name": "বজ্রযোগিনী", "url": "bajrajoginiup.munshiganj.gov.bd"}, {"id": "3336", "name": "Mohakali", "bn_name": "মহাকালী", "url": "mohakaliup.munshiganj.gov.bd"}, {"id": "3337", "name": "Charkewar", "bn_name": "চরকেওয়ার", "url": "charkewarup.munshiganj.gov.bd"}, {"id": "3338", "name": "Mollakandi", "bn_name": "মোল্লাকান্দি", "url": "mollakandiup.munshiganj.gov.bd"}, {"id": "3339", "name": "Adhara", "bn_name": "আধারা", "url": "adharaup.munshiganj.gov.bd"}, {"id": "3340", "name": "Shiloy", "bn_name": "শিলই", "url": "shiloyup.munshiganj.gov.bd"}, {"id": "3341", "name": "Banglabazar", "bn_name": "বাংলাবাজার", "url": "banglabazarup.munshiganj.gov.bd"}], "total_post_offices": 4, "postal_codes": [{"postcode": "1503", "postcode_bn": "১৫০৩", "sub_office": "Kathakhali", "sub_office_bn": "কাঠাখালি"}, {"postcode": "1502", "postcode_bn": "১৫০২", "sub_office": "Mirkadim", "sub_office_bn": "মিরকাদিম"}, {"postcode": "1500", "postcode_bn": "১৫০০", "sub_office": "Munshiganj Sadar", "sub_office_bn": "মুন্সীগঞ্জ সদর"}, {"postcode": "1501", "postcode_bn": "১৫০১", "sub_office": "Rikabibazar", "sub_office_bn": "রিকাবিবাজার"}]}, "stats": {"education_count": 55, "healthcare_count": 17, "banking_count": 7, "police_count": 1, "fire_count": 1, "unions_count": 9, "postcodes_count": 4, "land_khatians_count": 25, "mouzas_count": 280}, "education": [{"eiin": "111160", "name": "GOVT. HARAGANGA COLLEGE", "name_bn": "সরকারি হরগঙ্গা কলেজ", "type": "COLLEGE", "level": "Masters", "category": "college", "mobile": "01534353575", "email": "govt.haragangacollege@yahoo.com", "teacher_count": 0, "file": "GOVT. HARAGANGA COLLEGE.json"}, {"eiin": "132058", "name": "MIRKADIM HAZI AMZAD ALI (DEGREE) COLLEGE", "name_bn": "মিরকাদিম হাজী আমজাদ আলী (ডিগ্রি) কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01819442426", "email": "mirkadimcollage@yahoo.com", "teacher_count": 0, "file": "MIRKADIM HAZI AMZAD ALI (DEGREE) COLLEGE.json"}, {"eiin": "137627", "name": "MUNSHIGONJ COLLEGE", "name_bn": "মুন্সীগঞ্জ কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01975555257", "email": "munshiganjcollege@gmail.com", "teacher_count": 0, "file": "MUNSHIGONJ COLLEGE.json"}, {"eiin": "111159", "name": "MUNSHIGONJ GOVT. MOHILA COLLEGE", "name_bn": "মুন্সীগঞ্জ সরকারি মহিলা কলেজ, মুন্সীগঞ্জ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01913510619", "email": "mmc2013bd@hotmail.com", "teacher_count": 0, "file": "MUNSHIGONJ GOVT. MOHILA COLLEGE.json"}, {"eiin": "111161", "name": "RAMPAL COLLEGE", "name_bn": "রামপাল মহাবিদ্যালয়", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01712262610", "email": "rcollege00@gmail.com", "teacher_count": 0, "file": "RAMPAL COLLEGE.json"}, {"eiin": "131703", "name": "ADHARA DARUS SUNNAT ISLAMIA DAKHIL MADRASHA", "name_bn": "আধারা দারুস সুন্নাত ইসলামিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01710782137", "email": "adharamadraha2002@yahoo.com", "teacher_count": 0, "file": "ADHARA DARUS SUNNAT ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "111155", "name": "AKAL MEGH AZIZIA DAKHIL MADRASHA", "name_bn": "আকালমেঘ আজিজিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01767371945", "email": "akalmeghadm2@gmail.com", "teacher_count": 0, "file": "AKAL MEGH AZIZIA DAKHIL MADRASHA.json"}, {"eiin": "134063", "name": "SYEDPUR AL-AMIN DAKHIL MADRASAH", "name_bn": "সৈয়দপুর আল-আমিন দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01912283822", "email": "m134063@gmail.com", "teacher_count": 0, "file": "SYEDPUR AL-AMIN DAKHIL MADRASAH.json"}, {"eiin": "111158", "name": "JALIL JABBAR DARUS SONNAT ALIM MADRASAH", "name_bn": "জলিল জাব্বার দারুচ্ছৃন্নাত আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01912108599", "email": "jjdamadrasah@gmail.com", "teacher_count": 0, "file": "JALIL JABBAR DARUS SONNAT ALIM MADRASAH.json"}, {"eiin": "111157", "name": "MUNSHIGONJ ADARSHA FAZIL (DEGREE) MADRASAH", "name_bn": "মুন্সিগঞ্জ আদর্শ আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01711962298", "email": null, "teacher_count": 0, "file": "MUNSHIGONJ ADARSHA FAZIL (DEGREE) MADRASAH.json"}, {"eiin": "111156", "name": "PANCHASAR DARUSSUNNAT ISLAMIA FAZIL MADRASAH", "name_bn": "পঞ্চসার দারুসসুন্নাত ইসলামিয়া ফাজিল মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01718905384", "email": "pdiam2010@gmail.com", "teacher_count": 0, "file": "PANCHASAR DARUSSUNNAT ISLAMIA FAZIL MADRASAH.json"}, {"eiin": "140507", "name": "COLLECTORATE KISHALAYA SCHOOL", "name_bn": "কালেক্টরেট কিশলয় স্কুল", "type": null, "level": null, "category": "other", "mobile": "01772299960", "email": null, "teacher_count": 0, "file": "COLLECTORATE KISHALAYA SCHOOL.json"}, {"eiin": "139820", "name": "IDRIS ALI MADBOR PRIVATE POLYTECHNIC INSTITUTE", "name_bn": "ইদ্রিস আলী মাতবর প্রাইভেট পলিটেকনিক ইনস্টিটিউট", "type": null, "level": null, "category": "other", "mobile": "01339392910", "email": null, "teacher_count": 0, "file": "IDRIS ALI MADBOR PRIVATE POLYTECHNIC INSTITUTE.json"}, {"eiin": "135081", "name": "MADRASHATUL MADINA", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01712118935", "email": null, "teacher_count": 0, "file": "MADRASHATUL MADINA.json"}, {"eiin": "133207", "name": "MUNSHIGANJ ENGINEERING SCHOOL AND COLLEGE", "name_bn": "মুন্সীগঞ্জ ইঞ্জিনিয়ারিং স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01818153432", "email": null, "teacher_count": 0, "file": "MUNSHIGANJ ENGINEERING SCHOOL AND COLLEGE.json"}, {"eiin": "133605", "name": "MUNSHIGANJ LAW COLLEGE", "name_bn": "মুন্সীগঞ্জ ল কলেজ", "type": null, "level": null, "category": "other", "mobile": "01711376315", "email": null, "teacher_count": 0, "file": "MUNSHIGANJ LAW COLLEGE.json"}, {"eiin": "133197", "name": "MUNSHIGONJ POLYTECHNIC INSTITUTE", "name_bn": "মুন্সিগঞ্জ পলিটেকনিক ইনস্টিটিউট", "type": null, "level": null, "category": "other", "mobile": "01711172191", "email": null, "teacher_count": 0, "file": "MUNSHIGONJ POLYTECHNIC INSTITUTE.json"}, {"eiin": "133220", "name": "MUNSHIGONJ TECHNICAL SCHOOL AND COLLEGE", "name_bn": "সরকারি সরকারি টেকনিক্যাল স্কুল ও কলেজ, মুন্সিগঞ্জ", "type": null, "level": null, "category": "other", "mobile": "01717433041", "email": null, "teacher_count": 0, "file": "MUNSHIGONJ TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "133545", "name": "NURSING INSTITUTE , MUNSHI GANJ", "name_bn": "নার্সিং ইন্সটিটিউট মুন্সিগঞ্জ", "type": null, "level": null, "category": "other", "mobile": "01931736198", "email": null, "teacher_count": 0, "file": "NURSING INSTITUTE , MUNSHI GANJ.json"}, {"eiin": "133337", "name": "PRIMARY TEACHERS TRANING INSTITUTE", "name_bn": "প্রাইমারী টিচার্স ট্রেনিং ইন্সটিটিউট (পিটিআই), মুন্সিগঞ্জ।", "type": null, "level": null, "category": "other", "mobile": "01711138414", "email": null, "teacher_count": 0, "file": "PRIMARY TEACHERS TRANING INSTITUTE.json"}, {"eiin": "137395", "name": "KAWAR GOVT. PRIMARY SCHOOL", "name_bn": "কেওয়ার সরকারি প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01918149597", "email": "kewargps@gmail.com", "teacher_count": 95, "file": "KAWAR GOVT. PRIMARY SCHOOL.json"}, {"eiin": "111134", "name": "ALBERT VICTORIA JOTINDRA MOHON GOVT. GIRL'S HIGH SCHOOL", "name_bn": "আলবার্ট ভিক্টোরিয়া যতীন্দ্র মোহন গভ. গার্লস হাই স্কুল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01817535430", "email": "avgmgghschool@gmail.com", "teacher_count": 466, "file": "ALBERT VICTORIA JOTINDRA MOHON GOVT. GIRL'S HIGH SCHOOL.json"}, {"eiin": "111148", "name": "ALHAZ M. A. KHALEQUE ADARSHA HIGH SCHOOL", "name_bn": "আলহাজ্ব মোহাম্মদ আব্দুল খালেক আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714718186", "email": "khalequehighschool@gmail.com", "teacher_count": 234, "file": "ALHAZ M. A. KHALEQUE ADARSHA HIGH SCHOOL.json"}, {"eiin": "130851", "name": "ANANDAPUR IDEAL HIGH SCHOLL", "name_bn": "আনন্দপুর আইডিয়াল হাই স্কুল", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01911861931", "email": "anandapuridealhighschool2003@gmail.com", "teacher_count": 141, "file": "ANANDAPUR IDEAL HIGH SCHOLL.json"}, {"eiin": "111141", "name": "BAJRAJOGINI J.K HIGH SCHOOL", "name_bn": "বজ্রযোগিনী জয়কালী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712168639", "email": "bajrajogini.highschool@gmail.com", "teacher_count": 248, "file": "BAJRAJOGINI J.K HIGH SCHOOL.json"}, {"eiin": "111147", "name": "BAKULTALA H.A.K HIGH SCHOOL", "name_bn": "বকুলতলা হাজ্বী আব্দুল করিম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711462822", "email": "sc111147@gmail.com", "teacher_count": 314, "file": "BAKULTALA H.A.K HIGH SCHOOL.json"}, {"eiin": "111143", "name": "BANIAL HIGH SCHOOL", "name_bn": "বানিয়াল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716735870", "email": "bhsedu.1963@gmail.com", "teacher_count": 227, "file": "BANIAL HIGH SCHOOL.json"}, {"eiin": "111140", "name": "BASIRANNESSA HIGH SCHOOL", "name_bn": "বছিরননেছা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720903001", "email": "basirannesaschool@gmail.com", "teacher_count": 235, "file": "BASIRANNESSA HIGH SCHOOL.json"}, {"eiin": "111132", "name": "BINODPUR RAMKUMAR HIGH SCHOOL", "name_bn": "বিনোদপুর রামকুমার উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01916290632", "email": "binodpur.s111132@gmail.com", "teacher_count": 313, "file": "BINODPUR RAMKUMAR HIGH SCHOOL.json"}, {"eiin": "111145", "name": "CHAMPA TALA HIGH SCHOOL", "name_bn": "চাম্পাতলা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711831169", "email": "champa111145@gmail.com", "teacher_count": 222, "file": "CHAMPA TALA HIGH SCHOOL.json"}, {"eiin": "139152", "name": "CHARBANIAL ADARSHA JUNIOR HIGH SCHOOL", "name_bn": "চরবানিয়াল আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01711526440", "email": "charbanialadarshahighschool@gmail.com", "teacher_count": 55, "file": "CHARBANIAL ADARSHA JUNIOR HIGH SCHOOL.json"}, {"eiin": "135098", "name": "DHAKHIN CHAR MUSHURA ADARSHA HIGH SCHOOL", "name_bn": "দক্ষিণ চর মশুরা আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01916882655", "email": "dcmahs135098@gmail.com", "teacher_count": 209, "file": "DHAKHIN CHAR MUSHURA ADARSHA HIGH SCHOOL.json"}, {"eiin": "111146", "name": "EDRAKPUR HIGH SCHOOL", "name_bn": "ইদ্রাকপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01732138866", "email": "esh111146@gmail.com", "teacher_count": 184, "file": "EDRAKPUR HIGH SCHOOL.json"}, {"eiin": "111131", "name": "FULTALA MOHAMMADIA HIGH SCHOOL", "name_bn": "ফুলতলা মোহাম্মদীয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01819919190", "email": "fmhsc111131@gmail.com", "teacher_count": 220, "file": "FULTALA MOHAMMADIA HIGH SCHOOL.json"}, {"eiin": "130846", "name": "JAJIRA SYEDPUR ALHAJ MOHAMMADABUL KASHEM HIGH SCHOOL", "name_bn": "জাজিরা সৈয়দপুর আলহাজ্ব মোহাম্মদ আবুল কাশেম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01922906371", "email": "makasemschool@gmail.com", "teacher_count": 180, "file": "JAJIRA SYEDPUR ALHAJ MOHAMMADABUL KASHEM HIGH SCHOOL.json"}, {"eiin": "111138", "name": "K.K. GOVT. INSTITUTION", "name_bn": "কাজী কমর উদ্দিন গভঃ ইনস্টিটিউশন, মুন্সীগঞ্জ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01818577184", "email": "kkgovt@yahoo.com", "teacher_count": 442, "file": "K.K. GOVT. INSTITUTION.json"}, {"eiin": "111129", "name": "MAKHATI G.C HIGH SCHOOL", "name_bn": "মাকহাটী গুরুচরন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716256470", "email": "makahati.gc.school@gmail.comm", "teacher_count": 382, "file": "MAKHATI G.C HIGH SCHOOL.json"}, {"eiin": "111152", "name": "MD. AMIRUL HAQUE POURA GIRLS HIGH SCHOOL", "name_bn": "মোঃ আমিরুল হক পৌর বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01915499362", "email": "mosharrefhossain9362@gmail.com", "teacher_count": 178, "file": "MD. AMIRUL HAQUE POURA GIRLS HIGH SCHOOL.json"}, {"eiin": "111163", "name": "MIRKADIM HAZI AMJAD ALI HIGH SCHOOL", "name_bn": "মিরকাদিম হাজী আমজাদ আলী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715817070", "email": "mscl111163@gmail.com", "teacher_count": 339, "file": "MIRKADIM HAZI AMJAD ALI HIGH SCHOOL.json"}, {"eiin": "111130", "name": "MOHAKALI UNION HIGH SCHOOL", "name_bn": "মহাকালী ইউনিয়ন হাই সকুল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716763919", "email": "mohakaliunionhighschool@gmail.com", "teacher_count": 236, "file": "MOHAKALI UNION HIGH SCHOOL.json"}, {"eiin": "111133", "name": "MUNSHIGANJ GIRLS HIGH SCHOOL", "name_bn": "মুন্সীগঞ্জ উচ্চ বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711472109", "email": "munshiganjgirlshschool@gmail.com", "teacher_count": 270, "file": "MUNSHIGANJ GIRLS HIGH SCHOOL.json"}, {"eiin": "111137", "name": "MUNSHIGONJ M.L. HIGH SCHOOL", "name_bn": "মুন্সীগঞ্জ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712905742", "email": "munshiganjhighschool@gmail.com", "teacher_count": 295, "file": "MUNSHIGONJ M.L. HIGH SCHOOL.json"}, {"eiin": "135434", "name": "NAIRPUKURPAR MIABARI BALIKA JUNIOR SCHOOL", "name_bn": "নৈরপুকুরপাড় মিয়াবাড়ি বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01922544181", "email": "zahidhasanjeetu@gmail.com", "teacher_count": 98, "file": "NAIRPUKURPAR MIABARI BALIKA JUNIOR SCHOOL.json"}, {"eiin": "139644", "name": "PANCHASAR IDEAL INSTITUTE", "name_bn": "পঞ্চসার আইডিয়েল ইনস্টিটিউট", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01935050456", "email": "panchasar.ideal@gmail.com", "teacher_count": 99, "file": "PANCHASAR IDEAL INSTITUTE.json"}, {"eiin": "111150", "name": "PANCHASAR UNION GIRLS HIGH SCHOOL", "name_bn": "পঞ্চসার ইউনিয়ন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01819052880", "email": "school111150@gmail.com", "teacher_count": 244, "file": "PANCHASAR UNION GIRLS HIGH SCHOOL.json"}, {"eiin": "111139", "name": "RAMPAL N.B.M. HIGH SCHOOL", "name_bn": "রামপাল এন.বি.এম. উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01796013191", "email": "rampalnbm111139@gmail.com", "teacher_count": 307, "file": "RAMPAL N.B.M. HIGH SCHOOL.json"}, {"eiin": "111135", "name": "RANCHA RUHITPUR HIGH SCHOOL", "name_bn": "ৱনছ রুহিতপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717560783", "email": "rrhsc111135@gmail.com", "teacher_count": 248, "file": "RANCHA RUHITPUR HIGH SCHOOL.json"}, {"eiin": "111142", "name": "REKABI BAZAR GIRLS HIGH SCHOOL", "name_bn": "রিকাবী বাজার বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01613218487", "email": "school111142@gmail.com", "teacher_count": 244, "file": "REKABI BAZAR GIRLS HIGH SCHOOL.json"}, {"eiin": "111144", "name": "REKABI BAZAR HIGH SCHOOL", "name_bn": "রিকাবীবাজার উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711988667", "email": "school111144@gmail.com", "teacher_count": 238, "file": "REKABI BAZAR HIGH SCHOOL.json"}, {"eiin": "111136", "name": "SHAHID ZIAUR RAHMAN HIGH SCHOOL", "name_bn": "শহীদ জিয়াউর রহমান উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716120686", "email": "szrhchoolms@gmail.com", "teacher_count": 223, "file": "SHAHID ZIAUR RAHMAN HIGH SCHOOL.json"}, {"eiin": "111151", "name": "SHILAY HAZI MONIR UDDIN JR. HIGH SCHOOL", "name_bn": "শিলই হাজী মনির উদ্দিন নিন্ম মাধমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715677735", "email": "schools111151@gmail.com", "teacher_count": 124, "file": "SHILAY HAZI MONIR UDDIN JR. HIGH SCHOOL.json"}, {"eiin": "111149", "name": "SUKHOBASPUR SHYAMNALINI HIGH SCHOOL", "name_bn": "সুখবাসপুর শ্যামনলিনী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724643645", "email": "sshyamnalinihs@gmail.com", "teacher_count": 162, "file": "SUKHOBASPUR SHYAMNALINI HIGH SCHOOL.json"}, {"eiin": "130848", "name": "SYED PUR HIGH SCHOOL", "name_bn": "সৈয়দপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01778847178", "email": "syedpur130848@gmail.com", "teacher_count": 150, "file": "SYED PUR HIGH SCHOOL.json"}, {"eiin": "130847", "name": "TORKI HIGH SCHOOL", "name_bn": "টরকী নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01992408202", "email": "s130847@gmail.com", "teacher_count": 108, "file": "TORKI HIGH SCHOOL.json"}, {"eiin": "132175", "name": "PRESIDENT PROFESSOR DR. IAZUDDIN AHMED RESIDENTIAL MODEL SCHOOL & COLLEGE", "name_bn": "প্রেসিডেন্ট প্রফেসর ড. ইয়াজউদ্দিন আহম্মেদ রেসিডেন্সিয়াল মডেল স্কুল এন্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01933338700", "email": "ppimsc132175@gmail.com", "teacher_count": 0, "file": "PRESIDENT PROFESSOR DR. IAZUDDIN AHMED RESIDENTIAL MODEL SCHOOL & COLLEGE.json"}], "healthcare": [{"id": "HOSP-2549", "name": "Munshigonj General Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554367, "longitude": 90.530955, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2558", "name": "Lab Aid Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554258, "longitude": 90.533469, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2559", "name": "Munhiganj Care Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553889, "longitude": 90.532388, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2562", "name": "Best Medical Services", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553885, "longitude": 90.532228, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2563", "name": "Biojid Sergical Mart", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554291, "longitude": 90.533105, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2564", "name": "City Health Care", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554167, "longitude": 90.532833, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2568", "name": "Doctors Diagonestics and Consultants", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553897, "longitude": 90.532475, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2569", "name": "Dr. Kamrul Hasan Chamber", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.55377, "longitude": 90.527084, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2570", "name": "Femous Health Care", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553752, "longitude": 90.526953, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2572", "name": "Kiur Diagonestics", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553856, "longitude": 90.530153, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2573", "name": "Life Diagonestics Center", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554455, "longitude": 90.533782, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2574", "name": "Medilab Digital Physiotherapy", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554282, "longitude": 90.533045, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2575", "name": "New Modern Diagonestics Center", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553911, "longitude": 90.530837, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2576", "name": "New Square Diagonestics Center", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553921, "longitude": 90.531645, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2577", "name": "Renesha Diagonestics Care", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554264, "longitude": 90.532648, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2578", "name": "Renesha Diagonestics Center", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.553872, "longitude": 90.532077, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2579", "name": "Special Physiotherapy Center", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Dhaka", "district": "Munshiganj", "district_slug": "munshiganj", "upazila": "Munshiganj Sadar", "address": "Munshiganj Sadar, Munshiganj", "latitude": 23.554213, "longitude": 90.53268, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}], "banking": [{"bank_name": "BANGLADESH KRISHI BANK", "bank_code": "035", "branch_name": "CHARKEWAR BRANCH", "routing_number": "035590343", "swift_code": "BKBABDDH", "district": "MUNSHIGANJ", "address": "CHARKEWAR, MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "mgrcharkaeor@krishibank.org.bd", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "4415 / 034"}, {"bank_name": "JANATA BANK LIMITED", "bank_code": "135", "branch_name": "MUNSHIGANJ BRANCH", "routing_number": "135591039", "swift_code": "JANBBDDH", "district": "MUNSHIGANJ", "address": "MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "02 7611126, 0691 62126", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "103"}, {"bank_name": "PUBALI BANK LIMITED", "bank_code": "175", "branch_name": "MUNSHIGANJ BRANCH", "routing_number": "175591031", "swift_code": "PUBABDDH", "district": "MUNSHIGANJ", "address": "SADAR ROAD, MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "0691 3159", "email": "munshiganj@pubalibankbd.com", "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "branch_code": "103"}, {"bank_name": "PUBALI BANK LIMITED", "bank_code": "175", "branch_name": "NURPUR BRANCH", "routing_number": "175591123", "swift_code": "PUBABDDH", "district": "MUNSHIGANJ", "address": "BINODPUR, MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "0691 3362", "email": "nurpur@pubalibankbd.com", "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "branch_code": "112"}, {"bank_name": "RUPALI BANK LIMITED", "bank_code": "185", "branch_name": "MUNSHIGANJ BRANCH", "routing_number": "185591034", "swift_code": "RUPBBDDH", "district": "MUNSHIGANJ", "address": "MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "0691 63176, 018 24690696", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "0737 / 103"}, {"bank_name": "SONALI BANK LIMITED", "bank_code": "200", "branch_name": "MUNSHIGANJ BRANCH", "routing_number": "200591030", "swift_code": "BSONBDDH", "district": "MUNSHIGANJ", "address": "MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "0691 62119", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "103 / 103"}, {"bank_name": "SONALI BANK LIMITED", "bank_code": "200", "branch_name": "SHUKHBASHPUR BRANCH", "routing_number": "200591485", "swift_code": "BSONBDDH", "district": "MUNSHIGANJ", "address": "SHUKHBASHPUR, MUNSHIGANJ SADAR, MUNSHIGANJ", "telephone": "0691 62489", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "148 / 148"}], "emergency": {"division": "Dhaka", "district": "Munshiganj", "upazila": "Munshiganj Sadar", "national_hotlines": [{"name": "National Emergency Service (Police, Fire, Ambulance)", "number": "999"}, {"name": "National Information & Citizen Service", "number": "333"}, {"name": "Government Legal Aid", "number": "16430"}, {"name": "Child Helpline", "number": "1098"}, {"name": "Women & Children Repression Prevention Helpline", "number": "109"}], "district_administration": {"district": "Munshiganj", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Munshiganj", "phone": "01713-000015", "email": "dcmunshiganj@mopa.gov.bd", "website": "http://www.munshiganj.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Munshiganj", "phone": "01713-373015", "email": "spmunshiganj@police.gov.bd", "control_room": "01713-374015"}, "civil_surgeon_office": {"title": "Civil Surgeon, Munshiganj", "phone": "01713-555015", "email": "csmunshiganj@dghs.gov.bd"}}, "police_stations": [{"thana_id": "PS-DIST-28", "name": "Munshiganj Sadar Police Station", "bn_name": "Munshiganj সদর থানা", "unit": "Munshiganj District Police", "division": "General", "district": "Munshiganj", "address": "Court Building Road, Sadar, Munshiganj", "oc_mobile": "01713-374028", "duty_officer": "01713-399028", "tnt": "02-770028", "control_room": "01713-374000"}], "fire_stations": [{"station_id": "FS-019", "name": "Munshiganj Fire Station & Civil Defence", "bn_name": "Munshiganj ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন", "division": "General", "district": "Munshiganj", "address": "Sadar, Munshiganj", "hotline": "16163", "emergency_phone": "02-9988019", "mobile": "01713-038019", "station_type": "District Headquarters Station"}]}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 280, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক মুন্ সীগঞ্জ", "dags": "98,30,224,425,229,147,154,178,79,196,412,422,24,46,48,28,383,424,426,428,51,64,8", "total_land": "111.25"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং ময়নামতি আইচ এন্ড কোল্ড ষ্টোরেজ লিঃ 161 মতিঝিল কমাশিয়াল এরিয়া রমনা ঢাকা", "dags": "398,396,397", "total_land": "2.37"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং অনাথ বদ্ধু হালদার", "dags": "357", "total_land": "0.19"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং অনাথ মল্লিক,বলরাম মল্লিক,সন্তোষ মল্লিক, পিক ভাষানী মল্লিক, হাং সাং ভারত, পক্ষে বাংলাদেশ সরকার", "dags": "478,479,480,481", "total_land": ""}, {"khatian_no": "7", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আইয়ুব আলী,তৈয়ব আলী,জামিলা খাতুন,আছিয়া খাতুন", "dags": "114", "total_land": "0.19"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আককাছ আলী", "dags": "72,68", "total_land": "0.28"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আক্কাছ আলী,আছিয়া খাতুন", "dags": "33", "total_land": "1.15"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আকুব আলী", "dags": "160", "total_land": "0.06"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আক্রমন নেছা", "dags": "568", "total_land": "0.62"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আকালী মন্ডল,কুকুটি সুন্দরি", "dags": "370", "total_land": "0.21"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আকালী মন্ডল", "dags": "342", "total_land": "0.06"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আছান উদ্দিন", "dags": "579,580", "total_land": "0.26"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আনন্দ ছৈয়াল,মোহাম্মদ বাদসা মিয়া", "dags": "34,35", "total_land": "0.18"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আবদুল আউয়াল মুন্ সী", "dags": "393,394,253,380,382,4", "total_land": "1.29"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আবদুল আলী মাদবর", "dags": "73,176", "total_land": "0.89"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আবদুল আলী মাদবর,আবদুর রহিম", "dags": "176", "total_land": "0.74"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আবদুল ওয়াহেদ", "dags": "71,123,122,148,168", "total_land": "1.73"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আবদুল মজিদ বেপারী,আবদুল ওয়াহেদ বেপারী", "dags": "196", "total_land": "0.02"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আব্দুল আজিজ,তহিরুন নেছা,কলমজান বিবি,কালু বেপারী,নুর বকস ব্যাপরী,আব্দুলম গনি", "dags": "493,494", "total_land": "0.74"}, {"khatian_no": "22", "survey": "RS", "mouza_name": "ইমামচর", "jl_no": "1", "owners": "দং আব্দুল আজিজ,মুক্তার হোসেন,সিরাজ উদ্দিন,রেওয়াজুদ্দিন,রমিজুদ্দিন,তমিজুদ্দিন", "dags": "145,165,120,111", "total_land": "1.22"}], "sample_mouzas": [{"mouza_name": "তিলার্দ্দি", "jl_no": "4", "survey": "BRS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "ইমামচর", "jl_no": "14", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "তেলক্ষীরা", "jl_no": "16", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "তিলারদি", "jl_no": "18", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "জিরানন্দ পট্টি", "jl_no": "19", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "নগর কসবা", "jl_no": "20", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "এনায়েতনগর", "jl_no": "21", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "গোপাল নগর", "jl_no": "22", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "রিকাবীবাজার", "jl_no": "23", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "রামনগর", "jl_no": "24", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "গোয়াল ঘুণী", "jl_no": "25", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "কাজি কসবা", "jl_no": "26", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "চন্দনতলা", "jl_no": "27", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "মুরমা", "jl_no": "28", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "পানাম", "jl_no": "29", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "জোড়ার দেউল", "jl_no": "30", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "সুয়াপাড়া", "jl_no": "56", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "ধামদ", "jl_no": "57", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "বজ্রযোগিনী", "jl_no": "58", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "আটপাড়া", "jl_no": "59", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "সুখবাসপুর", "jl_no": "60", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "খানকা", "jl_no": "61", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "রামপাল", "jl_no": "62", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "কালঞ্চি পাড়া", "jl_no": "63", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "গোবিন্দপুর", "jl_no": "64", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "বল্লালবাড়ী", "jl_no": "65", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "শাখারীবাজার", "jl_no": "66", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "রামগোপালপুর", "jl_no": "67", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "বিনোদপুর", "jl_no": "68", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}, {"mouza_name": "ফিরীঙ্গি বাজার", "jl_no": "69", "survey": "CS", "upazila": "MUNSHIGANJ SADAR"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1DcOgN4Lb32oFCBxLuF5e5ADxBjaMm2G4", "district_drive_url": "https://drive.google.com/drive/folders/1DcZ2rWaz2S2RLpMxOrCawmYqROHYd1FB", "district_total_maps": 3167, "district_uploaded_maps": 0, "district_total_gb": 32.709, "catalog_github_path": "land/maps/Dhaka/Munshiganj.json"}}, "governance": {"administration": {"district": "Munshiganj", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Munshiganj", "phone": "01713-000015", "email": "dcmunshiganj@mopa.gov.bd", "website": "http://www.munshiganj.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Munshiganj", "phone": "01713-373015", "email": "spmunshiganj@police.gov.bd", "control_room": "01713-374015"}, "civil_surgeon_office": {"title": "Civil Surgeon, Munshiganj", "phone": "01713-555015", "email": "csmunshiganj@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "171", "name": {"en": "Munshigonj-1", "bn": "মুন্সিগঞ্জ-১"}, "total_voters": 545519}, {"code": "172", "name": {"en": "Munshigonj-2", "bn": "মুন্সিগঞ্জ-২"}, "total_voters": 378492}, {"code": "173", "name": {"en": "Munshigonj-3", "bn": "মুন্সিগঞ্জ-৩"}, "total_voters": 509467}], "upazila_portal": "sadar.munshiganj.gov.bd", "district_portal": "http://www.munshiganj.gov.bd", "union_portals_count": 9, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Dhaka",
+  "district": "Munshiganj",
+  "upazila": "Munshiganj Sadar",
+  "upazila_slug": "dhaka__munshiganj__munshiganj_sadar",
+  "geography": {
+    "division": "Dhaka",
+    "division_bn": "ঢাকা",
+    "district": "Munshiganj",
+    "district_bn": "মুন্সিগঞ্জ",
+    "district_lat": "23.5435742",
+    "district_lon": "90.5354327",
+    "upazila_id": "370",
+    "upazila": "Munshiganj Sadar",
+    "upazila_bn": "মুন্সিগঞ্জ সদর",
+    "official_url": "sadar.munshiganj.gov.bd",
+    "total_unions": 9,
+    "unions": [
+      {
+        "id": "3333",
+        "name": "Rampal",
+        "bn_name": "রামপাল",
+        "url": "rampalup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3334",
+        "name": "Panchashar",
+        "bn_name": "পঞ্চসার",
+        "url": "panchasharup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3335",
+        "name": "Bajrajogini",
+        "bn_name": "বজ্রযোগিনী",
+        "url": "bajrajoginiup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3336",
+        "name": "Mohakali",
+        "bn_name": "মহাকালী",
+        "url": "mohakaliup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3337",
+        "name": "Charkewar",
+        "bn_name": "চরকেওয়ার",
+        "url": "charkewarup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3338",
+        "name": "Mollakandi",
+        "bn_name": "মোল্লাকান্দি",
+        "url": "mollakandiup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3339",
+        "name": "Adhara",
+        "bn_name": "আধারা",
+        "url": "adharaup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3340",
+        "name": "Shiloy",
+        "bn_name": "শিলই",
+        "url": "shiloyup.munshiganj.gov.bd"
+      },
+      {
+        "id": "3341",
+        "name": "Banglabazar",
+        "bn_name": "বাংলাবাজার",
+        "url": "banglabazarup.munshiganj.gov.bd"
+      }
+    ],
+    "total_post_offices": 4,
+    "postal_codes": [
+      {
+        "postcode": "1503",
+        "postcode_bn": "১৫০৩",
+        "sub_office": "Kathakhali",
+        "sub_office_bn": "কাঠাখালি"
+      },
+      {
+        "postcode": "1502",
+        "postcode_bn": "১৫০২",
+        "sub_office": "Mirkadim",
+        "sub_office_bn": "মিরকাদিম"
+      },
+      {
+        "postcode": "1500",
+        "postcode_bn": "১৫০০",
+        "sub_office": "Munshiganj Sadar",
+        "sub_office_bn": "মুন্সীগঞ্জ সদর"
+      },
+      {
+        "postcode": "1501",
+        "postcode_bn": "১৫০১",
+        "sub_office": "Rikabibazar",
+        "sub_office_bn": "রিকাবিবাজার"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 55,
+    "healthcare_count": 17,
+    "banking_count": 7,
+    "police_count": 1,
+    "fire_count": 1,
+    "unions_count": 9,
+    "postcodes_count": 4,
+    "land_khatians_count": 25,
+    "mouzas_count": 280
+  },
+  "education": [
+    {
+      "eiin": "111160",
+      "name": "GOVT. HARAGANGA COLLEGE",
+      "name_bn": "সরকারি হরগঙ্গা কলেজ",
+      "type": "COLLEGE",
+      "level": "Masters",
+      "category": "college",
+      "mobile": "01534353575",
+      "email": "govt.haragangacollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "GOVT. HARAGANGA COLLEGE.json"
+    },
+    {
+      "eiin": "132058",
+      "name": "MIRKADIM HAZI AMZAD ALI (DEGREE) COLLEGE",
+      "name_bn": "মিরকাদিম হাজী আমজাদ আলী (ডিগ্রি) কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01819442426",
+      "email": "mirkadimcollage@yahoo.com",
+      "teacher_count": 0,
+      "file": "MIRKADIM HAZI AMZAD ALI (DEGREE) COLLEGE.json"
+    },
+    {
+      "eiin": "137627",
+      "name": "MUNSHIGONJ COLLEGE",
+      "name_bn": "মুন্সীগঞ্জ কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01975555257",
+      "email": "munshiganjcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "MUNSHIGONJ COLLEGE.json"
+    },
+    {
+      "eiin": "111159",
+      "name": "MUNSHIGONJ GOVT. MOHILA COLLEGE",
+      "name_bn": "মুন্সীগঞ্জ সরকারি মহিলা কলেজ, মুন্সীগঞ্জ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01913510619",
+      "email": "mmc2013bd@hotmail.com",
+      "teacher_count": 0,
+      "file": "MUNSHIGONJ GOVT. MOHILA COLLEGE.json"
+    },
+    {
+      "eiin": "111161",
+      "name": "RAMPAL COLLEGE",
+      "name_bn": "রামপাল মহাবিদ্যালয়",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01712262610",
+      "email": "rcollege00@gmail.com",
+      "teacher_count": 0,
+      "file": "RAMPAL COLLEGE.json"
+    },
+    {
+      "eiin": "131703",
+      "name": "ADHARA DARUS SUNNAT ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "আধারা দারুস সুন্নাত ইসলামিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01710782137",
+      "email": "adharamadraha2002@yahoo.com",
+      "teacher_count": 0,
+      "file": "ADHARA DARUS SUNNAT ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "111155",
+      "name": "AKAL MEGH AZIZIA DAKHIL MADRASHA",
+      "name_bn": "আকালমেঘ আজিজিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01767371945",
+      "email": "akalmeghadm2@gmail.com",
+      "teacher_count": 0,
+      "file": "AKAL MEGH AZIZIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "134063",
+      "name": "SYEDPUR AL-AMIN DAKHIL MADRASAH",
+      "name_bn": "সৈয়দপুর আল-আমিন দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01912283822",
+      "email": "m134063@gmail.com",
+      "teacher_count": 0,
+      "file": "SYEDPUR AL-AMIN DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "111158",
+      "name": "JALIL JABBAR DARUS SONNAT ALIM MADRASAH",
+      "name_bn": "জলিল জাব্বার দারুচ্ছৃন্নাত আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01912108599",
+      "email": "jjdamadrasah@gmail.com",
+      "teacher_count": 0,
+      "file": "JALIL JABBAR DARUS SONNAT ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "111157",
+      "name": "MUNSHIGONJ ADARSHA FAZIL (DEGREE) MADRASAH",
+      "name_bn": "মুন্সিগঞ্জ আদর্শ আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01711962298",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MUNSHIGONJ ADARSHA FAZIL (DEGREE) MADRASAH.json"
+    },
+    {
+      "eiin": "111156",
+      "name": "PANCHASAR DARUSSUNNAT ISLAMIA FAZIL MADRASAH",
+      "name_bn": "পঞ্চসার দারুসসুন্নাত ইসলামিয়া ফাজিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01718905384",
+      "email": "pdiam2010@gmail.com",
+      "teacher_count": 0,
+      "file": "PANCHASAR DARUSSUNNAT ISLAMIA FAZIL MADRASAH.json"
+    },
+    {
+      "eiin": "140507",
+      "name": "COLLECTORATE KISHALAYA SCHOOL",
+      "name_bn": "কালেক্টরেট কিশলয় স্কুল",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01772299960",
+      "email": null,
+      "teacher_count": 0,
+      "file": "COLLECTORATE KISHALAYA SCHOOL.json"
+    },
+    {
+      "eiin": "139820",
+      "name": "IDRIS ALI MADBOR PRIVATE POLYTECHNIC INSTITUTE",
+      "name_bn": "ইদ্রিস আলী মাতবর প্রাইভেট পলিটেকনিক ইনস্টিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01339392910",
+      "email": null,
+      "teacher_count": 0,
+      "file": "IDRIS ALI MADBOR PRIVATE POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "135081",
+      "name": "MADRASHATUL MADINA",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712118935",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MADRASHATUL MADINA.json"
+    },
+    {
+      "eiin": "133207",
+      "name": "MUNSHIGANJ ENGINEERING SCHOOL AND COLLEGE",
+      "name_bn": "মুন্সীগঞ্জ ইঞ্জিনিয়ারিং স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01818153432",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MUNSHIGANJ ENGINEERING SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "133605",
+      "name": "MUNSHIGANJ LAW COLLEGE",
+      "name_bn": "মুন্সীগঞ্জ ল কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711376315",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MUNSHIGANJ LAW COLLEGE.json"
+    },
+    {
+      "eiin": "133197",
+      "name": "MUNSHIGONJ POLYTECHNIC INSTITUTE",
+      "name_bn": "মুন্সিগঞ্জ পলিটেকনিক ইনস্টিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711172191",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MUNSHIGONJ POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "133220",
+      "name": "MUNSHIGONJ TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "সরকারি সরকারি টেকনিক্যাল স্কুল ও কলেজ, মুন্সিগঞ্জ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01717433041",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MUNSHIGONJ TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "133545",
+      "name": "NURSING INSTITUTE , MUNSHI GANJ",
+      "name_bn": "নার্সিং ইন্সটিটিউট মুন্সিগঞ্জ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01931736198",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NURSING INSTITUTE , MUNSHI GANJ.json"
+    },
+    {
+      "eiin": "133337",
+      "name": "PRIMARY TEACHERS TRANING INSTITUTE",
+      "name_bn": "প্রাইমারী টিচার্স ট্রেনিং ইন্সটিটিউট (পিটিআই), মুন্সিগঞ্জ।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711138414",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PRIMARY TEACHERS TRANING INSTITUTE.json"
+    },
+    {
+      "eiin": "137395",
+      "name": "KAWAR GOVT. PRIMARY SCHOOL",
+      "name_bn": "কেওয়ার সরকারি প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01918149597",
+      "email": "kewargps@gmail.com",
+      "teacher_count": 95,
+      "file": "KAWAR GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "111134",
+      "name": "ALBERT VICTORIA JOTINDRA MOHON GOVT. GIRL'S HIGH SCHOOL",
+      "name_bn": "আলবার্ট ভিক্টোরিয়া যতীন্দ্র মোহন গভ. গার্লস হাই স্কুল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01817535430",
+      "email": "avgmgghschool@gmail.com",
+      "teacher_count": 466,
+      "file": "ALBERT VICTORIA JOTINDRA MOHON GOVT. GIRL'S HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111148",
+      "name": "ALHAZ M. A. KHALEQUE ADARSHA HIGH SCHOOL",
+      "name_bn": "আলহাজ্ব মোহাম্মদ আব্দুল খালেক আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714718186",
+      "email": "khalequehighschool@gmail.com",
+      "teacher_count": 234,
+      "file": "ALHAZ M. A. KHALEQUE ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130851",
+      "name": "ANANDAPUR IDEAL HIGH SCHOLL",
+      "name_bn": "আনন্দপুর আইডিয়াল হাই স্কুল",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01911861931",
+      "email": "anandapuridealhighschool2003@gmail.com",
+      "teacher_count": 141,
+      "file": "ANANDAPUR IDEAL HIGH SCHOLL.json"
+    },
+    {
+      "eiin": "111141",
+      "name": "BAJRAJOGINI J.K HIGH SCHOOL",
+      "name_bn": "বজ্রযোগিনী জয়কালী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712168639",
+      "email": "bajrajogini.highschool@gmail.com",
+      "teacher_count": 248,
+      "file": "BAJRAJOGINI J.K HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111147",
+      "name": "BAKULTALA H.A.K HIGH SCHOOL",
+      "name_bn": "বকুলতলা হাজ্বী আব্দুল করিম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711462822",
+      "email": "sc111147@gmail.com",
+      "teacher_count": 314,
+      "file": "BAKULTALA H.A.K HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111143",
+      "name": "BANIAL HIGH SCHOOL",
+      "name_bn": "বানিয়াল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716735870",
+      "email": "bhsedu.1963@gmail.com",
+      "teacher_count": 227,
+      "file": "BANIAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111140",
+      "name": "BASIRANNESSA HIGH SCHOOL",
+      "name_bn": "বছিরননেছা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720903001",
+      "email": "basirannesaschool@gmail.com",
+      "teacher_count": 235,
+      "file": "BASIRANNESSA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111132",
+      "name": "BINODPUR RAMKUMAR HIGH SCHOOL",
+      "name_bn": "বিনোদপুর রামকুমার উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01916290632",
+      "email": "binodpur.s111132@gmail.com",
+      "teacher_count": 313,
+      "file": "BINODPUR RAMKUMAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111145",
+      "name": "CHAMPA TALA HIGH SCHOOL",
+      "name_bn": "চাম্পাতলা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711831169",
+      "email": "champa111145@gmail.com",
+      "teacher_count": 222,
+      "file": "CHAMPA TALA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139152",
+      "name": "CHARBANIAL ADARSHA JUNIOR HIGH SCHOOL",
+      "name_bn": "চরবানিয়াল আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01711526440",
+      "email": "charbanialadarshahighschool@gmail.com",
+      "teacher_count": 55,
+      "file": "CHARBANIAL ADARSHA JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "135098",
+      "name": "DHAKHIN CHAR MUSHURA ADARSHA HIGH SCHOOL",
+      "name_bn": "দক্ষিণ চর মশুরা আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01916882655",
+      "email": "dcmahs135098@gmail.com",
+      "teacher_count": 209,
+      "file": "DHAKHIN CHAR MUSHURA ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111146",
+      "name": "EDRAKPUR HIGH SCHOOL",
+      "name_bn": "ইদ্রাকপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01732138866",
+      "email": "esh111146@gmail.com",
+      "teacher_count": 184,
+      "file": "EDRAKPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111131",
+      "name": "FULTALA MOHAMMADIA HIGH SCHOOL",
+      "name_bn": "ফুলতলা মোহাম্মদীয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01819919190",
+      "email": "fmhsc111131@gmail.com",
+      "teacher_count": 220,
+      "file": "FULTALA MOHAMMADIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130846",
+      "name": "JAJIRA SYEDPUR ALHAJ MOHAMMADABUL KASHEM HIGH SCHOOL",
+      "name_bn": "জাজিরা সৈয়দপুর আলহাজ্ব মোহাম্মদ আবুল কাশেম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01922906371",
+      "email": "makasemschool@gmail.com",
+      "teacher_count": 180,
+      "file": "JAJIRA SYEDPUR ALHAJ MOHAMMADABUL KASHEM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111138",
+      "name": "K.K. GOVT. INSTITUTION",
+      "name_bn": "কাজী কমর উদ্দিন গভঃ ইনস্টিটিউশন, মুন্সীগঞ্জ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01818577184",
+      "email": "kkgovt@yahoo.com",
+      "teacher_count": 442,
+      "file": "K.K. GOVT. INSTITUTION.json"
+    },
+    {
+      "eiin": "111129",
+      "name": "MAKHATI G.C HIGH SCHOOL",
+      "name_bn": "মাকহাটী গুরুচরন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716256470",
+      "email": "makahati.gc.school@gmail.comm",
+      "teacher_count": 382,
+      "file": "MAKHATI G.C HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111152",
+      "name": "MD. AMIRUL HAQUE POURA GIRLS HIGH SCHOOL",
+      "name_bn": "মোঃ আমিরুল হক পৌর বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01915499362",
+      "email": "mosharrefhossain9362@gmail.com",
+      "teacher_count": 178,
+      "file": "MD. AMIRUL HAQUE POURA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111163",
+      "name": "MIRKADIM HAZI AMJAD ALI HIGH SCHOOL",
+      "name_bn": "মিরকাদিম হাজী আমজাদ আলী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715817070",
+      "email": "mscl111163@gmail.com",
+      "teacher_count": 339,
+      "file": "MIRKADIM HAZI AMJAD ALI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111130",
+      "name": "MOHAKALI UNION HIGH SCHOOL",
+      "name_bn": "মহাকালী ইউনিয়ন হাই সকুল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716763919",
+      "email": "mohakaliunionhighschool@gmail.com",
+      "teacher_count": 236,
+      "file": "MOHAKALI UNION HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111133",
+      "name": "MUNSHIGANJ GIRLS HIGH SCHOOL",
+      "name_bn": "মুন্সীগঞ্জ উচ্চ বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711472109",
+      "email": "munshiganjgirlshschool@gmail.com",
+      "teacher_count": 270,
+      "file": "MUNSHIGANJ GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111137",
+      "name": "MUNSHIGONJ M.L. HIGH SCHOOL",
+      "name_bn": "মুন্সীগঞ্জ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712905742",
+      "email": "munshiganjhighschool@gmail.com",
+      "teacher_count": 295,
+      "file": "MUNSHIGONJ M.L. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "135434",
+      "name": "NAIRPUKURPAR MIABARI BALIKA JUNIOR SCHOOL",
+      "name_bn": "নৈরপুকুরপাড় মিয়াবাড়ি বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01922544181",
+      "email": "zahidhasanjeetu@gmail.com",
+      "teacher_count": 98,
+      "file": "NAIRPUKURPAR MIABARI BALIKA JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "139644",
+      "name": "PANCHASAR IDEAL INSTITUTE",
+      "name_bn": "পঞ্চসার আইডিয়েল ইনস্টিটিউট",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01935050456",
+      "email": "panchasar.ideal@gmail.com",
+      "teacher_count": 99,
+      "file": "PANCHASAR IDEAL INSTITUTE.json"
+    },
+    {
+      "eiin": "111150",
+      "name": "PANCHASAR UNION GIRLS HIGH SCHOOL",
+      "name_bn": "পঞ্চসার ইউনিয়ন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01819052880",
+      "email": "school111150@gmail.com",
+      "teacher_count": 244,
+      "file": "PANCHASAR UNION GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111139",
+      "name": "RAMPAL N.B.M. HIGH SCHOOL",
+      "name_bn": "রামপাল এন.বি.এম. উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01796013191",
+      "email": "rampalnbm111139@gmail.com",
+      "teacher_count": 307,
+      "file": "RAMPAL N.B.M. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111135",
+      "name": "RANCHA RUHITPUR HIGH SCHOOL",
+      "name_bn": "ৱনছ রুহিতপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717560783",
+      "email": "rrhsc111135@gmail.com",
+      "teacher_count": 248,
+      "file": "RANCHA RUHITPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111142",
+      "name": "REKABI BAZAR GIRLS HIGH SCHOOL",
+      "name_bn": "রিকাবী বাজার বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01613218487",
+      "email": "school111142@gmail.com",
+      "teacher_count": 244,
+      "file": "REKABI BAZAR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111144",
+      "name": "REKABI BAZAR HIGH SCHOOL",
+      "name_bn": "রিকাবীবাজার উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711988667",
+      "email": "school111144@gmail.com",
+      "teacher_count": 238,
+      "file": "REKABI BAZAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111136",
+      "name": "SHAHID ZIAUR RAHMAN HIGH SCHOOL",
+      "name_bn": "শহীদ জিয়াউর রহমান উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716120686",
+      "email": "szrhchoolms@gmail.com",
+      "teacher_count": 223,
+      "file": "SHAHID ZIAUR RAHMAN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111151",
+      "name": "SHILAY HAZI MONIR UDDIN JR. HIGH SCHOOL",
+      "name_bn": "শিলই হাজী মনির উদ্দিন নিন্ম মাধমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715677735",
+      "email": "schools111151@gmail.com",
+      "teacher_count": 124,
+      "file": "SHILAY HAZI MONIR UDDIN JR. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "111149",
+      "name": "SUKHOBASPUR SHYAMNALINI HIGH SCHOOL",
+      "name_bn": "সুখবাসপুর শ্যামনলিনী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724643645",
+      "email": "sshyamnalinihs@gmail.com",
+      "teacher_count": 162,
+      "file": "SUKHOBASPUR SHYAMNALINI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130848",
+      "name": "SYED PUR HIGH SCHOOL",
+      "name_bn": "সৈয়দপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01778847178",
+      "email": "syedpur130848@gmail.com",
+      "teacher_count": 150,
+      "file": "SYED PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130847",
+      "name": "TORKI HIGH SCHOOL",
+      "name_bn": "টরকী নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01992408202",
+      "email": "s130847@gmail.com",
+      "teacher_count": 108,
+      "file": "TORKI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "132175",
+      "name": "PRESIDENT PROFESSOR DR. IAZUDDIN AHMED RESIDENTIAL MODEL SCHOOL & COLLEGE",
+      "name_bn": "প্রেসিডেন্ট প্রফেসর ড. ইয়াজউদ্দিন আহম্মেদ রেসিডেন্সিয়াল মডেল স্কুল এন্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01933338700",
+      "email": "ppimsc132175@gmail.com",
+      "teacher_count": 0,
+      "file": "PRESIDENT PROFESSOR DR. IAZUDDIN AHMED RESIDENTIAL MODEL SCHOOL & COLLEGE.json"
+    }
+  ],
+  "healthcare": [
+    {
+      "id": "HOSP-2549",
+      "name": "Munshigonj General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554367,
+      "longitude": 90.530955,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2558",
+      "name": "Lab Aid Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554258,
+      "longitude": 90.533469,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2559",
+      "name": "Munhiganj Care Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553889,
+      "longitude": 90.532388,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2562",
+      "name": "Best Medical Services",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553885,
+      "longitude": 90.532228,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2563",
+      "name": "Biojid Sergical Mart",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554291,
+      "longitude": 90.533105,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2564",
+      "name": "City Health Care",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554167,
+      "longitude": 90.532833,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2568",
+      "name": "Doctors Diagonestics and Consultants",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553897,
+      "longitude": 90.532475,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2569",
+      "name": "Dr. Kamrul Hasan Chamber",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.55377,
+      "longitude": 90.527084,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2570",
+      "name": "Femous Health Care",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553752,
+      "longitude": 90.526953,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2572",
+      "name": "Kiur Diagonestics",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553856,
+      "longitude": 90.530153,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2573",
+      "name": "Life Diagonestics Center",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554455,
+      "longitude": 90.533782,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2574",
+      "name": "Medilab Digital Physiotherapy",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554282,
+      "longitude": 90.533045,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2575",
+      "name": "New Modern Diagonestics Center",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553911,
+      "longitude": 90.530837,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2576",
+      "name": "New Square Diagonestics Center",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553921,
+      "longitude": 90.531645,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2577",
+      "name": "Renesha Diagonestics Care",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554264,
+      "longitude": 90.532648,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2578",
+      "name": "Renesha Diagonestics Center",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.553872,
+      "longitude": 90.532077,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2579",
+      "name": "Special Physiotherapy Center",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "district_slug": "munshiganj",
+      "upazila": "Munshiganj Sadar",
+      "address": "Munshiganj Sadar, Munshiganj",
+      "latitude": 23.554213,
+      "longitude": 90.53268,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "banking": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "CHARKEWAR BRANCH",
+      "routing_number": "035590343",
+      "swift_code": "BKBABDDH",
+      "district": "MUNSHIGANJ",
+      "address": "CHARKEWAR, MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "mgrcharkaeor@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4415 / 034"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "MUNSHIGANJ BRANCH",
+      "routing_number": "135591039",
+      "swift_code": "JANBBDDH",
+      "district": "MUNSHIGANJ",
+      "address": "MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "02 7611126, 0691 62126",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "103"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "MUNSHIGANJ BRANCH",
+      "routing_number": "175591031",
+      "swift_code": "PUBABDDH",
+      "district": "MUNSHIGANJ",
+      "address": "SADAR ROAD, MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "0691 3159",
+      "email": "munshiganj@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "103"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "NURPUR BRANCH",
+      "routing_number": "175591123",
+      "swift_code": "PUBABDDH",
+      "district": "MUNSHIGANJ",
+      "address": "BINODPUR, MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "0691 3362",
+      "email": "nurpur@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "112"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "MUNSHIGANJ BRANCH",
+      "routing_number": "185591034",
+      "swift_code": "RUPBBDDH",
+      "district": "MUNSHIGANJ",
+      "address": "MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "0691 63176, 018 24690696",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "0737 / 103"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "MUNSHIGANJ BRANCH",
+      "routing_number": "200591030",
+      "swift_code": "BSONBDDH",
+      "district": "MUNSHIGANJ",
+      "address": "MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "0691 62119",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "103 / 103"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "SHUKHBASHPUR BRANCH",
+      "routing_number": "200591485",
+      "swift_code": "BSONBDDH",
+      "district": "MUNSHIGANJ",
+      "address": "SHUKHBASHPUR, MUNSHIGANJ SADAR, MUNSHIGANJ",
+      "telephone": "0691 62489",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "148 / 148"
+    }
+  ],
+  "emergency": {
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "upazila": "Munshiganj Sadar",
+    "national_hotlines": [
+      {
+        "name": "National Emergency Service (Police, Fire, Ambulance)",
+        "number": "999"
+      },
+      {
+        "name": "National Information & Citizen Service",
+        "number": "333"
+      },
+      {
+        "name": "Government Legal Aid",
+        "number": "16430"
+      },
+      {
+        "name": "Child Helpline",
+        "number": "1098"
+      },
+      {
+        "name": "Women & Children Repression Prevention Helpline",
+        "number": "109"
+      }
+    ],
+    "district_administration": {
+      "district": "Munshiganj",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Munshiganj",
+        "phone": "01713-000015",
+        "email": "dcmunshiganj@mopa.gov.bd",
+        "website": "http://www.munshiganj.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Munshiganj",
+        "phone": "01713-373015",
+        "email": "spmunshiganj@police.gov.bd",
+        "control_room": "01713-374015"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Munshiganj",
+        "phone": "01713-555015",
+        "email": "csmunshiganj@dghs.gov.bd"
+      }
+    },
+    "police_stations": [
+      {
+        "thana_id": "PS-DIST-28",
+        "name": "Munshiganj Sadar Police Station",
+        "bn_name": "Munshiganj সদর থানা",
+        "unit": "Munshiganj District Police",
+        "division": "General",
+        "district": "Munshiganj",
+        "address": "Court Building Road, Sadar, Munshiganj",
+        "oc_mobile": "01713-374028",
+        "duty_officer": "01713-399028",
+        "tnt": "02-770028",
+        "control_room": "01713-374000"
+      }
+    ],
+    "fire_stations": [
+      {
+        "station_id": "FS-019",
+        "name": "Munshiganj Fire Station & Civil Defence",
+        "bn_name": "Munshiganj ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+        "division": "General",
+        "district": "Munshiganj",
+        "address": "Sadar, Munshiganj",
+        "hotline": "16163",
+        "emergency_phone": "02-9988019",
+        "mobile": "01713-038019",
+        "station_type": "District Headquarters Station"
+      }
+    ]
+  },
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 280,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক মুন্ সীগঞ্জ",
+        "dags": "98,30,224,425,229,147,154,178,79,196,412,422,24,46,48,28,383,424,426,428,51,64,8",
+        "total_land": "111.25"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং ময়নামতি আইচ এন্ড কোল্ড ষ্টোরেজ লিঃ 161 মতিঝিল কমাশিয়াল এরিয়া রমনা ঢাকা",
+        "dags": "398,396,397",
+        "total_land": "2.37"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং অনাথ বদ্ধু হালদার",
+        "dags": "357",
+        "total_land": "0.19"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং অনাথ মল্লিক,বলরাম মল্লিক,সন্তোষ মল্লিক, পিক ভাষানী মল্লিক, হাং সাং ভারত, পক্ষে বাংলাদেশ সরকার",
+        "dags": "478,479,480,481",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আইয়ুব আলী,তৈয়ব আলী,জামিলা খাতুন,আছিয়া খাতুন",
+        "dags": "114",
+        "total_land": "0.19"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আককাছ আলী",
+        "dags": "72,68",
+        "total_land": "0.28"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আক্কাছ আলী,আছিয়া খাতুন",
+        "dags": "33",
+        "total_land": "1.15"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আকুব আলী",
+        "dags": "160",
+        "total_land": "0.06"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আক্রমন নেছা",
+        "dags": "568",
+        "total_land": "0.62"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আকালী মন্ডল,কুকুটি সুন্দরি",
+        "dags": "370",
+        "total_land": "0.21"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আকালী মন্ডল",
+        "dags": "342",
+        "total_land": "0.06"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আছান উদ্দিন",
+        "dags": "579,580",
+        "total_land": "0.26"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আনন্দ ছৈয়াল,মোহাম্মদ বাদসা মিয়া",
+        "dags": "34,35",
+        "total_land": "0.18"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আবদুল আউয়াল মুন্ সী",
+        "dags": "393,394,253,380,382,4",
+        "total_land": "1.29"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আবদুল আলী মাদবর",
+        "dags": "73,176",
+        "total_land": "0.89"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আবদুল আলী মাদবর,আবদুর রহিম",
+        "dags": "176",
+        "total_land": "0.74"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আবদুল ওয়াহেদ",
+        "dags": "71,123,122,148,168",
+        "total_land": "1.73"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আবদুল মজিদ বেপারী,আবদুল ওয়াহেদ বেপারী",
+        "dags": "196",
+        "total_land": "0.02"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আব্দুল আজিজ,তহিরুন নেছা,কলমজান বিবি,কালু বেপারী,নুর বকস ব্যাপরী,আব্দুলম গনি",
+        "dags": "493,494",
+        "total_land": "0.74"
+      },
+      {
+        "khatian_no": "22",
+        "survey": "RS",
+        "mouza_name": "ইমামচর",
+        "jl_no": "1",
+        "owners": "দং আব্দুল আজিজ,মুক্তার হোসেন,সিরাজ উদ্দিন,রেওয়াজুদ্দিন,রমিজুদ্দিন,তমিজুদ্দিন",
+        "dags": "145,165,120,111",
+        "total_land": "1.22"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "তিলার্দ্দি",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "ইমামচর",
+        "jl_no": "14",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "তেলক্ষীরা",
+        "jl_no": "16",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "তিলারদি",
+        "jl_no": "18",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "জিরানন্দ পট্টি",
+        "jl_no": "19",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "নগর কসবা",
+        "jl_no": "20",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "এনায়েতনগর",
+        "jl_no": "21",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "গোপাল নগর",
+        "jl_no": "22",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "রিকাবীবাজার",
+        "jl_no": "23",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "রামনগর",
+        "jl_no": "24",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "গোয়াল ঘুণী",
+        "jl_no": "25",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "কাজি কসবা",
+        "jl_no": "26",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "চন্দনতলা",
+        "jl_no": "27",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "মুরমা",
+        "jl_no": "28",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "পানাম",
+        "jl_no": "29",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "জোড়ার দেউল",
+        "jl_no": "30",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "সুয়াপাড়া",
+        "jl_no": "56",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "ধামদ",
+        "jl_no": "57",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "বজ্রযোগিনী",
+        "jl_no": "58",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "আটপাড়া",
+        "jl_no": "59",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "সুখবাসপুর",
+        "jl_no": "60",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "খানকা",
+        "jl_no": "61",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "রামপাল",
+        "jl_no": "62",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "কালঞ্চি পাড়া",
+        "jl_no": "63",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "গোবিন্দপুর",
+        "jl_no": "64",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "বল্লালবাড়ী",
+        "jl_no": "65",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "শাখারীবাজার",
+        "jl_no": "66",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "রামগোপালপুর",
+        "jl_no": "67",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "বিনোদপুর",
+        "jl_no": "68",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      },
+      {
+        "mouza_name": "ফিরীঙ্গি বাজার",
+        "jl_no": "69",
+        "survey": "CS",
+        "upazila": "MUNSHIGANJ SADAR"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/0:/",
+      "district_drive_url": "https://free.mouzamap.tech/0:/Munshiganj/",
+      "district_total_maps": 3167,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 32.709,
+      "catalog_github_path": "land/maps/Dhaka/Munshiganj.json",
+      "online_folder_url": "https://free.mouzamap.tech/0:/Munshiganj/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Munshiganj",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Munshiganj",
+        "phone": "01713-000015",
+        "email": "dcmunshiganj@mopa.gov.bd",
+        "website": "http://www.munshiganj.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Munshiganj",
+        "phone": "01713-373015",
+        "email": "spmunshiganj@police.gov.bd",
+        "control_room": "01713-374015"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Munshiganj",
+        "phone": "01713-555015",
+        "email": "csmunshiganj@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "171",
+        "name": {
+          "en": "Munshigonj-1",
+          "bn": "মুন্সিগঞ্জ-১"
+        },
+        "total_voters": 545519
+      },
+      {
+        "code": "172",
+        "name": {
+          "en": "Munshigonj-2",
+          "bn": "মুন্সিগঞ্জ-২"
+        },
+        "total_voters": 378492
+      },
+      {
+        "code": "173",
+        "name": {
+          "en": "Munshigonj-3",
+          "bn": "মুন্সিগঞ্জ-৩"
+        },
+        "total_voters": 509467
+      }
+    ],
+    "upazila_portal": "sadar.munshiganj.gov.bd",
+    "district_portal": "http://www.munshiganj.gov.bd",
+    "union_portals_count": 9,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

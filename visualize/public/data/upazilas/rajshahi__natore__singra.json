@@ -1,1 +1,1961 @@
-{"division": "Rajshahi", "district": "Natore", "upazila": "Singra", "upazila_slug": "rajshahi__natore__singra", "geography": {"division": "Rajshahi", "division_bn": "রাজশাহী", "district": "Natore", "district_bn": "নাটোর", "district_lat": "24.420556", "district_lon": "89.000282", "upazila_id": "144", "upazila": "Singra", "upazila_bn": "সিংড়া", "official_url": "singra.natore.gov.bd", "total_unions": 12, "unions": [{"id": "1297", "name": "Sukash", "bn_name": "শুকাশ", "url": "sukashup.natore.gov.bd"}, {"id": "1298", "name": "Dahia", "bn_name": "ডাহিয়া", "url": "dahiaup.natore.gov.bd"}, {"id": "1299", "name": "Italy", "bn_name": "ইটালী", "url": "italyup.natore.gov.bd"}, {"id": "1300", "name": "Kalam", "bn_name": "কলম", "url": "kalamup.natore.gov.bd"}, {"id": "1301", "name": "Chamari", "bn_name": "চামারী", "url": "chamariup.natore.gov.bd"}, {"id": "1302", "name": "Hatiandaha", "bn_name": "হাতিয়ানদহ", "url": "hatiandahaup.natore.gov.bd"}, {"id": "1303", "name": "Lalore", "bn_name": "লালোর", "url": "laloreup.natore.gov.bd"}, {"id": "1304", "name": "Sherkole", "bn_name": "শেরকোল", "url": "sherkoleup.natore.gov.bd"}, {"id": "1305", "name": "Tajpur", "bn_name": "তাজপুর", "url": "tajpurup.natore.gov.bd"}, {"id": "1306", "name": "Chaugram", "bn_name": "চৌগ্রাম", "url": "chaugramup.natore.gov.bd"}, {"id": "1307", "name": "Chhatardighi", "bn_name": "ছাতারদিঘী", "url": "chhatardighiup.natore.gov.bd"}, {"id": "1308", "name": "Ramanandakhajura", "bn_name": "রামান্দখাজুরা", "url": "ramanandakhajuraup.natore.gov.bd"}], "total_post_offices": 1, "postal_codes": [{"postcode": "6450", "postcode_bn": "৬৪৫০", "sub_office": "Singra", "sub_office_bn": "সিংড়া"}]}, "stats": {"education_count": 112, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 12, "postcodes_count": 1, "land_khatians_count": 25, "mouzas_count": 1148}, "education": [{"eiin": "124316", "name": "BIL HALTI TRIMOHONI DEGREE COLLEGE", "name_bn": "বিলহালতী ত্রিমোহনী কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01713736211", "email": "bilhaltitrimohonidegreecollege@yahoo.com", "teacher_count": 0, "file": "BIL HALTI TRIMOHONI DEGREE COLLEGE.json"}, {"eiin": "124311", "name": "CHAMARI COLLAGE", "name_bn": "চামারী ডিগ্রী কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01716388866", "email": "c124311c@gmail.com", "teacher_count": 0, "file": "CHAMARI COLLAGE.json"}, {"eiin": "124312", "name": "GOL-E- AFROZ GOVT. COLLEGE", "name_bn": "গোল-ই-আফরোজ সরকারি কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01712118481", "email": "ga_govtcollege@yahoo.com", "teacher_count": 0, "file": "GOL-E- AFROZ GOVT. COLLEGE.json"}, {"eiin": "124313", "name": "KALAM DEGREE COLLEGE", "name_bn": "কলম ডিগ্রী কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01712614063", "email": "principal.kalamdegreecollege@gmail.com", "teacher_count": 0, "file": "KALAM DEGREE COLLEGE.json"}, {"eiin": "124314", "name": "RAHIM UDDIN AHMED MEMEORIAL COLLEGE", "name_bn": "রহিম উদ্দিন আহমেদ মেমোরিয়াল কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01724295818", "email": "ruamcollege@gmail.com", "teacher_count": 0, "file": "RAHIM UDDIN AHMED MEMEORIAL COLLEGE.json"}, {"eiin": "124315", "name": "RAHMAT IQBAL DEGREE COLLEGE", "name_bn": "রহমত ইকবাল ডিগ্রী কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01746335899", "email": "rohmotiqbaldegreecollege@yahoo.com", "teacher_count": 0, "file": "RAHMAT IQBAL DEGREE COLLEGE.json"}, {"eiin": "138182", "name": "SHERKOLE ADORSHA COLLEGE", "name_bn": "শেরকোল আদর্শ কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01712536128", "email": "sherkoleadarshacollege@gmail.com", "teacher_count": 0, "file": "SHERKOLE ADORSHA COLLEGE.json"}, {"eiin": "124310", "name": "SINGRA CHALAN BIL WOMENS COLLEGE", "name_bn": "সিংড়া চলনবিল মহিলা কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01718775350", "email": "scwdc2335@gmail.com", "teacher_count": 0, "file": "SINGRA CHALAN BIL WOMENS COLLEGE.json"}, {"eiin": "132285", "name": "TECHNICAL WOMEN'S COLLEGE SINGRA . NATORE", "name_bn": "কারিগরি মহিলা মহাবিদ্যালয়,সিংড়া,নাটোর।", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01711126926", "email": "wtc_singra@yahoo.com", "teacher_count": 0, "file": "TECHNICAL WOMEN'S COLLEGE SINGRA . NATORE.json"}, {"eiin": "124305", "name": "BAHADURPUR DAKHIL MADRASAH", "name_bn": "বাহাদুরপুর দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01740556896", "email": "bdm124305@gmail.com", "teacher_count": 0, "file": "BAHADURPUR DAKHIL MADRASAH.json"}, {"eiin": "124304", "name": "BAMIHAL DARUS SUNNAT SIDIQUIA MUZADDEDIA DAKHIL MADRASA", "name_bn": "বামিহাল দারুস-সুন্নাত এস,এম দাখিল মাদরাসা।", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01740325854", "email": "mmmm124304@gmail.com", "teacher_count": 0, "file": "BAMIHAL DARUS SUNNAT SIDIQUIA MUZADDEDIA DAKHIL MADRASA.json"}, {"eiin": "124302", "name": "BARO BAROIHATI DAKHIL MADRASHA", "name_bn": "বড় বারৈহাটী দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01740880067", "email": "mmmm124302@gmail.com", "teacher_count": 0, "file": "BARO BAROIHATI DAKHIL MADRASHA.json"}, {"eiin": "124298", "name": "BAROGAON R K H DAKHIL MADRRSAH", "name_bn": "বড়গাঁও আর.কে.এইচ দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01726346711", "email": "mmm124298@gmail.com", "teacher_count": 0, "file": "BAROGAON R K H DAKHIL MADRRSAH.json"}, {"eiin": "124306", "name": "BHULBARIA ALHAZ ISLAMIAH DAKHIL MADRASHA", "name_bn": "ভুলবাড়ীয়া আলহাজ্ব ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714781343", "email": "bhulbaria124306@gmail.com", "teacher_count": 0, "file": "BHULBARIA ALHAZ ISLAMIAH DAKHIL MADRASHA.json"}, {"eiin": "124307", "name": "KAKIAN BALIKA DAKHIL MADRASHA", "name_bn": "কাঁকিয়ান বালিকা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01799109985", "email": "mm124307@gmail.com", "teacher_count": 0, "file": "KAKIAN BALIKA DAKHIL MADRASHA.json"}, {"eiin": "131408", "name": "MALKUR DHAKHIL MADRASHA", "name_bn": "মালকুড় দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01729615922", "email": "mm131408@gmail.com", "teacher_count": 0, "file": "MALKUR DHAKHIL MADRASHA.json"}, {"eiin": "124299", "name": "MOHISMARI ISLAMIA DAKHIL MADRASHA", "name_bn": "মহিষমারি ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01710137568", "email": "m124299@gmail.com", "teacher_count": 0, "file": "MOHISMARI ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "124300", "name": "SHALMARA DHAMATCH IS. S. FAKHIL MADRASHA", "name_bn": "শালমারা ধামাইচ ইসলামিয়া সিদ্দিকীয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01718880527", "email": "salmaradakhilmadrasha@gmail.com", "teacher_count": 0, "file": "SHALMARA DHAMATCH IS. S. FAKHIL MADRASHA.json"}, {"eiin": "124296", "name": "AYESH BASIRUL ALIM MADRASAH", "name_bn": "আয়েশ বছিরুল আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01799177374", "email": "abuamadrasha@gmail.com", "teacher_count": 0, "file": "AYESH BASIRUL ALIM MADRASAH.json"}, {"eiin": "124297", "name": "KURIPAKIA A. U FAZIL MADRASAH", "name_bn": "কুড়িপাকিয়া আযিযুল উলুম ফাযিল (ডিগ্রী) মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01721897971", "email": "mm124297@gmail.com", "teacher_count": 0, "file": "KURIPAKIA A. U FAZIL MADRASAH.json"}, {"eiin": "124303", "name": "PUNDARI ALIM MADRASAH", "name_bn": "পুন্ডরী আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01716023249", "email": "pundarialimmad@gmail.com", "teacher_count": 0, "file": "PUNDARI ALIM MADRASAH.json"}, {"eiin": "124301", "name": "SOLAKURA ISLAMIA ALIM MADRASAH", "name_bn": "শোলাকুড়া ইসলামিয়া আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01718824315", "email": "solakuramadrasha@gmail.com", "teacher_count": 0, "file": "SOLAKURA ISLAMIA ALIM MADRASAH.json"}, {"eiin": "135825", "name": "AKLIMA DIGITAL TRAINING INSTITUTE", "name_bn": "আকলিমা ডিজিটাল ট্রেনিং ইন্সটিটিউট", "type": null, "level": null, "category": "other", "mobile": "01711045488", "email": null, "teacher_count": 0, "file": "AKLIMA DIGITAL TRAINING INSTITUTE.json"}, {"eiin": "133122", "name": "AL HAZ JALAL UDDIN TEC. HIGH SCHOOL.", "name_bn": "আলহাজ্ব জালাল উদ্দিন কারিগরি উচ্চ বিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01718086060", "email": null, "teacher_count": 0, "file": "AL HAZ JALAL UDDIN TEC. HIGH SCHOOL..json"}, {"eiin": "140183", "name": "ALHAJ ABDUL AZIZ TECHNICAL SCHOOL AND COLLEGE", "name_bn": "আলহাজ্ব আব্দুল আজিজ কারিগরি স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01757797655", "email": null, "teacher_count": 0, "file": "ALHAJ ABDUL AZIZ TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "133020", "name": "AMZAD HOSSAN MEMORIAL TECHNICAL SCOOL & COLLEGE", "name_bn": "আমজাদ হোসেন মেমোরিয়াল কারিগরি স্কুল এ্যান্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712130674", "email": null, "teacher_count": 0, "file": "AMZAD HOSSAN MEMORIAL TECHNICAL SCOOL & COLLEGE.json"}, {"eiin": "132301", "name": "ANOWARA PILOT GIRLS HIGH SCHOOL", "name_bn": "আনোয়ারা পাইলট বালিকা উচ্চ বিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01718253453", "email": null, "teacher_count": 0, "file": "ANOWARA PILOT GIRLS HIGH SCHOOL.json"}, {"eiin": "132790", "name": "ANOWARA PILOT HIGH SCHOOL (SSC VOC)", "name_bn": "আনোয়ারা পাইলট উচ্চ বিদ্যালয় (এসএসসি ভোক)", "type": null, "level": null, "category": "other", "mobile": "01753571357", "email": null, "teacher_count": 0, "file": "ANOWARA PILOT HIGH SCHOOL (SSC VOC).json"}, {"eiin": "132879", "name": "BAHADUR PUR TECHNICAL SCHOOL & COLLEGE", "name_bn": "বাহাদুরপুর কারিগরি স্কুল এ্যান্ড কলেজরিগরি স্কুল এ্যান্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712520019", "email": null, "teacher_count": 0, "file": "BAHADUR PUR TECHNICAL SCHOOL & COLLEGE.json"}, {"eiin": "135333", "name": "BAMIHAL SSC VOCATIONAL TECHNICAL GIRLS SCHOOL", "name_bn": "বামিহাল এস,এস,সি (ভোকঃ) কারিগরি বালিকা বিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01730983287", "email": null, "teacher_count": 0, "file": "BAMIHAL SSC VOCATIONAL TECHNICAL GIRLS SCHOOL.json"}, {"eiin": "132701", "name": "BAMIHAL TECHNICAL AND BUSINESS MANAGEMENT COLLEGE", "name_bn": "বামিহাল টেকনিক্যাল অ্যান্ড বিজনেজ মনেজেম্যান্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712144190", "email": null, "teacher_count": 0, "file": "BAMIHAL TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "134760", "name": "BANGABANDHU GOVT. COMMERCE AND TECHNICAL COLLEGE", "name_bn": "বঙ্গবন্ধ সরকারি কমার্স এন্ড টেকনিক্যাল কলেজ", "type": null, "level": null, "category": "other", "mobile": "01718948758", "email": null, "teacher_count": 0, "file": "BANGABANDHU GOVT. COMMERCE AND TECHNICAL COLLEGE.json"}, {"eiin": "132870", "name": "BARA SHAOIL TECNICAL AND B.M COLLEGE", "name_bn": "বড় সাঁঐল টেকনিক্যাল এ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01731237110", "email": null, "teacher_count": 0, "file": "BARA SHAOIL TECNICAL AND B.M COLLEGE.json"}, {"eiin": "136899", "name": "BIASH TECHNICAL SCHOOL AND COLLEGE", "name_bn": "বিয়াশ টেকনিক্যাল স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01714764474", "email": null, "teacher_count": 0, "file": "BIASH TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "132786", "name": "BILLDOHAR KARIGORI SCHOOL & COLLEGE", "name_bn": "বিলদহর কারিগরি স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01710062104", "email": null, "teacher_count": 0, "file": "BILLDOHAR KARIGORI SCHOOL & COLLEGE.json"}, {"eiin": "132847", "name": "CHALK- KALIKA PUR TECHNICAL INSTITUTE", "name_bn": "চক কালিকাপুর টেকনিক্যাল ইন্সটিটিউট", "type": null, "level": null, "category": "other", "mobile": "01714691271", "email": null, "teacher_count": 0, "file": "CHALK- KALIKA PUR TECHNICAL INSTITUTE.json"}, {"eiin": "132615", "name": "DURGAPUR IDEAL TECHNICAL HIGH SCHOOL", "name_bn": "দূর্গাপুর আইডিয়াল টেকনিক্যাল হাইস্কুল", "type": null, "level": null, "category": "other", "mobile": "01712858162", "email": null, "teacher_count": 0, "file": "DURGAPUR IDEAL TECHNICAL HIGH SCHOOL.json"}, {"eiin": "136468", "name": "FARIDNAGOR TECHNICAL SCHOOL AND BM COLLEGE", "name_bn": "ফরিদনগর টেকনিক্যাল স্কুল এন্ড বি.এম কলেজ", "type": null, "level": null, "category": "other", "mobile": "01725457143", "email": null, "teacher_count": 0, "file": "FARIDNAGOR TECHNICAL SCHOOL AND BM COLLEGE.json"}, {"eiin": "132483", "name": "KALAM TECHNICAL SCHOOL AND COLLEGE", "name_bn": "কলম কারিগরি স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01729938415", "email": null, "teacher_count": 0, "file": "KALAM TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "132347", "name": "KALIGANJ KARIGARI SCHOOL AND COLLEGE", "name_bn": "কালিগঞ্জ কারিগরি স্কুল এ্যান্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01716369333", "email": null, "teacher_count": 0, "file": "KALIGANJ KARIGARI SCHOOL AND COLLEGE.json"}, {"eiin": "132723", "name": "KRISHI DIPLOMA INSTITUTE SINGRA NATORE", "name_bn": "কৃষি ডিপ্লোমা ইন্সটিটিউট সিংড়া, নাটোর।", "type": null, "level": null, "category": "other", "mobile": "01714658614", "email": null, "teacher_count": 0, "file": "KRISHI DIPLOMA INSTITUTE SINGRA NATORE.json"}, {"eiin": "135797", "name": "MAHBUBUR RAHMAN JUNIOR SCHOOL", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01730853003", "email": null, "teacher_count": 0, "file": "MAHBUBUR RAHMAN JUNIOR SCHOOL.json"}, {"eiin": "140527", "name": "PAKURIAPARA CHALANBIL HIGH SCHOOL", "name_bn": "পাকুড়িয়াপাড়া চলনবিল উচ্চ বিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01750002462", "email": null, "teacher_count": 0, "file": "PAKURIAPARA CHALANBIL HIGH SCHOOL.json"}, {"eiin": "138116", "name": "PALAK TECHNICAL SCHOOL AND COLLEGE", "name_bn": "পলক টেকনিক্যাল স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01731923105", "email": null, "teacher_count": 0, "file": "PALAK TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "140392", "name": "RABEYA KASHEM TECHNICAL AND VOCATIONAL INSTITUTE", "name_bn": "রাবেয়া কাশেম টেকনিক্যাল অ্যান্ড ভোকেশনাল ইন্সটিটিউট", "type": null, "level": null, "category": "other", "mobile": "01716114872", "email": null, "teacher_count": 0, "file": "RABEYA KASHEM TECHNICAL AND VOCATIONAL INSTITUTE.json"}, {"eiin": "135821", "name": "SCHOOL OF COMPUTER (COMPUTER TRAINING CENTER)", "name_bn": "স্কুল অব কম্পিউটার (কম্পিউটার প্রশিক্ষণ কেন্দ্র)", "type": null, "level": null, "category": "other", "mobile": "01729368900", "email": null, "teacher_count": 0, "file": "SCHOOL OF COMPUTER (COMPUTER TRAINING CENTER).json"}, {"eiin": "135351", "name": "SHEBA INSTITUTE OF HEALTH TECHNOLOGY", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01731923105", "email": null, "teacher_count": 0, "file": "SHEBA INSTITUTE OF HEALTH TECHNOLOGY.json"}, {"eiin": "139803", "name": "SINGRA GOVT TECHNICAL SCHOOL AND COLLEGE", "name_bn": "সিংড়া সরকারি টেকনিক্যাল স্কুল ও কলেজ", "type": null, "level": null, "category": "other", "mobile": "01711006866", "email": null, "teacher_count": 0, "file": "SINGRA GOVT TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "135165", "name": "SINGRA HEALTH TECHNOLOGY INSTITUTE", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01711045488", "email": null, "teacher_count": 0, "file": "SINGRA HEALTH TECHNOLOGY INSTITUTE.json"}, {"eiin": "135822", "name": "URBAN IT POINT", "name_bn": "আরবান আই,টি পয়েন্ট,", "type": null, "level": null, "category": "other", "mobile": "01716039247", "email": null, "teacher_count": 0, "file": "URBAN IT POINT.json"}, {"eiin": "135350", "name": "ZAMILA FAYEZ POLYTECHNIC INSTITUTE", "name_bn": "জামিলা ফযেজ পলিটেকনি ইন্সটিটিউট", "type": null, "level": null, "category": "other", "mobile": "01731923105", "email": null, "teacher_count": 0, "file": "ZAMILA FAYEZ POLYTECHNIC INSTITUTE.json"}, {"eiin": "137218", "name": "MAJHGRAM GOVT. PRIMARY SCHOOL", "name_bn": "মাঝগ্রাম সরকারী প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01731537671", "email": "majhgramgpssingra@gmail.com", "teacher_count": 142, "file": "MAJHGRAM GOVT. PRIMARY SCHOOL.json"}, {"eiin": "124286", "name": "ALHAZ A RAHIM HIGH SCHOOL", "name_bn": "আলহাজ আব্দুর রহিম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719538862", "email": "aarhighschool2222@gmail.com", "teacher_count": 192, "file": "ALHAZ A RAHIM HIGH SCHOOL.json"}, {"eiin": "124269", "name": "BADOPARA HIGH SCHOOL", "name_bn": "বাদোপাড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719866689", "email": "sb124269hs@gmail.com", "teacher_count": 195, "file": "BADOPARA HIGH SCHOOL.json"}, {"eiin": "124266", "name": "BAHADUR PUR BILATERAL HIGH SCHOOL", "name_bn": "বাহাদুরপুর দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719735990", "email": "ss124266@gmail.com", "teacher_count": 216, "file": "BAHADUR PUR BILATERAL HIGH SCHOOL.json"}, {"eiin": "124262", "name": "BAMIHAL B.L. HIGH SCHOOL", "name_bn": "বামিহাল দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718692064", "email": "sss124262@gmail.com", "teacher_count": 215, "file": "BAMIHAL B.L. HIGH SCHOOL.json"}, {"eiin": "124272", "name": "BARA SAOIL GIRLS HIGH SCHOOL", "name_bn": "বড সাঁঐল বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716721695", "email": "s124272ss@gmail.com", "teacher_count": 195, "file": "BARA SAOIL GIRLS HIGH SCHOOL.json"}, {"eiin": "124264", "name": "BELOWA HIGH SCHOOL", "name_bn": "বেলোয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716725844", "email": "s124264belowahighschool@gmail.com", "teacher_count": 203, "file": "BELOWA HIGH SCHOOL.json"}, {"eiin": "124251", "name": "BHAGNAGOR KANDI HIGH SCHOOL", "name_bn": "ভাগনাগর কান্দি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716844948", "email": "sss124251@gmail.com", "teacher_count": 308, "file": "BHAGNAGOR KANDI HIGH SCHOOL.json"}, {"eiin": "124271", "name": "BIASH HIGH SCHOOL", "name_bn": "বিয়াশ দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717725627", "email": "ss124271hs@gmail.com", "teacher_count": 202, "file": "BIASH HIGH SCHOOL.json"}, {"eiin": "124252", "name": "BILDAHAR HIGH SCHOOL", "name_bn": "বিলদহর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01747480176", "email": "s124252.bildaharhs@gmail.com", "teacher_count": 221, "file": "BILDAHAR HIGH SCHOOL.json"}, {"eiin": "124285", "name": "BINGRAM HIGH SCHOOL", "name_bn": "বিনগ্রাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721516714", "email": "bingram124285@gmail.com", "teacher_count": 213, "file": "BINGRAM HIGH SCHOOL.json"}, {"eiin": "130992", "name": "BISHNUPUR ITALY MODEL HIGH SCHOOL", "name_bn": "বিষ্ণুপুর ইটালী মডেল হাইস্কুল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719055022", "email": "s130992@gmail.com", "teacher_count": 220, "file": "BISHNUPUR ITALY MODEL HIGH SCHOOL.json"}, {"eiin": "124259", "name": "BOALIA BL HIGH SCHOOL", "name_bn": "বোয়ালিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01735123965", "email": "boaliahighschool124259@gmail.com", "teacher_count": 207, "file": "BOALIA BL HIGH SCHOOL.json"}, {"eiin": "124248", "name": "BONKURY HIGH SCHOOL", "name_bn": "বনকুড়ি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712382072", "email": "bhs124248@gmail.com", "teacher_count": 187, "file": "BONKURY HIGH SCHOOL.json"}, {"eiin": "124258", "name": "BRIKAYA ADARSHA HIGH SCHOOL", "name_bn": "বৃকয়া আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721381017", "email": "bahs1952@gmail.com", "teacher_count": 218, "file": "BRIKAYA ADARSHA HIGH SCHOOL.json"}, {"eiin": "124291", "name": "CHAKPUR BIL BHARAT HIGH SCHOOL", "name_bn": "চকপুর বিলভরট উচ্চ বিদ্যালয", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01733682924", "email": "ss124291@gmail.com", "teacher_count": 215, "file": "CHAKPUR BIL BHARAT HIGH SCHOOL.json"}, {"eiin": "137039", "name": "CHALONBEL MODEL HIGH SCHOOL", "name_bn": "চলনবিল মডেল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01741070440", "email": "s137039@gmail.com", "teacher_count": 150, "file": "CHALONBEL MODEL HIGH SCHOOL.json"}, {"eiin": "124254", "name": "CHAMARI B.N HIGH SCHOOL", "name_bn": "চামারী বি. এন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740892549", "email": "cbnhs124254@gmail.com", "teacher_count": 227, "file": "CHAMARI B.N HIGH SCHOOL.json"}, {"eiin": "124277", "name": "DAHIA P.G.D.HIGH SCHOOL", "name_bn": "ডাহিয়া পীর ঘাসী দেওয়ান উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740634555", "email": "s124277dpgd@gmail.com", "teacher_count": 189, "file": "DAHIA P.G.D.HIGH SCHOOL.json"}, {"eiin": "124260", "name": "DANGAPARA BL HIGH SCHOOL", "name_bn": "ডাঙ্গাপাড়া দ্বিমুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717253697", "email": "s124260dhschool@gmail.com", "teacher_count": 188, "file": "DANGAPARA BL HIGH SCHOOL.json"}, {"eiin": "124281", "name": "DURGA PUR HIGH SCHOOL", "name_bn": "দূর্গাপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01770652824", "email": "ss124281hs@gmail.com", "teacher_count": 204, "file": "DURGA PUR HIGH SCHOOL.json"}, {"eiin": "139633", "name": "GOTIA SAYODA RAHMAN IDEAL SCHOOL AND COLLEGE", "name_bn": "গোটিয়া সৈয়দা-রহমান আইডিয়াল স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01772846460", "email": "sayodarahman2013@gmail.com", "teacher_count": 48, "file": "GOTIA SAYODA RAHMAN IDEAL SCHOOL AND COLLEGE.json"}, {"eiin": "124279", "name": "HAMIR GOSH HIGH SCHOOL", "name_bn": "হামিরঘোষ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721797712", "email": "ssss124279@gmail.com", "teacher_count": 205, "file": "HAMIR GOSH HIGH SCHOOL.json"}, {"eiin": "124265", "name": "HULHULIA HIGH SCHOOL", "name_bn": "হূলহূলিয়া উচচ বিদদালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718936106", "email": "sss124265@gmail.com", "teacher_count": 182, "file": "HULHULIA HIGH SCHOOL.json"}, {"eiin": "124250", "name": "JAMTOLY HAT JUNIOR SCHOOL", "name_bn": "জামতলী হাট নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01716187282", "email": "sss124250@gmail.com", "teacher_count": 117, "file": "JAMTOLY HAT JUNIOR SCHOOL.json"}, {"eiin": "124268", "name": "JORE MOLLIKA NINGOIN HIGH SCHOOL", "name_bn": "জোড়মল্লিকা নিংগইন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719821660", "email": "jnhs19671@gmail.com", "teacher_count": 207, "file": "JORE MOLLIKA NINGOIN HIGH SCHOOL.json"}, {"eiin": "124282", "name": "JOY KURI HIGH SCHOOL", "name_bn": "জয়কুড়ি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713725807", "email": "sjoykuri124282@gmail.com", "teacher_count": 210, "file": "JOY KURI HIGH SCHOOL.json"}, {"eiin": "124261", "name": "JOYNAGOR TAJPUR HIGH SCHOOL", "name_bn": "জয়নগর তাজপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01733153271", "email": "mrjths1963@gmail.com", "teacher_count": 212, "file": "JOYNAGOR TAJPUR HIGH SCHOOL.json"}, {"eiin": "124255", "name": "KALAM HIGH SCHOOL", "name_bn": "কলম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01855900862", "email": "kalamhs1924@gmail.com", "teacher_count": 259, "file": "KALAM HIGH SCHOOL.json"}, {"eiin": "124257", "name": "KALIGANJ BANAMALI INSTITUTION", "name_bn": "কালীগঞ্জ বনমালী দ্বি-মুখী ইনষ্টিটিউশন", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721419736", "email": "kaliganj.institution.edu.bd@gmail.com", "teacher_count": 305, "file": "KALIGANJ BANAMALI INSTITUTION.json"}, {"eiin": "124293", "name": "KALINAGAR JUNIOR HIGH SCHOOL", "name_bn": "কালীনগর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721105748", "email": "sss124293@gmail.com", "teacher_count": 188, "file": "KALINAGAR JUNIOR HIGH SCHOOL.json"}, {"eiin": "124292", "name": "KATUA BARI HIGH SCHOOL", "name_bn": "কতুয়াবাড়ী্ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01746108600", "email": "kat124292@gmail.com", "teacher_count": 347, "file": "KATUA BARI HIGH SCHOOL.json"}, {"eiin": "124278", "name": "KHIDRA BARIA HIGH SCHOOL", "name_bn": "ক্ষিদ্র বড়িয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01737829540", "email": "khs124278@gmail.com", "teacher_count": 130, "file": "KHIDRA BARIA HIGH SCHOOL.json"}, {"eiin": "136808", "name": "KHIRPOTA JUNIOR SCHOOL", "name_bn": "ক্ষিরপোতা নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01761590945", "email": "sk136808@gmail.com", "teacher_count": 82, "file": "KHIRPOTA JUNIOR SCHOOL.json"}, {"eiin": "124267", "name": "LALORE BILATTARAL HIGH SCHOOL", "name_bn": "লালোর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712337208", "email": "lalorehighschool1901@gmail.com", "teacher_count": 229, "file": "LALORE BILATTARAL HIGH SCHOOL.json"}, {"eiin": "124270", "name": "MOHISHMARI HIGH SCHOOL", "name_bn": "মহিষমারী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01733113780", "email": "mhs124270@gmail.com", "teacher_count": 218, "file": "MOHISHMARI HIGH SCHOOL.json"}, {"eiin": "124288", "name": "NALBATA HIGH SCHOOL", "name_bn": "নলবাতা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717013233", "email": "nalbatahighschool124288@gmail.com", "teacher_count": 222, "file": "NALBATA HIGH SCHOOL.json"}, {"eiin": "124283", "name": "NISCHINTA PUR HIGH SCHOOL", "name_bn": "নিশ্চিন্তপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715408881", "email": "s124283@gmail.com", "teacher_count": 214, "file": "NISCHINTA PUR HIGH SCHOOL.json"}, {"eiin": "124280", "name": "NURPUR HIGH SCHOOL", "name_bn": "নুরপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718943218", "email": "nhs124280@gmail.com", "teacher_count": 182, "file": "NURPUR HIGH SCHOOL.json"}, {"eiin": "124294", "name": "PAKISHA JUNIOR HIGH SCHOOL", "name_bn": "পাকিশা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718690361", "email": "sh124294@gmail.com", "teacher_count": 164, "file": "PAKISHA JUNIOR HIGH SCHOOL.json"}, {"eiin": "124249", "name": "PAKURIA KALAI KURI HIGH SCHOOL", "name_bn": "পাকুড়িয়া কালাইকুড়ি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715123669", "email": "s124249@gmail.com", "teacher_count": 231, "file": "PAKURIA KALAI KURI HIGH SCHOOL.json"}, {"eiin": "124276", "name": "PANCH PAKHIA HIGH SCHOOL", "name_bn": "পাঁচ পাখিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01738428781", "email": "ssss124276@gmail.com", "teacher_count": 177, "file": "PANCH PAKHIA HIGH SCHOOL.json"}, {"eiin": "124290", "name": "PANGASHIA HIGH SCHOOL", "name_bn": "পাঙ্গাশিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714740842", "email": "ss124290@gmail.com", "teacher_count": 181, "file": "PANGASHIA HIGH SCHOOL.json"}, {"eiin": "124275", "name": "PUTHIMARI HIGH SCHOOL", "name_bn": "পুঠিমারী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716853602", "email": "s124275@gmail.com", "teacher_count": 218, "file": "PUTHIMARI HIGH SCHOOL.json"}, {"eiin": "132135", "name": "SABIRON GULJAN SCHOOL AND COLLEGE", "name_bn": "ছবিরণ-গুলজান স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01760966160", "email": "sgs132135@gmail.com", "teacher_count": 161, "file": "SABIRON GULJAN SCHOOL AND COLLEGE.json"}, {"eiin": "124273", "name": "SATPUKURIA B/L HIGH SCHOOL", "name_bn": "সাতপুকুরিয়া দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721796792", "email": "si124273@gmail.com", "teacher_count": 224, "file": "SATPUKURIA BL HIGH SCHOOL.json"}, {"eiin": "124289", "name": "SHEDHAKHALE HIGH SCHOOL", "name_bn": "সিধাখালী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719735614", "email": "shedhakhalihighschool1994@gmail.com", "teacher_count": 200, "file": "SHEDHAKHALE HIGH SCHOOL.json"}, {"eiin": "131062", "name": "SHERKOLE JUNIOR GIRLS SCHOOL", "name_bn": "শেরকোল নিম্নমাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01912280605", "email": "sss131062@gmail.com", "teacher_count": 110, "file": "SHERKOLE JUNIOR GIRLS SCHOOL.json"}, {"eiin": "124256", "name": "SHERKOLE SAMJAN ALI HIGH SCHOOL", "name_bn": "শেরকোল সমজান আলী উচ্চ বিদ্যালয় ।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718891698", "email": "samanali124256@gmail.com", "teacher_count": 269, "file": "SHERKOLE SAMJAN ALI HIGH SCHOOL.json"}, {"eiin": "124295", "name": "SHOAIR JUNIOR SCHOOL", "name_bn": "সোয়াইড় নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01757654010", "email": "shoairjuniourschool@gmail.com", "teacher_count": 113, "file": "SHOAIR JUNIOR SCHOOL.json"}, {"eiin": "124253", "name": "SINGRA DAMDAMA GOVT GIRLS HIGH SCHOOL", "name_bn": "সিংড়া দমদমা সরকারি বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716964888", "email": "singragovt.girls@gmail.com", "teacher_count": 141, "file": "SINGRA DAMDAMA GOVT GIRLS HIGH SCHOOL.json"}, {"eiin": "124287", "name": "SONAGHATI GIRL'S HIGH SCHOOL", "name_bn": "সোনাঘাটী বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01761717017", "email": "sh124287@gmail.com", "teacher_count": 227, "file": "SONAGHATI GIRL'S HIGH SCHOOL.json"}, {"eiin": "124263", "name": "STHAPON DIGHI HGIH SCHOOL", "name_bn": "স্থাপনদিঘী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01761753777", "email": "sh124263h@gmail.com", "teacher_count": 220, "file": "STHAPON DIGHI HGIH SCHOOL.json"}, {"eiin": "124274", "name": "SUKASH HIGH SCHOOL", "name_bn": "সুকাশ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714943804", "email": "sukash124274@gmail.com", "teacher_count": 198, "file": "SUKASH HIGH SCHOOL.json"}, {"eiin": "132591", "name": "TECHNICAL AND BUSINESS MANAGEMENT COLLEGE", "name_bn": "টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01711045488", "email": "tbmcsingra@gmail.com", "teacher_count": 892, "file": "TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "124284", "name": "THAOIL CHOWPUKURIA HIGH SCHOOL", "name_bn": "থাওইল চৌপুকুরিয়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01729314294", "email": "tchs124284@gmail.com", "teacher_count": 191, "file": "THAOIL CHOWPUKURIA HIGH SCHOOL.json"}, {"eiin": "124247", "name": "AGPARA SHERKOLE BONDOR HIGH SCHOOL AND COLLEGE", "name_bn": "আগপাড়া শেরকোল বন্দর উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01711417123", "email": "ss124247@gmail.com", "teacher_count": 0, "file": "AGPARA SHERKOLE BONDOR HIGH SCHOOL AND COLLEGE.json"}, {"eiin": "130975", "name": "BIAM LABORATORY SCHOOL AND COLLEGE", "name_bn": "বিয়াম ল্যাবরেটরি স্কুল এন্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01745255566", "email": "biamlaboratorysingra@yahoo.com", "teacher_count": 0, "file": "BIAM LABORATORY SCHOOL AND COLLEGE.json"}, {"eiin": "124318", "name": "CHOWGRAM HIGH SCHOOL AND COLLEGE", "name_bn": "চৌগ্রাম উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01714845116", "email": "chowgrams124318@gmail.com", "teacher_count": 0, "file": "CHOWGRAM HIGH SCHOOL AND COLLEGE.json"}, {"eiin": "124319", "name": "HATIANDHA GIRLS SCHOOL AND COLLEGE", "name_bn": "হাতিয়ান্দহ বালিকা উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01715507969", "email": "hatiandahaghscollege@gmail.com", "teacher_count": 0, "file": "HATIANDHA GIRLS SCHOOL AND COLLEGE.json"}, {"eiin": "124317", "name": "SINGRA DAMDAMA PILOT SCHOOL & COLLEGE", "name_bn": "সিংড়া দমদমা পাইলট স্কুল ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01711194786", "email": "sdpsac_2200@yahoo.com", "teacher_count": 0, "file": "SINGRA DAMDAMA PILOT SCHOOL & COLLEGE.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 1148, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "পূর্ব্ব পাকিস্তান প্রদেশ পক্ষে কালেক্টার রাজশাহী", "dags": "1", "total_land": "3.48"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "কমর উদ্দিন প্রামানিক,আশফর আলী প্রামানিক", "dags": "63,65", "total_land": "0.79"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "কুড়ান প্রামানিক", "dags": "52,29,30,25", "total_land": "0.78"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "গেদু মৃর্দ্দা,জবুমীর", "dags": "89", "total_land": "0.58"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "ছহিরদ্দিন মীর,হরপ আলী মীর", "dags": "42,41", "total_land": "0.60"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "ছাবের আলী প্রামানিক,হায়াতুল্যা প্রামানিক", "dags": "11,12,13,18,19,20,21,37,38,39,40,53,87,88", "total_land": "4.42"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "ছাবের আলী প্রামানিক,হায়াতুল্যা প্রামানিক", "dags": "4", "total_land": "0.23"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "ছাবের আলী প্রামানিক,আকবর আলী প্রামানিক", "dags": "7,8", "total_land": "0.74"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "ছাবের আলী প্রামানিক,ছামিরন ন্নেছা বিবি", "dags": "6,9,69", "total_land": "0.77"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "জবেদা খাতুন,ফেলানী বিবি,মমতাজ আলী মাঝি,অছিরন বিবি,খবির উদ্দিন", "dags": "70,72,73", "total_land": "1.13"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "জুড়ান প্রামানিক", "dags": "52", "total_land": "0.40"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "নছর উদ্দিন মণ্ডল,কাজেম আলী মণ্ডল", "dags": "49,2,85,51", "total_land": "1.56"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "নছের উদ্দিন মণ্ডল,কাজেম আলী মণ্ডল", "dags": "3,5,10,26,47,68,99", "total_land": "9.40"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "নছর উদ্দিন মণ্ডল,কাজেম আলী মণ্ডল", "dags": "14,15,60,83,86,91,93", "total_land": "2.58"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "নজিবর রহমান ফকির,মকিম উদ্দিন ফকির", "dags": "24,64,66,84,31,32", "total_land": "3.37"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "পরান মণ্ডল", "dags": "54", "total_land": "0.78"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "পাতা বিবি,বিবিজান বিবি", "dags": "98", "total_land": "0.74"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "আয়চাদ প্রামানিক", "dags": "57,59", "total_land": "0.63"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "মেহেরজান বিবি", "dags": "55", "total_land": "0.63"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "শ্রীখোলা", "jl_no": "1", "owners": "রামনগর মসজিদ,কমিটী পক্ষে সেক্রেটারী,হাবিবর রহমান", "dags": "43,44", "total_land": "0.37"}], "sample_mouzas": [{"mouza_name": "শ্রীখোলা", "jl_no": "102", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "বড়বাড়ীয়া রামনগর", "jl_no": "103", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "রুদ্রবাড়িয়া", "jl_no": "119", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "ছাতারদিঘী", "jl_no": "120", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "ভড়বরগাছা", "jl_no": "121", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "পানিয়া", "jl_no": "122", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "করচমারিয়া", "jl_no": "123", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "বলরামকুন্ডী", "jl_no": "124", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "দামকূড়ি", "jl_no": "125", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "ব্রাহ্মণ চক", "jl_no": "126", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "হোসেনপুর", "jl_no": "127", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "ইকরকুড়ি", "jl_no": "128", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "ছাতারবাড়ী", "jl_no": "129", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "পাকিসা", "jl_no": "130", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "পালসা", "jl_no": "131", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "পূটিয়া", "jl_no": "142", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "থেলকুড়", "jl_no": "143", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "হাঁপানিয়া", "jl_no": "187", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "বাদপাড়া", "jl_no": "188", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "মানকুড়", "jl_no": "189", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "রামচন্দ্রপুর", "jl_no": "190", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "তালহারা", "jl_no": "192", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "পশ্চিমকুচাইকুড়ী", "jl_no": "193", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "হরিণী", "jl_no": "194", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "মালিপাড়া", "jl_no": "195", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "একদিলতলা", "jl_no": "196", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "দেউলা", "jl_no": "199", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "বনকুড়াইল", "jl_no": "224", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "জয়কুড়ী", "jl_no": "225", "survey": "CS", "upazila": "SINGRA"}, {"mouza_name": "পাঁচপাখিয়া", "jl_no": "230", "survey": "CS", "upazila": "SINGRA"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1_CEtFi9uNHAVOr1iMDdn1uZh39eX5ANe", "district_drive_url": "https://drive.google.com/drive/folders/1xud9uVo3q6J7ucJGlQYy14iRDwgZfV5X", "district_total_maps": 2282, "district_uploaded_maps": 0, "district_total_gb": 25.297, "catalog_github_path": "land/maps/Rajshahi/Natore.json"}}, "governance": {"administration": {"district": "Natore", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Natore", "phone": "01713-000033", "email": "dcnatore@mopa.gov.bd", "website": "http://www.natore.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Natore", "phone": "01713-373033", "email": "spnatore@police.gov.bd", "control_room": "01713-374033"}, "civil_surgeon_office": {"title": "Civil Surgeon, Natore", "phone": "01713-555033", "email": "csnatore@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "58", "name": {"en": "Natore-1", "bn": "নাটোর-১"}, "total_voters": 368276}, {"code": "59", "name": {"en": "Natore-2", "bn": "নাটোর-২"}, "total_voters": 406886}, {"code": "60", "name": {"en": "Natore-3", "bn": "নাটোর-৩"}, "total_voters": 326872}, {"code": "61", "name": {"en": "Natore-4", "bn": "নাটোর-৪"}, "total_voters": 445172}], "upazila_portal": "singra.natore.gov.bd", "district_portal": "http://www.natore.gov.bd", "union_portals_count": 12, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rajshahi",
+  "district": "Natore",
+  "upazila": "Singra",
+  "upazila_slug": "rajshahi__natore__singra",
+  "geography": {
+    "division": "Rajshahi",
+    "division_bn": "রাজশাহী",
+    "district": "Natore",
+    "district_bn": "নাটোর",
+    "district_lat": "24.420556",
+    "district_lon": "89.000282",
+    "upazila_id": "144",
+    "upazila": "Singra",
+    "upazila_bn": "সিংড়া",
+    "official_url": "singra.natore.gov.bd",
+    "total_unions": 12,
+    "unions": [
+      {
+        "id": "1297",
+        "name": "Sukash",
+        "bn_name": "শুকাশ",
+        "url": "sukashup.natore.gov.bd"
+      },
+      {
+        "id": "1298",
+        "name": "Dahia",
+        "bn_name": "ডাহিয়া",
+        "url": "dahiaup.natore.gov.bd"
+      },
+      {
+        "id": "1299",
+        "name": "Italy",
+        "bn_name": "ইটালী",
+        "url": "italyup.natore.gov.bd"
+      },
+      {
+        "id": "1300",
+        "name": "Kalam",
+        "bn_name": "কলম",
+        "url": "kalamup.natore.gov.bd"
+      },
+      {
+        "id": "1301",
+        "name": "Chamari",
+        "bn_name": "চামারী",
+        "url": "chamariup.natore.gov.bd"
+      },
+      {
+        "id": "1302",
+        "name": "Hatiandaha",
+        "bn_name": "হাতিয়ানদহ",
+        "url": "hatiandahaup.natore.gov.bd"
+      },
+      {
+        "id": "1303",
+        "name": "Lalore",
+        "bn_name": "লালোর",
+        "url": "laloreup.natore.gov.bd"
+      },
+      {
+        "id": "1304",
+        "name": "Sherkole",
+        "bn_name": "শেরকোল",
+        "url": "sherkoleup.natore.gov.bd"
+      },
+      {
+        "id": "1305",
+        "name": "Tajpur",
+        "bn_name": "তাজপুর",
+        "url": "tajpurup.natore.gov.bd"
+      },
+      {
+        "id": "1306",
+        "name": "Chaugram",
+        "bn_name": "চৌগ্রাম",
+        "url": "chaugramup.natore.gov.bd"
+      },
+      {
+        "id": "1307",
+        "name": "Chhatardighi",
+        "bn_name": "ছাতারদিঘী",
+        "url": "chhatardighiup.natore.gov.bd"
+      },
+      {
+        "id": "1308",
+        "name": "Ramanandakhajura",
+        "bn_name": "রামান্দখাজুরা",
+        "url": "ramanandakhajuraup.natore.gov.bd"
+      }
+    ],
+    "total_post_offices": 1,
+    "postal_codes": [
+      {
+        "postcode": "6450",
+        "postcode_bn": "৬৪৫০",
+        "sub_office": "Singra",
+        "sub_office_bn": "সিংড়া"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 112,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 12,
+    "postcodes_count": 1,
+    "land_khatians_count": 25,
+    "mouzas_count": 1148
+  },
+  "education": [
+    {
+      "eiin": "124316",
+      "name": "BIL HALTI TRIMOHONI DEGREE COLLEGE",
+      "name_bn": "বিলহালতী ত্রিমোহনী কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01713736211",
+      "email": "bilhaltitrimohonidegreecollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "BIL HALTI TRIMOHONI DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "124311",
+      "name": "CHAMARI COLLAGE",
+      "name_bn": "চামারী ডিগ্রী কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01716388866",
+      "email": "c124311c@gmail.com",
+      "teacher_count": 0,
+      "file": "CHAMARI COLLAGE.json"
+    },
+    {
+      "eiin": "124312",
+      "name": "GOL-E- AFROZ GOVT. COLLEGE",
+      "name_bn": "গোল-ই-আফরোজ সরকারি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01712118481",
+      "email": "ga_govtcollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "GOL-E- AFROZ GOVT. COLLEGE.json"
+    },
+    {
+      "eiin": "124313",
+      "name": "KALAM DEGREE COLLEGE",
+      "name_bn": "কলম ডিগ্রী কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01712614063",
+      "email": "principal.kalamdegreecollege@gmail.com",
+      "teacher_count": 0,
+      "file": "KALAM DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "124314",
+      "name": "RAHIM UDDIN AHMED MEMEORIAL COLLEGE",
+      "name_bn": "রহিম উদ্দিন আহমেদ মেমোরিয়াল কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01724295818",
+      "email": "ruamcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "RAHIM UDDIN AHMED MEMEORIAL COLLEGE.json"
+    },
+    {
+      "eiin": "124315",
+      "name": "RAHMAT IQBAL DEGREE COLLEGE",
+      "name_bn": "রহমত ইকবাল ডিগ্রী কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01746335899",
+      "email": "rohmotiqbaldegreecollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "RAHMAT IQBAL DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "138182",
+      "name": "SHERKOLE ADORSHA COLLEGE",
+      "name_bn": "শেরকোল আদর্শ কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01712536128",
+      "email": "sherkoleadarshacollege@gmail.com",
+      "teacher_count": 0,
+      "file": "SHERKOLE ADORSHA COLLEGE.json"
+    },
+    {
+      "eiin": "124310",
+      "name": "SINGRA CHALAN BIL WOMENS COLLEGE",
+      "name_bn": "সিংড়া চলনবিল মহিলা কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01718775350",
+      "email": "scwdc2335@gmail.com",
+      "teacher_count": 0,
+      "file": "SINGRA CHALAN BIL WOMENS COLLEGE.json"
+    },
+    {
+      "eiin": "132285",
+      "name": "TECHNICAL WOMEN'S COLLEGE SINGRA . NATORE",
+      "name_bn": "কারিগরি মহিলা মহাবিদ্যালয়,সিংড়া,নাটোর।",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01711126926",
+      "email": "wtc_singra@yahoo.com",
+      "teacher_count": 0,
+      "file": "TECHNICAL WOMEN'S COLLEGE SINGRA . NATORE.json"
+    },
+    {
+      "eiin": "124305",
+      "name": "BAHADURPUR DAKHIL MADRASAH",
+      "name_bn": "বাহাদুরপুর দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01740556896",
+      "email": "bdm124305@gmail.com",
+      "teacher_count": 0,
+      "file": "BAHADURPUR DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "124304",
+      "name": "BAMIHAL DARUS SUNNAT SIDIQUIA MUZADDEDIA DAKHIL MADRASA",
+      "name_bn": "বামিহাল দারুস-সুন্নাত এস,এম দাখিল মাদরাসা।",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01740325854",
+      "email": "mmmm124304@gmail.com",
+      "teacher_count": 0,
+      "file": "BAMIHAL DARUS SUNNAT SIDIQUIA MUZADDEDIA DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "124302",
+      "name": "BARO BAROIHATI DAKHIL MADRASHA",
+      "name_bn": "বড় বারৈহাটী দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01740880067",
+      "email": "mmmm124302@gmail.com",
+      "teacher_count": 0,
+      "file": "BARO BAROIHATI DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "124298",
+      "name": "BAROGAON R K H DAKHIL MADRRSAH",
+      "name_bn": "বড়গাঁও আর.কে.এইচ দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01726346711",
+      "email": "mmm124298@gmail.com",
+      "teacher_count": 0,
+      "file": "BAROGAON R K H DAKHIL MADRRSAH.json"
+    },
+    {
+      "eiin": "124306",
+      "name": "BHULBARIA ALHAZ ISLAMIAH DAKHIL MADRASHA",
+      "name_bn": "ভুলবাড়ীয়া আলহাজ্ব ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714781343",
+      "email": "bhulbaria124306@gmail.com",
+      "teacher_count": 0,
+      "file": "BHULBARIA ALHAZ ISLAMIAH DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "124307",
+      "name": "KAKIAN BALIKA DAKHIL MADRASHA",
+      "name_bn": "কাঁকিয়ান বালিকা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01799109985",
+      "email": "mm124307@gmail.com",
+      "teacher_count": 0,
+      "file": "KAKIAN BALIKA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "131408",
+      "name": "MALKUR DHAKHIL MADRASHA",
+      "name_bn": "মালকুড় দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01729615922",
+      "email": "mm131408@gmail.com",
+      "teacher_count": 0,
+      "file": "MALKUR DHAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "124299",
+      "name": "MOHISMARI ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "মহিষমারি ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01710137568",
+      "email": "m124299@gmail.com",
+      "teacher_count": 0,
+      "file": "MOHISMARI ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "124300",
+      "name": "SHALMARA DHAMATCH IS. S. FAKHIL MADRASHA",
+      "name_bn": "শালমারা ধামাইচ ইসলামিয়া সিদ্দিকীয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01718880527",
+      "email": "salmaradakhilmadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "SHALMARA DHAMATCH IS. S. FAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "124296",
+      "name": "AYESH BASIRUL ALIM MADRASAH",
+      "name_bn": "আয়েশ বছিরুল আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01799177374",
+      "email": "abuamadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "AYESH BASIRUL ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "124297",
+      "name": "KURIPAKIA A. U FAZIL MADRASAH",
+      "name_bn": "কুড়িপাকিয়া আযিযুল উলুম ফাযিল (ডিগ্রী) মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01721897971",
+      "email": "mm124297@gmail.com",
+      "teacher_count": 0,
+      "file": "KURIPAKIA A. U FAZIL MADRASAH.json"
+    },
+    {
+      "eiin": "124303",
+      "name": "PUNDARI ALIM MADRASAH",
+      "name_bn": "পুন্ডরী আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01716023249",
+      "email": "pundarialimmad@gmail.com",
+      "teacher_count": 0,
+      "file": "PUNDARI ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "124301",
+      "name": "SOLAKURA ISLAMIA ALIM MADRASAH",
+      "name_bn": "শোলাকুড়া ইসলামিয়া আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01718824315",
+      "email": "solakuramadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "SOLAKURA ISLAMIA ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "135825",
+      "name": "AKLIMA DIGITAL TRAINING INSTITUTE",
+      "name_bn": "আকলিমা ডিজিটাল ট্রেনিং ইন্সটিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711045488",
+      "email": null,
+      "teacher_count": 0,
+      "file": "AKLIMA DIGITAL TRAINING INSTITUTE.json"
+    },
+    {
+      "eiin": "133122",
+      "name": "AL HAZ JALAL UDDIN TEC. HIGH SCHOOL.",
+      "name_bn": "আলহাজ্ব জালাল উদ্দিন কারিগরি উচ্চ বিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718086060",
+      "email": null,
+      "teacher_count": 0,
+      "file": "AL HAZ JALAL UDDIN TEC. HIGH SCHOOL..json"
+    },
+    {
+      "eiin": "140183",
+      "name": "ALHAJ ABDUL AZIZ TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "আলহাজ্ব আব্দুল আজিজ কারিগরি স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01757797655",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ALHAJ ABDUL AZIZ TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "133020",
+      "name": "AMZAD HOSSAN MEMORIAL TECHNICAL SCOOL & COLLEGE",
+      "name_bn": "আমজাদ হোসেন মেমোরিয়াল কারিগরি স্কুল এ্যান্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712130674",
+      "email": null,
+      "teacher_count": 0,
+      "file": "AMZAD HOSSAN MEMORIAL TECHNICAL SCOOL & COLLEGE.json"
+    },
+    {
+      "eiin": "132301",
+      "name": "ANOWARA PILOT GIRLS HIGH SCHOOL",
+      "name_bn": "আনোয়ারা পাইলট বালিকা উচ্চ বিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718253453",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ANOWARA PILOT GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "132790",
+      "name": "ANOWARA PILOT HIGH SCHOOL (SSC VOC)",
+      "name_bn": "আনোয়ারা পাইলট উচ্চ বিদ্যালয় (এসএসসি ভোক)",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01753571357",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ANOWARA PILOT HIGH SCHOOL (SSC VOC).json"
+    },
+    {
+      "eiin": "132879",
+      "name": "BAHADUR PUR TECHNICAL SCHOOL & COLLEGE",
+      "name_bn": "বাহাদুরপুর কারিগরি স্কুল এ্যান্ড কলেজরিগরি স্কুল এ্যান্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712520019",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BAHADUR PUR TECHNICAL SCHOOL & COLLEGE.json"
+    },
+    {
+      "eiin": "135333",
+      "name": "BAMIHAL SSC VOCATIONAL TECHNICAL GIRLS SCHOOL",
+      "name_bn": "বামিহাল এস,এস,সি (ভোকঃ) কারিগরি বালিকা বিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01730983287",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BAMIHAL SSC VOCATIONAL TECHNICAL GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "132701",
+      "name": "BAMIHAL TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "বামিহাল টেকনিক্যাল অ্যান্ড বিজনেজ মনেজেম্যান্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712144190",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BAMIHAL TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "134760",
+      "name": "BANGABANDHU GOVT. COMMERCE AND TECHNICAL COLLEGE",
+      "name_bn": "বঙ্গবন্ধ সরকারি কমার্স এন্ড টেকনিক্যাল কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718948758",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BANGABANDHU GOVT. COMMERCE AND TECHNICAL COLLEGE.json"
+    },
+    {
+      "eiin": "132870",
+      "name": "BARA SHAOIL TECNICAL AND B.M COLLEGE",
+      "name_bn": "বড় সাঁঐল টেকনিক্যাল এ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731237110",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BARA SHAOIL TECNICAL AND B.M COLLEGE.json"
+    },
+    {
+      "eiin": "136899",
+      "name": "BIASH TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "বিয়াশ টেকনিক্যাল স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01714764474",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BIASH TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "132786",
+      "name": "BILLDOHAR KARIGORI SCHOOL & COLLEGE",
+      "name_bn": "বিলদহর কারিগরি স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01710062104",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BILLDOHAR KARIGORI SCHOOL & COLLEGE.json"
+    },
+    {
+      "eiin": "132847",
+      "name": "CHALK- KALIKA PUR TECHNICAL INSTITUTE",
+      "name_bn": "চক কালিকাপুর টেকনিক্যাল ইন্সটিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01714691271",
+      "email": null,
+      "teacher_count": 0,
+      "file": "CHALK- KALIKA PUR TECHNICAL INSTITUTE.json"
+    },
+    {
+      "eiin": "132615",
+      "name": "DURGAPUR IDEAL TECHNICAL HIGH SCHOOL",
+      "name_bn": "দূর্গাপুর আইডিয়াল টেকনিক্যাল হাইস্কুল",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712858162",
+      "email": null,
+      "teacher_count": 0,
+      "file": "DURGAPUR IDEAL TECHNICAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "136468",
+      "name": "FARIDNAGOR TECHNICAL SCHOOL AND BM COLLEGE",
+      "name_bn": "ফরিদনগর টেকনিক্যাল স্কুল এন্ড বি.এম কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01725457143",
+      "email": null,
+      "teacher_count": 0,
+      "file": "FARIDNAGOR TECHNICAL SCHOOL AND BM COLLEGE.json"
+    },
+    {
+      "eiin": "132483",
+      "name": "KALAM TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "কলম কারিগরি স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01729938415",
+      "email": null,
+      "teacher_count": 0,
+      "file": "KALAM TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "132347",
+      "name": "KALIGANJ KARIGARI SCHOOL AND COLLEGE",
+      "name_bn": "কালিগঞ্জ কারিগরি স্কুল এ্যান্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716369333",
+      "email": null,
+      "teacher_count": 0,
+      "file": "KALIGANJ KARIGARI SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "132723",
+      "name": "KRISHI DIPLOMA INSTITUTE SINGRA NATORE",
+      "name_bn": "কৃষি ডিপ্লোমা ইন্সটিটিউট সিংড়া, নাটোর।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01714658614",
+      "email": null,
+      "teacher_count": 0,
+      "file": "KRISHI DIPLOMA INSTITUTE SINGRA NATORE.json"
+    },
+    {
+      "eiin": "135797",
+      "name": "MAHBUBUR RAHMAN JUNIOR SCHOOL",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01730853003",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MAHBUBUR RAHMAN JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "140527",
+      "name": "PAKURIAPARA CHALANBIL HIGH SCHOOL",
+      "name_bn": "পাকুড়িয়াপাড়া চলনবিল উচ্চ বিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01750002462",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PAKURIAPARA CHALANBIL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "138116",
+      "name": "PALAK TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "পলক টেকনিক্যাল স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731923105",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PALAK TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "140392",
+      "name": "RABEYA KASHEM TECHNICAL AND VOCATIONAL INSTITUTE",
+      "name_bn": "রাবেয়া কাশেম টেকনিক্যাল অ্যান্ড ভোকেশনাল ইন্সটিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716114872",
+      "email": null,
+      "teacher_count": 0,
+      "file": "RABEYA KASHEM TECHNICAL AND VOCATIONAL INSTITUTE.json"
+    },
+    {
+      "eiin": "135821",
+      "name": "SCHOOL OF COMPUTER (COMPUTER TRAINING CENTER)",
+      "name_bn": "স্কুল অব কম্পিউটার (কম্পিউটার প্রশিক্ষণ কেন্দ্র)",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01729368900",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SCHOOL OF COMPUTER (COMPUTER TRAINING CENTER).json"
+    },
+    {
+      "eiin": "135351",
+      "name": "SHEBA INSTITUTE OF HEALTH TECHNOLOGY",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731923105",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SHEBA INSTITUTE OF HEALTH TECHNOLOGY.json"
+    },
+    {
+      "eiin": "139803",
+      "name": "SINGRA GOVT TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "সিংড়া সরকারি টেকনিক্যাল স্কুল ও কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711006866",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SINGRA GOVT TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "135165",
+      "name": "SINGRA HEALTH TECHNOLOGY INSTITUTE",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711045488",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SINGRA HEALTH TECHNOLOGY INSTITUTE.json"
+    },
+    {
+      "eiin": "135822",
+      "name": "URBAN IT POINT",
+      "name_bn": "আরবান আই,টি পয়েন্ট,",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716039247",
+      "email": null,
+      "teacher_count": 0,
+      "file": "URBAN IT POINT.json"
+    },
+    {
+      "eiin": "135350",
+      "name": "ZAMILA FAYEZ POLYTECHNIC INSTITUTE",
+      "name_bn": "জামিলা ফযেজ পলিটেকনি ইন্সটিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731923105",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ZAMILA FAYEZ POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "137218",
+      "name": "MAJHGRAM GOVT. PRIMARY SCHOOL",
+      "name_bn": "মাঝগ্রাম সরকারী প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01731537671",
+      "email": "majhgramgpssingra@gmail.com",
+      "teacher_count": 142,
+      "file": "MAJHGRAM GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "124286",
+      "name": "ALHAZ A RAHIM HIGH SCHOOL",
+      "name_bn": "আলহাজ আব্দুর রহিম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719538862",
+      "email": "aarhighschool2222@gmail.com",
+      "teacher_count": 192,
+      "file": "ALHAZ A RAHIM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124269",
+      "name": "BADOPARA HIGH SCHOOL",
+      "name_bn": "বাদোপাড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719866689",
+      "email": "sb124269hs@gmail.com",
+      "teacher_count": 195,
+      "file": "BADOPARA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124266",
+      "name": "BAHADUR PUR BILATERAL HIGH SCHOOL",
+      "name_bn": "বাহাদুরপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719735990",
+      "email": "ss124266@gmail.com",
+      "teacher_count": 216,
+      "file": "BAHADUR PUR BILATERAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124262",
+      "name": "BAMIHAL B.L. HIGH SCHOOL",
+      "name_bn": "বামিহাল দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718692064",
+      "email": "sss124262@gmail.com",
+      "teacher_count": 215,
+      "file": "BAMIHAL B.L. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124272",
+      "name": "BARA SAOIL GIRLS HIGH SCHOOL",
+      "name_bn": "বড সাঁঐল বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716721695",
+      "email": "s124272ss@gmail.com",
+      "teacher_count": 195,
+      "file": "BARA SAOIL GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124264",
+      "name": "BELOWA HIGH SCHOOL",
+      "name_bn": "বেলোয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716725844",
+      "email": "s124264belowahighschool@gmail.com",
+      "teacher_count": 203,
+      "file": "BELOWA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124251",
+      "name": "BHAGNAGOR KANDI HIGH SCHOOL",
+      "name_bn": "ভাগনাগর কান্দি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716844948",
+      "email": "sss124251@gmail.com",
+      "teacher_count": 308,
+      "file": "BHAGNAGOR KANDI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124271",
+      "name": "BIASH HIGH SCHOOL",
+      "name_bn": "বিয়াশ দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717725627",
+      "email": "ss124271hs@gmail.com",
+      "teacher_count": 202,
+      "file": "BIASH HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124252",
+      "name": "BILDAHAR HIGH SCHOOL",
+      "name_bn": "বিলদহর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01747480176",
+      "email": "s124252.bildaharhs@gmail.com",
+      "teacher_count": 221,
+      "file": "BILDAHAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124285",
+      "name": "BINGRAM HIGH SCHOOL",
+      "name_bn": "বিনগ্রাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721516714",
+      "email": "bingram124285@gmail.com",
+      "teacher_count": 213,
+      "file": "BINGRAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130992",
+      "name": "BISHNUPUR ITALY MODEL HIGH SCHOOL",
+      "name_bn": "বিষ্ণুপুর ইটালী মডেল হাইস্কুল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719055022",
+      "email": "s130992@gmail.com",
+      "teacher_count": 220,
+      "file": "BISHNUPUR ITALY MODEL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124259",
+      "name": "BOALIA BL HIGH SCHOOL",
+      "name_bn": "বোয়ালিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01735123965",
+      "email": "boaliahighschool124259@gmail.com",
+      "teacher_count": 207,
+      "file": "BOALIA BL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124248",
+      "name": "BONKURY HIGH SCHOOL",
+      "name_bn": "বনকুড়ি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712382072",
+      "email": "bhs124248@gmail.com",
+      "teacher_count": 187,
+      "file": "BONKURY HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124258",
+      "name": "BRIKAYA ADARSHA HIGH SCHOOL",
+      "name_bn": "বৃকয়া আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721381017",
+      "email": "bahs1952@gmail.com",
+      "teacher_count": 218,
+      "file": "BRIKAYA ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124291",
+      "name": "CHAKPUR BIL BHARAT HIGH SCHOOL",
+      "name_bn": "চকপুর বিলভরট উচ্চ বিদ্যালয",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01733682924",
+      "email": "ss124291@gmail.com",
+      "teacher_count": 215,
+      "file": "CHAKPUR BIL BHARAT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "137039",
+      "name": "CHALONBEL MODEL HIGH SCHOOL",
+      "name_bn": "চলনবিল মডেল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01741070440",
+      "email": "s137039@gmail.com",
+      "teacher_count": 150,
+      "file": "CHALONBEL MODEL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124254",
+      "name": "CHAMARI B.N HIGH SCHOOL",
+      "name_bn": "চামারী বি. এন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740892549",
+      "email": "cbnhs124254@gmail.com",
+      "teacher_count": 227,
+      "file": "CHAMARI B.N HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124277",
+      "name": "DAHIA P.G.D.HIGH SCHOOL",
+      "name_bn": "ডাহিয়া পীর ঘাসী দেওয়ান উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740634555",
+      "email": "s124277dpgd@gmail.com",
+      "teacher_count": 189,
+      "file": "DAHIA P.G.D.HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124260",
+      "name": "DANGAPARA BL HIGH SCHOOL",
+      "name_bn": "ডাঙ্গাপাড়া দ্বিমুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717253697",
+      "email": "s124260dhschool@gmail.com",
+      "teacher_count": 188,
+      "file": "DANGAPARA BL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124281",
+      "name": "DURGA PUR HIGH SCHOOL",
+      "name_bn": "দূর্গাপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01770652824",
+      "email": "ss124281hs@gmail.com",
+      "teacher_count": 204,
+      "file": "DURGA PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139633",
+      "name": "GOTIA SAYODA RAHMAN IDEAL SCHOOL AND COLLEGE",
+      "name_bn": "গোটিয়া সৈয়দা-রহমান আইডিয়াল স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01772846460",
+      "email": "sayodarahman2013@gmail.com",
+      "teacher_count": 48,
+      "file": "GOTIA SAYODA RAHMAN IDEAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "124279",
+      "name": "HAMIR GOSH HIGH SCHOOL",
+      "name_bn": "হামিরঘোষ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721797712",
+      "email": "ssss124279@gmail.com",
+      "teacher_count": 205,
+      "file": "HAMIR GOSH HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124265",
+      "name": "HULHULIA HIGH SCHOOL",
+      "name_bn": "হূলহূলিয়া উচচ বিদদালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718936106",
+      "email": "sss124265@gmail.com",
+      "teacher_count": 182,
+      "file": "HULHULIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124250",
+      "name": "JAMTOLY HAT JUNIOR SCHOOL",
+      "name_bn": "জামতলী হাট নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01716187282",
+      "email": "sss124250@gmail.com",
+      "teacher_count": 117,
+      "file": "JAMTOLY HAT JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "124268",
+      "name": "JORE MOLLIKA NINGOIN HIGH SCHOOL",
+      "name_bn": "জোড়মল্লিকা নিংগইন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719821660",
+      "email": "jnhs19671@gmail.com",
+      "teacher_count": 207,
+      "file": "JORE MOLLIKA NINGOIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124282",
+      "name": "JOY KURI HIGH SCHOOL",
+      "name_bn": "জয়কুড়ি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713725807",
+      "email": "sjoykuri124282@gmail.com",
+      "teacher_count": 210,
+      "file": "JOY KURI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124261",
+      "name": "JOYNAGOR TAJPUR HIGH SCHOOL",
+      "name_bn": "জয়নগর তাজপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01733153271",
+      "email": "mrjths1963@gmail.com",
+      "teacher_count": 212,
+      "file": "JOYNAGOR TAJPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124255",
+      "name": "KALAM HIGH SCHOOL",
+      "name_bn": "কলম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01855900862",
+      "email": "kalamhs1924@gmail.com",
+      "teacher_count": 259,
+      "file": "KALAM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124257",
+      "name": "KALIGANJ BANAMALI INSTITUTION",
+      "name_bn": "কালীগঞ্জ বনমালী দ্বি-মুখী ইনষ্টিটিউশন",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721419736",
+      "email": "kaliganj.institution.edu.bd@gmail.com",
+      "teacher_count": 305,
+      "file": "KALIGANJ BANAMALI INSTITUTION.json"
+    },
+    {
+      "eiin": "124293",
+      "name": "KALINAGAR JUNIOR HIGH SCHOOL",
+      "name_bn": "কালীনগর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721105748",
+      "email": "sss124293@gmail.com",
+      "teacher_count": 188,
+      "file": "KALINAGAR JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124292",
+      "name": "KATUA BARI HIGH SCHOOL",
+      "name_bn": "কতুয়াবাড়ী্ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01746108600",
+      "email": "kat124292@gmail.com",
+      "teacher_count": 347,
+      "file": "KATUA BARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124278",
+      "name": "KHIDRA BARIA HIGH SCHOOL",
+      "name_bn": "ক্ষিদ্র বড়িয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01737829540",
+      "email": "khs124278@gmail.com",
+      "teacher_count": 130,
+      "file": "KHIDRA BARIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "136808",
+      "name": "KHIRPOTA JUNIOR SCHOOL",
+      "name_bn": "ক্ষিরপোতা নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01761590945",
+      "email": "sk136808@gmail.com",
+      "teacher_count": 82,
+      "file": "KHIRPOTA JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "124267",
+      "name": "LALORE BILATTARAL HIGH SCHOOL",
+      "name_bn": "লালোর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712337208",
+      "email": "lalorehighschool1901@gmail.com",
+      "teacher_count": 229,
+      "file": "LALORE BILATTARAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124270",
+      "name": "MOHISHMARI HIGH SCHOOL",
+      "name_bn": "মহিষমারী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01733113780",
+      "email": "mhs124270@gmail.com",
+      "teacher_count": 218,
+      "file": "MOHISHMARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124288",
+      "name": "NALBATA HIGH SCHOOL",
+      "name_bn": "নলবাতা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717013233",
+      "email": "nalbatahighschool124288@gmail.com",
+      "teacher_count": 222,
+      "file": "NALBATA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124283",
+      "name": "NISCHINTA PUR HIGH SCHOOL",
+      "name_bn": "নিশ্চিন্তপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715408881",
+      "email": "s124283@gmail.com",
+      "teacher_count": 214,
+      "file": "NISCHINTA PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124280",
+      "name": "NURPUR HIGH SCHOOL",
+      "name_bn": "নুরপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718943218",
+      "email": "nhs124280@gmail.com",
+      "teacher_count": 182,
+      "file": "NURPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124294",
+      "name": "PAKISHA JUNIOR HIGH SCHOOL",
+      "name_bn": "পাকিশা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718690361",
+      "email": "sh124294@gmail.com",
+      "teacher_count": 164,
+      "file": "PAKISHA JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124249",
+      "name": "PAKURIA KALAI KURI HIGH SCHOOL",
+      "name_bn": "পাকুড়িয়া কালাইকুড়ি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715123669",
+      "email": "s124249@gmail.com",
+      "teacher_count": 231,
+      "file": "PAKURIA KALAI KURI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124276",
+      "name": "PANCH PAKHIA HIGH SCHOOL",
+      "name_bn": "পাঁচ পাখিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01738428781",
+      "email": "ssss124276@gmail.com",
+      "teacher_count": 177,
+      "file": "PANCH PAKHIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124290",
+      "name": "PANGASHIA HIGH SCHOOL",
+      "name_bn": "পাঙ্গাশিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714740842",
+      "email": "ss124290@gmail.com",
+      "teacher_count": 181,
+      "file": "PANGASHIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124275",
+      "name": "PUTHIMARI HIGH SCHOOL",
+      "name_bn": "পুঠিমারী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716853602",
+      "email": "s124275@gmail.com",
+      "teacher_count": 218,
+      "file": "PUTHIMARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "132135",
+      "name": "SABIRON GULJAN SCHOOL AND COLLEGE",
+      "name_bn": "ছবিরণ-গুলজান স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01760966160",
+      "email": "sgs132135@gmail.com",
+      "teacher_count": 161,
+      "file": "SABIRON GULJAN SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "124273",
+      "name": "SATPUKURIA B/L HIGH SCHOOL",
+      "name_bn": "সাতপুকুরিয়া দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721796792",
+      "email": "si124273@gmail.com",
+      "teacher_count": 224,
+      "file": "SATPUKURIA BL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124289",
+      "name": "SHEDHAKHALE HIGH SCHOOL",
+      "name_bn": "সিধাখালী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719735614",
+      "email": "shedhakhalihighschool1994@gmail.com",
+      "teacher_count": 200,
+      "file": "SHEDHAKHALE HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "131062",
+      "name": "SHERKOLE JUNIOR GIRLS SCHOOL",
+      "name_bn": "শেরকোল নিম্নমাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01912280605",
+      "email": "sss131062@gmail.com",
+      "teacher_count": 110,
+      "file": "SHERKOLE JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "124256",
+      "name": "SHERKOLE SAMJAN ALI HIGH SCHOOL",
+      "name_bn": "শেরকোল সমজান আলী উচ্চ বিদ্যালয় ।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718891698",
+      "email": "samanali124256@gmail.com",
+      "teacher_count": 269,
+      "file": "SHERKOLE SAMJAN ALI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124295",
+      "name": "SHOAIR JUNIOR SCHOOL",
+      "name_bn": "সোয়াইড় নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01757654010",
+      "email": "shoairjuniourschool@gmail.com",
+      "teacher_count": 113,
+      "file": "SHOAIR JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "124253",
+      "name": "SINGRA DAMDAMA GOVT GIRLS HIGH SCHOOL",
+      "name_bn": "সিংড়া দমদমা সরকারি বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716964888",
+      "email": "singragovt.girls@gmail.com",
+      "teacher_count": 141,
+      "file": "SINGRA DAMDAMA GOVT GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124287",
+      "name": "SONAGHATI GIRL'S HIGH SCHOOL",
+      "name_bn": "সোনাঘাটী বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01761717017",
+      "email": "sh124287@gmail.com",
+      "teacher_count": 227,
+      "file": "SONAGHATI GIRL'S HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124263",
+      "name": "STHAPON DIGHI HGIH SCHOOL",
+      "name_bn": "স্থাপনদিঘী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01761753777",
+      "email": "sh124263h@gmail.com",
+      "teacher_count": 220,
+      "file": "STHAPON DIGHI HGIH SCHOOL.json"
+    },
+    {
+      "eiin": "124274",
+      "name": "SUKASH HIGH SCHOOL",
+      "name_bn": "সুকাশ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714943804",
+      "email": "sukash124274@gmail.com",
+      "teacher_count": 198,
+      "file": "SUKASH HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "132591",
+      "name": "TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01711045488",
+      "email": "tbmcsingra@gmail.com",
+      "teacher_count": 892,
+      "file": "TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "124284",
+      "name": "THAOIL CHOWPUKURIA HIGH SCHOOL",
+      "name_bn": "থাওইল চৌপুকুরিয়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01729314294",
+      "email": "tchs124284@gmail.com",
+      "teacher_count": 191,
+      "file": "THAOIL CHOWPUKURIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "124247",
+      "name": "AGPARA SHERKOLE BONDOR HIGH SCHOOL AND COLLEGE",
+      "name_bn": "আগপাড়া শেরকোল বন্দর উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01711417123",
+      "email": "ss124247@gmail.com",
+      "teacher_count": 0,
+      "file": "AGPARA SHERKOLE BONDOR HIGH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "130975",
+      "name": "BIAM LABORATORY SCHOOL AND COLLEGE",
+      "name_bn": "বিয়াম ল্যাবরেটরি স্কুল এন্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01745255566",
+      "email": "biamlaboratorysingra@yahoo.com",
+      "teacher_count": 0,
+      "file": "BIAM LABORATORY SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "124318",
+      "name": "CHOWGRAM HIGH SCHOOL AND COLLEGE",
+      "name_bn": "চৌগ্রাম উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01714845116",
+      "email": "chowgrams124318@gmail.com",
+      "teacher_count": 0,
+      "file": "CHOWGRAM HIGH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "124319",
+      "name": "HATIANDHA GIRLS SCHOOL AND COLLEGE",
+      "name_bn": "হাতিয়ান্দহ বালিকা উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01715507969",
+      "email": "hatiandahaghscollege@gmail.com",
+      "teacher_count": 0,
+      "file": "HATIANDHA GIRLS SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "124317",
+      "name": "SINGRA DAMDAMA PILOT SCHOOL & COLLEGE",
+      "name_bn": "সিংড়া দমদমা পাইলট স্কুল ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01711194786",
+      "email": "sdpsac_2200@yahoo.com",
+      "teacher_count": 0,
+      "file": "SINGRA DAMDAMA PILOT SCHOOL & COLLEGE.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 1148,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "পূর্ব্ব পাকিস্তান প্রদেশ পক্ষে কালেক্টার রাজশাহী",
+        "dags": "1",
+        "total_land": "3.48"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "কমর উদ্দিন প্রামানিক,আশফর আলী প্রামানিক",
+        "dags": "63,65",
+        "total_land": "0.79"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "কুড়ান প্রামানিক",
+        "dags": "52,29,30,25",
+        "total_land": "0.78"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "গেদু মৃর্দ্দা,জবুমীর",
+        "dags": "89",
+        "total_land": "0.58"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "ছহিরদ্দিন মীর,হরপ আলী মীর",
+        "dags": "42,41",
+        "total_land": "0.60"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "ছাবের আলী প্রামানিক,হায়াতুল্যা প্রামানিক",
+        "dags": "11,12,13,18,19,20,21,37,38,39,40,53,87,88",
+        "total_land": "4.42"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "ছাবের আলী প্রামানিক,হায়াতুল্যা প্রামানিক",
+        "dags": "4",
+        "total_land": "0.23"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "ছাবের আলী প্রামানিক,আকবর আলী প্রামানিক",
+        "dags": "7,8",
+        "total_land": "0.74"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "ছাবের আলী প্রামানিক,ছামিরন ন্নেছা বিবি",
+        "dags": "6,9,69",
+        "total_land": "0.77"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "জবেদা খাতুন,ফেলানী বিবি,মমতাজ আলী মাঝি,অছিরন বিবি,খবির উদ্দিন",
+        "dags": "70,72,73",
+        "total_land": "1.13"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "জুড়ান প্রামানিক",
+        "dags": "52",
+        "total_land": "0.40"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "নছর উদ্দিন মণ্ডল,কাজেম আলী মণ্ডল",
+        "dags": "49,2,85,51",
+        "total_land": "1.56"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "নছের উদ্দিন মণ্ডল,কাজেম আলী মণ্ডল",
+        "dags": "3,5,10,26,47,68,99",
+        "total_land": "9.40"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "নছর উদ্দিন মণ্ডল,কাজেম আলী মণ্ডল",
+        "dags": "14,15,60,83,86,91,93",
+        "total_land": "2.58"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "নজিবর রহমান ফকির,মকিম উদ্দিন ফকির",
+        "dags": "24,64,66,84,31,32",
+        "total_land": "3.37"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "পরান মণ্ডল",
+        "dags": "54",
+        "total_land": "0.78"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "পাতা বিবি,বিবিজান বিবি",
+        "dags": "98",
+        "total_land": "0.74"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "আয়চাদ প্রামানিক",
+        "dags": "57,59",
+        "total_land": "0.63"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "মেহেরজান বিবি",
+        "dags": "55",
+        "total_land": "0.63"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "1",
+        "owners": "রামনগর মসজিদ,কমিটী পক্ষে সেক্রেটারী,হাবিবর রহমান",
+        "dags": "43,44",
+        "total_land": "0.37"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "শ্রীখোলা",
+        "jl_no": "102",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "বড়বাড়ীয়া রামনগর",
+        "jl_no": "103",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "রুদ্রবাড়িয়া",
+        "jl_no": "119",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "ছাতারদিঘী",
+        "jl_no": "120",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "ভড়বরগাছা",
+        "jl_no": "121",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "পানিয়া",
+        "jl_no": "122",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "করচমারিয়া",
+        "jl_no": "123",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "বলরামকুন্ডী",
+        "jl_no": "124",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "দামকূড়ি",
+        "jl_no": "125",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "ব্রাহ্মণ চক",
+        "jl_no": "126",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "হোসেনপুর",
+        "jl_no": "127",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "ইকরকুড়ি",
+        "jl_no": "128",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "ছাতারবাড়ী",
+        "jl_no": "129",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "পাকিসা",
+        "jl_no": "130",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "পালসা",
+        "jl_no": "131",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "পূটিয়া",
+        "jl_no": "142",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "থেলকুড়",
+        "jl_no": "143",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "হাঁপানিয়া",
+        "jl_no": "187",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "বাদপাড়া",
+        "jl_no": "188",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "মানকুড়",
+        "jl_no": "189",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "রামচন্দ্রপুর",
+        "jl_no": "190",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "তালহারা",
+        "jl_no": "192",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "পশ্চিমকুচাইকুড়ী",
+        "jl_no": "193",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "হরিণী",
+        "jl_no": "194",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "মালিপাড়া",
+        "jl_no": "195",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "একদিলতলা",
+        "jl_no": "196",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "দেউলা",
+        "jl_no": "199",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "বনকুড়াইল",
+        "jl_no": "224",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "জয়কুড়ী",
+        "jl_no": "225",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      },
+      {
+        "mouza_name": "পাঁচপাখিয়া",
+        "jl_no": "230",
+        "survey": "CS",
+        "upazila": "SINGRA"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/2:/",
+      "district_drive_url": "https://free.mouzamap.tech/2:/Natore/",
+      "district_total_maps": 2282,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 25.297,
+      "catalog_github_path": "land/maps/Rajshahi/Natore.json",
+      "online_folder_url": "https://free.mouzamap.tech/2:/Natore/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Natore",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Natore",
+        "phone": "01713-000033",
+        "email": "dcnatore@mopa.gov.bd",
+        "website": "http://www.natore.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Natore",
+        "phone": "01713-373033",
+        "email": "spnatore@police.gov.bd",
+        "control_room": "01713-374033"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Natore",
+        "phone": "01713-555033",
+        "email": "csnatore@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "58",
+        "name": {
+          "en": "Natore-1",
+          "bn": "নাটোর-১"
+        },
+        "total_voters": 368276
+      },
+      {
+        "code": "59",
+        "name": {
+          "en": "Natore-2",
+          "bn": "নাটোর-২"
+        },
+        "total_voters": 406886
+      },
+      {
+        "code": "60",
+        "name": {
+          "en": "Natore-3",
+          "bn": "নাটোর-৩"
+        },
+        "total_voters": 326872
+      },
+      {
+        "code": "61",
+        "name": {
+          "en": "Natore-4",
+          "bn": "নাটোর-৪"
+        },
+        "total_voters": 445172
+      }
+    ],
+    "upazila_portal": "singra.natore.gov.bd",
+    "district_portal": "http://www.natore.gov.bd",
+    "union_portals_count": 12,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

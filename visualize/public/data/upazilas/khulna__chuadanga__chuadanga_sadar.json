@@ -1,1 +1,1516 @@
-{"division": "Khulna", "district": "Chuadanga", "upazila": "Chuadanga Sadar", "upazila_slug": "khulna__chuadanga__chuadanga_sadar", "geography": {"division": "Khulna", "division_bn": "খুলনা", "district": "Chuadanga", "district_bn": "চুয়াডাঙ্গা", "district_lat": "23.6401961", "district_lon": "88.841841", "upazila_id": "192", "upazila": "Chuadanga Sadar", "upazila_bn": "চুয়াডাঙ্গা সদর", "official_url": "chuadangasadar.chuadanga.gov.bd", "total_unions": 7, "unions": [{"id": "1739", "name": "Alukdia", "bn_name": "আলুকদিয়া", "url": "alukdia.chuadanga.gov.bd"}, {"id": "1740", "name": "Mominpur", "bn_name": "মোমিনপুর", "url": "mominpur.chuadanga.gov.bd"}, {"id": "1741", "name": "Titudah", "bn_name": "তিতুদাহ", "url": "titudah.chuadanga.gov.bd"}, {"id": "1742", "name": "Shankarchandra", "bn_name": "শংকরচন্দ্র", "url": "shankarchandra.chuadanga.gov.bd"}, {"id": "1743", "name": "Begumpur", "bn_name": "বেগমপুর", "url": "begumpur.chuadanga.gov.bd"}, {"id": "1744", "name": "Kutubpur", "bn_name": "কুতুবপুর", "url": "kutubpur.chuadanga.gov.bd"}, {"id": "1745", "name": "Padmabila", "bn_name": "পদ্মবিলা", "url": "padmabila.chuadanga.gov.bd"}], "total_post_offices": 2, "postal_codes": [{"postcode": "7200", "postcode_bn": "৭২০০", "sub_office": "Chuadanga Sadar", "sub_office_bn": "চুয়াডাঙ্গা সদর"}, {"postcode": "7201", "postcode_bn": "৭২০১", "sub_office": "Munshiganj", "sub_office_bn": "মুন্সিগঞ্জ"}]}, "stats": {"education_count": 64, "healthcare_count": 2, "banking_count": 4, "police_count": 1, "fire_count": 1, "unions_count": 7, "postcodes_count": 2, "land_khatians_count": 25, "mouzas_count": 300}, "education": [{"eiin": "115384", "name": "ADARSHA GOVT. MAHILA COLLEGE", "name_bn": "সরকারি আদর্শ মহিলা কলেজ, চুয়াডাঙ্গা।", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01721587749", "email": "agmcchua@yahoo.com", "teacher_count": 0, "file": "ADARSHA GOVT. MAHILA COLLEGE.json"}, {"eiin": "115381", "name": "BADARGANJ DEGREE COLLEGE", "name_bn": "বদরগঞ্জ ডিগ্রি কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01712253747", "email": "bdc5503@gmail.com", "teacher_count": 0, "file": "BADARGANJ DEGREE COLLEGE.json"}, {"eiin": "115380", "name": "BORO SALUA NEW MODEL COLLEGE", "name_bn": "বড় সলুয়া নিউ মডেল ডিগ্রি কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01718291689", "email": "bsnmc2004@gmail.com", "teacher_count": 0, "file": "BORO SALUA NEW MODEL COLLEGE.json"}, {"eiin": "115383", "name": "CHUADANGA GOVT. COLLEGE", "name_bn": "চুয়াডাঙ্গা সরকারি কলেজ, চুয়াডাঙ্গা", "type": "COLLEGE", "level": "Masters", "category": "college", "mobile": "01797166868", "email": "chuadangagov.college@yahoo.com", "teacher_count": 0, "file": "CHUADANGA GOVT. COLLEGE.json"}, {"eiin": "115382", "name": "CHUDANGA POURA COLLEGE", "name_bn": "চুয়াডাঙ্গা পৌর কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01717513439", "email": "chuadangapc@gmail.com", "teacher_count": 0, "file": "CHUDANGA POURA COLLEGE.json"}, {"eiin": "135290", "name": "TATUL SHEIKH COLLEGE", "name_bn": "তেতুল শেখ কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01728951034", "email": "tatulsheikhcollege@gmail.com", "teacher_count": 0, "file": "TATUL SHEIKH COLLEGE.json"}, {"eiin": "115375", "name": "62 NO ARIA DAKHIL MADRASHA", "name_bn": "৬২ নং আড়িয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01916788424", "email": "mm115375@gmail.com", "teacher_count": 0, "file": "62 NO ARIA DAKHIL MADRASHA.json"}, {"eiin": "115377", "name": "BEGUKMPUR DAKHIL MADRASHA", "name_bn": "বেগমপুর দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01726231016", "email": "mm115377@gmail.com", "teacher_count": 0, "file": "BEGUKMPUR DAKHIL MADRASHA.json"}, {"eiin": "134061", "name": "CHUADANGA MOHILA DAKHIL MADRASAH", "name_bn": "চুয়াডাঙ্গা মহিলা দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01725700220", "email": "cmdm2005@gmail.com", "teacher_count": 0, "file": "CHUADANGA MOHILA DAKHIL MADRASAH.json"}, {"eiin": "115376", "name": "DINGADAH DAKHIL MADRASHA", "name_bn": "ডিঙ্গেদহ দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01716327468", "email": "mmm115376@gmail.com", "teacher_count": 0, "file": "DINGADAH DAKHIL MADRASHA.json"}, {"eiin": "115327", "name": "DOSHOMI MOHILA DALHIL MADRASHA", "name_bn": null, "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01716214231", "email": null, "teacher_count": 0, "file": "DOSHOMI MOHILA DALHIL MADRASHA.json"}, {"eiin": "115378", "name": "HAZRAHATI DARUL ISLAM DAKHIL MADRASHA", "name_bn": "হাজরাহাটি দারুল ইসলাম দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01712435631", "email": "mm115378@gmail.com", "teacher_count": 0, "file": "HAZRAHATI DARUL ISLAM DAKHIL MADRASHA.json"}, {"eiin": "115373", "name": "JUGIR HUDA ABUL HOSSEN DAKHIL MADRASHA", "name_bn": "যুগিরহুদা আবুল হোসেন দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01722226810", "email": "mm115373@gmail.com", "teacher_count": 0, "file": "JUGIR HUDA ABUL HOSSEN DAKHIL MADRASHA.json"}, {"eiin": "115374", "name": "SARABARIA DAKHIL MADRASHA", "name_bn": "সড়াবাড়ীয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01712447027", "email": "mm115374@gmail.com", "teacher_count": 0, "file": "SARABARIA DAKHIL MADRASHA.json"}, {"eiin": "115371", "name": "BADARGANJ BAQUI BILLAH KAMIL MADRASHA", "name_bn": "বদরগঞ্জ বাকীবিল্লাহ কামিল মাদরাসা", "type": "MADRASHA", "level": "Kamil", "category": "madrasa_other", "mobile": "01711479182", "email": "bbkm.chua@gmail.com", "teacher_count": 0, "file": "BADARGANJ BAQUI BILLAH KAMIL MADRASHA.json"}, {"eiin": "115379", "name": "CHUADANGA FAZIL MADRASAH", "name_bn": "চুয়াডাঙ্গা ফাযিল মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01913912382", "email": "chuafm75@gmail.com", "teacher_count": 0, "file": "CHUADANGA FAZIL MADRASAH.json"}, {"eiin": "140478", "name": "AKONDOBARIA MODEL SCHOOL AND COLLEGE", "name_bn": "আকন্দবাড়ীয়া মডেল স্কুল অ্যান্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712052049", "email": null, "teacher_count": 0, "file": "AKONDOBARIA MODEL SCHOOL AND COLLEGE.json"}, {"eiin": "140427", "name": "AMENA KHATUN SECONDARY SCHOOL", "name_bn": "আমেনা খাতুন মাধ্যমিক বিদ্যালয়", "type": null, "level": null, "category": "other", "mobile": "01731538884", "email": null, "teacher_count": 0, "file": "AMENA KHATUN SECONDARY SCHOOL.json"}, {"eiin": "135682", "name": "CENTRAL COMMERCIAL TRAINING CENTER", "name_bn": "সেন্ট্রাল কমাশিয়াল প্রশিক্ষণ কেন্দ্র", "type": null, "level": null, "category": "other", "mobile": "01913423427", "email": null, "teacher_count": 0, "file": "CENTRAL COMMERCIAL TRAINING CENTER.json"}, {"eiin": "135678", "name": "CHUADANGA POLYTECHNIC INSTITUTE", "name_bn": "চুয়াডাঙ্গা পলিটেকনিক ইন্সটিটিউট, চুয়াডাঙ্গা", "type": null, "level": null, "category": "other", "mobile": "01711261225", "email": null, "teacher_count": 0, "file": "CHUADANGA POLYTECHNIC INSTITUTE.json"}, {"eiin": "133057", "name": "CHUADANGA TECHNICAL SCHOOL AND COLLEGE,CHUADANGA", "name_bn": "চুয়াডাঙ্গা সরকারি টেকনিক্যাল স্কুল ও কলেজ, চুয়াডাঙ্গা।", "type": null, "level": null, "category": "other", "mobile": "01752061191", "email": null, "teacher_count": 0, "file": "CHUADANGA TECHNICAL SCHOOL AND COLLEGE,CHUADANGA.json"}, {"eiin": "135680", "name": "COMPACT COMPUTER TRAINING CENTER", "name_bn": "কম্প্যাক্ট ইনস্টিটিউট অব স্কিলস ডেভেলপমেন্ট", "type": null, "level": null, "category": "other", "mobile": "01712759790", "email": null, "teacher_count": 0, "file": "COMPACT COMPUTER TRAINING CENTER.json"}, {"eiin": "140490", "name": "DR ATIQUR RAHMAN MALIK ENGLISH SCHOOL AND COLLEGE", "name_bn": "ড. আতিকুর রহমান মালিক ইংলিশ স্কুল এন্ড কলেজ", "type": null, "level": null, "category": "other", "mobile": "01959906355", "email": null, "teacher_count": 0, "file": "DR ATIQUR RAHMAN MALIK ENGLISH SCHOOL AND COLLEGE.json"}, {"eiin": "135681", "name": "GOLD STAR COMPUTER", "name_bn": "গোল্ডষ্টার কম্পউটার", "type": null, "level": null, "category": "other", "mobile": "01718426814", "email": null, "teacher_count": 0, "file": "GOLD STAR COMPUTER.json"}, {"eiin": "135408", "name": "NEW IDEAL MEDICAL INSTITUTE AND TECHNOLOGY (INSTITUTE CODE- 29047)", "name_bn": "নিউ আইডিয়াল মেডিকেল ইন্সটিটিউট (ইন্সটিটিউট কোড-২৯০৪৭)", "type": null, "level": null, "category": "other", "mobile": "01718374351", "email": null, "teacher_count": 0, "file": "NEW IDEAL MEDICAL INSTITUTE AND TECHNOLOGY (INSTITUTE CODE- 29047).json"}, {"eiin": "133544", "name": "NURSING INSTITUTE CHUADANGA", "name_bn": "নার্সিং ইনস্টিটিউট চুয়াডাংগা", "type": null, "level": null, "category": "other", "mobile": "01717201835", "email": null, "teacher_count": 0, "file": "NURSING INSTITUTE CHUADANGA.json"}, {"eiin": "138459", "name": "SHAHEED MUKTIJODDHA SMITI NON GOV BUSINESS MANAGEMENT INSTITUTE", "name_bn": "শহীদ মুক্তিযোদ্ধা স্মৃতি বেসরকারী বিজনেস ম্যানেজমেন্ট ইন্সটিটিউট", "type": null, "level": null, "category": "other", "mobile": "01939151371", "email": null, "teacher_count": 0, "file": "SHAHEED MUKTIJODDHA SMITI NON GOV BUSINESS MANAGEMENT INSTITUTE.json"}, {"eiin": "135679", "name": "VQUEEN'S INSTITUTE OF TECHNOLOGY", "name_bn": "ভিকুইন্স ইনস্টিটিউট অব টেকনোলজি", "type": null, "level": null, "category": "other", "mobile": "01712174110", "email": null, "teacher_count": 0, "file": "VQUEEN'S INSTITUTE OF TECHNOLOGY.json"}, {"eiin": "137301", "name": "GAIDGHAT GOVT. PRIMARY SCHOOL", "name_bn": "গাইদঘাট সরকারি প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01725186208", "email": "gaidghatgps@gmail.com", "teacher_count": 121, "file": "GAIDGHAT GOVT. PRIMARY SCHOOL.json"}, {"eiin": "136697", "name": "FIRST CAPITAL UNIVERSITY OF BANGLADESH", "name_bn": "ফার্স্ট ক্যাপিটাল ইউনিভার্সিটি অব বাংলাদেশ", "type": "PRIVATE UNIVERSITY", "level": "Masters", "category": "private_university", "mobile": "01727226799", "email": "first_capital_bd@yahoo.com", "teacher_count": 0, "file": "FIRST CAPITAL UNIVERSITY OF BANGLADESH.json"}, {"eiin": "115350", "name": "AL-HELAL SECONDARY ISLAMI ACADEMY", "name_bn": "আল-হেলাল মাধ্যমিক ইসলামী একাডেমী", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721561760", "email": "sssss115350@gmail.com", "teacher_count": 163, "file": "AL-HELAL SECONDARY ISLAMI ACADEMY.json"}, {"eiin": "115343", "name": "ALIARPUR AZIZ HIGH SCHOOL", "name_bn": "আলিয়ারপুর আজিজ মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": null, "email": "s115343ict@gmail.com", "teacher_count": 374, "file": "ALIARPUR AZIZ HIGH SCHOOL.json"}, {"eiin": "115338", "name": "ALUKDIA ROMELA GIRLS HIGH SCHOOL", "name_bn": "আলুকদিয়া রোমেলা খাতুন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712478176", "email": "ss115338@gmail.com", "teacher_count": 216, "file": "ALUKDIA ROMELA GIRLS HIGH SCHOOL.json"}, {"eiin": "138450", "name": "ARAFAT HOSSAIN SARANI BIDDYAPIT", "name_bn": "আরাফাত হোসেন স্মরণী বিদ্যাপীঠ", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01939151371", "email": "ahsb138450@gmail.com", "teacher_count": 56, "file": "ARAFAT HOSSAIN SARANI BIDDYAPIT.json"}, {"eiin": "115366", "name": "BEGUMPUR JODUPUR HIGH SCHOOL", "name_bn": "বেগমপুর যদুপুর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01912501730", "email": "sbjhs115366@gmail.com", "teacher_count": 223, "file": "BEGUMPUR JODUPUR HIGH SCHOOL.json"}, {"eiin": "115356", "name": "CHUADANGA ACADEMY", "name_bn": "চূয়াডাঙ্গা একাডেমী", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711029265", "email": "s115356s@gmail.com", "teacher_count": 237, "file": "CHUADANGA ACADEMY.json"}, {"eiin": "115355", "name": "CHUADANGA ADARSHA HIGH SCHOOL", "name_bn": "চুয়াডাঙ্গা আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718587279", "email": "sss115355@gmail.com", "teacher_count": 207, "file": "CHUADANGA ADARSHA HIGH SCHOOL.json"}, {"eiin": "115347", "name": "CHUADANGA ADORSHA UCCHA BALIKA VIDYALAYA", "name_bn": "চুয়াডাঙ্গা আদর্শ উচ্চ বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711360948", "email": "abc115347@gmail.com", "teacher_count": 185, "file": "CHUADANGA ADORSHA UCCHA BALIKA VIDYALAYA.json"}, {"eiin": "138373", "name": "CHUADANGA COLLECTORATE SCHOOL AND COLLEGE", "name_bn": "চুয়াডাঙ্গা কালেক্টরেট স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712157028", "email": "ccscbd2016@gmail.com", "teacher_count": 185, "file": "CHUADANGA COLLECTORATE SCHOOL AND COLLEGE.json"}, {"eiin": "115348", "name": "CHUADANGA GOVT. GIRLS HIGH SCHOOL", "name_bn": "চুয়াডাঙ্গা সরকারি বালিকা উচ্চ বিদ্যালয়, চুয়াডাঙ্গা", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01730884710", "email": "sss115348@gmail.com", "teacher_count": 447, "file": "CHUADANGA GOVT. GIRLS HIGH SCHOOL.json"}, {"eiin": "115344", "name": "DINGADAH SECONDARY GIRLS SCHOOL", "name_bn": "ডিঙ্গেদহ মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01922372569", "email": "sh115344@gmail.com", "teacher_count": 285, "file": "DINGADAH SECONDARY GIRLS SCHOOL.json"}, {"eiin": "115337", "name": "GIRISHNAGAR HIGH SCHOOL", "name_bn": "গিরিশনগর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713904455", "email": "sghs115337@gmail.com", "teacher_count": 228, "file": "GIRISHNAGAR HIGH SCHOOL.json"}, {"eiin": "115336", "name": "HAZRAHATI TALTALA HIGH SCHOOL", "name_bn": "হাজরাহাটি- তালতলা মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712060140", "email": "ss115336@gmail.com", "teacher_count": 215, "file": "HAZRAHATI TALTALA HIGH SCHOOL.json"}, {"eiin": "115342", "name": "HIZALGARI SECONDARY SCHOOL", "name_bn": "হিজলগাড়ী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711210045", "email": "sss115342@gmail.com", "teacher_count": 314, "file": "HIZALGARI SECONDARY SCHOOL.json"}, {"eiin": "115346", "name": "JHINUK GIRLS SECONDARY SCHOOL", "name_bn": "ঝিনুক মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713383814", "email": "js115346@gmail.com", "teacher_count": 246, "file": "JHINUK GIRLS SECONDARY SCHOOL.json"}, {"eiin": "115367", "name": "KATHULY SECONDARY SCHOOL", "name_bn": "কাথুলী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724131314", "email": "skathuly115367@gmail.com", "teacher_count": 207, "file": "KATHULY SECONDARY SCHOOL.json"}, {"eiin": "115354", "name": "KHARAGODA SECONDARY SCHOOL", "name_bn": "খাড়াগোদা মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01710833853", "email": "sss115354@gmail.com", "teacher_count": 275, "file": "KHARAGODA SECONDARY SCHOOL.json"}, {"eiin": "115370", "name": "KOTALI HIGH SCHOOL", "name_bn": "কোটালী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01728601587", "email": "ss115370@gmail.com", "teacher_count": 161, "file": "KOTALI HIGH SCHOOL.json"}, {"eiin": "115368", "name": "KUKIACHANDPUR IDEAL GIRLS HIGH SCHOOL", "name_bn": "কুকিয়া চাঁদপুর আর্দশ মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01914847320", "email": "sss115368@gmail.com", "teacher_count": 225, "file": "KUKIACHANDPUR IDEAL GIRLS HIGH SCHOOL.json"}, {"eiin": "115402", "name": "KUTUBPUR SECONDARY SCHOOL", "name_bn": "কুতুবপুর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01710965896", "email": "sss115402@gmail.com", "teacher_count": 212, "file": "KUTUBPUR SECONDARY SCHOOL [115402].json"}, {"eiin": "115345", "name": "M.A. BARI SECONDARY SCHOOL", "name_bn": "মালিক আব্দুল বারী মাধ্যমিক বিদ্যালয়, চুয়াডাঙ্গা।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715269123", "email": "sssss115345@gmail.com", "teacher_count": 208, "file": "M.A. BARI SECONDARY SCHOOL.json"}, {"eiin": "115363", "name": "MAKHAL DANGA DENNATH PUR HIGH SCHOOL", "name_bn": "মাখালডাংগা দীননাথপুর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718704560", "email": "sss115363@gmail.com", "teacher_count": 240, "file": "MAKHAL DANGA DENNATH PUR HIGH SCHOOL.json"}, {"eiin": "115339", "name": "MOHAMMAD JOMA D A.S.S SECONDARY SCHOOL", "name_bn": "মহাম্মদ জমা ডি. এ. এস.এস মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724889151", "email": "ss115339@gmail.com", "teacher_count": 160, "file": "MOHAMMAD JOMA D A.S.S SECONDARY SCHOOL.json"}, {"eiin": "115358", "name": "NILMONIGANJ SECONDARY SCHOOL", "name_bn": "নীলমণিগঞ্জ মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717744354", "email": "sss115358@gmail.com", "teacher_count": 315, "file": "NILMONIGANJ SECONDARY SCHOOL.json"}, {"eiin": "115353", "name": "NILMONIGONJ SECONDARY GIRLS SCHOOL", "name_bn": "নী্লমনিগঞ্জ মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719731343", "email": "sss115353@gmail.com", "teacher_count": 160, "file": "NILMONIGONJ SECONDARY GIRLS SCHOOL.json"}, {"eiin": "115357", "name": "RAHELA KHATUN GIRLS ACADEMY", "name_bn": "রাহেলা খাতুন গালস একাডেমী", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720333234", "email": "rkga115357@gmail.com", "teacher_count": 238, "file": "RAHELA KHATUN GIRLS ACADEMY.json"}, {"eiin": "115352", "name": "SADEMANNESA GIRLS HIGH SCHOOL", "name_bn": "ছাদেমান নেছা মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714935835", "email": "s115352s@gmail.com", "teacher_count": 236, "file": "SADEMANNESA GIRLS HIGH SCHOOL.json"}, {"eiin": "115362", "name": "SARA BARIA SECONDARY SCHOOL", "name_bn": "সড়াবাড়ীয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720140592", "email": "sch115362@gmail.com", "teacher_count": 204, "file": "SARA BARIA SECONDARY SCHOOL.json"}, {"eiin": "115351", "name": "SAROJGONG HIGH SCHOOL", "name_bn": "সরোজগঞ্জ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719030537", "email": "sarojganjhighschool@gmail.com", "teacher_count": 448, "file": "SAROJGONG HIGH SCHOOL.json"}, {"eiin": "115365", "name": "SHEMANTO HIGH SCHOOL", "name_bn": "সীমান্ত মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714937868", "email": "sss115365s@gmail.com", "teacher_count": 199, "file": "SHEMANTO HIGH SCHOOL.json"}, {"eiin": "115360", "name": "SOHRAWARDI SARANI VIDDYAPIT DINGADAH", "name_bn": "সোহরাওয়ার্দ্দী স্মরণী বিদ্যাপীঠ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718812252", "email": "sss115360@gmail.com", "teacher_count": 391, "file": "SOHRAWARDI SARANI VIDDYAPIT DINGADAH.json"}, {"eiin": "115341", "name": "SRIKOL-BOALIA HIGH SCHOOL", "name_bn": "শ্রীকোল-বোয়ালিয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715380914", "email": "sss115341@gmall.com", "teacher_count": 220, "file": "SRIKOL-BOALIA HIGH SCHOOL.json"}, {"eiin": "115364", "name": "TITUDAH SECONDARY SCHOOL", "name_bn": "তিতুদহ মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716694774", "email": "ss115364@gmail.com", "teacher_count": 203, "file": "TITUDAH SECONDARY SCHOOL.json"}, {"eiin": "115349", "name": "V.J.GOVT. HIGH SCHOOL, CHUADANGA", "name_bn": "ভিক্টোরিয়া জুবিলি সরকারি উচ্চ বিদ্যালয়, চুয়াডাঙ্গা।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718699886", "email": "hmvjchua@gmail.com", "teacher_count": 457, "file": "V.J.GOVT. HIGH SCHOOL, CHUADANGA.json"}], "healthcare": [{"id": "HOSP-0599", "name": "Chuadanga General Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Khulna", "district": "Chuadanga", "district_slug": "chuadanga", "upazila": "Chuadanga Sadar", "address": "Chuadanga Sadar, Chuadanga", "latitude": 23.635679, "longitude": 88.847399, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-0602", "name": "Puratan Hospital para", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Khulna", "district": "Chuadanga", "district_slug": "chuadanga", "upazila": "Chuadanga Sadar", "address": "Chuadanga Sadar, Chuadanga", "latitude": null, "longitude": null, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}], "banking": [{"bank_name": "BANGLADESH KRISHI BANK", "bank_code": "035", "branch_name": "CHUADANGA BRANCH", "routing_number": "035180195", "swift_code": "BKBABDDH", "district": "CHUADANGA", "address": "CHUADANGA SADAR, CHUADANGA 7200", "telephone": "mgrchuadanga@krishibank.org.bd", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "2001 / 019"}, {"bank_name": "JANATA BANK LIMITED", "bank_code": "135", "branch_name": "CHUADANGA BRANCH", "routing_number": "135180253", "swift_code": "JANBBDDH", "district": "CHUADANGA", "address": "CHUADANGA SADAR, CHUADANGA 7200", "telephone": "0761 62474", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "025"}, {"bank_name": "JANATA BANK LIMITED", "bank_code": "135", "branch_name": "RAIL BAZAR BRANCH", "routing_number": "135180224", "swift_code": "JANBBDDH", "district": "CHUADANGA", "address": "CHUADANGA SADAR, CHUADANGA 7200", "telephone": "0761 62511", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "022"}, {"bank_name": "RUPALI BANK LIMITED", "bank_code": "185", "branch_name": "CHUADANGA BRANCH", "routing_number": "185180195", "swift_code": "RUPBBDDH", "district": "CHUADANGA", "address": "CHUADANGA SADAR, CHUADANGA", "telephone": "0761 63140, 017 18209813", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "3178 / 019"}], "emergency": {"division": "Khulna", "district": "Chuadanga", "upazila": "Chuadanga Sadar", "national_hotlines": [{"name": "National Emergency Service (Police, Fire, Ambulance)", "number": "999"}, {"name": "National Information & Citizen Service", "number": "333"}, {"name": "Government Legal Aid", "number": "16430"}, {"name": "Child Helpline", "number": "1098"}, {"name": "Women & Children Repression Prevention Helpline", "number": "109"}], "district_administration": {"district": "Chuadanga", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Chuadanga", "phone": "01713-000042", "email": "dcchuadanga@mopa.gov.bd", "website": "http://www.chuadanga.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Chuadanga", "phone": "01713-373042", "email": "spchuadanga@police.gov.bd", "control_room": "01713-374042"}, "civil_surgeon_office": {"title": "Civil Surgeon, Chuadanga", "phone": "01713-555042", "email": "cschuadanga@dghs.gov.bd"}}, "police_stations": [{"thana_id": "PS-DIST-55", "name": "Chuadanga Sadar Police Station", "bn_name": "Chuadanga সদর থানা", "unit": "Chuadanga District Police", "division": "General", "district": "Chuadanga", "address": "Court Building Road, Sadar, Chuadanga", "oc_mobile": "01713-374055", "duty_officer": "01713-399055", "tnt": "02-770055", "control_room": "01713-374000"}], "fire_stations": [{"station_id": "FS-046", "name": "Chuadanga Fire Station & Civil Defence", "bn_name": "Chuadanga ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন", "division": "General", "district": "Chuadanga", "address": "Sadar, Chuadanga", "hotline": "16163", "emergency_phone": "02-9988046", "mobile": "01713-038046", "station_type": "District Headquarters Station"}]}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 300, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক চুয়াডাঙ্গা", "dags": "6546,5135,5136,5324,5155,5156,5389,5431,5432,5469,5470,5503,5504,6039,6064,6532,", "total_land": "68.40"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে শিক্ষা বিভাগ", "dags": "6351,3838", "total_land": "0.43"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে কৃষি বিভাগ", "dags": "3622", "total_land": "0.25"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অকিল উদ্দিন,আবু তালেব,নুরুল হক,নুরুজ্জামান,মজিরুনেছা,হাজিরন নেছা,জামিরন নেছা,সাহেদা বেগম,রোশানা বেগম", "dags": "5434,5672,5693", "total_land": "0.50"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অজিত কুমার দাস", "dags": "2448,2453", "total_land": "0.33"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অজিত কুমার দাস,অশ্বিনী কুমার,বলরাম", "dags": "3665", "total_land": "0.25"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অদৈত্য কুমার হালদার", "dags": "6021", "total_land": "0.16"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক চুয়াডাঙ্গা", "dags": "2905", "total_land": "0.06"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মোল্লা", "dags": "196,121,132,139,447,565,78", "total_land": "1.57"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মোল্লা,আবু বকর মোল্লা,রোকমান মোল্লা,সামছুদ্দিন মোল্লা", "dags": "", "total_land": "1.53"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মোল্লা,সামছুদ্দিন মোল্লা,রোকমান মোল্লা,আবু বক্কর মোল্লা", "dags": "6742/6906,5841", "total_land": "0.86"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মোল্যা,সামছুদ্দিন মোল্যা,রোকমান মোল্যা,আবু বক্কর মোল্যা,সিরাজুল ইসলাম, ইং ইছাহাক", "dags": "5938/6916", "total_land": "0.40"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মোল্লা,সামছুদ্দিন মোল্লা,রোকমান মোল্লা,আবু বকর মোল্লা,ময়না বিবি,আয়মন বিবি", "dags": "5360,5387,5509,5512,5513,5515,5359,6141,6637,6544,6636,5083,6681,6682,5241,5468,", "total_land": "6.18"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মণ্ডল,রোকমান মোল্যা,আবু বকর মোল্যা", "dags": "6776", "total_land": "0.13"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনাথ মোল্লা,ময়না বিবি,আয়মন বিবি", "dags": "835", "total_land": "0.20"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অনিল কুমার হালদার", "dags": "6018", "total_land": "0.02"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অবিলাস চন্দ্র বিশ্বাস", "dags": "6030", "total_land": "0.08"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং অহিদান আলী", "dags": "768,811,2614,2618,2635,2639,1144,2661,2852", "total_land": "3.41"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং আইউব আলী মোল্লা", "dags": "6371,539", "total_land": "0.76"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "আলোকদিয়া", "jl_no": "1", "owners": "দং আইউব আলী সেক,আক্কাছ আলী সেখ", "dags": "2276", "total_land": "0.17"}], "sample_mouzas": [{"mouza_name": "আলোকদিয়া", "jl_no": "1", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "তালতলা", "jl_no": "2", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "মনিরামপুর", "jl_no": "3", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "পীরপুর", "jl_no": "4", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "ভিংরুলা", "jl_no": "5", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "হাটকালুগঞ্জ", "jl_no": "6", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "বুজরুক গড়গড়ি", "jl_no": "7", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "সুমুরদিয়া", "jl_no": "8", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "বেলগাছি", "jl_no": "9", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "গাড়াবাড়িয়া", "jl_no": "10", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "দীননাথপুর", "jl_no": "11", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "মাখালডাঙ্গা", "jl_no": "12", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "কুখিয়া চাঁদপুর", "jl_no": "13", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "‌উক্ত", "jl_no": "14", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "দোস্ত", "jl_no": "15", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "কুন্দিপুর", "jl_no": "16", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "নেহালপুর", "jl_no": "17", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "হিজলগাড়ি", "jl_no": "18", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "ডিহি", "jl_no": "19", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "রোঙ্গোহাইল", "jl_no": "20", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "কৃষ্ণপুর", "jl_no": "21", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "উজলপুর", "jl_no": "22", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "আকন্দবাড়িয়া", "jl_no": "23", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "ভবানীপুর", "jl_no": "24", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "রাঙ্গিয়ারপোতা", "jl_no": "25", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "শৈলমারী", "jl_no": "26", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "ফুরসেতপুর", "jl_no": "27", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "দর্শনা", "jl_no": "28", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "কোটালি", "jl_no": "29", "survey": "CS", "upazila": "CHUADANGA SADAR"}, {"mouza_name": "ছোট সলুয়া", "jl_no": "30", "survey": "CS", "upazila": "CHUADANGA SADAR"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg", "district_drive_url": "https://drive.google.com/drive/folders/1oXU8Qy8AHsv_iVvsLsdypYUmvCQwk041", "district_total_maps": 2902, "district_uploaded_maps": 0, "district_total_gb": 32.001, "catalog_github_path": "land/maps/Khulna/Chuadanga.json"}}, "governance": {"administration": {"district": "Chuadanga", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Chuadanga", "phone": "01713-000042", "email": "dcchuadanga@mopa.gov.bd", "website": "http://www.chuadanga.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Chuadanga", "phone": "01713-373042", "email": "spchuadanga@police.gov.bd", "control_room": "01713-374042"}, "civil_surgeon_office": {"title": "Civil Surgeon, Chuadanga", "phone": "01713-555042", "email": "cschuadanga@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "79", "name": {"en": "Chaudanga-1", "bn": "চুয়াডাঙ্গা-১"}, "total_voters": 511657}, {"code": "80", "name": {"en": "Chaudanga-2", "bn": "চুয়াডাঙ্গা-২"}, "total_voters": 492431}], "upazila_portal": "chuadangasadar.chuadanga.gov.bd", "district_portal": "http://www.chuadanga.gov.bd", "union_portals_count": 7, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Khulna",
+  "district": "Chuadanga",
+  "upazila": "Chuadanga Sadar",
+  "upazila_slug": "khulna__chuadanga__chuadanga_sadar",
+  "geography": {
+    "division": "Khulna",
+    "division_bn": "খুলনা",
+    "district": "Chuadanga",
+    "district_bn": "চুয়াডাঙ্গা",
+    "district_lat": "23.6401961",
+    "district_lon": "88.841841",
+    "upazila_id": "192",
+    "upazila": "Chuadanga Sadar",
+    "upazila_bn": "চুয়াডাঙ্গা সদর",
+    "official_url": "chuadangasadar.chuadanga.gov.bd",
+    "total_unions": 7,
+    "unions": [
+      {
+        "id": "1739",
+        "name": "Alukdia",
+        "bn_name": "আলুকদিয়া",
+        "url": "alukdia.chuadanga.gov.bd"
+      },
+      {
+        "id": "1740",
+        "name": "Mominpur",
+        "bn_name": "মোমিনপুর",
+        "url": "mominpur.chuadanga.gov.bd"
+      },
+      {
+        "id": "1741",
+        "name": "Titudah",
+        "bn_name": "তিতুদাহ",
+        "url": "titudah.chuadanga.gov.bd"
+      },
+      {
+        "id": "1742",
+        "name": "Shankarchandra",
+        "bn_name": "শংকরচন্দ্র",
+        "url": "shankarchandra.chuadanga.gov.bd"
+      },
+      {
+        "id": "1743",
+        "name": "Begumpur",
+        "bn_name": "বেগমপুর",
+        "url": "begumpur.chuadanga.gov.bd"
+      },
+      {
+        "id": "1744",
+        "name": "Kutubpur",
+        "bn_name": "কুতুবপুর",
+        "url": "kutubpur.chuadanga.gov.bd"
+      },
+      {
+        "id": "1745",
+        "name": "Padmabila",
+        "bn_name": "পদ্মবিলা",
+        "url": "padmabila.chuadanga.gov.bd"
+      }
+    ],
+    "total_post_offices": 2,
+    "postal_codes": [
+      {
+        "postcode": "7200",
+        "postcode_bn": "৭২০০",
+        "sub_office": "Chuadanga Sadar",
+        "sub_office_bn": "চুয়াডাঙ্গা সদর"
+      },
+      {
+        "postcode": "7201",
+        "postcode_bn": "৭২০১",
+        "sub_office": "Munshiganj",
+        "sub_office_bn": "মুন্সিগঞ্জ"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 64,
+    "healthcare_count": 2,
+    "banking_count": 4,
+    "police_count": 1,
+    "fire_count": 1,
+    "unions_count": 7,
+    "postcodes_count": 2,
+    "land_khatians_count": 25,
+    "mouzas_count": 300
+  },
+  "education": [
+    {
+      "eiin": "115384",
+      "name": "ADARSHA GOVT. MAHILA COLLEGE",
+      "name_bn": "সরকারি আদর্শ মহিলা কলেজ, চুয়াডাঙ্গা।",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01721587749",
+      "email": "agmcchua@yahoo.com",
+      "teacher_count": 0,
+      "file": "ADARSHA GOVT. MAHILA COLLEGE.json"
+    },
+    {
+      "eiin": "115381",
+      "name": "BADARGANJ DEGREE COLLEGE",
+      "name_bn": "বদরগঞ্জ ডিগ্রি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01712253747",
+      "email": "bdc5503@gmail.com",
+      "teacher_count": 0,
+      "file": "BADARGANJ DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "115380",
+      "name": "BORO SALUA NEW MODEL COLLEGE",
+      "name_bn": "বড় সলুয়া নিউ মডেল ডিগ্রি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01718291689",
+      "email": "bsnmc2004@gmail.com",
+      "teacher_count": 0,
+      "file": "BORO SALUA NEW MODEL COLLEGE.json"
+    },
+    {
+      "eiin": "115383",
+      "name": "CHUADANGA GOVT. COLLEGE",
+      "name_bn": "চুয়াডাঙ্গা সরকারি কলেজ, চুয়াডাঙ্গা",
+      "type": "COLLEGE",
+      "level": "Masters",
+      "category": "college",
+      "mobile": "01797166868",
+      "email": "chuadangagov.college@yahoo.com",
+      "teacher_count": 0,
+      "file": "CHUADANGA GOVT. COLLEGE.json"
+    },
+    {
+      "eiin": "115382",
+      "name": "CHUDANGA POURA COLLEGE",
+      "name_bn": "চুয়াডাঙ্গা পৌর কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01717513439",
+      "email": "chuadangapc@gmail.com",
+      "teacher_count": 0,
+      "file": "CHUDANGA POURA COLLEGE.json"
+    },
+    {
+      "eiin": "135290",
+      "name": "TATUL SHEIKH COLLEGE",
+      "name_bn": "তেতুল শেখ কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01728951034",
+      "email": "tatulsheikhcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "TATUL SHEIKH COLLEGE.json"
+    },
+    {
+      "eiin": "115375",
+      "name": "62 NO ARIA DAKHIL MADRASHA",
+      "name_bn": "৬২ নং আড়িয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01916788424",
+      "email": "mm115375@gmail.com",
+      "teacher_count": 0,
+      "file": "62 NO ARIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "115377",
+      "name": "BEGUKMPUR DAKHIL MADRASHA",
+      "name_bn": "বেগমপুর দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01726231016",
+      "email": "mm115377@gmail.com",
+      "teacher_count": 0,
+      "file": "BEGUKMPUR DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "134061",
+      "name": "CHUADANGA MOHILA DAKHIL MADRASAH",
+      "name_bn": "চুয়াডাঙ্গা মহিলা দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01725700220",
+      "email": "cmdm2005@gmail.com",
+      "teacher_count": 0,
+      "file": "CHUADANGA MOHILA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115376",
+      "name": "DINGADAH DAKHIL MADRASHA",
+      "name_bn": "ডিঙ্গেদহ দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01716327468",
+      "email": "mmm115376@gmail.com",
+      "teacher_count": 0,
+      "file": "DINGADAH DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "115327",
+      "name": "DOSHOMI MOHILA DALHIL MADRASHA",
+      "name_bn": null,
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01716214231",
+      "email": null,
+      "teacher_count": 0,
+      "file": "DOSHOMI MOHILA DALHIL MADRASHA.json"
+    },
+    {
+      "eiin": "115378",
+      "name": "HAZRAHATI DARUL ISLAM DAKHIL MADRASHA",
+      "name_bn": "হাজরাহাটি দারুল ইসলাম দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01712435631",
+      "email": "mm115378@gmail.com",
+      "teacher_count": 0,
+      "file": "HAZRAHATI DARUL ISLAM DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "115373",
+      "name": "JUGIR HUDA ABUL HOSSEN DAKHIL MADRASHA",
+      "name_bn": "যুগিরহুদা আবুল হোসেন দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01722226810",
+      "email": "mm115373@gmail.com",
+      "teacher_count": 0,
+      "file": "JUGIR HUDA ABUL HOSSEN DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "115374",
+      "name": "SARABARIA DAKHIL MADRASHA",
+      "name_bn": "সড়াবাড়ীয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01712447027",
+      "email": "mm115374@gmail.com",
+      "teacher_count": 0,
+      "file": "SARABARIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "115371",
+      "name": "BADARGANJ BAQUI BILLAH KAMIL MADRASHA",
+      "name_bn": "বদরগঞ্জ বাকীবিল্লাহ কামিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Kamil",
+      "category": "madrasa_other",
+      "mobile": "01711479182",
+      "email": "bbkm.chua@gmail.com",
+      "teacher_count": 0,
+      "file": "BADARGANJ BAQUI BILLAH KAMIL MADRASHA.json"
+    },
+    {
+      "eiin": "115379",
+      "name": "CHUADANGA FAZIL MADRASAH",
+      "name_bn": "চুয়াডাঙ্গা ফাযিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01913912382",
+      "email": "chuafm75@gmail.com",
+      "teacher_count": 0,
+      "file": "CHUADANGA FAZIL MADRASAH.json"
+    },
+    {
+      "eiin": "140478",
+      "name": "AKONDOBARIA MODEL SCHOOL AND COLLEGE",
+      "name_bn": "আকন্দবাড়ীয়া মডেল স্কুল অ্যান্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712052049",
+      "email": null,
+      "teacher_count": 0,
+      "file": "AKONDOBARIA MODEL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "140427",
+      "name": "AMENA KHATUN SECONDARY SCHOOL",
+      "name_bn": "আমেনা খাতুন মাধ্যমিক বিদ্যালয়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731538884",
+      "email": null,
+      "teacher_count": 0,
+      "file": "AMENA KHATUN SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "135682",
+      "name": "CENTRAL COMMERCIAL TRAINING CENTER",
+      "name_bn": "সেন্ট্রাল কমাশিয়াল প্রশিক্ষণ কেন্দ্র",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01913423427",
+      "email": null,
+      "teacher_count": 0,
+      "file": "CENTRAL COMMERCIAL TRAINING CENTER.json"
+    },
+    {
+      "eiin": "135678",
+      "name": "CHUADANGA POLYTECHNIC INSTITUTE",
+      "name_bn": "চুয়াডাঙ্গা পলিটেকনিক ইন্সটিটিউট, চুয়াডাঙ্গা",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711261225",
+      "email": null,
+      "teacher_count": 0,
+      "file": "CHUADANGA POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "133057",
+      "name": "CHUADANGA TECHNICAL SCHOOL AND COLLEGE,CHUADANGA",
+      "name_bn": "চুয়াডাঙ্গা সরকারি টেকনিক্যাল স্কুল ও কলেজ, চুয়াডাঙ্গা।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01752061191",
+      "email": null,
+      "teacher_count": 0,
+      "file": "CHUADANGA TECHNICAL SCHOOL AND COLLEGE,CHUADANGA.json"
+    },
+    {
+      "eiin": "135680",
+      "name": "COMPACT COMPUTER TRAINING CENTER",
+      "name_bn": "কম্প্যাক্ট ইনস্টিটিউট অব স্কিলস ডেভেলপমেন্ট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712759790",
+      "email": null,
+      "teacher_count": 0,
+      "file": "COMPACT COMPUTER TRAINING CENTER.json"
+    },
+    {
+      "eiin": "140490",
+      "name": "DR ATIQUR RAHMAN MALIK ENGLISH SCHOOL AND COLLEGE",
+      "name_bn": "ড. আতিকুর রহমান মালিক ইংলিশ স্কুল এন্ড কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01959906355",
+      "email": null,
+      "teacher_count": 0,
+      "file": "DR ATIQUR RAHMAN MALIK ENGLISH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "135681",
+      "name": "GOLD STAR COMPUTER",
+      "name_bn": "গোল্ডষ্টার কম্পউটার",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718426814",
+      "email": null,
+      "teacher_count": 0,
+      "file": "GOLD STAR COMPUTER.json"
+    },
+    {
+      "eiin": "135408",
+      "name": "NEW IDEAL MEDICAL INSTITUTE AND TECHNOLOGY (INSTITUTE CODE- 29047)",
+      "name_bn": "নিউ আইডিয়াল মেডিকেল ইন্সটিটিউট (ইন্সটিটিউট কোড-২৯০৪৭)",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718374351",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NEW IDEAL MEDICAL INSTITUTE AND TECHNOLOGY (INSTITUTE CODE- 29047).json"
+    },
+    {
+      "eiin": "133544",
+      "name": "NURSING INSTITUTE CHUADANGA",
+      "name_bn": "নার্সিং ইনস্টিটিউট চুয়াডাংগা",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01717201835",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NURSING INSTITUTE CHUADANGA.json"
+    },
+    {
+      "eiin": "138459",
+      "name": "SHAHEED MUKTIJODDHA SMITI NON GOV BUSINESS MANAGEMENT INSTITUTE",
+      "name_bn": "শহীদ মুক্তিযোদ্ধা স্মৃতি বেসরকারী বিজনেস ম্যানেজমেন্ট ইন্সটিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01939151371",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SHAHEED MUKTIJODDHA SMITI NON GOV BUSINESS MANAGEMENT INSTITUTE.json"
+    },
+    {
+      "eiin": "135679",
+      "name": "VQUEEN'S INSTITUTE OF TECHNOLOGY",
+      "name_bn": "ভিকুইন্স ইনস্টিটিউট অব টেকনোলজি",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712174110",
+      "email": null,
+      "teacher_count": 0,
+      "file": "VQUEEN'S INSTITUTE OF TECHNOLOGY.json"
+    },
+    {
+      "eiin": "137301",
+      "name": "GAIDGHAT GOVT. PRIMARY SCHOOL",
+      "name_bn": "গাইদঘাট সরকারি প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01725186208",
+      "email": "gaidghatgps@gmail.com",
+      "teacher_count": 121,
+      "file": "GAIDGHAT GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "136697",
+      "name": "FIRST CAPITAL UNIVERSITY OF BANGLADESH",
+      "name_bn": "ফার্স্ট ক্যাপিটাল ইউনিভার্সিটি অব বাংলাদেশ",
+      "type": "PRIVATE UNIVERSITY",
+      "level": "Masters",
+      "category": "private_university",
+      "mobile": "01727226799",
+      "email": "first_capital_bd@yahoo.com",
+      "teacher_count": 0,
+      "file": "FIRST CAPITAL UNIVERSITY OF BANGLADESH.json"
+    },
+    {
+      "eiin": "115350",
+      "name": "AL-HELAL SECONDARY ISLAMI ACADEMY",
+      "name_bn": "আল-হেলাল মাধ্যমিক ইসলামী একাডেমী",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721561760",
+      "email": "sssss115350@gmail.com",
+      "teacher_count": 163,
+      "file": "AL-HELAL SECONDARY ISLAMI ACADEMY.json"
+    },
+    {
+      "eiin": "115343",
+      "name": "ALIARPUR AZIZ HIGH SCHOOL",
+      "name_bn": "আলিয়ারপুর আজিজ মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": null,
+      "email": "s115343ict@gmail.com",
+      "teacher_count": 374,
+      "file": "ALIARPUR AZIZ HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115338",
+      "name": "ALUKDIA ROMELA GIRLS HIGH SCHOOL",
+      "name_bn": "আলুকদিয়া রোমেলা খাতুন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712478176",
+      "email": "ss115338@gmail.com",
+      "teacher_count": 216,
+      "file": "ALUKDIA ROMELA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "138450",
+      "name": "ARAFAT HOSSAIN SARANI BIDDYAPIT",
+      "name_bn": "আরাফাত হোসেন স্মরণী বিদ্যাপীঠ",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01939151371",
+      "email": "ahsb138450@gmail.com",
+      "teacher_count": 56,
+      "file": "ARAFAT HOSSAIN SARANI BIDDYAPIT.json"
+    },
+    {
+      "eiin": "115366",
+      "name": "BEGUMPUR JODUPUR HIGH SCHOOL",
+      "name_bn": "বেগমপুর যদুপুর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01912501730",
+      "email": "sbjhs115366@gmail.com",
+      "teacher_count": 223,
+      "file": "BEGUMPUR JODUPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115356",
+      "name": "CHUADANGA ACADEMY",
+      "name_bn": "চূয়াডাঙ্গা একাডেমী",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711029265",
+      "email": "s115356s@gmail.com",
+      "teacher_count": 237,
+      "file": "CHUADANGA ACADEMY.json"
+    },
+    {
+      "eiin": "115355",
+      "name": "CHUADANGA ADARSHA HIGH SCHOOL",
+      "name_bn": "চুয়াডাঙ্গা আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718587279",
+      "email": "sss115355@gmail.com",
+      "teacher_count": 207,
+      "file": "CHUADANGA ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115347",
+      "name": "CHUADANGA ADORSHA UCCHA BALIKA VIDYALAYA",
+      "name_bn": "চুয়াডাঙ্গা আদর্শ উচ্চ বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711360948",
+      "email": "abc115347@gmail.com",
+      "teacher_count": 185,
+      "file": "CHUADANGA ADORSHA UCCHA BALIKA VIDYALAYA.json"
+    },
+    {
+      "eiin": "138373",
+      "name": "CHUADANGA COLLECTORATE SCHOOL AND COLLEGE",
+      "name_bn": "চুয়াডাঙ্গা কালেক্টরেট স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712157028",
+      "email": "ccscbd2016@gmail.com",
+      "teacher_count": 185,
+      "file": "CHUADANGA COLLECTORATE SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "115348",
+      "name": "CHUADANGA GOVT. GIRLS HIGH SCHOOL",
+      "name_bn": "চুয়াডাঙ্গা সরকারি বালিকা উচ্চ বিদ্যালয়, চুয়াডাঙ্গা",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01730884710",
+      "email": "sss115348@gmail.com",
+      "teacher_count": 447,
+      "file": "CHUADANGA GOVT. GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115344",
+      "name": "DINGADAH SECONDARY GIRLS SCHOOL",
+      "name_bn": "ডিঙ্গেদহ মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01922372569",
+      "email": "sh115344@gmail.com",
+      "teacher_count": 285,
+      "file": "DINGADAH SECONDARY GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "115337",
+      "name": "GIRISHNAGAR HIGH SCHOOL",
+      "name_bn": "গিরিশনগর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713904455",
+      "email": "sghs115337@gmail.com",
+      "teacher_count": 228,
+      "file": "GIRISHNAGAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115336",
+      "name": "HAZRAHATI TALTALA HIGH SCHOOL",
+      "name_bn": "হাজরাহাটি- তালতলা মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712060140",
+      "email": "ss115336@gmail.com",
+      "teacher_count": 215,
+      "file": "HAZRAHATI TALTALA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115342",
+      "name": "HIZALGARI SECONDARY SCHOOL",
+      "name_bn": "হিজলগাড়ী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711210045",
+      "email": "sss115342@gmail.com",
+      "teacher_count": 314,
+      "file": "HIZALGARI SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115346",
+      "name": "JHINUK GIRLS SECONDARY SCHOOL",
+      "name_bn": "ঝিনুক মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713383814",
+      "email": "js115346@gmail.com",
+      "teacher_count": 246,
+      "file": "JHINUK GIRLS SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115367",
+      "name": "KATHULY SECONDARY SCHOOL",
+      "name_bn": "কাথুলী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724131314",
+      "email": "skathuly115367@gmail.com",
+      "teacher_count": 207,
+      "file": "KATHULY SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115354",
+      "name": "KHARAGODA SECONDARY SCHOOL",
+      "name_bn": "খাড়াগোদা মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01710833853",
+      "email": "sss115354@gmail.com",
+      "teacher_count": 275,
+      "file": "KHARAGODA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115370",
+      "name": "KOTALI HIGH SCHOOL",
+      "name_bn": "কোটালী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01728601587",
+      "email": "ss115370@gmail.com",
+      "teacher_count": 161,
+      "file": "KOTALI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115368",
+      "name": "KUKIACHANDPUR IDEAL GIRLS HIGH SCHOOL",
+      "name_bn": "কুকিয়া চাঁদপুর আর্দশ মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01914847320",
+      "email": "sss115368@gmail.com",
+      "teacher_count": 225,
+      "file": "KUKIACHANDPUR IDEAL GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115402",
+      "name": "KUTUBPUR SECONDARY SCHOOL",
+      "name_bn": "কুতুবপুর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01710965896",
+      "email": "sss115402@gmail.com",
+      "teacher_count": 212,
+      "file": "KUTUBPUR SECONDARY SCHOOL [115402].json"
+    },
+    {
+      "eiin": "115345",
+      "name": "M.A. BARI SECONDARY SCHOOL",
+      "name_bn": "মালিক আব্দুল বারী মাধ্যমিক বিদ্যালয়, চুয়াডাঙ্গা।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715269123",
+      "email": "sssss115345@gmail.com",
+      "teacher_count": 208,
+      "file": "M.A. BARI SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115363",
+      "name": "MAKHAL DANGA DENNATH PUR HIGH SCHOOL",
+      "name_bn": "মাখালডাংগা দীননাথপুর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718704560",
+      "email": "sss115363@gmail.com",
+      "teacher_count": 240,
+      "file": "MAKHAL DANGA DENNATH PUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115339",
+      "name": "MOHAMMAD JOMA D A.S.S SECONDARY SCHOOL",
+      "name_bn": "মহাম্মদ জমা ডি. এ. এস.এস মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724889151",
+      "email": "ss115339@gmail.com",
+      "teacher_count": 160,
+      "file": "MOHAMMAD JOMA D A.S.S SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115358",
+      "name": "NILMONIGANJ SECONDARY SCHOOL",
+      "name_bn": "নীলমণিগঞ্জ মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717744354",
+      "email": "sss115358@gmail.com",
+      "teacher_count": 315,
+      "file": "NILMONIGANJ SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115353",
+      "name": "NILMONIGONJ SECONDARY GIRLS SCHOOL",
+      "name_bn": "নী্লমনিগঞ্জ মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719731343",
+      "email": "sss115353@gmail.com",
+      "teacher_count": 160,
+      "file": "NILMONIGONJ SECONDARY GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "115357",
+      "name": "RAHELA KHATUN GIRLS ACADEMY",
+      "name_bn": "রাহেলা খাতুন গালস একাডেমী",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720333234",
+      "email": "rkga115357@gmail.com",
+      "teacher_count": 238,
+      "file": "RAHELA KHATUN GIRLS ACADEMY.json"
+    },
+    {
+      "eiin": "115352",
+      "name": "SADEMANNESA GIRLS HIGH SCHOOL",
+      "name_bn": "ছাদেমান নেছা মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714935835",
+      "email": "s115352s@gmail.com",
+      "teacher_count": 236,
+      "file": "SADEMANNESA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115362",
+      "name": "SARA BARIA SECONDARY SCHOOL",
+      "name_bn": "সড়াবাড়ীয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720140592",
+      "email": "sch115362@gmail.com",
+      "teacher_count": 204,
+      "file": "SARA BARIA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115351",
+      "name": "SAROJGONG HIGH SCHOOL",
+      "name_bn": "সরোজগঞ্জ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719030537",
+      "email": "sarojganjhighschool@gmail.com",
+      "teacher_count": 448,
+      "file": "SAROJGONG HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115365",
+      "name": "SHEMANTO HIGH SCHOOL",
+      "name_bn": "সীমান্ত মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714937868",
+      "email": "sss115365s@gmail.com",
+      "teacher_count": 199,
+      "file": "SHEMANTO HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115360",
+      "name": "SOHRAWARDI SARANI VIDDYAPIT DINGADAH",
+      "name_bn": "সোহরাওয়ার্দ্দী স্মরণী বিদ্যাপীঠ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718812252",
+      "email": "sss115360@gmail.com",
+      "teacher_count": 391,
+      "file": "SOHRAWARDI SARANI VIDDYAPIT DINGADAH.json"
+    },
+    {
+      "eiin": "115341",
+      "name": "SRIKOL-BOALIA HIGH SCHOOL",
+      "name_bn": "শ্রীকোল-বোয়ালিয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715380914",
+      "email": "sss115341@gmall.com",
+      "teacher_count": 220,
+      "file": "SRIKOL-BOALIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115364",
+      "name": "TITUDAH SECONDARY SCHOOL",
+      "name_bn": "তিতুদহ মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716694774",
+      "email": "ss115364@gmail.com",
+      "teacher_count": 203,
+      "file": "TITUDAH SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115349",
+      "name": "V.J.GOVT. HIGH SCHOOL, CHUADANGA",
+      "name_bn": "ভিক্টোরিয়া জুবিলি সরকারি উচ্চ বিদ্যালয়, চুয়াডাঙ্গা।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718699886",
+      "email": "hmvjchua@gmail.com",
+      "teacher_count": 457,
+      "file": "V.J.GOVT. HIGH SCHOOL, CHUADANGA.json"
+    }
+  ],
+  "healthcare": [
+    {
+      "id": "HOSP-0599",
+      "name": "Chuadanga General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "district_slug": "chuadanga",
+      "upazila": "Chuadanga Sadar",
+      "address": "Chuadanga Sadar, Chuadanga",
+      "latitude": 23.635679,
+      "longitude": 88.847399,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-0602",
+      "name": "Puratan Hospital para",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "district_slug": "chuadanga",
+      "upazila": "Chuadanga Sadar",
+      "address": "Chuadanga Sadar, Chuadanga",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "banking": [
+    {
+      "bank_name": "BANGLADESH KRISHI BANK",
+      "bank_code": "035",
+      "branch_name": "CHUADANGA BRANCH",
+      "routing_number": "035180195",
+      "swift_code": "BKBABDDH",
+      "district": "CHUADANGA",
+      "address": "CHUADANGA SADAR, CHUADANGA 7200",
+      "telephone": "mgrchuadanga@krishibank.org.bd",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "2001 / 019"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "CHUADANGA BRANCH",
+      "routing_number": "135180253",
+      "swift_code": "JANBBDDH",
+      "district": "CHUADANGA",
+      "address": "CHUADANGA SADAR, CHUADANGA 7200",
+      "telephone": "0761 62474",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "025"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "RAIL BAZAR BRANCH",
+      "routing_number": "135180224",
+      "swift_code": "JANBBDDH",
+      "district": "CHUADANGA",
+      "address": "CHUADANGA SADAR, CHUADANGA 7200",
+      "telephone": "0761 62511",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "022"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "CHUADANGA BRANCH",
+      "routing_number": "185180195",
+      "swift_code": "RUPBBDDH",
+      "district": "CHUADANGA",
+      "address": "CHUADANGA SADAR, CHUADANGA",
+      "telephone": "0761 63140, 017 18209813",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "3178 / 019"
+    }
+  ],
+  "emergency": {
+    "division": "Khulna",
+    "district": "Chuadanga",
+    "upazila": "Chuadanga Sadar",
+    "national_hotlines": [
+      {
+        "name": "National Emergency Service (Police, Fire, Ambulance)",
+        "number": "999"
+      },
+      {
+        "name": "National Information & Citizen Service",
+        "number": "333"
+      },
+      {
+        "name": "Government Legal Aid",
+        "number": "16430"
+      },
+      {
+        "name": "Child Helpline",
+        "number": "1098"
+      },
+      {
+        "name": "Women & Children Repression Prevention Helpline",
+        "number": "109"
+      }
+    ],
+    "district_administration": {
+      "district": "Chuadanga",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Chuadanga",
+        "phone": "01713-000042",
+        "email": "dcchuadanga@mopa.gov.bd",
+        "website": "http://www.chuadanga.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Chuadanga",
+        "phone": "01713-373042",
+        "email": "spchuadanga@police.gov.bd",
+        "control_room": "01713-374042"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Chuadanga",
+        "phone": "01713-555042",
+        "email": "cschuadanga@dghs.gov.bd"
+      }
+    },
+    "police_stations": [
+      {
+        "thana_id": "PS-DIST-55",
+        "name": "Chuadanga Sadar Police Station",
+        "bn_name": "Chuadanga সদর থানা",
+        "unit": "Chuadanga District Police",
+        "division": "General",
+        "district": "Chuadanga",
+        "address": "Court Building Road, Sadar, Chuadanga",
+        "oc_mobile": "01713-374055",
+        "duty_officer": "01713-399055",
+        "tnt": "02-770055",
+        "control_room": "01713-374000"
+      }
+    ],
+    "fire_stations": [
+      {
+        "station_id": "FS-046",
+        "name": "Chuadanga Fire Station & Civil Defence",
+        "bn_name": "Chuadanga ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+        "division": "General",
+        "district": "Chuadanga",
+        "address": "Sadar, Chuadanga",
+        "hotline": "16163",
+        "emergency_phone": "02-9988046",
+        "mobile": "01713-038046",
+        "station_type": "District Headquarters Station"
+      }
+    ]
+  },
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 300,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক চুয়াডাঙ্গা",
+        "dags": "6546,5135,5136,5324,5155,5156,5389,5431,5432,5469,5470,5503,5504,6039,6064,6532,",
+        "total_land": "68.40"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে শিক্ষা বিভাগ",
+        "dags": "6351,3838",
+        "total_land": "0.43"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে কৃষি বিভাগ",
+        "dags": "3622",
+        "total_land": "0.25"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অকিল উদ্দিন,আবু তালেব,নুরুল হক,নুরুজ্জামান,মজিরুনেছা,হাজিরন নেছা,জামিরন নেছা,সাহেদা বেগম,রোশানা বেগম",
+        "dags": "5434,5672,5693",
+        "total_land": "0.50"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অজিত কুমার দাস",
+        "dags": "2448,2453",
+        "total_land": "0.33"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অজিত কুমার দাস,অশ্বিনী কুমার,বলরাম",
+        "dags": "3665",
+        "total_land": "0.25"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অদৈত্য কুমার হালদার",
+        "dags": "6021",
+        "total_land": "0.16"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক চুয়াডাঙ্গা",
+        "dags": "2905",
+        "total_land": "0.06"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মোল্লা",
+        "dags": "196,121,132,139,447,565,78",
+        "total_land": "1.57"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মোল্লা,আবু বকর মোল্লা,রোকমান মোল্লা,সামছুদ্দিন মোল্লা",
+        "dags": "",
+        "total_land": "1.53"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মোল্লা,সামছুদ্দিন মোল্লা,রোকমান মোল্লা,আবু বক্কর মোল্লা",
+        "dags": "6742/6906,5841",
+        "total_land": "0.86"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মোল্যা,সামছুদ্দিন মোল্যা,রোকমান মোল্যা,আবু বক্কর মোল্যা,সিরাজুল ইসলাম, ইং ইছাহাক",
+        "dags": "5938/6916",
+        "total_land": "0.40"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মোল্লা,সামছুদ্দিন মোল্লা,রোকমান মোল্লা,আবু বকর মোল্লা,ময়না বিবি,আয়মন বিবি",
+        "dags": "5360,5387,5509,5512,5513,5515,5359,6141,6637,6544,6636,5083,6681,6682,5241,5468,",
+        "total_land": "6.18"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মণ্ডল,রোকমান মোল্যা,আবু বকর মোল্যা",
+        "dags": "6776",
+        "total_land": "0.13"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনাথ মোল্লা,ময়না বিবি,আয়মন বিবি",
+        "dags": "835",
+        "total_land": "0.20"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অনিল কুমার হালদার",
+        "dags": "6018",
+        "total_land": "0.02"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অবিলাস চন্দ্র বিশ্বাস",
+        "dags": "6030",
+        "total_land": "0.08"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং অহিদান আলী",
+        "dags": "768,811,2614,2618,2635,2639,1144,2661,2852",
+        "total_land": "3.41"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং আইউব আলী মোল্লা",
+        "dags": "6371,539",
+        "total_land": "0.76"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "owners": "দং আইউব আলী সেক,আক্কাছ আলী সেখ",
+        "dags": "2276",
+        "total_land": "0.17"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "আলোকদিয়া",
+        "jl_no": "1",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "তালতলা",
+        "jl_no": "2",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "মনিরামপুর",
+        "jl_no": "3",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "পীরপুর",
+        "jl_no": "4",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "ভিংরুলা",
+        "jl_no": "5",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "হাটকালুগঞ্জ",
+        "jl_no": "6",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "বুজরুক গড়গড়ি",
+        "jl_no": "7",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "সুমুরদিয়া",
+        "jl_no": "8",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "বেলগাছি",
+        "jl_no": "9",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "গাড়াবাড়িয়া",
+        "jl_no": "10",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "দীননাথপুর",
+        "jl_no": "11",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "মাখালডাঙ্গা",
+        "jl_no": "12",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "কুখিয়া চাঁদপুর",
+        "jl_no": "13",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "‌উক্ত",
+        "jl_no": "14",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "দোস্ত",
+        "jl_no": "15",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "কুন্দিপুর",
+        "jl_no": "16",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "নেহালপুর",
+        "jl_no": "17",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "হিজলগাড়ি",
+        "jl_no": "18",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "ডিহি",
+        "jl_no": "19",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "রোঙ্গোহাইল",
+        "jl_no": "20",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "কৃষ্ণপুর",
+        "jl_no": "21",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "উজলপুর",
+        "jl_no": "22",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "আকন্দবাড়িয়া",
+        "jl_no": "23",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "ভবানীপুর",
+        "jl_no": "24",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "রাঙ্গিয়ারপোতা",
+        "jl_no": "25",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "শৈলমারী",
+        "jl_no": "26",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "ফুরসেতপুর",
+        "jl_no": "27",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "দর্শনা",
+        "jl_no": "28",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "কোটালি",
+        "jl_no": "29",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      },
+      {
+        "mouza_name": "ছোট সলুয়া",
+        "jl_no": "30",
+        "survey": "CS",
+        "upazila": "CHUADANGA SADAR"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/3:/",
+      "district_drive_url": "https://free.mouzamap.tech/3:/Chuadanga/",
+      "district_total_maps": 2902,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 32.001,
+      "catalog_github_path": "land/maps/Khulna/Chuadanga.json",
+      "online_folder_url": "https://free.mouzamap.tech/3:/Chuadanga/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Chuadanga",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Chuadanga",
+        "phone": "01713-000042",
+        "email": "dcchuadanga@mopa.gov.bd",
+        "website": "http://www.chuadanga.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Chuadanga",
+        "phone": "01713-373042",
+        "email": "spchuadanga@police.gov.bd",
+        "control_room": "01713-374042"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Chuadanga",
+        "phone": "01713-555042",
+        "email": "cschuadanga@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "79",
+        "name": {
+          "en": "Chaudanga-1",
+          "bn": "চুয়াডাঙ্গা-১"
+        },
+        "total_voters": 511657
+      },
+      {
+        "code": "80",
+        "name": {
+          "en": "Chaudanga-2",
+          "bn": "চুয়াডাঙ্গা-২"
+        },
+        "total_voters": 492431
+      }
+    ],
+    "upazila_portal": "chuadangasadar.chuadanga.gov.bd",
+    "district_portal": "http://www.chuadanga.gov.bd",
+    "union_portals_count": 7,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

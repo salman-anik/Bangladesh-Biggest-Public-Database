@@ -1,1 +1,2343 @@
-{"division": "Rangpur", "district": "Panchagarh", "upazila": "Panchagarh Sadar", "upazila_slug": "rangpur__panchagarh__panchagarh_sadar", "geography": {"division": "Rangpur", "division_bn": "রংপুর", "district": "Panchagarh", "district_bn": "পঞ্চগড়", "district_lat": "26.3411", "district_lon": "88.5541606", "upazila_id": "399", "upazila": "Panchagarh Sadar", "upazila_bn": "পঞ্চগড় সদর", "official_url": "panchagarhsadar.panchagarh.gov.bd", "total_unions": 10, "unions": [{"id": "3648", "name": "Panchagarh Sadar", "bn_name": "পঞ্চগড় সদর", "url": "panchagarhsadarup.panchagarh.gov.bd"}, {"id": "3649", "name": "Satmara", "bn_name": "সাতমেরা", "url": "satmaraup.panchagarh.gov.bd"}, {"id": "3650", "name": "Amarkhana", "bn_name": "অমরখানা", "url": "amarkhanaup.panchagarh.gov.bd"}, {"id": "3651", "name": "Haribhasa", "bn_name": "হাড়িভাসা", "url": "haribhasaup.panchagarh.gov.bd"}, {"id": "3652", "name": "Chaklahat", "bn_name": "চাকলাহাট", "url": "chaklahatup.panchagarh.gov.bd"}, {"id": "3653", "name": "Hafizabad", "bn_name": "হাফিজাবাদ", "url": "hafizabadup.panchagarh.gov.bd"}, {"id": "3654", "name": "Kamat Kajol Dighi", "bn_name": "কামাত কাজল দীঘি", "url": "kamatkajoldighiup.panchagarh.gov.bd"}, {"id": "3655", "name": "Dhakkamara", "bn_name": "ধাক্কামারা", "url": "dhakkamaraup.panchagarh.gov.bd"}, {"id": "3656", "name": "Magura", "bn_name": "মাগুরা", "url": "maguraup.panchagarh.gov.bd"}, {"id": "3657", "name": "Garinabari", "bn_name": "গরিনাবাড়ী", "url": "garinabariup.panchagarh.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 115, "healthcare_count": 12, "banking_count": 4, "police_count": 1, "fire_count": 1, "unions_count": 10, "postcodes_count": 0, "land_khatians_count": 25, "mouzas_count": 103}, "education": [{"eiin": "126150", "name": "AMLAHER DEGREE COLLAGE", "name_bn": "আমলাহার ডিগ্রী কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01717134940", "email": "amlahardegreecollege126150@gmail.com", "teacher_count": 0, "file": "AMLAHER DEGREE COLLAGE.json"}, {"eiin": "132011", "name": "BARRISTER JAMIR UDDIN SIRCAR INSTITUTE (DEGREE) PANCHAGARH", "name_bn": "ব্যারিস্টার জমির উদ্দিন সরকার ইনস্টিটিউট (ডিগ্রি), পঞ্চগড়।", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01717948779", "email": "barristerinstitute@gmail.com", "teacher_count": 0, "file": "BARRISTER JAMIR UDDIN SIRCAR INSTITUTE (DEGREE) PANCHAGARH.json"}, {"eiin": "126148", "name": "GOVT. PANCHAGARH MOHILA COLLEGE", "name_bn": "পঞ্চগড় সরকারি মহিলা কলেজ, পঞ্চগড়", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01791803388", "email": "pgwc_bd85@yahoo.com", "teacher_count": 0, "file": "GOVT. PANCHAGARH MOHILA COLLEGE.json"}, {"eiin": "126151", "name": "JAGDAL DEGREE COLLEGE", "name_bn": "জগদল ডিগ্রি কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01727960068", "email": "jagdalcollege456@gmail.com", "teacher_count": 0, "file": "JAGDAL DEGREE COLLEGE.json"}, {"eiin": "138048", "name": "MOFIZAR RAHMAN COLLEGE", "name_bn": "মফিজার রহমান কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01717640459", "email": "mrc.panchagarh@gmail.com", "teacher_count": 0, "file": "MOFIZAR RAHMAN COLLEGE.json"}, {"eiin": "126147", "name": "MOQULAR RAHMAN GOVT. COLLEGE, PANCHAGARH", "name_bn": "মকবুলার রহমান সরকারি কলেজ, পঞ্চগড়", "type": "COLLEGE", "level": "Masters", "category": "college", "mobile": "01715139215", "email": "mrcollege@ymail.com", "teacher_count": 0, "file": "MOQULAR RAHMAN GOVT. COLLEGE, PANCHAGARH.json"}, {"eiin": "126149", "name": "SHAHID ZIAUR RAHMAN MOHABIDDAYALAYA", "name_bn": "শহীদ জিয়াউর রহমান মহাবিদ্যালয়", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01716104204", "email": "principal.tu.pan@gmail.com", "teacher_count": 0, "file": "SHAHID ZIAUR RAHMAN MOHABIDDAYALAYA.json"}, {"eiin": "126132", "name": "AMLAHAR DHAKHIL MADRASHA", "name_bn": "আমলাহার দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01722562770", "email": "m126132pancha@gmail.com", "teacher_count": 0, "file": "AMLAHAR DHAKHIL MADRASHA.json"}, {"eiin": "126136", "name": "DUBANUCHI BARKATIA DAKHIL MADRASHA", "name_bn": "ডুবানুচী বরকতিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01727057277", "email": "dbdm.panchagarh@gmail.com", "teacher_count": 0, "file": "DUBANUCHI BARKATIA DAKHIL MADRASHA.json"}, {"eiin": "126145", "name": "GARINA BARI ISLAMIA DAKHIL MADRASHA", "name_bn": "গরিনাবাড়ী ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01713813979", "email": "gorinabari126145@gmail.com", "teacher_count": 0, "file": "GARINA BARI ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "126134", "name": "GHOTBAR TUNIR HAT DAKHIL MADRASAH", "name_bn": "ঘটবর টুনিরহাট দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01724334147", "email": "gtdm@gmail.com", "teacher_count": 0, "file": "GHOTBAR TUNIR HAT DAKHIL MADRASAH.json"}, {"eiin": "126141", "name": "HAFIZABAD GOHIMON NESA DAKHIL MADRASHA", "name_bn": "হাফিজাবাদ গহিমন নেছা দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714624201", "email": "hgdm1991@gmail.com", "teacher_count": 0, "file": "HAFIZABAD GOHIMON NESA DAKHIL MADRASHA.json"}, {"eiin": "126133", "name": "HAJI WAJIULLAH GOYAPANI DAKIL MADRASHA", "name_bn": "হাজী অজিউল্লাহ গয়পানি দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01717137469", "email": "mad126133@gmail.com", "teacher_count": 0, "file": "HAJI WAJIULLAH GOYAPANI DAKIL MADRASHA.json"}, {"eiin": "126128", "name": "HARIVASA DARUS SUNNAH DAKHIL MADRASHA", "name_bn": "হাড়িভাসা দারুচ্ছুন্নাহ্ দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01722468968", "email": "hm126128@gmail.com", "teacher_count": 0, "file": "HARIVASA DARUS SUNNAH DAKHIL MADRASHA.json"}, {"eiin": "126143", "name": "JAGDAL DAKHIL MADRASAH", "name_bn": "জগদল আলিম মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01820546707", "email": "jagdaldakhilmad93@gmail.com", "teacher_count": 0, "file": "JAGDAL DAKHIL MADRASAH.json"}, {"eiin": "136293", "name": "JAMURI BARI DAKHIL MADRASAH", "name_bn": "জামুরী বাড়ী দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01723182372", "email": "jamurebari136293@gmail.com", "teacher_count": 0, "file": "JAMURI BARI DAKHIL MADRASAH.json"}, {"eiin": "126125", "name": "JOMIRON NESSA DAKHIL MADRASAH", "name_bn": "জমিরন নেছা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01723079565", "email": "jomironnessa1261125@gmail.com", "teacher_count": 0, "file": "JOMIRON NESSA DAKHIL MADRASAH.json"}, {"eiin": "126142", "name": "KAGOJIA PARA DAKHIL MADRASHAH", "name_bn": "কাগজিয়া পাড়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01799611274", "email": "kagojiapdmadrasha@yahoo.com", "teacher_count": 0, "file": "KAGOJIA PARA DAKHIL MADRASHAH.json"}, {"eiin": "126144", "name": "MAGURA HAJI KOSIR UDDIN SORKAR DAKHIL MADRASHA", "name_bn": "মাগুড়া হাজী কছির উদ্দীন সরকার দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714947013", "email": "magura126144@gmail.com", "teacher_count": 0, "file": "MAGURA HAJI KOSIR UDDIN SORKAR DAKHIL MADRASHA.json"}, {"eiin": "131842", "name": "MAGURA UTTAR PRDHAN PARA BARI DHAKIL MADRASAH", "name_bn": "মাগুড়া উত্তর প্রধান পাড়া বাশঁবাড়ী দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01740839354", "email": "magura131842@gmail.com", "teacher_count": 0, "file": "MAGURA UTTAR PRDHAN PARA BARI DHAKIL MADRASAH.json"}, {"eiin": "131662", "name": "PANIMACH PUKURY DAKHIL MADRASA", "name_bn": "পানিমাছ পুকুরী দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01738214007", "email": "m131662pan@gmail.com", "teacher_count": 0, "file": "PANIMACH PUKURY DAKHIL MADRASA.json"}, {"eiin": "126138", "name": "PRODHAN PARA DARUL FALAH DAKHIL MADRASHA", "name_bn": "প্রধান পাড়া দারুল ফালাহ দাখিল মাদ্রাস", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01727847336", "email": "m126138pdfm@gmail.com", "teacher_count": 0, "file": "PRODHAN PARA DARUL FALAH DAKHIL MADRASHA.json"}, {"eiin": "126131", "name": "SHING ROAD RATNI BARI ISLAM IA DAKHIL MADRASHA", "name_bn": "শিংরোড রতনীবাড়ী ইসলামিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01713687934", "email": "shingroadridmpng@gmail.com", "teacher_count": 0, "file": "SHING ROAD RATNI BARI ISLAM IA DAKHIL MADRASHA.json"}, {"eiin": "126137", "name": "SURIVITA DAKHIL MADRASHA", "name_bn": "শুড়িভিটা দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01751460817", "email": "surivitadhakhil@gmail.com", "teacher_count": 0, "file": "SURIVITA DAKHIL MADRASHA.json"}, {"eiin": "126127", "name": "VITAR GARH SONARBAN DAKHIL MADRASHA", "name_bn": "ভিতরগড় সোনার বান দাখিল মাদ়রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01716309213", "email": "bsdmadrasah13@gmail.com", "teacher_count": 0, "file": "VITAR GARH SONARBAN DAKHIL MADRASHA.json"}, {"eiin": "126129", "name": "DUIPARA ALIM MADRASAH", "name_bn": "দুইপাড়া আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01949425940", "email": "duipara126129@gmail.com", "teacher_count": 0, "file": "DUIPARA ALIM MADRASAH.json"}, {"eiin": "126126", "name": "GOLEHA HAT FAZIL MADRASHA", "name_bn": "গলেহা হাট ফাজিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01719205993", "email": "m126126pan@gmail.com", "teacher_count": 0, "file": "GOLEHA HAT FAZIL MADRASHA.json"}, {"eiin": "126139", "name": "HAJI KHAMIR UDDIN PRODAN ALIM MADRASHA", "name_bn": "হাজী খামির উদ্দীন প্রধান আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01718351875", "email": "m126139@gmail.com", "teacher_count": 0, "file": "HAJI KHAMIR UDDIN PRODAN ALIM MADRASHA.json"}, {"eiin": "126130", "name": "KHANBAHADUR MOKHLESUR RAHMAN DARUSSUNNAT ALIM MADRASAH", "name_bn": "খানবাহাদুর মোখলেছুর রহমান দারুচছুন্নাত আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01718880139", "email": "kbmmadrasha@yahoo.com", "teacher_count": 0, "file": "KHANBAHADUR MOKHLESUR RAHMAN DARUSSUNNAT ALIM MADRASAH.json"}, {"eiin": "126140", "name": "PANCHAGARH ADARSHA MOHILA ALIM MADRASAH", "name_bn": "পঞ্চগড় আদর্শ মহিলা আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01705952252", "email": "m126140@gmail.com", "teacher_count": 0, "file": "PANCHAGARH ADARSHA MOHILA ALIM MADRASAH.json"}, {"eiin": "126124", "name": "PANCHAGARH NURUN ALA NUR KAMIL MADRASHA", "name_bn": "পঞ্চগড় নূরুন আলা নূর কামিল মাদরাসা", "type": "MADRASHA", "level": "Kamil", "category": "madrasa_other", "mobile": "01725444238", "email": "m126124@yahoo.com", "teacher_count": 0, "file": "PANCHAGARH NURUN ALA NUR KAMIL MADRASHA.json"}, {"eiin": "138189", "name": "RAJMOHAL PURBOBAGAN ALIM MADRASAH", "name_bn": "রাজমোহল পূর্ববাগান আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01750317759", "email": "bsmram.panchgarh@gmail.com", "teacher_count": 0, "file": "RAJMOHAL PURBOBAGAN ALIM MADRASAH.json"}, {"eiin": "132248", "name": "BSCIC NAGAR TECNICAL & BUSINESS MANAGEMENT COLLEGE", "name_bn": "বিসিকনগর টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01716180947", "email": null, "teacher_count": 0, "file": "BSCIC NAGAR TECNICAL & BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "136785", "name": "CHAKLAHAT TECHNICAL AND B.M. COLLEGE", "name_bn": "চাকলাহাট টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01718241273", "email": null, "teacher_count": 0, "file": "CHAKLAHAT TECHNICAL AND B.M. COLLEGE.json"}, {"eiin": "133755", "name": "HARIVASA TECHNICAL & BUSINESS MANAGEMENT COLLEGE", "name_bn": "হাড়িভাসা টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01719346312", "email": null, "teacher_count": 0, "file": "HARIVASA TECHNICAL & BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "139085", "name": "MINAL NON GOVT POLYTECHNIC INSTITUTE", "name_bn": "মিনাল বেসরকারি পলিটেকনিক ইনস্টিটিউট", "type": null, "level": null, "category": "other", "mobile": "01737749794", "email": null, "teacher_count": 0, "file": "MINAL NON GOVT POLYTECHNIC INSTITUTE.json"}, {"eiin": "132245", "name": "MITHAPUKUR TECHNICAL AND BUSSINESS MANAGMENT COLLEGE", "name_bn": "মিঠাপুকুর টেকনিক্যাল এ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712599701", "email": null, "teacher_count": 0, "file": "MITHAPUKUR TECHNICAL AND BUSSINESS MANAGMENT COLLEGE.json"}, {"eiin": "133411", "name": "NURSING INSTITUTE, PANCHAGARH", "name_bn": "নার্সিং ইনষ্টিটিউট, পঞ্চগড়।", "type": null, "level": null, "category": "other", "mobile": "01332807258", "email": null, "teacher_count": 0, "file": "NURSING INSTITUTE, PANCHAGARH.json"}, {"eiin": "133635", "name": "P.T.I. PANCHAGAR", "name_bn": "পিটিআই পঞ্চগড়", "type": null, "level": null, "category": "other", "mobile": "01712135735", "email": null, "teacher_count": 0, "file": "P.T.I. PANCHAGAR.json"}, {"eiin": "133760", "name": "PANCHAGARH HOMOEOPATHIC MEDICAL COLLEGE & HOSPITAL, PANCHAGARH", "name_bn": "পঞ্চগড় হোমিওপ্যাথিক মেডিকেল কলেজ ও হাসাতাল", "type": null, "level": null, "category": "other", "mobile": "01715204284", "email": null, "teacher_count": 0, "file": "PANCHAGARH HOMOEOPATHIC MEDICAL COLLEGE & HOSPITAL, PANCHAGARH.json"}, {"eiin": "135138", "name": "PANCHAGARH TECHNICAL AND B M GIRLS COLLEGE", "name_bn": "পঞ্চগড় টেকনিক্যাল অ্যান্ড বি. এম মহিলা কলেজ", "type": null, "level": null, "category": "other", "mobile": "01722188499", "email": null, "teacher_count": 0, "file": "PANCHAGARH TECHNICAL AND B M GIRLS COLLEGE.json"}, {"eiin": "132273", "name": "PANCHAGARH TECHNICAL AND BUSSINESS MANGEMENT COLLAGE", "name_bn": "পঞ্চগড় টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01716332993", "email": null, "teacher_count": 0, "file": "PANCHAGARH TECHNICAL AND BUSSINESS MANGEMENT COLLAGE.json"}, {"eiin": "132244", "name": "PANCHAGARH TECHNICAL SCHOOL AND COLLEGE", "name_bn": "পঞ্চগড় সরকারি টেকনিক্যাল স্কুল ও কলেজ, পঞ্চগড়।", "type": null, "level": null, "category": "other", "mobile": "01712394347", "email": null, "teacher_count": 0, "file": "PANCHAGARH TECHNICAL SCHOOL AND COLLEGE.json"}, {"eiin": "136939", "name": "RAINBOW POLYTECHNIC INSTITUTE (R.P.I)", "name_bn": "রেইনবো পলিটেকনিক ইনস্টিটিউট (আরপিআই)", "type": null, "level": null, "category": "other", "mobile": "01770876107", "email": null, "teacher_count": 0, "file": "RAINBOW POLYTECHNIC INSTITUTE (R.P.I).json"}, {"eiin": "137281", "name": "DARIKAMARY-3 GOVT. PRIMARY SCHOOL", "name_bn": null, "type": "SCHOOL", "level": "Govt. Primary (pre to Five)", "category": "primary_school", "mobile": "01710630513", "email": null, "teacher_count": 80, "file": "DARIKAMARY-3 GOVT. PRIMARY SCHOOL.json"}, {"eiin": "126115", "name": "AFSARUL HOQUE JUNIOR GIRLS SCHOOL", "name_bn": "আফছারুল হক নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01722430670", "email": "mohammadshakimulislam@gmail.com", "teacher_count": 133, "file": "AFSARUL HOQUE JUNIOR GIRLS SCHOOL.json"}, {"eiin": "126063", "name": "AHMED NAGAR HIGH SCHOOL", "name_bn": "আহমদ নগর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01735016362", "email": "ahmednagarhighschool@gmail.com", "teacher_count": 181, "file": "AHMED NAGAR HIGH SCHOOL.json"}, {"eiin": "126092", "name": "AMARKHANA HIGH SCHOOL", "name_bn": "অমর খানা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01723892951", "email": "amarkhanahs@gmail.com", "teacher_count": 225, "file": "AMARKHANA HIGH SCHOOL.json"}, {"eiin": "126123", "name": "AMLAHAR GIRLS HIGH SCHOOL", "name_bn": "আমলাহার বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713782039", "email": "s126123pancha@gmail.com", "teacher_count": 216, "file": "AMLAHAR GIRLS HIGH SCHOOL.json"}, {"eiin": "126073", "name": "AMLAHAR MARIAM NESSA B. L HIGH SCHOOL", "name_bn": "আমলাহার মরিয়ন নেছা দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01737070617", "email": "amlaharmnhspancha@gmail.com", "teacher_count": 166, "file": "AMLAHAR MARIAM NESSA B. L HIGH SCHOOL.json"}, {"eiin": "126152", "name": "BARRISTER JAMIRUDDIN SARKAR SCHOOL PANCHAGARH", "name_bn": "ব্যারিষ্টার জমির উদ্দিন সরকার কলেজিয়েট ইন্সটিটিউট, পঞ্চগড়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714862801", "email": "bjusci@gmail.com", "teacher_count": 225, "file": "BARRISTER JAMIRUDDIN SARKAR SCHOOL PANCHAGARH.json"}, {"eiin": "126089", "name": "BAZRA PARA NATUN HAT HIGH SCHOOL", "name_bn": "বজরাপাড়া নতুন হাট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724044505", "email": "bazraparahighschool@gmail.com", "teacher_count": 220, "file": "BAZRA PARA NATUN HAT HIGH SCHOOL.json"}, {"eiin": "126099", "name": "BHATA PUKURI GIRLS HIGH SCHOOL", "name_bn": "ভাটাপুকুরী বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01723275676", "email": "vatapuri@gmail.com", "teacher_count": 157, "file": "BHATA PUKURI GIRLS HIGH SCHOOL.json"}, {"eiin": "126108", "name": "CHAKLAHAT BANGABANDHU GIRLS HIGH SCHOOL", "name_bn": "চাকলাহাট বঙ্গবন্ধু বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715002425", "email": "chaklahatbangabandhugirls@gmail.comil.com", "teacher_count": 190, "file": "CHAKLAHAT BANGABANDHU GIRLS HIGH SCHOOL.json"}, {"eiin": "126066", "name": "CHAKLAHAT K.P.B-L HIGH SCHOOL", "name_bn": "চাকলাহাট খামিরউদ্দীন প্রধান দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724444795", "email": "chaklahatkhamiruddinprodhanblhighschool@gmail.com", "teacher_count": 230, "file": "CHAKLAHAT K.P.B-L HIGH SCHOOL.json"}, {"eiin": "126087", "name": "DABORBANGA GIRLS HIGH SCHOOL", "name_bn": "ডাবরভাঙ্গা বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716337168", "email": "dbghsrazzakhm.pan92@gmail.com", "teacher_count": 201, "file": "DABORBANGA GIRLS HIGH SCHOOL.json"}, {"eiin": "126114", "name": "DANGAPARA JUNIOR HIGH SCHOOL", "name_bn": "ডাঙ্গা পাড়া নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01740847157", "email": "dangaparajrhs.panchagarh@gmail.com", "teacher_count": 105, "file": "DANGAPARA JUNIOR HIGH SCHOOL.json"}, {"eiin": "126078", "name": "DANGI PUKURI HIGH SCHOOL", "name_bn": "ঢাংগী পুকুরী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01761258054", "email": "dphs126078@gmail.com", "teacher_count": 183, "file": "DANGI PUKURI HIGH SCHOOL.json"}, {"eiin": "126076", "name": "DASHMAIL HIGH SCHOOL", "name_bn": "দশমাইল দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01710606640", "email": "fozlulhaqueht126076@gmail.com", "teacher_count": 226, "file": "DASHMAIL HIGH SCHOOL.json"}, {"eiin": "126056", "name": "DEWAN HAT B. L HIGH SCHOOL", "name_bn": "দেওয়ানহাট দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01745081939", "email": "dewanhaths126056@gmail.com", "teacher_count": 213, "file": "DEWAN HAT B. L HIGH SCHOOL.json"}, {"eiin": "126095", "name": "DOSHMILE B.L. GIRLS HIGH SCHOOL", "name_bn": "দশমাইল দ্বি-মূখী বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01728159895", "email": "sdghs126095@gmail.com", "teacher_count": 236, "file": "DOSHMILE B.L. GIRLS HIGH SCHOOL.json"}, {"eiin": "126064", "name": "GHAGRA DWARIKAMARI HIGH SCHOOL", "name_bn": "ঘাগড়া দ্বারিকামারী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01732333913", "email": "ghagra.dhspancha@gmail.com", "teacher_count": 188, "file": "GHAGRA DWARIKAMARI HIGH SCHOOL.json"}, {"eiin": "126097", "name": "GOLAHA KANTOMONY JUNIOR SCHOOL", "name_bn": "গলেহা কান্তমনি নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01716058794", "email": "gkmis126097@gmail.com", "teacher_count": 162, "file": "GOLAHA KANTOMONY JUNIOR SCHOOL.json"}, {"eiin": "126074", "name": "GOLEHA HIGH SCHOOL", "name_bn": "গলেহা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718521709", "email": "ghs126074@gmail.com", "teacher_count": 182, "file": "GOLEHA HIGH SCHOOL.json"}, {"eiin": "126086", "name": "GORINA BARI N HAT A GIRLS HIGH SCHOOL", "name_bn": "গড়িনাবাড়ী নতুন হাট আদর্শ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01728315983", "email": "garinabarinhghs.pancha@gmail.com", "teacher_count": 200, "file": "GORINA BARI N HAT A GIRLS HIGH SCHOOL.json"}, {"eiin": "126068", "name": "HAFIZABAD DARIKAMARI B. L HIGH SCHOOL", "name_bn": "হাফিজাবাদ দ্বারিকামারী দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01767392088", "email": "hafizabaddarucamariblhs.pancha@gmail.com", "teacher_count": 214, "file": "HAFIZABAD DARIKAMARI B. L HIGH SCHOOL.json"}, {"eiin": "139024", "name": "HANNAN SHEIKH PUBLIC SCHOOL AND COLLEGE", "name_bn": "হান্নান শেখ পাবলিক স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01726298083", "email": "hannansheikpsac@gmail.com", "teacher_count": 139, "file": "HANNAN SHEIKH PUBLIC SCHOOL AND COLLEGE.json"}, {"eiin": "126091", "name": "HARIBHASA GIRLS HIGH SCHOOL", "name_bn": "হাড়িভাসা বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01738617726", "email": "hbgirlshighschool.bd@gmail.com", "teacher_count": 218, "file": "HARIBHASA GIRLS HIGH SCHOOL.json"}, {"eiin": "126093", "name": "JAGADAL NUR AKTER SARKER GIRLS HIGH SCHOOL", "name_bn": "জগদল নূর আক্তার সরকার দ্বি-মূখী বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01737243917", "email": "jnasghs@gmail.com", "teacher_count": 233, "file": "JAGADAL NUR AKTER SARKER GIRLS HIGH SCHOOL.json"}, {"eiin": "126062", "name": "JAGDAL HIGH SCHOOL", "name_bn": "জগদল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719667183", "email": "jagdalhighschool.edu.bd@gmail.com", "teacher_count": 210, "file": "JAGDAL HIGH SCHOOL.json"}, {"eiin": "126112", "name": "JAMUNA ADARSHA GIRLS HIGH SCHOOL", "name_bn": "যমুনা আদর্শ বালিকা দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719513093", "email": "jamunaadarshagirls@gmail.com", "teacher_count": 205, "file": "JAMUNA ADARSHA GIRLS HIGH SCHOOL.json"}, {"eiin": "126083", "name": "JHALAY NAYANI BURUJ HIGH SCHOOL", "name_bn": "ঝলই নয়নীবুরুজ দ্বিমুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714862809", "email": "jhalaynayaniburuj@gmail.com", "teacher_count": 189, "file": "JHALAY NAYANI BURUJ HIGH SCHOOL.json"}, {"eiin": "126071", "name": "KAMALAPUR BILETERAL HIGH SCHOOL", "name_bn": "কমলাপুর দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719199780", "email": "kamalapur83@gmail.com", "teacher_count": 204, "file": "KAMALAPUR BILETERAL HIGH SCHOOL.json"}, {"eiin": "126101", "name": "KAMAT KUNJA HIGH SCHOOL", "name_bn": "কামাত কুঞ্জ দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721887939", "email": "kamatkunja@gmail.com", "teacher_count": 207, "file": "KAMAT KUNJA HIGH SCHOOL.json"}, {"eiin": "126118", "name": "KARATOWA ADARSHA JR SHIKSHA NIKETAN", "name_bn": "করতোয়া আদর্শ শিক্ষা নিকেতন,পঞ্চগড়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717948521", "email": "kcscp1984@gmail.com", "teacher_count": 230, "file": "KARATOWA ADARSHA JR SHIKSHA NIKETAN.json"}, {"eiin": "126057", "name": "KAZAL DIGHI TUNIR HAT HIGH SCHOOL", "name_bn": "কাজলদিঘী টুনিরহাট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01729942716", "email": "rashedshah1975bd@gmail.com", "teacher_count": 169, "file": "KAZAL DIGHI TUNIR HAT HIGH SCHOOL.json"}, {"eiin": "126106", "name": "KAZIPARA ADARSHA LOWER SECONDARY SCHOOL", "name_bn": "কাজীপাড়া আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717953898", "email": "kazimukul12@gmail.com", "teacher_count": 162, "file": "KAZIPARA ADARSHA LOWER SECONDARY SCHOOL.json"}, {"eiin": "126096", "name": "KAZIRHAT GIRLS HIGH SCHOOL", "name_bn": "কাজির হাট বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01736233230", "email": "kazirhatgirls@gmail.com", "teacher_count": 190, "file": "KAZIRHAT GIRLS HIGH SCHOOL.json"}, {"eiin": "126065", "name": "KHANPUKUR KHOLA PARA HIGH SCHOOL", "name_bn": "খানপুকুর খোলাপাড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01845373015", "email": "s126065kkhs@gmail.com", "teacher_count": 219, "file": "KHANPUKUR KHOLA PARA HIGH SCHOOL.json"}, {"eiin": "126103", "name": "LANGAL GAON ADARSHA GIRLS HIGH SCHOOL", "name_bn": "লাঙ্গলগাঁও আদর্শ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01710045674", "email": "langalgaon@jamil.com", "teacher_count": 213, "file": "LANGAL GAON ADARSHA GIRLS HIGH SCHOOL.json"}, {"eiin": "126067", "name": "MAGHAI PANIMACH PUKURI HIGH SCHOOL", "name_bn": "মাঘই পানিমাছ পুকুরী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01728317488", "email": "mpp72hs@gmail.com", "teacher_count": 228, "file": "MAGHAI PANIMACH PUKURI HIGH SCHOOL.json"}, {"eiin": "126059", "name": "MAGURA PRODHAN PARA BL. HIGH SCHOOL", "name_bn": "মাগুড়া প্রধানপাড়া দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721566316", "email": "mp126059@gmail.com", "teacher_count": 185, "file": "MAGURA PRODHAN PARA BL. HIGH SCHOOL.json"}, {"eiin": "126100", "name": "MAGURA SIPAI PARA HIGH SCHOOL", "name_bn": "মাগুড়া সিপাই পাড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01722135948", "email": "magurasipaipara126100@gmail.com", "teacher_count": 187, "file": "MAGURA SIPAI PARA HIGH SCHOOL.json"}, {"eiin": "126077", "name": "MALADAM ADARSHA HIGH SCHOOL", "name_bn": "মালাদাম আদর্শ দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719828480", "email": "maladamadarshablhpancha@gmail.com", "teacher_count": 210, "file": "MALADAM ADARSHA HIGH SCHOOL.json"}, {"eiin": "126060", "name": "MIRGARH MAINUDDIN HIGH SCHOOL", "name_bn": "মীরগড় ময়ন উদ্দীন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01773308710", "email": "mirgarhmuhighschool@gmail.com", "teacher_count": 174, "file": "MIRGARH MAINUDDIN HIGH SCHOOL.json"}, {"eiin": "126107", "name": "MOHARAJA DIGHI JUNIOR HIGH SCHOOL", "name_bn": "মহারাজা দিঘী নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01732063698", "email": "moharajaschool@gmail.com", "teacher_count": 137, "file": "MOHARAJA DIGHI JUNIOR HIGH SCHOOL.json"}, {"eiin": "126094", "name": "NOTUN CHAKLAHAT B L HIGH SCHOOL", "name_bn": "নতুন চাকলাহাট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01722951924", "email": "notunchaklahathighschool@gmail.com", "teacher_count": 203, "file": "NOTUN CHAKLAHAT B L HIGH SCHOOL.json"}, {"eiin": "126081", "name": "PAHARTALI HIGH SCHOOL", "name_bn": "পাহাড়তলী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724546797", "email": "mdramjanali03021972@gmail.com", "teacher_count": 110, "file": "PAHARTALI HIGH SCHOOL.json"}, {"eiin": "126054", "name": "PANCHAGAR B.P GOVT. HIGH SCHOOL", "name_bn": "পঞ্চগড় বি.পি সরকারি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712715240", "email": "panchagarbp_clc@yahoo.com", "teacher_count": 351, "file": "PANCHAGAR B.P GOVT. HIGH SCHOOL.json"}, {"eiin": "126069", "name": "PANCHAGARH CHINIKAL HIGH SCHOOL", "name_bn": "পঞ্চগড় চিনিকল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01798864702", "email": "chinikal_h_school@yahoo.com", "teacher_count": 154, "file": "PANCHAGARH CHINIKAL HIGH SCHOOL.json"}, {"eiin": "126055", "name": "PANCHAGARH GOVT.GIRLS HIGH SCHOOL", "name_bn": "পঞ্চগড় সরকারি বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715051217", "email": "pgghs.edu.bd@gmail.com", "teacher_count": 509, "file": "PANCHAGARH GOVT.GIRLS HIGH SCHOOL.json"}, {"eiin": "126070", "name": "PANCHAGARH HIGH SCHOOL", "name_bn": "পঞ্চগড় উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714691527", "email": "s126070phs@gmail.com", "teacher_count": 205, "file": "PANCHAGARH HIGH SCHOOL.json"}, {"eiin": "130923", "name": "PANCHAGARH MODEL SCHOOL AND COLLEGE", "name_bn": null, "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01195439043", "email": "pmsac2004@gmail.com", "teacher_count": 127, "file": "PANCHAGARH MODEL SCHOOL AND COLLEGE [130923].json"}, {"eiin": "140057", "name": "PANCHAGARH MODEL SCHOOL AND COLLEGE", "name_bn": "পঞ্চগড় মডেল স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01722552627", "email": "pmsac04@gmail.com", "teacher_count": 20, "file": "PANCHAGARH MODEL SCHOOL AND COLLEGE.json"}, {"eiin": "126090", "name": "PANCHAGARH PAURO ADARSHA HIGH SCHOOL", "name_bn": "পঞ্চগড় পৌর আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717546433", "email": "powro126090@gmail.com", "teacher_count": 234, "file": "PANCHAGARH PAURO ADARSHA HIGH SCHOOL.json"}, {"eiin": "126098", "name": "PUKURI DANGA HIGH SCHOOL", "name_bn": "পুকুরী ডাঙ্গা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01750422827", "email": "pukuridangahighschool@gmail.com", "teacher_count": 180, "file": "PUKURI DANGA HIGH SCHOOL.json"}, {"eiin": "126117", "name": "PUQURI DANGHA JUNIOR GIRLS SCHOOL", "name_bn": "পুকুরী ডাঙ্গা নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01744378273", "email": "puquridanghagirlsschool@gmail.com", "teacher_count": 139, "file": "PUQURI DANGHA JUNIOR GIRLS SCHOOL.json"}, {"eiin": "126072", "name": "RAJALI KHAL PARA B L HIGH SCHOOL", "name_bn": "রজলী খাল পাড়া দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718091327", "email": "rajalykhalparahspancha@gmail.com", "teacher_count": 215, "file": "RAJALI KHAL PARA B L HIGH SCHOOL.json"}, {"eiin": "138147", "name": "RAJMAHOL HIGH SCHOOL", "name_bn": "রাজমহল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01737528286", "email": "rhs.panchagarh@gmail.com", "teacher_count": 169, "file": "RAJMAHOL HIGH SCHOOL.json"}, {"eiin": "126085", "name": "RAJNAGAR GIRLS HIGH SCHOOL", "name_bn": "রাজনগর বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01718281317", "email": "rajnagargirlshs@gmail.com", "teacher_count": 156, "file": "RAJNAGAR GIRLS HIGH SCHOOL.json"}, {"eiin": "126058", "name": "SALMARA VITARGARH HIGH SCHOOL", "name_bn": "শালমারা ভিতরগড় উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718799449", "email": "126058svhs@gmail.com", "teacher_count": 146, "file": "SALMARA VITARGARH HIGH SCHOOL.json"}, {"eiin": "126061", "name": "SATMERA FULBARI HIGH SCHOOL", "name_bn": "সাতমেরা ফুলবাড়ী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714558136", "email": "sfhs126061@gmail.com", "teacher_count": 214, "file": "SATMERA FULBARI HIGH SCHOOL.json"}, {"eiin": "126102", "name": "SATMERA FULBARI IDEAL GIRLS HIGH SCHOOL", "name_bn": "সাতমেড়া ফুলবাড়ী আদর্শ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01820506559", "email": "school126102@gmail.com", "teacher_count": 229, "file": "SATMERA FULBARI IDEAL GIRLS HIGH SCHOOL.json"}, {"eiin": "126080", "name": "SATMERA KOROTOYA ADARSHA HIGH SCHOOL", "name_bn": "সাতমেড়া করতোয়া আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01710045673", "email": "s126080pancha@gmail.com", "teacher_count": 204, "file": "SATMERA KOROTOYA ADARSHA HIGH SCHOOL.json"}, {"eiin": "134801", "name": "SHAHID POLICE SMRITY SCHOOL & COLLEGE, PANCHGARH", "name_bn": "শহীদ পুলিশ স্মৃতি স্কুল এন্ড কলেজ, পঞ্চগড়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01734412161", "email": "kamatkunja@gmail.com", "teacher_count": 273, "file": "SHAHID POLICE SMRITY SCHOOL & COLLEGE, PANCHGARH.json"}, {"eiin": "126084", "name": "SHAKHERHAT HIGH SCHOOL", "name_bn": "শেখের হাট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01713749269", "email": "s126084pan@gmail.com", "teacher_count": 244, "file": "SHAKHERHAT HIGH SCHOOL.json"}, {"eiin": "126075", "name": "SING ROAD RATANBARI HIGH SCHOOL", "name_bn": "সিংরোড রতনীবাড়ী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01729507867", "email": "ratanibarihs@gmail.com", "teacher_count": 234, "file": "SING ROAD RATANBARI HIGH SCHOOL.json"}, {"eiin": "126082", "name": "TALMA RIVER VIEW HIGH SCHOOL", "name_bn": "তালমা রিভার ভিউ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719828496", "email": "talmariverviewhighschool@gmail.com", "teacher_count": 223, "file": "TALMA RIVER VIEW HIGH SCHOOL.json"}, {"eiin": "126088", "name": "THAKARPARA HIGH SCHOOL", "name_bn": "ঠেকরপাড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715614615", "email": "akram614615@gmail.com", "teacher_count": 189, "file": "THAKARPARA HIGH SCHOOL.json"}, {"eiin": "126105", "name": "TUNIRHAT ADARSHA GIRLS HIGH SCOOL", "name_bn": "টুনিরহাট আদর্শ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718734374", "email": "tunierhat.glrlsschool@gmail.com", "teacher_count": 257, "file": "TUNIRHAT ADARSHA GIRLS HIGH SCOOL.json"}, {"eiin": "126079", "name": "UTTAR DORZIP ARA HIGH SCHOOL", "name_bn": "উত্তর দর্জি পাড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01723079046", "email": "126079@gmail.com", "teacher_count": 195, "file": "UTTAR DORZIP ARA HIGH SCHOOL.json"}, {"eiin": "126120", "name": "ZODDER PARA JUNIOR GIRLS SCHOOL", "name_bn": "জোতদার পাড়া নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01710868727", "email": "samadmdabdus624@gmail.com", "teacher_count": 134, "file": "ZODDER PARA JUNIOR GIRLS SCHOOL.json"}, {"eiin": "126153", "name": "DR. ABEDA HAFIZ GIRLS SCHOOL AND COLLEGE", "name_bn": "ডক্টর আবেদা হাফিজ গার্লস স্কুল ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01737958416", "email": "saberabadrun@gmail.com", "teacher_count": 0, "file": "DR. ABEDA HAFIZ GIRLS SCHOOL AND COLLEGE.json"}, {"eiin": "126154", "name": "FUTKIBARI HIGH SCHOOL AND COLLEGE", "name_bn": "ফুটকিবাড়ী উচ্চ বিদ্যালয ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01714228929", "email": "ehaque1969@gmail.com", "teacher_count": 0, "file": "FUTKIBARI HIGH SCHOOL AND COLLEGE.json"}, {"eiin": "126104", "name": "HAZI SOFIR UDDIN AHAMMED GIRLS SCHOOL AND COLLEGE", "name_bn": "হাজী ছফির উদ্দীন আহম্মদ গালর্স স্কুল এন্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01719512996", "email": "shlipynahar666@gmail.com", "teacher_count": 0, "file": "HAZI SOFIR UDDIN AHAMMED GIRLS SCHOOL AND COLLEGE.json"}], "healthcare": [{"id": "HOSP-2946", "name": "Adhunik Sadar Hospital, Panchagarh", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": null, "longitude": null, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2948", "name": "City General Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.337441, "longitude": 88.555452, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2950", "name": "Digital General Hospital Panchagar", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.339804, "longitude": 88.556342, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2952", "name": "Panchagarh General Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.339236, "longitude": 88.55731, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2959", "name": "Diabetic Hospital Panchagarh, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.344264, "longitude": 88.556941, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2960", "name": "Health Care Specialized Hospital, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.334419, "longitude": 88.554884, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2964", "name": "Alif Dental Clinic", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.337544, "longitude": 88.555486, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2965", "name": "Desh Clinic", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.337635, "longitude": 88.555491, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2966", "name": "Digi Care", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.339207, "longitude": 88.556, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2967", "name": "Dr Komla kanto Barmon", "bn_name": "", "category": "Doctor / Dental Consultation", "type": "Private", "bed_capacity": 0, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.33739, "longitude": 88.55552, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2968", "name": "Meri Stap Clinic", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.337727, "longitude": 88.555288, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2970", "name": "Sono LAB", "bn_name": "", "category": "Clinic & Maternity Center", "type": "Private", "bed_capacity": 20, "division": "Rangpur", "district": "Panchagarh", "district_slug": "panchagarh", "upazila": "Panchagarh Sadar", "address": "Panchagarh Sadar, Panchagarh", "latitude": 26.338919, "longitude": 88.555982, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}], "banking": [{"bank_name": "AGRANI BANK LIMITED", "bank_code": "010", "branch_name": "TUNIRHAT BRANCH", "routing_number": "010770762", "swift_code": "AGBKBDDH", "district": "PANCHAGARH", "address": "TUNIRHAT, PANCHAGARH SADAR, PANCHAGARH 5000", "telephone": "018 19770438", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "076"}, {"bank_name": "JANATA BANK LIMITED", "bank_code": "135", "branch_name": "PANCHAGARH BRANCH", "routing_number": "135770555", "swift_code": "JANBBDDH", "district": "PANCHAGARH", "address": "PANCHAGARH SADAR, PANCHAGARH 5000", "telephone": "0568 61256", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "055"}, {"bank_name": "RUPALI BANK LIMITED", "bank_code": "185", "branch_name": "PANCHAGARH BRANCH", "routing_number": "185770550", "swift_code": "RUPBBDDH", "district": "PANCHAGARH", "address": "PANCHAGARH SADAR, PANCHAGARH", "telephone": "0568 61247, 017 10219132", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "4663 / 055"}, {"bank_name": "SONALI BANK LIMITED", "bank_code": "200", "branch_name": "PANCHAGARH BRANCH", "routing_number": "200770556", "swift_code": "BSONBDDH", "district": "PANCHAGARH", "address": "PANCHAGARH SADAR, PANCHAGARH", "telephone": "0568 62073", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "055 / 055"}], "emergency": {"division": "Rangpur", "district": "Panchagarh", "upazila": "Panchagarh Sadar", "national_hotlines": [{"name": "National Emergency Service (Police, Fire, Ambulance)", "number": "999"}, {"name": "National Information & Citizen Service", "number": "333"}, {"name": "Government Legal Aid", "number": "16430"}, {"name": "Child Helpline", "number": "1098"}, {"name": "Women & Children Repression Prevention Helpline", "number": "109"}], "district_administration": {"district": "Panchagarh", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Panchagarh", "phone": "01713-000059", "email": "dcpanchagarh@mopa.gov.bd", "website": "http://www.panchagarh.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Panchagarh", "phone": "01713-373059", "email": "sppanchagarh@police.gov.bd", "control_room": "01713-374059"}, "civil_surgeon_office": {"title": "Civil Surgeon, Panchagarh", "phone": "01713-555059", "email": "cspanchagarh@dghs.gov.bd"}}, "police_stations": [{"thana_id": "PS-DIST-72", "name": "Panchagarh Sadar Police Station", "bn_name": "Panchagarh সদর থানা", "unit": "Panchagarh District Police", "division": "General", "district": "Panchagarh", "address": "Court Building Road, Sadar, Panchagarh", "oc_mobile": "01713-374072", "duty_officer": "01713-399072", "tnt": "02-770072", "control_room": "01713-374000"}], "fire_stations": [{"station_id": "FS-063", "name": "Panchagarh Fire Station & Civil Defence", "bn_name": "Panchagarh ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন", "division": "General", "district": "Panchagarh", "address": "Sadar, Panchagarh", "hotline": "16163", "emergency_phone": "02-9988063", "mobile": "01713-038063", "station_type": "District Headquarters Station"}]}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 103, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক পঞ্চগড়", "dags": "", "total_land": ""}, {"khatian_no": "2", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং 8 নং ধাক্কামারা ইউনিয়ন পরিষদ", "dags": "", "total_land": ""}, {"khatian_no": "3", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "বাংলাদেশ সরকার পক্ষে শিক্ষা বিভাগ", "dags": "", "total_land": ""}, {"khatian_no": "4", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং দোমনী সরকার পাড়া বেসরকারী প্রাধমিক বিদ্যালয় পক্ষে শিক্ষা বিভাগ পঞ্চগড়", "dags": "", "total_land": ""}, {"khatian_no": "5", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং আমতলা বেসরকারী প্রাথমিক বিদ্যালায় পক্ষে মহা পরিচালক প্রাথমিক শিক্ষ অধিদপ্তর ঢাকা বাংলাদেশ", "dags": "", "total_land": ""}, {"khatian_no": "6", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "(বি,...", "dags": "", "total_land": ""}, {"khatian_no": "7", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "বাংলাদেশ সরকার পক্ষে বন বিভাগ", "dags": "", "total_land": ""}, {"khatian_no": "8", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং লাধুয়া পাড়া নিম্ন মাধ্যমিক বিদ্যালয় পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "9", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং অমর খানা বেসরকারী প্রাথমিক বিদ্যালয় কমিটি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "10", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং পঞ্চগড় সদর থানা কেন্দ্রীয় সমবায় সমিতি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "11", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "ওমরপুর লাটুয়া পাড়া জামে মসজিদ কমিটি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "12", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "নাটুয়া পাড়া জামে মসজিদ পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "13", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং উওর মিঠা পুকুর পুরাতন জামে মসজিদ কমিটি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "14", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং অমর খানা ওযাকবিয়া মসজিদ কমিটি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "15", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং অমর খানা সরকার পাড়া ওয়াক্তিয়া মসজিদ কমিটি পক্ষে সম্পাদক", "dags": "", "total_land": ""}, {"khatian_no": "16", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং আমতলা ওয়াক্তিয়া মসজিদ কমিটি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "17", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং দোমনা সরকার পাড়া মাদ্রাসা পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "18", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "আমতলা ঈদগাহ মাট কমিটি পক্ষে সেক্রেটারী", "dags": "", "total_land": ""}, {"khatian_no": "19", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং অছিম উদ্দিন,...", "dags": "", "total_land": ""}, {"khatian_no": "20", "survey": "RS", "mouza_name": "ওমরপূর", "jl_no": "9", "owners": "দং অজত আলী,...", "dags": "", "total_land": ""}], "sample_mouzas": [{"mouza_name": "খারিজা ভজনপুর", "jl_no": "1", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "লাখেরাজ ঘুমটী ", "jl_no": "20", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "জোত বাহাদি", "jl_no": "27", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "জোত কৃষ্ণ চন্দ্র নন্দী", "jl_no": "28", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "কালেশ্বর সামাঞ্জ", "jl_no": "29", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "বেঙ্গহারী শিকারপুর", "jl_no": "32", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "পাহাড়তলী", "jl_no": "44", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "তেলধর", "jl_no": "45", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "কাজলদিঘী", "jl_no": "46", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "মাড়েয়া কমলা পুকুরী", "jl_no": "50", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "মাঝগ্রাম", "jl_no": "51", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "বাহাদুর নারায়নী", "jl_no": "53", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "জগন্নাথ জোত", "jl_no": "55", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "আরাজী বেরু বাড়ী", "jl_no": "57", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "আরাজী বাঁশকন্ঠিয়া", "jl_no": "67", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "আরাজী বগুলাডাঙ্গী শিকারপুর ডেনাকাটা", "jl_no": "69", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "কিসমত সিং রোড", "jl_no": "73", "survey": "BRS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "ওমরপূর", "jl_no": "9", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "ধাক্কামারা.", "jl_no": "10", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "পুরাতনপঞ্চগড়", "jl_no": "11", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "ঢেমসীমারী", "jl_no": "12", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "যোথনপুখুরী", "jl_no": "13", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "লাখেরাজ ঘূমটি", "jl_no": "20", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "মোলানী", "jl_no": "21", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "পঞ্চগড়.", "jl_no": "22", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "পাহাড়তলী", "jl_no": "44", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "তেলধর", "jl_no": "45", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "কাজলদিঘী", "jl_no": "46", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "মাঝগ্রাম", "jl_no": "51", "survey": "RS", "upazila": "PANCHAGARH SADAR"}, {"mouza_name": "আরাজী বাঁশকণ্ঠিয়া", "jl_no": "67", "survey": "RS", "upazila": "PANCHAGARH SADAR"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1VdIaaFQg8Uj0rpNQy_36zTYtYLxO3re5", "district_drive_url": "https://drive.google.com/drive/folders/1Uo_KOHcudrRkq3qLElSDpxMnVYz4Dxv4", "district_total_maps": 442, "district_uploaded_maps": 0, "district_total_gb": 3.332, "catalog_github_path": "land/maps/Rangpur/Panchagarh.json"}}, "governance": {"administration": {"district": "Panchagarh", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Panchagarh", "phone": "01713-000059", "email": "dcpanchagarh@mopa.gov.bd", "website": "http://www.panchagarh.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Panchagarh", "phone": "01713-373059", "email": "sppanchagarh@police.gov.bd", "control_room": "01713-374059"}, "civil_surgeon_office": {"title": "Civil Surgeon, Panchagarh", "phone": "01713-555059", "email": "cspanchagarh@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "1", "name": {"en": "Panchagarh-1", "bn": "পঞ্চগড়-১"}, "total_voters": 463700}, {"code": "2", "name": {"en": "Panchagarh-2", "bn": "পঞ্চগড়-২"}, "total_voters": 417529}], "upazila_portal": "panchagarhsadar.panchagarh.gov.bd", "district_portal": "http://www.panchagarh.gov.bd", "union_portals_count": 10, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "upazila": "Panchagarh Sadar",
+  "upazila_slug": "rangpur__panchagarh__panchagarh_sadar",
+  "geography": {
+    "division": "Rangpur",
+    "division_bn": "রংপুর",
+    "district": "Panchagarh",
+    "district_bn": "পঞ্চগড়",
+    "district_lat": "26.3411",
+    "district_lon": "88.5541606",
+    "upazila_id": "399",
+    "upazila": "Panchagarh Sadar",
+    "upazila_bn": "পঞ্চগড় সদর",
+    "official_url": "panchagarhsadar.panchagarh.gov.bd",
+    "total_unions": 10,
+    "unions": [
+      {
+        "id": "3648",
+        "name": "Panchagarh Sadar",
+        "bn_name": "পঞ্চগড় সদর",
+        "url": "panchagarhsadarup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3649",
+        "name": "Satmara",
+        "bn_name": "সাতমেরা",
+        "url": "satmaraup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3650",
+        "name": "Amarkhana",
+        "bn_name": "অমরখানা",
+        "url": "amarkhanaup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3651",
+        "name": "Haribhasa",
+        "bn_name": "হাড়িভাসা",
+        "url": "haribhasaup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3652",
+        "name": "Chaklahat",
+        "bn_name": "চাকলাহাট",
+        "url": "chaklahatup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3653",
+        "name": "Hafizabad",
+        "bn_name": "হাফিজাবাদ",
+        "url": "hafizabadup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3654",
+        "name": "Kamat Kajol Dighi",
+        "bn_name": "কামাত কাজল দীঘি",
+        "url": "kamatkajoldighiup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3655",
+        "name": "Dhakkamara",
+        "bn_name": "ধাক্কামারা",
+        "url": "dhakkamaraup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3656",
+        "name": "Magura",
+        "bn_name": "মাগুরা",
+        "url": "maguraup.panchagarh.gov.bd"
+      },
+      {
+        "id": "3657",
+        "name": "Garinabari",
+        "bn_name": "গরিনাবাড়ী",
+        "url": "garinabariup.panchagarh.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 115,
+    "healthcare_count": 12,
+    "banking_count": 4,
+    "police_count": 1,
+    "fire_count": 1,
+    "unions_count": 10,
+    "postcodes_count": 0,
+    "land_khatians_count": 25,
+    "mouzas_count": 103
+  },
+  "education": [
+    {
+      "eiin": "126150",
+      "name": "AMLAHER DEGREE COLLAGE",
+      "name_bn": "আমলাহার ডিগ্রী কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01717134940",
+      "email": "amlahardegreecollege126150@gmail.com",
+      "teacher_count": 0,
+      "file": "AMLAHER DEGREE COLLAGE.json"
+    },
+    {
+      "eiin": "132011",
+      "name": "BARRISTER JAMIR UDDIN SIRCAR INSTITUTE (DEGREE) PANCHAGARH",
+      "name_bn": "ব্যারিস্টার জমির উদ্দিন সরকার ইনস্টিটিউট (ডিগ্রি), পঞ্চগড়।",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01717948779",
+      "email": "barristerinstitute@gmail.com",
+      "teacher_count": 0,
+      "file": "BARRISTER JAMIR UDDIN SIRCAR INSTITUTE (DEGREE) PANCHAGARH.json"
+    },
+    {
+      "eiin": "126148",
+      "name": "GOVT. PANCHAGARH MOHILA COLLEGE",
+      "name_bn": "পঞ্চগড় সরকারি মহিলা কলেজ, পঞ্চগড়",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01791803388",
+      "email": "pgwc_bd85@yahoo.com",
+      "teacher_count": 0,
+      "file": "GOVT. PANCHAGARH MOHILA COLLEGE.json"
+    },
+    {
+      "eiin": "126151",
+      "name": "JAGDAL DEGREE COLLEGE",
+      "name_bn": "জগদল ডিগ্রি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01727960068",
+      "email": "jagdalcollege456@gmail.com",
+      "teacher_count": 0,
+      "file": "JAGDAL DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "138048",
+      "name": "MOFIZAR RAHMAN COLLEGE",
+      "name_bn": "মফিজার রহমান কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01717640459",
+      "email": "mrc.panchagarh@gmail.com",
+      "teacher_count": 0,
+      "file": "MOFIZAR RAHMAN COLLEGE.json"
+    },
+    {
+      "eiin": "126147",
+      "name": "MOQULAR RAHMAN GOVT. COLLEGE, PANCHAGARH",
+      "name_bn": "মকবুলার রহমান সরকারি কলেজ, পঞ্চগড়",
+      "type": "COLLEGE",
+      "level": "Masters",
+      "category": "college",
+      "mobile": "01715139215",
+      "email": "mrcollege@ymail.com",
+      "teacher_count": 0,
+      "file": "MOQULAR RAHMAN GOVT. COLLEGE, PANCHAGARH.json"
+    },
+    {
+      "eiin": "126149",
+      "name": "SHAHID ZIAUR RAHMAN MOHABIDDAYALAYA",
+      "name_bn": "শহীদ জিয়াউর রহমান মহাবিদ্যালয়",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01716104204",
+      "email": "principal.tu.pan@gmail.com",
+      "teacher_count": 0,
+      "file": "SHAHID ZIAUR RAHMAN MOHABIDDAYALAYA.json"
+    },
+    {
+      "eiin": "126132",
+      "name": "AMLAHAR DHAKHIL MADRASHA",
+      "name_bn": "আমলাহার দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01722562770",
+      "email": "m126132pancha@gmail.com",
+      "teacher_count": 0,
+      "file": "AMLAHAR DHAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126136",
+      "name": "DUBANUCHI BARKATIA DAKHIL MADRASHA",
+      "name_bn": "ডুবানুচী বরকতিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01727057277",
+      "email": "dbdm.panchagarh@gmail.com",
+      "teacher_count": 0,
+      "file": "DUBANUCHI BARKATIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126145",
+      "name": "GARINA BARI ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "গরিনাবাড়ী ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01713813979",
+      "email": "gorinabari126145@gmail.com",
+      "teacher_count": 0,
+      "file": "GARINA BARI ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126134",
+      "name": "GHOTBAR TUNIR HAT DAKHIL MADRASAH",
+      "name_bn": "ঘটবর টুনিরহাট দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01724334147",
+      "email": "gtdm@gmail.com",
+      "teacher_count": 0,
+      "file": "GHOTBAR TUNIR HAT DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "126141",
+      "name": "HAFIZABAD GOHIMON NESA DAKHIL MADRASHA",
+      "name_bn": "হাফিজাবাদ গহিমন নেছা দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714624201",
+      "email": "hgdm1991@gmail.com",
+      "teacher_count": 0,
+      "file": "HAFIZABAD GOHIMON NESA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126133",
+      "name": "HAJI WAJIULLAH GOYAPANI DAKIL MADRASHA",
+      "name_bn": "হাজী অজিউল্লাহ গয়পানি দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01717137469",
+      "email": "mad126133@gmail.com",
+      "teacher_count": 0,
+      "file": "HAJI WAJIULLAH GOYAPANI DAKIL MADRASHA.json"
+    },
+    {
+      "eiin": "126128",
+      "name": "HARIVASA DARUS SUNNAH DAKHIL MADRASHA",
+      "name_bn": "হাড়িভাসা দারুচ্ছুন্নাহ্ দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01722468968",
+      "email": "hm126128@gmail.com",
+      "teacher_count": 0,
+      "file": "HARIVASA DARUS SUNNAH DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126143",
+      "name": "JAGDAL DAKHIL MADRASAH",
+      "name_bn": "জগদল আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01820546707",
+      "email": "jagdaldakhilmad93@gmail.com",
+      "teacher_count": 0,
+      "file": "JAGDAL DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "136293",
+      "name": "JAMURI BARI DAKHIL MADRASAH",
+      "name_bn": "জামুরী বাড়ী দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01723182372",
+      "email": "jamurebari136293@gmail.com",
+      "teacher_count": 0,
+      "file": "JAMURI BARI DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "126125",
+      "name": "JOMIRON NESSA DAKHIL MADRASAH",
+      "name_bn": "জমিরন নেছা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01723079565",
+      "email": "jomironnessa1261125@gmail.com",
+      "teacher_count": 0,
+      "file": "JOMIRON NESSA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "126142",
+      "name": "KAGOJIA PARA DAKHIL MADRASHAH",
+      "name_bn": "কাগজিয়া পাড়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01799611274",
+      "email": "kagojiapdmadrasha@yahoo.com",
+      "teacher_count": 0,
+      "file": "KAGOJIA PARA DAKHIL MADRASHAH.json"
+    },
+    {
+      "eiin": "126144",
+      "name": "MAGURA HAJI KOSIR UDDIN SORKAR DAKHIL MADRASHA",
+      "name_bn": "মাগুড়া হাজী কছির উদ্দীন সরকার দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714947013",
+      "email": "magura126144@gmail.com",
+      "teacher_count": 0,
+      "file": "MAGURA HAJI KOSIR UDDIN SORKAR DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "131842",
+      "name": "MAGURA UTTAR PRDHAN PARA BARI DHAKIL MADRASAH",
+      "name_bn": "মাগুড়া উত্তর প্রধান পাড়া বাশঁবাড়ী দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01740839354",
+      "email": "magura131842@gmail.com",
+      "teacher_count": 0,
+      "file": "MAGURA UTTAR PRDHAN PARA BARI DHAKIL MADRASAH.json"
+    },
+    {
+      "eiin": "131662",
+      "name": "PANIMACH PUKURY DAKHIL MADRASA",
+      "name_bn": "পানিমাছ পুকুরী দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01738214007",
+      "email": "m131662pan@gmail.com",
+      "teacher_count": 0,
+      "file": "PANIMACH PUKURY DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "126138",
+      "name": "PRODHAN PARA DARUL FALAH DAKHIL MADRASHA",
+      "name_bn": "প্রধান পাড়া দারুল ফালাহ দাখিল মাদ্রাস",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01727847336",
+      "email": "m126138pdfm@gmail.com",
+      "teacher_count": 0,
+      "file": "PRODHAN PARA DARUL FALAH DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126131",
+      "name": "SHING ROAD RATNI BARI ISLAM IA DAKHIL MADRASHA",
+      "name_bn": "শিংরোড রতনীবাড়ী ইসলামিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01713687934",
+      "email": "shingroadridmpng@gmail.com",
+      "teacher_count": 0,
+      "file": "SHING ROAD RATNI BARI ISLAM IA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126137",
+      "name": "SURIVITA DAKHIL MADRASHA",
+      "name_bn": "শুড়িভিটা দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01751460817",
+      "email": "surivitadhakhil@gmail.com",
+      "teacher_count": 0,
+      "file": "SURIVITA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126127",
+      "name": "VITAR GARH SONARBAN DAKHIL MADRASHA",
+      "name_bn": "ভিতরগড় সোনার বান দাখিল মাদ়রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01716309213",
+      "email": "bsdmadrasah13@gmail.com",
+      "teacher_count": 0,
+      "file": "VITAR GARH SONARBAN DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "126129",
+      "name": "DUIPARA ALIM MADRASAH",
+      "name_bn": "দুইপাড়া আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01949425940",
+      "email": "duipara126129@gmail.com",
+      "teacher_count": 0,
+      "file": "DUIPARA ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "126126",
+      "name": "GOLEHA HAT FAZIL MADRASHA",
+      "name_bn": "গলেহা হাট ফাজিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01719205993",
+      "email": "m126126pan@gmail.com",
+      "teacher_count": 0,
+      "file": "GOLEHA HAT FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "126139",
+      "name": "HAJI KHAMIR UDDIN PRODAN ALIM MADRASHA",
+      "name_bn": "হাজী খামির উদ্দীন প্রধান আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01718351875",
+      "email": "m126139@gmail.com",
+      "teacher_count": 0,
+      "file": "HAJI KHAMIR UDDIN PRODAN ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "126130",
+      "name": "KHANBAHADUR MOKHLESUR RAHMAN DARUSSUNNAT ALIM MADRASAH",
+      "name_bn": "খানবাহাদুর মোখলেছুর রহমান দারুচছুন্নাত আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01718880139",
+      "email": "kbmmadrasha@yahoo.com",
+      "teacher_count": 0,
+      "file": "KHANBAHADUR MOKHLESUR RAHMAN DARUSSUNNAT ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "126140",
+      "name": "PANCHAGARH ADARSHA MOHILA ALIM MADRASAH",
+      "name_bn": "পঞ্চগড় আদর্শ মহিলা আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01705952252",
+      "email": "m126140@gmail.com",
+      "teacher_count": 0,
+      "file": "PANCHAGARH ADARSHA MOHILA ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "126124",
+      "name": "PANCHAGARH NURUN ALA NUR KAMIL MADRASHA",
+      "name_bn": "পঞ্চগড় নূরুন আলা নূর কামিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Kamil",
+      "category": "madrasa_other",
+      "mobile": "01725444238",
+      "email": "m126124@yahoo.com",
+      "teacher_count": 0,
+      "file": "PANCHAGARH NURUN ALA NUR KAMIL MADRASHA.json"
+    },
+    {
+      "eiin": "138189",
+      "name": "RAJMOHAL PURBOBAGAN ALIM MADRASAH",
+      "name_bn": "রাজমোহল পূর্ববাগান আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01750317759",
+      "email": "bsmram.panchgarh@gmail.com",
+      "teacher_count": 0,
+      "file": "RAJMOHAL PURBOBAGAN ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "132248",
+      "name": "BSCIC NAGAR TECNICAL & BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "বিসিকনগর টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716180947",
+      "email": null,
+      "teacher_count": 0,
+      "file": "BSCIC NAGAR TECNICAL & BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "136785",
+      "name": "CHAKLAHAT TECHNICAL AND B.M. COLLEGE",
+      "name_bn": "চাকলাহাট টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718241273",
+      "email": null,
+      "teacher_count": 0,
+      "file": "CHAKLAHAT TECHNICAL AND B.M. COLLEGE.json"
+    },
+    {
+      "eiin": "133755",
+      "name": "HARIVASA TECHNICAL & BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "হাড়িভাসা টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01719346312",
+      "email": null,
+      "teacher_count": 0,
+      "file": "HARIVASA TECHNICAL & BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "139085",
+      "name": "MINAL NON GOVT POLYTECHNIC INSTITUTE",
+      "name_bn": "মিনাল বেসরকারি পলিটেকনিক ইনস্টিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01737749794",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MINAL NON GOVT POLYTECHNIC INSTITUTE.json"
+    },
+    {
+      "eiin": "132245",
+      "name": "MITHAPUKUR TECHNICAL AND BUSSINESS MANAGMENT COLLEGE",
+      "name_bn": "মিঠাপুকুর টেকনিক্যাল এ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712599701",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MITHAPUKUR TECHNICAL AND BUSSINESS MANAGMENT COLLEGE.json"
+    },
+    {
+      "eiin": "133411",
+      "name": "NURSING INSTITUTE, PANCHAGARH",
+      "name_bn": "নার্সিং ইনষ্টিটিউট, পঞ্চগড়।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01332807258",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NURSING INSTITUTE, PANCHAGARH.json"
+    },
+    {
+      "eiin": "133635",
+      "name": "P.T.I. PANCHAGAR",
+      "name_bn": "পিটিআই পঞ্চগড়",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712135735",
+      "email": null,
+      "teacher_count": 0,
+      "file": "P.T.I. PANCHAGAR.json"
+    },
+    {
+      "eiin": "133760",
+      "name": "PANCHAGARH HOMOEOPATHIC MEDICAL COLLEGE & HOSPITAL, PANCHAGARH",
+      "name_bn": "পঞ্চগড় হোমিওপ্যাথিক মেডিকেল কলেজ ও হাসাতাল",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01715204284",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PANCHAGARH HOMOEOPATHIC MEDICAL COLLEGE & HOSPITAL, PANCHAGARH.json"
+    },
+    {
+      "eiin": "135138",
+      "name": "PANCHAGARH TECHNICAL AND B M GIRLS COLLEGE",
+      "name_bn": "পঞ্চগড় টেকনিক্যাল অ্যান্ড বি. এম মহিলা কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01722188499",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PANCHAGARH TECHNICAL AND B M GIRLS COLLEGE.json"
+    },
+    {
+      "eiin": "132273",
+      "name": "PANCHAGARH TECHNICAL AND BUSSINESS MANGEMENT COLLAGE",
+      "name_bn": "পঞ্চগড় টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01716332993",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PANCHAGARH TECHNICAL AND BUSSINESS MANGEMENT COLLAGE.json"
+    },
+    {
+      "eiin": "132244",
+      "name": "PANCHAGARH TECHNICAL SCHOOL AND COLLEGE",
+      "name_bn": "পঞ্চগড় সরকারি টেকনিক্যাল স্কুল ও কলেজ, পঞ্চগড়।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712394347",
+      "email": null,
+      "teacher_count": 0,
+      "file": "PANCHAGARH TECHNICAL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "136939",
+      "name": "RAINBOW POLYTECHNIC INSTITUTE (R.P.I)",
+      "name_bn": "রেইনবো পলিটেকনিক ইনস্টিটিউট (আরপিআই)",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01770876107",
+      "email": null,
+      "teacher_count": 0,
+      "file": "RAINBOW POLYTECHNIC INSTITUTE (R.P.I).json"
+    },
+    {
+      "eiin": "137281",
+      "name": "DARIKAMARY-3 GOVT. PRIMARY SCHOOL",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Five)",
+      "category": "primary_school",
+      "mobile": "01710630513",
+      "email": null,
+      "teacher_count": 80,
+      "file": "DARIKAMARY-3 GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "126115",
+      "name": "AFSARUL HOQUE JUNIOR GIRLS SCHOOL",
+      "name_bn": "আফছারুল হক নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01722430670",
+      "email": "mohammadshakimulislam@gmail.com",
+      "teacher_count": 133,
+      "file": "AFSARUL HOQUE JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "126063",
+      "name": "AHMED NAGAR HIGH SCHOOL",
+      "name_bn": "আহমদ নগর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01735016362",
+      "email": "ahmednagarhighschool@gmail.com",
+      "teacher_count": 181,
+      "file": "AHMED NAGAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126092",
+      "name": "AMARKHANA HIGH SCHOOL",
+      "name_bn": "অমর খানা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01723892951",
+      "email": "amarkhanahs@gmail.com",
+      "teacher_count": 225,
+      "file": "AMARKHANA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126123",
+      "name": "AMLAHAR GIRLS HIGH SCHOOL",
+      "name_bn": "আমলাহার বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713782039",
+      "email": "s126123pancha@gmail.com",
+      "teacher_count": 216,
+      "file": "AMLAHAR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126073",
+      "name": "AMLAHAR MARIAM NESSA B. L HIGH SCHOOL",
+      "name_bn": "আমলাহার মরিয়ন নেছা দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01737070617",
+      "email": "amlaharmnhspancha@gmail.com",
+      "teacher_count": 166,
+      "file": "AMLAHAR MARIAM NESSA B. L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126152",
+      "name": "BARRISTER JAMIRUDDIN SARKAR SCHOOL PANCHAGARH",
+      "name_bn": "ব্যারিষ্টার জমির উদ্দিন সরকার কলেজিয়েট ইন্সটিটিউট, পঞ্চগড়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714862801",
+      "email": "bjusci@gmail.com",
+      "teacher_count": 225,
+      "file": "BARRISTER JAMIRUDDIN SARKAR SCHOOL PANCHAGARH.json"
+    },
+    {
+      "eiin": "126089",
+      "name": "BAZRA PARA NATUN HAT HIGH SCHOOL",
+      "name_bn": "বজরাপাড়া নতুন হাট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724044505",
+      "email": "bazraparahighschool@gmail.com",
+      "teacher_count": 220,
+      "file": "BAZRA PARA NATUN HAT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126099",
+      "name": "BHATA PUKURI GIRLS HIGH SCHOOL",
+      "name_bn": "ভাটাপুকুরী বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01723275676",
+      "email": "vatapuri@gmail.com",
+      "teacher_count": 157,
+      "file": "BHATA PUKURI GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126108",
+      "name": "CHAKLAHAT BANGABANDHU GIRLS HIGH SCHOOL",
+      "name_bn": "চাকলাহাট বঙ্গবন্ধু বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715002425",
+      "email": "chaklahatbangabandhugirls@gmail.comil.com",
+      "teacher_count": 190,
+      "file": "CHAKLAHAT BANGABANDHU GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126066",
+      "name": "CHAKLAHAT K.P.B-L HIGH SCHOOL",
+      "name_bn": "চাকলাহাট খামিরউদ্দীন প্রধান দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724444795",
+      "email": "chaklahatkhamiruddinprodhanblhighschool@gmail.com",
+      "teacher_count": 230,
+      "file": "CHAKLAHAT K.P.B-L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126087",
+      "name": "DABORBANGA GIRLS HIGH SCHOOL",
+      "name_bn": "ডাবরভাঙ্গা বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716337168",
+      "email": "dbghsrazzakhm.pan92@gmail.com",
+      "teacher_count": 201,
+      "file": "DABORBANGA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126114",
+      "name": "DANGAPARA JUNIOR HIGH SCHOOL",
+      "name_bn": "ডাঙ্গা পাড়া নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01740847157",
+      "email": "dangaparajrhs.panchagarh@gmail.com",
+      "teacher_count": 105,
+      "file": "DANGAPARA JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126078",
+      "name": "DANGI PUKURI HIGH SCHOOL",
+      "name_bn": "ঢাংগী পুকুরী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01761258054",
+      "email": "dphs126078@gmail.com",
+      "teacher_count": 183,
+      "file": "DANGI PUKURI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126076",
+      "name": "DASHMAIL HIGH SCHOOL",
+      "name_bn": "দশমাইল দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01710606640",
+      "email": "fozlulhaqueht126076@gmail.com",
+      "teacher_count": 226,
+      "file": "DASHMAIL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126056",
+      "name": "DEWAN HAT B. L HIGH SCHOOL",
+      "name_bn": "দেওয়ানহাট দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01745081939",
+      "email": "dewanhaths126056@gmail.com",
+      "teacher_count": 213,
+      "file": "DEWAN HAT B. L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126095",
+      "name": "DOSHMILE B.L. GIRLS HIGH SCHOOL",
+      "name_bn": "দশমাইল দ্বি-মূখী বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01728159895",
+      "email": "sdghs126095@gmail.com",
+      "teacher_count": 236,
+      "file": "DOSHMILE B.L. GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126064",
+      "name": "GHAGRA DWARIKAMARI HIGH SCHOOL",
+      "name_bn": "ঘাগড়া দ্বারিকামারী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01732333913",
+      "email": "ghagra.dhspancha@gmail.com",
+      "teacher_count": 188,
+      "file": "GHAGRA DWARIKAMARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126097",
+      "name": "GOLAHA KANTOMONY JUNIOR SCHOOL",
+      "name_bn": "গলেহা কান্তমনি নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01716058794",
+      "email": "gkmis126097@gmail.com",
+      "teacher_count": 162,
+      "file": "GOLAHA KANTOMONY JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "126074",
+      "name": "GOLEHA HIGH SCHOOL",
+      "name_bn": "গলেহা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718521709",
+      "email": "ghs126074@gmail.com",
+      "teacher_count": 182,
+      "file": "GOLEHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126086",
+      "name": "GORINA BARI N HAT A GIRLS HIGH SCHOOL",
+      "name_bn": "গড়িনাবাড়ী নতুন হাট আদর্শ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01728315983",
+      "email": "garinabarinhghs.pancha@gmail.com",
+      "teacher_count": 200,
+      "file": "GORINA BARI N HAT A GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126068",
+      "name": "HAFIZABAD DARIKAMARI B. L HIGH SCHOOL",
+      "name_bn": "হাফিজাবাদ দ্বারিকামারী দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01767392088",
+      "email": "hafizabaddarucamariblhs.pancha@gmail.com",
+      "teacher_count": 214,
+      "file": "HAFIZABAD DARIKAMARI B. L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139024",
+      "name": "HANNAN SHEIKH PUBLIC SCHOOL AND COLLEGE",
+      "name_bn": "হান্নান শেখ পাবলিক স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01726298083",
+      "email": "hannansheikpsac@gmail.com",
+      "teacher_count": 139,
+      "file": "HANNAN SHEIKH PUBLIC SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "126091",
+      "name": "HARIBHASA GIRLS HIGH SCHOOL",
+      "name_bn": "হাড়িভাসা বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01738617726",
+      "email": "hbgirlshighschool.bd@gmail.com",
+      "teacher_count": 218,
+      "file": "HARIBHASA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126093",
+      "name": "JAGADAL NUR AKTER SARKER GIRLS HIGH SCHOOL",
+      "name_bn": "জগদল নূর আক্তার সরকার দ্বি-মূখী বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01737243917",
+      "email": "jnasghs@gmail.com",
+      "teacher_count": 233,
+      "file": "JAGADAL NUR AKTER SARKER GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126062",
+      "name": "JAGDAL HIGH SCHOOL",
+      "name_bn": "জগদল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719667183",
+      "email": "jagdalhighschool.edu.bd@gmail.com",
+      "teacher_count": 210,
+      "file": "JAGDAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126112",
+      "name": "JAMUNA ADARSHA GIRLS HIGH SCHOOL",
+      "name_bn": "যমুনা আদর্শ বালিকা দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719513093",
+      "email": "jamunaadarshagirls@gmail.com",
+      "teacher_count": 205,
+      "file": "JAMUNA ADARSHA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126083",
+      "name": "JHALAY NAYANI BURUJ HIGH SCHOOL",
+      "name_bn": "ঝলই নয়নীবুরুজ দ্বিমুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714862809",
+      "email": "jhalaynayaniburuj@gmail.com",
+      "teacher_count": 189,
+      "file": "JHALAY NAYANI BURUJ HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126071",
+      "name": "KAMALAPUR BILETERAL HIGH SCHOOL",
+      "name_bn": "কমলাপুর দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719199780",
+      "email": "kamalapur83@gmail.com",
+      "teacher_count": 204,
+      "file": "KAMALAPUR BILETERAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126101",
+      "name": "KAMAT KUNJA HIGH SCHOOL",
+      "name_bn": "কামাত কুঞ্জ দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721887939",
+      "email": "kamatkunja@gmail.com",
+      "teacher_count": 207,
+      "file": "KAMAT KUNJA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126118",
+      "name": "KARATOWA ADARSHA JR SHIKSHA NIKETAN",
+      "name_bn": "করতোয়া আদর্শ শিক্ষা নিকেতন,পঞ্চগড়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717948521",
+      "email": "kcscp1984@gmail.com",
+      "teacher_count": 230,
+      "file": "KARATOWA ADARSHA JR SHIKSHA NIKETAN.json"
+    },
+    {
+      "eiin": "126057",
+      "name": "KAZAL DIGHI TUNIR HAT HIGH SCHOOL",
+      "name_bn": "কাজলদিঘী টুনিরহাট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01729942716",
+      "email": "rashedshah1975bd@gmail.com",
+      "teacher_count": 169,
+      "file": "KAZAL DIGHI TUNIR HAT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126106",
+      "name": "KAZIPARA ADARSHA LOWER SECONDARY SCHOOL",
+      "name_bn": "কাজীপাড়া আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717953898",
+      "email": "kazimukul12@gmail.com",
+      "teacher_count": 162,
+      "file": "KAZIPARA ADARSHA LOWER SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "126096",
+      "name": "KAZIRHAT GIRLS HIGH SCHOOL",
+      "name_bn": "কাজির হাট বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01736233230",
+      "email": "kazirhatgirls@gmail.com",
+      "teacher_count": 190,
+      "file": "KAZIRHAT GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126065",
+      "name": "KHANPUKUR KHOLA PARA HIGH SCHOOL",
+      "name_bn": "খানপুকুর খোলাপাড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01845373015",
+      "email": "s126065kkhs@gmail.com",
+      "teacher_count": 219,
+      "file": "KHANPUKUR KHOLA PARA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126103",
+      "name": "LANGAL GAON ADARSHA GIRLS HIGH SCHOOL",
+      "name_bn": "লাঙ্গলগাঁও আদর্শ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01710045674",
+      "email": "langalgaon@jamil.com",
+      "teacher_count": 213,
+      "file": "LANGAL GAON ADARSHA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126067",
+      "name": "MAGHAI PANIMACH PUKURI HIGH SCHOOL",
+      "name_bn": "মাঘই পানিমাছ পুকুরী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01728317488",
+      "email": "mpp72hs@gmail.com",
+      "teacher_count": 228,
+      "file": "MAGHAI PANIMACH PUKURI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126059",
+      "name": "MAGURA PRODHAN PARA BL. HIGH SCHOOL",
+      "name_bn": "মাগুড়া প্রধানপাড়া দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721566316",
+      "email": "mp126059@gmail.com",
+      "teacher_count": 185,
+      "file": "MAGURA PRODHAN PARA BL. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126100",
+      "name": "MAGURA SIPAI PARA HIGH SCHOOL",
+      "name_bn": "মাগুড়া সিপাই পাড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01722135948",
+      "email": "magurasipaipara126100@gmail.com",
+      "teacher_count": 187,
+      "file": "MAGURA SIPAI PARA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126077",
+      "name": "MALADAM ADARSHA HIGH SCHOOL",
+      "name_bn": "মালাদাম আদর্শ দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719828480",
+      "email": "maladamadarshablhpancha@gmail.com",
+      "teacher_count": 210,
+      "file": "MALADAM ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126060",
+      "name": "MIRGARH MAINUDDIN HIGH SCHOOL",
+      "name_bn": "মীরগড় ময়ন উদ্দীন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01773308710",
+      "email": "mirgarhmuhighschool@gmail.com",
+      "teacher_count": 174,
+      "file": "MIRGARH MAINUDDIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126107",
+      "name": "MOHARAJA DIGHI JUNIOR HIGH SCHOOL",
+      "name_bn": "মহারাজা দিঘী নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01732063698",
+      "email": "moharajaschool@gmail.com",
+      "teacher_count": 137,
+      "file": "MOHARAJA DIGHI JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126094",
+      "name": "NOTUN CHAKLAHAT B L HIGH SCHOOL",
+      "name_bn": "নতুন চাকলাহাট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01722951924",
+      "email": "notunchaklahathighschool@gmail.com",
+      "teacher_count": 203,
+      "file": "NOTUN CHAKLAHAT B L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126081",
+      "name": "PAHARTALI HIGH SCHOOL",
+      "name_bn": "পাহাড়তলী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724546797",
+      "email": "mdramjanali03021972@gmail.com",
+      "teacher_count": 110,
+      "file": "PAHARTALI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126054",
+      "name": "PANCHAGAR B.P GOVT. HIGH SCHOOL",
+      "name_bn": "পঞ্চগড় বি.পি সরকারি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712715240",
+      "email": "panchagarbp_clc@yahoo.com",
+      "teacher_count": 351,
+      "file": "PANCHAGAR B.P GOVT. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126069",
+      "name": "PANCHAGARH CHINIKAL HIGH SCHOOL",
+      "name_bn": "পঞ্চগড় চিনিকল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01798864702",
+      "email": "chinikal_h_school@yahoo.com",
+      "teacher_count": 154,
+      "file": "PANCHAGARH CHINIKAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126055",
+      "name": "PANCHAGARH GOVT.GIRLS HIGH SCHOOL",
+      "name_bn": "পঞ্চগড় সরকারি বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715051217",
+      "email": "pgghs.edu.bd@gmail.com",
+      "teacher_count": 509,
+      "file": "PANCHAGARH GOVT.GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126070",
+      "name": "PANCHAGARH HIGH SCHOOL",
+      "name_bn": "পঞ্চগড় উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714691527",
+      "email": "s126070phs@gmail.com",
+      "teacher_count": 205,
+      "file": "PANCHAGARH HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130923",
+      "name": "PANCHAGARH MODEL SCHOOL AND COLLEGE",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01195439043",
+      "email": "pmsac2004@gmail.com",
+      "teacher_count": 127,
+      "file": "PANCHAGARH MODEL SCHOOL AND COLLEGE [130923].json"
+    },
+    {
+      "eiin": "140057",
+      "name": "PANCHAGARH MODEL SCHOOL AND COLLEGE",
+      "name_bn": "পঞ্চগড় মডেল স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01722552627",
+      "email": "pmsac04@gmail.com",
+      "teacher_count": 20,
+      "file": "PANCHAGARH MODEL SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "126090",
+      "name": "PANCHAGARH PAURO ADARSHA HIGH SCHOOL",
+      "name_bn": "পঞ্চগড় পৌর আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717546433",
+      "email": "powro126090@gmail.com",
+      "teacher_count": 234,
+      "file": "PANCHAGARH PAURO ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126098",
+      "name": "PUKURI DANGA HIGH SCHOOL",
+      "name_bn": "পুকুরী ডাঙ্গা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01750422827",
+      "email": "pukuridangahighschool@gmail.com",
+      "teacher_count": 180,
+      "file": "PUKURI DANGA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126117",
+      "name": "PUQURI DANGHA JUNIOR GIRLS SCHOOL",
+      "name_bn": "পুকুরী ডাঙ্গা নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01744378273",
+      "email": "puquridanghagirlsschool@gmail.com",
+      "teacher_count": 139,
+      "file": "PUQURI DANGHA JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "126072",
+      "name": "RAJALI KHAL PARA B L HIGH SCHOOL",
+      "name_bn": "রজলী খাল পাড়া দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718091327",
+      "email": "rajalykhalparahspancha@gmail.com",
+      "teacher_count": 215,
+      "file": "RAJALI KHAL PARA B L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "138147",
+      "name": "RAJMAHOL HIGH SCHOOL",
+      "name_bn": "রাজমহল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01737528286",
+      "email": "rhs.panchagarh@gmail.com",
+      "teacher_count": 169,
+      "file": "RAJMAHOL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126085",
+      "name": "RAJNAGAR GIRLS HIGH SCHOOL",
+      "name_bn": "রাজনগর বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01718281317",
+      "email": "rajnagargirlshs@gmail.com",
+      "teacher_count": 156,
+      "file": "RAJNAGAR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126058",
+      "name": "SALMARA VITARGARH HIGH SCHOOL",
+      "name_bn": "শালমারা ভিতরগড় উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718799449",
+      "email": "126058svhs@gmail.com",
+      "teacher_count": 146,
+      "file": "SALMARA VITARGARH HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126061",
+      "name": "SATMERA FULBARI HIGH SCHOOL",
+      "name_bn": "সাতমেরা ফুলবাড়ী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714558136",
+      "email": "sfhs126061@gmail.com",
+      "teacher_count": 214,
+      "file": "SATMERA FULBARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126102",
+      "name": "SATMERA FULBARI IDEAL GIRLS HIGH SCHOOL",
+      "name_bn": "সাতমেড়া ফুলবাড়ী আদর্শ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01820506559",
+      "email": "school126102@gmail.com",
+      "teacher_count": 229,
+      "file": "SATMERA FULBARI IDEAL GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126080",
+      "name": "SATMERA KOROTOYA ADARSHA HIGH SCHOOL",
+      "name_bn": "সাতমেড়া করতোয়া আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01710045673",
+      "email": "s126080pancha@gmail.com",
+      "teacher_count": 204,
+      "file": "SATMERA KOROTOYA ADARSHA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "134801",
+      "name": "SHAHID POLICE SMRITY SCHOOL & COLLEGE, PANCHGARH",
+      "name_bn": "শহীদ পুলিশ স্মৃতি স্কুল এন্ড কলেজ, পঞ্চগড়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01734412161",
+      "email": "kamatkunja@gmail.com",
+      "teacher_count": 273,
+      "file": "SHAHID POLICE SMRITY SCHOOL & COLLEGE, PANCHGARH.json"
+    },
+    {
+      "eiin": "126084",
+      "name": "SHAKHERHAT HIGH SCHOOL",
+      "name_bn": "শেখের হাট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01713749269",
+      "email": "s126084pan@gmail.com",
+      "teacher_count": 244,
+      "file": "SHAKHERHAT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126075",
+      "name": "SING ROAD RATANBARI HIGH SCHOOL",
+      "name_bn": "সিংরোড রতনীবাড়ী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01729507867",
+      "email": "ratanibarihs@gmail.com",
+      "teacher_count": 234,
+      "file": "SING ROAD RATANBARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126082",
+      "name": "TALMA RIVER VIEW HIGH SCHOOL",
+      "name_bn": "তালমা রিভার ভিউ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719828496",
+      "email": "talmariverviewhighschool@gmail.com",
+      "teacher_count": 223,
+      "file": "TALMA RIVER VIEW HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126088",
+      "name": "THAKARPARA HIGH SCHOOL",
+      "name_bn": "ঠেকরপাড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715614615",
+      "email": "akram614615@gmail.com",
+      "teacher_count": 189,
+      "file": "THAKARPARA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126105",
+      "name": "TUNIRHAT ADARSHA GIRLS HIGH SCOOL",
+      "name_bn": "টুনিরহাট আদর্শ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718734374",
+      "email": "tunierhat.glrlsschool@gmail.com",
+      "teacher_count": 257,
+      "file": "TUNIRHAT ADARSHA GIRLS HIGH SCOOL.json"
+    },
+    {
+      "eiin": "126079",
+      "name": "UTTAR DORZIP ARA HIGH SCHOOL",
+      "name_bn": "উত্তর দর্জি পাড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01723079046",
+      "email": "126079@gmail.com",
+      "teacher_count": 195,
+      "file": "UTTAR DORZIP ARA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "126120",
+      "name": "ZODDER PARA JUNIOR GIRLS SCHOOL",
+      "name_bn": "জোতদার পাড়া নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01710868727",
+      "email": "samadmdabdus624@gmail.com",
+      "teacher_count": 134,
+      "file": "ZODDER PARA JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "126153",
+      "name": "DR. ABEDA HAFIZ GIRLS SCHOOL AND COLLEGE",
+      "name_bn": "ডক্টর আবেদা হাফিজ গার্লস স্কুল ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01737958416",
+      "email": "saberabadrun@gmail.com",
+      "teacher_count": 0,
+      "file": "DR. ABEDA HAFIZ GIRLS SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "126154",
+      "name": "FUTKIBARI HIGH SCHOOL AND COLLEGE",
+      "name_bn": "ফুটকিবাড়ী উচ্চ বিদ্যালয ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01714228929",
+      "email": "ehaque1969@gmail.com",
+      "teacher_count": 0,
+      "file": "FUTKIBARI HIGH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "126104",
+      "name": "HAZI SOFIR UDDIN AHAMMED GIRLS SCHOOL AND COLLEGE",
+      "name_bn": "হাজী ছফির উদ্দীন আহম্মদ গালর্স স্কুল এন্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01719512996",
+      "email": "shlipynahar666@gmail.com",
+      "teacher_count": 0,
+      "file": "HAZI SOFIR UDDIN AHAMMED GIRLS SCHOOL AND COLLEGE.json"
+    }
+  ],
+  "healthcare": [
+    {
+      "id": "HOSP-2946",
+      "name": "Adhunik Sadar Hospital, Panchagarh",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2948",
+      "name": "City General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.337441,
+      "longitude": 88.555452,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2950",
+      "name": "Digital General Hospital Panchagar",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.339804,
+      "longitude": 88.556342,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2952",
+      "name": "Panchagarh General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.339236,
+      "longitude": 88.55731,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2959",
+      "name": "Diabetic Hospital Panchagarh, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.344264,
+      "longitude": 88.556941,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2960",
+      "name": "Health Care Specialized Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.334419,
+      "longitude": 88.554884,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2964",
+      "name": "Alif Dental Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.337544,
+      "longitude": 88.555486,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2965",
+      "name": "Desh Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.337635,
+      "longitude": 88.555491,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2966",
+      "name": "Digi Care",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.339207,
+      "longitude": 88.556,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2967",
+      "name": "Dr Komla kanto Barmon",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.33739,
+      "longitude": 88.55552,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2968",
+      "name": "Meri Stap Clinic",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.337727,
+      "longitude": 88.555288,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2970",
+      "name": "Sono LAB",
+      "bn_name": "",
+      "category": "Clinic & Maternity Center",
+      "type": "Private",
+      "bed_capacity": 20,
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "district_slug": "panchagarh",
+      "upazila": "Panchagarh Sadar",
+      "address": "Panchagarh Sadar, Panchagarh",
+      "latitude": 26.338919,
+      "longitude": 88.555982,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "banking": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "TUNIRHAT BRANCH",
+      "routing_number": "010770762",
+      "swift_code": "AGBKBDDH",
+      "district": "PANCHAGARH",
+      "address": "TUNIRHAT, PANCHAGARH SADAR, PANCHAGARH 5000",
+      "telephone": "018 19770438",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "076"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "PANCHAGARH BRANCH",
+      "routing_number": "135770555",
+      "swift_code": "JANBBDDH",
+      "district": "PANCHAGARH",
+      "address": "PANCHAGARH SADAR, PANCHAGARH 5000",
+      "telephone": "0568 61256",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "055"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "PANCHAGARH BRANCH",
+      "routing_number": "185770550",
+      "swift_code": "RUPBBDDH",
+      "district": "PANCHAGARH",
+      "address": "PANCHAGARH SADAR, PANCHAGARH",
+      "telephone": "0568 61247, 017 10219132",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4663 / 055"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "PANCHAGARH BRANCH",
+      "routing_number": "200770556",
+      "swift_code": "BSONBDDH",
+      "district": "PANCHAGARH",
+      "address": "PANCHAGARH SADAR, PANCHAGARH",
+      "telephone": "0568 62073",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "055 / 055"
+    }
+  ],
+  "emergency": {
+    "division": "Rangpur",
+    "district": "Panchagarh",
+    "upazila": "Panchagarh Sadar",
+    "national_hotlines": [
+      {
+        "name": "National Emergency Service (Police, Fire, Ambulance)",
+        "number": "999"
+      },
+      {
+        "name": "National Information & Citizen Service",
+        "number": "333"
+      },
+      {
+        "name": "Government Legal Aid",
+        "number": "16430"
+      },
+      {
+        "name": "Child Helpline",
+        "number": "1098"
+      },
+      {
+        "name": "Women & Children Repression Prevention Helpline",
+        "number": "109"
+      }
+    ],
+    "district_administration": {
+      "district": "Panchagarh",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+        "phone": "01713-000059",
+        "email": "dcpanchagarh@mopa.gov.bd",
+        "website": "http://www.panchagarh.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Panchagarh",
+        "phone": "01713-373059",
+        "email": "sppanchagarh@police.gov.bd",
+        "control_room": "01713-374059"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Panchagarh",
+        "phone": "01713-555059",
+        "email": "cspanchagarh@dghs.gov.bd"
+      }
+    },
+    "police_stations": [
+      {
+        "thana_id": "PS-DIST-72",
+        "name": "Panchagarh Sadar Police Station",
+        "bn_name": "Panchagarh সদর থানা",
+        "unit": "Panchagarh District Police",
+        "division": "General",
+        "district": "Panchagarh",
+        "address": "Court Building Road, Sadar, Panchagarh",
+        "oc_mobile": "01713-374072",
+        "duty_officer": "01713-399072",
+        "tnt": "02-770072",
+        "control_room": "01713-374000"
+      }
+    ],
+    "fire_stations": [
+      {
+        "station_id": "FS-063",
+        "name": "Panchagarh Fire Station & Civil Defence",
+        "bn_name": "Panchagarh ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+        "division": "General",
+        "district": "Panchagarh",
+        "address": "Sadar, Panchagarh",
+        "hotline": "16163",
+        "emergency_phone": "02-9988063",
+        "mobile": "01713-038063",
+        "station_type": "District Headquarters Station"
+      }
+    ]
+  },
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 103,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক পঞ্চগড়",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং 8 নং ধাক্কামারা ইউনিয়ন পরিষদ",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "বাংলাদেশ সরকার পক্ষে শিক্ষা বিভাগ",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং দোমনী সরকার পাড়া বেসরকারী প্রাধমিক বিদ্যালয় পক্ষে শিক্ষা বিভাগ পঞ্চগড়",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং আমতলা বেসরকারী প্রাথমিক বিদ্যালায় পক্ষে মহা পরিচালক প্রাথমিক শিক্ষ অধিদপ্তর ঢাকা বাংলাদেশ",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "(বি,...",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "বাংলাদেশ সরকার পক্ষে বন বিভাগ",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং লাধুয়া পাড়া নিম্ন মাধ্যমিক বিদ্যালয় পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং অমর খানা বেসরকারী প্রাথমিক বিদ্যালয় কমিটি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং পঞ্চগড় সদর থানা কেন্দ্রীয় সমবায় সমিতি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "ওমরপুর লাটুয়া পাড়া জামে মসজিদ কমিটি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "নাটুয়া পাড়া জামে মসজিদ পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং উওর মিঠা পুকুর পুরাতন জামে মসজিদ কমিটি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং অমর খানা ওযাকবিয়া মসজিদ কমিটি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং অমর খানা সরকার পাড়া ওয়াক্তিয়া মসজিদ কমিটি পক্ষে সম্পাদক",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং আমতলা ওয়াক্তিয়া মসজিদ কমিটি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং দোমনা সরকার পাড়া মাদ্রাসা পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "আমতলা ঈদগাহ মাট কমিটি পক্ষে সেক্রেটারী",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং অছিম উদ্দিন,...",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "owners": "দং অজত আলী,...",
+        "dags": "",
+        "total_land": ""
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "খারিজা ভজনপুর",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "লাখেরাজ ঘুমটী ",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "জোত বাহাদি",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "জোত কৃষ্ণ চন্দ্র নন্দী",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "কালেশ্বর সামাঞ্জ",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "বেঙ্গহারী শিকারপুর",
+        "jl_no": "32",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "পাহাড়তলী",
+        "jl_no": "44",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "তেলধর",
+        "jl_no": "45",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "কাজলদিঘী",
+        "jl_no": "46",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "মাড়েয়া কমলা পুকুরী",
+        "jl_no": "50",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "মাঝগ্রাম",
+        "jl_no": "51",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "বাহাদুর নারায়নী",
+        "jl_no": "53",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "জগন্নাথ জোত",
+        "jl_no": "55",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "আরাজী বেরু বাড়ী",
+        "jl_no": "57",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "আরাজী বাঁশকন্ঠিয়া",
+        "jl_no": "67",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "আরাজী বগুলাডাঙ্গী শিকারপুর ডেনাকাটা",
+        "jl_no": "69",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "কিসমত সিং রোড",
+        "jl_no": "73",
+        "survey": "BRS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "ধাক্কামারা.",
+        "jl_no": "10",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "পুরাতনপঞ্চগড়",
+        "jl_no": "11",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "ঢেমসীমারী",
+        "jl_no": "12",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "যোথনপুখুরী",
+        "jl_no": "13",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "লাখেরাজ ঘূমটি",
+        "jl_no": "20",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "মোলানী",
+        "jl_no": "21",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "পঞ্চগড়.",
+        "jl_no": "22",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "পাহাড়তলী",
+        "jl_no": "44",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "তেলধর",
+        "jl_no": "45",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "কাজলদিঘী",
+        "jl_no": "46",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "মাঝগ্রাম",
+        "jl_no": "51",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      },
+      {
+        "mouza_name": "আরাজী বাঁশকণ্ঠিয়া",
+        "jl_no": "67",
+        "survey": "RS",
+        "upazila": "PANCHAGARH SADAR"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/6:/",
+      "district_drive_url": "https://free.mouzamap.tech/6:/Panchagarh/",
+      "district_total_maps": 442,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 3.332,
+      "catalog_github_path": "land/maps/Rangpur/Panchagarh.json",
+      "online_folder_url": "https://free.mouzamap.tech/6:/Panchagarh/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Panchagarh",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+        "phone": "01713-000059",
+        "email": "dcpanchagarh@mopa.gov.bd",
+        "website": "http://www.panchagarh.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Panchagarh",
+        "phone": "01713-373059",
+        "email": "sppanchagarh@police.gov.bd",
+        "control_room": "01713-374059"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Panchagarh",
+        "phone": "01713-555059",
+        "email": "cspanchagarh@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "1",
+        "name": {
+          "en": "Panchagarh-1",
+          "bn": "পঞ্চগড়-১"
+        },
+        "total_voters": 463700
+      },
+      {
+        "code": "2",
+        "name": {
+          "en": "Panchagarh-2",
+          "bn": "পঞ্চগড়-২"
+        },
+        "total_voters": 417529
+      }
+    ],
+    "upazila_portal": "panchagarhsadar.panchagarh.gov.bd",
+    "district_portal": "http://www.panchagarh.gov.bd",
+    "union_portals_count": 10,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

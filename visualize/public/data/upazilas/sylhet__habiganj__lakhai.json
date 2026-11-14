@@ -1,1 +1,778 @@
-{"division": "Sylhet", "district": "Habiganj", "upazila": "Lakhai", "upazila_slug": "sylhet__habiganj__lakhai", "geography": {"division": "Sylhet", "division_bn": "সিলেট", "district": "Habiganj", "district_bn": "হবিগঞ্জ", "district_lat": "24.374945", "district_lon": "91.41553", "upazila_id": "296", "upazila": "Lakhai", "upazila_bn": "লাখাই", "official_url": "lakhai.habiganj.gov.bd", "total_unions": 6, "unions": [{"id": "2648", "name": "Lakhai", "bn_name": "লাখাই", "url": "lakhaiup.habiganj.gov.bd"}, {"id": "2649", "name": "Murakari", "bn_name": "মোড়াকরি", "url": "murakariup.habiganj.gov.bd"}, {"id": "2650", "name": "Muriauk", "bn_name": "মুড়িয়াউক", "url": "muriaukup.habiganj.gov.bd"}, {"id": "2651", "name": "Bamoi", "bn_name": "বামৈ", "url": "bamoiup.habiganj.gov.bd"}, {"id": "2652", "name": "Karab", "bn_name": "করাব", "url": "karabup.habiganj.gov.bd"}, {"id": "2653", "name": "Bulla", "bn_name": "বুল্লা", "url": "bullaup6.habiganj.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 17, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 6, "postcodes_count": 0, "land_khatians_count": 25, "mouzas_count": 184}, "education": [{"eiin": "138795", "name": "ADVOCATE MD. ABU ZAHIR MODEL COLLEGE", "name_bn": "এডভোকেট মোঃ আবু জাহির মডেল কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01710616496", "email": "em138795@gmail.com", "teacher_count": 0, "file": "ADVOCATE MD. ABU ZAHIR MODEL COLLEGE.json"}, {"eiin": "129462", "name": "LAKHAI MUKTIJODDHA DEGREE COLLEGE", "name_bn": "লাখাই মুক্তিযোদ্ধা সরকারি ডিগ্রি কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01717018600", "email": "lakhaimj.college@gmail.com", "teacher_count": 0, "file": "LAKHAI MUKTIJODDHA DEGREE COLLEGE.json"}, {"eiin": "129460", "name": "KARAB RAHMANIA DAKHIL MADRASAH", "name_bn": "করাব রহমানিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01715262554", "email": "m129460@gmail.com", "teacher_count": 0, "file": "KARAB RAHMANIA DAKHIL MADRASAH.json"}, {"eiin": "129461", "name": "JIRUNDA MANPUR TOFAILIA SENIOR ALIM MADRASAH", "name_bn": "জিরুন্ডা মানপুর তোফাইলিয়া ফাজিল মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01716388320", "email": "m129461@gmail.com", "teacher_count": 0, "file": "JIRUNDA MANPUR TOFAILIA SENIOR ALIM MADRASAH.json"}, {"eiin": "137127", "name": "BHARAPURNI GOVT. PRIMARY SCHOOL", "name_bn": "ভরপূর্ণি সরকারি প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01715236191", "email": "htbharapunigps@gmail.com", "teacher_count": 91, "file": "BHARAPURNI GOVT. PRIMARY SCHOOL.json"}, {"eiin": "137976", "name": "SHIBPUR 1NO. GOVT. PRIMARY SCHOOL", "name_bn": "শিবপুর ১নং সরকারি প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01711706967", "email": "shibpur01dpe@gmail.com", "teacher_count": 52, "file": "SHIBPUR 1NO. GOVT. PRIMARY SCHOOL.json"}, {"eiin": "129453", "name": "BAMOI GOVT. HIGH SCHOOL", "name_bn": "বামৈ সরকারি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01914021055", "email": "bamoimodelhighschool@gmail.com", "teacher_count": 212, "file": "BAMOI GOVT. HIGH SCHOOL.json"}, {"eiin": "136826", "name": "BEGUNAI MADNA SESDP MODEL HIGH SCHOOL", "name_bn": "বেগুনাই-মাদনা এসইএসডিপি মডেল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714518649", "email": "pratapc87@gmail.com", "teacher_count": 123, "file": "BEGUNAI MADNA SESDP MODEL HIGH SCHOOL.json"}, {"eiin": "129458", "name": "BHABANIPUR HIGH SCHOOL", "name_bn": "ভবানীপুর হাই স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716662585", "email": "bhschool1992@gmail.com", "teacher_count": 180, "file": "BHABANIPUR HIGH SCHOOL.json"}, {"eiin": "129459", "name": "BULLA SINGHAGRAM GIRLS HIGH SCHOOL", "name_bn": "বুল্লা সিংহগ্রাম বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01819064372", "email": "bullasinghogram1996@gmail.com", "teacher_count": 227, "file": "BULLA SINGHAGRAM GIRLS HIGH SCHOOL.json"}, {"eiin": "129457", "name": "KALAUK HIGH SCHOOL", "name_bn": "কালাউক উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01917357234", "email": "kalaukhighschool@yahoo.com", "teacher_count": 265, "file": "KALAUK HIGH SCHOOL.json"}, {"eiin": "129455", "name": "KRISHNAPUR KAMLAMAYEE HIGH SCHOOL", "name_bn": "কৃষ্ণপুর কমলাময়ী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01795173690", "email": "krishnapurs129455@gmail.com", "teacher_count": 164, "file": "KRISHNAPUR KAMLAMAYEE HIGH SCHOOL.json"}, {"eiin": "129451", "name": "LAKHAI A,C R C PILOT HIIGH SCHOOL", "name_bn": "লাখাই এ.সি.আর.সি পাইলট উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719842090", "email": "lakhaiacrc@gmail.com", "teacher_count": 232, "file": "LAKHAI A,C R C PILOT HIIGH SCHOOL.json"}, {"eiin": "129454", "name": "MORAKORI HIGH SCHOOL", "name_bn": "মোড়াকরি হাই স্কুল এন্ড কলেজ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716707163", "email": "morakarihighschool@gmail.com", "teacher_count": 238, "file": "MORAKORI HIGH SCHOOL.json"}, {"eiin": "130741", "name": "MURIAUK HIGH SCHOOL", "name_bn": "মুড়িয়াউক উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01775999456", "email": "muriaukhs2005@gmail.com", "teacher_count": 120, "file": "MURIAUK HIGH SCHOOL.json"}, {"eiin": "129452", "name": "RARHISHAL KARAB HIGH SCHOOL", "name_bn": "রাঢ়িশাল করাব উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718312716", "email": "sr129452@gmail.com", "teacher_count": 294, "file": "RARHISHAL KARAB HIGH SCHOOL.json"}, {"eiin": "135207", "name": "TEGHORIA SESDP MODEL SECONDARY SCHOOL", "name_bn": "তেঘরিয়া এসইএসডিপি মডেল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716591889", "email": "teghoria.h.school@gmail.com", "teacher_count": 147, "file": "TEGHORIA SESDP MODEL SECONDARY SCHOOL.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 184, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক হবিগঞ্জ।", "dags": "1,13,77,146,187,221,255,319,368,419,426,510,511,512,513,514,515,516,517,518,519,", "total_land": "133.92"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "বাংলাদেশ সরকারপক্ষে শিক্ষা বিভাগ", "dags": "1638,1682,248", "total_land": "0.44"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আছিরন নেছা", "dags": "4221,4219,4217", "total_land": "0.58"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "অজুফা বিবি", "dags": "1790", "total_land": "0.29"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আইমনা খাতুন", "dags": "467", "total_land": "0.42"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আওলিয়া খাতুন,উপজিলা অষ্টগ্রাম", "dags": "331,332,112", "total_land": "2.29"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আক্কাছ আলী,আব্বাস আলী,উপজিলা অষ্টগ্রাম", "dags": "89,507", "total_land": "0.31"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আক্রাম আলী", "dags": "3869,4152,4168", "total_land": "0.79"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আক্তার হোসেন", "dags": "1576,1614,2097,1757,1774,3534", "total_land": "2.14"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আকবর হোসেন", "dags": "4192,4171", "total_land": "0.98"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আকবর আলী", "dags": "237,236,324,408,418,423,629,393", "total_land": "0.59"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আকবর আলী", "dags": "1610,1576,1612,1614,1687,1657,2176,2177,3678,3680,3729", "total_land": "3.19"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আগরজান বিবি", "dags": "3733,3739", "total_land": "0.35"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আছু মিয়া", "dags": "1562", "total_land": "0.02"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আছিয়া খাতুন", "dags": "2194", "total_land": "0.24"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আছিয়া খাতুন", "dags": "4154", "total_land": "0.37"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আজগর আলী", "dags": "3127,3130", "total_land": "0.36"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আজিদ মিয়া", "dags": "2129,2190", "total_land": "0.12"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আজিজের রহমান", "dags": "3099,3100", "total_land": "0.45"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "ফরিদপুর", "jl_no": "1", "owners": "আদম আলী", "dags": "4150,4167,4205,4222,4229,4230,4067,3799,3861,3864", "total_land": "1.60"}], "sample_mouzas": [{"mouza_name": "মদনা ধলীশ্বরী নদীর মধ্যচর", "jl_no": "5", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "বেগুনাই", "jl_no": "7", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "গোবিন্দপুর", "jl_no": "14", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "করাব", "jl_no": "18", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "হরিনাকোনা", "jl_no": "22", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "গনিপুর", "jl_no": "23", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "কল্যাণপুর", "jl_no": "24", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "আগাপুর", "jl_no": "25", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "রাড়িশাল", "jl_no": "26", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "যাদবপুর", "jl_no": "27", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "বুল্লা", "jl_no": "28", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "ছাতিয়ারকান্দি", "jl_no": "30", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "গুয়াকান্দি", "jl_no": "31", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "গোপালপুর", "jl_no": "32", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "নিদনপুর", "jl_no": "33", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "বালাকান্দি", "jl_no": "34", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "নদীর উত্তর পাড়", "jl_no": "35", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "বাগাইয়ার", "jl_no": "36", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "সালদিঘা", "jl_no": "37", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "তেঘরিয়া", "jl_no": "38", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "শুনেশ্বর", "jl_no": "39", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "সিংহগ্রাম", "jl_no": "40", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "শুনেশ্বর চক", "jl_no": "41", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "ধর্ম্মপুর", "jl_no": "42", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "মশাদিয়া", "jl_no": "43", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "বাদিকাড়া", "jl_no": "44", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "নওয়াগাঁও", "jl_no": "45", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "স্বজনগাঁও চক", "jl_no": "46", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "রুহিতনশী", "jl_no": "47", "survey": "BRS", "upazila": "LAKHAI"}, {"mouza_name": "ইসলামপুর", "jl_no": "48", "survey": "BRS", "upazila": "LAKHAI"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1UCORiXQd32BoG3XpJJhmvL8-TxjHQQsi", "district_drive_url": "https://drive.google.com/drive/folders/1kxPt2pgyXPNUhAKwGqA8Y3fIKgK659-4", "district_total_maps": 2390, "district_uploaded_maps": 8, "district_total_gb": 30.487, "catalog_github_path": "land/maps/Sylhet/Habiganj.json"}}, "governance": {"administration": {"district": "Habiganj", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Habiganj", "phone": "01713-000052", "email": "dchabiganj@mopa.gov.bd", "website": "http://www.habiganj.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Habiganj", "phone": "01713-373052", "email": "sphabiganj@police.gov.bd", "control_room": "01713-374052"}, "civil_surgeon_office": {"title": "Civil Surgeon, Habiganj", "phone": "01713-555052", "email": "cshabiganj@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "239", "name": {"en": "Hobigonj-1", "bn": "হবিগঞ্জ-১"}, "total_voters": 466921}, {"code": "240", "name": {"en": "Hobigonj-2", "bn": "হবিগঞ্জ-২"}, "total_voters": 394756}, {"code": "241", "name": {"en": "Hobigonj-3", "bn": "হবিগঞ্জ-৩"}, "total_voters": 419573}, {"code": "242", "name": {"en": "Hobigonj-4", "bn": "হবিগঞ্জ-৪"}, "total_voters": 552711}], "upazila_portal": "lakhai.habiganj.gov.bd", "district_portal": "http://www.habiganj.gov.bd", "union_portals_count": 6, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Sylhet",
+  "district": "Habiganj",
+  "upazila": "Lakhai",
+  "upazila_slug": "sylhet__habiganj__lakhai",
+  "geography": {
+    "division": "Sylhet",
+    "division_bn": "সিলেট",
+    "district": "Habiganj",
+    "district_bn": "হবিগঞ্জ",
+    "district_lat": "24.374945",
+    "district_lon": "91.41553",
+    "upazila_id": "296",
+    "upazila": "Lakhai",
+    "upazila_bn": "লাখাই",
+    "official_url": "lakhai.habiganj.gov.bd",
+    "total_unions": 6,
+    "unions": [
+      {
+        "id": "2648",
+        "name": "Lakhai",
+        "bn_name": "লাখাই",
+        "url": "lakhaiup.habiganj.gov.bd"
+      },
+      {
+        "id": "2649",
+        "name": "Murakari",
+        "bn_name": "মোড়াকরি",
+        "url": "murakariup.habiganj.gov.bd"
+      },
+      {
+        "id": "2650",
+        "name": "Muriauk",
+        "bn_name": "মুড়িয়াউক",
+        "url": "muriaukup.habiganj.gov.bd"
+      },
+      {
+        "id": "2651",
+        "name": "Bamoi",
+        "bn_name": "বামৈ",
+        "url": "bamoiup.habiganj.gov.bd"
+      },
+      {
+        "id": "2652",
+        "name": "Karab",
+        "bn_name": "করাব",
+        "url": "karabup.habiganj.gov.bd"
+      },
+      {
+        "id": "2653",
+        "name": "Bulla",
+        "bn_name": "বুল্লা",
+        "url": "bullaup6.habiganj.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 17,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 6,
+    "postcodes_count": 0,
+    "land_khatians_count": 25,
+    "mouzas_count": 184
+  },
+  "education": [
+    {
+      "eiin": "138795",
+      "name": "ADVOCATE MD. ABU ZAHIR MODEL COLLEGE",
+      "name_bn": "এডভোকেট মোঃ আবু জাহির মডেল কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01710616496",
+      "email": "em138795@gmail.com",
+      "teacher_count": 0,
+      "file": "ADVOCATE MD. ABU ZAHIR MODEL COLLEGE.json"
+    },
+    {
+      "eiin": "129462",
+      "name": "LAKHAI MUKTIJODDHA DEGREE COLLEGE",
+      "name_bn": "লাখাই মুক্তিযোদ্ধা সরকারি ডিগ্রি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01717018600",
+      "email": "lakhaimj.college@gmail.com",
+      "teacher_count": 0,
+      "file": "LAKHAI MUKTIJODDHA DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "129460",
+      "name": "KARAB RAHMANIA DAKHIL MADRASAH",
+      "name_bn": "করাব রহমানিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01715262554",
+      "email": "m129460@gmail.com",
+      "teacher_count": 0,
+      "file": "KARAB RAHMANIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "129461",
+      "name": "JIRUNDA MANPUR TOFAILIA SENIOR ALIM MADRASAH",
+      "name_bn": "জিরুন্ডা মানপুর তোফাইলিয়া ফাজিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01716388320",
+      "email": "m129461@gmail.com",
+      "teacher_count": 0,
+      "file": "JIRUNDA MANPUR TOFAILIA SENIOR ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "137127",
+      "name": "BHARAPURNI GOVT. PRIMARY SCHOOL",
+      "name_bn": "ভরপূর্ণি সরকারি প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01715236191",
+      "email": "htbharapunigps@gmail.com",
+      "teacher_count": 91,
+      "file": "BHARAPURNI GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "137976",
+      "name": "SHIBPUR 1NO. GOVT. PRIMARY SCHOOL",
+      "name_bn": "শিবপুর ১নং সরকারি প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01711706967",
+      "email": "shibpur01dpe@gmail.com",
+      "teacher_count": 52,
+      "file": "SHIBPUR 1NO. GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "129453",
+      "name": "BAMOI GOVT. HIGH SCHOOL",
+      "name_bn": "বামৈ সরকারি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01914021055",
+      "email": "bamoimodelhighschool@gmail.com",
+      "teacher_count": 212,
+      "file": "BAMOI GOVT. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "136826",
+      "name": "BEGUNAI MADNA SESDP MODEL HIGH SCHOOL",
+      "name_bn": "বেগুনাই-মাদনা এসইএসডিপি মডেল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714518649",
+      "email": "pratapc87@gmail.com",
+      "teacher_count": 123,
+      "file": "BEGUNAI MADNA SESDP MODEL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129458",
+      "name": "BHABANIPUR HIGH SCHOOL",
+      "name_bn": "ভবানীপুর হাই স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716662585",
+      "email": "bhschool1992@gmail.com",
+      "teacher_count": 180,
+      "file": "BHABANIPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129459",
+      "name": "BULLA SINGHAGRAM GIRLS HIGH SCHOOL",
+      "name_bn": "বুল্লা সিংহগ্রাম বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01819064372",
+      "email": "bullasinghogram1996@gmail.com",
+      "teacher_count": 227,
+      "file": "BULLA SINGHAGRAM GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129457",
+      "name": "KALAUK HIGH SCHOOL",
+      "name_bn": "কালাউক উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01917357234",
+      "email": "kalaukhighschool@yahoo.com",
+      "teacher_count": 265,
+      "file": "KALAUK HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129455",
+      "name": "KRISHNAPUR KAMLAMAYEE HIGH SCHOOL",
+      "name_bn": "কৃষ্ণপুর কমলাময়ী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01795173690",
+      "email": "krishnapurs129455@gmail.com",
+      "teacher_count": 164,
+      "file": "KRISHNAPUR KAMLAMAYEE HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129451",
+      "name": "LAKHAI A,C R C PILOT HIIGH SCHOOL",
+      "name_bn": "লাখাই এ.সি.আর.সি পাইলট উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719842090",
+      "email": "lakhaiacrc@gmail.com",
+      "teacher_count": 232,
+      "file": "LAKHAI A,C R C PILOT HIIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129454",
+      "name": "MORAKORI HIGH SCHOOL",
+      "name_bn": "মোড়াকরি হাই স্কুল এন্ড কলেজ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716707163",
+      "email": "morakarihighschool@gmail.com",
+      "teacher_count": 238,
+      "file": "MORAKORI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130741",
+      "name": "MURIAUK HIGH SCHOOL",
+      "name_bn": "মুড়িয়াউক উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01775999456",
+      "email": "muriaukhs2005@gmail.com",
+      "teacher_count": 120,
+      "file": "MURIAUK HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "129452",
+      "name": "RARHISHAL KARAB HIGH SCHOOL",
+      "name_bn": "রাঢ়িশাল করাব উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718312716",
+      "email": "sr129452@gmail.com",
+      "teacher_count": 294,
+      "file": "RARHISHAL KARAB HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "135207",
+      "name": "TEGHORIA SESDP MODEL SECONDARY SCHOOL",
+      "name_bn": "তেঘরিয়া এসইএসডিপি মডেল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716591889",
+      "email": "teghoria.h.school@gmail.com",
+      "teacher_count": 147,
+      "file": "TEGHORIA SESDP MODEL SECONDARY SCHOOL.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 184,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক হবিগঞ্জ।",
+        "dags": "1,13,77,146,187,221,255,319,368,419,426,510,511,512,513,514,515,516,517,518,519,",
+        "total_land": "133.92"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকারপক্ষে শিক্ষা বিভাগ",
+        "dags": "1638,1682,248",
+        "total_land": "0.44"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আছিরন নেছা",
+        "dags": "4221,4219,4217",
+        "total_land": "0.58"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "অজুফা বিবি",
+        "dags": "1790",
+        "total_land": "0.29"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আইমনা খাতুন",
+        "dags": "467",
+        "total_land": "0.42"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আওলিয়া খাতুন,উপজিলা অষ্টগ্রাম",
+        "dags": "331,332,112",
+        "total_land": "2.29"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আক্কাছ আলী,আব্বাস আলী,উপজিলা অষ্টগ্রাম",
+        "dags": "89,507",
+        "total_land": "0.31"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আক্রাম আলী",
+        "dags": "3869,4152,4168",
+        "total_land": "0.79"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আক্তার হোসেন",
+        "dags": "1576,1614,2097,1757,1774,3534",
+        "total_land": "2.14"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আকবর হোসেন",
+        "dags": "4192,4171",
+        "total_land": "0.98"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আকবর আলী",
+        "dags": "237,236,324,408,418,423,629,393",
+        "total_land": "0.59"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আকবর আলী",
+        "dags": "1610,1576,1612,1614,1687,1657,2176,2177,3678,3680,3729",
+        "total_land": "3.19"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আগরজান বিবি",
+        "dags": "3733,3739",
+        "total_land": "0.35"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আছু মিয়া",
+        "dags": "1562",
+        "total_land": "0.02"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আছিয়া খাতুন",
+        "dags": "2194",
+        "total_land": "0.24"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আছিয়া খাতুন",
+        "dags": "4154",
+        "total_land": "0.37"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আজগর আলী",
+        "dags": "3127,3130",
+        "total_land": "0.36"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আজিদ মিয়া",
+        "dags": "2129,2190",
+        "total_land": "0.12"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আজিজের রহমান",
+        "dags": "3099,3100",
+        "total_land": "0.45"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "ফরিদপুর",
+        "jl_no": "1",
+        "owners": "আদম আলী",
+        "dags": "4150,4167,4205,4222,4229,4230,4067,3799,3861,3864",
+        "total_land": "1.60"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "মদনা ধলীশ্বরী নদীর মধ্যচর",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "বেগুনাই",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "গোবিন্দপুর",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "করাব",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "হরিনাকোনা",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "গনিপুর",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "কল্যাণপুর",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "আগাপুর",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "রাড়িশাল",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "যাদবপুর",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "বুল্লা",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "ছাতিয়ারকান্দি",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "গুয়াকান্দি",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "গোপালপুর",
+        "jl_no": "32",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "নিদনপুর",
+        "jl_no": "33",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "বালাকান্দি",
+        "jl_no": "34",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "নদীর উত্তর পাড়",
+        "jl_no": "35",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "বাগাইয়ার",
+        "jl_no": "36",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "সালদিঘা",
+        "jl_no": "37",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "তেঘরিয়া",
+        "jl_no": "38",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "শুনেশ্বর",
+        "jl_no": "39",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "সিংহগ্রাম",
+        "jl_no": "40",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "শুনেশ্বর চক",
+        "jl_no": "41",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "ধর্ম্মপুর",
+        "jl_no": "42",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "মশাদিয়া",
+        "jl_no": "43",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "বাদিকাড়া",
+        "jl_no": "44",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "নওয়াগাঁও",
+        "jl_no": "45",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "স্বজনগাঁও চক",
+        "jl_no": "46",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "রুহিতনশী",
+        "jl_no": "47",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      },
+      {
+        "mouza_name": "ইসলামপুর",
+        "jl_no": "48",
+        "survey": "BRS",
+        "upazila": "LAKHAI"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/5:/",
+      "district_drive_url": "https://free.mouzamap.tech/5:/Habiganj/",
+      "district_total_maps": 2390,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 30.487,
+      "catalog_github_path": "land/maps/Sylhet/Habiganj.json",
+      "online_folder_url": "https://free.mouzamap.tech/5:/Habiganj/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Habiganj",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Habiganj",
+        "phone": "01713-000052",
+        "email": "dchabiganj@mopa.gov.bd",
+        "website": "http://www.habiganj.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Habiganj",
+        "phone": "01713-373052",
+        "email": "sphabiganj@police.gov.bd",
+        "control_room": "01713-374052"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Habiganj",
+        "phone": "01713-555052",
+        "email": "cshabiganj@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "239",
+        "name": {
+          "en": "Hobigonj-1",
+          "bn": "হবিগঞ্জ-১"
+        },
+        "total_voters": 466921
+      },
+      {
+        "code": "240",
+        "name": {
+          "en": "Hobigonj-2",
+          "bn": "হবিগঞ্জ-২"
+        },
+        "total_voters": 394756
+      },
+      {
+        "code": "241",
+        "name": {
+          "en": "Hobigonj-3",
+          "bn": "হবিগঞ্জ-৩"
+        },
+        "total_voters": 419573
+      },
+      {
+        "code": "242",
+        "name": {
+          "en": "Hobigonj-4",
+          "bn": "হবিগঞ্জ-৪"
+        },
+        "total_voters": 552711
+      }
+    ],
+    "upazila_portal": "lakhai.habiganj.gov.bd",
+    "district_portal": "http://www.habiganj.gov.bd",
+    "union_portals_count": 6,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

@@ -1,1 +1,926 @@
-{"division": "Sylhet", "district": "Sylhet", "upazila": "Companiganj", "upazila_slug": "sylhet__sylhet__companiganj", "geography": {"division": "Sylhet", "division_bn": "সিলেট", "district": "Sylhet", "district_bn": "সিলেট", "district_lat": "24.8897956", "district_lon": "91.8697894", "upazila_id": "275", "upazila": "Companiganj", "upazila_bn": "কোম্পানীগঞ্জ", "official_url": "companiganj.sylhet.gov.bd", "total_unions": 6, "unions": [{"id": "2468", "name": "Telikhal", "bn_name": "তেলিখাল", "url": "telikhalup.sylhet.gov.bd"}, {"id": "2469", "name": "Islampur Paschim", "bn_name": "ইসলামপুর পশ্চিম", "url": "islampurpaschimup.sylhet.gov.bd"}, {"id": "2470", "name": "Islampur Purba", "bn_name": "ইসলামপুর পূর্ব", "url": "islampurpurbaup.sylhet.gov.bd"}, {"id": "2471", "name": "Isakalas", "bn_name": "ইসাকলস", "url": "isakalasup.sylhet.gov.bd"}, {"id": "2472", "name": "Uttor Ronikhai", "bn_name": "উত্তর রনিখাই", "url": "uttorronikhaiup.sylhet.gov.bd"}, {"id": "2473", "name": "Dakkin Ronikhai", "bn_name": "দক্ষিন রনিখাই", "url": "dakkinronikhaiup.sylhet.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 28, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 6, "postcodes_count": 0, "land_khatians_count": 25, "mouzas_count": 172}, "education": [{"eiin": "130235", "name": "M SAIFUR RAHMAN COLLEGE", "name_bn": "এম. সাইফুর রহমান কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01716072582", "email": "msaifurrahmancollege@yahoo.com", "teacher_count": 0, "file": "M SAIFUR RAHMAN COLLEGE.json"}, {"eiin": "138071", "name": "KOLAPARA JOGIRGAON DAKHIL MADRASAH", "name_bn": "কলাপাড়া যোগিরগাঁও দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01721423043", "email": "m138071@yahoo.com", "teacher_count": 0, "file": "KOLAPARA JOGIRGAON DAKHIL MADRASAH.json"}, {"eiin": "138070", "name": "NOTUN MEGHARGAON MADINATUL ULUM DAKHIL MADRASAH", "name_bn": "নতুন মেঘারগাঁও মদিনাতুল উলম দাখিল মাদ্র্রসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01712319893", "email": "nmdm138070@gmail.com", "teacher_count": 0, "file": "NOTUN MEGHARGAON MADINATUL ULUM DAKHIL MADRASAH.json"}, {"eiin": "130233", "name": "PARUA NOWAGOAN ISLAMIA DAKHIL MADRASHA", "name_bn": "পাড়ুয়া নোয়াগাঁও ইসলামিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01727551354", "email": "m13023365@gmail.com", "teacher_count": 0, "file": "PARUA NOWAGOAN ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "130234", "name": "KATHALBARI CHOWMUHANI BAZAR DAKHIL MADRASAH", "name_bn": "কাঁঠালবাড়ী চৌমুহনী বাজার আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01711300781", "email": "kcm130234@gmail.com", "teacher_count": 0, "file": "KATHALBARI CHOWMUHANI BAZAR DAKHIL MADRASAH.json"}, {"eiin": "138455", "name": "IMRAN AHMAD TECHNICAL COLLEGE", "name_bn": "ইমরান আহমদ কারিগরি(বিএম) কলেজ", "type": null, "level": null, "category": "other", "mobile": "01719949467", "email": null, "teacher_count": 0, "file": "IMRAN AHMAD TECHNICAL COLLEGE.json"}, {"eiin": "137216", "name": "KALAIRAG GOVT. PRIMARY SCHOOL", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01934676433", "email": null, "teacher_count": 0, "file": "KALAIRAG GOVT. PRIMARY SCHOOL.json"}, {"eiin": "140454", "name": "SHAH ANWAR R KAMARUL MILLAT DAKHIL MADRASAH", "name_bn": "শাহ আনোয়ার (রঃ) কামারুল মিল্লাত দাখিল মাদরাসা", "type": null, "level": null, "category": "other", "mobile": "01713813124", "email": null, "teacher_count": 0, "file": "SHAH ANWAR R KAMARUL MILLAT DAKHIL MADRASAH.json"}, {"eiin": "138752", "name": "BHOLAGONJ JUNIOR HIGH SCHOOL", "name_bn": "ভোলাগঞ্জ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01716217168", "email": "s138752@yahoo.com", "teacher_count": 63, "file": "BHOLAGONJ JUNIOR HIGH SCHOOL.json"}, {"eiin": "133931", "name": "BORNI JUNIOR HIGH SCHOOL", "name_bn": "বর্ণি উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715336205", "email": "srahman1086@gmail.com", "teacher_count": 121, "file": "BORNI JUNIOR HIGH SCHOOL.json"}, {"eiin": "130232", "name": "CHATIBOHOR JUNIOR SCHOOL", "name_bn": "চাটিবহর নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01712453377", "email": "chatibohorrabbi130232@gmail.com", "teacher_count": 70, "file": "CHATIBOHOR JUNIOR SCHOOL.json"}, {"eiin": "130222", "name": "CHHANBARI HIGH SCHOOL", "name_bn": "ছনবাড়ী উচ্চ বিয়ালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715250047", "email": "school130222@gmail.com", "teacher_count": 149, "file": "CHHANBARI HIGH SCHOOL.json"}, {"eiin": "130220", "name": "COMPANI GONJ THANA SADAR HIGH SCHOOL", "name_bn": "কোম্পানীগঞ্জ থানা সদর সরকারি মডেল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01920198408", "email": "companigonj632@gmail.com", "teacher_count": 195, "file": "COMPANI GONJ THANA SADAR HIGH SCHOOL.json"}, {"eiin": "139018", "name": "COMPANIGONJ JUNIOR GIRLS SCHOOL", "name_bn": "কোম্পানীগঞ্জ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01790061273", "email": "halim3140@gmail.com", "teacher_count": 64, "file": "COMPANIGONJ JUNIOR GIRLS SCHOOL.json"}, {"eiin": "130225", "name": "DHALAR PAR HIGH SCHOOL", "name_bn": "ঢালারপাড় উচচ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01917533398", "email": "dhalarparhschool@gmail.com", "teacher_count": 158, "file": "DHALAR PAR HIGH SCHOOL.json"}, {"eiin": "136854", "name": "DIGOL BAKERPAR FADERGAON JUNIOR SCHOOL", "name_bn": "দিঘলবাকেরপার ফেদারগাঁও উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716048102", "email": "dbpfgjs136854@gmail.com", "teacher_count": 96, "file": "DIGOL BAKERPAR FADERGAON JUNIOR SCHOOL.json"}, {"eiin": "130226", "name": "DOLOIR GOAN HIGH SCHOOL", "name_bn": "দলইর গাও উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01709903346", "email": "dghs130226@gmail.com", "teacher_count": 182, "file": "DOLOIR GOAN HIGH SCHOOL.json"}, {"eiin": "130230", "name": "KALABARI HIGH SCHOOL", "name_bn": "কলাবাড়ী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719428492", "email": "kalabarihs130230@gmail.com", "teacher_count": 124, "file": "KALABARI HIGH SCHOOL.json"}, {"eiin": "130227", "name": "PARKUL JUNIOR HIGH SCHOOL", "name_bn": "পারকুল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712357679", "email": "parkulhighschool@gmail.comu", "teacher_count": 98, "file": "PARKUL JUNIOR HIGH SCHOOL.json"}, {"eiin": "130231", "name": "PURNACHOGUM HIGH SCHOOL", "name_bn": "পূর্ণাছগাম উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718183233", "email": "purnachogum@gmail.com", "teacher_count": 130, "file": "PURNACHOGUM HIGH SCHOOL.json"}, {"eiin": "138304", "name": "PUTAMARA JUNIOR HIGH SCHOOL", "name_bn": "পুটামারা নিম্ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01726305756", "email": "mdabbaskhan002@gmail.com", "teacher_count": 46, "file": "PUTAMARA JUNIOR HIGH SCHOOL.json"}, {"eiin": "138468", "name": "RAJNOGOR NOTUN BAZAR JUNIOR HIGH SCHOOL", "name_bn": "রাজনগর নতুন বাজার নিন্ম মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01792141024", "email": "shafikulislam141024@gmail.com", "teacher_count": 77, "file": "RAJNOGOR NOTUN BAZAR JUNIOR HIGH SCHOOL.json"}, {"eiin": "130224", "name": "RANIKHAI HUMAYUN RASHID CHOWDHURY HIGH DCHOOL", "name_bn": "রণিখাই হুমায়ূন রশিদ চৌধুরী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01726573696", "email": "rhrchighschool@gmail.com", "teacher_count": 149, "file": "RANIKHAI HUMAYUN RASHID CHOWDHURY HIGH DCHOOL.json"}, {"eiin": "130229", "name": "SHIBPUR JUNIOR SCHOOL", "name_bn": "শিবপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715682021", "email": "shibpurh@gmail.com", "teacher_count": 92, "file": "SHIBPUR JUNIOR SCHOOL.json"}, {"eiin": "130228", "name": "TELIKHAL HIGH SCHOOL", "name_bn": "তেলিখাল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01756759762", "email": "telikhalhighschool1998@gmail.com", "teacher_count": 132, "file": "TELIKHAL HIGH SCHOOL.json"}, {"eiin": "130221", "name": "BHATRAI HIGH SCHOOL AND COLLEGE", "name_bn": "ভাটরাই উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01718388958", "email": "s130221@yahoo.com", "teacher_count": 0, "file": "BHATRAI HIGH SCHOOL AND COLLEGE.json"}, {"eiin": "130236", "name": "PARUA ANWARA HIGH SCHOOL & COLLEGE", "name_bn": "পাড়ুয়া আনোয়ারা উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01712875307", "email": "s130236@yahoo.com", "teacher_count": 0, "file": "PARUA ANWARA HIGH SCHOOL & COLLEGE.json"}, {"eiin": "130223", "name": "SHAHEED SMRITY TUKER BAZAR HIGH SCHOOL AND COLLEGE", "name_bn": "শহীদ স্মৃতি টুকের বাজার উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01724722152", "email": "sstbhsc130223@gmail.com", "teacher_count": 0, "file": "SHAHEED SMRITY TUKER BAZAR HIGH SCHOOL AND COLLEGE.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 172, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "2", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং অমর কুমার দাম,বিজয় কুমার দাম,রমারানী দেব", "dags": "364", "total_land": "2.4300"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং অমর চন্দ্র দাম,বিজয় কুমার দাম", "dags": "340,346,369,378,388", "total_land": "6.4700"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং অরুন কুমার সিংহ", "dags": "86,115,179,217,223,236,238,253,311", "total_land": "4.1600"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আফলাই বেগম", "dags": "328", "total_land": "0.4800"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আছিয়া বেগম,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ", "dags": "93", "total_land": "0.0100"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আজর আলী", "dags": "260,261,265,272", "total_land": "1.3300"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আজহর আলী,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ", "dags": "219,237,265,360", "total_land": "1.4200"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আজিজুল হক,জিয়াওল হক,মঞ্জুরুল হক", "dags": "351", "total_land": "0.6400"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আজির উদ্দিন,নাছির উদ্দিন,কছির উদ্দিন,তছির উদ্দিন,তালুকদারপাড়া", "dags": "344", "total_land": "0.6000"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আতাউর রহমান", "dags": "337", "total_land": "0.3000"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আনফর আলী,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ", "dags": "39,46", "total_land": "0.6200"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আনছার আলী,নীলু মিয়া,ফকর উদ্দিন,আব্দুল মমিন,জোৎস্না বেগম,নাজমা বেগম,আফছা বেগম,হাওরুন নেছা", "dags": "263,264,319", "total_land": "0‌.8600"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আনিছ আলী", "dags": "121,122", "total_land": "1.2500"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আনোয়ার হোসেন,মোক্তার হোসেন,ছারোয়ার হোসেন,ছানোয়ার হোসেন,শামীমা সুলতানা,আকলিমা সুলতানা,সালমা সুলতানা,রাবিয়া খাতুন,উপজেলা-ছাতক, জেলা-সুনামগঞ্জ", "dags": "44,198", "total_land": "1.2000"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আফাজ উদ্দিন,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ", "dags": "42,65,186,192,205,207,209", "total_land": "3.0700"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আপ্তাব আলী,লাল সিং", "dags": "266,296", "total_land": "0.8400"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আপ্তাব আলী,ইনতাজ আলী,মনতাজ আলী,আজমল আলী,চিংকহি সিং,বিরহরি সিং", "dags": "254,268,274,285,308,310,313,317", "total_land": "9.0000"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আপ্তাব মিয়া", "dags": "384", "total_land": "1.5000"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আব্দুন নুর", "dags": "288", "total_land": "0.1600"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "রতনপুর", "jl_no": "1", "owners": "দং আব্দুল আউয়াল,শাহীন আহম্মদ,হাসিম মিয়া,গফুর মিয়া,খালিক মিয়া,খলিল মিয়া", "dags": "31,218,280", "total_land": "1.0900"}], "sample_mouzas": [{"mouza_name": "রতনপুর", "jl_no": "1", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "নোয়াগাও", "jl_no": "2", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "চিকাঢুরা", "jl_no": "3", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "পাড়ুয়া", "jl_no": "4", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "শিমুলতলা", "jl_no": "5", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "তৈমুর নগর", "jl_no": "6", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "কালাসাদক ", "jl_no": "7", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "ভাটরাই", "jl_no": "8", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "কালাইরাগ ", "jl_no": "9", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "নাজিরারগাঁও", "jl_no": "10", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "বরম সিদ্ধিপুর ", "jl_no": "11", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "বিজয় পাড়ুয়া", "jl_no": "12", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "বনপুর", "jl_no": "13", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "লামাগাম", "jl_no": "14", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "তুরং", "jl_no": "15", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "লামাগাম হাওর", "jl_no": "16", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "রায়পুর", "jl_no": "17", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "উত্তর জাঙ্গাইল", "jl_no": "18", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "বিজয় পাড়ুয়া হাওর", "jl_no": "19", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "নোয়াগাঁও", "jl_no": "20", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "রনিখাই", "jl_no": "22", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "বতুমারা", "jl_no": "23", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "সালদিগরকান্দি", "jl_no": "24", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "বেকিমুরারপার", "jl_no": "25", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "কাকুরাইল", "jl_no": "26", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "মনুরপাড়", "jl_no": "27", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "ললিকান্দি", "jl_no": "28", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "দীঘল বাঁকের পার", "jl_no": "29", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "ফেদারগাম", "jl_no": "30", "survey": "BRS", "upazila": "COMPANIGANJ"}, {"mouza_name": "মেঘারগাঁও ", "jl_no": "31", "survey": "BRS", "upazila": "COMPANIGANJ"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1UCORiXQd32BoG3XpJJhmvL8-TxjHQQsi", "district_drive_url": "https://drive.google.com/drive/folders/1MGpEIbAXqPscMLcfUrWjg8_9aGIk1U2A", "district_total_maps": 4398, "district_uploaded_maps": 0, "district_total_gb": 54.549, "catalog_github_path": "land/maps/Sylhet/Sylhet.json"}}, "governance": {"administration": {"district": "Sylhet", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Sylhet", "phone": "01713-000005", "email": "dcsylhet@mopa.gov.bd", "website": "http://www.sylhet.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Sylhet", "phone": "01713-373005", "email": "spsylhet@police.gov.bd", "control_room": "01713-374005"}, "civil_surgeon_office": {"title": "Civil Surgeon, Sylhet", "phone": "01713-555005", "email": "cssylhet@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "229", "name": {"en": "Sylhet-1", "bn": "সিলেট-১"}, "total_voters": 680946}, {"code": "230", "name": {"en": "Sylhet-2", "bn": "সিলেট-২"}, "total_voters": 368932}, {"code": "231", "name": {"en": "Sylhet-3", "bn": "সিলেট-৩"}, "total_voters": 416000}, {"code": "232", "name": {"en": "Sylhet-4", "bn": "সিলেট-৪"}, "total_voters": 512933}, {"code": "233", "name": {"en": "Sylhet-5", "bn": "সিলেট-৫"}, "total_voters": 428748}, {"code": "234", "name": {"en": "Sylhet-6", "bn": "সিলেট-৬"}, "total_voters": 509093}], "upazila_portal": "companiganj.sylhet.gov.bd", "district_portal": "http://www.sylhet.gov.bd", "union_portals_count": 6, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Sylhet",
+  "district": "Sylhet",
+  "upazila": "Companiganj",
+  "upazila_slug": "sylhet__sylhet__companiganj",
+  "geography": {
+    "division": "Sylhet",
+    "division_bn": "সিলেট",
+    "district": "Sylhet",
+    "district_bn": "সিলেট",
+    "district_lat": "24.8897956",
+    "district_lon": "91.8697894",
+    "upazila_id": "275",
+    "upazila": "Companiganj",
+    "upazila_bn": "কোম্পানীগঞ্জ",
+    "official_url": "companiganj.sylhet.gov.bd",
+    "total_unions": 6,
+    "unions": [
+      {
+        "id": "2468",
+        "name": "Telikhal",
+        "bn_name": "তেলিখাল",
+        "url": "telikhalup.sylhet.gov.bd"
+      },
+      {
+        "id": "2469",
+        "name": "Islampur Paschim",
+        "bn_name": "ইসলামপুর পশ্চিম",
+        "url": "islampurpaschimup.sylhet.gov.bd"
+      },
+      {
+        "id": "2470",
+        "name": "Islampur Purba",
+        "bn_name": "ইসলামপুর পূর্ব",
+        "url": "islampurpurbaup.sylhet.gov.bd"
+      },
+      {
+        "id": "2471",
+        "name": "Isakalas",
+        "bn_name": "ইসাকলস",
+        "url": "isakalasup.sylhet.gov.bd"
+      },
+      {
+        "id": "2472",
+        "name": "Uttor Ronikhai",
+        "bn_name": "উত্তর রনিখাই",
+        "url": "uttorronikhaiup.sylhet.gov.bd"
+      },
+      {
+        "id": "2473",
+        "name": "Dakkin Ronikhai",
+        "bn_name": "দক্ষিন রনিখাই",
+        "url": "dakkinronikhaiup.sylhet.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 28,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 6,
+    "postcodes_count": 0,
+    "land_khatians_count": 25,
+    "mouzas_count": 172
+  },
+  "education": [
+    {
+      "eiin": "130235",
+      "name": "M SAIFUR RAHMAN COLLEGE",
+      "name_bn": "এম. সাইফুর রহমান কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01716072582",
+      "email": "msaifurrahmancollege@yahoo.com",
+      "teacher_count": 0,
+      "file": "M SAIFUR RAHMAN COLLEGE.json"
+    },
+    {
+      "eiin": "138071",
+      "name": "KOLAPARA JOGIRGAON DAKHIL MADRASAH",
+      "name_bn": "কলাপাড়া যোগিরগাঁও দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01721423043",
+      "email": "m138071@yahoo.com",
+      "teacher_count": 0,
+      "file": "KOLAPARA JOGIRGAON DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "138070",
+      "name": "NOTUN MEGHARGAON MADINATUL ULUM DAKHIL MADRASAH",
+      "name_bn": "নতুন মেঘারগাঁও মদিনাতুল উলম দাখিল মাদ্র্রসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01712319893",
+      "email": "nmdm138070@gmail.com",
+      "teacher_count": 0,
+      "file": "NOTUN MEGHARGAON MADINATUL ULUM DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "130233",
+      "name": "PARUA NOWAGOAN ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "পাড়ুয়া নোয়াগাঁও ইসলামিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01727551354",
+      "email": "m13023365@gmail.com",
+      "teacher_count": 0,
+      "file": "PARUA NOWAGOAN ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "130234",
+      "name": "KATHALBARI CHOWMUHANI BAZAR DAKHIL MADRASAH",
+      "name_bn": "কাঁঠালবাড়ী চৌমুহনী বাজার আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01711300781",
+      "email": "kcm130234@gmail.com",
+      "teacher_count": 0,
+      "file": "KATHALBARI CHOWMUHANI BAZAR DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "138455",
+      "name": "IMRAN AHMAD TECHNICAL COLLEGE",
+      "name_bn": "ইমরান আহমদ কারিগরি(বিএম) কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01719949467",
+      "email": null,
+      "teacher_count": 0,
+      "file": "IMRAN AHMAD TECHNICAL COLLEGE.json"
+    },
+    {
+      "eiin": "137216",
+      "name": "KALAIRAG GOVT. PRIMARY SCHOOL",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01934676433",
+      "email": null,
+      "teacher_count": 0,
+      "file": "KALAIRAG GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "140454",
+      "name": "SHAH ANWAR R KAMARUL MILLAT DAKHIL MADRASAH",
+      "name_bn": "শাহ আনোয়ার (রঃ) কামারুল মিল্লাত দাখিল মাদরাসা",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01713813124",
+      "email": null,
+      "teacher_count": 0,
+      "file": "SHAH ANWAR R KAMARUL MILLAT DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "138752",
+      "name": "BHOLAGONJ JUNIOR HIGH SCHOOL",
+      "name_bn": "ভোলাগঞ্জ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01716217168",
+      "email": "s138752@yahoo.com",
+      "teacher_count": 63,
+      "file": "BHOLAGONJ JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "133931",
+      "name": "BORNI JUNIOR HIGH SCHOOL",
+      "name_bn": "বর্ণি উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715336205",
+      "email": "srahman1086@gmail.com",
+      "teacher_count": 121,
+      "file": "BORNI JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130232",
+      "name": "CHATIBOHOR JUNIOR SCHOOL",
+      "name_bn": "চাটিবহর নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01712453377",
+      "email": "chatibohorrabbi130232@gmail.com",
+      "teacher_count": 70,
+      "file": "CHATIBOHOR JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "130222",
+      "name": "CHHANBARI HIGH SCHOOL",
+      "name_bn": "ছনবাড়ী উচ্চ বিয়ালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715250047",
+      "email": "school130222@gmail.com",
+      "teacher_count": 149,
+      "file": "CHHANBARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130220",
+      "name": "COMPANI GONJ THANA SADAR HIGH SCHOOL",
+      "name_bn": "কোম্পানীগঞ্জ থানা সদর সরকারি মডেল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01920198408",
+      "email": "companigonj632@gmail.com",
+      "teacher_count": 195,
+      "file": "COMPANI GONJ THANA SADAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "139018",
+      "name": "COMPANIGONJ JUNIOR GIRLS SCHOOL",
+      "name_bn": "কোম্পানীগঞ্জ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01790061273",
+      "email": "halim3140@gmail.com",
+      "teacher_count": 64,
+      "file": "COMPANIGONJ JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "130225",
+      "name": "DHALAR PAR HIGH SCHOOL",
+      "name_bn": "ঢালারপাড় উচচ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01917533398",
+      "email": "dhalarparhschool@gmail.com",
+      "teacher_count": 158,
+      "file": "DHALAR PAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "136854",
+      "name": "DIGOL BAKERPAR FADERGAON JUNIOR SCHOOL",
+      "name_bn": "দিঘলবাকেরপার ফেদারগাঁও উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716048102",
+      "email": "dbpfgjs136854@gmail.com",
+      "teacher_count": 96,
+      "file": "DIGOL BAKERPAR FADERGAON JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "130226",
+      "name": "DOLOIR GOAN HIGH SCHOOL",
+      "name_bn": "দলইর গাও উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01709903346",
+      "email": "dghs130226@gmail.com",
+      "teacher_count": 182,
+      "file": "DOLOIR GOAN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130230",
+      "name": "KALABARI HIGH SCHOOL",
+      "name_bn": "কলাবাড়ী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719428492",
+      "email": "kalabarihs130230@gmail.com",
+      "teacher_count": 124,
+      "file": "KALABARI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130227",
+      "name": "PARKUL JUNIOR HIGH SCHOOL",
+      "name_bn": "পারকুল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712357679",
+      "email": "parkulhighschool@gmail.comu",
+      "teacher_count": 98,
+      "file": "PARKUL JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130231",
+      "name": "PURNACHOGUM HIGH SCHOOL",
+      "name_bn": "পূর্ণাছগাম উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718183233",
+      "email": "purnachogum@gmail.com",
+      "teacher_count": 130,
+      "file": "PURNACHOGUM HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "138304",
+      "name": "PUTAMARA JUNIOR HIGH SCHOOL",
+      "name_bn": "পুটামারা নিম্ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01726305756",
+      "email": "mdabbaskhan002@gmail.com",
+      "teacher_count": 46,
+      "file": "PUTAMARA JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "138468",
+      "name": "RAJNOGOR NOTUN BAZAR JUNIOR HIGH SCHOOL",
+      "name_bn": "রাজনগর নতুন বাজার নিন্ম মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01792141024",
+      "email": "shafikulislam141024@gmail.com",
+      "teacher_count": 77,
+      "file": "RAJNOGOR NOTUN BAZAR JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130224",
+      "name": "RANIKHAI HUMAYUN RASHID CHOWDHURY HIGH DCHOOL",
+      "name_bn": "রণিখাই হুমায়ূন রশিদ চৌধুরী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01726573696",
+      "email": "rhrchighschool@gmail.com",
+      "teacher_count": 149,
+      "file": "RANIKHAI HUMAYUN RASHID CHOWDHURY HIGH DCHOOL.json"
+    },
+    {
+      "eiin": "130229",
+      "name": "SHIBPUR JUNIOR SCHOOL",
+      "name_bn": "শিবপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715682021",
+      "email": "shibpurh@gmail.com",
+      "teacher_count": 92,
+      "file": "SHIBPUR JUNIOR SCHOOL.json"
+    },
+    {
+      "eiin": "130228",
+      "name": "TELIKHAL HIGH SCHOOL",
+      "name_bn": "তেলিখাল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01756759762",
+      "email": "telikhalhighschool1998@gmail.com",
+      "teacher_count": 132,
+      "file": "TELIKHAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "130221",
+      "name": "BHATRAI HIGH SCHOOL AND COLLEGE",
+      "name_bn": "ভাটরাই উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01718388958",
+      "email": "s130221@yahoo.com",
+      "teacher_count": 0,
+      "file": "BHATRAI HIGH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "130236",
+      "name": "PARUA ANWARA HIGH SCHOOL & COLLEGE",
+      "name_bn": "পাড়ুয়া আনোয়ারা উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01712875307",
+      "email": "s130236@yahoo.com",
+      "teacher_count": 0,
+      "file": "PARUA ANWARA HIGH SCHOOL & COLLEGE.json"
+    },
+    {
+      "eiin": "130223",
+      "name": "SHAHEED SMRITY TUKER BAZAR HIGH SCHOOL AND COLLEGE",
+      "name_bn": "শহীদ স্মৃতি টুকের বাজার উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01724722152",
+      "email": "sstbhsc130223@gmail.com",
+      "teacher_count": 0,
+      "file": "SHAHEED SMRITY TUKER BAZAR HIGH SCHOOL AND COLLEGE.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 172,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং অমর কুমার দাম,বিজয় কুমার দাম,রমারানী দেব",
+        "dags": "364",
+        "total_land": "2.4300"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং অমর চন্দ্র দাম,বিজয় কুমার দাম",
+        "dags": "340,346,369,378,388",
+        "total_land": "6.4700"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং অরুন কুমার সিংহ",
+        "dags": "86,115,179,217,223,236,238,253,311",
+        "total_land": "4.1600"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আফলাই বেগম",
+        "dags": "328",
+        "total_land": "0.4800"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আছিয়া বেগম,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ",
+        "dags": "93",
+        "total_land": "0.0100"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আজর আলী",
+        "dags": "260,261,265,272",
+        "total_land": "1.3300"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আজহর আলী,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ",
+        "dags": "219,237,265,360",
+        "total_land": "1.4200"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আজিজুল হক,জিয়াওল হক,মঞ্জুরুল হক",
+        "dags": "351",
+        "total_land": "0.6400"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আজির উদ্দিন,নাছির উদ্দিন,কছির উদ্দিন,তছির উদ্দিন,তালুকদারপাড়া",
+        "dags": "344",
+        "total_land": "0.6000"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আতাউর রহমান",
+        "dags": "337",
+        "total_land": "0.3000"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আনফর আলী,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ",
+        "dags": "39,46",
+        "total_land": "0.6200"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আনছার আলী,নীলু মিয়া,ফকর উদ্দিন,আব্দুল মমিন,জোৎস্না বেগম,নাজমা বেগম,আফছা বেগম,হাওরুন নেছা",
+        "dags": "263,264,319",
+        "total_land": "0‌.8600"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আনিছ আলী",
+        "dags": "121,122",
+        "total_land": "1.2500"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আনোয়ার হোসেন,মোক্তার হোসেন,ছারোয়ার হোসেন,ছানোয়ার হোসেন,শামীমা সুলতানা,আকলিমা সুলতানা,সালমা সুলতানা,রাবিয়া খাতুন,উপজেলা-ছাতক, জেলা-সুনামগঞ্জ",
+        "dags": "44,198",
+        "total_land": "1.2000"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আফাজ উদ্দিন,উপজেলা-ছাতক,জেলা-সুনামগঞ্জ",
+        "dags": "42,65,186,192,205,207,209",
+        "total_land": "3.0700"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আপ্তাব আলী,লাল সিং",
+        "dags": "266,296",
+        "total_land": "0.8400"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আপ্তাব আলী,ইনতাজ আলী,মনতাজ আলী,আজমল আলী,চিংকহি সিং,বিরহরি সিং",
+        "dags": "254,268,274,285,308,310,313,317",
+        "total_land": "9.0000"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আপ্তাব মিয়া",
+        "dags": "384",
+        "total_land": "1.5000"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আব্দুন নুর",
+        "dags": "288",
+        "total_land": "0.1600"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "owners": "দং আব্দুল আউয়াল,শাহীন আহম্মদ,হাসিম মিয়া,গফুর মিয়া,খালিক মিয়া,খলিল মিয়া",
+        "dags": "31,218,280",
+        "total_land": "1.0900"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "রতনপুর",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "নোয়াগাও",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "চিকাঢুরা",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "পাড়ুয়া",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "শিমুলতলা",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "তৈমুর নগর",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "কালাসাদক ",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "ভাটরাই",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "কালাইরাগ ",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "নাজিরারগাঁও",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "বরম সিদ্ধিপুর ",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "বিজয় পাড়ুয়া",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "বনপুর",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "লামাগাম",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "তুরং",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "লামাগাম হাওর",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "রায়পুর",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "উত্তর জাঙ্গাইল",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "বিজয় পাড়ুয়া হাওর",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "নোয়াগাঁও",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "রনিখাই",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "বতুমারা",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "সালদিগরকান্দি",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "বেকিমুরারপার",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "কাকুরাইল",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "মনুরপাড়",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "ললিকান্দি",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "দীঘল বাঁকের পার",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "ফেদারগাম",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      },
+      {
+        "mouza_name": "মেঘারগাঁও ",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "COMPANIGANJ"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/5:/",
+      "district_drive_url": "https://free.mouzamap.tech/5:/Sylhet/",
+      "district_total_maps": 4398,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 54.549,
+      "catalog_github_path": "land/maps/Sylhet/Sylhet.json",
+      "online_folder_url": "https://free.mouzamap.tech/5:/Sylhet/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Sylhet",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Sylhet",
+        "phone": "01713-000005",
+        "email": "dcsylhet@mopa.gov.bd",
+        "website": "http://www.sylhet.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Sylhet",
+        "phone": "01713-373005",
+        "email": "spsylhet@police.gov.bd",
+        "control_room": "01713-374005"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Sylhet",
+        "phone": "01713-555005",
+        "email": "cssylhet@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "229",
+        "name": {
+          "en": "Sylhet-1",
+          "bn": "সিলেট-১"
+        },
+        "total_voters": 680946
+      },
+      {
+        "code": "230",
+        "name": {
+          "en": "Sylhet-2",
+          "bn": "সিলেট-২"
+        },
+        "total_voters": 368932
+      },
+      {
+        "code": "231",
+        "name": {
+          "en": "Sylhet-3",
+          "bn": "সিলেট-৩"
+        },
+        "total_voters": 416000
+      },
+      {
+        "code": "232",
+        "name": {
+          "en": "Sylhet-4",
+          "bn": "সিলেট-৪"
+        },
+        "total_voters": 512933
+      },
+      {
+        "code": "233",
+        "name": {
+          "en": "Sylhet-5",
+          "bn": "সিলেট-৫"
+        },
+        "total_voters": 428748
+      },
+      {
+        "code": "234",
+        "name": {
+          "en": "Sylhet-6",
+          "bn": "সিলেট-৬"
+        },
+        "total_voters": 509093
+      }
+    ],
+    "upazila_portal": "companiganj.sylhet.gov.bd",
+    "district_portal": "http://www.sylhet.gov.bd",
+    "union_portals_count": 6,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

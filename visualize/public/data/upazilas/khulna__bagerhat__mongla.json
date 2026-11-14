@@ -1,1 +1,1003 @@
-{"division": "Khulna", "district": "Bagerhat", "upazila": "Mongla", "upazila_slug": "khulna__bagerhat__mongla", "geography": {"division": "Khulna", "division_bn": "খুলনা", "district": "Bagerhat", "district_bn": "বাগেরহাট", "district_lat": "22.651568", "district_lon": "89.785938", "upazila_id": "222", "upazila": "Mongla", "upazila_bn": "মোংলা", "official_url": "mongla.bagerhat.gov.bd", "total_unions": 6, "unions": [{"id": "2007", "name": "Burrirdangga", "bn_name": "বুড়িরডাঙ্গা", "url": "burrirdanggaup.bagerhat.gov.bd"}, {"id": "2008", "name": "Mithakhali", "bn_name": "মিঠাখালী", "url": "mithakhaliup.bagerhat.gov.bd"}, {"id": "2009", "name": "Sonailtala", "bn_name": "সোনাইলতলা", "url": "sonailtalaup.bagerhat.gov.bd"}, {"id": "2010", "name": "Chadpai", "bn_name": "চাঁদপাই", "url": "chadpaiup.bagerhat.gov.bd"}, {"id": "2011", "name": "Chila", "bn_name": "চিলা", "url": "chilaup.bagerhat.gov.bd"}, {"id": "2012", "name": "Sundarban", "bn_name": "সুন্দরবন", "url": "sundarbanup.bagerhat.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 50, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 6, "postcodes_count": 0, "land_khatians_count": 1, "mouzas_count": 125}, "education": [{"eiin": "114875", "name": "BANGABANDHU MOHILA GOVT. COLLEGE", "name_bn": "মোংলা সরকারি মহিলা কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01712632639", "email": "bmc_mongla@yahoo.com", "teacher_count": 0, "file": "BANGABANDHU MOHILA GOVT. COLLEGE.json"}, {"eiin": "115022", "name": "DIGRAJ DEGREE MAHAVIDYALAYA", "name_bn": "দিগরাজ ডিগ্রি মহাবিদ্যালয়", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01718871096", "email": "collegedigraj@yahoo.com", "teacher_count": 0, "file": "DIGRAJ DEGREE MAHAVIDYALAYA.json"}, {"eiin": "115021", "name": "GOVT. MONGLA COLLEGE", "name_bn": "মোংলা সরকারি কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01716169516", "email": "collegemongla@yahoo.com", "teacher_count": 0, "file": "GOVT. MONGLA COLLEGE.json"}, {"eiin": "136505", "name": "AL HAZZ SHAIKH AFSAR UDDIN MOHILA DAKHIL MADRASAH", "name_bn": "আল-হাজ্ব শেখ আফছার উদ্দীন মহিলা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01982861876", "email": "alhajafsaruddinmadrasa@gmil.com", "teacher_count": 0, "file": "AL HAZZ SHAIKH AFSAR UDDIN MOHILA DAKHIL MADRASAH.json"}, {"eiin": "115020", "name": "ARAZEE MAKORDHON ISLAMIA DAKHIL MADRASAH", "name_bn": "আরাজী মাকোড়ঢোন ইসলামিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01717195972", "email": "arazeemidm115020@gmail.com", "teacher_count": 0, "file": "ARAZEE MAKORDHON ISLAMIA DAKHIL MADRASAH.json"}, {"eiin": "115016", "name": "CHANDPAI PIR MESER SHAH DAKHIL MADRASAH", "name_bn": "চাঁদপাই পীর মেছের শাহ দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714848473", "email": "cpmdakhilmadrasa@gmail.com", "teacher_count": 0, "file": "CHANDPAI PIR MESER SHAH DAKHIL MADRASAH.json"}, {"eiin": "115013", "name": "CHOWRI DANGA AHMADIA DAKHIL MADRASAH", "name_bn": "চৌরিডাংগা আহমাদিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01892318989", "email": "chauridangamadrasha@gmail.com", "teacher_count": 0, "file": "CHOWRI DANGA AHMADIA DAKHIL MADRASAH.json"}, {"eiin": "115015", "name": "DAKHIN CHILA SIDDIKIA AHMADIA DAKHIL MADRASAH", "name_bn": "দক্ষিন চিলা সিদ্দিকিয়া আহম্মদিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01937280697", "email": "dakhinchila115015@gmail.com", "teacher_count": 0, "file": "DAKHIN CHILA SIDDIKIA AHMADIA DAKHIL MADRASAH.json"}, {"eiin": "115014", "name": "DIGRAJ ISLAMIA DAKHIL MADRASAH", "name_bn": "দিগরাজ ইসলামিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01720296557", "email": "digrajmadrasah1980@gmail.com", "teacher_count": 0, "file": "DIGRAJ ISLAMIA DAKHIL MADRASAH.json"}, {"eiin": "131635", "name": "KOCHUBUNIA DARUS SUNNAT DAKHIL MADRASAH", "name_bn": "কচুবুনিয়া দারুস্ সুন্নাত দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01712405339", "email": "kochubunia131635@gmail.com", "teacher_count": 0, "file": "KOCHUBUNIA DARUS SUNNAT DAKHIL MADRASAH.json"}, {"eiin": "115019", "name": "SHEIKH FAZILATUNNESA MOHILA DAKHIL MADRASAH", "name_bn": "শেখ ফজিলাতুন্নেছা মহিলা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01916526663", "email": "skfmohilamadrasha@gmail.com", "teacher_count": 0, "file": "SHEIKH FAZILATUNNESA MOHILA DAKHIL MADRASAH.json"}, {"eiin": "115012", "name": "SONAIL TALA A B S DAKHIL MADRASAH", "name_bn": "সোনাইলতলা এ,বি,এস দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01989132598", "email": "sonailtalaabsdm57@gmail.com", "teacher_count": 0, "file": "SONAIL TALA A B S DAKHIL MADRASAH.json"}, {"eiin": "115010", "name": "AL-HAZ KORBAN ALI ALIM MADRASHA", "name_bn": "আলহাজ্ব কোরবান আলী আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01711038421", "email": "akammongla@gmail.com", "teacher_count": 0, "file": "AL-HAZ KORBAN ALI ALIM MADRASHA.json"}, {"eiin": "115011", "name": "CHALNA BANDAR FAZIL MADRASAH", "name_bn": "চালনা বন্দর ফাযিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01711365296", "email": "chalnabandorfazilmadrasah@gmail.com", "teacher_count": 0, "file": "CHALNA BANDAR FAZIL MADRASAH.json"}, {"eiin": "115017", "name": "MADUR PALTA NEAZ MAKHDUM ALIM MADRASAH", "name_bn": "মাদুরপাল্টা নিয়াজ মাখদুম আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01719482233", "email": "nmamadrasah2@gmail.com", "teacher_count": 0, "file": "MADUR PALTA NEAZ MAKHDUM ALIM MADRASAH.json"}, {"eiin": "115018", "name": "MOHSINA ALIM MADRASAH", "name_bn": "মোহসিনিয়া আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01925296657", "email": "mohsiniaalim@gmail.com", "teacher_count": 0, "file": "MOHSINA ALIM MADRASAH.json"}, {"eiin": "135723", "name": "CREATIVE COMPUTER TRAINING CENTRE", "name_bn": "ক্রিয়েটিভ কম্পিউটার ট্রেনিং সেন্টার", "type": null, "level": null, "category": "other", "mobile": "01718767903", "email": null, "teacher_count": 0, "file": "CREATIVE COMPUTER TRAINING CENTRE.json"}, {"eiin": "135724", "name": "MEMORY COMPUTER PROSHIKKHON ACADEMY", "name_bn": "মেমোরী কম্পিউটার প্রশিক্ষণ একাডেমি", "type": null, "level": null, "category": "other", "mobile": "01729995556", "email": null, "teacher_count": 0, "file": "MEMORY COMPUTER PROSHIKKHON ACADEMY.json"}, {"eiin": "139800", "name": "MONGLA GOVT TECHNICAL SCHOOL COLLEGE MONGLA BAGERHAT", "name_bn": "মোংলা সরকারি টেকনিক্যাল স্কুল ও কলেজ, মোংলা, বাগেরহাট ।", "type": null, "level": null, "category": "other", "mobile": "01553438737", "email": null, "teacher_count": 0, "file": "MONGLA GOVT TECHNICAL SCHOOL COLLEGE MONGLA BAGERHAT.json"}, {"eiin": "132745", "name": "MONGLA TECHNICAL AND BUSINESS MANAGEMENT COLLEGE", "name_bn": "মংলা টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01718221252", "email": null, "teacher_count": 0, "file": "MONGLA TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "137919", "name": "DIGANTO PROKALPO GOVT. PRIMARY SCHOOL", "name_bn": null, "type": "SCHOOL", "level": "Govt. Primary (pre to Five)", "category": "primary_school", "mobile": "01718832100", "email": null, "teacher_count": 59, "file": "DIGANTO PROKALPO GOVT. PRIMARY SCHOOL.json"}, {"eiin": "137443", "name": "UTTAR BANSHTALA GOVT. PRIMARY SCHOOL", "name_bn": "উত্তর বাঁশতলা সরকারি প্রাথমিক বিদ্যালয়", "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01996666470", "email": "uttarbanshtalagps@gmail.com", "teacher_count": 79, "file": "UTTAR BANSHTALA GOVT. PRIMARY SCHOOL.json"}, {"eiin": "115003", "name": "AMRATALA CHAPRA SECONDARY SCHOOL", "name_bn": "আমড়াতলা চাঁপড়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01913337593", "email": "amratalachaprasschool77@gmail.com", "teacher_count": 184, "file": "AMRATALA CHAPRA SECONDARY SCHOOL.json"}, {"eiin": "114995", "name": "AZIZ BHATTI HIGH SCHOOL", "name_bn": "আজিজ ভাট্টি মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01918616784", "email": "azizvhattimongla66@gmail.com", "teacher_count": 213, "file": "AZIZ BHATTI HIGH SCHOOL.json"}, {"eiin": "114990", "name": "BURBURIA HIGH SCHOOL", "name_bn": "বুড়বুড়িয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01916078846", "email": "burburiahighschool2015@gmail.com", "teacher_count": 172, "file": "BURBURIA HIGH SCHOOL.json"}, {"eiin": "115008", "name": "BURIR DANGA SECONDARY GIRLS SCHOOL", "name_bn": "বুড়িরডাঙ্গা মাধ্যমিক বালিকা বিদ্যালয়।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719481560", "email": "prodipgolder1970@gmail.com", "teacher_count": 162, "file": "BURIR DANGA SECONDARY GIRLS SCHOOL.json"}, {"eiin": "114993", "name": "BURIRDANGA SECONDARY SCHOOL", "name_bn": "বুড়িরডাংগা মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715042880", "email": "burirdangahighschool63@gmail.com", "teacher_count": 210, "file": "BURIRDANGA SECONDARY SCHOOL.json"}, {"eiin": "114986", "name": "CHALNA BANDAR SECONDARY SCHOOL", "name_bn": "চালনা বন্দর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715448042", "email": "chalnabandarmss@gmail.com", "teacher_count": 236, "file": "CHALNA BANDAR SECONDARY SCHOOL.json"}, {"eiin": "114998", "name": "CHANDPAI MESERSHAH SECONDARY SCHOOL", "name_bn": "চাঁদপাই মেছেরশাহ্ মাধ্যমিক বিদ্যালয়।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01911135531", "email": "chandpaihighschool1972@gmail.com", "teacher_count": 215, "file": "CHANDPAI MESERSHAH SECONDARY SCHOOL.json"}, {"eiin": "115002", "name": "CHILA MANU MIA HIGH SCHOOL", "name_bn": "চিলা মনুমিয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01914883440", "email": "chilamanumia@gmail.com", "teacher_count": 191, "file": "CHILA MANU MIA HIGH SCHOOL.json"}, {"eiin": "114991", "name": "DIGRAJ HIGH SCHOOL", "name_bn": "দিগরাজ মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715143216", "email": "digrajhighschool@gmail.com", "teacher_count": 249, "file": "DIGRAJ HIGH SCHOOL.json"}, {"eiin": "114985", "name": "DOCK SRAMIC HIGH SCHOOL", "name_bn": "ডক শ্রমিক উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01711397353", "email": "advhossain671@gmail.com", "teacher_count": 139, "file": "DOCK SRAMIC HIGH SCHOOL.json"}, {"eiin": "115024", "name": "EUNUS ALI SECONDARY SCHOOL", "name_bn": "ইউনুছ আলী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01925060226", "email": "eass.mon@gmail.com", "teacher_count": 196, "file": "EUNUS ALI SECONDARY SCHOOL.json"}, {"eiin": "115001", "name": "G M S HIGH SCHOOL", "name_bn": "জি এম এস মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01925621463", "email": "gmsschool8@gmail.com", "teacher_count": 194, "file": "G M S HIGH SCHOOL.json"}, {"eiin": "114997", "name": "HALDIBUNIA HIGH SCHOOL", "name_bn": "হলদিবুনিয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01936616603", "email": "haldibuniasecondaryschool@gmail.com", "teacher_count": 216, "file": "HALDIBUNIA HIGH SCHOOL.json"}, {"eiin": "115006", "name": "ISLAMI ADARSHA ACADEMY SECONDARY SCHOOL", "name_bn": "ইসলামী আদর্শ একাডেমী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01616669343", "email": "academyschoolmongla@gmail.com", "teacher_count": 198, "file": "ISLAMI ADARSHA ACADEMY SECONDARY SCHOOL.json"}, {"eiin": "114994", "name": "ISMAIL MEMORIAL HIGH SCHOOL", "name_bn": "ইসমাইল মেমোরিয়াল মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01935782936", "email": "ismailmemorial@gmail.com", "teacher_count": 178, "file": "ISMAIL MEMORIAL HIGH SCHOOL.json"}, {"eiin": "114999", "name": "JOYMONI SECONDARY SCHOOL", "name_bn": "জয়মনি মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01971282931", "email": "joymonischool1974@gmail.com", "teacher_count": 215, "file": "JOYMONI SECONDARY SCHOOL.json"}, {"eiin": "114992", "name": "KHASERDANGA A B S SECONDARY SCHOOL", "name_bn": "খাসেরডাঙ্গা আবুু বকর সিদ্দিক মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715309172", "email": "www.khaabsssmongla@gmail.com", "teacher_count": 188, "file": "KHASERDANGA A B S SECONDARY SCHOOL.json"}, {"eiin": "114996", "name": "MALGAZI GIRLS HIGH SCHOOL", "name_bn": "মালগাজী মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714514912", "email": "malgazisgs1968@gmail.com", "teacher_count": 209, "file": "MALGAZI GIRLS HIGH SCHOOL.json"}, {"eiin": "115004", "name": "MD ISMAIL HIGH SCHOOL", "name_bn": "মোঃ ইসমাইল মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718002389", "email": "mdismailschool3@gmail.com", "teacher_count": 202, "file": "MD ISMAIL HIGH SCHOOL.json"}, {"eiin": "115025", "name": "MONGLA BANDAR SECONDARY SCHOOL", "name_bn": "মোংলা বন্দর মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712574610", "email": "mbsschool.mpaa@gmail.com", "teacher_count": 296, "file": "MONGLA BANDAR SECONDARY SCHOOL.json"}, {"eiin": "115005", "name": "MONGLA GIRLS HIGH SCHOOL", "name_bn": "মোংলা উচ্চ বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01912546323", "email": "monglagirls@gmail.com", "teacher_count": 234, "file": "MONGLA GIRLS HIGH SCHOOL.json"}, {"eiin": "115009", "name": "SABED KAHN SECONDARY SCHOOL", "name_bn": "ছবেদ খান মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717242727", "email": "sabedkhanhighschool1998@gmail.com", "teacher_count": 200, "file": "SABED KAHN SECONDARY SCHOOL.json"}, {"eiin": "115000", "name": "SANTIMAYEE JUNIOR GIRLS HIGH SCHOOL", "name_bn": "শান্তিময়ী নিম্ন মধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01715645122", "email": "santimayeeschool@gmail.com", "teacher_count": 131, "file": "SANTIMAYEE JUNIOR GIRLS HIGH SCHOOL.json"}, {"eiin": "115007", "name": "SHERIA BEGUM SECONDARY GIRLS SCHOOL", "name_bn": "শিরিয়া বেগম মাধ্যমিক বালিকা বিদ্যাপীঠ", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01736427767", "email": "obaidul_amardesh@hotmail.com", "teacher_count": 140, "file": "SHERIA BEGUM SECONDARY GIRLS SCHOOL.json"}, {"eiin": "114989", "name": "ST PAULS HIGH SCHOOL", "name_bn": "সেন্ট পলস উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01703276671", "email": "sphsmongla@yahoo.com", "teacher_count": 534, "file": "ST PAULS HIGH SCHOOL.json"}, {"eiin": "114988", "name": "TATIBUNIA SECONDARY SCHOOL", "name_bn": "টাটিবুনিয়া মাধ্যমিক বিদ্যালয়।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01727509463", "email": "tatibuniahighschool1927@gmail.com", "teacher_count": 211, "file": "TATIBUNIA SECONDARY SCHOOL.json"}, {"eiin": "136752", "name": "B N SCHOOL AND COLLEGE, MONGLA", "name_bn": "বাংলাদেশ নৌবাহিনী স্কুল ও কলেজ মোংলা", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01769794190", "email": "bnscmongla@navy.mil.bd", "teacher_count": 0, "file": "B N SCHOOL AND COLLEGE, MONGLA.json"}, {"eiin": "114987", "name": "GOVT. T A FARUQUE SCHOOL AND COLLEGE", "name_bn": "সরকারি টি. এ. ফারুক স্কুল এন্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01711988073", "email": "tafaruqueschoolandcollege@gmail.com", "teacher_count": 0, "file": "GOVT. T A FARUQUE SCHOOL AND COLLEGE.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 1, "mouza_count": 125, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1/1", "survey": "RS", "mouza_name": "বুড়িডাঙ্গা", "jl_no": "4", "owners": "বাংলাদেশ পক্ষে সরকার জেলা প্রশাসক বাগেরহাট", "dags": "1419,1455,1504,1505", "total_land": ""}], "sample_mouzas": [{"mouza_name": "বিদ্যারবাওন", "jl_no": "1", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "বিদ্যারবাওন দিগরাজ", "jl_no": "2", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "কাপালিরমেট বুড়িডাঙ্গা", "jl_no": "3", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "বুড়ি ডাংগা", "jl_no": "4", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "সানবান্ধা", "jl_no": "5", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "ভাটের আবাদ বুড়ির ডাঙ্গা", "jl_no": "6", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "কামারডাঙ্গা", "jl_no": "7", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "গলাচিপা দিগরাজ", "jl_no": "8", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "সেলাবুনিয়া", "jl_no": "9", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "কাইনমারী", "jl_no": "10", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "চিলা", "jl_no": "11", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "জয়মনিরঘোল", "jl_no": "12", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "বিদ্যামারী", "jl_no": "13", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "হলদি বুনিয়া", "jl_no": "14", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "বাঁশতলা", "jl_no": "15", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "খড়মা", "jl_no": "16", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "দত্তেরমেট", "jl_no": "17", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "মিঠাখালী", "jl_no": "18", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "মালগাজী", "jl_no": "19", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "আরাজী মাকড়ঢোন", "jl_no": "20", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "চাঁদপাই", "jl_no": "21", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "মাকোড়ঢোন", "jl_no": "22", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "উলুবুনিয়া", "jl_no": "23", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "জয়খা", "jl_no": "24", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "সোনাইতলা", "jl_no": "25", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "আমড়াতলা", "jl_no": "26", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "বকুলতলা", "jl_no": "27", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "খোনকারের বেড়", "jl_no": "28", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "আন্ধারিয়া", "jl_no": "29", "survey": "BRS", "upazila": "MONGLA"}, {"mouza_name": "দামের খন্ড", "jl_no": "30", "survey": "BRS", "upazila": "MONGLA"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg", "district_drive_url": "https://drive.google.com/drive/folders/1sCIM_f5crh4IRdRmcvnqQMBHB9tXkEro", "district_total_maps": 3135, "district_uploaded_maps": 8, "district_total_gb": 31.149, "catalog_github_path": "land/maps/Khulna/Bagerhat.json"}}, "governance": {"administration": {"district": "Bagerhat", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Bagerhat", "phone": "01713-000040", "email": "dcbagerhat@mopa.gov.bd", "website": "http://www.bagerhat.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Bagerhat", "phone": "01713-373040", "email": "spbagerhat@police.gov.bd", "control_room": "01713-374040"}, "civil_surgeon_office": {"title": "Civil Surgeon, Bagerhat", "phone": "01713-555040", "email": "csbagerhat@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "95", "name": {"en": "Bagerhat-1", "bn": "বাগেরহাট-১"}, "total_voters": 375560}, {"code": "96", "name": {"en": "Bagerhat-2", "bn": "বাগেরহাট-২"}, "total_voters": 338009}, {"code": "97", "name": {"en": "Bagerhat-3", "bn": "বাগেরহাট-৩"}, "total_voters": 266864}, {"code": "98", "name": {"en": "Bagerhat-4", "bn": "বাগেরহাট-৪"}, "total_voters": 380679}], "upazila_portal": "mongla.bagerhat.gov.bd", "district_portal": "http://www.bagerhat.gov.bd", "union_portals_count": 6, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Khulna",
+  "district": "Bagerhat",
+  "upazila": "Mongla",
+  "upazila_slug": "khulna__bagerhat__mongla",
+  "geography": {
+    "division": "Khulna",
+    "division_bn": "খুলনা",
+    "district": "Bagerhat",
+    "district_bn": "বাগেরহাট",
+    "district_lat": "22.651568",
+    "district_lon": "89.785938",
+    "upazila_id": "222",
+    "upazila": "Mongla",
+    "upazila_bn": "মোংলা",
+    "official_url": "mongla.bagerhat.gov.bd",
+    "total_unions": 6,
+    "unions": [
+      {
+        "id": "2007",
+        "name": "Burrirdangga",
+        "bn_name": "বুড়িরডাঙ্গা",
+        "url": "burrirdanggaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "2008",
+        "name": "Mithakhali",
+        "bn_name": "মিঠাখালী",
+        "url": "mithakhaliup.bagerhat.gov.bd"
+      },
+      {
+        "id": "2009",
+        "name": "Sonailtala",
+        "bn_name": "সোনাইলতলা",
+        "url": "sonailtalaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "2010",
+        "name": "Chadpai",
+        "bn_name": "চাঁদপাই",
+        "url": "chadpaiup.bagerhat.gov.bd"
+      },
+      {
+        "id": "2011",
+        "name": "Chila",
+        "bn_name": "চিলা",
+        "url": "chilaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "2012",
+        "name": "Sundarban",
+        "bn_name": "সুন্দরবন",
+        "url": "sundarbanup.bagerhat.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 50,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 6,
+    "postcodes_count": 0,
+    "land_khatians_count": 1,
+    "mouzas_count": 125
+  },
+  "education": [
+    {
+      "eiin": "114875",
+      "name": "BANGABANDHU MOHILA GOVT. COLLEGE",
+      "name_bn": "মোংলা সরকারি মহিলা কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01712632639",
+      "email": "bmc_mongla@yahoo.com",
+      "teacher_count": 0,
+      "file": "BANGABANDHU MOHILA GOVT. COLLEGE.json"
+    },
+    {
+      "eiin": "115022",
+      "name": "DIGRAJ DEGREE MAHAVIDYALAYA",
+      "name_bn": "দিগরাজ ডিগ্রি মহাবিদ্যালয়",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01718871096",
+      "email": "collegedigraj@yahoo.com",
+      "teacher_count": 0,
+      "file": "DIGRAJ DEGREE MAHAVIDYALAYA.json"
+    },
+    {
+      "eiin": "115021",
+      "name": "GOVT. MONGLA COLLEGE",
+      "name_bn": "মোংলা সরকারি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01716169516",
+      "email": "collegemongla@yahoo.com",
+      "teacher_count": 0,
+      "file": "GOVT. MONGLA COLLEGE.json"
+    },
+    {
+      "eiin": "136505",
+      "name": "AL HAZZ SHAIKH AFSAR UDDIN MOHILA DAKHIL MADRASAH",
+      "name_bn": "আল-হাজ্ব শেখ আফছার উদ্দীন মহিলা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01982861876",
+      "email": "alhajafsaruddinmadrasa@gmil.com",
+      "teacher_count": 0,
+      "file": "AL HAZZ SHAIKH AFSAR UDDIN MOHILA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115020",
+      "name": "ARAZEE MAKORDHON ISLAMIA DAKHIL MADRASAH",
+      "name_bn": "আরাজী মাকোড়ঢোন ইসলামিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01717195972",
+      "email": "arazeemidm115020@gmail.com",
+      "teacher_count": 0,
+      "file": "ARAZEE MAKORDHON ISLAMIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115016",
+      "name": "CHANDPAI PIR MESER SHAH DAKHIL MADRASAH",
+      "name_bn": "চাঁদপাই পীর মেছের শাহ দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714848473",
+      "email": "cpmdakhilmadrasa@gmail.com",
+      "teacher_count": 0,
+      "file": "CHANDPAI PIR MESER SHAH DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115013",
+      "name": "CHOWRI DANGA AHMADIA DAKHIL MADRASAH",
+      "name_bn": "চৌরিডাংগা আহমাদিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01892318989",
+      "email": "chauridangamadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "CHOWRI DANGA AHMADIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115015",
+      "name": "DAKHIN CHILA SIDDIKIA AHMADIA DAKHIL MADRASAH",
+      "name_bn": "দক্ষিন চিলা সিদ্দিকিয়া আহম্মদিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01937280697",
+      "email": "dakhinchila115015@gmail.com",
+      "teacher_count": 0,
+      "file": "DAKHIN CHILA SIDDIKIA AHMADIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115014",
+      "name": "DIGRAJ ISLAMIA DAKHIL MADRASAH",
+      "name_bn": "দিগরাজ ইসলামিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01720296557",
+      "email": "digrajmadrasah1980@gmail.com",
+      "teacher_count": 0,
+      "file": "DIGRAJ ISLAMIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "131635",
+      "name": "KOCHUBUNIA DARUS SUNNAT DAKHIL MADRASAH",
+      "name_bn": "কচুবুনিয়া দারুস্ সুন্নাত দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01712405339",
+      "email": "kochubunia131635@gmail.com",
+      "teacher_count": 0,
+      "file": "KOCHUBUNIA DARUS SUNNAT DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115019",
+      "name": "SHEIKH FAZILATUNNESA MOHILA DAKHIL MADRASAH",
+      "name_bn": "শেখ ফজিলাতুন্নেছা মহিলা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01916526663",
+      "email": "skfmohilamadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "SHEIKH FAZILATUNNESA MOHILA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115012",
+      "name": "SONAIL TALA A B S DAKHIL MADRASAH",
+      "name_bn": "সোনাইলতলা এ,বি,এস দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01989132598",
+      "email": "sonailtalaabsdm57@gmail.com",
+      "teacher_count": 0,
+      "file": "SONAIL TALA A B S DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "115010",
+      "name": "AL-HAZ KORBAN ALI ALIM MADRASHA",
+      "name_bn": "আলহাজ্ব কোরবান আলী আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01711038421",
+      "email": "akammongla@gmail.com",
+      "teacher_count": 0,
+      "file": "AL-HAZ KORBAN ALI ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "115011",
+      "name": "CHALNA BANDAR FAZIL MADRASAH",
+      "name_bn": "চালনা বন্দর ফাযিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01711365296",
+      "email": "chalnabandorfazilmadrasah@gmail.com",
+      "teacher_count": 0,
+      "file": "CHALNA BANDAR FAZIL MADRASAH.json"
+    },
+    {
+      "eiin": "115017",
+      "name": "MADUR PALTA NEAZ MAKHDUM ALIM MADRASAH",
+      "name_bn": "মাদুরপাল্টা নিয়াজ মাখদুম আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01719482233",
+      "email": "nmamadrasah2@gmail.com",
+      "teacher_count": 0,
+      "file": "MADUR PALTA NEAZ MAKHDUM ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "115018",
+      "name": "MOHSINA ALIM MADRASAH",
+      "name_bn": "মোহসিনিয়া আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01925296657",
+      "email": "mohsiniaalim@gmail.com",
+      "teacher_count": 0,
+      "file": "MOHSINA ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "135723",
+      "name": "CREATIVE COMPUTER TRAINING CENTRE",
+      "name_bn": "ক্রিয়েটিভ কম্পিউটার ট্রেনিং সেন্টার",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718767903",
+      "email": null,
+      "teacher_count": 0,
+      "file": "CREATIVE COMPUTER TRAINING CENTRE.json"
+    },
+    {
+      "eiin": "135724",
+      "name": "MEMORY COMPUTER PROSHIKKHON ACADEMY",
+      "name_bn": "মেমোরী কম্পিউটার প্রশিক্ষণ একাডেমি",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01729995556",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MEMORY COMPUTER PROSHIKKHON ACADEMY.json"
+    },
+    {
+      "eiin": "139800",
+      "name": "MONGLA GOVT TECHNICAL SCHOOL COLLEGE MONGLA BAGERHAT",
+      "name_bn": "মোংলা সরকারি টেকনিক্যাল স্কুল ও কলেজ, মোংলা, বাগেরহাট ।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01553438737",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MONGLA GOVT TECHNICAL SCHOOL COLLEGE MONGLA BAGERHAT.json"
+    },
+    {
+      "eiin": "132745",
+      "name": "MONGLA TECHNICAL AND BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "মংলা টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01718221252",
+      "email": null,
+      "teacher_count": 0,
+      "file": "MONGLA TECHNICAL AND BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "137919",
+      "name": "DIGANTO PROKALPO GOVT. PRIMARY SCHOOL",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Five)",
+      "category": "primary_school",
+      "mobile": "01718832100",
+      "email": null,
+      "teacher_count": 59,
+      "file": "DIGANTO PROKALPO GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "137443",
+      "name": "UTTAR BANSHTALA GOVT. PRIMARY SCHOOL",
+      "name_bn": "উত্তর বাঁশতলা সরকারি প্রাথমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01996666470",
+      "email": "uttarbanshtalagps@gmail.com",
+      "teacher_count": 79,
+      "file": "UTTAR BANSHTALA GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "115003",
+      "name": "AMRATALA CHAPRA SECONDARY SCHOOL",
+      "name_bn": "আমড়াতলা চাঁপড়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01913337593",
+      "email": "amratalachaprasschool77@gmail.com",
+      "teacher_count": 184,
+      "file": "AMRATALA CHAPRA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114995",
+      "name": "AZIZ BHATTI HIGH SCHOOL",
+      "name_bn": "আজিজ ভাট্টি মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01918616784",
+      "email": "azizvhattimongla66@gmail.com",
+      "teacher_count": 213,
+      "file": "AZIZ BHATTI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114990",
+      "name": "BURBURIA HIGH SCHOOL",
+      "name_bn": "বুড়বুড়িয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01916078846",
+      "email": "burburiahighschool2015@gmail.com",
+      "teacher_count": 172,
+      "file": "BURBURIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115008",
+      "name": "BURIR DANGA SECONDARY GIRLS SCHOOL",
+      "name_bn": "বুড়িরডাঙ্গা মাধ্যমিক বালিকা বিদ্যালয়।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719481560",
+      "email": "prodipgolder1970@gmail.com",
+      "teacher_count": 162,
+      "file": "BURIR DANGA SECONDARY GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "114993",
+      "name": "BURIRDANGA SECONDARY SCHOOL",
+      "name_bn": "বুড়িরডাংগা মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715042880",
+      "email": "burirdangahighschool63@gmail.com",
+      "teacher_count": 210,
+      "file": "BURIRDANGA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114986",
+      "name": "CHALNA BANDAR SECONDARY SCHOOL",
+      "name_bn": "চালনা বন্দর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715448042",
+      "email": "chalnabandarmss@gmail.com",
+      "teacher_count": 236,
+      "file": "CHALNA BANDAR SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114998",
+      "name": "CHANDPAI MESERSHAH SECONDARY SCHOOL",
+      "name_bn": "চাঁদপাই মেছেরশাহ্ মাধ্যমিক বিদ্যালয়।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01911135531",
+      "email": "chandpaihighschool1972@gmail.com",
+      "teacher_count": 215,
+      "file": "CHANDPAI MESERSHAH SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115002",
+      "name": "CHILA MANU MIA HIGH SCHOOL",
+      "name_bn": "চিলা মনুমিয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01914883440",
+      "email": "chilamanumia@gmail.com",
+      "teacher_count": 191,
+      "file": "CHILA MANU MIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114991",
+      "name": "DIGRAJ HIGH SCHOOL",
+      "name_bn": "দিগরাজ মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715143216",
+      "email": "digrajhighschool@gmail.com",
+      "teacher_count": 249,
+      "file": "DIGRAJ HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114985",
+      "name": "DOCK SRAMIC HIGH SCHOOL",
+      "name_bn": "ডক শ্রমিক উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01711397353",
+      "email": "advhossain671@gmail.com",
+      "teacher_count": 139,
+      "file": "DOCK SRAMIC HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115024",
+      "name": "EUNUS ALI SECONDARY SCHOOL",
+      "name_bn": "ইউনুছ আলী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01925060226",
+      "email": "eass.mon@gmail.com",
+      "teacher_count": 196,
+      "file": "EUNUS ALI SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115001",
+      "name": "G M S HIGH SCHOOL",
+      "name_bn": "জি এম এস মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01925621463",
+      "email": "gmsschool8@gmail.com",
+      "teacher_count": 194,
+      "file": "G M S HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114997",
+      "name": "HALDIBUNIA HIGH SCHOOL",
+      "name_bn": "হলদিবুনিয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01936616603",
+      "email": "haldibuniasecondaryschool@gmail.com",
+      "teacher_count": 216,
+      "file": "HALDIBUNIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115006",
+      "name": "ISLAMI ADARSHA ACADEMY SECONDARY SCHOOL",
+      "name_bn": "ইসলামী আদর্শ একাডেমী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01616669343",
+      "email": "academyschoolmongla@gmail.com",
+      "teacher_count": 198,
+      "file": "ISLAMI ADARSHA ACADEMY SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114994",
+      "name": "ISMAIL MEMORIAL HIGH SCHOOL",
+      "name_bn": "ইসমাইল মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01935782936",
+      "email": "ismailmemorial@gmail.com",
+      "teacher_count": 178,
+      "file": "ISMAIL MEMORIAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114999",
+      "name": "JOYMONI SECONDARY SCHOOL",
+      "name_bn": "জয়মনি মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01971282931",
+      "email": "joymonischool1974@gmail.com",
+      "teacher_count": 215,
+      "file": "JOYMONI SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114992",
+      "name": "KHASERDANGA A B S SECONDARY SCHOOL",
+      "name_bn": "খাসেরডাঙ্গা আবুু বকর সিদ্দিক মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715309172",
+      "email": "www.khaabsssmongla@gmail.com",
+      "teacher_count": 188,
+      "file": "KHASERDANGA A B S SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114996",
+      "name": "MALGAZI GIRLS HIGH SCHOOL",
+      "name_bn": "মালগাজী মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714514912",
+      "email": "malgazisgs1968@gmail.com",
+      "teacher_count": 209,
+      "file": "MALGAZI GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115004",
+      "name": "MD ISMAIL HIGH SCHOOL",
+      "name_bn": "মোঃ ইসমাইল মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718002389",
+      "email": "mdismailschool3@gmail.com",
+      "teacher_count": 202,
+      "file": "MD ISMAIL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115025",
+      "name": "MONGLA BANDAR SECONDARY SCHOOL",
+      "name_bn": "মোংলা বন্দর মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712574610",
+      "email": "mbsschool.mpaa@gmail.com",
+      "teacher_count": 296,
+      "file": "MONGLA BANDAR SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115005",
+      "name": "MONGLA GIRLS HIGH SCHOOL",
+      "name_bn": "মোংলা উচ্চ বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01912546323",
+      "email": "monglagirls@gmail.com",
+      "teacher_count": 234,
+      "file": "MONGLA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115009",
+      "name": "SABED KAHN SECONDARY SCHOOL",
+      "name_bn": "ছবেদ খান মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717242727",
+      "email": "sabedkhanhighschool1998@gmail.com",
+      "teacher_count": 200,
+      "file": "SABED KAHN SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "115000",
+      "name": "SANTIMAYEE JUNIOR GIRLS HIGH SCHOOL",
+      "name_bn": "শান্তিময়ী নিম্ন মধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01715645122",
+      "email": "santimayeeschool@gmail.com",
+      "teacher_count": 131,
+      "file": "SANTIMAYEE JUNIOR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "115007",
+      "name": "SHERIA BEGUM SECONDARY GIRLS SCHOOL",
+      "name_bn": "শিরিয়া বেগম মাধ্যমিক বালিকা বিদ্যাপীঠ",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01736427767",
+      "email": "obaidul_amardesh@hotmail.com",
+      "teacher_count": 140,
+      "file": "SHERIA BEGUM SECONDARY GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "114989",
+      "name": "ST PAULS HIGH SCHOOL",
+      "name_bn": "সেন্ট পলস উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01703276671",
+      "email": "sphsmongla@yahoo.com",
+      "teacher_count": 534,
+      "file": "ST PAULS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114988",
+      "name": "TATIBUNIA SECONDARY SCHOOL",
+      "name_bn": "টাটিবুনিয়া মাধ্যমিক বিদ্যালয়।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01727509463",
+      "email": "tatibuniahighschool1927@gmail.com",
+      "teacher_count": 211,
+      "file": "TATIBUNIA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "136752",
+      "name": "B N SCHOOL AND COLLEGE, MONGLA",
+      "name_bn": "বাংলাদেশ নৌবাহিনী স্কুল ও কলেজ মোংলা",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01769794190",
+      "email": "bnscmongla@navy.mil.bd",
+      "teacher_count": 0,
+      "file": "B N SCHOOL AND COLLEGE, MONGLA.json"
+    },
+    {
+      "eiin": "114987",
+      "name": "GOVT. T A FARUQUE SCHOOL AND COLLEGE",
+      "name_bn": "সরকারি টি. এ. ফারুক স্কুল এন্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01711988073",
+      "email": "tafaruqueschoolandcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "GOVT. T A FARUQUE SCHOOL AND COLLEGE.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 1,
+    "mouza_count": 125,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1/1",
+        "survey": "RS",
+        "mouza_name": "বুড়িডাঙ্গা",
+        "jl_no": "4",
+        "owners": "বাংলাদেশ পক্ষে সরকার জেলা প্রশাসক বাগেরহাট",
+        "dags": "1419,1455,1504,1505",
+        "total_land": ""
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "বিদ্যারবাওন",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "বিদ্যারবাওন দিগরাজ",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "কাপালিরমেট বুড়িডাঙ্গা",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "বুড়ি ডাংগা",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "সানবান্ধা",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "ভাটের আবাদ বুড়ির ডাঙ্গা",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "কামারডাঙ্গা",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "গলাচিপা দিগরাজ",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "সেলাবুনিয়া",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "কাইনমারী",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "চিলা",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "জয়মনিরঘোল",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "বিদ্যামারী",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "হলদি বুনিয়া",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "বাঁশতলা",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "খড়মা",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "দত্তেরমেট",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "মিঠাখালী",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "মালগাজী",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "আরাজী মাকড়ঢোন",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "চাঁদপাই",
+        "jl_no": "21",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "মাকোড়ঢোন",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "উলুবুনিয়া",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "জয়খা",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "সোনাইতলা",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "আমড়াতলা",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "বকুলতলা",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "খোনকারের বেড়",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "আন্ধারিয়া",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      },
+      {
+        "mouza_name": "দামের খন্ড",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "MONGLA"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/3:/",
+      "district_drive_url": "https://free.mouzamap.tech/3:/Bagerhat/",
+      "district_total_maps": 3135,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 31.149,
+      "catalog_github_path": "land/maps/Khulna/Bagerhat.json",
+      "online_folder_url": "https://free.mouzamap.tech/3:/Bagerhat/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Bagerhat",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Bagerhat",
+        "phone": "01713-000040",
+        "email": "dcbagerhat@mopa.gov.bd",
+        "website": "http://www.bagerhat.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Bagerhat",
+        "phone": "01713-373040",
+        "email": "spbagerhat@police.gov.bd",
+        "control_room": "01713-374040"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Bagerhat",
+        "phone": "01713-555040",
+        "email": "csbagerhat@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "95",
+        "name": {
+          "en": "Bagerhat-1",
+          "bn": "বাগেরহাট-১"
+        },
+        "total_voters": 375560
+      },
+      {
+        "code": "96",
+        "name": {
+          "en": "Bagerhat-2",
+          "bn": "বাগেরহাট-২"
+        },
+        "total_voters": 338009
+      },
+      {
+        "code": "97",
+        "name": {
+          "en": "Bagerhat-3",
+          "bn": "বাগেরহাট-৩"
+        },
+        "total_voters": 266864
+      },
+      {
+        "code": "98",
+        "name": {
+          "en": "Bagerhat-4",
+          "bn": "বাগেরহাট-৪"
+        },
+        "total_voters": 380679
+      }
+    ],
+    "upazila_portal": "mongla.bagerhat.gov.bd",
+    "district_portal": "http://www.bagerhat.gov.bd",
+    "union_portals_count": 6,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

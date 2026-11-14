@@ -1,1 +1,1003 @@
-{"division": "Rajshahi", "district": "Joypurhat", "upazila": "Khetlal", "upazila_slug": "rajshahi__joypurhat__khetlal", "geography": {"division": "Rajshahi", "division_bn": "রাজশাহী", "district": "Joypurhat", "district_bn": "জয়পুরহাট", "district_lat": "25.09636876", "district_lon": "89.04004280", "upazila_id": "152", "upazila": "Khetlal", "upazila_bn": "ক্ষেতলাল", "official_url": "khetlal.joypurhat.gov.bd", "total_unions": 5, "unions": [{"id": "1347", "name": "Alampur", "bn_name": "আলমপুর", "url": "alampurup.joypurhat.gov.bd"}, {"id": "1348", "name": "Borail", "bn_name": "বড়াইল", "url": "borailup.joypurhat.gov.bd"}, {"id": "1349", "name": "Tulshiganga", "bn_name": " তুলশীগংগা", "url": "tulshigangaup.joypurhat.gov.bd"}, {"id": "1350", "name": "Mamudpur", "bn_name": "মামুদপুর", "url": "mamudpurup.joypurhat.gov.bd"}, {"id": "1351", "name": "Boratara", "bn_name": "বড়তারা", "url": "borataraup.joypurhat.gov.bd"}], "total_post_offices": 1, "postal_codes": [{"postcode": "5920", "postcode_bn": "৫৯২০", "sub_office": "Khetlal", "sub_office_bn": "ক্ষেতলাল"}]}, "stats": {"education_count": 37, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 5, "postcodes_count": 1, "land_khatians_count": 25, "mouzas_count": 282}, "education": [{"eiin": "121980", "name": "KHETLAL SYEED ALTAFUNNESA COLLEGE", "name_bn": "সরকারি ছা্ইদ আলতাফুন্নেছা কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01715419652", "email": "collegesyeedaltafunnesa@yahoo.com", "teacher_count": 0, "file": "KHETLAL SYEED ALTAFUNNESA COLLEGE.json"}, {"eiin": "121976", "name": "AMIRA DAKHIL MADRASA", "name_bn": "আমিড়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01732879037", "email": "mmad121976@gmail.com", "teacher_count": 0, "file": "AMIRA DAKHIL MADRASA.json"}, {"eiin": "121978", "name": "ATI DASHRA GHUGAIL DAKHIL MADRASHA", "name_bn": "আটিদাশড়া ঘুগইল দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01745981229", "email": "m121978joy@gmail.com", "teacher_count": 0, "file": "ATI DASHRA GHUGAIL DAKHIL MADRASHA.json"}, {"eiin": "121975", "name": "BENAI DARUL ULUM DAKHIL MADRASAH", "name_bn": "বিনাই দারুল উলুম দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01725013687", "email": "mben121975@gmil.com", "teacher_count": 0, "file": "BENAI DARUL ULUM DAKHIL MADRASAH.json"}, {"eiin": "121966", "name": "HOPPIR HATA D.U. DAKHIL MADRASAH", "name_bn": "হোপপীরহাটা দারুল উলুম দাখিল মাদ্রাস", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01749601522", "email": "madrasha121966@gmail.com", "teacher_count": 0, "file": "HOPPIR HATA D.U. DAKHIL MADRASAH.json"}, {"eiin": "121967", "name": "KAPASTHIKRI DS DAKHIL MADRASHA", "name_bn": "কাপাশ ঠিকরি ডি এস দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714512792", "email": "mad121967@gmail.com", "teacher_count": 0, "file": "KAPASTHIKRI DS DAKHIL MADRASHA.json"}, {"eiin": "121973", "name": "KRISHNA NAGAR DAHKIL MADRASAH", "name_bn": "কৃষ্ণনগর দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01761856303", "email": "krisnogagormad@gmail.com", "teacher_count": 0, "file": "KRISHNA NAGAR DAHKIL MADRASAH.json"}, {"eiin": "121979", "name": "LALAGOR HARAZIA DAKHIL MADRASHA", "name_bn": "লালাগড় হারেজিয়া দ্বি-মূখী দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01734121476", "email": "mlala121979@gmail.com", "teacher_count": 0, "file": "LALAGOR HARAZIA DAKHIL MADRASHA.json"}, {"eiin": "121972", "name": "SARAIL MOHAFEZIA DAKHIL MOHILA MADRASAH", "name_bn": "সড়াইল মোহাফেজিয়া দাখিল মহিলা মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01725245716", "email": "sorailmdma@gmail.com", "teacher_count": 0, "file": "SARAIL MOHAFEZIA DAKHIL MOHILA MADRASAH.json"}, {"eiin": "121970", "name": "BOTTALI FATEMA JAHURA MOHILA FAZIL MADRASHA", "name_bn": "বটতলী ফাতেমা জহুরা মহিলা ফাজিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01717730088", "email": "mbfjmk121970@gmail.com", "teacher_count": 0, "file": "BOTTALI FATEMA JAHURA MOHILA FAZIL MADRASHA.json"}, {"eiin": "121974", "name": "BURAIL D.S.FAZIL MADRASHA", "name_bn": "বুড়াইল ডি, এস, ফাজিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01714930989", "email": "burailmadrasah@gmail.com", "teacher_count": 0, "file": "BURAIL D.S.FAZIL MADRASHA.json"}, {"eiin": "121971", "name": "FULDIGHIHAT C U FAZIL MADRASA", "name_bn": "ফুলদীঘিহাট চশমায়ে উলুম দ্বি-মুখী ফাযিল মাদ্রাসা।", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01718815228", "email": "mful121971@gmail.com", "teacher_count": 0, "file": "FULDIGHIHAT C U FAZIL MADRASA.json"}, {"eiin": "121969", "name": "JAMUHALI CHASHAYE ULUM D M ALIM MADRASAH", "name_bn": "জামুহালী চশমায়ে উলুম দ্বি-মুখী আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01716695649", "email": "mad121969@gmail.com", "teacher_count": 0, "file": "JAMUHALI CHASHAYE ULUM D M ALIM MADRASAH.json"}, {"eiin": "121968", "name": "KHETLAL KHOSBODON G.U.ALIM MADRASHA", "name_bn": "ক্ষেতলাল খোশবদন গোলজার -ই- উলুম আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01718421810", "email": "mkho121968@gmail.com", "teacher_count": 0, "file": "KHETLAL KHOSBODON G.U.ALIM MADRASHA.json"}, {"eiin": "121977", "name": "SHIBPUR NOMANIA ALIM MADRASHA", "name_bn": "শিবপুর নোমানিয়া আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01759512327", "email": "snam121977@gmail.com", "teacher_count": 0, "file": "SHIBPUR NOMANIA ALIM MADRASHA.json"}, {"eiin": "132621", "name": "ITAKHOLA TECHNICAL INSTITUTE AND BUSINESS MANAGEMENT COLLEGE", "name_bn": "ইটাখোলা টেকনিক্যাল ইন্সটিটিউট অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ ।", "type": null, "level": null, "category": "other", "mobile": "01711274910", "email": null, "teacher_count": 0, "file": "ITAKHOLA TECHNICAL INSTITUTE AND BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "132293", "name": "KHETLAL TECHINICAL AND BUSINESS MANAGEMENT COLLAGE", "name_bn": "ক্ষেতলাল টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712099630", "email": null, "teacher_count": 0, "file": "KHETLAL TECHINICAL AND BUSINESS MANAGEMENT COLLAGE.json"}, {"eiin": "121947", "name": "AKHLAS SHIBPUR SHAMPUR BL HIGH SCHOOL", "name_bn": "আকলাশ শিবপুর শ্যামপুর দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715367659", "email": "aklashshibpur@gmail.com", "teacher_count": 227, "file": "AKHLAS SHIBPUR SHAMPUR BL HIGH SCHOOL.json"}, {"eiin": "121956", "name": "ALAMPUR HIGH SCHOOL", "name_bn": "আলমপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720506442", "email": "alampurhighschool@gmail.com", "teacher_count": 173, "file": "ALAMPUR HIGH SCHOOL.json"}, {"eiin": "121951", "name": "ATI DASHRA HIGH SCHOOL", "name_bn": "আটি দাশড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720982415", "email": "atidashra2015@gmail.com", "teacher_count": 198, "file": "ATI DASHRA HIGH SCHOOL.json"}, {"eiin": "121963", "name": "ATI DASHRA MODEL GIRLS HIGH SCHOOL", "name_bn": "আটি দাশড়া মডেল বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01752065007", "email": "atidashramodelghs@gmail.com", "teacher_count": 188, "file": "ATI DASHRA MODEL GIRLS HIGH SCHOOL.json"}, {"eiin": "121955", "name": "BANAICH MOMIN HIGH SCHOOL", "name_bn": "বানাইচ মোমিন উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715546078", "email": "banaichhs@gmail.com", "teacher_count": 218, "file": "BANAICH MOMIN HIGH SCHOOL.json"}, {"eiin": "121960", "name": "BARATARA HIGH SCHOOL", "name_bn": "বড়তারা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01725446375", "email": "baratarahs@gmail.com", "teacher_count": 240, "file": "BARATARA HIGH SCHOOL.json"}, {"eiin": "121962", "name": "BENAI JASIMUDDIN MEMO BIDDYANIKETON", "name_bn": "বিনাই জসিম উদ্দিন মেমোরিয়াল বিদ্যানিকেতন", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01765756562", "email": "jumbiddyaniketon@gmail.com", "teacher_count": 199, "file": "BENAI JASIMUDDIN MEMO BIDDYANIKETON.json"}, {"eiin": "121964", "name": "BORAIL JUNIOR GIRLS HIGH SCHOOL", "name_bn": null, "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01843946447", "email": null, "teacher_count": 81, "file": "BORAIL JUNIOR GIRLS HIGH SCHOOL.json"}, {"eiin": "121957", "name": "HINDA HIGH SCHOOL", "name_bn": "হিন্দা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01795908035", "email": "hindahighschool@gmail.com", "teacher_count": 177, "file": "HINDA HIGH SCHOOL.json"}, {"eiin": "121954", "name": "ITAKHOLA HIGH SCHOOL", "name_bn": "ইটাখোলা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718933122", "email": "121954itakholahighschool@gmail.com", "teacher_count": 218, "file": "ITAKHOLA HIGH SCHOOL.json"}, {"eiin": "121950", "name": "KRISHNANAGAR HIGH SCHOOL", "name_bn": "কৃষ্ণনগর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714607736", "email": "s121950hs@gmail.com", "teacher_count": 204, "file": "KRISHNANAGAR HIGH SCHOOL.json"}, {"eiin": "121948", "name": "MAHMUDPUR B.L HIGH SCHOOL", "name_bn": "মাহমুদপুর বি এল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01722375697", "email": "mahmudpurblhighschool@gmail.com", "teacher_count": 265, "file": "MAHMUDPUR B.L HIGH SCHOOL.json"}, {"eiin": "121961", "name": "NAWTIKA KESHURTA ADARSHO GIRLS HIGH SCHOOL.", "name_bn": "নওটিকা-কেশুরতা আদর্শ বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715818918", "email": "s121961joy@gmail.com", "teacher_count": 192, "file": "NAWTIKA KESHURTA ADARSHO GIRLS HIGH SCHOOL..json"}, {"eiin": "121949", "name": "PATHAN PARA BL HIGH SCHOOL", "name_bn": "পাঠানপাড়া উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740612694", "email": "pathanparahighschool99@gmail.com", "teacher_count": 169, "file": "PATHAN PARA BL HIGH SCHOOL.json"}, {"eiin": "121959", "name": "POULUNJA HIGH SCHOOL", "name_bn": "পৌলুঞ্জ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01745914128", "email": "poulunjahighschool@gmail.com", "teacher_count": 200, "file": "POULUNJA HIGH SCHOOL.json"}, {"eiin": "121958", "name": "SHISHU NIKETON AND SADAR JUNIOR HIGH SCHOOL KHETLAL", "name_bn": "শিশু নিকেতন ও সদর জুনিয়র হাই স্কুল", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01714098926", "email": "kgschool@gmail.com", "teacher_count": 151, "file": "SHISHU NIKETON AND SADAR JUNIOR HIGH SCHOOL KHETLAL.json"}, {"eiin": "121952", "name": "TILABADUL ABDUL MAZID HIGH SCHOOL", "name_bn": "তিলাবদুল আব্দুল মজিদ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01734754981", "email": "tamhskj@gmail.com", "teacher_count": 180, "file": "TILABADUL ABDUL MAZID HIGH SCHOOL.json"}, {"eiin": "121953", "name": "ZIAPUR HIGH SCHOOL", "name_bn": "জিয়াপুর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718911385", "email": "szia121953@gmail.com", "teacher_count": 185, "file": "ZIAPUR HIGH SCHOOL.json"}, {"eiin": "121981", "name": "KHETLAL PILOT GIRLS HIGH SCHOOL AND COLLEGE", "name_bn": "ক্ষেতলাল পাইলট বালিকা বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01712949207", "email": "kpghs_college@ymail.com", "teacher_count": 0, "file": "KHETLAL PILOT GIRLS HIGH SCHOOL AND COLLEGE.json"}, {"eiin": "121946", "name": "KHETLAL PILOT MODEL GOVT. HIGH SCHOOL AND COLLEGE", "name_bn": "ক্ষেতলাল সরকারি পাইলট মডেল উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01717579544", "email": "khetalpilothighschool@yahoo.com", "teacher_count": 0, "file": "KHETLAL PILOT MODEL GOVT. HIGH SCHOOL AND COLLEGE.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 282, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক জয়পুরহাট", "dags": "20,22,48,72,95,157,158,183,187,190,192,221,222,223,224,225,226,235,270,278,295,2", "total_land": "6.64"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং অলিমুদ্দিন", "dags": "241", "total_land": "0.09"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং অলিমুদ্দিন,সাহেব উদ্দিন,আইমুদ্দিন,উপজেলা- জয়পুরহাট,আইজন বেওয়া,হজরত আলী,ওমর আলী,ছমির আলী", "dags": "195,205,218,228,240,245,293,296", "total_land": "3.09"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং অলিমুদ্দিন মন্ডল,সাহেব উদ্দিন মন্ডল,আইমুদ্দিন মন্ডল,সায়েজন বিবি,উপজেলা- জয়পুরহাট, আইজন বেওয়া", "dags": "294,329", "total_land": "0.32"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আইয়ুব আলী মণ্ডল,আবেদ আলী মণ্ডল,ছামাদ আলী মণ্ডল", "dags": "204,220,229,308,314,330,331", "total_land": "1.71"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আক্কাস আলী মণ্ডল", "dags": "21,34,39,75,96", "total_land": "0.61"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আক্কাস আলী মন্ডল,গোলাম রববানী,সুফিয়া খাতুন,অজমল হোসেন প্রামানিক,উপজেলা- জয়পুরহাট, তোছাব্বর আলী,জমির উদ্দিন,আফাজ উদ্দিন,আজাহার আলী", "dags": "80,93,147", "total_land": "0.64"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আছর উদ্দিন সরকার,ওসমান আলী সরকর", "dags": "279", "total_land": "0.40"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আছির উদ্দিন চৌধুরী,বছির উদ্দিন চৌধুরী,নিজামুদ্দিন,মর্তুজা আলী,হামিদুল হক,এনামুল হক,হামিদা বেওয়া,নুরজাহান বেওয়া", "dags": "9,10,145,148", "total_land": "0.84"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আছির উদ্দিন চৌধুরী,বছির উদ্দিন চৌধুরী,মজির উদ্দিন চৌধুরী,নিজাম উদ্দিন চৌধুরী,রজমল হোসেন প্রামানিক", "dags": "52", "total_land": "0.27"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আছিরুদ্দিন সেখ,আমেজ উদ্দিন,আছিমুদ্দিন", "dags": "283", "total_land": "0.11"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আজাহার আলী সরকার,নুর জাহান খাতুন,নুর বানু বিবি,উপজেলা- কালাই", "dags": "144,254,319", "total_land": "1.08"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আজিজুল হক চৌধুরী", "dags": "40,41,42,149", "total_land": "0.21"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আজিমুদ্দিন,ফাতেমা খাতুন", "dags": "305", "total_land": "0.15"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আতাব আলী মন্ডল,আবেদ আলী মন্ডল,আয়েশা বেওয়া", "dags": "23", "total_land": "0.20"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আতাব আলী মন্ডল,আবেদ আলী মন্ডল,আয়েশা বেওয়া,জামাল উদ্দিন মন্ডল", "dags": "13", "total_land": "0.18"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আফাজ উদ্দিন,জমির উদ্দিন,আজাহার আলী,নুর জাহান,নুর বানু", "dags": "256", "total_land": "0.44"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আবদুর নুর শেখ,আবদুল খালেক শেখ,মকবুল হোসেন শেখ,কাদনী খাতুন,আবদুল ছামাদ শেখ,আবু সাইদ শেখ,সিয়ামন বিবি,সুরতন বিবি,খুকিমন বিবি,শাহজাহান মন্ডল,আমিরুল ইসলাম,শাহ আলম", "dags": "100", "total_land": "0.31"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আবদুর রহমান শেখ", "dags": "80,118,164,246", "total_land": "0.61"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "খাড়িতা", "jl_no": "1", "owners": "দং আবদুর রহমান শেখ,তোফাজুল শেখ", "dags": "62", "total_land": "0.15"}], "sample_mouzas": [{"mouza_name": "তেলাবদল", "jl_no": "20", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "আটি", "jl_no": "23", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "পশ্চিম সরাইল দাশরা", "jl_no": "24", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "বয়রাবিনসারা", "jl_no": "25", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "ক্ষেতলাল", "jl_no": "26", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "আয়মাপুর", "jl_no": "27", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "মহব্বতপুর", "jl_no": "29", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "জিয়াপুর", "jl_no": "31", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "পশ্চিম কৃষ্ণপুর", "jl_no": "32", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "আমিরা", "jl_no": "33", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "রসুলপুর", "jl_no": "35", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "মামুদপুর", "jl_no": "36", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "দক্ষিণ তাউসারা", "jl_no": "39", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "মাটিহাস", "jl_no": "41", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "গোতাহার", "jl_no": "45", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "বড়াইল", "jl_no": "46", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "বাখেরা কমলগাড়ী", "jl_no": "48", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "খলিসাগাড়ী", "jl_no": "51", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "আলুণ্জা", "jl_no": "52", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "কালিঙ্গ", "jl_no": "53", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "শশীগ্রাম", "jl_no": "55", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "ভাসিলা", "jl_no": "56", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "শাখারঞ্জ", "jl_no": "58", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "দক্ষিণ তেলিহার", "jl_no": "59", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "গোলাহার", "jl_no": "60", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "দামগড়", "jl_no": "61", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "নাজিরপুর", "jl_no": "62", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "হস্তনাবাদ", "jl_no": "64", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "রঘুনাথপুর", "jl_no": "65", "survey": "BRS", "upazila": "KHETLAL"}, {"mouza_name": "কসবা", "jl_no": "68", "survey": "BRS", "upazila": "KHETLAL"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1_CEtFi9uNHAVOr1iMDdn1uZh39eX5ANe", "district_drive_url": "https://drive.google.com/drive/folders/1hh734RhTMUGPwcfzHDC1EAUfqEn3qcco", "district_total_maps": 2160, "district_uploaded_maps": 0, "district_total_gb": 19.25, "catalog_github_path": "land/maps/Rajshahi/Joypurhat.json"}}, "governance": {"administration": {"district": "Joypurhat", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Joypurhat", "phone": "01713-000035", "email": "dcjoypurhat@mopa.gov.bd", "website": "http://www.joypurhat.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Joypurhat", "phone": "01713-373035", "email": "spjoypurhat@police.gov.bd", "control_room": "01713-374035"}, "civil_surgeon_office": {"title": "Civil Surgeon, Joypurhat", "phone": "01713-555035", "email": "csjoypurhat@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "34", "name": {"en": "Joypurhat-1", "bn": "জয়পুরহাট-১"}, "total_voters": 466274}, {"code": "35", "name": {"en": "Joypurhat-2", "bn": "জয়পুরহাট-২"}, "total_voters": 351572}], "upazila_portal": "khetlal.joypurhat.gov.bd", "district_portal": "http://www.joypurhat.gov.bd", "union_portals_count": 5, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "upazila": "Khetlal",
+  "upazila_slug": "rajshahi__joypurhat__khetlal",
+  "geography": {
+    "division": "Rajshahi",
+    "division_bn": "রাজশাহী",
+    "district": "Joypurhat",
+    "district_bn": "জয়পুরহাট",
+    "district_lat": "25.09636876",
+    "district_lon": "89.04004280",
+    "upazila_id": "152",
+    "upazila": "Khetlal",
+    "upazila_bn": "ক্ষেতলাল",
+    "official_url": "khetlal.joypurhat.gov.bd",
+    "total_unions": 5,
+    "unions": [
+      {
+        "id": "1347",
+        "name": "Alampur",
+        "bn_name": "আলমপুর",
+        "url": "alampurup.joypurhat.gov.bd"
+      },
+      {
+        "id": "1348",
+        "name": "Borail",
+        "bn_name": "বড়াইল",
+        "url": "borailup.joypurhat.gov.bd"
+      },
+      {
+        "id": "1349",
+        "name": "Tulshiganga",
+        "bn_name": " তুলশীগংগা",
+        "url": "tulshigangaup.joypurhat.gov.bd"
+      },
+      {
+        "id": "1350",
+        "name": "Mamudpur",
+        "bn_name": "মামুদপুর",
+        "url": "mamudpurup.joypurhat.gov.bd"
+      },
+      {
+        "id": "1351",
+        "name": "Boratara",
+        "bn_name": "বড়তারা",
+        "url": "borataraup.joypurhat.gov.bd"
+      }
+    ],
+    "total_post_offices": 1,
+    "postal_codes": [
+      {
+        "postcode": "5920",
+        "postcode_bn": "৫৯২০",
+        "sub_office": "Khetlal",
+        "sub_office_bn": "ক্ষেতলাল"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 37,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 5,
+    "postcodes_count": 1,
+    "land_khatians_count": 25,
+    "mouzas_count": 282
+  },
+  "education": [
+    {
+      "eiin": "121980",
+      "name": "KHETLAL SYEED ALTAFUNNESA COLLEGE",
+      "name_bn": "সরকারি ছা্ইদ আলতাফুন্নেছা কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01715419652",
+      "email": "collegesyeedaltafunnesa@yahoo.com",
+      "teacher_count": 0,
+      "file": "KHETLAL SYEED ALTAFUNNESA COLLEGE.json"
+    },
+    {
+      "eiin": "121976",
+      "name": "AMIRA DAKHIL MADRASA",
+      "name_bn": "আমিড়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01732879037",
+      "email": "mmad121976@gmail.com",
+      "teacher_count": 0,
+      "file": "AMIRA DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "121978",
+      "name": "ATI DASHRA GHUGAIL DAKHIL MADRASHA",
+      "name_bn": "আটিদাশড়া ঘুগইল দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01745981229",
+      "email": "m121978joy@gmail.com",
+      "teacher_count": 0,
+      "file": "ATI DASHRA GHUGAIL DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "121975",
+      "name": "BENAI DARUL ULUM DAKHIL MADRASAH",
+      "name_bn": "বিনাই দারুল উলুম দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01725013687",
+      "email": "mben121975@gmil.com",
+      "teacher_count": 0,
+      "file": "BENAI DARUL ULUM DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "121966",
+      "name": "HOPPIR HATA D.U. DAKHIL MADRASAH",
+      "name_bn": "হোপপীরহাটা দারুল উলুম দাখিল মাদ্রাস",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01749601522",
+      "email": "madrasha121966@gmail.com",
+      "teacher_count": 0,
+      "file": "HOPPIR HATA D.U. DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "121967",
+      "name": "KAPASTHIKRI DS DAKHIL MADRASHA",
+      "name_bn": "কাপাশ ঠিকরি ডি এস দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714512792",
+      "email": "mad121967@gmail.com",
+      "teacher_count": 0,
+      "file": "KAPASTHIKRI DS DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "121973",
+      "name": "KRISHNA NAGAR DAHKIL MADRASAH",
+      "name_bn": "কৃষ্ণনগর দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01761856303",
+      "email": "krisnogagormad@gmail.com",
+      "teacher_count": 0,
+      "file": "KRISHNA NAGAR DAHKIL MADRASAH.json"
+    },
+    {
+      "eiin": "121979",
+      "name": "LALAGOR HARAZIA DAKHIL MADRASHA",
+      "name_bn": "লালাগড় হারেজিয়া দ্বি-মূখী দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01734121476",
+      "email": "mlala121979@gmail.com",
+      "teacher_count": 0,
+      "file": "LALAGOR HARAZIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "121972",
+      "name": "SARAIL MOHAFEZIA DAKHIL MOHILA MADRASAH",
+      "name_bn": "সড়াইল মোহাফেজিয়া দাখিল মহিলা মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01725245716",
+      "email": "sorailmdma@gmail.com",
+      "teacher_count": 0,
+      "file": "SARAIL MOHAFEZIA DAKHIL MOHILA MADRASAH.json"
+    },
+    {
+      "eiin": "121970",
+      "name": "BOTTALI FATEMA JAHURA MOHILA FAZIL MADRASHA",
+      "name_bn": "বটতলী ফাতেমা জহুরা মহিলা ফাজিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01717730088",
+      "email": "mbfjmk121970@gmail.com",
+      "teacher_count": 0,
+      "file": "BOTTALI FATEMA JAHURA MOHILA FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "121974",
+      "name": "BURAIL D.S.FAZIL MADRASHA",
+      "name_bn": "বুড়াইল ডি, এস, ফাজিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01714930989",
+      "email": "burailmadrasah@gmail.com",
+      "teacher_count": 0,
+      "file": "BURAIL D.S.FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "121971",
+      "name": "FULDIGHIHAT C U FAZIL MADRASA",
+      "name_bn": "ফুলদীঘিহাট চশমায়ে উলুম দ্বি-মুখী ফাযিল মাদ্রাসা।",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01718815228",
+      "email": "mful121971@gmail.com",
+      "teacher_count": 0,
+      "file": "FULDIGHIHAT C U FAZIL MADRASA.json"
+    },
+    {
+      "eiin": "121969",
+      "name": "JAMUHALI CHASHAYE ULUM D M ALIM MADRASAH",
+      "name_bn": "জামুহালী চশমায়ে উলুম দ্বি-মুখী আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01716695649",
+      "email": "mad121969@gmail.com",
+      "teacher_count": 0,
+      "file": "JAMUHALI CHASHAYE ULUM D M ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "121968",
+      "name": "KHETLAL KHOSBODON G.U.ALIM MADRASHA",
+      "name_bn": "ক্ষেতলাল খোশবদন গোলজার -ই- উলুম আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01718421810",
+      "email": "mkho121968@gmail.com",
+      "teacher_count": 0,
+      "file": "KHETLAL KHOSBODON G.U.ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "121977",
+      "name": "SHIBPUR NOMANIA ALIM MADRASHA",
+      "name_bn": "শিবপুর নোমানিয়া আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01759512327",
+      "email": "snam121977@gmail.com",
+      "teacher_count": 0,
+      "file": "SHIBPUR NOMANIA ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "132621",
+      "name": "ITAKHOLA TECHNICAL INSTITUTE AND BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "ইটাখোলা টেকনিক্যাল ইন্সটিটিউট অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ ।",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01711274910",
+      "email": null,
+      "teacher_count": 0,
+      "file": "ITAKHOLA TECHNICAL INSTITUTE AND BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "132293",
+      "name": "KHETLAL TECHINICAL AND BUSINESS MANAGEMENT COLLAGE",
+      "name_bn": "ক্ষেতলাল টেকনিক্যাল অ্যান্ড বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712099630",
+      "email": null,
+      "teacher_count": 0,
+      "file": "KHETLAL TECHINICAL AND BUSINESS MANAGEMENT COLLAGE.json"
+    },
+    {
+      "eiin": "121947",
+      "name": "AKHLAS SHIBPUR SHAMPUR BL HIGH SCHOOL",
+      "name_bn": "আকলাশ শিবপুর শ্যামপুর দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715367659",
+      "email": "aklashshibpur@gmail.com",
+      "teacher_count": 227,
+      "file": "AKHLAS SHIBPUR SHAMPUR BL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121956",
+      "name": "ALAMPUR HIGH SCHOOL",
+      "name_bn": "আলমপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720506442",
+      "email": "alampurhighschool@gmail.com",
+      "teacher_count": 173,
+      "file": "ALAMPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121951",
+      "name": "ATI DASHRA HIGH SCHOOL",
+      "name_bn": "আটি দাশড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720982415",
+      "email": "atidashra2015@gmail.com",
+      "teacher_count": 198,
+      "file": "ATI DASHRA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121963",
+      "name": "ATI DASHRA MODEL GIRLS HIGH SCHOOL",
+      "name_bn": "আটি দাশড়া মডেল বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01752065007",
+      "email": "atidashramodelghs@gmail.com",
+      "teacher_count": 188,
+      "file": "ATI DASHRA MODEL GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121955",
+      "name": "BANAICH MOMIN HIGH SCHOOL",
+      "name_bn": "বানাইচ মোমিন উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715546078",
+      "email": "banaichhs@gmail.com",
+      "teacher_count": 218,
+      "file": "BANAICH MOMIN HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121960",
+      "name": "BARATARA HIGH SCHOOL",
+      "name_bn": "বড়তারা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01725446375",
+      "email": "baratarahs@gmail.com",
+      "teacher_count": 240,
+      "file": "BARATARA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121962",
+      "name": "BENAI JASIMUDDIN MEMO BIDDYANIKETON",
+      "name_bn": "বিনাই জসিম উদ্দিন মেমোরিয়াল বিদ্যানিকেতন",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01765756562",
+      "email": "jumbiddyaniketon@gmail.com",
+      "teacher_count": 199,
+      "file": "BENAI JASIMUDDIN MEMO BIDDYANIKETON.json"
+    },
+    {
+      "eiin": "121964",
+      "name": "BORAIL JUNIOR GIRLS HIGH SCHOOL",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01843946447",
+      "email": null,
+      "teacher_count": 81,
+      "file": "BORAIL JUNIOR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121957",
+      "name": "HINDA HIGH SCHOOL",
+      "name_bn": "হিন্দা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01795908035",
+      "email": "hindahighschool@gmail.com",
+      "teacher_count": 177,
+      "file": "HINDA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121954",
+      "name": "ITAKHOLA HIGH SCHOOL",
+      "name_bn": "ইটাখোলা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718933122",
+      "email": "121954itakholahighschool@gmail.com",
+      "teacher_count": 218,
+      "file": "ITAKHOLA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121950",
+      "name": "KRISHNANAGAR HIGH SCHOOL",
+      "name_bn": "কৃষ্ণনগর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714607736",
+      "email": "s121950hs@gmail.com",
+      "teacher_count": 204,
+      "file": "KRISHNANAGAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121948",
+      "name": "MAHMUDPUR B.L HIGH SCHOOL",
+      "name_bn": "মাহমুদপুর বি এল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01722375697",
+      "email": "mahmudpurblhighschool@gmail.com",
+      "teacher_count": 265,
+      "file": "MAHMUDPUR B.L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121961",
+      "name": "NAWTIKA KESHURTA ADARSHO GIRLS HIGH SCHOOL.",
+      "name_bn": "নওটিকা-কেশুরতা আদর্শ বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715818918",
+      "email": "s121961joy@gmail.com",
+      "teacher_count": 192,
+      "file": "NAWTIKA KESHURTA ADARSHO GIRLS HIGH SCHOOL..json"
+    },
+    {
+      "eiin": "121949",
+      "name": "PATHAN PARA BL HIGH SCHOOL",
+      "name_bn": "পাঠানপাড়া উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740612694",
+      "email": "pathanparahighschool99@gmail.com",
+      "teacher_count": 169,
+      "file": "PATHAN PARA BL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121959",
+      "name": "POULUNJA HIGH SCHOOL",
+      "name_bn": "পৌলুঞ্জ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01745914128",
+      "email": "poulunjahighschool@gmail.com",
+      "teacher_count": 200,
+      "file": "POULUNJA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121958",
+      "name": "SHISHU NIKETON AND SADAR JUNIOR HIGH SCHOOL KHETLAL",
+      "name_bn": "শিশু নিকেতন ও সদর জুনিয়র হাই স্কুল",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01714098926",
+      "email": "kgschool@gmail.com",
+      "teacher_count": 151,
+      "file": "SHISHU NIKETON AND SADAR JUNIOR HIGH SCHOOL KHETLAL.json"
+    },
+    {
+      "eiin": "121952",
+      "name": "TILABADUL ABDUL MAZID HIGH SCHOOL",
+      "name_bn": "তিলাবদুল আব্দুল মজিদ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01734754981",
+      "email": "tamhskj@gmail.com",
+      "teacher_count": 180,
+      "file": "TILABADUL ABDUL MAZID HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121953",
+      "name": "ZIAPUR HIGH SCHOOL",
+      "name_bn": "জিয়াপুর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718911385",
+      "email": "szia121953@gmail.com",
+      "teacher_count": 185,
+      "file": "ZIAPUR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "121981",
+      "name": "KHETLAL PILOT GIRLS HIGH SCHOOL AND COLLEGE",
+      "name_bn": "ক্ষেতলাল পাইলট বালিকা বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01712949207",
+      "email": "kpghs_college@ymail.com",
+      "teacher_count": 0,
+      "file": "KHETLAL PILOT GIRLS HIGH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "121946",
+      "name": "KHETLAL PILOT MODEL GOVT. HIGH SCHOOL AND COLLEGE",
+      "name_bn": "ক্ষেতলাল সরকারি পাইলট মডেল উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01717579544",
+      "email": "khetalpilothighschool@yahoo.com",
+      "teacher_count": 0,
+      "file": "KHETLAL PILOT MODEL GOVT. HIGH SCHOOL AND COLLEGE.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 282,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক জয়পুরহাট",
+        "dags": "20,22,48,72,95,157,158,183,187,190,192,221,222,223,224,225,226,235,270,278,295,2",
+        "total_land": "6.64"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং অলিমুদ্দিন",
+        "dags": "241",
+        "total_land": "0.09"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং অলিমুদ্দিন,সাহেব উদ্দিন,আইমুদ্দিন,উপজেলা- জয়পুরহাট,আইজন বেওয়া,হজরত আলী,ওমর আলী,ছমির আলী",
+        "dags": "195,205,218,228,240,245,293,296",
+        "total_land": "3.09"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং অলিমুদ্দিন মন্ডল,সাহেব উদ্দিন মন্ডল,আইমুদ্দিন মন্ডল,সায়েজন বিবি,উপজেলা- জয়পুরহাট, আইজন বেওয়া",
+        "dags": "294,329",
+        "total_land": "0.32"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আইয়ুব আলী মণ্ডল,আবেদ আলী মণ্ডল,ছামাদ আলী মণ্ডল",
+        "dags": "204,220,229,308,314,330,331",
+        "total_land": "1.71"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আক্কাস আলী মণ্ডল",
+        "dags": "21,34,39,75,96",
+        "total_land": "0.61"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আক্কাস আলী মন্ডল,গোলাম রববানী,সুফিয়া খাতুন,অজমল হোসেন প্রামানিক,উপজেলা- জয়পুরহাট, তোছাব্বর আলী,জমির উদ্দিন,আফাজ উদ্দিন,আজাহার আলী",
+        "dags": "80,93,147",
+        "total_land": "0.64"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আছর উদ্দিন সরকার,ওসমান আলী সরকর",
+        "dags": "279",
+        "total_land": "0.40"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আছির উদ্দিন চৌধুরী,বছির উদ্দিন চৌধুরী,নিজামুদ্দিন,মর্তুজা আলী,হামিদুল হক,এনামুল হক,হামিদা বেওয়া,নুরজাহান বেওয়া",
+        "dags": "9,10,145,148",
+        "total_land": "0.84"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আছির উদ্দিন চৌধুরী,বছির উদ্দিন চৌধুরী,মজির উদ্দিন চৌধুরী,নিজাম উদ্দিন চৌধুরী,রজমল হোসেন প্রামানিক",
+        "dags": "52",
+        "total_land": "0.27"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আছিরুদ্দিন সেখ,আমেজ উদ্দিন,আছিমুদ্দিন",
+        "dags": "283",
+        "total_land": "0.11"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আজাহার আলী সরকার,নুর জাহান খাতুন,নুর বানু বিবি,উপজেলা- কালাই",
+        "dags": "144,254,319",
+        "total_land": "1.08"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আজিজুল হক চৌধুরী",
+        "dags": "40,41,42,149",
+        "total_land": "0.21"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আজিমুদ্দিন,ফাতেমা খাতুন",
+        "dags": "305",
+        "total_land": "0.15"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আতাব আলী মন্ডল,আবেদ আলী মন্ডল,আয়েশা বেওয়া",
+        "dags": "23",
+        "total_land": "0.20"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আতাব আলী মন্ডল,আবেদ আলী মন্ডল,আয়েশা বেওয়া,জামাল উদ্দিন মন্ডল",
+        "dags": "13",
+        "total_land": "0.18"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আফাজ উদ্দিন,জমির উদ্দিন,আজাহার আলী,নুর জাহান,নুর বানু",
+        "dags": "256",
+        "total_land": "0.44"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আবদুর নুর শেখ,আবদুল খালেক শেখ,মকবুল হোসেন শেখ,কাদনী খাতুন,আবদুল ছামাদ শেখ,আবু সাইদ শেখ,সিয়ামন বিবি,সুরতন বিবি,খুকিমন বিবি,শাহজাহান মন্ডল,আমিরুল ইসলাম,শাহ আলম",
+        "dags": "100",
+        "total_land": "0.31"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আবদুর রহমান শেখ",
+        "dags": "80,118,164,246",
+        "total_land": "0.61"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "খাড়িতা",
+        "jl_no": "1",
+        "owners": "দং আবদুর রহমান শেখ,তোফাজুল শেখ",
+        "dags": "62",
+        "total_land": "0.15"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "তেলাবদল",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "আটি",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "পশ্চিম সরাইল দাশরা",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "বয়রাবিনসারা",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "ক্ষেতলাল",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "আয়মাপুর",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "মহব্বতপুর",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "জিয়াপুর",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "পশ্চিম কৃষ্ণপুর",
+        "jl_no": "32",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "আমিরা",
+        "jl_no": "33",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "রসুলপুর",
+        "jl_no": "35",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "মামুদপুর",
+        "jl_no": "36",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "দক্ষিণ তাউসারা",
+        "jl_no": "39",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "মাটিহাস",
+        "jl_no": "41",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "গোতাহার",
+        "jl_no": "45",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "বড়াইল",
+        "jl_no": "46",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "বাখেরা কমলগাড়ী",
+        "jl_no": "48",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "খলিসাগাড়ী",
+        "jl_no": "51",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "আলুণ্জা",
+        "jl_no": "52",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "কালিঙ্গ",
+        "jl_no": "53",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "শশীগ্রাম",
+        "jl_no": "55",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "ভাসিলা",
+        "jl_no": "56",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "শাখারঞ্জ",
+        "jl_no": "58",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "দক্ষিণ তেলিহার",
+        "jl_no": "59",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "গোলাহার",
+        "jl_no": "60",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "দামগড়",
+        "jl_no": "61",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "নাজিরপুর",
+        "jl_no": "62",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "হস্তনাবাদ",
+        "jl_no": "64",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "রঘুনাথপুর",
+        "jl_no": "65",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      },
+      {
+        "mouza_name": "কসবা",
+        "jl_no": "68",
+        "survey": "BRS",
+        "upazila": "KHETLAL"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/2:/",
+      "district_drive_url": "https://free.mouzamap.tech/2:/Joypurhat/",
+      "district_total_maps": 2160,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 19.25,
+      "catalog_github_path": "land/maps/Rajshahi/Joypurhat.json",
+      "online_folder_url": "https://free.mouzamap.tech/2:/Joypurhat/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Joypurhat",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Joypurhat",
+        "phone": "01713-000035",
+        "email": "dcjoypurhat@mopa.gov.bd",
+        "website": "http://www.joypurhat.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Joypurhat",
+        "phone": "01713-373035",
+        "email": "spjoypurhat@police.gov.bd",
+        "control_room": "01713-374035"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Joypurhat",
+        "phone": "01713-555035",
+        "email": "csjoypurhat@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "34",
+        "name": {
+          "en": "Joypurhat-1",
+          "bn": "জয়পুরহাট-১"
+        },
+        "total_voters": 466274
+      },
+      {
+        "code": "35",
+        "name": {
+          "en": "Joypurhat-2",
+          "bn": "জয়পুরহাট-২"
+        },
+        "total_voters": 351572
+      }
+    ],
+    "upazila_portal": "khetlal.joypurhat.gov.bd",
+    "district_portal": "http://www.joypurhat.gov.bd",
+    "union_portals_count": 5,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

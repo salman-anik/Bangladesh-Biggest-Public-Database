@@ -1,1 +1,596 @@
-{"division": "Barishal", "district": "Pirojpur", "upazila": "Nazirpur", "upazila_slug": "barishal__pirojpur__nazirpur", "geography": {"division": "Barishal", "division_bn": "বরিশাল", "district": "Pirojpur", "district_bn": "পিরোজপুর", "district_lat": "22.5781398", "district_lon": "89.9983909", "upazila_id": "243", "upazila": "Nazirpur", "upazila_bn": "নাজিরপুর", "official_url": "nazirpur.pirojpur.gov.bd", "total_unions": 9, "unions": [{"id": "2198", "name": "Mativangga", "bn_name": "মাটিভাংগা", "url": "mativanggaup.pirojpur.gov.bd"}, {"id": "2199", "name": "Malikhali", "bn_name": "মালিখালী", "url": "malikhaliup.pirojpur.gov.bd"}, {"id": "2200", "name": "Daulbari Dobra", "bn_name": "দেউলবাড়ী দোবড়া", "url": "daulbaridobraup.pirojpur.gov.bd"}, {"id": "2201", "name": "Dirgha", "bn_name": "দীর্ঘা", "url": "dirghaup.pirojpur.gov.bd"}, {"id": "2202", "name": "Kolardoania", "bn_name": "কলারদোয়ানিয়া", "url": "kolardoaniaup.pirojpur.gov.bd"}, {"id": "2203", "name": "Sriramkathi", "bn_name": "শ্রীরামকাঠী", "url": "sriramkathiup.pirojpur.gov.bd"}, {"id": "2204", "name": "Shakhmatia", "bn_name": "সেখমাটিয়া", "url": "shakhmatiaup.pirojpur.gov.bd"}, {"id": "2205", "name": "Nazirpur Sadar", "bn_name": "নাজিরপুর সদর", "url": "nazirpursadarup.pirojpur.gov.bd"}, {"id": "2206", "name": "Shakharikathi", "bn_name": "শাখারীকাঠী", "url": "shakharikathiup.pirojpur.gov.bd"}], "total_post_offices": 2, "postal_codes": [{"postcode": "8540", "postcode_bn": "৮৫৪০", "sub_office": "Nazirpur", "sub_office_bn": "নাজিরপুর"}, {"postcode": "8541", "postcode_bn": "৮৫৪১", "sub_office": "Sriramkathi", "sub_office_bn": "শ্রীরামকাঠি"}]}, "stats": {"education_count": 0, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 9, "postcodes_count": 2, "land_khatians_count": 25, "mouzas_count": 198}, "education": [], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 198, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "তালুক রামগোবিন্দ রায় চৌধুরী,ক দি কলমা জমিদারী, কোং লিমিটেড,খ অনাথকান্ত সেন,শৈলেজাকান্ত সেন,গ শ্রী শ্রী মোহনগোপাল জিউর,সেবাইত দং পূর্ণেন্দুনাথ ঠাকুর, প্রবোধইন্দু", "dags": "451,546,811,1167,1386,75,1656,1796,1983", "total_land": "631.30"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ক আদুরাম তরুয়া,খ অটল তরুয়া,নারায়ণ তরুয়া,গ মহাম্মদ এছাহাক,ঙ রসিকচন্দ্র মধু,চ সখিচরণ,অভয়,পার্ব্বতী,ছ সর্ব্বজয়বালা,যজ্ঞেশ্বর বালা", "dags": "548,562,564,580,552/1081,563,553,1601,1609,565,1606,1607,1608,1604,1605,1603,160", "total_land": "24.53"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "তরঙ্গিীণী দাসী", "dags": "548", "total_land": "1.80"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "আবদুলআলী,আবদুলহামিদ", "dags": "568", "total_land": "1.94"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "মহাম্মদ এছাহাক", "dags": "566,567", "total_land": "2.69"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "তরঙ্গিণী দাসী", "dags": "552", "total_land": "1.56"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ক আনেশ মোল্লা,খ আবদুলখালেক মোল্লা", "dags": "1667,1666,1665,1664,1663", "total_land": "2.97"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "বড়ু বিবি", "dags": "1661,1662,1665", "total_land": "1.55"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "মহাম্মদ আবদু,বরু বিবি,সরু বিবি,ধলাবরু বিবি,মৈরাম বিবি", "dags": "1693,1696", "total_land": "0.54"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "আবদু সেখ,সরু বিবি,ধলাবরু বিবি,মরিয়ম বিবি", "dags": "1530", "total_land": "1.87"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "কর্ষা ইমান অক্রুর বাড়ৈ,বৈকুণ্ঠ,নলিনী,সীতানাথ,সুরেন্দ্রনাথ,দেবীচরণ বাড়ৈ,সতীশচন্দ্র বাড়ৈ,জগ বাড়ৈ,অক্ষয় বাড়ৈ,রসিক বাড়ৈ,মনোহর বাড়ৈ,হরিবর বাড়ৈ,বিজয়া ঢালী,লক্ষ্মী মণ্", "dags": "1798,1799,1800,1803,1804,1805,1806,1807,1808,1809", "total_land": "3.09"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "উমাচরণ মণ্ডল", "dags": "1640,1638,1639", "total_land": "5.78"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "এছাহাক,আবদুলবারেক,তোফাজ্জলহুসেন,নোয়াবআলী,সখিনা বিবি,মোবারেক সিকদার,জিতু সিকদার,মফজেল সিকদার,মকবুল সিকদার,ছয়েনদ্দিন সিকদার,ছুটু বিবি,হাজেরা বিবি,পাচু সিকদার,মাণি", "dags": "1516,1532,1547,1531", "total_land": "5.53"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ক ওছমান,আবছারউদ্দিন,আহাম্মদ,খ ছামদ,রজ্জবালী,গ আবদুলআজিজ,আবদুলহাকেম,ঙ আবদুলমকিদ,মফজেল,গোলাপজান,ফলজানবিবি,ঙ নুরজাহান বিবি,মাজু বিবি,চ ইমানদ্দিন,সেকেলদ্দিন,জ আবদুল", "dags": "1718,1728,1727,1723,1722,1721,1719,1720,1731,1730,1740,1741,1745,1746,1750,1749,", "total_land": "26.27"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ধনাই সিকদার,আছমতআলী সিকদার,মোসলেম সিকদার", "dags": "1525,1526", "total_land": "0.28"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ওছমান,আবছের,এছাহাক,আহাম্মদ,ছমেদ,রজ্জবালী,আবদুলআজিজ,ইমানদ্দিন,আবদুলহাকেম,অত্র খতিয়ানে ওছমান আবছের, ও ছমেদ গং দখলকরেনা", "dags": "1747,1757", "total_land": "1.26"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ওয়াহেদআলী,নবাবআলী,ছরওয়ারজান,ফজললহক,জমিরদ্দিন", "dags": "1717", "total_land": "1.54"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "দলিলদ্দীন,আবদুলমালেক,ছোট বিবি", "dags": "1713,1714,1715", "total_land": "0.79"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "নেছারদ্দীন,জেনারদ্দীন", "dags": "1716,1708", "total_land": "0.58"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "ঝনঝনিয়া", "jl_no": "1", "owners": "ক কাদের দাড়িয়া,হামিদ দাড়িয়া,রসিক দাড়িয়া,খ ইমানদ্দীন দাড়িয়া,গ আলেম,মালেক,বরু বিবি,মাজু বিবি,ছুটু বিবি,সাজুবিবি,নোয়াবিবি,গ মাজু বিবি,ঙ আলতাফহুসেন,ছুলতান মিঞা,আবদু", "dags": "1658,1660,1671,1672,1673,1670,1669,1668,1659/1988", "total_land": "2.77"}], "sample_mouzas": [{"mouza_name": "ঝনঝনিয়া", "jl_no": "1", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "উত্তর মাটি ভাঙ্গা", "jl_no": "2", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "মালিখালী", "jl_no": "3", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "পেনাখালী", "jl_no": "4", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "চাতর ", "jl_no": "05", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "দেউলবাড়ী", "jl_no": "6", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "বিলডুমুরীয়া", "jl_no": "7", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "পদ্মডুবি", "jl_no": "8", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "মনোহরপুর", "jl_no": "9", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "মুগারঝোর", "jl_no": "10", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "কলারদোয়ানী", "jl_no": "11", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "গাওখালী", "jl_no": "12", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "পাকুরিয়া", "jl_no": "13", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "যুগীয় ", "jl_no": "14", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "সাচিয়া", "jl_no": "15", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "মালিখালি বৈবুনিয়া", "jl_no": "16", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "বাঘাজোড়া", "jl_no": "17", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "মাটীভাঙ্গা", "jl_no": "18", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "মাহামুদকান্দা", "jl_no": "19", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "হোগলাবুনিয়া", "jl_no": "22", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "সামন্তগাতি", "jl_no": "23", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "বানিয়ারী", "jl_no": "25", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "উত্তর তারাবুনিয়া", "jl_no": "26", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "চালীতাবাড়ী", "jl_no": "27", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "বুড়িখালী", "jl_no": "28", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "গিলাতলা", "jl_no": "29", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "সিংখালী", "jl_no": "30", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "কারখানা বাড়ী", "jl_no": "31", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "চাঁদকাঠী", "jl_no": "32", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}, {"mouza_name": "জিলবুনিয়া", "jl_no": "33", "survey": "BRS", "upazila": "NAZIRPUR UPAZILA"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod", "district_drive_url": "https://drive.google.com/drive/folders/1wOlWUqT_59h_a-mPgS8dDWQAMHM_cWZI", "district_total_maps": 2727, "district_uploaded_maps": 0, "district_total_gb": 32.166, "catalog_github_path": "land/maps/Barishal/Pirojpur.json"}}, "governance": {"administration": {"district": "Pirojpur", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Pirojpur", "phone": "01713-000048", "email": "dcpirojpur@mopa.gov.bd", "website": "http://www.pirojpur.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Pirojpur", "phone": "01713-373048", "email": "sppirojpur@police.gov.bd", "control_room": "01713-374048"}, "civil_surgeon_office": {"title": "Civil Surgeon, Pirojpur", "phone": "01713-555048", "email": "cspirojpur@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "127", "name": {"en": "Pirojpur-1", "bn": "পিরোজপুর-১"}, "total_voters": 392178}, {"code": "128", "name": {"en": "Pirojpur-2", "bn": "পিরোজপুর-২"}, "total_voters": 409288}, {"code": "129", "name": {"en": "Pirojpur-3", "bn": "পিরোজপুর-৩"}, "total_voters": 241361}], "upazila_portal": "nazirpur.pirojpur.gov.bd", "district_portal": "http://www.pirojpur.gov.bd", "union_portals_count": 9, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Barishal",
+  "district": "Pirojpur",
+  "upazila": "Nazirpur",
+  "upazila_slug": "barishal__pirojpur__nazirpur",
+  "geography": {
+    "division": "Barishal",
+    "division_bn": "বরিশাল",
+    "district": "Pirojpur",
+    "district_bn": "পিরোজপুর",
+    "district_lat": "22.5781398",
+    "district_lon": "89.9983909",
+    "upazila_id": "243",
+    "upazila": "Nazirpur",
+    "upazila_bn": "নাজিরপুর",
+    "official_url": "nazirpur.pirojpur.gov.bd",
+    "total_unions": 9,
+    "unions": [
+      {
+        "id": "2198",
+        "name": "Mativangga",
+        "bn_name": "মাটিভাংগা",
+        "url": "mativanggaup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2199",
+        "name": "Malikhali",
+        "bn_name": "মালিখালী",
+        "url": "malikhaliup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2200",
+        "name": "Daulbari Dobra",
+        "bn_name": "দেউলবাড়ী দোবড়া",
+        "url": "daulbaridobraup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2201",
+        "name": "Dirgha",
+        "bn_name": "দীর্ঘা",
+        "url": "dirghaup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2202",
+        "name": "Kolardoania",
+        "bn_name": "কলারদোয়ানিয়া",
+        "url": "kolardoaniaup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2203",
+        "name": "Sriramkathi",
+        "bn_name": "শ্রীরামকাঠী",
+        "url": "sriramkathiup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2204",
+        "name": "Shakhmatia",
+        "bn_name": "সেখমাটিয়া",
+        "url": "shakhmatiaup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2205",
+        "name": "Nazirpur Sadar",
+        "bn_name": "নাজিরপুর সদর",
+        "url": "nazirpursadarup.pirojpur.gov.bd"
+      },
+      {
+        "id": "2206",
+        "name": "Shakharikathi",
+        "bn_name": "শাখারীকাঠী",
+        "url": "shakharikathiup.pirojpur.gov.bd"
+      }
+    ],
+    "total_post_offices": 2,
+    "postal_codes": [
+      {
+        "postcode": "8540",
+        "postcode_bn": "৮৫৪০",
+        "sub_office": "Nazirpur",
+        "sub_office_bn": "নাজিরপুর"
+      },
+      {
+        "postcode": "8541",
+        "postcode_bn": "৮৫৪১",
+        "sub_office": "Sriramkathi",
+        "sub_office_bn": "শ্রীরামকাঠি"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 0,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 9,
+    "postcodes_count": 2,
+    "land_khatians_count": 25,
+    "mouzas_count": 198
+  },
+  "education": [],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 198,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "তালুক রামগোবিন্দ রায় চৌধুরী,ক দি কলমা জমিদারী, কোং লিমিটেড,খ অনাথকান্ত সেন,শৈলেজাকান্ত সেন,গ শ্রী শ্রী মোহনগোপাল জিউর,সেবাইত দং পূর্ণেন্দুনাথ ঠাকুর, প্রবোধইন্দু",
+        "dags": "451,546,811,1167,1386,75,1656,1796,1983",
+        "total_land": "631.30"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ক আদুরাম তরুয়া,খ অটল তরুয়া,নারায়ণ তরুয়া,গ মহাম্মদ এছাহাক,ঙ রসিকচন্দ্র মধু,চ সখিচরণ,অভয়,পার্ব্বতী,ছ সর্ব্বজয়বালা,যজ্ঞেশ্বর বালা",
+        "dags": "548,562,564,580,552/1081,563,553,1601,1609,565,1606,1607,1608,1604,1605,1603,160",
+        "total_land": "24.53"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "তরঙ্গিীণী দাসী",
+        "dags": "548",
+        "total_land": "1.80"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "আবদুলআলী,আবদুলহামিদ",
+        "dags": "568",
+        "total_land": "1.94"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "মহাম্মদ এছাহাক",
+        "dags": "566,567",
+        "total_land": "2.69"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "তরঙ্গিণী দাসী",
+        "dags": "552",
+        "total_land": "1.56"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ক আনেশ মোল্লা,খ আবদুলখালেক মোল্লা",
+        "dags": "1667,1666,1665,1664,1663",
+        "total_land": "2.97"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "বড়ু বিবি",
+        "dags": "1661,1662,1665",
+        "total_land": "1.55"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "মহাম্মদ আবদু,বরু বিবি,সরু বিবি,ধলাবরু বিবি,মৈরাম বিবি",
+        "dags": "1693,1696",
+        "total_land": "0.54"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "আবদু সেখ,সরু বিবি,ধলাবরু বিবি,মরিয়ম বিবি",
+        "dags": "1530",
+        "total_land": "1.87"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "কর্ষা ইমান অক্রুর বাড়ৈ,বৈকুণ্ঠ,নলিনী,সীতানাথ,সুরেন্দ্রনাথ,দেবীচরণ বাড়ৈ,সতীশচন্দ্র বাড়ৈ,জগ বাড়ৈ,অক্ষয় বাড়ৈ,রসিক বাড়ৈ,মনোহর বাড়ৈ,হরিবর বাড়ৈ,বিজয়া ঢালী,লক্ষ্মী মণ্",
+        "dags": "1798,1799,1800,1803,1804,1805,1806,1807,1808,1809",
+        "total_land": "3.09"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "উমাচরণ মণ্ডল",
+        "dags": "1640,1638,1639",
+        "total_land": "5.78"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "এছাহাক,আবদুলবারেক,তোফাজ্জলহুসেন,নোয়াবআলী,সখিনা বিবি,মোবারেক সিকদার,জিতু সিকদার,মফজেল সিকদার,মকবুল সিকদার,ছয়েনদ্দিন সিকদার,ছুটু বিবি,হাজেরা বিবি,পাচু সিকদার,মাণি",
+        "dags": "1516,1532,1547,1531",
+        "total_land": "5.53"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ক ওছমান,আবছারউদ্দিন,আহাম্মদ,খ ছামদ,রজ্জবালী,গ আবদুলআজিজ,আবদুলহাকেম,ঙ আবদুলমকিদ,মফজেল,গোলাপজান,ফলজানবিবি,ঙ নুরজাহান বিবি,মাজু বিবি,চ ইমানদ্দিন,সেকেলদ্দিন,জ আবদুল",
+        "dags": "1718,1728,1727,1723,1722,1721,1719,1720,1731,1730,1740,1741,1745,1746,1750,1749,",
+        "total_land": "26.27"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ধনাই সিকদার,আছমতআলী সিকদার,মোসলেম সিকদার",
+        "dags": "1525,1526",
+        "total_land": "0.28"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ওছমান,আবছের,এছাহাক,আহাম্মদ,ছমেদ,রজ্জবালী,আবদুলআজিজ,ইমানদ্দিন,আবদুলহাকেম,অত্র খতিয়ানে ওছমান আবছের, ও ছমেদ গং দখলকরেনা",
+        "dags": "1747,1757",
+        "total_land": "1.26"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ওয়াহেদআলী,নবাবআলী,ছরওয়ারজান,ফজললহক,জমিরদ্দিন",
+        "dags": "1717",
+        "total_land": "1.54"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "দলিলদ্দীন,আবদুলমালেক,ছোট বিবি",
+        "dags": "1713,1714,1715",
+        "total_land": "0.79"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "নেছারদ্দীন,জেনারদ্দীন",
+        "dags": "1716,1708",
+        "total_land": "0.58"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "owners": "ক কাদের দাড়িয়া,হামিদ দাড়িয়া,রসিক দাড়িয়া,খ ইমানদ্দীন দাড়িয়া,গ আলেম,মালেক,বরু বিবি,মাজু বিবি,ছুটু বিবি,সাজুবিবি,নোয়াবিবি,গ মাজু বিবি,ঙ আলতাফহুসেন,ছুলতান মিঞা,আবদু",
+        "dags": "1658,1660,1671,1672,1673,1670,1669,1668,1659/1988",
+        "total_land": "2.77"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "ঝনঝনিয়া",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "উত্তর মাটি ভাঙ্গা",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "মালিখালী",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "পেনাখালী",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "চাতর ",
+        "jl_no": "05",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "দেউলবাড়ী",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "বিলডুমুরীয়া",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "পদ্মডুবি",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "মনোহরপুর",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "মুগারঝোর",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "কলারদোয়ানী",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "গাওখালী",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "পাকুরিয়া",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "যুগীয় ",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "সাচিয়া",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "মালিখালি বৈবুনিয়া",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "বাঘাজোড়া",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "মাটীভাঙ্গা",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "মাহামুদকান্দা",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "হোগলাবুনিয়া",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "সামন্তগাতি",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "বানিয়ারী",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "উত্তর তারাবুনিয়া",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "চালীতাবাড়ী",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "বুড়িখালী",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "গিলাতলা",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "সিংখালী",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "কারখানা বাড়ী",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "চাঁদকাঠী",
+        "jl_no": "32",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      },
+      {
+        "mouza_name": "জিলবুনিয়া",
+        "jl_no": "33",
+        "survey": "BRS",
+        "upazila": "NAZIRPUR UPAZILA"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/4:/",
+      "district_drive_url": "https://free.mouzamap.tech/4:/Pirojpur/",
+      "district_total_maps": 2727,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 32.166,
+      "catalog_github_path": "land/maps/Barishal/Pirojpur.json",
+      "online_folder_url": "https://free.mouzamap.tech/4:/Pirojpur/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Pirojpur",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Pirojpur",
+        "phone": "01713-000048",
+        "email": "dcpirojpur@mopa.gov.bd",
+        "website": "http://www.pirojpur.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Pirojpur",
+        "phone": "01713-373048",
+        "email": "sppirojpur@police.gov.bd",
+        "control_room": "01713-374048"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Pirojpur",
+        "phone": "01713-555048",
+        "email": "cspirojpur@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "127",
+        "name": {
+          "en": "Pirojpur-1",
+          "bn": "পিরোজপুর-১"
+        },
+        "total_voters": 392178
+      },
+      {
+        "code": "128",
+        "name": {
+          "en": "Pirojpur-2",
+          "bn": "পিরোজপুর-২"
+        },
+        "total_voters": 409288
+      },
+      {
+        "code": "129",
+        "name": {
+          "en": "Pirojpur-3",
+          "bn": "পিরোজপুর-৩"
+        },
+        "total_voters": 241361
+      }
+    ],
+    "upazila_portal": "nazirpur.pirojpur.gov.bd",
+    "district_portal": "http://www.pirojpur.gov.bd",
+    "union_portals_count": 9,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

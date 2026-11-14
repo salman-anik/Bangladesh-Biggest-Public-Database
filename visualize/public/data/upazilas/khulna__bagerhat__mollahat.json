@@ -1,1 +1,1061 @@
-{"division": "Khulna", "district": "Bagerhat", "upazila": "Mollahat", "upazila_slug": "khulna__bagerhat__mollahat", "geography": {"division": "Khulna", "division_bn": "খুলনা", "district": "Bagerhat", "district_bn": "বাগেরহাট", "district_lat": "22.651568", "district_lon": "89.785938", "upazila_id": "217", "upazila": "Mollahat", "upazila_bn": "মোল্লাহাট", "official_url": "mollahat.bagerhat.gov.bd", "total_unions": 7, "unions": [{"id": "1963", "name": "Udoypur", "bn_name": "উদয়পুর", "url": "udoypurup.bagerhat.gov.bd"}, {"id": "1964", "name": "Chunkhola", "bn_name": "চুনখোলা", "url": "chunkholaup.bagerhat.gov.bd"}, {"id": "1965", "name": "Gangni", "bn_name": "গাংনী", "url": "gangniup.bagerhat.gov.bd"}, {"id": "1966", "name": "Kulia", "bn_name": "কুলিয়া", "url": "kuliaup.bagerhat.gov.bd"}, {"id": "1967", "name": "Gaola", "bn_name": "গাওলা", "url": "gaolaup.bagerhat.gov.bd"}, {"id": "1968", "name": "Kodalia", "bn_name": "কোদালিয়া", "url": "kodaliaup.bagerhat.gov.bd"}, {"id": "1969", "name": "Atjuri", "bn_name": "আটজুড়ী", "url": "atjuriup.bagerhat.gov.bd"}], "total_post_offices": 6, "postal_codes": [{"postcode": "9383", "postcode_bn": "৯৩৮৩", "sub_office": "Charkulia", "sub_office_bn": "Charkulia"}, {"postcode": "9382", "postcode_bn": "৯৩৮২", "sub_office": "Dariala", "sub_office_bn": "Dariala"}, {"postcode": "9381", "postcode_bn": "৯৩৮১", "sub_office": "Kahalpur", "sub_office_bn": "Kahalpur"}, {"postcode": "9380", "postcode_bn": "৯৩৮০", "sub_office": "Mollahat", "sub_office_bn": "মোল্লাহাট"}, {"postcode": "9384", "postcode_bn": "৯৩৮৪", "sub_office": "Nagarkandi", "sub_office_bn": "Nagarkandi"}, {"postcode": "9385", "postcode_bn": "৯৩৮৫", "sub_office": "Pak Gangni", "sub_office_bn": "পাক গাংনী"}]}, "stats": {"education_count": 37, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 7, "postcodes_count": 6, "land_khatians_count": 25, "mouzas_count": 196}, "education": [{"eiin": "114984", "name": "JATIR JANAK BANGABANDHU WOMAN COLLAGE", "name_bn": "মোল্লাহাট সরকারি মহিলা কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01732005216", "email": "jjbangabandhumohilacollege@gmail.com", "teacher_count": 0, "file": "JATIR JANAK BANGABANDHU WOMAN COLLAGE.json"}, {"eiin": "114983", "name": "KHALILUR RAHMAN COLLEGE,MOLLAHAT", "name_bn": "খলিলুর রহমান কলেজ, মোল্লাহাট।", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01716780076", "email": "azadkrc@yahoo.com", "teacher_count": 0, "file": "KHALILUR RAHMAN COLLEGE,MOLLAHAT.json"}, {"eiin": "114981", "name": "LAILA AZAD DEGREE COLLEGE", "name_bn": "লায়লা আজাদ কলেজ", "type": "COLLEGE", "level": "Higher Secondary", "category": "college", "mobile": "01915878369", "email": "lailaazadcollege@gmail.com", "teacher_count": 0, "file": "LAILA AZAD DEGREE COLLEGE.json"}, {"eiin": "114979", "name": "CHARKULIA MOHILA DAKHIL MADRASHA", "name_bn": "চরকুলিয়া মহিলা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01762181218", "email": "mcwdm114979@gmail.com", "teacher_count": 0, "file": "CHARKULIA MOHILA DAKHIL MADRASHA.json"}, {"eiin": "114980", "name": "KAMARGRAM JATIR JANAK BANGABANDHU S K MADRASAH", "name_bn": "কামারগ্রাম জাতির জনক বঙ্গবন্ধু শেখ মুজিবুর রহমান দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01719805537", "email": "mbsm114980@gmail.com", "teacher_count": 0, "file": "KAMARGRAM JATIR JANAK BANGABANDHU S K MADRASAH.json"}, {"eiin": "114978", "name": "RAJPAT SHARULIA AKBARIA DAKHIL MADRASAH", "name_bn": "রাজপাট সারুলিয়া আকবরিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01944829687", "email": "mrdm114978@gmail.com", "teacher_count": 0, "file": "RAJPAT SHARULIA AKBARIA DAKHIL MADRASAH.json"}, {"eiin": "114977", "name": "KAHALPUR ALIM MADRASHA", "name_bn": "কাহালপুর আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01719069779", "email": "mkam114977@gmail.com", "teacher_count": 0, "file": "KAHALPUR ALIM MADRASHA.json"}, {"eiin": "114976", "name": "NUTAN GHOSHGATI SENIOR MADRASHA", "name_bn": "নূতন ঘোষগাতী আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01740873242", "email": "mngam114976@gmail.com", "teacher_count": 0, "file": "NUTAN GHOSHGATI SENIOR MADRASHA.json"}, {"eiin": "137445", "name": "15NO. SHOLABARIA GOVT. PRIMARY SCHOOL", "name_bn": null, "type": null, "level": null, "category": "other", "mobile": "01731206545", "email": null, "teacher_count": 0, "file": "15NO. SHOLABARIA GOVT. PRIMARY SCHOOL.json"}, {"eiin": "132614", "name": "C.S. TECHNICAL AND B.M. COLLEGE", "name_bn": "সি এস টেকনিক্যাল অ্যান্ড বিএম কলেজ", "type": null, "level": null, "category": "other", "mobile": "01719836112", "email": null, "teacher_count": 0, "file": "C.S. TECHNICAL AND B.M. COLLEGE.json"}, {"eiin": "132580", "name": "LUTFOR RAHMAN BUSINESS MANAGEMENT COLLEGE", "name_bn": "লুৎফর রহমান বিজনেস ম্যানেজমেন্ট কলেজ", "type": null, "level": null, "category": "other", "mobile": "01925143230", "email": null, "teacher_count": 0, "file": "LUTFOR RAHMAN BUSINESS MANAGEMENT COLLEGE.json"}, {"eiin": "138404", "name": "NOOR JAHAN MOHILA BM COLLEGE", "name_bn": "নূরজাহান মহিলা (বিএম) কলেজ", "type": null, "level": null, "category": "other", "mobile": "01712335170", "email": null, "teacher_count": 0, "file": "NOOR JAHAN MOHILA BM COLLEGE.json"}, {"eiin": "114967", "name": "A.S.S.M.HIGH SCHOOL(SINGATI)", "name_bn": "এ.এস.এস.এম.মাধ্যমিক বিদ্যালয় (সিংগাতী)", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01727016682", "email": "sassm114967@gmail.com", "teacher_count": 197, "file": "A.S.S.M.HIGH SCHOOL(SINGATI).json"}, {"eiin": "114969", "name": "BHANDERKHOLA JUNIOR GIRLS HIGH SCHOOL", "name_bn": "ভান্ডারখোলা নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01754278834", "email": "sbjh114969@gmail.com", "teacher_count": 125, "file": "BHANDERKHOLA JUNIOR GIRLS HIGH SCHOOL.json"}, {"eiin": "114972", "name": "CHANDER HAT GIRLS HIGH SCHOOL", "name_bn": "চাঁদেরহাট বালিকা মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01752863778", "email": "schanderhat114972@gmail.com", "teacher_count": 181, "file": "CHANDER HAT GIRLS HIGH SCHOOL.json"}, {"eiin": "114960", "name": "CHANDERHAT HIGH SCHOOL", "name_bn": "চাঁদেরহাট বহুমূখী মাধ্যমিক বিল্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01720478316", "email": "chs114960@gmail.com", "teacher_count": 196, "file": "CHANDERHAT HIGH SCHOOL.json"}, {"eiin": "114974", "name": "CHARKULIA GIRLS HIGH SCHOOL", "name_bn": "চরকুলিয়া মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01736782400", "email": "hasibakhatun01@gmail.com", "teacher_count": 208, "file": "CHARKULIA GIRLS HIGH SCHOOL.json"}, {"eiin": "114964", "name": "CHARKULIA HIGH SCHOOL", "name_bn": "চরকুলিয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01941925548", "email": "charkuliasecondaryschool454@yahoo.com", "teacher_count": 191, "file": "CHARKULIA HIGH SCHOOL.json"}, {"eiin": "114970", "name": "CHAULTURY HIGH SCHOOL", "name_bn": "চাউলটুরী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01734584105", "email": "scss114970@gmail.com", "teacher_count": 187, "file": "CHAULTURY HIGH SCHOOL.json"}, {"eiin": "114957", "name": "DARIALA KACHNA KUSHLA SECONDARY SCHOOL", "name_bn": "দারিয়ালা কাচনা কুশলা মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01621793066", "email": "sdkk114957@gmail.com", "teacher_count": 246, "file": "DARIALA KACHNA KUSHLA SECONDARY SCHOOL.json"}, {"eiin": "114956", "name": "DATTADANGA A.C. SECONDARY ACADEMY", "name_bn": "দত্তডাঙ্গা অভয় চরন মাধ্যমিক একাডেমি", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01723324511", "email": "s.dacsa114956@yahoo.com", "teacher_count": 207, "file": "DATTADANGA A.C. SECONDARY ACADEMY.json"}, {"eiin": "114966", "name": "DR. MONSUR AHMAD HIGH SCHOOL", "name_bn": "ডাঃ মনসুর আহমদ মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715743188", "email": "sdmas114966@gmail.com", "teacher_count": 219, "file": "DR. MONSUR AHMAD HIGH SCHOOL.json"}, {"eiin": "114961", "name": "GANGNI HIGH SCHOOL", "name_bn": "গাংনী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711379217", "email": "sgs114961@gmail.com", "teacher_count": 286, "file": "GANGNI HIGH SCHOOL.json"}, {"eiin": "138414", "name": "GHOSHGATI DR HEMAYET UDDIN SECONDARY GIRLS SCHOOL", "name_bn": "ঘোষগাতী ডা. হেমায়েত উদ্দিন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01714509930", "email": "gdhusgs@gmail.com", "teacher_count": 66, "file": "GHOSHGATI DR HEMAYET UDDIN SECONDARY GIRLS SCHOOL.json"}, {"eiin": "114973", "name": "GIRISHNAGAR GARFA SECONDARY HIGH SCHOOL", "name_bn": "গিরিশনগর গাড়ফা মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01939414398", "email": "sgghs@gmail.com", "teacher_count": 178, "file": "GIRISHNAGAR GARFA SECONDARY HIGH SCHOOL.json"}, {"eiin": "114965", "name": "K.N.A.S.A HAMID HIGH SCHOOL", "name_bn": "কচুড়িয়া নালুয়া আড়ুয়াডিহি শেখ আব্দুল হামিদ মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714303008", "email": "sknasa114965@gmail.com", "teacher_count": 190, "file": "K.N.A.S.A HAMID HIGH SCHOOL.json"}, {"eiin": "114959", "name": "KACHURIA BAZAR HAZI SABER MOLLA MEMORIAL SECONDARY SCHOOL", "name_bn": "কচুড়িয়া বাজার হাজী ছাবের মোল্লা মেমোরিয়াল মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740848615", "email": "skb114959@gmail.com", "teacher_count": 279, "file": "KACHURIA BAZAR HAZI SABER MOLLA MEMORIAL SECONDARY SCHOOL.json"}, {"eiin": "114963", "name": "KAMAR GRAM SECONDARY SCHOOL", "name_bn": "কামারগ্রাম মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01711950578", "email": "ss114963@gmail.com", "teacher_count": 116, "file": "KAMAR GRAM SECONDARY SCHOOL.json"}, {"eiin": "114975", "name": "KODALIA HIGH SCHOOL", "name_bn": "কোদালিয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01717007424", "email": "sknb114975@gmail.com", "teacher_count": 97, "file": "KODALIA HIGH SCHOOL.json"}, {"eiin": "114971", "name": "KODALIA M.H.B. JUNIOR GIRLS HIGH SCHOOL", "name_bn": "কোদালিয়া মোসাম্মৎ হালিমা বেগম নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01729824996", "email": "kmhbjgs114971@gmail.com", "teacher_count": 109, "file": "KODALIA M.H.B. JUNIOR GIRLS HIGH SCHOOL.json"}, {"eiin": "133828", "name": "NAGARKANDI SAPTA PALLI SECONDARY SCHOOL", "name_bn": "নগরকান্দি সপ্তপল্লী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01716717841", "email": "sns133828ict@gmail.com", "teacher_count": 202, "file": "NAGARKANDI SAPTA PALLI SECONDARY SCHOOL.json"}, {"eiin": "114962", "name": "NASHUKHALI SOCIAL WELFARE HIGH SCHOOL", "name_bn": "নাশুখালি সোশ্যাল ওয়েলফেয়ার হাই স্কুল", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715467094", "email": "snashukhali114962@gmail.com", "teacher_count": 350, "file": "NASHUKHALI SOCIAL WELFARE HIGH SCHOOL.json"}, {"eiin": "114955", "name": "SACHIADAH CHUKHOLA M.B. SECONDARY SCHOOL", "name_bn": "সাচিয়াদহ চুনখোলা মুকুন্দ বিহারী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01916393220", "email": "ssc114955@gmail.com", "teacher_count": 250, "file": "SACHIADAH CHUKHOLA M.B. SECONDARY SCHOOL.json"}, {"eiin": "131437", "name": "SATYA SHIKSHA NIKETAN (JUNIOR)", "name_bn": "সত্য শিক্ষা নিকেতন", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01919365818", "email": "satya131437@gmail.com", "teacher_count": 96, "file": "SATYA SHIKSHA NIKETAN (JUNIOR).json"}, {"eiin": "114968", "name": "SHAHEED HEMAYET UDDIN GIRKS HIGH SCHOOL", "name_bn": "শহীদ হেমায়েত উদ্দিন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01715518023", "email": "sshusgs114968@gmail.com", "teacher_count": 278, "file": "SHAHEED HEMAYET UDDIN GIRKS HIGH SCHOOL.json"}, {"eiin": "140011", "name": "TETULBARI M M OBAYDUR RAHMAN SECONDARY SCHOOL", "name_bn": "তেঁতুলবাড়ি এম এম ওবায়দুর রহমান মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01738055166", "email": "kashem02kalim@gmail.com", "teacher_count": 22, "file": "TETULBARI M M OBAYDUR RAHMAN SECONDARY SCHOOL.json"}, {"eiin": "114954", "name": "WAZED MEMORIAL GOVT. MODEL HIGH SCHOOL", "name_bn": "সরকারি ওয়াজেদ মেমোরিয়াল মডেল মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01740616086", "email": "swm114954@gmail.com", "teacher_count": 512, "file": "WAZED MEMORIAL GOVT. MODEL HIGH SCHOOL.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 196, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক বাগেরহাট", "dags": "48/814,354,503", "total_land": "1.48"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "বাংলাদেশ সরকার পক্ষে শিক্ষা বিভাগ বাগেরহাট", "dags": "623", "total_land": "0.42"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আছিফার রহমান", "dags": "590", "total_land": "0.13"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অছিকার রহমান,রকু মিয়া কাজী", "dags": "618,619", "total_land": "0.12"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অনিল চন্দ্র বালা (অ:)", "dags": "136,377", "total_land": "0.43"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অনিল চন্দ্র চিন্তাপাত্র,মনিন্দ্র চন্দ্র চিন্তাপাত্র", "dags": "95,96,97,98,131,133,455", "total_land": "1.41"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অনিল চন্দ্র চিন্তাপাত্র,মনিন্দ্র চন্দ্র চিন্তাপাত্র,নলিন চন্দ্র চিন্তাপাত্র", "dags": "465,478,481,490", "total_land": "0.40"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অলিউর রহমান,আজিজুর রহমান", "dags": "606", "total_land": "0.17"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অশ্বিনী কুমার বৈরাগী,ধীরেন্দ্র বৈরাগী,বীরেশ্বর বৈরাগী,বীরেন বৈরাগী", "dags": "671,679,680,684,685,500", "total_land": "0.35"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আকবর আলী", "dags": "417/813,761", "total_land": "0.15"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আবুল হোসেন,আবুল কাসেম,মোন মতি,ফুরজান বিবি", "dags": "776,785", "total_land": "1.17"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "অঘুতোষ বিশ্বাস,সুধীর কুমার বিশ্বাস,ননী গোপাল বিশ্বাস", "dags": "137,180", "total_land": "0.78"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আকরাম আলী,এমদাদুল হোসেন,পান্না মিয়া,জামসের আলী,দীন ইসলাম,আলতাব হোসেন,নুর আলম", "dags": "83", "total_land": "0.32"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আককাছ আলী মুন্সি", "dags": "75", "total_land": "0.54"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আকেকল মোল্লা", "dags": "3", "total_land": "0.05"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আকুবার আলী,ছাকায়েত আলী,রুহল আমিন", "dags": "254", "total_land": "1.25"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আনোয়ারা খাতুন", "dags": "259,275", "total_land": "1.26"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আয়মনা খাতুন", "dags": "426", "total_land": "0.52"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "মালিক দং,আক্তার উদ্দিন মুন্সি", "dags": "613,717", "total_land": "0.38"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "owners": "আরজ আলী", "dags": "17", "total_land": "0.11"}], "sample_mouzas": [{"mouza_name": "চুনখোলা", "jl_no": "1", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "শোলাবাড়ীয়া", "jl_no": "2", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "শাশন", "jl_no": "3", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "সিংগাতী", "jl_no": "4", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "মৌপুর", "jl_no": "5", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "আস্তাইল", "jl_no": "6", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "চর আস্তাইল", "jl_no": "6", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "ঘোড়াদাইর", "jl_no": "9", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "উত্তর বামন ডাঙ্গা", "jl_no": "10", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "আংরা", "jl_no": "11", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "ডাবরা", "jl_no": "12", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "কাচনা", "jl_no": "13", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "ধবলিয়া", "jl_no": "14", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "মণ্ডল গাতি", "jl_no": "15", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "চকগুয়াখোলা", "jl_no": "16", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "মৎস্যসারা", "jl_no": "17", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "ঠেংগারগাতী", "jl_no": "18", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "নরসিংহপুর", "jl_no": "19", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "গাঙ্গনী", "jl_no": "20", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "রামজীবনপুর", "jl_no": "21", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "মান্দারতলী", "jl_no": "22", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "নাশুখালী", "jl_no": "23", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "গাওলা", "jl_no": "24", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "কেন্দুয়া", "jl_no": "25", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "বিলকাতলী", "jl_no": "26", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "লোনাডাঙ্গা", "jl_no": "27", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "মাটিয়ারগাতী", "jl_no": "28", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "চকদাহ", "jl_no": "29", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "কাকুরিয়া", "jl_no": "30", "survey": "BRS", "upazila": "MOLLAHAT"}, {"mouza_name": "দিগঙ্গা", "jl_no": "31", "survey": "BRS", "upazila": "MOLLAHAT"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg", "district_drive_url": "https://drive.google.com/drive/folders/1sCIM_f5crh4IRdRmcvnqQMBHB9tXkEro", "district_total_maps": 3135, "district_uploaded_maps": 8, "district_total_gb": 31.149, "catalog_github_path": "land/maps/Khulna/Bagerhat.json"}}, "governance": {"administration": {"district": "Bagerhat", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Bagerhat", "phone": "01713-000040", "email": "dcbagerhat@mopa.gov.bd", "website": "http://www.bagerhat.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Bagerhat", "phone": "01713-373040", "email": "spbagerhat@police.gov.bd", "control_room": "01713-374040"}, "civil_surgeon_office": {"title": "Civil Surgeon, Bagerhat", "phone": "01713-555040", "email": "csbagerhat@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "95", "name": {"en": "Bagerhat-1", "bn": "বাগেরহাট-১"}, "total_voters": 375560}, {"code": "96", "name": {"en": "Bagerhat-2", "bn": "বাগেরহাট-২"}, "total_voters": 338009}, {"code": "97", "name": {"en": "Bagerhat-3", "bn": "বাগেরহাট-৩"}, "total_voters": 266864}, {"code": "98", "name": {"en": "Bagerhat-4", "bn": "বাগেরহাট-৪"}, "total_voters": 380679}], "upazila_portal": "mollahat.bagerhat.gov.bd", "district_portal": "http://www.bagerhat.gov.bd", "union_portals_count": 7, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Khulna",
+  "district": "Bagerhat",
+  "upazila": "Mollahat",
+  "upazila_slug": "khulna__bagerhat__mollahat",
+  "geography": {
+    "division": "Khulna",
+    "division_bn": "খুলনা",
+    "district": "Bagerhat",
+    "district_bn": "বাগেরহাট",
+    "district_lat": "22.651568",
+    "district_lon": "89.785938",
+    "upazila_id": "217",
+    "upazila": "Mollahat",
+    "upazila_bn": "মোল্লাহাট",
+    "official_url": "mollahat.bagerhat.gov.bd",
+    "total_unions": 7,
+    "unions": [
+      {
+        "id": "1963",
+        "name": "Udoypur",
+        "bn_name": "উদয়পুর",
+        "url": "udoypurup.bagerhat.gov.bd"
+      },
+      {
+        "id": "1964",
+        "name": "Chunkhola",
+        "bn_name": "চুনখোলা",
+        "url": "chunkholaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "1965",
+        "name": "Gangni",
+        "bn_name": "গাংনী",
+        "url": "gangniup.bagerhat.gov.bd"
+      },
+      {
+        "id": "1966",
+        "name": "Kulia",
+        "bn_name": "কুলিয়া",
+        "url": "kuliaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "1967",
+        "name": "Gaola",
+        "bn_name": "গাওলা",
+        "url": "gaolaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "1968",
+        "name": "Kodalia",
+        "bn_name": "কোদালিয়া",
+        "url": "kodaliaup.bagerhat.gov.bd"
+      },
+      {
+        "id": "1969",
+        "name": "Atjuri",
+        "bn_name": "আটজুড়ী",
+        "url": "atjuriup.bagerhat.gov.bd"
+      }
+    ],
+    "total_post_offices": 6,
+    "postal_codes": [
+      {
+        "postcode": "9383",
+        "postcode_bn": "৯৩৮৩",
+        "sub_office": "Charkulia",
+        "sub_office_bn": "Charkulia"
+      },
+      {
+        "postcode": "9382",
+        "postcode_bn": "৯৩৮২",
+        "sub_office": "Dariala",
+        "sub_office_bn": "Dariala"
+      },
+      {
+        "postcode": "9381",
+        "postcode_bn": "৯৩৮১",
+        "sub_office": "Kahalpur",
+        "sub_office_bn": "Kahalpur"
+      },
+      {
+        "postcode": "9380",
+        "postcode_bn": "৯৩৮০",
+        "sub_office": "Mollahat",
+        "sub_office_bn": "মোল্লাহাট"
+      },
+      {
+        "postcode": "9384",
+        "postcode_bn": "৯৩৮৪",
+        "sub_office": "Nagarkandi",
+        "sub_office_bn": "Nagarkandi"
+      },
+      {
+        "postcode": "9385",
+        "postcode_bn": "৯৩৮৫",
+        "sub_office": "Pak Gangni",
+        "sub_office_bn": "পাক গাংনী"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 37,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 7,
+    "postcodes_count": 6,
+    "land_khatians_count": 25,
+    "mouzas_count": 196
+  },
+  "education": [
+    {
+      "eiin": "114984",
+      "name": "JATIR JANAK BANGABANDHU WOMAN COLLAGE",
+      "name_bn": "মোল্লাহাট সরকারি মহিলা কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01732005216",
+      "email": "jjbangabandhumohilacollege@gmail.com",
+      "teacher_count": 0,
+      "file": "JATIR JANAK BANGABANDHU WOMAN COLLAGE.json"
+    },
+    {
+      "eiin": "114983",
+      "name": "KHALILUR RAHMAN COLLEGE,MOLLAHAT",
+      "name_bn": "খলিলুর রহমান কলেজ, মোল্লাহাট।",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01716780076",
+      "email": "azadkrc@yahoo.com",
+      "teacher_count": 0,
+      "file": "KHALILUR RAHMAN COLLEGE,MOLLAHAT.json"
+    },
+    {
+      "eiin": "114981",
+      "name": "LAILA AZAD DEGREE COLLEGE",
+      "name_bn": "লায়লা আজাদ কলেজ",
+      "type": "COLLEGE",
+      "level": "Higher Secondary",
+      "category": "college",
+      "mobile": "01915878369",
+      "email": "lailaazadcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "LAILA AZAD DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "114979",
+      "name": "CHARKULIA MOHILA DAKHIL MADRASHA",
+      "name_bn": "চরকুলিয়া মহিলা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01762181218",
+      "email": "mcwdm114979@gmail.com",
+      "teacher_count": 0,
+      "file": "CHARKULIA MOHILA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "114980",
+      "name": "KAMARGRAM JATIR JANAK BANGABANDHU S K MADRASAH",
+      "name_bn": "কামারগ্রাম জাতির জনক বঙ্গবন্ধু শেখ মুজিবুর রহমান দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01719805537",
+      "email": "mbsm114980@gmail.com",
+      "teacher_count": 0,
+      "file": "KAMARGRAM JATIR JANAK BANGABANDHU S K MADRASAH.json"
+    },
+    {
+      "eiin": "114978",
+      "name": "RAJPAT SHARULIA AKBARIA DAKHIL MADRASAH",
+      "name_bn": "রাজপাট সারুলিয়া আকবরিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01944829687",
+      "email": "mrdm114978@gmail.com",
+      "teacher_count": 0,
+      "file": "RAJPAT SHARULIA AKBARIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "114977",
+      "name": "KAHALPUR ALIM MADRASHA",
+      "name_bn": "কাহালপুর আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01719069779",
+      "email": "mkam114977@gmail.com",
+      "teacher_count": 0,
+      "file": "KAHALPUR ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "114976",
+      "name": "NUTAN GHOSHGATI SENIOR MADRASHA",
+      "name_bn": "নূতন ঘোষগাতী আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01740873242",
+      "email": "mngam114976@gmail.com",
+      "teacher_count": 0,
+      "file": "NUTAN GHOSHGATI SENIOR MADRASHA.json"
+    },
+    {
+      "eiin": "137445",
+      "name": "15NO. SHOLABARIA GOVT. PRIMARY SCHOOL",
+      "name_bn": null,
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01731206545",
+      "email": null,
+      "teacher_count": 0,
+      "file": "15NO. SHOLABARIA GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "132614",
+      "name": "C.S. TECHNICAL AND B.M. COLLEGE",
+      "name_bn": "সি এস টেকনিক্যাল অ্যান্ড বিএম কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01719836112",
+      "email": null,
+      "teacher_count": 0,
+      "file": "C.S. TECHNICAL AND B.M. COLLEGE.json"
+    },
+    {
+      "eiin": "132580",
+      "name": "LUTFOR RAHMAN BUSINESS MANAGEMENT COLLEGE",
+      "name_bn": "লুৎফর রহমান বিজনেস ম্যানেজমেন্ট কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01925143230",
+      "email": null,
+      "teacher_count": 0,
+      "file": "LUTFOR RAHMAN BUSINESS MANAGEMENT COLLEGE.json"
+    },
+    {
+      "eiin": "138404",
+      "name": "NOOR JAHAN MOHILA BM COLLEGE",
+      "name_bn": "নূরজাহান মহিলা (বিএম) কলেজ",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01712335170",
+      "email": null,
+      "teacher_count": 0,
+      "file": "NOOR JAHAN MOHILA BM COLLEGE.json"
+    },
+    {
+      "eiin": "114967",
+      "name": "A.S.S.M.HIGH SCHOOL(SINGATI)",
+      "name_bn": "এ.এস.এস.এম.মাধ্যমিক বিদ্যালয় (সিংগাতী)",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01727016682",
+      "email": "sassm114967@gmail.com",
+      "teacher_count": 197,
+      "file": "A.S.S.M.HIGH SCHOOL(SINGATI).json"
+    },
+    {
+      "eiin": "114969",
+      "name": "BHANDERKHOLA JUNIOR GIRLS HIGH SCHOOL",
+      "name_bn": "ভান্ডারখোলা নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01754278834",
+      "email": "sbjh114969@gmail.com",
+      "teacher_count": 125,
+      "file": "BHANDERKHOLA JUNIOR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114972",
+      "name": "CHANDER HAT GIRLS HIGH SCHOOL",
+      "name_bn": "চাঁদেরহাট বালিকা মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01752863778",
+      "email": "schanderhat114972@gmail.com",
+      "teacher_count": 181,
+      "file": "CHANDER HAT GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114960",
+      "name": "CHANDERHAT HIGH SCHOOL",
+      "name_bn": "চাঁদেরহাট বহুমূখী মাধ্যমিক বিল্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01720478316",
+      "email": "chs114960@gmail.com",
+      "teacher_count": 196,
+      "file": "CHANDERHAT HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114974",
+      "name": "CHARKULIA GIRLS HIGH SCHOOL",
+      "name_bn": "চরকুলিয়া মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01736782400",
+      "email": "hasibakhatun01@gmail.com",
+      "teacher_count": 208,
+      "file": "CHARKULIA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114964",
+      "name": "CHARKULIA HIGH SCHOOL",
+      "name_bn": "চরকুলিয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01941925548",
+      "email": "charkuliasecondaryschool454@yahoo.com",
+      "teacher_count": 191,
+      "file": "CHARKULIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114970",
+      "name": "CHAULTURY HIGH SCHOOL",
+      "name_bn": "চাউলটুরী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01734584105",
+      "email": "scss114970@gmail.com",
+      "teacher_count": 187,
+      "file": "CHAULTURY HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114957",
+      "name": "DARIALA KACHNA KUSHLA SECONDARY SCHOOL",
+      "name_bn": "দারিয়ালা কাচনা কুশলা মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01621793066",
+      "email": "sdkk114957@gmail.com",
+      "teacher_count": 246,
+      "file": "DARIALA KACHNA KUSHLA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114956",
+      "name": "DATTADANGA A.C. SECONDARY ACADEMY",
+      "name_bn": "দত্তডাঙ্গা অভয় চরন মাধ্যমিক একাডেমি",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01723324511",
+      "email": "s.dacsa114956@yahoo.com",
+      "teacher_count": 207,
+      "file": "DATTADANGA A.C. SECONDARY ACADEMY.json"
+    },
+    {
+      "eiin": "114966",
+      "name": "DR. MONSUR AHMAD HIGH SCHOOL",
+      "name_bn": "ডাঃ মনসুর আহমদ মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715743188",
+      "email": "sdmas114966@gmail.com",
+      "teacher_count": 219,
+      "file": "DR. MONSUR AHMAD HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114961",
+      "name": "GANGNI HIGH SCHOOL",
+      "name_bn": "গাংনী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711379217",
+      "email": "sgs114961@gmail.com",
+      "teacher_count": 286,
+      "file": "GANGNI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "138414",
+      "name": "GHOSHGATI DR HEMAYET UDDIN SECONDARY GIRLS SCHOOL",
+      "name_bn": "ঘোষগাতী ডা. হেমায়েত উদ্দিন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01714509930",
+      "email": "gdhusgs@gmail.com",
+      "teacher_count": 66,
+      "file": "GHOSHGATI DR HEMAYET UDDIN SECONDARY GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "114973",
+      "name": "GIRISHNAGAR GARFA SECONDARY HIGH SCHOOL",
+      "name_bn": "গিরিশনগর গাড়ফা মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01939414398",
+      "email": "sgghs@gmail.com",
+      "teacher_count": 178,
+      "file": "GIRISHNAGAR GARFA SECONDARY HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114965",
+      "name": "K.N.A.S.A HAMID HIGH SCHOOL",
+      "name_bn": "কচুড়িয়া নালুয়া আড়ুয়াডিহি শেখ আব্দুল হামিদ মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714303008",
+      "email": "sknasa114965@gmail.com",
+      "teacher_count": 190,
+      "file": "K.N.A.S.A HAMID HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114959",
+      "name": "KACHURIA BAZAR HAZI SABER MOLLA MEMORIAL SECONDARY SCHOOL",
+      "name_bn": "কচুড়িয়া বাজার হাজী ছাবের মোল্লা মেমোরিয়াল মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740848615",
+      "email": "skb114959@gmail.com",
+      "teacher_count": 279,
+      "file": "KACHURIA BAZAR HAZI SABER MOLLA MEMORIAL SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114963",
+      "name": "KAMAR GRAM SECONDARY SCHOOL",
+      "name_bn": "কামারগ্রাম মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01711950578",
+      "email": "ss114963@gmail.com",
+      "teacher_count": 116,
+      "file": "KAMAR GRAM SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114975",
+      "name": "KODALIA HIGH SCHOOL",
+      "name_bn": "কোদালিয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01717007424",
+      "email": "sknb114975@gmail.com",
+      "teacher_count": 97,
+      "file": "KODALIA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114971",
+      "name": "KODALIA M.H.B. JUNIOR GIRLS HIGH SCHOOL",
+      "name_bn": "কোদালিয়া মোসাম্মৎ হালিমা বেগম নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01729824996",
+      "email": "kmhbjgs114971@gmail.com",
+      "teacher_count": 109,
+      "file": "KODALIA M.H.B. JUNIOR GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "133828",
+      "name": "NAGARKANDI SAPTA PALLI SECONDARY SCHOOL",
+      "name_bn": "নগরকান্দি সপ্তপল্লী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01716717841",
+      "email": "sns133828ict@gmail.com",
+      "teacher_count": 202,
+      "file": "NAGARKANDI SAPTA PALLI SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114962",
+      "name": "NASHUKHALI SOCIAL WELFARE HIGH SCHOOL",
+      "name_bn": "নাশুখালি সোশ্যাল ওয়েলফেয়ার হাই স্কুল",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715467094",
+      "email": "snashukhali114962@gmail.com",
+      "teacher_count": 350,
+      "file": "NASHUKHALI SOCIAL WELFARE HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "114955",
+      "name": "SACHIADAH CHUKHOLA M.B. SECONDARY SCHOOL",
+      "name_bn": "সাচিয়াদহ চুনখোলা মুকুন্দ বিহারী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01916393220",
+      "email": "ssc114955@gmail.com",
+      "teacher_count": 250,
+      "file": "SACHIADAH CHUKHOLA M.B. SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "131437",
+      "name": "SATYA SHIKSHA NIKETAN (JUNIOR)",
+      "name_bn": "সত্য শিক্ষা নিকেতন",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01919365818",
+      "email": "satya131437@gmail.com",
+      "teacher_count": 96,
+      "file": "SATYA SHIKSHA NIKETAN (JUNIOR).json"
+    },
+    {
+      "eiin": "114968",
+      "name": "SHAHEED HEMAYET UDDIN GIRKS HIGH SCHOOL",
+      "name_bn": "শহীদ হেমায়েত উদ্দিন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01715518023",
+      "email": "sshusgs114968@gmail.com",
+      "teacher_count": 278,
+      "file": "SHAHEED HEMAYET UDDIN GIRKS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "140011",
+      "name": "TETULBARI M M OBAYDUR RAHMAN SECONDARY SCHOOL",
+      "name_bn": "তেঁতুলবাড়ি এম এম ওবায়দুর রহমান মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01738055166",
+      "email": "kashem02kalim@gmail.com",
+      "teacher_count": 22,
+      "file": "TETULBARI M M OBAYDUR RAHMAN SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "114954",
+      "name": "WAZED MEMORIAL GOVT. MODEL HIGH SCHOOL",
+      "name_bn": "সরকারি ওয়াজেদ মেমোরিয়াল মডেল মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01740616086",
+      "email": "swm114954@gmail.com",
+      "teacher_count": 512,
+      "file": "WAZED MEMORIAL GOVT. MODEL HIGH SCHOOL.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 196,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক বাগেরহাট",
+        "dags": "48/814,354,503",
+        "total_land": "1.48"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "বাংলাদেশ সরকার পক্ষে শিক্ষা বিভাগ বাগেরহাট",
+        "dags": "623",
+        "total_land": "0.42"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আছিফার রহমান",
+        "dags": "590",
+        "total_land": "0.13"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অছিকার রহমান,রকু মিয়া কাজী",
+        "dags": "618,619",
+        "total_land": "0.12"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অনিল চন্দ্র বালা (অ:)",
+        "dags": "136,377",
+        "total_land": "0.43"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অনিল চন্দ্র চিন্তাপাত্র,মনিন্দ্র চন্দ্র চিন্তাপাত্র",
+        "dags": "95,96,97,98,131,133,455",
+        "total_land": "1.41"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অনিল চন্দ্র চিন্তাপাত্র,মনিন্দ্র চন্দ্র চিন্তাপাত্র,নলিন চন্দ্র চিন্তাপাত্র",
+        "dags": "465,478,481,490",
+        "total_land": "0.40"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অলিউর রহমান,আজিজুর রহমান",
+        "dags": "606",
+        "total_land": "0.17"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অশ্বিনী কুমার বৈরাগী,ধীরেন্দ্র বৈরাগী,বীরেশ্বর বৈরাগী,বীরেন বৈরাগী",
+        "dags": "671,679,680,684,685,500",
+        "total_land": "0.35"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আকবর আলী",
+        "dags": "417/813,761",
+        "total_land": "0.15"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আবুল হোসেন,আবুল কাসেম,মোন মতি,ফুরজান বিবি",
+        "dags": "776,785",
+        "total_land": "1.17"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "অঘুতোষ বিশ্বাস,সুধীর কুমার বিশ্বাস,ননী গোপাল বিশ্বাস",
+        "dags": "137,180",
+        "total_land": "0.78"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আকরাম আলী,এমদাদুল হোসেন,পান্না মিয়া,জামসের আলী,দীন ইসলাম,আলতাব হোসেন,নুর আলম",
+        "dags": "83",
+        "total_land": "0.32"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আককাছ আলী মুন্সি",
+        "dags": "75",
+        "total_land": "0.54"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আকেকল মোল্লা",
+        "dags": "3",
+        "total_land": "0.05"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আকুবার আলী,ছাকায়েত আলী,রুহল আমিন",
+        "dags": "254",
+        "total_land": "1.25"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আনোয়ারা খাতুন",
+        "dags": "259,275",
+        "total_land": "1.26"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আয়মনা খাতুন",
+        "dags": "426",
+        "total_land": "0.52"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "মালিক দং,আক্তার উদ্দিন মুন্সি",
+        "dags": "613,717",
+        "total_land": "0.38"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "owners": "আরজ আলী",
+        "dags": "17",
+        "total_land": "0.11"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "চুনখোলা",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "শোলাবাড়ীয়া",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "শাশন",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "সিংগাতী",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "মৌপুর",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "আস্তাইল",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "চর আস্তাইল",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "ঘোড়াদাইর",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "উত্তর বামন ডাঙ্গা",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "আংরা",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "ডাবরা",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "কাচনা",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "ধবলিয়া",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "মণ্ডল গাতি",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "চকগুয়াখোলা",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "মৎস্যসারা",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "ঠেংগারগাতী",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "নরসিংহপুর",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "গাঙ্গনী",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "রামজীবনপুর",
+        "jl_no": "21",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "মান্দারতলী",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "নাশুখালী",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "গাওলা",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "কেন্দুয়া",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "বিলকাতলী",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "লোনাডাঙ্গা",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "মাটিয়ারগাতী",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "চকদাহ",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "কাকুরিয়া",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      },
+      {
+        "mouza_name": "দিগঙ্গা",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "MOLLAHAT"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/3:/",
+      "district_drive_url": "https://free.mouzamap.tech/3:/Bagerhat/",
+      "district_total_maps": 3135,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 31.149,
+      "catalog_github_path": "land/maps/Khulna/Bagerhat.json",
+      "online_folder_url": "https://free.mouzamap.tech/3:/Bagerhat/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Bagerhat",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Bagerhat",
+        "phone": "01713-000040",
+        "email": "dcbagerhat@mopa.gov.bd",
+        "website": "http://www.bagerhat.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Bagerhat",
+        "phone": "01713-373040",
+        "email": "spbagerhat@police.gov.bd",
+        "control_room": "01713-374040"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Bagerhat",
+        "phone": "01713-555040",
+        "email": "csbagerhat@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "95",
+        "name": {
+          "en": "Bagerhat-1",
+          "bn": "বাগেরহাট-১"
+        },
+        "total_voters": 375560
+      },
+      {
+        "code": "96",
+        "name": {
+          "en": "Bagerhat-2",
+          "bn": "বাগেরহাট-২"
+        },
+        "total_voters": 338009
+      },
+      {
+        "code": "97",
+        "name": {
+          "en": "Bagerhat-3",
+          "bn": "বাগেরহাট-৩"
+        },
+        "total_voters": 266864
+      },
+      {
+        "code": "98",
+        "name": {
+          "en": "Bagerhat-4",
+          "bn": "বাগেরহাট-৪"
+        },
+        "total_voters": 380679
+      }
+    ],
+    "upazila_portal": "mollahat.bagerhat.gov.bd",
+    "district_portal": "http://www.bagerhat.gov.bd",
+    "union_portals_count": 7,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

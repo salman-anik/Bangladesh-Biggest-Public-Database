@@ -1,1 +1,865 @@
-{"division": "Barishal", "district": "Barguna", "upazila": "Bamna", "upazila_slug": "barishal__barguna__bamna", "geography": {"division": "Barishal", "division_bn": "বরিশাল", "district": "Barguna", "district_bn": "বরগুনা", "district_lat": "22.159182", "district_lon": "90.125581", "upazila_id": "269", "upazila": "Bamna", "upazila_bn": "বামনা", "official_url": "bamna.barguna.gov.bd", "total_unions": 4, "unions": [{"id": "2418", "name": "Bukabunia", "bn_name": "বুকাবুনিয়া", "url": "bukabuniaup.barguna.gov.bd"}, {"id": "2419", "name": "Bamna", "bn_name": "বামনা", "url": "bamnaup.barguna.gov.bd"}, {"id": "2420", "name": "Ramna", "bn_name": "রামনা", "url": "ramnaup.barguna.gov.bd"}, {"id": "2421", "name": "Doutola", "bn_name": "ডৌয়াতলা", "url": "doutolaup.barguna.gov.bd"}], "total_post_offices": 1, "postal_codes": [{"postcode": "8730", "postcode_bn": "৮৭৩০", "sub_office": "Bamna", "sub_office_bn": "বামনা"}]}, "stats": {"education_count": 26, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 4, "postcodes_count": 1, "land_khatians_count": 25, "mouzas_count": 78}, "education": [{"eiin": "100143", "name": "BAMNA DEGREE COLLEGE", "name_bn": "সরকারি বামনা কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01718622077", "email": "bamnacollege@gmail.com", "teacher_count": 0, "file": "BAMNA DEGREE COLLEGE.json"}, {"eiin": "100142", "name": "BEGUM FAIZUNNESA MOHILA DEGREE COLLEGE, BAMNA", "name_bn": "বেগম ফায়জুন্নেসা মহিলা ডিগ্রী কলেজ,বামনা।", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01712466339", "email": "faizunnesacollege.1996@gmail.com", "teacher_count": 0, "file": "BEGUM FAIZUNNESA MOHILA DEGREE COLLEGE, BAMNA.json"}, {"eiin": "100141", "name": "HALTA DAWATALA WAZED ALI KHAN COLLEGE", "name_bn": "হলতা ডৌয়াতলা ওয়াজেদ আলী খান কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01715083373", "email": "shofiqulislam2011@yahoo.com", "teacher_count": 0, "file": "HALTA DAWATALA WAZED ALI KHAN COLLEGE.json"}, {"eiin": "100139", "name": "BAMNA MOHILA DAKHIL MADRASHA", "name_bn": "বামনা মহিলা দাখিল মাদরাসা ।", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01735336182", "email": "bamnamohilabmdm1994@gmail.com", "teacher_count": 0, "file": "BAMNA MOHILA DAKHIL MADRASHA.json"}, {"eiin": "100134", "name": "BUKABUNIA MAHMUDIA DAKHIL MADRASHA", "name_bn": "বুকাবুনিয়া মাহমুদিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01719938200", "email": "bukabunia100134@gmail.com", "teacher_count": 0, "file": "BUKABUNIA MAHMUDIA DAKHIL MADRASHA.json"}, {"eiin": "100136", "name": "CHALAVANGA DARUSSALAM RASHIDIA ALIM MADRASHA", "name_bn": "চলাভাংগা দারুচ্ছালাম রশিদিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01719765125", "email": "chalavangadsrdakhilmadrasha@gmail.com", "teacher_count": 0, "file": "CHALAVANGA DARUSSALAM RASHIDIA ALIM MADRASHA.json"}, {"eiin": "100128", "name": "LAXMIPURA DAKHIL MADRASHA", "name_bn": "লক্ষীপুরা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01712444290", "email": "laxmipuramad@gmail.com", "teacher_count": 0, "file": "LAXMIPURA DAKHIL MADRASHA.json"}, {"eiin": "100133", "name": "NIZAMTALI ISLAMIA DAKHIL MADRASHA", "name_bn": "নিজ আমতলী ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01710853036", "email": "nidm100133@gmail.com", "teacher_count": 0, "file": "NIZAMTALI ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "100132", "name": "VHAIJORA DOUATOLA MAHMUDIA DAKHIL MADRASHA", "name_bn": "ভাইজোড়া ডৌয়াতলা মাহমুদিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01726734895", "email": "vaizoramadbamna@gmail.com", "teacher_count": 0, "file": "VHAIJORA DOUATOLA MAHMUDIA DAKHIL MADRASHA.json"}, {"eiin": "100137", "name": "BAMNA SADAR AR- RASHID FAZIL MADRASHA", "name_bn": "বামনা সদর আর রশিদ ফাজিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01712996700", "email": "bsrfm.100137@gmail.com", "teacher_count": 0, "file": "BAMNA SADAR AR- RASHID FAZIL MADRASHA.json"}, {"eiin": "100130", "name": "DODHI VANGA BARATALESHAR MOHISUNNAH ALIM MADRASA", "name_bn": "দধিভাঙ্গা বড়তালেশ্বর মহিউচ্ছুন্নাহ্ আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01710783167", "email": "dbamd2018@gmail.com", "teacher_count": 0, "file": "DODHI VANGA BARATALESHAR MOHISUNNAH ALIM MADRASA.json"}, {"eiin": "100135", "name": "GHOPALKHALI ISLAMIA DAKHIL MADRASAH", "name_bn": "ঘোপখালী ইসলামীয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01734361459", "email": "ghopkhaliislamiadakhilmad@gmail.com", "teacher_count": 0, "file": "GHOPALKHALI ISLAMIA DAKHIL MADRASAH.json"}, {"eiin": "100129", "name": "KHOLPATUA MAHMUDIA SINIOR MADRASHA", "name_bn": "খোলপটুয়া মাহমুদিয়া (সিনিয়র) আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01753309741", "email": "ajafor36@gmail.com", "teacher_count": 0, "file": "KHOLPATUA MAHMUDIA SINIOR MADRASHA.json"}, {"eiin": "100138", "name": "SONBUNIA DAWATALA AR-R ALIM MADRASHA", "name_bn": "ছোনবুনিয়া ডৌয়াতলা আর রহমান আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01719733081", "email": "sonbuniaalim1993@gmail.com", "teacher_count": 0, "file": "SONBUNIA DAWATALA AR-R ALIM MADRASHA.json"}, {"eiin": "100131", "name": "UTTAR KAKCHIRA ALIM MADRASAH", "name_bn": "উত্তর কাকচিড়া আলিম মাদরাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01718415316", "email": "ukmadbamna@gmail.com", "teacher_count": 0, "file": "UTTAR KAKCHIRA ALIM MADRASAH.json"}, {"eiin": "100119", "name": "BAMNA ASMATUNNESSA PILOT SECONDARY GIRLS SCHOOL", "name_bn": "বামনা আসমাতুন্নেসা পাইলট মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714765637", "email": "asmatunnessabamna.2018@gmail.com", "teacher_count": 239, "file": "BAMNA ASMATUNNESSA PILOT SECONDARY GIRLS SCHOOL.json"}, {"eiin": "100117", "name": "BUKABUNIA ADASHA SECONDARY SCHOOL", "name_bn": "বুকাবুনিয়া আদর্শ মাধ্যমিক বিদ্যালয়য়।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724385415", "email": "bukabunia100117@gmail.com", "teacher_count": 239, "file": "BUKABUNIA ADASHA SECONDARY SCHOOL.json"}, {"eiin": "100118", "name": "GOVT. SARWARJAN PILOT MODEL HIGH SCHOOL", "name_bn": "সরকারি সারওয়ারজান পাইলট মডেল উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01797231212", "email": "sarwarjanhs_1625@yahoo.com", "teacher_count": 500, "file": "GOVT. SARWARJAN PILOT MODEL HIGH SCHOOL.json"}, {"eiin": "100124", "name": "HALDA DOUATALA SAMABAY MULTILATERAL SECONDARY SCHOOL", "name_bn": "হলতা ডৌয়াতলা সমবায় বহুমুখী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01735590094", "email": "dawatalaschool100124@yahoo.com", "teacher_count": 279, "file": "HALDA DOUATALA SAMABAY MULTILATERAL SECONDARY SCHOOL.json"}, {"eiin": "100120", "name": "HOGALPATI DOUATALA UNION SECONDARY SCHOOL", "name_bn": "হোগলপাতী ডৌয়াতলা ইউনিয়ন মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01741013435", "email": "hogalpatihduss100120@gmail.com", "teacher_count": 173, "file": "HOGALPATI DOUATALA UNION SECONDARY SCHOOL.json"}, {"eiin": "100126", "name": "J C L JUNIOR HIGH SCHOOL", "name_bn": "জেসিএল মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01725851810", "email": "nripenhalder1970@gmail.com", "teacher_count": 118, "file": "J C L JUNIOR HIGH SCHOOL.json"}, {"eiin": "100122", "name": "JAFRAKHALI HIGH SCHOOL", "name_bn": "জাফ্রাখালী মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01758751845", "email": "jssbamna1964@gmail.com", "teacher_count": 199, "file": "JAFRAKHALI HIGH SCHOOL.json"}, {"eiin": "100127", "name": "KHOLPATUA ADARSHA JUNIOR SECONDARY SCHOOL", "name_bn": "খোলপটুয়া আদর্শ নিম্ন মাধ্যমিক বিদ্যালয়।", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01719733075", "email": "kamalhossaingbb68@gmail.com", "teacher_count": 96, "file": "KHOLPATUA ADARSHA JUNIOR SECONDARY SCHOOL.json"}, {"eiin": "100121", "name": "LATABUNIA SECONDARY SCHOOL", "name_bn": "লতাবুনিয়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718829807", "email": "mahabublatabunia@gmail.com", "teacher_count": 147, "file": "LATABUNIA SECONDARY SCHOOL.json"}, {"eiin": "100123", "name": "RAMNA SHER-E BANGLA SAMABAYA SECONDARY SCHOOL", "name_bn": "রামনা শের-ই-বাংলা সমবায় মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01721098300", "email": "ramnasherebangla1628@gmail.com", "teacher_count": 199, "file": "RAMNA SHER-E BANGLA SAMABAYA SECONDARY SCHOOL.json"}, {"eiin": "100125", "name": "UTTAR KAKCHIRA SECONDARY SCHOOL", "name_bn": "উত্তর কাকচিড়া মাধ্যমিক বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714511382", "email": "ukss100125@gmil.com", "teacher_count": 203, "file": "UTTAR KAKCHIRA SECONDARY SCHOOL.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 78, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "জমিদারী সাহাজাদপুর,ক রমানাথ দত্ত চৌধুরী,পক্ষে কোট অব ওয়ার্ডস,খ বীরেন্দ্রনাথ দত্ত চৌধুরী,ধীরেন্দ্রনাথ দত্ত চৌধুরী,নরেন্দ্রনাথ দত্ত চৌধুরী,হরেন্দ্রনাথ দত্ত চৌধুরী", "dags": "", "total_land": "453.20"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "মিরাশ ইজারা দেবনাথ দত্ত,রমানাথ দত্ত,পক্ষে কোট অব ওয়ার্ডস,ম্যাইন ল্যান্ড গ্রুপ,বরিশাল", "dags": "", "total_land": "148.68"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "মিরাশ ইজারা গৌরমোহন চক্রবর্ত্তী,অনন্তকুমার মন্ডল রায় চৌধুরী,অনুকুলচন্দ্র মন্ডল রায় চৌধুরী,রাধামোহন মন্ডল রায় চৌধুরী,রামনরসিংহ মন্ডল রায় চৌধুরী,পোঃপোনাবালিয়া", "dags": "", "total_land": "113.30"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "জমিদারী সাহাজাদপুর,বনোয়ারীলাল রায় চৌধুরী,রায় গুণেন্দ্রকৃষ্ণ চৌধুরী বাহাদুর,নীলকৃষ্ণ রায় চৌধুরী,উপেন্দ্রকৃষ্ণ রায় চৌধুরী,মণীন্দ্রকৃষ্ণ রায় চৌধুরী,কুঞ্জকামিনী রায়", "dags": "", "total_land": "141.63"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "জমিদারী সাহাজাদপুর,বনোয়ারীলাল রায় চৌধুরী,রায় গুণেন্দ্রকৃষ্ণ চৌধুরী বাহাদুর,নীলকৃষ্ণ রায় চৌধুরী,উপেন্দ্রকৃষ্ণ রায় চৌধুরী,মণীন্দ্রকৃষ্ণ রায় চৌধুরী,কুঞ্জকামিনী রায়", "dags": "", "total_land": "9.41"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "তালুক মহম্মদ ইদ্রাক চৌধুরী,রাধিকামোহন সাহা,মোহিনীমোহন সাহা,রনেন্দ্রনারায়ণ সাহা,বিল্বদাসুন্দরী সাহা (জীবনস্বত্ব)", "dags": "1187,1188,1068,173,180,291,484,870,1108,1160,1299,1261/1349,1272/1350,1324/1351,", "total_land": "586.11"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "অছিমদ্দীন আকন,ছলিমদ্দীন আকন,বছিরদ্দিন চৌকিদার,আমিনন্নেছা বিবি,দীনমহম্মদ ,ফজরআলী,আরবআলী,আবদুলরসিদ", "dags": "593,594,595,596,597,603,604,605,641,642,643,644,679,680,681,701,702,704,731,732,", "total_land": "11.48"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "অছিমদ্দীন সেখ,ছলিমদ্দীন সেখ,বছিরদ্দিন চৌকিদার,আমিনন্নেছা বিবি,আমিনদ্দীন হাওলাদার,হাচনআলী হাজি,হাতেমআলী খলিফা,রফেজদ্দীন খলিফা,মফিজদ্দীন,সফিজদ্দিন", "dags": "587,588,784,785", "total_land": "1.47"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আচমতআলী,জিন্নতআলী দফাদার,একরামআলী,ছৈয়দআলী,আয়তন বিবি,আতাহারআলী,মোতাহারআলী,আজাহারআলী,তুজাহারআলী,লালমন বিবি,জিতন বিবি,মোহব্বতআলী,মোন্তাজদ্দিন,আদমআলী,আবদুলছত্তার,ফজ", "dags": "831,832,836,851,852,1302,1303,1304,1305,1306", "total_land": "12.09"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আচমতআলী সিকদার,গহরআলী সিকদার,মুনছরআলী সিকদার,কাছেমআলী সিকদার,রুপাই বিবি,রজ্জবআলী সিকদার,ছাদেরআলী,সরিকসূত্রে দং ময়না বিবি", "dags": "1236,1237,1265,1271,1274,1275,1281,1296", "total_land": "3.90"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আচমতআলী,ছফুরা বিবি ,মোহব্বতআলী,জুনাবআলী,নাজেমআলী,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁনবরু বিবি ,অহেজদ্ধীন,এফরনউদ্দীন,তমিজদ্দীন,ময়ফুলবিবি ,হাতেমআলী,মমিনা ", "dags": "635,637,638,614,615,616,660,748,749,750,1145,1146,1147,1148,1149,1150,1151,1152,", "total_land": "5.32"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আচমতআলী,মোহব্বতআলী,জুনাবআলী,নাজেমআলী,সফুরা খাতুন বিবি ,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁন বিবি ,অহেজদ্ধীন,এফরনউদ্দীন,তমিজদ্দীন,ময়ফুলবিবি ,আমিনা খাতুন,", "dags": "684,689,715,1013,1018,1022,1039,1050,1058,1064,1065,1131,1138,688,690,714", "total_land": "9.17"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আচমতআলী,মোহব্বতআলী,জোনাবআলী,নাজেমআলী,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁনবরু বিবি,সফুরা বিবি,হাতেমআলী,মমিনা খাতুন,কাছেমআলী,তমিজদ্দীন,অহেজদ্দীন,এফরানদ্দী", "dags": "1109,1110,1165", "total_land": "3.22"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "কর্ষা,আচমতআলী,মোহব্বতআলী,জোনাবআলী,নাজেমআলী,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁনবরু বিবি,ছফুরা বিবি,হাতেমআলী, মমিনা খাতুন,কাছেমআলী,তমিজদ্দীন,অহেজদ্দীন,এফ", "dags": "724,1144,722,723,1143", "total_land": "2.03"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আজাহার আলী দফাদার,চেহারআলী,হাসেমআলী,ছাহেদআলী,অহেদআলী,হাতেমআলী,সোনাই বিবি,সাজু বিবি,নোয়ারআলী হাওলাদার,কদম আলী,কেতাবআলী,আবদুল ছত্তার,বরুজান বিবি,খবিরউদ্দীন হাজি,স", "dags": "662,663,677,693,703,1012,1016,1028,1041,1048,1051,1057,1059,1062,1063,1071,1072,", "total_land": "15.47"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আজাহারআলী দফাদার", "dags": "772,777,795,801", "total_land": "3.03"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "ক আতাহারআলী,মোতাহার আলী,আজাহার আলী,তুজাহার আলী,লালমন বিবি,খ ময়জদ্দীন মুন্সি,গ অছিমদ্দীন,মোমিনদ্দীন,ঙ আবদুল হাকিম দফাদার,মেছেরউদ্দীন,চ তমিজদ্দীন,রেয়াজদ্দীন,আফেজদ", "dags": "244,245,369,370,371,372,373,388,389,275,421,431,432,440,441,442,450,451,452,479,", "total_land": "9.39"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "অছিমদ্দিন,মোমেনদ্দিন", "dags": "453", "total_land": "0.83"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আফাজদ্দিন মুন্সি,আজাহারআলী", "dags": "413,418", "total_land": "1.30"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "লক্ষীপুরা", "jl_no": "1", "owners": "আবদুল ওহাব হাজি,আবদুল মজিদ,লালমন বিবি,ছকিনা খাতুন,মানিকজান বিবি,ফাতেমা খাতুন,মোহব্বতআলী হাজি,আবদুলমন্নাপ,মৈরিয়ম বিবি,জবুনা বিবি,মেহেরনেগা", "dags": "678,700,710,736,1134,1137,1158,1159,1156,1157", "total_land": "7.26"}], "sample_mouzas": [{"mouza_name": "লক্ষীপুরা", "jl_no": "1", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বড় যাদবপুর", "jl_no": "2", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "পূর্ব্ব চালিতাবুনিয়া", "jl_no": "3", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "চেঁচান", "jl_no": "4", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বেবাজিয়া খালী", "jl_no": "5", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "কালিকাবাড়ী", "jl_no": "6", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "ঢুষখালী", "jl_no": "7", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বামনা", "jl_no": "8", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "কলাগাছিয়া", "jl_no": "9", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "সফিপুর", "jl_no": "10", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "চাড়াখালীা", "jl_no": "11", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "সোনাখালী", "jl_no": "12", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "ছোট যাদবপুর", "jl_no": "13", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বাটাজোর", "jl_no": "14", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বুকাবুনিয়া", "jl_no": "15", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "সিংরাবুনিয়া", "jl_no": "16", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "লতাবুনিয়া", "jl_no": "17", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "কালাইয়া", "jl_no": "18", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বড় তালেশ্বর", "jl_no": "19", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "ছোট তালেশ্বর", "jl_no": "20", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "জয়নগর", "jl_no": "21", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "ছনবুনিয়া", "jl_no": "22", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "বলইবুনিয়া", "jl_no": "23", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "ঘোপখালী", "jl_no": "24", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "নিজ আমতলী", "jl_no": "25", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "আমতলী", "jl_no": "26", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "রুহিতা", "jl_no": "27", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "পোটকাখালী", "jl_no": "28", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "অযোধ্যা", "jl_no": "29", "survey": "RS", "upazila": "BAMNA"}, {"mouza_name": "খোলপটুয়া", "jl_no": "30", "survey": "RS", "upazila": "BAMNA"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod", "district_drive_url": "https://drive.google.com/drive/folders/17zuUhm47Ns16vFq22TYWyGsST17QSdva", "district_total_maps": 843, "district_uploaded_maps": 8, "district_total_gb": 9.904, "catalog_github_path": "land/maps/Barishal/Barguna.json"}}, "governance": {"administration": {"district": "Barguna", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Barguna", "phone": "01713-000050", "email": "dcbarguna@mopa.gov.bd", "website": "http://www.barguna.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Barguna", "phone": "01713-373050", "email": "spbarguna@police.gov.bd", "control_room": "01713-374050"}, "civil_surgeon_office": {"title": "Civil Surgeon, Barguna", "phone": "01713-555050", "email": "csbarguna@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "109", "name": {"en": "Barguna-1", "bn": "বরগুনা-১"}, "total_voters": 519460}, {"code": "110", "name": {"en": "Barguna-2", "bn": "বরগুনা-২"}, "total_voters": 337744}], "upazila_portal": "bamna.barguna.gov.bd", "district_portal": "http://www.barguna.gov.bd", "union_portals_count": 4, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Barishal",
+  "district": "Barguna",
+  "upazila": "Bamna",
+  "upazila_slug": "barishal__barguna__bamna",
+  "geography": {
+    "division": "Barishal",
+    "division_bn": "বরিশাল",
+    "district": "Barguna",
+    "district_bn": "বরগুনা",
+    "district_lat": "22.159182",
+    "district_lon": "90.125581",
+    "upazila_id": "269",
+    "upazila": "Bamna",
+    "upazila_bn": "বামনা",
+    "official_url": "bamna.barguna.gov.bd",
+    "total_unions": 4,
+    "unions": [
+      {
+        "id": "2418",
+        "name": "Bukabunia",
+        "bn_name": "বুকাবুনিয়া",
+        "url": "bukabuniaup.barguna.gov.bd"
+      },
+      {
+        "id": "2419",
+        "name": "Bamna",
+        "bn_name": "বামনা",
+        "url": "bamnaup.barguna.gov.bd"
+      },
+      {
+        "id": "2420",
+        "name": "Ramna",
+        "bn_name": "রামনা",
+        "url": "ramnaup.barguna.gov.bd"
+      },
+      {
+        "id": "2421",
+        "name": "Doutola",
+        "bn_name": "ডৌয়াতলা",
+        "url": "doutolaup.barguna.gov.bd"
+      }
+    ],
+    "total_post_offices": 1,
+    "postal_codes": [
+      {
+        "postcode": "8730",
+        "postcode_bn": "৮৭৩০",
+        "sub_office": "Bamna",
+        "sub_office_bn": "বামনা"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 26,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 4,
+    "postcodes_count": 1,
+    "land_khatians_count": 25,
+    "mouzas_count": 78
+  },
+  "education": [
+    {
+      "eiin": "100143",
+      "name": "BAMNA DEGREE COLLEGE",
+      "name_bn": "সরকারি বামনা কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01718622077",
+      "email": "bamnacollege@gmail.com",
+      "teacher_count": 0,
+      "file": "BAMNA DEGREE COLLEGE.json"
+    },
+    {
+      "eiin": "100142",
+      "name": "BEGUM FAIZUNNESA MOHILA DEGREE COLLEGE, BAMNA",
+      "name_bn": "বেগম ফায়জুন্নেসা মহিলা ডিগ্রী কলেজ,বামনা।",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01712466339",
+      "email": "faizunnesacollege.1996@gmail.com",
+      "teacher_count": 0,
+      "file": "BEGUM FAIZUNNESA MOHILA DEGREE COLLEGE, BAMNA.json"
+    },
+    {
+      "eiin": "100141",
+      "name": "HALTA DAWATALA WAZED ALI KHAN COLLEGE",
+      "name_bn": "হলতা ডৌয়াতলা ওয়াজেদ আলী খান কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01715083373",
+      "email": "shofiqulislam2011@yahoo.com",
+      "teacher_count": 0,
+      "file": "HALTA DAWATALA WAZED ALI KHAN COLLEGE.json"
+    },
+    {
+      "eiin": "100139",
+      "name": "BAMNA MOHILA DAKHIL MADRASHA",
+      "name_bn": "বামনা মহিলা দাখিল মাদরাসা ।",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01735336182",
+      "email": "bamnamohilabmdm1994@gmail.com",
+      "teacher_count": 0,
+      "file": "BAMNA MOHILA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "100134",
+      "name": "BUKABUNIA MAHMUDIA DAKHIL MADRASHA",
+      "name_bn": "বুকাবুনিয়া মাহমুদিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01719938200",
+      "email": "bukabunia100134@gmail.com",
+      "teacher_count": 0,
+      "file": "BUKABUNIA MAHMUDIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "100136",
+      "name": "CHALAVANGA DARUSSALAM RASHIDIA ALIM MADRASHA",
+      "name_bn": "চলাভাংগা দারুচ্ছালাম রশিদিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01719765125",
+      "email": "chalavangadsrdakhilmadrasha@gmail.com",
+      "teacher_count": 0,
+      "file": "CHALAVANGA DARUSSALAM RASHIDIA ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "100128",
+      "name": "LAXMIPURA DAKHIL MADRASHA",
+      "name_bn": "লক্ষীপুরা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01712444290",
+      "email": "laxmipuramad@gmail.com",
+      "teacher_count": 0,
+      "file": "LAXMIPURA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "100133",
+      "name": "NIZAMTALI ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "নিজ আমতলী ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01710853036",
+      "email": "nidm100133@gmail.com",
+      "teacher_count": 0,
+      "file": "NIZAMTALI ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "100132",
+      "name": "VHAIJORA DOUATOLA MAHMUDIA DAKHIL MADRASHA",
+      "name_bn": "ভাইজোড়া ডৌয়াতলা মাহমুদিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01726734895",
+      "email": "vaizoramadbamna@gmail.com",
+      "teacher_count": 0,
+      "file": "VHAIJORA DOUATOLA MAHMUDIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "100137",
+      "name": "BAMNA SADAR AR- RASHID FAZIL MADRASHA",
+      "name_bn": "বামনা সদর আর রশিদ ফাজিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01712996700",
+      "email": "bsrfm.100137@gmail.com",
+      "teacher_count": 0,
+      "file": "BAMNA SADAR AR- RASHID FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "100130",
+      "name": "DODHI VANGA BARATALESHAR MOHISUNNAH ALIM MADRASA",
+      "name_bn": "দধিভাঙ্গা বড়তালেশ্বর মহিউচ্ছুন্নাহ্ আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01710783167",
+      "email": "dbamd2018@gmail.com",
+      "teacher_count": 0,
+      "file": "DODHI VANGA BARATALESHAR MOHISUNNAH ALIM MADRASA.json"
+    },
+    {
+      "eiin": "100135",
+      "name": "GHOPALKHALI ISLAMIA DAKHIL MADRASAH",
+      "name_bn": "ঘোপখালী ইসলামীয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01734361459",
+      "email": "ghopkhaliislamiadakhilmad@gmail.com",
+      "teacher_count": 0,
+      "file": "GHOPALKHALI ISLAMIA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "100129",
+      "name": "KHOLPATUA MAHMUDIA SINIOR MADRASHA",
+      "name_bn": "খোলপটুয়া মাহমুদিয়া (সিনিয়র) আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01753309741",
+      "email": "ajafor36@gmail.com",
+      "teacher_count": 0,
+      "file": "KHOLPATUA MAHMUDIA SINIOR MADRASHA.json"
+    },
+    {
+      "eiin": "100138",
+      "name": "SONBUNIA DAWATALA AR-R ALIM MADRASHA",
+      "name_bn": "ছোনবুনিয়া ডৌয়াতলা আর রহমান আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01719733081",
+      "email": "sonbuniaalim1993@gmail.com",
+      "teacher_count": 0,
+      "file": "SONBUNIA DAWATALA AR-R ALIM MADRASHA.json"
+    },
+    {
+      "eiin": "100131",
+      "name": "UTTAR KAKCHIRA ALIM MADRASAH",
+      "name_bn": "উত্তর কাকচিড়া আলিম মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01718415316",
+      "email": "ukmadbamna@gmail.com",
+      "teacher_count": 0,
+      "file": "UTTAR KAKCHIRA ALIM MADRASAH.json"
+    },
+    {
+      "eiin": "100119",
+      "name": "BAMNA ASMATUNNESSA PILOT SECONDARY GIRLS SCHOOL",
+      "name_bn": "বামনা আসমাতুন্নেসা পাইলট মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714765637",
+      "email": "asmatunnessabamna.2018@gmail.com",
+      "teacher_count": 239,
+      "file": "BAMNA ASMATUNNESSA PILOT SECONDARY GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "100117",
+      "name": "BUKABUNIA ADASHA SECONDARY SCHOOL",
+      "name_bn": "বুকাবুনিয়া আদর্শ মাধ্যমিক বিদ্যালয়য়।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724385415",
+      "email": "bukabunia100117@gmail.com",
+      "teacher_count": 239,
+      "file": "BUKABUNIA ADASHA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "100118",
+      "name": "GOVT. SARWARJAN PILOT MODEL HIGH SCHOOL",
+      "name_bn": "সরকারি সারওয়ারজান পাইলট মডেল উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01797231212",
+      "email": "sarwarjanhs_1625@yahoo.com",
+      "teacher_count": 500,
+      "file": "GOVT. SARWARJAN PILOT MODEL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "100124",
+      "name": "HALDA DOUATALA SAMABAY MULTILATERAL SECONDARY SCHOOL",
+      "name_bn": "হলতা ডৌয়াতলা সমবায় বহুমুখী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01735590094",
+      "email": "dawatalaschool100124@yahoo.com",
+      "teacher_count": 279,
+      "file": "HALDA DOUATALA SAMABAY MULTILATERAL SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "100120",
+      "name": "HOGALPATI DOUATALA UNION SECONDARY SCHOOL",
+      "name_bn": "হোগলপাতী ডৌয়াতলা ইউনিয়ন মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01741013435",
+      "email": "hogalpatihduss100120@gmail.com",
+      "teacher_count": 173,
+      "file": "HOGALPATI DOUATALA UNION SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "100126",
+      "name": "J C L JUNIOR HIGH SCHOOL",
+      "name_bn": "জেসিএল মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01725851810",
+      "email": "nripenhalder1970@gmail.com",
+      "teacher_count": 118,
+      "file": "J C L JUNIOR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "100122",
+      "name": "JAFRAKHALI HIGH SCHOOL",
+      "name_bn": "জাফ্রাখালী মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01758751845",
+      "email": "jssbamna1964@gmail.com",
+      "teacher_count": 199,
+      "file": "JAFRAKHALI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "100127",
+      "name": "KHOLPATUA ADARSHA JUNIOR SECONDARY SCHOOL",
+      "name_bn": "খোলপটুয়া আদর্শ নিম্ন মাধ্যমিক বিদ্যালয়।",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01719733075",
+      "email": "kamalhossaingbb68@gmail.com",
+      "teacher_count": 96,
+      "file": "KHOLPATUA ADARSHA JUNIOR SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "100121",
+      "name": "LATABUNIA SECONDARY SCHOOL",
+      "name_bn": "লতাবুনিয়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718829807",
+      "email": "mahabublatabunia@gmail.com",
+      "teacher_count": 147,
+      "file": "LATABUNIA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "100123",
+      "name": "RAMNA SHER-E BANGLA SAMABAYA SECONDARY SCHOOL",
+      "name_bn": "রামনা শের-ই-বাংলা সমবায় মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01721098300",
+      "email": "ramnasherebangla1628@gmail.com",
+      "teacher_count": 199,
+      "file": "RAMNA SHER-E BANGLA SAMABAYA SECONDARY SCHOOL.json"
+    },
+    {
+      "eiin": "100125",
+      "name": "UTTAR KAKCHIRA SECONDARY SCHOOL",
+      "name_bn": "উত্তর কাকচিড়া মাধ্যমিক বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714511382",
+      "email": "ukss100125@gmil.com",
+      "teacher_count": 203,
+      "file": "UTTAR KAKCHIRA SECONDARY SCHOOL.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 78,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "জমিদারী সাহাজাদপুর,ক রমানাথ দত্ত চৌধুরী,পক্ষে কোট অব ওয়ার্ডস,খ বীরেন্দ্রনাথ দত্ত চৌধুরী,ধীরেন্দ্রনাথ দত্ত চৌধুরী,নরেন্দ্রনাথ দত্ত চৌধুরী,হরেন্দ্রনাথ দত্ত চৌধুরী",
+        "dags": "",
+        "total_land": "453.20"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "মিরাশ ইজারা দেবনাথ দত্ত,রমানাথ দত্ত,পক্ষে কোট অব ওয়ার্ডস,ম্যাইন ল্যান্ড গ্রুপ,বরিশাল",
+        "dags": "",
+        "total_land": "148.68"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "মিরাশ ইজারা গৌরমোহন চক্রবর্ত্তী,অনন্তকুমার মন্ডল রায় চৌধুরী,অনুকুলচন্দ্র মন্ডল রায় চৌধুরী,রাধামোহন মন্ডল রায় চৌধুরী,রামনরসিংহ মন্ডল রায় চৌধুরী,পোঃপোনাবালিয়া",
+        "dags": "",
+        "total_land": "113.30"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "জমিদারী সাহাজাদপুর,বনোয়ারীলাল রায় চৌধুরী,রায় গুণেন্দ্রকৃষ্ণ চৌধুরী বাহাদুর,নীলকৃষ্ণ রায় চৌধুরী,উপেন্দ্রকৃষ্ণ রায় চৌধুরী,মণীন্দ্রকৃষ্ণ রায় চৌধুরী,কুঞ্জকামিনী রায়",
+        "dags": "",
+        "total_land": "141.63"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "জমিদারী সাহাজাদপুর,বনোয়ারীলাল রায় চৌধুরী,রায় গুণেন্দ্রকৃষ্ণ চৌধুরী বাহাদুর,নীলকৃষ্ণ রায় চৌধুরী,উপেন্দ্রকৃষ্ণ রায় চৌধুরী,মণীন্দ্রকৃষ্ণ রায় চৌধুরী,কুঞ্জকামিনী রায়",
+        "dags": "",
+        "total_land": "9.41"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "তালুক মহম্মদ ইদ্রাক চৌধুরী,রাধিকামোহন সাহা,মোহিনীমোহন সাহা,রনেন্দ্রনারায়ণ সাহা,বিল্বদাসুন্দরী সাহা (জীবনস্বত্ব)",
+        "dags": "1187,1188,1068,173,180,291,484,870,1108,1160,1299,1261/1349,1272/1350,1324/1351,",
+        "total_land": "586.11"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "অছিমদ্দীন আকন,ছলিমদ্দীন আকন,বছিরদ্দিন চৌকিদার,আমিনন্নেছা বিবি,দীনমহম্মদ ,ফজরআলী,আরবআলী,আবদুলরসিদ",
+        "dags": "593,594,595,596,597,603,604,605,641,642,643,644,679,680,681,701,702,704,731,732,",
+        "total_land": "11.48"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "অছিমদ্দীন সেখ,ছলিমদ্দীন সেখ,বছিরদ্দিন চৌকিদার,আমিনন্নেছা বিবি,আমিনদ্দীন হাওলাদার,হাচনআলী হাজি,হাতেমআলী খলিফা,রফেজদ্দীন খলিফা,মফিজদ্দীন,সফিজদ্দিন",
+        "dags": "587,588,784,785",
+        "total_land": "1.47"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আচমতআলী,জিন্নতআলী দফাদার,একরামআলী,ছৈয়দআলী,আয়তন বিবি,আতাহারআলী,মোতাহারআলী,আজাহারআলী,তুজাহারআলী,লালমন বিবি,জিতন বিবি,মোহব্বতআলী,মোন্তাজদ্দিন,আদমআলী,আবদুলছত্তার,ফজ",
+        "dags": "831,832,836,851,852,1302,1303,1304,1305,1306",
+        "total_land": "12.09"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আচমতআলী সিকদার,গহরআলী সিকদার,মুনছরআলী সিকদার,কাছেমআলী সিকদার,রুপাই বিবি,রজ্জবআলী সিকদার,ছাদেরআলী,সরিকসূত্রে দং ময়না বিবি",
+        "dags": "1236,1237,1265,1271,1274,1275,1281,1296",
+        "total_land": "3.90"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আচমতআলী,ছফুরা বিবি ,মোহব্বতআলী,জুনাবআলী,নাজেমআলী,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁনবরু বিবি ,অহেজদ্ধীন,এফরনউদ্দীন,তমিজদ্দীন,ময়ফুলবিবি ,হাতেমআলী,মমিনা ",
+        "dags": "635,637,638,614,615,616,660,748,749,750,1145,1146,1147,1148,1149,1150,1151,1152,",
+        "total_land": "5.32"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আচমতআলী,মোহব্বতআলী,জুনাবআলী,নাজেমআলী,সফুরা খাতুন বিবি ,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁন বিবি ,অহেজদ্ধীন,এফরনউদ্দীন,তমিজদ্দীন,ময়ফুলবিবি ,আমিনা খাতুন,",
+        "dags": "684,689,715,1013,1018,1022,1039,1050,1058,1064,1065,1131,1138,688,690,714",
+        "total_land": "9.17"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আচমতআলী,মোহব্বতআলী,জোনাবআলী,নাজেমআলী,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁনবরু বিবি,সফুরা বিবি,হাতেমআলী,মমিনা খাতুন,কাছেমআলী,তমিজদ্দীন,অহেজদ্দীন,এফরানদ্দী",
+        "dags": "1109,1110,1165",
+        "total_land": "3.22"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "কর্ষা,আচমতআলী,মোহব্বতআলী,জোনাবআলী,নাজেমআলী,কোব্বাদআলী,কেরামতআলী,আয়তন বিবি,আরসেদআলী,চাঁনবরু বিবি,ছফুরা বিবি,হাতেমআলী, মমিনা খাতুন,কাছেমআলী,তমিজদ্দীন,অহেজদ্দীন,এফ",
+        "dags": "724,1144,722,723,1143",
+        "total_land": "2.03"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আজাহার আলী দফাদার,চেহারআলী,হাসেমআলী,ছাহেদআলী,অহেদআলী,হাতেমআলী,সোনাই বিবি,সাজু বিবি,নোয়ারআলী হাওলাদার,কদম আলী,কেতাবআলী,আবদুল ছত্তার,বরুজান বিবি,খবিরউদ্দীন হাজি,স",
+        "dags": "662,663,677,693,703,1012,1016,1028,1041,1048,1051,1057,1059,1062,1063,1071,1072,",
+        "total_land": "15.47"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আজাহারআলী দফাদার",
+        "dags": "772,777,795,801",
+        "total_land": "3.03"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "ক আতাহারআলী,মোতাহার আলী,আজাহার আলী,তুজাহার আলী,লালমন বিবি,খ ময়জদ্দীন মুন্সি,গ অছিমদ্দীন,মোমিনদ্দীন,ঙ আবদুল হাকিম দফাদার,মেছেরউদ্দীন,চ তমিজদ্দীন,রেয়াজদ্দীন,আফেজদ",
+        "dags": "244,245,369,370,371,372,373,388,389,275,421,431,432,440,441,442,450,451,452,479,",
+        "total_land": "9.39"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "অছিমদ্দিন,মোমেনদ্দিন",
+        "dags": "453",
+        "total_land": "0.83"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আফাজদ্দিন মুন্সি,আজাহারআলী",
+        "dags": "413,418",
+        "total_land": "1.30"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "owners": "আবদুল ওহাব হাজি,আবদুল মজিদ,লালমন বিবি,ছকিনা খাতুন,মানিকজান বিবি,ফাতেমা খাতুন,মোহব্বতআলী হাজি,আবদুলমন্নাপ,মৈরিয়ম বিবি,জবুনা বিবি,মেহেরনেগা",
+        "dags": "678,700,710,736,1134,1137,1158,1159,1156,1157",
+        "total_land": "7.26"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "লক্ষীপুরা",
+        "jl_no": "1",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বড় যাদবপুর",
+        "jl_no": "2",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "পূর্ব্ব চালিতাবুনিয়া",
+        "jl_no": "3",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "চেঁচান",
+        "jl_no": "4",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বেবাজিয়া খালী",
+        "jl_no": "5",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "কালিকাবাড়ী",
+        "jl_no": "6",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "ঢুষখালী",
+        "jl_no": "7",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বামনা",
+        "jl_no": "8",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "কলাগাছিয়া",
+        "jl_no": "9",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "সফিপুর",
+        "jl_no": "10",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "চাড়াখালীা",
+        "jl_no": "11",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "সোনাখালী",
+        "jl_no": "12",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "ছোট যাদবপুর",
+        "jl_no": "13",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বাটাজোর",
+        "jl_no": "14",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বুকাবুনিয়া",
+        "jl_no": "15",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "সিংরাবুনিয়া",
+        "jl_no": "16",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "লতাবুনিয়া",
+        "jl_no": "17",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "কালাইয়া",
+        "jl_no": "18",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বড় তালেশ্বর",
+        "jl_no": "19",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "ছোট তালেশ্বর",
+        "jl_no": "20",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "জয়নগর",
+        "jl_no": "21",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "ছনবুনিয়া",
+        "jl_no": "22",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "বলইবুনিয়া",
+        "jl_no": "23",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "ঘোপখালী",
+        "jl_no": "24",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "নিজ আমতলী",
+        "jl_no": "25",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "আমতলী",
+        "jl_no": "26",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "রুহিতা",
+        "jl_no": "27",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "পোটকাখালী",
+        "jl_no": "28",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "অযোধ্যা",
+        "jl_no": "29",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      },
+      {
+        "mouza_name": "খোলপটুয়া",
+        "jl_no": "30",
+        "survey": "RS",
+        "upazila": "BAMNA"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/4:/",
+      "district_drive_url": "https://free.mouzamap.tech/4:/Barguna/",
+      "district_total_maps": 843,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 9.904,
+      "catalog_github_path": "land/maps/Barishal/Barguna.json",
+      "online_folder_url": "https://free.mouzamap.tech/4:/Barguna/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Barguna",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Barguna",
+        "phone": "01713-000050",
+        "email": "dcbarguna@mopa.gov.bd",
+        "website": "http://www.barguna.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Barguna",
+        "phone": "01713-373050",
+        "email": "spbarguna@police.gov.bd",
+        "control_room": "01713-374050"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Barguna",
+        "phone": "01713-555050",
+        "email": "csbarguna@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "109",
+        "name": {
+          "en": "Barguna-1",
+          "bn": "বরগুনা-১"
+        },
+        "total_voters": 519460
+      },
+      {
+        "code": "110",
+        "name": {
+          "en": "Barguna-2",
+          "bn": "বরগুনা-২"
+        },
+        "total_voters": 337744
+      }
+    ],
+    "upazila_portal": "bamna.barguna.gov.bd",
+    "district_portal": "http://www.barguna.gov.bd",
+    "union_portals_count": 4,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

@@ -1,1 +1,1299 @@
-{"division": "Rangpur", "district": "Nilphamari", "upazila": "Nilphamari Sadar", "upazila_slug": "rangpur__nilphamari__nilphamari_sadar", "geography": {"division": "Rangpur", "division_bn": "রংপুর", "district": "Nilphamari", "district_bn": "নীলফামারী", "district_lat": "25.931794", "district_lon": "88.856006", "upazila_id": "427", "upazila": "Nilphamari Sadar", "upazila_bn": "নীলফামারী সদর", "official_url": "nilphamarisadar.nilphamari.gov.bd", "total_unions": 15, "unions": [{"id": "3884", "name": "Chaora Bargacha", "bn_name": "চওড়া বড়গাছা", "url": "chaorabargachaup.nilphamari.gov.bd"}, {"id": "3885", "name": "Gorgram", "bn_name": "গোড়গ্রাম", "url": "gorgramup.nilphamari.gov.bd"}, {"id": "3886", "name": "Khoksabari", "bn_name": "খোকসাবাড়ী", "url": "khoksabariup.nilphamari.gov.bd"}, {"id": "3887", "name": "Palasbari", "bn_name": "পলাশবাড়ী", "url": "palasbariup.nilphamari.gov.bd"}, {"id": "3888", "name": "Ramnagar", "bn_name": "রামনগর", "url": "ramnagarup.nilphamari.gov.bd"}, {"id": "3889", "name": "Kachukata", "bn_name": "কচুকাটা", "url": "kachukataup.nilphamari.gov.bd"}, {"id": "3890", "name": "Panchapukur", "bn_name": "পঞ্চপুকুর", "url": "panchapukurup.nilphamari.gov.bd"}, {"id": "3891", "name": "Itakhola", "bn_name": "ইটাখোলা", "url": "itakholaup.nilphamari.gov.bd"}, {"id": "3892", "name": "Kundapukur", "bn_name": "কুন্দপুকুর", "url": "kundapukur.nilphamari.gov.bd"}, {"id": "3893", "name": "Sonaray", "bn_name": "সোনারায়", "url": "sonaray.nilphamari.gov.bd"}, {"id": "3894", "name": "Songalsi", "bn_name": "সংগলশী", "url": "songalsiup.nilphamari.gov.bd"}, {"id": "3895", "name": "Charaikhola", "bn_name": "চড়াইখোলা", "url": "charaikhola.nilphamari.gov.bd"}, {"id": "3896", "name": "Chapra Sarnjami", "bn_name": "চাপড়া সরঞ্জানী", "url": "chaprasarnjami.nilphamari.gov.bd"}, {"id": "3897", "name": "Lakshmicha", "bn_name": "লক্ষ্মীচাপ", "url": "lakshmichapup.nilphamari.gov.bd"}, {"id": "3898", "name": "Tupamari", "bn_name": "টুপামারী", "url": "tupamariup.nilphamari.gov.bd"}], "total_post_offices": 2, "postal_codes": [{"postcode": "5300", "postcode_bn": "৫৩০০", "sub_office": "Nilphamari Sadar", "sub_office_bn": "নীলফামারী সদর"}, {"postcode": "5301", "postcode_bn": "৫৩০১", "sub_office": "Nilphamari Sugar Mil", "sub_office_bn": "নীলফামারী চিনি মিল"}]}, "stats": {"education_count": 0, "healthcare_count": 24, "banking_count": 6, "police_count": 1, "fire_count": 1, "unions_count": 15, "postcodes_count": 2, "land_khatians_count": 42, "mouzas_count": 435}, "education": [], "healthcare": [{"id": "HOSP-2859", "name": "A. R General Hospital, Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.93103, "longitude": 88.850816, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2860", "name": "Adhunik Sadar Hospital, Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.930513, "longitude": 88.845513, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2862", "name": "Mouno general hospital, Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.930017, "longitude": 88.846894, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2864", "name": "Nilphamari General Hospital", "bn_name": "", "category": "District Sadar Hospital", "type": "Government", "bed_capacity": 250, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.930674, "longitude": 88.845377, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": true, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2871", "name": "Bangladesh China Friendship 1000 Bed Hospital, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.882397, "longitude": 88.86818, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2873", "name": "DIGI Care Nilphamari, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.930587, "longitude": 88.848335, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2874", "name": "Danish Bangladesh Leprosy Mission, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.969559, "longitude": 88.846124, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2875", "name": "Disability Service and Assistance Center, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.9284, "longitude": 88.845204, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2876", "name": "District Animal Resources Office, Animal hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.956617, "longitude": 88.838526, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2878", "name": "Government Leprosy Hospital, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.966474, "longitude": 88.843118, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2882", "name": "Internal Hospital, Nilphamari Jail, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.922762, "longitude": 88.866429, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2886", "name": "Mother and Child Welfare Centre, Maternity hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.931095, "longitude": 88.853248, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2887", "name": "Nagorik Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.936008, "longitude": 88.851192, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2888", "name": "Nilphamari Diabetes Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.930659, "longitude": 88.859503, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2889", "name": "Notkhana Kusto Hospital, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.966808, "longitude": 88.842562, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2890", "name": "Palash Bari Diabetes Clinic, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.984225, "longitude": 88.842473, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2891", "name": "Roots Hospital And Diagnostic Center, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.938765, "longitude": 88.845703, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2893", "name": "Sangalshi Govt. Hospital, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.846944, "longitude": 88.867936, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2894", "name": "Shaha Plaza Hospital, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.928589, "longitude": 88.857011, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2897", "name": "Uttara EPZ Medical Center, Hospital", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.858332, "longitude": 88.864701, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2901", "name": "পুরাতন হাসপাতাল", "bn_name": "", "category": "Private Hospital", "type": "Private", "bed_capacity": 40, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": null, "longitude": null, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2902", "name": "Ebadat diagonestic centre, Doctor", "bn_name": "", "category": "Doctor / Dental Consultation", "type": "Private", "bed_capacity": 0, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.941973, "longitude": 88.844389, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2903", "name": "Orthodontic office And cosmetic dentistry, Dentist", "bn_name": "", "category": "Doctor / Dental Consultation", "type": "Private", "bed_capacity": 0, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.927806, "longitude": 88.857499, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}, {"id": "HOSP-2904", "name": "Saiyad Pharmacy, Doctor", "bn_name": "", "category": "Doctor / Dental Consultation", "type": "Private", "bed_capacity": 0, "division": "Rangpur", "district": "Nilphamari", "district_slug": "nilphamari", "upazila": "Nilphamari Sadar", "address": "Nilphamari Sadar, Nilphamari", "latitude": 25.941049, "longitude": 88.845167, "emergency_hotline": "16263 (DGHS 24/7) / 999", "telephone": "16263", "icu_available": false, "ccu_available": false, "ambulance_available": true, "website": ""}], "banking": [{"bank_name": "AGRANI BANK LIMITED", "bank_code": "010", "branch_name": "NILPHAMARI BRANCH", "routing_number": "010730731", "swift_code": "AGBKBDDH", "district": "NILPHAMARI", "address": "STATION ROAD, NILPHAMARI SADAR, NILPHAMARI 5300", "telephone": "0551 61454", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "073"}, {"bank_name": "JANATA BANK LIMITED", "bank_code": "135", "branch_name": "NILPHAMARI BRANCH", "routing_number": "135730737", "swift_code": "JANBBDDH", "district": "NILPHAMARI", "address": "NILPHAMARI SADAR, NILPHAMARI 5300", "telephone": "0551 61270, 61491", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "073"}, {"bank_name": "JANATA BANK LIMITED", "bank_code": "135", "branch_name": "RAMGANJ BRANCH", "routing_number": "135730766", "swift_code": "JANBBDDH", "district": "NILPHAMARI", "address": "RAMGANJ, NILPHAMARI SADAR, NILPHAMARI 5300", "telephone": "017 30009685", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "076"}, {"bank_name": "PUBALI BANK LIMITED", "bank_code": "175", "branch_name": "NILPHAMARI BRANCH", "routing_number": "175730739", "swift_code": "PUBABDDH", "district": "NILPHAMARI", "address": "BARA MASJID ROAD, NILPHAMARI SADAR, NILPHAMARI", "telephone": "0551 409", "email": "nilphamari@pubalibankbd.com", "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "branch_code": "073"}, {"bank_name": "RUPALI BANK LIMITED", "bank_code": "185", "branch_name": "NILPHAMARI BRANCH", "routing_number": "185730732", "swift_code": "RUPBBDDH", "district": "NILPHAMARI", "address": "NILPHAMARI SADAR, NILPHAMARI", "telephone": "0551 61304, 017 16918785", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "4325 / 073"}, {"bank_name": "SONALI BANK LIMITED", "bank_code": "200", "branch_name": "NILPHAMARI BRANCH", "routing_number": "200730738", "swift_code": "BSONBDDH", "district": "NILPHAMARI", "address": "NILPHAMARI SADAR, NILPHAMARI", "telephone": "0551 61481", "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)", "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED", "branch_code": "073 / 073"}], "emergency": {"division": "Rangpur", "district": "Nilphamari", "upazila": "Nilphamari Sadar", "national_hotlines": [{"name": "National Emergency Service (Police, Fire, Ambulance)", "number": "999"}, {"name": "National Information & Citizen Service", "number": "333"}, {"name": "Government Legal Aid", "number": "16430"}, {"name": "Child Helpline", "number": "1098"}, {"name": "Women & Children Repression Prevention Helpline", "number": "109"}], "district_administration": {"district": "Nilphamari", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Nilphamari", "phone": "01713-000057", "email": "dcnilphamari@mopa.gov.bd", "website": "http://www.nilphamari.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Nilphamari", "phone": "01713-373057", "email": "spnilphamari@police.gov.bd", "control_room": "01713-374057"}, "civil_surgeon_office": {"title": "Civil Surgeon, Nilphamari", "phone": "01713-555057", "email": "csnilphamari@dghs.gov.bd"}}, "police_stations": [{"thana_id": "PS-DIST-70", "name": "Nilphamari Sadar Police Station", "bn_name": "Nilphamari সদর থানা", "unit": "Nilphamari District Police", "division": "General", "district": "Nilphamari", "address": "Court Building Road, Sadar, Nilphamari", "oc_mobile": "01713-374070", "duty_officer": "01713-399070", "tnt": "02-770070", "control_room": "01713-374000"}], "fire_stations": [{"station_id": "FS-061", "name": "Nilphamari Fire Station & Civil Defence", "bn_name": "Nilphamari ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন", "division": "General", "district": "Nilphamari", "address": "Sadar, Nilphamari", "hotline": "16163", "emergency_phone": "02-9988061", "mobile": "01713-038061", "station_type": "District Headquarters Station"}]}, "land_khatian_count": 0, "land": {"khatian_count": 42, "mouza_count": 435, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "17", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং অমিছা খাতুন", "dags": "4281", "total_land": "0.3000"}, {"khatian_no": "50", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং আঞ্জুয়ারা বেগম", "dags": "909,922", "total_land": "2.4900"}, {"khatian_no": "137", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং এছার উদ্দিন", "dags": "3698,3715,3724,3730,3744,3845,3847,3851,3858,3862,3873,3876,3877,3878,3881,3920,", "total_land": "7.5200"}, {"khatian_no": "149", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং রহিমুদ্দীন,কাকর বিবি", "dags": "4278", "total_land": "0.5800"}, {"khatian_no": "161", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং কোবাদ আলী", "dags": "3825,3845,3888,3905,3915,3916,3946", "total_land": "4.0200"}, {"khatian_no": "235", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং জাহেদুল আলম", "dags": "198,243,273,274,275,321,326,327,369,385,394,395,398,399,400,406,453,1246,1248,12", "total_land": "4.3200"}, {"khatian_no": "237", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং জিতু মিয়া", "dags": "1010,1024,1033,1070,1174", "total_land": "0.6900"}, {"khatian_no": "269", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং তোফাজ্জল হোসেন", "dags": "3471,3674,3695,3697,3707,3709,3727,3737,3738,3758,3871,3874,3880,3924,3941,3953,", "total_land": "6.1700"}, {"khatian_no": "286", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং দেলওয়ার হোসেন", "dags": "3535,3543,3544,3545,3548,3550,3551,3564,3569,3575,3653,3655,3829", "total_land": "3.0300"}, {"khatian_no": "374", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং বাইটু মামুদ", "dags": "4235,4238,4240,4244,4245,4248,4249,4253,4279", "total_land": "2.6400"}, {"khatian_no": "406", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং ভদ্র বর্মন", "dags": "1683,1686,1692,1705,1706,1708,1709,1712,1715,1716,1717,1718,1720,1721,1747,1748,", "total_land": "1.7200"}, {"khatian_no": "425", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং মজিবর রহমান,...", "dags": "", "total_land": ""}, {"khatian_no": "455", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং মনোয়ার হোসেন", "dags": "3729,3772,3822,3823,3835,3842,3864,3910,4057", "total_land": "3.2900"}, {"khatian_no": "606", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং সুধেন বর্মন", "dags": "352,377,388,391,396,406,412,449,450,455,1279,1351", "total_land": "1.5800"}, {"khatian_no": "728", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং মতিলাল রায়,কাছ রাম রায়", "dags": "3288,3290,3601", "total_land": "0.5100"}, {"khatian_no": "472", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "দং মহুবুল হক", "dags": "", "total_land": ""}, {"khatian_no": "127", "survey": "RS", "mouza_name": "কিসমত দলুয়া", "jl_no": "1", "owners": "প্রভাত বর্ম্মন,...", "dags": "", "total_land": ""}, {"khatian_no": "18", "survey": "RS", "mouza_name": "আরাজী দলুয়া", "jl_no": "2", "owners": "দং অশ্বিনী কুমার রয়", "dags": "1114,1122,1130,1144,1148", "total_land": "2.0900"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "আরাজী দলুয়া", "jl_no": "2", "owners": "দং অহিমন বেওয়া,ফতেমা খাতুন,হালিমা খাতুন,বেগম খাতুন,হোচনেয়ারা খাতুন,আজিমা খাতুন,ফরিদা খাতুন,আহেমা খাতুন", "dags": "638,661,663,665", "total_land": "0.3700"}, {"khatian_no": "65", "survey": "RS", "mouza_name": "আরাজী দলুয়া", "jl_no": "2", "owners": "দং আজিজুল হক,আনিছুর রহমান,গোলাম মোস্তফা,আতিউর রহমান,ইব্রাহিম আলি", "dags": "616,632,681,729,738,742,743,787,928,930", "total_land": "0.9600"}], "sample_mouzas": [{"mouza_name": "কিসমত দলুয়া", "jl_no": "1", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "আরাজি দলুয়া", "jl_no": "2", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "ধোবাডাঙ্গা", "jl_no": "3", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "নগর ভবানীগঞ্জ", "jl_no": "4", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "গোড়গ্রাম", "jl_no": "5", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "কিসমত উত্তর গোড়গ্রাম", "jl_no": "6", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "কুকড়াডাঙ্গা", "jl_no": "7", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "কিসামত দক্ষিন গোড়গ্রাম", "jl_no": "8", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "দুকুড়ী", "jl_no": "9", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "দক্ষিন পাড়া", "jl_no": "10", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "মুসরত গোড়গ্রাম", "jl_no": "11", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "রামকলা", "jl_no": "12", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "কির্তনিয়া পাড়া", "jl_no": "13", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "কাঞ্চনপাড়া", "jl_no": "14", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "উত্তর চওড়া", "jl_no": "15", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "দক্ষিণ চওড়া বড় গাছা", "jl_no": "16", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "তরনী বাড়ী", "jl_no": "17", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "পলাশবাড়ী", "jl_no": "18", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "সুখধন", "jl_no": "19", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "নৃসিংহ", "jl_no": "20", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "সহদেব বড়গাছা", "jl_no": "21", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "ককই বড়গাছা", "jl_no": "22", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "কচুয়া", "jl_no": "23", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "দাড়িহারা", "jl_no": "24", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "লক্ষীচাপ", "jl_no": "25", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "দুবাছুড়ি", "jl_no": "26", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "আকাশকুড়ি", "jl_no": "27", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "নিত্যানন্দী", "jl_no": "28", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "টুপামারী", "jl_no": "29", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}, {"mouza_name": "দাউদ", "jl_no": "30", "survey": "BRS", "upazila": "NILPHAMARI SADAR UPAZ"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1VdIaaFQg8Uj0rpNQy_36zTYtYLxO3re5", "district_drive_url": "https://drive.google.com/drive/folders/1MvE1kyKqmkI1F-Ttx9kVJqVlz4S81pdD", "district_total_maps": 3204, "district_uploaded_maps": 0, "district_total_gb": 33.454, "catalog_github_path": "land/maps/Rangpur/Nilphamari.json"}}, "governance": {"administration": {"district": "Nilphamari", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Nilphamari", "phone": "01713-000057", "email": "dcnilphamari@mopa.gov.bd", "website": "http://www.nilphamari.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Nilphamari", "phone": "01713-373057", "email": "spnilphamari@police.gov.bd", "control_room": "01713-374057"}, "civil_surgeon_office": {"title": "Civil Surgeon, Nilphamari", "phone": "01713-555057", "email": "csnilphamari@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "12", "name": {"en": "Nilphamari-1", "bn": "নীলফামারী-১"}, "total_voters": 460271}, {"code": "13", "name": {"en": "Nilphamari-2", "bn": "নীলফামারী-২"}, "total_voters": 385785}, {"code": "14", "name": {"en": "Nilphamari-3", "bn": "নীলফামারী-৩"}, "total_voters": 294446}, {"code": "15", "name": {"en": "Nilphamari-4", "bn": "নীলফামারী-৪"}, "total_voters": 451814}], "upazila_portal": "nilphamarisadar.nilphamari.gov.bd", "district_portal": "http://www.nilphamari.gov.bd", "union_portals_count": 15, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "upazila": "Nilphamari Sadar",
+  "upazila_slug": "rangpur__nilphamari__nilphamari_sadar",
+  "geography": {
+    "division": "Rangpur",
+    "division_bn": "রংপুর",
+    "district": "Nilphamari",
+    "district_bn": "নীলফামারী",
+    "district_lat": "25.931794",
+    "district_lon": "88.856006",
+    "upazila_id": "427",
+    "upazila": "Nilphamari Sadar",
+    "upazila_bn": "নীলফামারী সদর",
+    "official_url": "nilphamarisadar.nilphamari.gov.bd",
+    "total_unions": 15,
+    "unions": [
+      {
+        "id": "3884",
+        "name": "Chaora Bargacha",
+        "bn_name": "চওড়া বড়গাছা",
+        "url": "chaorabargachaup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3885",
+        "name": "Gorgram",
+        "bn_name": "গোড়গ্রাম",
+        "url": "gorgramup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3886",
+        "name": "Khoksabari",
+        "bn_name": "খোকসাবাড়ী",
+        "url": "khoksabariup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3887",
+        "name": "Palasbari",
+        "bn_name": "পলাশবাড়ী",
+        "url": "palasbariup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3888",
+        "name": "Ramnagar",
+        "bn_name": "রামনগর",
+        "url": "ramnagarup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3889",
+        "name": "Kachukata",
+        "bn_name": "কচুকাটা",
+        "url": "kachukataup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3890",
+        "name": "Panchapukur",
+        "bn_name": "পঞ্চপুকুর",
+        "url": "panchapukurup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3891",
+        "name": "Itakhola",
+        "bn_name": "ইটাখোলা",
+        "url": "itakholaup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3892",
+        "name": "Kundapukur",
+        "bn_name": "কুন্দপুকুর",
+        "url": "kundapukur.nilphamari.gov.bd"
+      },
+      {
+        "id": "3893",
+        "name": "Sonaray",
+        "bn_name": "সোনারায়",
+        "url": "sonaray.nilphamari.gov.bd"
+      },
+      {
+        "id": "3894",
+        "name": "Songalsi",
+        "bn_name": "সংগলশী",
+        "url": "songalsiup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3895",
+        "name": "Charaikhola",
+        "bn_name": "চড়াইখোলা",
+        "url": "charaikhola.nilphamari.gov.bd"
+      },
+      {
+        "id": "3896",
+        "name": "Chapra Sarnjami",
+        "bn_name": "চাপড়া সরঞ্জানী",
+        "url": "chaprasarnjami.nilphamari.gov.bd"
+      },
+      {
+        "id": "3897",
+        "name": "Lakshmicha",
+        "bn_name": "লক্ষ্মীচাপ",
+        "url": "lakshmichapup.nilphamari.gov.bd"
+      },
+      {
+        "id": "3898",
+        "name": "Tupamari",
+        "bn_name": "টুপামারী",
+        "url": "tupamariup.nilphamari.gov.bd"
+      }
+    ],
+    "total_post_offices": 2,
+    "postal_codes": [
+      {
+        "postcode": "5300",
+        "postcode_bn": "৫৩০০",
+        "sub_office": "Nilphamari Sadar",
+        "sub_office_bn": "নীলফামারী সদর"
+      },
+      {
+        "postcode": "5301",
+        "postcode_bn": "৫৩০১",
+        "sub_office": "Nilphamari Sugar Mil",
+        "sub_office_bn": "নীলফামারী চিনি মিল"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 0,
+    "healthcare_count": 24,
+    "banking_count": 6,
+    "police_count": 1,
+    "fire_count": 1,
+    "unions_count": 15,
+    "postcodes_count": 2,
+    "land_khatians_count": 42,
+    "mouzas_count": 435
+  },
+  "education": [],
+  "healthcare": [
+    {
+      "id": "HOSP-2859",
+      "name": "A. R General Hospital, Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.93103,
+      "longitude": 88.850816,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2860",
+      "name": "Adhunik Sadar Hospital, Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.930513,
+      "longitude": 88.845513,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2862",
+      "name": "Mouno general hospital, Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.930017,
+      "longitude": 88.846894,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2864",
+      "name": "Nilphamari General Hospital",
+      "bn_name": "",
+      "category": "District Sadar Hospital",
+      "type": "Government",
+      "bed_capacity": 250,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.930674,
+      "longitude": 88.845377,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": true,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2871",
+      "name": "Bangladesh China Friendship 1000 Bed Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.882397,
+      "longitude": 88.86818,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2873",
+      "name": "DIGI Care Nilphamari, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.930587,
+      "longitude": 88.848335,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2874",
+      "name": "Danish Bangladesh Leprosy Mission, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.969559,
+      "longitude": 88.846124,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2875",
+      "name": "Disability Service and Assistance Center, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.9284,
+      "longitude": 88.845204,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2876",
+      "name": "District Animal Resources Office, Animal hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.956617,
+      "longitude": 88.838526,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2878",
+      "name": "Government Leprosy Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.966474,
+      "longitude": 88.843118,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2882",
+      "name": "Internal Hospital, Nilphamari Jail, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.922762,
+      "longitude": 88.866429,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2886",
+      "name": "Mother and Child Welfare Centre, Maternity hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.931095,
+      "longitude": 88.853248,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2887",
+      "name": "Nagorik Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.936008,
+      "longitude": 88.851192,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2888",
+      "name": "Nilphamari Diabetes Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.930659,
+      "longitude": 88.859503,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2889",
+      "name": "Notkhana Kusto Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.966808,
+      "longitude": 88.842562,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2890",
+      "name": "Palash Bari Diabetes Clinic, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.984225,
+      "longitude": 88.842473,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2891",
+      "name": "Roots Hospital And Diagnostic Center, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.938765,
+      "longitude": 88.845703,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2893",
+      "name": "Sangalshi Govt. Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.846944,
+      "longitude": 88.867936,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2894",
+      "name": "Shaha Plaza Hospital, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.928589,
+      "longitude": 88.857011,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2897",
+      "name": "Uttara EPZ Medical Center, Hospital",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.858332,
+      "longitude": 88.864701,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2901",
+      "name": "পুরাতন হাসপাতাল",
+      "bn_name": "",
+      "category": "Private Hospital",
+      "type": "Private",
+      "bed_capacity": 40,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": null,
+      "longitude": null,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2902",
+      "name": "Ebadat diagonestic centre, Doctor",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.941973,
+      "longitude": 88.844389,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2903",
+      "name": "Orthodontic office And cosmetic dentistry, Dentist",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.927806,
+      "longitude": 88.857499,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    },
+    {
+      "id": "HOSP-2904",
+      "name": "Saiyad Pharmacy, Doctor",
+      "bn_name": "",
+      "category": "Doctor / Dental Consultation",
+      "type": "Private",
+      "bed_capacity": 0,
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "district_slug": "nilphamari",
+      "upazila": "Nilphamari Sadar",
+      "address": "Nilphamari Sadar, Nilphamari",
+      "latitude": 25.941049,
+      "longitude": 88.845167,
+      "emergency_hotline": "16263 (DGHS 24/7) / 999",
+      "telephone": "16263",
+      "icu_available": false,
+      "ccu_available": false,
+      "ambulance_available": true,
+      "website": ""
+    }
+  ],
+  "banking": [
+    {
+      "bank_name": "AGRANI BANK LIMITED",
+      "bank_code": "010",
+      "branch_name": "NILPHAMARI BRANCH",
+      "routing_number": "010730731",
+      "swift_code": "AGBKBDDH",
+      "district": "NILPHAMARI",
+      "address": "STATION ROAD, NILPHAMARI SADAR, NILPHAMARI 5300",
+      "telephone": "0551 61454",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "073"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "NILPHAMARI BRANCH",
+      "routing_number": "135730737",
+      "swift_code": "JANBBDDH",
+      "district": "NILPHAMARI",
+      "address": "NILPHAMARI SADAR, NILPHAMARI 5300",
+      "telephone": "0551 61270, 61491",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "073"
+    },
+    {
+      "bank_name": "JANATA BANK LIMITED",
+      "bank_code": "135",
+      "branch_name": "RAMGANJ BRANCH",
+      "routing_number": "135730766",
+      "swift_code": "JANBBDDH",
+      "district": "NILPHAMARI",
+      "address": "RAMGANJ, NILPHAMARI SADAR, NILPHAMARI 5300",
+      "telephone": "017 30009685",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "076"
+    },
+    {
+      "bank_name": "PUBALI BANK LIMITED",
+      "bank_code": "175",
+      "branch_name": "NILPHAMARI BRANCH",
+      "routing_number": "175730739",
+      "swift_code": "PUBABDDH",
+      "district": "NILPHAMARI",
+      "address": "BARA MASJID ROAD, NILPHAMARI SADAR, NILPHAMARI",
+      "telephone": "0551 409",
+      "email": "nilphamari@pubalibankbd.com",
+      "fax": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "branch_code": "073"
+    },
+    {
+      "bank_name": "RUPALI BANK LIMITED",
+      "bank_code": "185",
+      "branch_name": "NILPHAMARI BRANCH",
+      "routing_number": "185730732",
+      "swift_code": "RUPBBDDH",
+      "district": "NILPHAMARI",
+      "address": "NILPHAMARI SADAR, NILPHAMARI",
+      "telephone": "0551 61304, 017 16918785",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "4325 / 073"
+    },
+    {
+      "bank_name": "SONALI BANK LIMITED",
+      "bank_code": "200",
+      "branch_name": "NILPHAMARI BRANCH",
+      "routing_number": "200730738",
+      "swift_code": "BSONBDDH",
+      "district": "NILPHAMARI",
+      "address": "NILPHAMARI SADAR, NILPHAMARI",
+      "telephone": "0551 61481",
+      "email": "SUNDAY - THURSDAY (EXCEPT HOLIDAYS)",
+      "fax": "SUNDAY: 10:00 AM - 4:00 PM<br>MONDAY: 10:00 AM - 4:00 PM<br>TUESDAY: 10:00 AM - 4:00 PM<br>WEDNESDAY: 10:00 AM - 4:00 PM<br>THURSDAY: 10:00 AM - 4:00 PM<br>FRIDAY: CLOSED<br>SATURDAY: CLOSED",
+      "branch_code": "073 / 073"
+    }
+  ],
+  "emergency": {
+    "division": "Rangpur",
+    "district": "Nilphamari",
+    "upazila": "Nilphamari Sadar",
+    "national_hotlines": [
+      {
+        "name": "National Emergency Service (Police, Fire, Ambulance)",
+        "number": "999"
+      },
+      {
+        "name": "National Information & Citizen Service",
+        "number": "333"
+      },
+      {
+        "name": "Government Legal Aid",
+        "number": "16430"
+      },
+      {
+        "name": "Child Helpline",
+        "number": "1098"
+      },
+      {
+        "name": "Women & Children Repression Prevention Helpline",
+        "number": "109"
+      }
+    ],
+    "district_administration": {
+      "district": "Nilphamari",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Nilphamari",
+        "phone": "01713-000057",
+        "email": "dcnilphamari@mopa.gov.bd",
+        "website": "http://www.nilphamari.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Nilphamari",
+        "phone": "01713-373057",
+        "email": "spnilphamari@police.gov.bd",
+        "control_room": "01713-374057"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Nilphamari",
+        "phone": "01713-555057",
+        "email": "csnilphamari@dghs.gov.bd"
+      }
+    },
+    "police_stations": [
+      {
+        "thana_id": "PS-DIST-70",
+        "name": "Nilphamari Sadar Police Station",
+        "bn_name": "Nilphamari সদর থানা",
+        "unit": "Nilphamari District Police",
+        "division": "General",
+        "district": "Nilphamari",
+        "address": "Court Building Road, Sadar, Nilphamari",
+        "oc_mobile": "01713-374070",
+        "duty_officer": "01713-399070",
+        "tnt": "02-770070",
+        "control_room": "01713-374000"
+      }
+    ],
+    "fire_stations": [
+      {
+        "station_id": "FS-061",
+        "name": "Nilphamari Fire Station & Civil Defence",
+        "bn_name": "Nilphamari ফায়ার সার্ভিস ও সিভিল ডিফেন্স স্টেশন",
+        "division": "General",
+        "district": "Nilphamari",
+        "address": "Sadar, Nilphamari",
+        "hotline": "16163",
+        "emergency_phone": "02-9988061",
+        "mobile": "01713-038061",
+        "station_type": "District Headquarters Station"
+      }
+    ]
+  },
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 42,
+    "mouza_count": 435,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং অমিছা খাতুন",
+        "dags": "4281",
+        "total_land": "0.3000"
+      },
+      {
+        "khatian_no": "50",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং আঞ্জুয়ারা বেগম",
+        "dags": "909,922",
+        "total_land": "2.4900"
+      },
+      {
+        "khatian_no": "137",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং এছার উদ্দিন",
+        "dags": "3698,3715,3724,3730,3744,3845,3847,3851,3858,3862,3873,3876,3877,3878,3881,3920,",
+        "total_land": "7.5200"
+      },
+      {
+        "khatian_no": "149",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং রহিমুদ্দীন,কাকর বিবি",
+        "dags": "4278",
+        "total_land": "0.5800"
+      },
+      {
+        "khatian_no": "161",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং কোবাদ আলী",
+        "dags": "3825,3845,3888,3905,3915,3916,3946",
+        "total_land": "4.0200"
+      },
+      {
+        "khatian_no": "235",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং জাহেদুল আলম",
+        "dags": "198,243,273,274,275,321,326,327,369,385,394,395,398,399,400,406,453,1246,1248,12",
+        "total_land": "4.3200"
+      },
+      {
+        "khatian_no": "237",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং জিতু মিয়া",
+        "dags": "1010,1024,1033,1070,1174",
+        "total_land": "0.6900"
+      },
+      {
+        "khatian_no": "269",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং তোফাজ্জল হোসেন",
+        "dags": "3471,3674,3695,3697,3707,3709,3727,3737,3738,3758,3871,3874,3880,3924,3941,3953,",
+        "total_land": "6.1700"
+      },
+      {
+        "khatian_no": "286",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং দেলওয়ার হোসেন",
+        "dags": "3535,3543,3544,3545,3548,3550,3551,3564,3569,3575,3653,3655,3829",
+        "total_land": "3.0300"
+      },
+      {
+        "khatian_no": "374",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং বাইটু মামুদ",
+        "dags": "4235,4238,4240,4244,4245,4248,4249,4253,4279",
+        "total_land": "2.6400"
+      },
+      {
+        "khatian_no": "406",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং ভদ্র বর্মন",
+        "dags": "1683,1686,1692,1705,1706,1708,1709,1712,1715,1716,1717,1718,1720,1721,1747,1748,",
+        "total_land": "1.7200"
+      },
+      {
+        "khatian_no": "425",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং মজিবর রহমান,...",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "455",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং মনোয়ার হোসেন",
+        "dags": "3729,3772,3822,3823,3835,3842,3864,3910,4057",
+        "total_land": "3.2900"
+      },
+      {
+        "khatian_no": "606",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং সুধেন বর্মন",
+        "dags": "352,377,388,391,396,406,412,449,450,455,1279,1351",
+        "total_land": "1.5800"
+      },
+      {
+        "khatian_no": "728",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং মতিলাল রায়,কাছ রাম রায়",
+        "dags": "3288,3290,3601",
+        "total_land": "0.5100"
+      },
+      {
+        "khatian_no": "472",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "দং মহুবুল হক",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "127",
+        "survey": "RS",
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "owners": "প্রভাত বর্ম্মন,...",
+        "dags": "",
+        "total_land": ""
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "আরাজী দলুয়া",
+        "jl_no": "2",
+        "owners": "দং অশ্বিনী কুমার রয়",
+        "dags": "1114,1122,1130,1144,1148",
+        "total_land": "2.0900"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "আরাজী দলুয়া",
+        "jl_no": "2",
+        "owners": "দং অহিমন বেওয়া,ফতেমা খাতুন,হালিমা খাতুন,বেগম খাতুন,হোচনেয়ারা খাতুন,আজিমা খাতুন,ফরিদা খাতুন,আহেমা খাতুন",
+        "dags": "638,661,663,665",
+        "total_land": "0.3700"
+      },
+      {
+        "khatian_no": "65",
+        "survey": "RS",
+        "mouza_name": "আরাজী দলুয়া",
+        "jl_no": "2",
+        "owners": "দং আজিজুল হক,আনিছুর রহমান,গোলাম মোস্তফা,আতিউর রহমান,ইব্রাহিম আলি",
+        "dags": "616,632,681,729,738,742,743,787,928,930",
+        "total_land": "0.9600"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "কিসমত দলুয়া",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "আরাজি দলুয়া",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "ধোবাডাঙ্গা",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "নগর ভবানীগঞ্জ",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "গোড়গ্রাম",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "কিসমত উত্তর গোড়গ্রাম",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "কুকড়াডাঙ্গা",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "কিসামত দক্ষিন গোড়গ্রাম",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "দুকুড়ী",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "দক্ষিন পাড়া",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "মুসরত গোড়গ্রাম",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "রামকলা",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "কির্তনিয়া পাড়া",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "কাঞ্চনপাড়া",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "উত্তর চওড়া",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "দক্ষিণ চওড়া বড় গাছা",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "তরনী বাড়ী",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "পলাশবাড়ী",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "সুখধন",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "নৃসিংহ",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "সহদেব বড়গাছা",
+        "jl_no": "21",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "ককই বড়গাছা",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "কচুয়া",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "দাড়িহারা",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "লক্ষীচাপ",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "দুবাছুড়ি",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "আকাশকুড়ি",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "নিত্যানন্দী",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "টুপামারী",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      },
+      {
+        "mouza_name": "দাউদ",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "NILPHAMARI SADAR UPAZ"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/6:/",
+      "district_drive_url": "https://free.mouzamap.tech/6:/Nilphamari/",
+      "district_total_maps": 3204,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 33.454,
+      "catalog_github_path": "land/maps/Rangpur/Nilphamari.json",
+      "online_folder_url": "https://free.mouzamap.tech/6:/Nilphamari/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Nilphamari",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Nilphamari",
+        "phone": "01713-000057",
+        "email": "dcnilphamari@mopa.gov.bd",
+        "website": "http://www.nilphamari.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Nilphamari",
+        "phone": "01713-373057",
+        "email": "spnilphamari@police.gov.bd",
+        "control_room": "01713-374057"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Nilphamari",
+        "phone": "01713-555057",
+        "email": "csnilphamari@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "12",
+        "name": {
+          "en": "Nilphamari-1",
+          "bn": "নীলফামারী-১"
+        },
+        "total_voters": 460271
+      },
+      {
+        "code": "13",
+        "name": {
+          "en": "Nilphamari-2",
+          "bn": "নীলফামারী-২"
+        },
+        "total_voters": 385785
+      },
+      {
+        "code": "14",
+        "name": {
+          "en": "Nilphamari-3",
+          "bn": "নীলফামারী-৩"
+        },
+        "total_voters": 294446
+      },
+      {
+        "code": "15",
+        "name": {
+          "en": "Nilphamari-4",
+          "bn": "নীলফামারী-৪"
+        },
+        "total_voters": 451814
+      }
+    ],
+    "upazila_portal": "nilphamarisadar.nilphamari.gov.bd",
+    "district_portal": "http://www.nilphamari.gov.bd",
+    "union_portals_count": 15,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

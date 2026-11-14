@@ -1,1 +1,485 @@
-{"division": "Mymensingh", "district": "Mymensingh", "upazila": "Gouripur", "upazila_slug": "mymensingh__mymensingh__gouripur", "geography": {"division": "Mymensingh", "division_bn": "ময়মনসিংহ", "district": "Mymensingh", "district_bn": "ময়মনসিংহ", "district_lat": "24.7465670", "district_lon": "90.4072093", "upazila_id": "470", "upazila": "Gouripur", "upazila_bn": "গৌরীপুর", "official_url": "gouripur.mymensingh.gov.bd", "total_unions": 10, "unions": [{"id": "4339", "name": "Sahanati", "bn_name": "সহনাটি", "url": "sahanatiup.mymensingh.gov.bd"}, {"id": "4340", "name": "Achintapur", "bn_name": "অচিন্তপুর", "url": "achintapurup.mymensingh.gov.bd"}, {"id": "4341", "name": "Mailakanda", "bn_name": "মইলাকান্দা", "url": "mailakandaup.mymensingh.gov.bd"}, {"id": "4342", "name": "Bokainagar", "bn_name": "বোকাইনগর", "url": "bokainagarup.mymensingh.gov.bd"}, {"id": "4343", "name": "Gouripur", "bn_name": "গৌরীপুর", "url": "gouripurup.mymensingh.gov.bd"}, {"id": "4344", "name": "Maoha", "bn_name": "মাওহা", "url": "maohaup.mymensingh.gov.bd"}, {"id": "4345", "name": "Ramgopalpur", "bn_name": "রামগোপালপুর", "url": "ramgopalpurup.mymensingh.gov.bd"}, {"id": "4346", "name": "Douhakhola", "bn_name": "ডৌহাখলা", "url": "douhakholaup.mymensingh.gov.bd"}, {"id": "4347", "name": "Bhangnamari", "bn_name": "ভাংনামারী", "url": "bhangnamariup.mymensingh.gov.bd"}, {"id": "4348", "name": "Sidhla", "bn_name": "সিধলা", "url": "sidhlaup.mymensingh.gov.bd"}], "total_post_offices": 2, "postal_codes": [{"postcode": "2270", "postcode_bn": "২২৭০", "sub_office": "Gouripur", "sub_office_bn": "গৌরীপুর"}, {"postcode": "2271", "postcode_bn": "২২৭১", "sub_office": "Ramgopalpur", "sub_office_bn": "রামগোপালপুর"}]}, "stats": {"education_count": 0, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 10, "postcodes_count": 2, "land_khatians_count": 0, "mouzas_count": 0}, "education": [], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 0, "mouza_count": 7561, "mouza_scope": "district", "sample_khatians": [], "sample_mouzas": [{"mouza_name": "ধলিকুড়ি", "jl_no": "1", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "উথুরা", "jl_no": "2", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "হাতিবেড়", "jl_no": "3", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "বনগাঁও", "jl_no": "4", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "কৈয়ার্দি", "jl_no": "5", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "চামিয়াদী", "jl_no": "6", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "জাটিয়া", "jl_no": "7", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "নারাঙ্গী", "jl_no": "8", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "লোহাবৈ", "jl_no": "9", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "ছোট লোহাবৈ", "jl_no": "10", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "মেদুয়ারী", "jl_no": "11", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "বরাদী", "jl_no": "12", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "সাতেংগা", "jl_no": "13", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "ভায়াবহ", "jl_no": "14", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "মল্লিকবাড়ী", "jl_no": "15", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "চান্দপুর", "jl_no": "16", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "সোনাখালী", "jl_no": "17", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "পাচগাও", "jl_no": "18", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "মরচি", "jl_no": "19", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "কাতলামারী", "jl_no": "20", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "ডাকাতিয়া", "jl_no": "21", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "আঙ্গারগাড়া", "jl_no": "22", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "হোসেনপুর", "jl_no": "23", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "ঢাকুরিয়া", "jl_no": "24", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "হারিশ্বর", "jl_no": "25", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "মুচিরা", "jl_no": "26", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "কাচিনা", "jl_no": "27", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "পালগাঁও", "jl_no": "28", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "কাদিগড়", "jl_no": "29", "survey": "BRS", "upazila": "BHALUKA"}, {"mouza_name": "পাড়াগাঁও", "jl_no": "30", "survey": "BRS", "upazila": "BHALUKA"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1eM0u01E9fjKmHF7XnPxm11m_k3rUvtcx", "district_drive_url": "https://drive.google.com/drive/folders/1IpstpaaQArz606L_vRBau8-s-27BoAik", "district_total_maps": 6348, "district_uploaded_maps": 0, "district_total_gb": 65.868, "catalog_github_path": "land/maps/Mymensingh/Mymensingh.json"}}, "governance": {"administration": {"district": "Mymensingh", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Mymensingh", "phone": "01713-000007", "email": "dcmymensingh@mopa.gov.bd", "website": "http://www.mymensingh.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Mymensingh", "phone": "01713-373007", "email": "spmymensingh@police.gov.bd", "control_room": "01713-374007"}, "civil_surgeon_office": {"title": "Civil Surgeon, Mymensingh", "phone": "01713-555007", "email": "csmymensingh@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "146", "name": {"en": "Mymensingh-1", "bn": "ময়মনসিংহ-১"}, "total_voters": 483712}, {"code": "147", "name": {"en": "Mymensingh-2", "bn": "ময়মনসিংহ-২"}, "total_voters": 576167}, {"code": "148", "name": {"en": "Mymensingh-3", "bn": "ময়মনসিংহ-৩"}, "total_voters": 298268}, {"code": "149", "name": {"en": "Mymensingh-4", "bn": "ময়মনসিংহ-৪"}, "total_voters": 695306}, {"code": "150", "name": {"en": "Mymensingh-5", "bn": "ময়মনসিংহ-৫"}, "total_voters": 387927}, {"code": "151", "name": {"en": "Mymensingh-6", "bn": "ময়মনসিংহ-৬"}, "total_voters": 417927}, {"code": "152", "name": {"en": "Mymensingh-7", "bn": "ময়মনসিংহ-৭"}, "total_voters": 403249}, {"code": "153", "name": {"en": "Mymensingh-8", "bn": "ময়মনসিংহ-৮"}, "total_voters": 348879}, {"code": "154", "name": {"en": "Mymensingh-9", "bn": "ময়মনসিংহ-৯"}, "total_voters": 384641}, {"code": "155", "name": {"en": "Mymensingh-10", "bn": "ময়মনসিংহ-১০"}, "total_voters": 409364}, {"code": "156", "name": {"en": "Mymensingh-11", "bn": "ময়মনসিংহ-১১"}, "total_voters": 358659}], "upazila_portal": "gouripur.mymensingh.gov.bd", "district_portal": "http://www.mymensingh.gov.bd", "union_portals_count": 10, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Mymensingh",
+  "district": "Mymensingh",
+  "upazila": "Gouripur",
+  "upazila_slug": "mymensingh__mymensingh__gouripur",
+  "geography": {
+    "division": "Mymensingh",
+    "division_bn": "ময়মনসিংহ",
+    "district": "Mymensingh",
+    "district_bn": "ময়মনসিংহ",
+    "district_lat": "24.7465670",
+    "district_lon": "90.4072093",
+    "upazila_id": "470",
+    "upazila": "Gouripur",
+    "upazila_bn": "গৌরীপুর",
+    "official_url": "gouripur.mymensingh.gov.bd",
+    "total_unions": 10,
+    "unions": [
+      {
+        "id": "4339",
+        "name": "Sahanati",
+        "bn_name": "সহনাটি",
+        "url": "sahanatiup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4340",
+        "name": "Achintapur",
+        "bn_name": "অচিন্তপুর",
+        "url": "achintapurup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4341",
+        "name": "Mailakanda",
+        "bn_name": "মইলাকান্দা",
+        "url": "mailakandaup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4342",
+        "name": "Bokainagar",
+        "bn_name": "বোকাইনগর",
+        "url": "bokainagarup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4343",
+        "name": "Gouripur",
+        "bn_name": "গৌরীপুর",
+        "url": "gouripurup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4344",
+        "name": "Maoha",
+        "bn_name": "মাওহা",
+        "url": "maohaup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4345",
+        "name": "Ramgopalpur",
+        "bn_name": "রামগোপালপুর",
+        "url": "ramgopalpurup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4346",
+        "name": "Douhakhola",
+        "bn_name": "ডৌহাখলা",
+        "url": "douhakholaup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4347",
+        "name": "Bhangnamari",
+        "bn_name": "ভাংনামারী",
+        "url": "bhangnamariup.mymensingh.gov.bd"
+      },
+      {
+        "id": "4348",
+        "name": "Sidhla",
+        "bn_name": "সিধলা",
+        "url": "sidhlaup.mymensingh.gov.bd"
+      }
+    ],
+    "total_post_offices": 2,
+    "postal_codes": [
+      {
+        "postcode": "2270",
+        "postcode_bn": "২২৭০",
+        "sub_office": "Gouripur",
+        "sub_office_bn": "গৌরীপুর"
+      },
+      {
+        "postcode": "2271",
+        "postcode_bn": "২২৭১",
+        "sub_office": "Ramgopalpur",
+        "sub_office_bn": "রামগোপালপুর"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 0,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 10,
+    "postcodes_count": 2,
+    "land_khatians_count": 0,
+    "mouzas_count": 0
+  },
+  "education": [],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 0,
+    "mouza_count": 7561,
+    "mouza_scope": "district",
+    "sample_khatians": [],
+    "sample_mouzas": [
+      {
+        "mouza_name": "ধলিকুড়ি",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "উথুরা",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "হাতিবেড়",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "বনগাঁও",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "কৈয়ার্দি",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "চামিয়াদী",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "জাটিয়া",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "নারাঙ্গী",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "লোহাবৈ",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "ছোট লোহাবৈ",
+        "jl_no": "10",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "মেদুয়ারী",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "বরাদী",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "সাতেংগা",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "ভায়াবহ",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "মল্লিকবাড়ী",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "চান্দপুর",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "সোনাখালী",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "পাচগাও",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "মরচি",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "কাতলামারী",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "ডাকাতিয়া",
+        "jl_no": "21",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "আঙ্গারগাড়া",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "হোসেনপুর",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "ঢাকুরিয়া",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "হারিশ্বর",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "মুচিরা",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "কাচিনা",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "পালগাঁও",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "কাদিগড়",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      },
+      {
+        "mouza_name": "পাড়াগাঁও",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "BHALUKA"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/7:/",
+      "district_drive_url": "https://free.mouzamap.tech/7:/Mymensingh/",
+      "district_total_maps": 6348,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 65.868,
+      "catalog_github_path": "land/maps/Mymensingh/Mymensingh.json",
+      "online_folder_url": "https://free.mouzamap.tech/7:/Mymensingh/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Mymensingh",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Mymensingh",
+        "phone": "01713-000007",
+        "email": "dcmymensingh@mopa.gov.bd",
+        "website": "http://www.mymensingh.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Mymensingh",
+        "phone": "01713-373007",
+        "email": "spmymensingh@police.gov.bd",
+        "control_room": "01713-374007"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Mymensingh",
+        "phone": "01713-555007",
+        "email": "csmymensingh@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "146",
+        "name": {
+          "en": "Mymensingh-1",
+          "bn": "ময়মনসিংহ-১"
+        },
+        "total_voters": 483712
+      },
+      {
+        "code": "147",
+        "name": {
+          "en": "Mymensingh-2",
+          "bn": "ময়মনসিংহ-২"
+        },
+        "total_voters": 576167
+      },
+      {
+        "code": "148",
+        "name": {
+          "en": "Mymensingh-3",
+          "bn": "ময়মনসিংহ-৩"
+        },
+        "total_voters": 298268
+      },
+      {
+        "code": "149",
+        "name": {
+          "en": "Mymensingh-4",
+          "bn": "ময়মনসিংহ-৪"
+        },
+        "total_voters": 695306
+      },
+      {
+        "code": "150",
+        "name": {
+          "en": "Mymensingh-5",
+          "bn": "ময়মনসিংহ-৫"
+        },
+        "total_voters": 387927
+      },
+      {
+        "code": "151",
+        "name": {
+          "en": "Mymensingh-6",
+          "bn": "ময়মনসিংহ-৬"
+        },
+        "total_voters": 417927
+      },
+      {
+        "code": "152",
+        "name": {
+          "en": "Mymensingh-7",
+          "bn": "ময়মনসিংহ-৭"
+        },
+        "total_voters": 403249
+      },
+      {
+        "code": "153",
+        "name": {
+          "en": "Mymensingh-8",
+          "bn": "ময়মনসিংহ-৮"
+        },
+        "total_voters": 348879
+      },
+      {
+        "code": "154",
+        "name": {
+          "en": "Mymensingh-9",
+          "bn": "ময়মনসিংহ-৯"
+        },
+        "total_voters": 384641
+      },
+      {
+        "code": "155",
+        "name": {
+          "en": "Mymensingh-10",
+          "bn": "ময়মনসিংহ-১০"
+        },
+        "total_voters": 409364
+      },
+      {
+        "code": "156",
+        "name": {
+          "en": "Mymensingh-11",
+          "bn": "ময়মনসিংহ-১১"
+        },
+        "total_voters": 358659
+      }
+    ],
+    "upazila_portal": "gouripur.mymensingh.gov.bd",
+    "district_portal": "http://www.mymensingh.gov.bd",
+    "union_portals_count": 10,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

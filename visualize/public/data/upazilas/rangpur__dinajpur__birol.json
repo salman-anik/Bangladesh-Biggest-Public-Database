@@ -1,1 +1,619 @@
-{"division": "Rangpur", "district": "Dinajpur", "upazila": "Birol", "upazila_slug": "rangpur__dinajpur__birol", "geography": {"division": "Rangpur", "division_bn": "রংপুর", "district": "Dinajpur", "district_bn": "দিনাজপুর", "district_lat": "25.6217061", "district_lon": "88.6354504", "upazila_id": "415", "upazila": "Birol", "upazila_bn": "বিরল", "official_url": "birol.dinajpur.gov.bd", "total_unions": 11, "unions": [{"id": "3771", "name": "Azimpur", "bn_name": "আজিমপুর", "url": "azimpurup.dinajpur.gov.bd"}, {"id": "3772", "name": "Farakkabad", "bn_name": "ফরাক্কাবাদ", "url": "farakkabadup.dinajpur.gov.bd"}, {"id": "3773", "name": "Dhamoir", "bn_name": "ধামইর", "url": "dhamoirup.dinajpur.gov.bd"}, {"id": "3774", "name": "Shohorgram", "bn_name": "শহরগ্রাম", "url": "shohorgramup.dinajpur.gov.bd"}, {"id": "3775", "name": "Birol", "bn_name": "বিরল", "url": "birolup.dinajpur.gov.bd"}, {"id": "3776", "name": "Bhandra", "bn_name": "ভান্ডারা", "url": "bhandraup.dinajpur.gov.bd"}, {"id": "3777", "name": "Bijora", "bn_name": "বিজোড়া", "url": "bijoraup.dinajpur.gov.bd"}, {"id": "3778", "name": "Dharmapur", "bn_name": "ধর্মপুর", "url": "dharmapurup.dinajpur.gov.bd"}, {"id": "3779", "name": "Mongalpur", "bn_name": "মঙ্গলপুর", "url": "mongalpurup.dinajpur.gov.bd"}, {"id": "3780", "name": "Ranipukur", "bn_name": "রাণীপুকুর", "url": "ranipukurup.dinajpur.gov.bd"}, {"id": "3781", "name": "Rajarampur", "bn_name": "রাজারামপুর", "url": "rajarampurup.dinajpur.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 0, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 11, "postcodes_count": 0, "land_khatians_count": 25, "mouzas_count": 432}, "education": [], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 432, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক দিনাজপুর", "dags": "78,99,100,103,111,212,272,273,276,332,335,320/345", "total_land": "4.5400"}, {"khatian_no": "2", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং রতিগাঁও জামে মসজিদ কমিটি পক্ষে সেক্রেটারী", "dags": "55,266,321", "total_land": "0.7400"}, {"khatian_no": "3", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং রতিগাঁও ঈদগাহ মাঠ কমিটি পক্ষে সেক্রেটারী", "dags": "76", "total_land": "0.1000"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং অনিল চন্দ্র রায়,থানা- বোচাগঞ্জ", "dags": "261,262", "total_land": "2.1200"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং অতিন চন্দ্র রায়,সুমিত্র রানী", "dags": "330", "total_land": "0.1000"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং অহিদুর রহমান,রবিউল ইসলাম,মকলেছুর রহমান,রেজাউল করিম,ঐজান নেছা,সাহেরা বেগম,হোসনে আরা,উপজেলা- বোচাগঞ্জ, জেলা- দিনাজপুর", "dags": "", "total_land": "3.3700"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আকবর আলী,উপজেলা- বোচাগঞ্জ", "dags": "32,33", "total_land": "0.5400"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আখতারুল ইসলাম,উপজেলা- বোচাগঞ্জ", "dags": "180", "total_land": "1.3600"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আজগর আলী,আজিজুর রহমান,সিরাজুল ইসলাম,শেফালী বেগম,থানা- বোচাগঞ্জ,আজিরন নেছা,থানা- কাহারোল", "dags": "221", "total_land": "0.3900"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আফছার আলী", "dags": "83,114,130,131,315,329", "total_land": "2.5300"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আমজাদ হোসেন", "dags": "223,224", "total_land": "0.3700"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আমজাদ হোসেন,আফছার আলী,আনিছুর রহমান,আব্দুল হান্নান,হারুনুর রশিদ", "dags": "124,316,317,319,323", "total_land": "1.3800"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আলম মিয়া,উম্মে কুলছুম", "dags": "9,163,186,187,189", "total_land": "1.6900"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আতাউর রহমান,সাইদুর রহমান,শাহিনুর ইসলাম,মহিদুর রহমান", "dags": "", "total_land": "2.6500"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আলা উদ্দিন", "dags": "19,21,22,59,155,157,243,307,311", "total_land": "4.0900"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আষাডু রায়", "dags": "128", "total_land": "0.0300"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আহছান আলী,জিন্নাতন নেছা,আলা উদ্দিন,আব্বাস আলী", "dags": "40,45", "total_land": "2.7200"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আজিমুল হক", "dags": "267", "total_land": "0.0300"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আজিজুর রহমান,থানা- বোচাগঞ্জ", "dags": "264", "total_land": "0.1500"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "রতিগাঁও", "jl_no": "1", "owners": "দং আনিছুর রহমান,আবদুল হান্নান,আছিয়া বেগম,থানা- বোচাগঞ্জ", "dags": "48", "total_land": "1.5000"}], "sample_mouzas": [{"mouza_name": "রতিগাঁও", "jl_no": "1", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "জিনইর", "jl_no": "3", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "মাহতাবপুর", "jl_no": "4", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "সাকোয়া", "jl_no": "5", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "গড়ুরগ্রাম", "jl_no": "6", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "সিজগ্রাম", "jl_no": "7", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "বালাপুকুর", "jl_no": "15", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "গৌরীপুর", "jl_no": "17", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "তরঞ্জা", "jl_no": "18", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "ঝিনাইখুড়ী", "jl_no": "22", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "গড়বাড়ী", "jl_no": "26", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "উত্তর পলাশবাড়ী", "jl_no": "27", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "বালাডাঙ্গী", "jl_no": "28", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "ভাব্কী", "jl_no": "29", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "কুচিলাপুকুর", "jl_no": "30", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "দেবীপুর", "jl_no": "31", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "লস্করপুকুর", "jl_no": "32", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "সনড়া", "jl_no": "33", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "আজিতপুর", "jl_no": "35", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "মধুপুর", "jl_no": "36", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "নছুগ্রাম", "jl_no": "38", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "হরিশ্চন্দ্রপুর", "jl_no": "41", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "মস্তাফাবাদ", "jl_no": "43", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "মঙ্গলপুর", "jl_no": "44", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "বনগ্রাম", "jl_no": "46", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "নরসিংপাড়া", "jl_no": "47", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "আটঘেরা", "jl_no": "48", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "ফুলবাড়ী", "jl_no": "50", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "বাসুদেবপুর", "jl_no": "51", "survey": "BRS", "upazila": "BIROL"}, {"mouza_name": "দাসনগর", "jl_no": "53", "survey": "BRS", "upazila": "BIROL"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1VdIaaFQg8Uj0rpNQy_36zTYtYLxO3re5", "district_drive_url": "https://drive.google.com/drive/folders/1btqCO0lJtxso0pUkmhOphP33ZCqR8pzB", "district_total_maps": 4871, "district_uploaded_maps": 8, "district_total_gb": 38.195, "catalog_github_path": "land/maps/Rangpur/Dinajpur.json"}}, "governance": {"administration": {"district": "Dinajpur", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Dinajpur", "phone": "01713-000054", "email": "dcdinajpur@mopa.gov.bd", "website": "http://www.dinajpur.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Dinajpur", "phone": "01713-373054", "email": "spdinajpur@police.gov.bd", "control_room": "01713-374054"}, "civil_surgeon_office": {"title": "Civil Surgeon, Dinajpur", "phone": "01713-555054", "email": "csdinajpur@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "6", "name": {"en": "Dinajpur-1", "bn": "দিনাজপুর-১"}, "total_voters": 417133}, {"code": "7", "name": {"en": "Dinajpur-2", "bn": "দিনাজপুর-২"}, "total_voters": 371478}, {"code": "8", "name": {"en": "Dinajpur-3", "bn": "দিনাজপুর-৩"}, "total_voters": 415636}, {"code": "9", "name": {"en": "Dinajpur-4", "bn": "দিনাজপুর-৪"}, "total_voters": 421278}, {"code": "10", "name": {"en": "Dinajpur-5", "bn": "দিনাজপুর-৫"}, "total_voters": 477516}, {"code": "11", "name": {"en": "Dinajpur-6", "bn": "দিনাজপুর-৬"}, "total_voters": 557692}], "upazila_portal": "birol.dinajpur.gov.bd", "district_portal": "http://www.dinajpur.gov.bd", "union_portals_count": 11, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Birol",
+  "upazila_slug": "rangpur__dinajpur__birol",
+  "geography": {
+    "division": "Rangpur",
+    "division_bn": "রংপুর",
+    "district": "Dinajpur",
+    "district_bn": "দিনাজপুর",
+    "district_lat": "25.6217061",
+    "district_lon": "88.6354504",
+    "upazila_id": "415",
+    "upazila": "Birol",
+    "upazila_bn": "বিরল",
+    "official_url": "birol.dinajpur.gov.bd",
+    "total_unions": 11,
+    "unions": [
+      {
+        "id": "3771",
+        "name": "Azimpur",
+        "bn_name": "আজিমপুর",
+        "url": "azimpurup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3772",
+        "name": "Farakkabad",
+        "bn_name": "ফরাক্কাবাদ",
+        "url": "farakkabadup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3773",
+        "name": "Dhamoir",
+        "bn_name": "ধামইর",
+        "url": "dhamoirup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3774",
+        "name": "Shohorgram",
+        "bn_name": "শহরগ্রাম",
+        "url": "shohorgramup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3775",
+        "name": "Birol",
+        "bn_name": "বিরল",
+        "url": "birolup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3776",
+        "name": "Bhandra",
+        "bn_name": "ভান্ডারা",
+        "url": "bhandraup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3777",
+        "name": "Bijora",
+        "bn_name": "বিজোড়া",
+        "url": "bijoraup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3778",
+        "name": "Dharmapur",
+        "bn_name": "ধর্মপুর",
+        "url": "dharmapurup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3779",
+        "name": "Mongalpur",
+        "bn_name": "মঙ্গলপুর",
+        "url": "mongalpurup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3780",
+        "name": "Ranipukur",
+        "bn_name": "রাণীপুকুর",
+        "url": "ranipukurup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3781",
+        "name": "Rajarampur",
+        "bn_name": "রাজারামপুর",
+        "url": "rajarampurup.dinajpur.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 0,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 11,
+    "postcodes_count": 0,
+    "land_khatians_count": 25,
+    "mouzas_count": 432
+  },
+  "education": [],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 432,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক দিনাজপুর",
+        "dags": "78,99,100,103,111,212,272,273,276,332,335,320/345",
+        "total_land": "4.5400"
+      },
+      {
+        "khatian_no": "2",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং রতিগাঁও জামে মসজিদ কমিটি পক্ষে সেক্রেটারী",
+        "dags": "55,266,321",
+        "total_land": "0.7400"
+      },
+      {
+        "khatian_no": "3",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং রতিগাঁও ঈদগাহ মাঠ কমিটি পক্ষে সেক্রেটারী",
+        "dags": "76",
+        "total_land": "0.1000"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং অনিল চন্দ্র রায়,থানা- বোচাগঞ্জ",
+        "dags": "261,262",
+        "total_land": "2.1200"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং অতিন চন্দ্র রায়,সুমিত্র রানী",
+        "dags": "330",
+        "total_land": "0.1000"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং অহিদুর রহমান,রবিউল ইসলাম,মকলেছুর রহমান,রেজাউল করিম,ঐজান নেছা,সাহেরা বেগম,হোসনে আরা,উপজেলা- বোচাগঞ্জ, জেলা- দিনাজপুর",
+        "dags": "",
+        "total_land": "3.3700"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আকবর আলী,উপজেলা- বোচাগঞ্জ",
+        "dags": "32,33",
+        "total_land": "0.5400"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আখতারুল ইসলাম,উপজেলা- বোচাগঞ্জ",
+        "dags": "180",
+        "total_land": "1.3600"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আজগর আলী,আজিজুর রহমান,সিরাজুল ইসলাম,শেফালী বেগম,থানা- বোচাগঞ্জ,আজিরন নেছা,থানা- কাহারোল",
+        "dags": "221",
+        "total_land": "0.3900"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আফছার আলী",
+        "dags": "83,114,130,131,315,329",
+        "total_land": "2.5300"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আমজাদ হোসেন",
+        "dags": "223,224",
+        "total_land": "0.3700"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আমজাদ হোসেন,আফছার আলী,আনিছুর রহমান,আব্দুল হান্নান,হারুনুর রশিদ",
+        "dags": "124,316,317,319,323",
+        "total_land": "1.3800"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আলম মিয়া,উম্মে কুলছুম",
+        "dags": "9,163,186,187,189",
+        "total_land": "1.6900"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আতাউর রহমান,সাইদুর রহমান,শাহিনুর ইসলাম,মহিদুর রহমান",
+        "dags": "",
+        "total_land": "2.6500"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আলা উদ্দিন",
+        "dags": "19,21,22,59,155,157,243,307,311",
+        "total_land": "4.0900"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আষাডু রায়",
+        "dags": "128",
+        "total_land": "0.0300"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আহছান আলী,জিন্নাতন নেছা,আলা উদ্দিন,আব্বাস আলী",
+        "dags": "40,45",
+        "total_land": "2.7200"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আজিমুল হক",
+        "dags": "267",
+        "total_land": "0.0300"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আজিজুর রহমান,থানা- বোচাগঞ্জ",
+        "dags": "264",
+        "total_land": "0.1500"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "owners": "দং আনিছুর রহমান,আবদুল হান্নান,আছিয়া বেগম,থানা- বোচাগঞ্জ",
+        "dags": "48",
+        "total_land": "1.5000"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "রতিগাঁও",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "জিনইর",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "মাহতাবপুর",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "সাকোয়া",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "গড়ুরগ্রাম",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "সিজগ্রাম",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "বালাপুকুর",
+        "jl_no": "15",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "গৌরীপুর",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "তরঞ্জা",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "ঝিনাইখুড়ী",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "গড়বাড়ী",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "উত্তর পলাশবাড়ী",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "বালাডাঙ্গী",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "ভাব্কী",
+        "jl_no": "29",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "কুচিলাপুকুর",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "দেবীপুর",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "লস্করপুকুর",
+        "jl_no": "32",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "সনড়া",
+        "jl_no": "33",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "আজিতপুর",
+        "jl_no": "35",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "মধুপুর",
+        "jl_no": "36",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "নছুগ্রাম",
+        "jl_no": "38",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "হরিশ্চন্দ্রপুর",
+        "jl_no": "41",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "মস্তাফাবাদ",
+        "jl_no": "43",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "মঙ্গলপুর",
+        "jl_no": "44",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "বনগ্রাম",
+        "jl_no": "46",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "নরসিংপাড়া",
+        "jl_no": "47",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "আটঘেরা",
+        "jl_no": "48",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "ফুলবাড়ী",
+        "jl_no": "50",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "বাসুদেবপুর",
+        "jl_no": "51",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      },
+      {
+        "mouza_name": "দাসনগর",
+        "jl_no": "53",
+        "survey": "BRS",
+        "upazila": "BIROL"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/6:/",
+      "district_drive_url": "https://free.mouzamap.tech/6:/Dinajpur/",
+      "district_total_maps": 4871,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 38.195,
+      "catalog_github_path": "land/maps/Rangpur/Dinajpur.json",
+      "online_folder_url": "https://free.mouzamap.tech/6:/Dinajpur/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Dinajpur",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Dinajpur",
+        "phone": "01713-000054",
+        "email": "dcdinajpur@mopa.gov.bd",
+        "website": "http://www.dinajpur.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Dinajpur",
+        "phone": "01713-373054",
+        "email": "spdinajpur@police.gov.bd",
+        "control_room": "01713-374054"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Dinajpur",
+        "phone": "01713-555054",
+        "email": "csdinajpur@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "6",
+        "name": {
+          "en": "Dinajpur-1",
+          "bn": "দিনাজপুর-১"
+        },
+        "total_voters": 417133
+      },
+      {
+        "code": "7",
+        "name": {
+          "en": "Dinajpur-2",
+          "bn": "দিনাজপুর-২"
+        },
+        "total_voters": 371478
+      },
+      {
+        "code": "8",
+        "name": {
+          "en": "Dinajpur-3",
+          "bn": "দিনাজপুর-৩"
+        },
+        "total_voters": 415636
+      },
+      {
+        "code": "9",
+        "name": {
+          "en": "Dinajpur-4",
+          "bn": "দিনাজপুর-৪"
+        },
+        "total_voters": 421278
+      },
+      {
+        "code": "10",
+        "name": {
+          "en": "Dinajpur-5",
+          "bn": "দিনাজপুর-৫"
+        },
+        "total_voters": 477516
+      },
+      {
+        "code": "11",
+        "name": {
+          "en": "Dinajpur-6",
+          "bn": "দিনাজপুর-৬"
+        },
+        "total_voters": 557692
+      }
+    ],
+    "upazila_portal": "birol.dinajpur.gov.bd",
+    "district_portal": "http://www.dinajpur.gov.bd",
+    "union_portals_count": 11,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

@@ -1,1 +1,411 @@
-{"division": "Khulna", "district": "Jhenaidah", "upazila": "Harinakundu", "upazila_slug": "khulna__jhenaidah__harinakundu", "geography": {"division": "Khulna", "division_bn": "খুলনা", "district": "Jhenaidah", "district_bn": "ঝিনাইদহ", "district_lat": "23.5448176", "district_lon": "89.1539213", "upazila_id": "226", "upazila": "Harinakundu", "upazila_bn": "হরিণাকুন্ডু", "official_url": "harinakundu.jhenaidah.gov.bd", "total_unions": 8, "unions": [{"id": "2051", "name": "Bhayna", "bn_name": "ভায়না", "url": "bhaynaup.jhenaidah.gov.bd"}, {"id": "2052", "name": "Joradah", "bn_name": "জোড়াদহ", "url": "joradahup.jhenaidah.gov.bd"}, {"id": "2053", "name": "Taherhuda", "bn_name": "তাহেরহুদা", "url": "taherhudaup.jhenaidah.gov.bd"}, {"id": "2054", "name": "Daulatpur", "bn_name": "দৌলতপুর", "url": "daulatpurup.jhenaidah.gov.bd"}, {"id": "2055", "name": "Kapashatia", "bn_name": "কাপাশহাটিয়া", "url": "kapashatiaup.jhenaidah.gov.bd"}, {"id": "2056", "name": "Falsi", "bn_name": "ফলসী", "url": "falsiup.jhenaidah.gov.bd"}, {"id": "2057", "name": "Raghunathpur", "bn_name": "রঘুনাথপুর", "url": "raghunathpurup.jhenaidah.gov.bd"}, {"id": "2058", "name": "Chandpur", "bn_name": "চাঁদপুর", "url": "chandpurup.jhenaidah.gov.bd"}], "total_post_offices": 1, "postal_codes": [{"postcode": "7310", "postcode_bn": "৭৩১০", "sub_office": "Harinakundu", "sub_office_bn": "হরিনাকুন্ডু"}]}, "stats": {"education_count": 0, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 8, "postcodes_count": 1, "land_khatians_count": 0, "mouzas_count": 0}, "education": [], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 0, "mouza_count": 3595, "mouza_scope": "district", "sample_khatians": [], "sample_mouzas": [{"mouza_name": "তৈলটুপি", "jl_no": "1", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "বাকচুয়া লক্ষীপুর", "jl_no": "2", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "মালিপাড়া রহিমপুর", "jl_no": "3", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "চরবিষ্ণুদিয়া", "jl_no": "5", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "বাগ আঁচড়া", "jl_no": "6", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "ভায়না", "jl_no": "7", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "জোড়াদহ", "jl_no": "8", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "ভবানীপুর", "jl_no": "9", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "নারায়ন কান্দি", "jl_no": "13", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "তাহেরহুদা", "jl_no": "14", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "হরিশপুর", "jl_no": "16", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "রঘুনাথপুর", "jl_no": "17", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "ভবিতপুর", "jl_no": "18", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "পদ্মনগর", "jl_no": "19", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "মাদিয়া", "jl_no": "20", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "কালাপাড়িয়া", "jl_no": "21", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "আন্দুলিয়া", "jl_no": "22", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "বোয়ালিয়া", "jl_no": "23", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "কুলবাড়ীয়া", "jl_no": "24", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "বলরামপুর", "jl_no": "25", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "বৈঠাপাড়া", "jl_no": "26", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "পারফলসী", "jl_no": "27", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "হরিনাকুন্ড", "jl_no": "28", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "পোলতাডাঙ্গা", "jl_no": "30", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "ফতেপুর", "jl_no": "31", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "পার্ব্বতীপুর", "jl_no": "33", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "হিংগারপাড়া", "jl_no": "34", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "রিশখালী", "jl_no": "35", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "গোবরাপাড়া", "jl_no": "36", "survey": "BRS", "upazila": "HARINAKUNDA"}, {"mouza_name": "ভূঁইয়াপাড়া", "jl_no": "37", "survey": "BRS", "upazila": "HARINAKUNDA"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg", "district_drive_url": "https://drive.google.com/drive/folders/1cv-ck6tPtYeC2nEQQdwwDYQTSFO5ib3e", "district_total_maps": 1891, "district_uploaded_maps": 0, "district_total_gb": 18.426, "catalog_github_path": "land/maps/Khulna/Jhenaidah.json"}}, "governance": {"administration": {"district": "Jhenaidah", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Jhenaidah", "phone": "01713-000041", "email": "dcjhenaidah@mopa.gov.bd", "website": "http://www.jhenaidah.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Jhenaidah", "phone": "01713-373041", "email": "spjhenaidah@police.gov.bd", "control_room": "01713-374041"}, "civil_surgeon_office": {"title": "Civil Surgeon, Jhenaidah", "phone": "01713-555041", "email": "csjhenaidah@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "81", "name": {"en": "Jhenidha-1", "bn": "ঝিনাইদহ-১"}, "total_voters": 325278}, {"code": "82", "name": {"en": "Jheniadha-2", "bn": "ঝিনাইদহ-২"}, "total_voters": 506640}, {"code": "83", "name": {"en": "Jheniadha-3", "bn": "ঝিনাইদহ-৩"}, "total_voters": 431015}, {"code": "84", "name": {"en": "Jheniadha-4", "bn": "ঝিনাইদহ-৪"}, "total_voters": 375177}], "upazila_portal": "harinakundu.jhenaidah.gov.bd", "district_portal": "http://www.jhenaidah.gov.bd", "union_portals_count": 8, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "upazila": "Harinakundu",
+  "upazila_slug": "khulna__jhenaidah__harinakundu",
+  "geography": {
+    "division": "Khulna",
+    "division_bn": "খুলনা",
+    "district": "Jhenaidah",
+    "district_bn": "ঝিনাইদহ",
+    "district_lat": "23.5448176",
+    "district_lon": "89.1539213",
+    "upazila_id": "226",
+    "upazila": "Harinakundu",
+    "upazila_bn": "হরিণাকুন্ডু",
+    "official_url": "harinakundu.jhenaidah.gov.bd",
+    "total_unions": 8,
+    "unions": [
+      {
+        "id": "2051",
+        "name": "Bhayna",
+        "bn_name": "ভায়না",
+        "url": "bhaynaup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2052",
+        "name": "Joradah",
+        "bn_name": "জোড়াদহ",
+        "url": "joradahup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2053",
+        "name": "Taherhuda",
+        "bn_name": "তাহেরহুদা",
+        "url": "taherhudaup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2054",
+        "name": "Daulatpur",
+        "bn_name": "দৌলতপুর",
+        "url": "daulatpurup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2055",
+        "name": "Kapashatia",
+        "bn_name": "কাপাশহাটিয়া",
+        "url": "kapashatiaup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2056",
+        "name": "Falsi",
+        "bn_name": "ফলসী",
+        "url": "falsiup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2057",
+        "name": "Raghunathpur",
+        "bn_name": "রঘুনাথপুর",
+        "url": "raghunathpurup.jhenaidah.gov.bd"
+      },
+      {
+        "id": "2058",
+        "name": "Chandpur",
+        "bn_name": "চাঁদপুর",
+        "url": "chandpurup.jhenaidah.gov.bd"
+      }
+    ],
+    "total_post_offices": 1,
+    "postal_codes": [
+      {
+        "postcode": "7310",
+        "postcode_bn": "৭৩১০",
+        "sub_office": "Harinakundu",
+        "sub_office_bn": "হরিনাকুন্ডু"
+      }
+    ]
+  },
+  "stats": {
+    "education_count": 0,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 8,
+    "postcodes_count": 1,
+    "land_khatians_count": 0,
+    "mouzas_count": 0
+  },
+  "education": [],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 0,
+    "mouza_count": 3595,
+    "mouza_scope": "district",
+    "sample_khatians": [],
+    "sample_mouzas": [
+      {
+        "mouza_name": "তৈলটুপি",
+        "jl_no": "1",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "বাকচুয়া লক্ষীপুর",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "মালিপাড়া রহিমপুর",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "চরবিষ্ণুদিয়া",
+        "jl_no": "5",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "বাগ আঁচড়া",
+        "jl_no": "6",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "ভায়না",
+        "jl_no": "7",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "জোড়াদহ",
+        "jl_no": "8",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "ভবানীপুর",
+        "jl_no": "9",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "নারায়ন কান্দি",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "তাহেরহুদা",
+        "jl_no": "14",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "হরিশপুর",
+        "jl_no": "16",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "রঘুনাথপুর",
+        "jl_no": "17",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "ভবিতপুর",
+        "jl_no": "18",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "পদ্মনগর",
+        "jl_no": "19",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "মাদিয়া",
+        "jl_no": "20",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "কালাপাড়িয়া",
+        "jl_no": "21",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "আন্দুলিয়া",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "বোয়ালিয়া",
+        "jl_no": "23",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "কুলবাড়ীয়া",
+        "jl_no": "24",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "বলরামপুর",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "বৈঠাপাড়া",
+        "jl_no": "26",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "পারফলসী",
+        "jl_no": "27",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "হরিনাকুন্ড",
+        "jl_no": "28",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "পোলতাডাঙ্গা",
+        "jl_no": "30",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "ফতেপুর",
+        "jl_no": "31",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "পার্ব্বতীপুর",
+        "jl_no": "33",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "হিংগারপাড়া",
+        "jl_no": "34",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "রিশখালী",
+        "jl_no": "35",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "গোবরাপাড়া",
+        "jl_no": "36",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      },
+      {
+        "mouza_name": "ভূঁইয়াপাড়া",
+        "jl_no": "37",
+        "survey": "BRS",
+        "upazila": "HARINAKUNDA"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/3:/",
+      "district_drive_url": "https://free.mouzamap.tech/3:/Jhenaidah/",
+      "district_total_maps": 1891,
+      "district_uploaded_maps": 0,
+      "district_total_gb": 18.426,
+      "catalog_github_path": "land/maps/Khulna/Jhenaidah.json",
+      "online_folder_url": "https://free.mouzamap.tech/3:/Jhenaidah/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Jhenaidah",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Jhenaidah",
+        "phone": "01713-000041",
+        "email": "dcjhenaidah@mopa.gov.bd",
+        "website": "http://www.jhenaidah.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Jhenaidah",
+        "phone": "01713-373041",
+        "email": "spjhenaidah@police.gov.bd",
+        "control_room": "01713-374041"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Jhenaidah",
+        "phone": "01713-555041",
+        "email": "csjhenaidah@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "81",
+        "name": {
+          "en": "Jhenidha-1",
+          "bn": "ঝিনাইদহ-১"
+        },
+        "total_voters": 325278
+      },
+      {
+        "code": "82",
+        "name": {
+          "en": "Jheniadha-2",
+          "bn": "ঝিনাইদহ-২"
+        },
+        "total_voters": 506640
+      },
+      {
+        "code": "83",
+        "name": {
+          "en": "Jheniadha-3",
+          "bn": "ঝিনাইদহ-৩"
+        },
+        "total_voters": 431015
+      },
+      {
+        "code": "84",
+        "name": {
+          "en": "Jheniadha-4",
+          "bn": "ঝিনাইদহ-৪"
+        },
+        "total_voters": 375177
+      }
+    ],
+    "upazila_portal": "harinakundu.jhenaidah.gov.bd",
+    "district_portal": "http://www.jhenaidah.gov.bd",
+    "union_portals_count": 8,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

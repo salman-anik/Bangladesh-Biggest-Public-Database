@@ -1,1 +1,1028 @@
-{"division": "Rangpur", "district": "Dinajpur", "upazila": "Hakimpur", "upazila_slug": "rangpur__dinajpur__hakimpur", "geography": {"division": "Rangpur", "division_bn": "রংপুর", "district": "Dinajpur", "district_bn": "দিনাজপুর", "district_lat": "25.6217061", "district_lon": "88.6354504", "upazila_id": "413", "upazila": "Hakimpur", "upazila_bn": "হাকিমপুর", "official_url": "hakimpur.dinajpur.gov.bd", "total_unions": 3, "unions": [{"id": "3762", "name": "Alihat", "bn_name": "আলীহাট", "url": "alihatup.dinajpur.gov.bd"}, {"id": "3763", "name": "Khattamadobpara", "bn_name": "খট্টামাধবপাড়া", "url": "khattamadobparaup.dinajpur.gov.bd"}, {"id": "3764", "name": "Boalder", "bn_name": "বোয়ালদার", "url": "boalderup.dinajpur.gov.bd"}], "total_post_offices": 0, "postal_codes": []}, "stats": {"education_count": 38, "healthcare_count": 0, "banking_count": 0, "police_count": 0, "fire_count": 0, "unions_count": 3, "postcodes_count": 0, "land_khatians_count": 25, "mouzas_count": 122}, "education": [{"eiin": "120538", "name": "HAKIMPUR GOVT. COLLEGE", "name_bn": "হাকিমপুর সরকারি ডিগ্রি কলেজ", "type": "COLLEGE", "level": "Degree (Pass)", "category": "college", "mobile": "01333980928", "email": "hakimpurdegreecollege@gmail.com", "teacher_count": 0, "file": "HAKIMPUR GOVT. COLLEGE.json"}, {"eiin": "120539", "name": "HAKIMPUR WOHMENS'S DEGREE COLLAGE", "name_bn": "হাকিমপুর মহিলা কলেজ", "type": "COLLEGE", "level": "Degree (Honors)", "category": "college", "mobile": "01712157945", "email": "hakimpurmohilacollege@gmail.com", "teacher_count": 0, "file": "HAKIMPUR WOHMENS'S DEGREE COLLAGE.json"}, {"eiin": "120529", "name": "ALIHAT GAZI AMANIA DAKHIL MADRASHA", "name_bn": "আলীহাট গাজী আমিনিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01718881367", "email": "alihatgazi120529@gmail.com", "teacher_count": 0, "file": "ALIHAT GAZI AMANIA DAKHIL MADRASHA.json"}, {"eiin": "120530", "name": "BAGDOR YEASINIA DAKHIL MADRASA", "name_bn": "বাগদোড় ইয়াছিনিয়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714601966", "email": "mamunur131973@gmail.com", "teacher_count": 0, "file": "BAGDOR YEASINIA DAKHIL MADRASA.json"}, {"eiin": "120535", "name": "BISHA PARA DARUL HUDA DAKHIL MADRASHA", "name_bn": "বিশাপাড়া দারুলহুদা দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01712557953", "email": "bishapara120535@gmail.com", "teacher_count": 0, "file": "BISHA PARA DARUL HUDA DAKHIL MADRASHA.json"}, {"eiin": "120526", "name": "CHHOTO DANGAPARA ISLAMIA DAKHIL MADRASHA", "name_bn": "ছোটডাংগাপাড়া ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01721416651", "email": "chhodidm@gmail.com", "teacher_count": 0, "file": "CHHOTO DANGAPARA ISLAMIA DAKHIL MADRASHA.json"}, {"eiin": "120528", "name": "DAKKHIN JAMALPUR DAKHIL MADRASHA", "name_bn": "দক্ষিণ জামালপুর দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01719542698", "email": "dakkin120528@gmail.com", "teacher_count": 0, "file": "DAKKHIN JAMALPUR DAKHIL MADRASHA.json"}, {"eiin": "120536", "name": "GOBINDOPUR GOMRA DAKHIL MADRASAH", "name_bn": "গোবিন্দপুর গুমড়া দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01715717856", "email": "gobindopurgumra120536@gmail.com", "teacher_count": 0, "file": "GOBINDOPUR GOMRA DAKHIL MADRASAH.json"}, {"eiin": "120537", "name": "HILI HAKIMPUR ISLAMIA DAKHIL MADRASA", "name_bn": "হিলি হাকিমপুর ইসলামিয়া দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01719419593", "email": "hilihakimpurislamiamadrasah@gmail.com", "teacher_count": 0, "file": "HILI HAKIMPUR ISLAMIA DAKHIL MADRASA.json"}, {"eiin": "120533", "name": "KANDARPA PUR D.S.DAKHIL MADRASHA", "name_bn": "কন্দপপুর ডি স দাখিল মাদ্রাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01922837877", "email": "kdmadrasha1980@gmail.com", "teacher_count": 0, "file": "KANDARPA PUR D.S.DAKHIL MADRASHA.json"}, {"eiin": "120531", "name": "NANDIPUR D.S B L DAKHIL MADRASAH", "name_bn": "নন্দীপুর ডি.এস দ্বি-মূখী দাখিল মাদরাসা", "type": "MADRASHA", "level": "Dakhil", "category": "dakhil_madrasa", "mobile": "01714947060", "email": "nandipur120531@gmail.com", "teacher_count": 0, "file": "NANDIPUR D.S B L DAKHIL MADRASAH.json"}, {"eiin": "120524", "name": "CHHATNI ROUTARA J.M FAZIL MADRASHA", "name_bn": "ছাতনী রাউতারা জে. এম ফাজিল মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01726571503", "email": "chhatnijmfm.24@gmail.com", "teacher_count": 0, "file": "CHHATNI ROUTARA J.M FAZIL MADRASHA.json"}, {"eiin": "120525", "name": "HABIBPUR SIDDIKIA FAZIL MADRASHA", "name_bn": "হাবিবপুর সিদ্দিকিয়া ফাযিল মাদ্রাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01714601820", "email": "hsfm120525@gmail.com", "teacher_count": 0, "file": "HABIBPUR SIDDIKIA FAZIL MADRASHA.json"}, {"eiin": "120527", "name": "PAUSH GARA FAZIL DEGREE MADRASAH", "name_bn": "পাউশগাড়া ফাযিল মাদরাসা", "type": "MADRASHA", "level": "Fazil", "category": "madrasa_other", "mobile": "01716684947", "email": "pfmhakim@gmail.com", "teacher_count": 0, "file": "PAUSH GARA FAZIL DEGREE MADRASAH.json"}, {"eiin": "120532", "name": "REKABI CHAK CHAKA ALIM MADRASA", "name_bn": "রিকাবী চকচকা আলিম মাদ্রাসা", "type": "MADRASHA", "level": "Alim", "category": "madrasa_other", "mobile": "01719666850", "email": "rikabiam120532@gmail.com", "teacher_count": 0, "file": "REKABI CHAK CHAKA ALIM MADRASA.json"}, {"eiin": "133124", "name": "HAKIMPUR TECHNICAL AND BUSINESS MANAGEMENT INSTITUTE", "name_bn": "হাকিমপুর টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট ইন্সটিটিউট", "type": null, "level": null, "category": "other", "mobile": "01710612118", "email": null, "teacher_count": 0, "file": "HAKIMPUR TECHNICAL AND BUSINESS MANAGEMENT INSTITUTE.json"}, {"eiin": "137289", "name": "BASUDABPUR GOVT. PRIMARY SCHOOL", "name_bn": null, "type": "SCHOOL", "level": "Govt. Primary (pre to Eight)", "category": "primary_school", "mobile": "01721010222", "email": "basudebpurgps137289@gmail.com", "teacher_count": 103, "file": "BASUDABPUR GOVT. PRIMARY SCHOOL.json"}, {"eiin": "120506", "name": "BANGLA HILI GOVT.GIRLS HIGH SCHOOL", "name_bn": "বাংলাহিলি সরকারি বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717448019", "email": "hiligovtgirlshighschool@gmall.com", "teacher_count": 134, "file": "BANGLA HILI GOVT.GIRLS HIGH SCHOOL.json"}, {"eiin": "120512", "name": "BAONA HIGH SCHOOL", "name_bn": "বাওনা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712499459", "email": "baona120512@gmail.com", "teacher_count": 192, "file": "BAONA HIGH SCHOOL.json"}, {"eiin": "120514", "name": "BASHMURI B.L HIGH SCHOOL", "name_bn": "বাঁশমুড়ী দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01714601129", "email": "bashmuri120514@gmail.com", "teacher_count": 206, "file": "BASHMURI B.L HIGH SCHOOL.json"}, {"eiin": "120517", "name": "BISHAPARA IDEAL HIGH SCHOOL", "name_bn": "বিশাপাড়া আদর্শ উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712994544", "email": "abdulquddus20211968@gmail.com", "teacher_count": 203, "file": "BISHAPARA IDEAL HIGH SCHOOL.json"}, {"eiin": "120516", "name": "CHHATNI CHOUMUHANI IDEAL HIGH SCHOOL", "name_bn": "ছাতনী চৌমুহনী আদশ উচ্চ বিদালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01717319134", "email": "chhatnihifhschool120516@gmail.com", "teacher_count": 195, "file": "CHHATNI CHOUMUHANI IDEAL HIGH SCHOOL.json"}, {"eiin": "120503", "name": "DANGAPARA GIRLS HIGH SCHOOL", "name_bn": "ডাংগাপাড়া বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712218786", "email": "dangaparag120503@gmail.com", "teacher_count": 195, "file": "DANGAPARA GIRLS HIGH SCHOOL.json"}, {"eiin": "120518", "name": "GOHARA B.L. HIGH SCHOOL", "name_bn": "গোহাড়া দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712700381", "email": "gohara120518@gmail.com", "teacher_count": 221, "file": "GOHARA B.L. HIGH SCHOOL.json"}, {"eiin": "120520", "name": "HATISO ADIBASI HIGH SCHOOL", "name_bn": "হাতিশোঁও আদিবাসী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01724144203", "email": "hatiso120520@gmail.com", "teacher_count": 119, "file": "HATISO ADIBASI HIGH SCHOOL.json"}, {"eiin": "120523", "name": "HORIHOR PUR JUNIOR GIRLS SCHOOL", "name_bn": "হরিহরপুর নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01774375084", "email": "hariharpurgs@gmail.com", "teacher_count": 129, "file": "HORIHOR PUR JUNIOR GIRLS SCHOOL.json"}, {"eiin": "120513", "name": "JALALPUR BILATERAL HIGH SCHOOL", "name_bn": "জালালপুর দ্বি-মুখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01748991763", "email": "jalalpurhs120513@gmail.com", "teacher_count": 192, "file": "JALALPUR BILATERAL HIGH SCHOOL.json"}, {"eiin": "120510", "name": "JANGAI HIGH SCHOOL", "name_bn": "জাংগই উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01718408515", "email": "jangai120510@gmail.com", "teacher_count": 221, "file": "JANGAI HIGH SCHOOL.json"}, {"eiin": "120522", "name": "JANGAI JUNIOR GIRLS SCHOOL", "name_bn": "জাংগই নিম্ন মাধ্যমিক বালিকা বিদ্যালয়", "type": "SCHOOL", "level": "Junior Secondary", "category": "school", "mobile": "01723467603", "email": "mezbaulislam271@gmail.com", "teacher_count": 130, "file": "JANGAI JUNIOR GIRLS SCHOOL.json"}, {"eiin": "120509", "name": "KHATTAUSNA HIGH SCHOOL", "name_bn": "খাট্টাউছনা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01920620407", "email": "mdmosharrof262@gmail.com", "teacher_count": 206, "file": "KHATTAUSNA HIGH SCHOOL.json"}, {"eiin": "120511", "name": "KOKTARA BILETERAL HIGH SCHOOL", "name_bn": "কোকতারা দ্বিমূখী উচচ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01762876702", "email": "koktara120511@gmail.com", "teacher_count": 200, "file": "KOKTARA BILETERAL HIGH SCHOOL.json"}, {"eiin": "120507", "name": "MONSHAPUR BILATERAL HIGH SCHOOL", "name_bn": "মনসাপুর দ্বি-মুখী উচ্চবিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01774924119", "email": "monshapurhighschool1944@gmail.com", "teacher_count": 289, "file": "MONSHAPUR BILATERAL HIGH SCHOOL.json"}, {"eiin": "120521", "name": "NAWPARA GIRLS HIGH SCHOOL", "name_bn": "নওপাড়া বালিকা উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01983859705", "email": "nawparagirlshs@gmail.com", "teacher_count": 211, "file": "NAWPARA GIRLS HIGH SCHOOL.json"}, {"eiin": "120515", "name": "NAYANAGAR HIGH SCHOOL", "name_bn": "নয়ানগর উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01730184246", "email": "nayanagar120515@gmail.com", "teacher_count": 194, "file": "NAYANAGAR HIGH SCHOOL.json"}, {"eiin": "120519", "name": "RIKABI BILETARAL HIGH SCHOOL", "name_bn": "রিকাবী দ্বি-মূখী উচ্চ বিদ্যালয়", "type": "SCHOOL", "level": "Secondary", "category": "school", "mobile": "01712401592", "email": "mohiuddindinajpur2019@gmail.com", "teacher_count": 190, "file": "RIKABI BILETARAL HIGH SCHOOL.json"}, {"eiin": "120504", "name": "BANGLA HILI PILOT SCHOOL AND COLLEGE", "name_bn": "বাংলাহিলি পাইলট স্কুল অ্যান্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01797687177", "email": "bpschakimpur@gmail.com", "teacher_count": 0, "file": "BANGLA HILI PILOT SCHOOL AND COLLEGE.json"}, {"eiin": "120508", "name": "BOALDER BILATERAL HIGH SCHOOL AND COLLEGE", "name_bn": "বোয়ালদাড় স্কুল এন্ড কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01750993202", "email": "boalderschoolandcollege@gmail.com", "teacher_count": 0, "file": "BOALDER BILATERAL HIGH SCHOOL AND COLLEGE.json"}, {"eiin": "120505", "name": "PAUSH GARA HIGH SCHOOL AND COLLEGE", "name_bn": "পাউশগাড়া উচ্চ বিদ্যালয় ও কলেজ", "type": "SCHOOL & COLLEGE", "level": "Higher Secondary", "category": "school_and_college", "mobile": "01712501618", "email": "paushgarasc@gmail.com", "teacher_count": 0, "file": "PAUSH GARA HIGH SCHOOL AND COLLEGE.json"}], "healthcare": [], "banking": [], "emergency": {}, "land_khatian_count": 0, "land": {"khatian_count": 25, "mouza_count": 122, "mouza_scope": "upazila", "sample_khatians": [{"khatian_no": "1", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক দিনাজপুর", "dags": "21,33,59,61,97,128,153,158,194,203,205,206,209,227,230,237,265,295,297,349,351,3", "total_land": "5.9700"}, {"khatian_no": "4", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং শ্রী শ্রী কালী ঠাকুর রানী জিউ পক্ষে সেবাইত", "dags": "138/397", "total_land": "0.0200"}, {"khatian_no": "5", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং পূর্ব পাড়া জামে মসজিদ,কমিটি পক্ষে মোতয়াল্লী", "dags": "324,362", "total_land": "0.1400"}, {"khatian_no": "6", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং মধ্যপাড়া জামে মসজিদ,কমিটি পক্ষে মোতয়াল্লী", "dags": "157", "total_land": "0.0600"}, {"khatian_no": "7", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং মোল্লাপাড়া জামে মসজিদ,কমিটি পক্ষে মোতয়াল্লী", "dags": "87", "total_land": "0.0400"}, {"khatian_no": "8", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং অফিল উদ্দিন", "dags": "286,287", "total_land": "0.1800"}, {"khatian_no": "9", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং অফিল উদ্দিন", "dags": "374", "total_land": "0.1100"}, {"khatian_no": "10", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং অমিছা খাতুন,পরমান বিবি", "dags": "1,12", "total_land": "0.1600"}, {"khatian_no": "11", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং অমেছা বিবি", "dags": "145", "total_land": "0.1800"}, {"khatian_no": "12", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং অর্শিত কুমার দাস", "dags": "214,215,243,249", "total_land": "0.8200"}, {"khatian_no": "13", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবুল কালাম,সাহারা বিবি,মেরিনা খাতুন,লতিফা খাতুন", "dags": "250,291,372", "total_land": "0.7800"}, {"khatian_no": "14", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবুল কালাম,আব্দুল কুদ্দুস,আব্দুল আজিজ,ছলিম উদ্দিন,জরিনা বেওয়া", "dags": "303", "total_land": "0.3900"}, {"khatian_no": "15", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবুল কাসেম", "dags": "288,369", "total_land": "0.1800"}, {"khatian_no": "16", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবুল কাসেম,মজিবর রহমান", "dags": "218", "total_land": "0.1600"}, {"khatian_no": "17", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবুল কাসেম,শিরিন আকতার,লাইজু আরা", "dags": "220", "total_land": "0.1700"}, {"khatian_no": "18", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবুল কালাম,আবুল কামাল,এনতাজ আলী", "dags": "343", "total_land": "0.1900"}, {"khatian_no": "19", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবু তাহের", "dags": "140,250,251,255,256,260", "total_land": "0.9200"}, {"khatian_no": "20", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবু বকর,আবু মোতালেব", "dags": "307", "total_land": "0.0400"}, {"khatian_no": "21", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবু বক্কর,আবু মোতালেব,রবিউল ইসলাম", "dags": "305,306,308", "total_land": "0.3500"}, {"khatian_no": "22", "survey": "RS", "mouza_name": "বলরামপুর", "jl_no": "02", "owners": "দং আবু বকর,আবু মোতালেব,হাজেরা বিবি,ফাইমা বিবি,উম্মে হানী", "dags": "304", "total_land": "0.2300"}], "sample_mouzas": [{"mouza_name": "বলরামপুর", "jl_no": "2", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "মাধবপাড়া", "jl_no": "3", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "নয়ানগর ", "jl_no": "4", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "নওদাপাড়া ", "jl_no": "11", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "এগার-আনী নয়ানগর", "jl_no": "12", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "ঘাসুরিয়া", "jl_no": "13", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "মাকরমুরা", "jl_no": "22", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "ছোট জালালপুর", "jl_no": "25", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "কন্দপপুর", "jl_no": "33", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "হাতিসো", "jl_no": "34", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "রাউতারা", "jl_no": "35", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "ছাতনী ", "jl_no": "39", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "ভাটরা", "jl_no": "50", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "ইসবপুর", "jl_no": "53", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "দক্ষিণ কাদিপুর", "jl_no": "56", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "ইটাই ", "jl_no": "66", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "রাঙ্গামাটিয়া", "jl_no": "74", "survey": "BRS", "upazila": "HAKIMPUR"}, {"mouza_name": "দুররা", "jl_no": "279", "survey": "CS", "upazila": "HAKIMPUR"}, {"mouza_name": "ইসবপুর", "jl_no": "297", "survey": "CS", "upazila": "HAKIMPUR"}, {"mouza_name": "বলরামপুর", "jl_no": "02", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "মাধবপাড়া", "jl_no": "03", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "নয়ানগর", "jl_no": "04", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "লোহাকরঞ্জি", "jl_no": "6", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "লোহাচড়া", "jl_no": "08", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "লক্ষ্মীকোল", "jl_no": "09", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "আরাজী রায়ভাগ", "jl_no": "10", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "নওদাপাড়া", "jl_no": "11", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "এগার আনী নয়ানগর", "jl_no": "12", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "ঘাসুরিয়া.", "jl_no": "13", "survey": "RS", "upazila": "HAKIMPUR"}, {"mouza_name": "দুররা.", "jl_no": "16", "survey": "RS", "upazila": "HAKIMPUR"}], "maps": {"division_drive_url": "https://drive.google.com/drive/folders/1VdIaaFQg8Uj0rpNQy_36zTYtYLxO3re5", "district_drive_url": "https://drive.google.com/drive/folders/1btqCO0lJtxso0pUkmhOphP33ZCqR8pzB", "district_total_maps": 4871, "district_uploaded_maps": 8, "district_total_gb": 38.195, "catalog_github_path": "land/maps/Rangpur/Dinajpur.json"}}, "governance": {"administration": {"district": "Dinajpur", "dc_office": {"title": "Deputy Commissioner & District Magistrate, Dinajpur", "phone": "01713-000054", "email": "dcdinajpur@mopa.gov.bd", "website": "http://www.dinajpur.gov.bd"}, "sp_office": {"title": "Superintendent of Police, Dinajpur", "phone": "01713-373054", "email": "spdinajpur@police.gov.bd", "control_room": "01713-374054"}, "civil_surgeon_office": {"title": "Civil Surgeon, Dinajpur", "phone": "01713-555054", "email": "csdinajpur@dghs.gov.bd"}}, "parliamentary_constituencies": [{"code": "6", "name": {"en": "Dinajpur-1", "bn": "দিনাজপুর-১"}, "total_voters": 417133}, {"code": "7", "name": {"en": "Dinajpur-2", "bn": "দিনাজপুর-২"}, "total_voters": 371478}, {"code": "8", "name": {"en": "Dinajpur-3", "bn": "দিনাজপুর-৩"}, "total_voters": 415636}, {"code": "9", "name": {"en": "Dinajpur-4", "bn": "দিনাজপুর-৪"}, "total_voters": 421278}, {"code": "10", "name": {"en": "Dinajpur-5", "bn": "দিনাজপুর-৫"}, "total_voters": 477516}, {"code": "11", "name": {"en": "Dinajpur-6", "bn": "দিনাজপুর-৬"}, "total_voters": 557692}], "upazila_portal": "hakimpur.dinajpur.gov.bd", "district_portal": "http://www.dinajpur.gov.bd", "union_portals_count": 3, "citizen_services": [{"service_name": "National ID (NID) Smart Card Services", "portal": "services.nidw.gov.bd", "helpline": "105", "agency": "Election Commission", "description": "NID online registration, re-issue, correction, and downloading digital copy."}, {"service_name": "Electronic Passport (e-Passport)", "portal": "epassport.gov.bd", "helpline": "02-8154148", "agency": "Department of Immigration and Passports", "description": "Online application, fee payment, and biometric appointment scheduling."}, {"service_name": "Online Birth and Death Registration (BDRIS)", "portal": "bdris.gov.bd", "helpline": "16122", "agency": "Office of Registrar General, Birth and Death", "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."}, {"service_name": "e-TIN and Income Tax Return System", "portal": "etaxnbr.gov.bd", "helpline": "09612-642273", "agency": "National Board of Revenue", "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."}, {"service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)", "portal": "bsp.brta.gov.bd", "helpline": "16107", "agency": "BRTA", "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."}, {"service_name": "e-Mutation / Digital Land Records (Khatian)", "portal": "mutation.land.gov.bd", "helpline": "16122", "agency": "Ministry of Land", "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."}, {"service_name": "National Citizen Service Portal (myGov)", "portal": "mygov.bd", "helpline": "333", "agency": "a2i / Cabinet Division", "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."}, {"service_name": "Surokkha (National Vaccination Platform)", "portal": "surokkha.gov.bd", "helpline": "16263", "agency": "DGHS / ICT Division", "description": "Official vaccination registration, verification, and digital certificate downloading system."}], "key_ministries_count": 15, "statutory_bodies_count": 10}}
+{
+  "division": "Rangpur",
+  "district": "Dinajpur",
+  "upazila": "Hakimpur",
+  "upazila_slug": "rangpur__dinajpur__hakimpur",
+  "geography": {
+    "division": "Rangpur",
+    "division_bn": "রংপুর",
+    "district": "Dinajpur",
+    "district_bn": "দিনাজপুর",
+    "district_lat": "25.6217061",
+    "district_lon": "88.6354504",
+    "upazila_id": "413",
+    "upazila": "Hakimpur",
+    "upazila_bn": "হাকিমপুর",
+    "official_url": "hakimpur.dinajpur.gov.bd",
+    "total_unions": 3,
+    "unions": [
+      {
+        "id": "3762",
+        "name": "Alihat",
+        "bn_name": "আলীহাট",
+        "url": "alihatup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3763",
+        "name": "Khattamadobpara",
+        "bn_name": "খট্টামাধবপাড়া",
+        "url": "khattamadobparaup.dinajpur.gov.bd"
+      },
+      {
+        "id": "3764",
+        "name": "Boalder",
+        "bn_name": "বোয়ালদার",
+        "url": "boalderup.dinajpur.gov.bd"
+      }
+    ],
+    "total_post_offices": 0,
+    "postal_codes": []
+  },
+  "stats": {
+    "education_count": 38,
+    "healthcare_count": 0,
+    "banking_count": 0,
+    "police_count": 0,
+    "fire_count": 0,
+    "unions_count": 3,
+    "postcodes_count": 0,
+    "land_khatians_count": 25,
+    "mouzas_count": 122
+  },
+  "education": [
+    {
+      "eiin": "120538",
+      "name": "HAKIMPUR GOVT. COLLEGE",
+      "name_bn": "হাকিমপুর সরকারি ডিগ্রি কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Pass)",
+      "category": "college",
+      "mobile": "01333980928",
+      "email": "hakimpurdegreecollege@gmail.com",
+      "teacher_count": 0,
+      "file": "HAKIMPUR GOVT. COLLEGE.json"
+    },
+    {
+      "eiin": "120539",
+      "name": "HAKIMPUR WOHMENS'S DEGREE COLLAGE",
+      "name_bn": "হাকিমপুর মহিলা কলেজ",
+      "type": "COLLEGE",
+      "level": "Degree (Honors)",
+      "category": "college",
+      "mobile": "01712157945",
+      "email": "hakimpurmohilacollege@gmail.com",
+      "teacher_count": 0,
+      "file": "HAKIMPUR WOHMENS'S DEGREE COLLAGE.json"
+    },
+    {
+      "eiin": "120529",
+      "name": "ALIHAT GAZI AMANIA DAKHIL MADRASHA",
+      "name_bn": "আলীহাট গাজী আমিনিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01718881367",
+      "email": "alihatgazi120529@gmail.com",
+      "teacher_count": 0,
+      "file": "ALIHAT GAZI AMANIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "120530",
+      "name": "BAGDOR YEASINIA DAKHIL MADRASA",
+      "name_bn": "বাগদোড় ইয়াছিনিয়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714601966",
+      "email": "mamunur131973@gmail.com",
+      "teacher_count": 0,
+      "file": "BAGDOR YEASINIA DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "120535",
+      "name": "BISHA PARA DARUL HUDA DAKHIL MADRASHA",
+      "name_bn": "বিশাপাড়া দারুলহুদা দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01712557953",
+      "email": "bishapara120535@gmail.com",
+      "teacher_count": 0,
+      "file": "BISHA PARA DARUL HUDA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "120526",
+      "name": "CHHOTO DANGAPARA ISLAMIA DAKHIL MADRASHA",
+      "name_bn": "ছোটডাংগাপাড়া ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01721416651",
+      "email": "chhodidm@gmail.com",
+      "teacher_count": 0,
+      "file": "CHHOTO DANGAPARA ISLAMIA DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "120528",
+      "name": "DAKKHIN JAMALPUR DAKHIL MADRASHA",
+      "name_bn": "দক্ষিণ জামালপুর দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01719542698",
+      "email": "dakkin120528@gmail.com",
+      "teacher_count": 0,
+      "file": "DAKKHIN JAMALPUR DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "120536",
+      "name": "GOBINDOPUR GOMRA DAKHIL MADRASAH",
+      "name_bn": "গোবিন্দপুর গুমড়া দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01715717856",
+      "email": "gobindopurgumra120536@gmail.com",
+      "teacher_count": 0,
+      "file": "GOBINDOPUR GOMRA DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "120537",
+      "name": "HILI HAKIMPUR ISLAMIA DAKHIL MADRASA",
+      "name_bn": "হিলি হাকিমপুর ইসলামিয়া দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01719419593",
+      "email": "hilihakimpurislamiamadrasah@gmail.com",
+      "teacher_count": 0,
+      "file": "HILI HAKIMPUR ISLAMIA DAKHIL MADRASA.json"
+    },
+    {
+      "eiin": "120533",
+      "name": "KANDARPA PUR D.S.DAKHIL MADRASHA",
+      "name_bn": "কন্দপপুর ডি স দাখিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01922837877",
+      "email": "kdmadrasha1980@gmail.com",
+      "teacher_count": 0,
+      "file": "KANDARPA PUR D.S.DAKHIL MADRASHA.json"
+    },
+    {
+      "eiin": "120531",
+      "name": "NANDIPUR D.S B L DAKHIL MADRASAH",
+      "name_bn": "নন্দীপুর ডি.এস দ্বি-মূখী দাখিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Dakhil",
+      "category": "dakhil_madrasa",
+      "mobile": "01714947060",
+      "email": "nandipur120531@gmail.com",
+      "teacher_count": 0,
+      "file": "NANDIPUR D.S B L DAKHIL MADRASAH.json"
+    },
+    {
+      "eiin": "120524",
+      "name": "CHHATNI ROUTARA J.M FAZIL MADRASHA",
+      "name_bn": "ছাতনী রাউতারা জে. এম ফাজিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01726571503",
+      "email": "chhatnijmfm.24@gmail.com",
+      "teacher_count": 0,
+      "file": "CHHATNI ROUTARA J.M FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "120525",
+      "name": "HABIBPUR SIDDIKIA FAZIL MADRASHA",
+      "name_bn": "হাবিবপুর সিদ্দিকিয়া ফাযিল মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01714601820",
+      "email": "hsfm120525@gmail.com",
+      "teacher_count": 0,
+      "file": "HABIBPUR SIDDIKIA FAZIL MADRASHA.json"
+    },
+    {
+      "eiin": "120527",
+      "name": "PAUSH GARA FAZIL DEGREE MADRASAH",
+      "name_bn": "পাউশগাড়া ফাযিল মাদরাসা",
+      "type": "MADRASHA",
+      "level": "Fazil",
+      "category": "madrasa_other",
+      "mobile": "01716684947",
+      "email": "pfmhakim@gmail.com",
+      "teacher_count": 0,
+      "file": "PAUSH GARA FAZIL DEGREE MADRASAH.json"
+    },
+    {
+      "eiin": "120532",
+      "name": "REKABI CHAK CHAKA ALIM MADRASA",
+      "name_bn": "রিকাবী চকচকা আলিম মাদ্রাসা",
+      "type": "MADRASHA",
+      "level": "Alim",
+      "category": "madrasa_other",
+      "mobile": "01719666850",
+      "email": "rikabiam120532@gmail.com",
+      "teacher_count": 0,
+      "file": "REKABI CHAK CHAKA ALIM MADRASA.json"
+    },
+    {
+      "eiin": "133124",
+      "name": "HAKIMPUR TECHNICAL AND BUSINESS MANAGEMENT INSTITUTE",
+      "name_bn": "হাকিমপুর টেকনিক্যাল এন্ড বিজনেস ম্যানেজমেন্ট ইন্সটিটিউট",
+      "type": null,
+      "level": null,
+      "category": "other",
+      "mobile": "01710612118",
+      "email": null,
+      "teacher_count": 0,
+      "file": "HAKIMPUR TECHNICAL AND BUSINESS MANAGEMENT INSTITUTE.json"
+    },
+    {
+      "eiin": "137289",
+      "name": "BASUDABPUR GOVT. PRIMARY SCHOOL",
+      "name_bn": null,
+      "type": "SCHOOL",
+      "level": "Govt. Primary (pre to Eight)",
+      "category": "primary_school",
+      "mobile": "01721010222",
+      "email": "basudebpurgps137289@gmail.com",
+      "teacher_count": 103,
+      "file": "BASUDABPUR GOVT. PRIMARY SCHOOL.json"
+    },
+    {
+      "eiin": "120506",
+      "name": "BANGLA HILI GOVT.GIRLS HIGH SCHOOL",
+      "name_bn": "বাংলাহিলি সরকারি বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717448019",
+      "email": "hiligovtgirlshighschool@gmall.com",
+      "teacher_count": 134,
+      "file": "BANGLA HILI GOVT.GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120512",
+      "name": "BAONA HIGH SCHOOL",
+      "name_bn": "বাওনা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712499459",
+      "email": "baona120512@gmail.com",
+      "teacher_count": 192,
+      "file": "BAONA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120514",
+      "name": "BASHMURI B.L HIGH SCHOOL",
+      "name_bn": "বাঁশমুড়ী দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01714601129",
+      "email": "bashmuri120514@gmail.com",
+      "teacher_count": 206,
+      "file": "BASHMURI B.L HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120517",
+      "name": "BISHAPARA IDEAL HIGH SCHOOL",
+      "name_bn": "বিশাপাড়া আদর্শ উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712994544",
+      "email": "abdulquddus20211968@gmail.com",
+      "teacher_count": 203,
+      "file": "BISHAPARA IDEAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120516",
+      "name": "CHHATNI CHOUMUHANI IDEAL HIGH SCHOOL",
+      "name_bn": "ছাতনী চৌমুহনী আদশ উচ্চ বিদালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01717319134",
+      "email": "chhatnihifhschool120516@gmail.com",
+      "teacher_count": 195,
+      "file": "CHHATNI CHOUMUHANI IDEAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120503",
+      "name": "DANGAPARA GIRLS HIGH SCHOOL",
+      "name_bn": "ডাংগাপাড়া বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712218786",
+      "email": "dangaparag120503@gmail.com",
+      "teacher_count": 195,
+      "file": "DANGAPARA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120518",
+      "name": "GOHARA B.L. HIGH SCHOOL",
+      "name_bn": "গোহাড়া দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712700381",
+      "email": "gohara120518@gmail.com",
+      "teacher_count": 221,
+      "file": "GOHARA B.L. HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120520",
+      "name": "HATISO ADIBASI HIGH SCHOOL",
+      "name_bn": "হাতিশোঁও আদিবাসী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01724144203",
+      "email": "hatiso120520@gmail.com",
+      "teacher_count": 119,
+      "file": "HATISO ADIBASI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120523",
+      "name": "HORIHOR PUR JUNIOR GIRLS SCHOOL",
+      "name_bn": "হরিহরপুর নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01774375084",
+      "email": "hariharpurgs@gmail.com",
+      "teacher_count": 129,
+      "file": "HORIHOR PUR JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "120513",
+      "name": "JALALPUR BILATERAL HIGH SCHOOL",
+      "name_bn": "জালালপুর দ্বি-মুখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01748991763",
+      "email": "jalalpurhs120513@gmail.com",
+      "teacher_count": 192,
+      "file": "JALALPUR BILATERAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120510",
+      "name": "JANGAI HIGH SCHOOL",
+      "name_bn": "জাংগই উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01718408515",
+      "email": "jangai120510@gmail.com",
+      "teacher_count": 221,
+      "file": "JANGAI HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120522",
+      "name": "JANGAI JUNIOR GIRLS SCHOOL",
+      "name_bn": "জাংগই নিম্ন মাধ্যমিক বালিকা বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Junior Secondary",
+      "category": "school",
+      "mobile": "01723467603",
+      "email": "mezbaulislam271@gmail.com",
+      "teacher_count": 130,
+      "file": "JANGAI JUNIOR GIRLS SCHOOL.json"
+    },
+    {
+      "eiin": "120509",
+      "name": "KHATTAUSNA HIGH SCHOOL",
+      "name_bn": "খাট্টাউছনা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01920620407",
+      "email": "mdmosharrof262@gmail.com",
+      "teacher_count": 206,
+      "file": "KHATTAUSNA HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120511",
+      "name": "KOKTARA BILETERAL HIGH SCHOOL",
+      "name_bn": "কোকতারা দ্বিমূখী উচচ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01762876702",
+      "email": "koktara120511@gmail.com",
+      "teacher_count": 200,
+      "file": "KOKTARA BILETERAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120507",
+      "name": "MONSHAPUR BILATERAL HIGH SCHOOL",
+      "name_bn": "মনসাপুর দ্বি-মুখী উচ্চবিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01774924119",
+      "email": "monshapurhighschool1944@gmail.com",
+      "teacher_count": 289,
+      "file": "MONSHAPUR BILATERAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120521",
+      "name": "NAWPARA GIRLS HIGH SCHOOL",
+      "name_bn": "নওপাড়া বালিকা উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01983859705",
+      "email": "nawparagirlshs@gmail.com",
+      "teacher_count": 211,
+      "file": "NAWPARA GIRLS HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120515",
+      "name": "NAYANAGAR HIGH SCHOOL",
+      "name_bn": "নয়ানগর উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01730184246",
+      "email": "nayanagar120515@gmail.com",
+      "teacher_count": 194,
+      "file": "NAYANAGAR HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120519",
+      "name": "RIKABI BILETARAL HIGH SCHOOL",
+      "name_bn": "রিকাবী দ্বি-মূখী উচ্চ বিদ্যালয়",
+      "type": "SCHOOL",
+      "level": "Secondary",
+      "category": "school",
+      "mobile": "01712401592",
+      "email": "mohiuddindinajpur2019@gmail.com",
+      "teacher_count": 190,
+      "file": "RIKABI BILETARAL HIGH SCHOOL.json"
+    },
+    {
+      "eiin": "120504",
+      "name": "BANGLA HILI PILOT SCHOOL AND COLLEGE",
+      "name_bn": "বাংলাহিলি পাইলট স্কুল অ্যান্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01797687177",
+      "email": "bpschakimpur@gmail.com",
+      "teacher_count": 0,
+      "file": "BANGLA HILI PILOT SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "120508",
+      "name": "BOALDER BILATERAL HIGH SCHOOL AND COLLEGE",
+      "name_bn": "বোয়ালদাড় স্কুল এন্ড কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01750993202",
+      "email": "boalderschoolandcollege@gmail.com",
+      "teacher_count": 0,
+      "file": "BOALDER BILATERAL HIGH SCHOOL AND COLLEGE.json"
+    },
+    {
+      "eiin": "120505",
+      "name": "PAUSH GARA HIGH SCHOOL AND COLLEGE",
+      "name_bn": "পাউশগাড়া উচ্চ বিদ্যালয় ও কলেজ",
+      "type": "SCHOOL & COLLEGE",
+      "level": "Higher Secondary",
+      "category": "school_and_college",
+      "mobile": "01712501618",
+      "email": "paushgarasc@gmail.com",
+      "teacher_count": 0,
+      "file": "PAUSH GARA HIGH SCHOOL AND COLLEGE.json"
+    }
+  ],
+  "healthcare": [],
+  "banking": [],
+  "emergency": {},
+  "land_khatian_count": 0,
+  "land": {
+    "khatian_count": 25,
+    "mouza_count": 122,
+    "mouza_scope": "upazila",
+    "sample_khatians": [
+      {
+        "khatian_no": "1",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "বাংলাদেশ সরকার পক্ষে জেলা প্রশাসক দিনাজপুর",
+        "dags": "21,33,59,61,97,128,153,158,194,203,205,206,209,227,230,237,265,295,297,349,351,3",
+        "total_land": "5.9700"
+      },
+      {
+        "khatian_no": "4",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং শ্রী শ্রী কালী ঠাকুর রানী জিউ পক্ষে সেবাইত",
+        "dags": "138/397",
+        "total_land": "0.0200"
+      },
+      {
+        "khatian_no": "5",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং পূর্ব পাড়া জামে মসজিদ,কমিটি পক্ষে মোতয়াল্লী",
+        "dags": "324,362",
+        "total_land": "0.1400"
+      },
+      {
+        "khatian_no": "6",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং মধ্যপাড়া জামে মসজিদ,কমিটি পক্ষে মোতয়াল্লী",
+        "dags": "157",
+        "total_land": "0.0600"
+      },
+      {
+        "khatian_no": "7",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং মোল্লাপাড়া জামে মসজিদ,কমিটি পক্ষে মোতয়াল্লী",
+        "dags": "87",
+        "total_land": "0.0400"
+      },
+      {
+        "khatian_no": "8",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং অফিল উদ্দিন",
+        "dags": "286,287",
+        "total_land": "0.1800"
+      },
+      {
+        "khatian_no": "9",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং অফিল উদ্দিন",
+        "dags": "374",
+        "total_land": "0.1100"
+      },
+      {
+        "khatian_no": "10",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং অমিছা খাতুন,পরমান বিবি",
+        "dags": "1,12",
+        "total_land": "0.1600"
+      },
+      {
+        "khatian_no": "11",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং অমেছা বিবি",
+        "dags": "145",
+        "total_land": "0.1800"
+      },
+      {
+        "khatian_no": "12",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং অর্শিত কুমার দাস",
+        "dags": "214,215,243,249",
+        "total_land": "0.8200"
+      },
+      {
+        "khatian_no": "13",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবুল কালাম,সাহারা বিবি,মেরিনা খাতুন,লতিফা খাতুন",
+        "dags": "250,291,372",
+        "total_land": "0.7800"
+      },
+      {
+        "khatian_no": "14",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবুল কালাম,আব্দুল কুদ্দুস,আব্দুল আজিজ,ছলিম উদ্দিন,জরিনা বেওয়া",
+        "dags": "303",
+        "total_land": "0.3900"
+      },
+      {
+        "khatian_no": "15",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবুল কাসেম",
+        "dags": "288,369",
+        "total_land": "0.1800"
+      },
+      {
+        "khatian_no": "16",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবুল কাসেম,মজিবর রহমান",
+        "dags": "218",
+        "total_land": "0.1600"
+      },
+      {
+        "khatian_no": "17",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবুল কাসেম,শিরিন আকতার,লাইজু আরা",
+        "dags": "220",
+        "total_land": "0.1700"
+      },
+      {
+        "khatian_no": "18",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবুল কালাম,আবুল কামাল,এনতাজ আলী",
+        "dags": "343",
+        "total_land": "0.1900"
+      },
+      {
+        "khatian_no": "19",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবু তাহের",
+        "dags": "140,250,251,255,256,260",
+        "total_land": "0.9200"
+      },
+      {
+        "khatian_no": "20",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবু বকর,আবু মোতালেব",
+        "dags": "307",
+        "total_land": "0.0400"
+      },
+      {
+        "khatian_no": "21",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবু বক্কর,আবু মোতালেব,রবিউল ইসলাম",
+        "dags": "305,306,308",
+        "total_land": "0.3500"
+      },
+      {
+        "khatian_no": "22",
+        "survey": "RS",
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "owners": "দং আবু বকর,আবু মোতালেব,হাজেরা বিবি,ফাইমা বিবি,উম্মে হানী",
+        "dags": "304",
+        "total_land": "0.2300"
+      }
+    ],
+    "sample_mouzas": [
+      {
+        "mouza_name": "বলরামপুর",
+        "jl_no": "2",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "মাধবপাড়া",
+        "jl_no": "3",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "নয়ানগর ",
+        "jl_no": "4",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "নওদাপাড়া ",
+        "jl_no": "11",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "এগার-আনী নয়ানগর",
+        "jl_no": "12",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ঘাসুরিয়া",
+        "jl_no": "13",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "মাকরমুরা",
+        "jl_no": "22",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ছোট জালালপুর",
+        "jl_no": "25",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "কন্দপপুর",
+        "jl_no": "33",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "হাতিসো",
+        "jl_no": "34",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "রাউতারা",
+        "jl_no": "35",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ছাতনী ",
+        "jl_no": "39",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ভাটরা",
+        "jl_no": "50",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ইসবপুর",
+        "jl_no": "53",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "দক্ষিণ কাদিপুর",
+        "jl_no": "56",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ইটাই ",
+        "jl_no": "66",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "রাঙ্গামাটিয়া",
+        "jl_no": "74",
+        "survey": "BRS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "দুররা",
+        "jl_no": "279",
+        "survey": "CS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ইসবপুর",
+        "jl_no": "297",
+        "survey": "CS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "বলরামপুর",
+        "jl_no": "02",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "মাধবপাড়া",
+        "jl_no": "03",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "নয়ানগর",
+        "jl_no": "04",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "লোহাকরঞ্জি",
+        "jl_no": "6",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "লোহাচড়া",
+        "jl_no": "08",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "লক্ষ্মীকোল",
+        "jl_no": "09",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "আরাজী রায়ভাগ",
+        "jl_no": "10",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "নওদাপাড়া",
+        "jl_no": "11",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "এগার আনী নয়ানগর",
+        "jl_no": "12",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "ঘাসুরিয়া.",
+        "jl_no": "13",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      },
+      {
+        "mouza_name": "দুররা.",
+        "jl_no": "16",
+        "survey": "RS",
+        "upazila": "HAKIMPUR"
+      }
+    ],
+    "maps": {
+      "division_drive_url": "https://free.mouzamap.tech/6:/",
+      "district_drive_url": "https://free.mouzamap.tech/6:/Dinajpur/",
+      "district_total_maps": 4871,
+      "district_uploaded_maps": 8,
+      "district_total_gb": 38.195,
+      "catalog_github_path": "land/maps/Rangpur/Dinajpur.json",
+      "online_folder_url": "https://free.mouzamap.tech/6:/Dinajpur/",
+      "hosting": "Direct online links (free.mouzamap.tech)"
+    }
+  },
+  "governance": {
+    "administration": {
+      "district": "Dinajpur",
+      "dc_office": {
+        "title": "Deputy Commissioner & District Magistrate, Dinajpur",
+        "phone": "01713-000054",
+        "email": "dcdinajpur@mopa.gov.bd",
+        "website": "http://www.dinajpur.gov.bd"
+      },
+      "sp_office": {
+        "title": "Superintendent of Police, Dinajpur",
+        "phone": "01713-373054",
+        "email": "spdinajpur@police.gov.bd",
+        "control_room": "01713-374054"
+      },
+      "civil_surgeon_office": {
+        "title": "Civil Surgeon, Dinajpur",
+        "phone": "01713-555054",
+        "email": "csdinajpur@dghs.gov.bd"
+      }
+    },
+    "parliamentary_constituencies": [
+      {
+        "code": "6",
+        "name": {
+          "en": "Dinajpur-1",
+          "bn": "দিনাজপুর-১"
+        },
+        "total_voters": 417133
+      },
+      {
+        "code": "7",
+        "name": {
+          "en": "Dinajpur-2",
+          "bn": "দিনাজপুর-২"
+        },
+        "total_voters": 371478
+      },
+      {
+        "code": "8",
+        "name": {
+          "en": "Dinajpur-3",
+          "bn": "দিনাজপুর-৩"
+        },
+        "total_voters": 415636
+      },
+      {
+        "code": "9",
+        "name": {
+          "en": "Dinajpur-4",
+          "bn": "দিনাজপুর-৪"
+        },
+        "total_voters": 421278
+      },
+      {
+        "code": "10",
+        "name": {
+          "en": "Dinajpur-5",
+          "bn": "দিনাজপুর-৫"
+        },
+        "total_voters": 477516
+      },
+      {
+        "code": "11",
+        "name": {
+          "en": "Dinajpur-6",
+          "bn": "দিনাজপুর-৬"
+        },
+        "total_voters": 557692
+      }
+    ],
+    "upazila_portal": "hakimpur.dinajpur.gov.bd",
+    "district_portal": "http://www.dinajpur.gov.bd",
+    "union_portals_count": 3,
+    "citizen_services": [
+      {
+        "service_name": "National ID (NID) Smart Card Services",
+        "portal": "services.nidw.gov.bd",
+        "helpline": "105",
+        "agency": "Election Commission",
+        "description": "NID online registration, re-issue, correction, and downloading digital copy."
+      },
+      {
+        "service_name": "Electronic Passport (e-Passport)",
+        "portal": "epassport.gov.bd",
+        "helpline": "02-8154148",
+        "agency": "Department of Immigration and Passports",
+        "description": "Online application, fee payment, and biometric appointment scheduling."
+      },
+      {
+        "service_name": "Online Birth and Death Registration (BDRIS)",
+        "portal": "bdris.gov.bd",
+        "helpline": "16122",
+        "agency": "Office of Registrar General, Birth and Death",
+        "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+      },
+      {
+        "service_name": "e-TIN and Income Tax Return System",
+        "portal": "etaxnbr.gov.bd",
+        "helpline": "09612-642273",
+        "agency": "National Board of Revenue",
+        "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+      },
+      {
+        "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+        "portal": "bsp.brta.gov.bd",
+        "helpline": "16107",
+        "agency": "BRTA",
+        "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+      },
+      {
+        "service_name": "e-Mutation / Digital Land Records (Khatian)",
+        "portal": "mutation.land.gov.bd",
+        "helpline": "16122",
+        "agency": "Ministry of Land",
+        "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+      },
+      {
+        "service_name": "National Citizen Service Portal (myGov)",
+        "portal": "mygov.bd",
+        "helpline": "333",
+        "agency": "a2i / Cabinet Division",
+        "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+      },
+      {
+        "service_name": "Surokkha (National Vaccination Platform)",
+        "portal": "surokkha.gov.bd",
+        "helpline": "16263",
+        "agency": "DGHS / ICT Division",
+        "description": "Official vaccination registration, verification, and digital certificate downloading system."
+      }
+    ],
+    "key_ministries_count": 15,
+    "statutory_bodies_count": 10
+  }
+}

@@ -4,13 +4,13 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 
 - **Google Drive Maps Root Folder:** [Open `land/maps` in Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u)
 - **Master Index:** [`index.json`](./index.json)
-- **Uploaded Maps with Live File Links (`96` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
+- **Uploaded Maps with Live File Links (`416` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
 
 ## Divisions & Districts (Google Drive Folders + Partitioned Catalogs)
 
 | Division | Districts | Total Map Files | Total Size | Uploaded to Drive | Google Drive Folder |
 |---|---:|---:|---:|---:|---|
-| **Barishal** | 6 | 17,107 | 200.53 GB | 8 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
+| **Barishal** | 6 | 17,107 | 200.53 GB | 328 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
 | **Chattogram** | 8 | 39,249 | 416.80 GB | 16 | [Open Chattogram Drive Folder](https://drive.google.com/drive/folders/1rDm8EnTOj0NpIM8UaGwPlMiIFSk4KQts) |
 | **Dhaka** | 13 | 62,976 | 645.82 GB | 32 | [Open Dhaka Drive Folder](https://drive.google.com/drive/folders/1DcOgN4Lb32oFCBxLuF5e5ADxBjaMm2G4) |
 | **Khulna** | 10 | 22,439 | 229.98 GB | 8 | [Open Khulna Drive Folder](https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg) |
@@ -24,7 +24,7 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 ### Barishal Division
 | District | Upazilas | Files | Size (GB) | Uploaded | Drive Folder | Catalog JSON |
 |---|---:|---:|---:|---:|---|---|
-| Barguna | 4 | 843 | 9.90 | 8 | [Drive Folder](https://drive.google.com/drive/folders/17zuUhm47Ns16vFq22TYWyGsST17QSdva) | [`Barguna.json`](./Barishal/Barguna.json) |
+| Barguna | 4 | 843 | 9.90 | 328 | [Drive Folder](https://drive.google.com/drive/folders/17zuUhm47Ns16vFq22TYWyGsST17QSdva) | [`Barguna.json`](./Barishal/Barguna.json) |
 | Barishal | 28 | 5,427 | 65.08 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1BQzdzNco0_ZDWD9G7lDPKHvA5roxF52F) | [`Barishal.json`](./Barishal/Barishal.json) |
 | Bhola | 6 | 3,577 | 42.19 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1PKLAaX-k4dvZ6EBrBerwjHOIsCZMyjge) | [`Bhola.json`](./Barishal/Bhola.json) |
 | Jhalokati | 4 | 857 | 10.08 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1olq57r_8jlrOjGihS6oqJiA1T7sZ8mvd) | [`Jhalokati.json`](./Barishal/Jhalokati.json) |
@@ -159,10 +159,14 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 | Sylhet | Habiganj | HOBIGONJ_SA | Hobigonj | `scan__2013-06-02_00-59-09 - (www.mouzamap.tech).jpg` | 13.71 | [View/Download](https://drive.google.com/file/d/1vQMdmNvgidjAT5Q0txAvQJkDSCea6sLD/view) |
 | Sylhet | Habiganj | HOBIGONJ_SA | Hobigonj | `scan__2013-06-02_00-59-53 - (www.mouzamap.tech).jpg` | 13.35 | [View/Download](https://drive.google.com/file/d/1KrzaplEVUgbBfsqWDkYwIg96VTBXQ7Ei/view) |
 
-## Resumable Zero-Disk Sync (For Remaining Files)
+## 24/7 Cloud & Resumable Zero-Disk Sync (PC On or Off)
 
-Because Google Drive enforces a **750 GB / 24-hour** upload limit per user and the full archive is ~2.33 TB, run `START_MAP_SYNC.bat` (or `python sync_gdrive_maps.py --workers 3`) to stream remaining files directly to Google Drive without filling local disk storage and automatically refresh the Drive links above:
+Because Google Drive enforces a **750 GB / 24-hour** upload limit per user and the full archive is ~2.33 TB, you can run this sync either in the cloud or locally without consuming disk space:
+
+- **24/7 Cloud (PC Off):** [`.github/workflows/mouza-drive-sync.yml`](../../.github/workflows/mouza-drive-sync.yml) runs automatically on GitHub Actions every 6 hours and updates all Drive links on `main`. Run `SETUP_CLOUD_SYNC.bat` once to authorize `GDRIVE_OAUTH_JSON`.
+- **1-Click Google Colab:** Open [`Google_Colab_Mouza_Sync.ipynb`](./Google_Colab_Mouza_Sync.ipynb) for browser-based cloud syncing using `google.colab.auth`.
+- **Fast Local PC Sync:** Double-click `RESUME_MOUZA_SYNC.bat` (or run the command below) to resume with 8 parallel workers:
 
 ```bash
-python sync_gdrive_maps.py --workers 3 --limit-gb 700 --refresh-github
+python sync_gdrive_maps.py --workers 8 --limit-gb 0 --continuous --refresh-github --auto-push-github
 ```

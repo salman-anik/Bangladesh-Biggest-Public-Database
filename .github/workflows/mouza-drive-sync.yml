@@ -1,0 +1,112 @@
+name: 24/7 Cloud Mouza Maps Sync to Google Drive
+
+on:
+  schedule:
+    # Run automatically every 6 hours even when your PC is turned off
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      division:
+        description: 'Optional division filter (leave empty for all pending)'
+        required: false
+        default: ''
+      workers:
+        description: 'Parallel upload workers'
+        required: false
+        default: '8'
+      limit_minutes:
+        description: 'Stop cleanly before 6h GitHub limit (minutes)'
+        required: false
+        default: '320'
+
+concurrency:
+  group: mouza-drive-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  cloud-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Check Google Drive Cloud Secret
+        id: check_secret
+        env:
+          HAS_SECRET: ${{ secrets.GDRIVE_OAUTH_JSON != '' }}
+        run: |
+          if [ "$HAS_SECRET" != "true" ]; then
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "GDRIVE_OAUTH_JSON repository secret is not configured yet."
+            echo "Run SETUP_CLOUD_SYNC.bat once on your PC to authorize Google Drive and upload the secret."
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout Repository
+        if: steps.check_secret.outputs.ready == 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        if: steps.check_secret.outputs.ready == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Configure Git Identity
+        if: steps.check_secret.outputs.ready == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Stream Mouza Maps to Google Drive & Push Links
+        id: sync_step
+        if: steps.check_secret.outputs.ready == 'true'
+        env:
+          GDRIVE_OAUTH_JSON: ${{ secrets.GDRIVE_OAUTH_JSON }}
+          INPUT_DIVISION: ${{ github.event.inputs.division }}
+          INPUT_WORKERS: ${{ github.event.inputs.workers || '8' }}
+          INPUT_LIMIT_MINUTES: ${{ github.event.inputs.limit_minutes || '320' }}
+        run: |
+          START_TS=$(date +%s)
+          ARGS=(
+            -u land/maps/sync_gdrive_maps.py
+            --db /tmp/mouza_sync_state.db
+            --workers "$INPUT_WORKERS"
+            --limit-minutes "$INPUT_LIMIT_MINUTES"
+            --limit-gb 680
+            --refresh-github
+            --auto-push-github
+          )
+          if [ -n "$INPUT_DIVISION" ]; then
+            ARGS+=(--division "$INPUT_DIVISION")
+          fi
+          python "${ARGS[@]}"
+          END_TS=$(date +%s)
+          ELAPSED=$((END_TS - START_TS))
+          echo "elapsed=$ELAPSED" >> "$GITHUB_OUTPUT"
+
+      - name: Chain Next Cloud Run if Time-Capped & Files Remain
+        if: steps.check_secret.outputs.ready == 'true' && success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ELAPSED: ${{ steps.sync_step.outputs.elapsed }}
+        run: |
+          REMAINING=$(python -c "
+          import json
+          d = json.load(open('land/maps/index.json', encoding='utf-8'))
+          print(d['total_files'] - d['uploaded_files'])
+          ")
+          echo "Remaining pending maps: $REMAINING (run elapsed: ${ELAPSED}s)"
+          if [ "$REMAINING" -gt 0 ] && [ "${ELAPSED:-0}" -ge 15000 ]; then
+            echo "Chaining next 5.3h cloud sync run..."
+            gh workflow run mouza-drive-sync.yml
+          else
+            echo "Stopping chain until next 6-hour schedule (either completed or daily Drive quota hit)."
+          fi

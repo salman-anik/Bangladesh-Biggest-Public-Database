@@ -8,6 +8,7 @@ SQLite, and regenerating GitHub catalog JSON/README files with Google Drive link
 
 import argparse
 import json
+import mimetypes
 import os
 import re
 import shutil
@@ -39,16 +40,15 @@ TMP_ROOT = Path(tempfile.gettempdir()) / "bd_mouza_sync_tmp"
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 STOP_EVENT = threading.Event()
+DEADLINE_TS = None
 DB_LOCK = threading.Lock()
 FOLDER_LOCK = threading.Lock()
 DL_LOCK = threading.Lock()
 
 
-def find_gdrive():
-    exe = shutil.which("gdrive")
-    if not exe:
-        raise RuntimeError("`gdrive` CLI not found in PATH. Initialize the gdrive plugin CLI first.")
-    return exe
+def is_daily_quota_error(text):
+    low = (text or "").lower()
+    return "uploadlimitexceeded" in low or "userratelimitexceeded" in low or "daily limit" in low
 
 
 def gdrive_run(gdrive_bin, args, retries=5):
@@ -60,12 +60,277 @@ def gdrive_run(gdrive_bin, args, retries=5):
             return p.stdout.strip()
         err = (p.stderr or "") + "\n" + (p.stdout or "")
         last_err = err.strip()
-        low = last_err.lower()
-        if "uploadlimitexceeded" in low or "userratelimitexceeded" in low or "daily limit" in low:
+        if is_daily_quota_error(last_err):
             STOP_EVENT.set()
             raise RuntimeError(f"DAILY_QUOTA_HIT: {last_err}")
         time.sleep(min(25, 2 * (attempt + 1)))
     raise RuntimeError(last_err)
+
+
+def find_gdrive():
+    exe = shutil.which("gdrive")
+    if not exe:
+        raise RuntimeError("`gdrive` CLI not found in PATH, and no GDRIVE_OAUTH_JSON/GDRIVE_ACCESS_TOKEN env var is set.")
+    return exe
+
+
+class GdriveCliBackend:
+    """Local Google Drive backend wrapping the installed `gdrive` CLI."""
+
+    def __init__(self, gdrive_bin):
+        self.gdrive_bin = gdrive_bin
+
+    def list_children(self, folder_id):
+        out = gdrive_run(self.gdrive_bin, ["readonly", "ls", folder_id, "--json"])
+        items = json.loads(out) if out else []
+        folders = {x["name"]: x["id"] for x in items if x["mimeType"] == "application/vnd.google-apps.folder"}
+        files = {x["name"]: x["id"] for x in items if x["mimeType"] != "application/vnd.google-apps.folder"}
+        return folders, files
+
+    def mkdir(self, name, parent_id):
+        out = gdrive_run(self.gdrive_bin, ["mutate", "mkdir", name, "--parent", parent_id])
+        return re.search(r"\(ID:\s*([A-Za-z0-9_-]+)\)", out).group(1)
+
+    def upload_file(self, local_path, parent_id, mime_type=None):
+        out = gdrive_run(self.gdrive_bin, ["mutate", "upload", str(local_path), "--parent", parent_id])
+        m = re.search(r"\(ID:\s*([A-Za-z0-9_-]+)\)", out)
+        return m.group(1) if m else None
+
+
+class GdriveRestBackend:
+    """Headless Google Drive v3 REST backend for GitHub Actions, Colab, and Linux cloud runners."""
+
+    def __init__(self, client_id=None, client_secret=None, refresh_token=None, access_token=None, token_file=None):
+        self.client_id = client_id
+        self.client_secret = client_secret
+        self.refresh_token = refresh_token
+        self._access_token = access_token
+        self._token_file = Path(token_file) if token_file else None
+        self._expires_at = time.time() + (3000 if access_token else 0)
+        self._token_lock = threading.Lock()
+
+    def _get_token(self, force_refresh=False):
+        with self._token_lock:
+            now = time.time()
+            if not force_refresh and self._access_token and now < self._expires_at - 120:
+                return self._access_token
+            if self._token_file and self._token_file.exists():
+                raw = self._token_file.read_text(encoding="utf-8").strip()
+                if raw.startswith("{"):
+                    data = json.loads(raw)
+                    if data.get("access_token") and not force_refresh:
+                        self._access_token = data["access_token"]
+                        self._expires_at = now + int(data.get("expires_in", 1800))
+                        return self._access_token
+                elif raw:
+                    self._access_token = raw
+                    self._expires_at = now + 900
+                    return self._access_token
+            if not (self.refresh_token and self.client_id and self.client_secret):
+                if self._access_token:
+                    return self._access_token
+                raise RuntimeError("Missing OAuth credentials (refresh_token/client_id/client_secret or access_token).")
+            body = urllib.parse.urlencode(
+                {
+                    "client_id": self.client_id,
+                    "client_secret": self.client_secret,
+                    "refresh_token": self.refresh_token,
+                    "grant_type": "refresh_token",
+                }
+            ).encode("utf-8")
+            req = urllib.request.Request(
+                "https://oauth2.googleapis.com/token",
+                data=body,
+                headers={"Content-Type": "application/x-www-form-urlencoded"},
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                tok = json.loads(resp.read().decode("utf-8"))
+            self._access_token = tok["access_token"]
+            self._expires_at = now + int(tok.get("expires_in", 3600))
+            return self._access_token
+
+    def _api_request(self, url, method="GET", data=None, headers=None, retries=5, timeout=60):
+        last_err = ""
+        for attempt in range(retries):
+            token = self._get_token(force_refresh=(attempt > 0 and "401" in last_err))
+            req_headers = {"Authorization": f"Bearer {token}", "User-Agent": "Mozilla/5.0"}
+            if headers:
+                req_headers.update(headers)
+            req = urllib.request.Request(url, data=data, headers=req_headers, method=method)
+            try:
+                with urllib.request.urlopen(req, timeout=timeout) as resp:
+                    raw = resp.read().decode("utf-8") if resp.length != 0 else ""
+                    return resp.status, dict(resp.headers), (json.loads(raw) if raw.strip().startswith("{") else raw)
+            except urllib.error.HTTPError as exc:
+                err_body = exc.read().decode("utf-8", errors="replace")
+                last_err = f"HTTP {exc.code}: {err_body}"
+                if is_daily_quota_error(last_err):
+                    STOP_EVENT.set()
+                    raise RuntimeError(f"DAILY_QUOTA_HIT: {last_err}")
+                if exc.code == 401:
+                    self._get_token(force_refresh=True)
+                elif exc.code not in (403, 429, 500, 502, 503, 504):
+                    raise RuntimeError(last_err)
+                time.sleep(min(30, 2 * (attempt + 1)))
+            except Exception as exc:
+                last_err = str(exc)
+                time.sleep(min(30, 2 * (attempt + 1)))
+        raise RuntimeError(last_err)
+
+    def list_children(self, folder_id):
+        folders = {}
+        files = {}
+        page_token = None
+        while True:
+            params = {
+                "q": f"'{folder_id}' in parents and trashed = false",
+                "fields": "nextPageToken, files(id, name, mimeType)",
+                "pageSize": "1000",
+                "supportsAllDrives": "true",
+                "includeItemsFromAllDrives": "true",
+            }
+            if page_token:
+                params["pageToken"] = page_token
+            url = "https://www.googleapis.com/drive/v3/files?" + urllib.parse.urlencode(params)
+            _, _, res = self._api_request(url, method="GET")
+            for x in res.get("files", []):
+                if x.get("mimeType") == "application/vnd.google-apps.folder":
+                    folders[x["name"]] = x["id"]
+                else:
+                    files[x["name"]] = x["id"]
+            page_token = res.get("nextPageToken")
+            if not page_token:
+                break
+        return folders, files
+
+    def mkdir(self, name, parent_id):
+        payload = json.dumps(
+            {
+                "name": name,
+                "mimeType": "application/vnd.google-apps.folder",
+                "parents": [parent_id],
+            }
+        ).encode("utf-8")
+        url = "https://www.googleapis.com/drive/v3/files?supportsAllDrives=true&fields=id"
+        _, _, res = self._api_request(
+            url,
+            method="POST",
+            data=payload,
+            headers={"Content-Type": "application/json; charset=UTF-8"},
+        )
+        return res["id"]
+
+    def upload_file(self, local_path, parent_id, mime_type=None):
+        local_path = Path(local_path)
+        file_size = local_path.stat().st_size
+        mime = mime_type or mimetypes.guess_type(local_path.name)[0] or "application/octet-stream"
+        meta = json.dumps({"name": local_path.name, "parents": [parent_id]}).encode("utf-8")
+        init_url = "https://www.googleapis.com/upload/drive/v3/files?uploadType=resumable&supportsAllDrives=true&fields=id"
+
+        last_err = ""
+        chunk_size = 8 * 1024 * 1024
+        for attempt in range(4):
+            try:
+                token = self._get_token(force_refresh=(attempt > 0 and "401" in last_err))
+                init_req = urllib.request.Request(
+                    init_url,
+                    data=meta,
+                    headers={
+                        "Authorization": f"Bearer {token}",
+                        "Content-Type": "application/json; charset=UTF-8",
+                        "X-Upload-Content-Type": mime,
+                        "X-Upload-Content-Length": str(file_size),
+                    },
+                    method="POST",
+                )
+                with urllib.request.urlopen(init_req, timeout=60) as init_resp:
+                    upload_url = init_resp.headers["Location"]
+
+                if file_size == 0:
+                    put_req = urllib.request.Request(
+                        upload_url,
+                        data=b"",
+                        headers={"Content-Length": "0", "Content-Type": mime},
+                        method="PUT",
+                    )
+                    with urllib.request.urlopen(put_req, timeout=60) as r:
+                        res = json.loads(r.read().decode("utf-8"))
+                        return res.get("id")
+
+                with open(local_path, "rb") as f:
+                    offset = 0
+                    while offset < file_size:
+                        chunk = f.read(chunk_size)
+                        end = offset + len(chunk) - 1
+                        put_req = urllib.request.Request(
+                            upload_url,
+                            data=chunk,
+                            headers={
+                                "Content-Length": str(len(chunk)),
+                                "Content-Type": mime,
+                                "Content-Range": f"bytes {offset}-{end}/{file_size}",
+                            },
+                            method="PUT",
+                        )
+                        try:
+                            with urllib.request.urlopen(put_req, timeout=300) as r:
+                                res = json.loads(r.read().decode("utf-8"))
+                                return res.get("id")
+                        except urllib.error.HTTPError as exc:
+                            if exc.code == 308:
+                                offset = end + 1
+                                continue
+                            raise
+            except urllib.error.HTTPError as exc:
+                err_body = exc.read().decode("utf-8", errors="replace")
+                last_err = f"HTTP {exc.code}: {err_body}"
+                if is_daily_quota_error(last_err):
+                    STOP_EVENT.set()
+                    raise RuntimeError(f"DAILY_QUOTA_HIT: {last_err}")
+                time.sleep(min(25, 2 * (attempt + 1)))
+            except Exception as exc:
+                last_err = str(exc)
+                time.sleep(min(25, 2 * (attempt + 1)))
+        raise RuntimeError(last_err)
+
+
+def create_gdrive_backend():
+    oauth_raw = os.environ.get("GDRIVE_OAUTH_JSON", "").strip()
+    if oauth_raw:
+        if oauth_raw.startswith("{"):
+            cfg = json.loads(oauth_raw)
+        else:
+            cfg = json.loads(Path(oauth_raw).read_text(encoding="utf-8"))
+        if "installed" in cfg:
+            inner = cfg["installed"]
+            cfg.setdefault("client_id", inner.get("client_id"))
+            cfg.setdefault("client_secret", inner.get("client_secret"))
+        elif "web" in cfg:
+            inner = cfg["web"]
+            cfg.setdefault("client_id", inner.get("client_id"))
+            cfg.setdefault("client_secret", inner.get("client_secret"))
+        return GdriveRestBackend(
+            client_id=cfg.get("client_id"),
+            client_secret=cfg.get("client_secret"),
+            refresh_token=cfg.get("refresh_token"),
+            access_token=cfg.get("access_token"),
+        )
+
+    if os.environ.get("GDRIVE_REFRESH_TOKEN") and os.environ.get("GDRIVE_CLIENT_ID") and os.environ.get("GDRIVE_CLIENT_SECRET"):
+        return GdriveRestBackend(
+            client_id=os.environ["GDRIVE_CLIENT_ID"].strip(),
+            client_secret=os.environ["GDRIVE_CLIENT_SECRET"].strip(),
+            refresh_token=os.environ["GDRIVE_REFRESH_TOKEN"].strip(),
+        )
+
+    if os.environ.get("GDRIVE_TOKEN_FILE") or os.environ.get("GDRIVE_ACCESS_TOKEN"):
+        return GdriveRestBackend(
+            access_token=os.environ.get("GDRIVE_ACCESS_TOKEN", "").strip() or None,
+            token_file=os.environ.get("GDRIVE_TOKEN_FILE", "").strip() or None,
+        )
+
+    return GdriveCliBackend(find_gdrive())
 
 
 def init_db(db_path: Path):
@@ -109,49 +374,66 @@ def init_db(db_path: Path):
 
 
 def seed_db_from_catalog(conn):
-    """Populate SQLite state from partitioned district JSONs if missing entries."""
-    existing_count = conn.execute("SELECT COUNT(*) FROM files").fetchone()[0]
+    """Populate SQLite state from partitioned district JSONs and sync uploaded updates."""
     json_files = sorted(REPO_MAPS_DIR.glob("*/*.json"))
     if not json_files:
-        return existing_count
+        return conn.execute("SELECT COUNT(*) FROM files").fetchone()[0]
 
     to_insert = []
+    folder_rows = []
     for jf in json_files:
         data = json.loads(jf.read_text(encoding="utf-8"))
+        div_name = data["division"]
+        dist_name = data["district"]
+        div_folder_id = data.get("division_drive_folder_id")
         dist_folder_id = data.get("drive_folder_id")
+        if div_folder_id:
+            folder_rows.append((div_name, MAPS_DRIVE_ROOT_ID, div_name, div_folder_id))
         if dist_folder_id:
-            div_name = data["division"]
-            dist_name = data["district"]
-            conn.execute(
-                "INSERT OR IGNORE INTO folders(folder_key, parent_id, name, drive_id) VALUES (?, ?, ?, ?)",
-                (f"{div_name}/{dist_name}", data.get("division_drive_folder_id", ""), dist_name, dist_folder_id),
-            )
+            folder_rows.append((f"{div_name}/{dist_name}", div_folder_id or "", dist_name, dist_folder_id))
         for item in data.get("files", []):
             rel_key = item["source_rel_path"]
+            dfold = item.get("drive_folder_id") or dist_folder_id
+            status = item.get("status", "pending_sync")
+            if status == "uploaded" and item.get("drive_folder_id"):
+                parts = [p for p in [div_name, dist_name, item.get("upazila", ""), item.get("survey", "")] + ([s for s in (item.get("subpath") or "").split("/") if s]) if p]
+                if len(parts) > 2:
+                    folder_rows.append(("/".join(parts), dist_folder_id or "", parts[-1], item["drive_folder_id"]))
             to_insert.append(
                 (
                     rel_key,
-                    int(item.get("source_drive", DIV_INDEX.get(data["division"], 0))),
-                    data["division"],
-                    data["district"],
+                    int(item.get("source_drive", DIV_INDEX.get(div_name, 0))),
+                    div_name,
+                    dist_name,
                     item.get("upazila", ""),
                     item.get("survey", ""),
                     item.get("subpath", ""),
                     item["file_name"],
                     int(item.get("file_size", 0)),
                     item.get("mime_type", "application/octet-stream"),
-                    item.get("drive_folder_id") or dist_folder_id,
+                    dfold,
                     item.get("drive_file_id"),
-                    item.get("status", "pending_sync"),
+                    status,
                     item.get("updated_at"),
                 )
             )
+    if folder_rows:
+        conn.executemany(
+            "INSERT OR IGNORE INTO folders(folder_key, parent_id, name, drive_id) VALUES (?, ?, ?, ?)",
+            folder_rows,
+        )
     conn.executemany(
         """
-        INSERT OR IGNORE INTO files(
+        INSERT INTO files(
             rel_key, drive_idx, division, district, upazila, survey, subpath,
             file_name, file_size, mime_type, drive_folder_id, drive_file_id, status, updated_at
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(rel_key) DO UPDATE SET
+            drive_folder_id = excluded.drive_folder_id,
+            drive_file_id   = excluded.drive_file_id,
+            status          = 'uploaded',
+            updated_at      = excluded.updated_at
+        WHERE excluded.status = 'uploaded' AND files.status != 'uploaded'
         """,
         to_insert,
     )
@@ -159,15 +441,11 @@ def seed_db_from_catalog(conn):
     return conn.execute("SELECT COUNT(*) FROM files").fetchone()[0]
 
 
-def list_drive_children(gdrive_bin, folder_id):
-    out = gdrive_run(gdrive_bin, ["readonly", "ls", folder_id, "--json"])
-    items = json.loads(out) if out else []
-    folders = {x["name"]: x["id"] for x in items if x["mimeType"] == "application/vnd.google-apps.folder"}
-    files = {x["name"]: x["id"] for x in items if x["mimeType"] != "application/vnd.google-apps.folder"}
-    return folders, files
+def list_drive_children(backend, folder_id):
+    return backend.list_children(folder_id)
 
 
-def ensure_drive_path(conn, gdrive_bin, division, parts):
+def ensure_drive_path(conn, backend, division, parts):
     """Ensure Drive folder hierarchy starting from division folder; returns leaf folder_id."""
     with FOLDER_LOCK:
         # Look up division folder ID
@@ -175,12 +453,11 @@ def ensure_drive_path(conn, gdrive_bin, division, parts):
         if row:
             curr_id = row[0]
         else:
-            div_folders, _ = list_drive_children(gdrive_bin, MAPS_DRIVE_ROOT_ID)
+            div_folders, _ = list_drive_children(backend, MAPS_DRIVE_ROOT_ID)
             if division in div_folders:
                 curr_id = div_folders[division]
             else:
-                out = gdrive_run(gdrive_bin, ["mutate", "mkdir", division, "--parent", MAPS_DRIVE_ROOT_ID])
-                curr_id = re.search(r"\(ID:\s*([A-Za-z0-9_-]+)\)", out).group(1)
+                curr_id = backend.mkdir(division, MAPS_DRIVE_ROOT_ID)
             conn.execute(
                 "INSERT OR REPLACE INTO folders(folder_key, parent_id, name, drive_id) VALUES (?, ?, ?, ?)",
                 (division, MAPS_DRIVE_ROOT_ID, division, curr_id),
@@ -196,12 +473,11 @@ def ensure_drive_path(conn, gdrive_bin, division, parts):
             if row:
                 curr_id = row[0]
                 continue
-            child_folders, _ = list_drive_children(gdrive_bin, curr_id)
+            child_folders, _ = list_drive_children(backend, curr_id)
             if seg in child_folders:
                 next_id = child_folders[seg]
             else:
-                out = gdrive_run(gdrive_bin, ["mutate", "mkdir", seg, "--parent", curr_id])
-                next_id = re.search(r"\(ID:\s*([A-Za-z0-9_-]+)\)", out).group(1)
+                next_id = backend.mkdir(seg, curr_id)
             conn.execute(
                 "INSERT OR REPLACE INTO folders(folder_key, parent_id, name, drive_id) VALUES (?, ?, ?, ?)",
                 (curr_key, curr_id, seg, next_id),
@@ -280,11 +556,15 @@ def fetch_signed_links_for_folder(drive_idx, folder_rel_parts):
     return links
 
 
-def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
+def deadline_reached():
+    return DEADLINE_TS is not None and time.monotonic() >= DEADLINE_TS
+
+
+def sync_folder_group(conn, backend, folder_group, workers=4):
     """Sync all pending files belonging to a single source folder."""
     drive_idx, division, folder_parts, items = folder_group
-    target_folder_id = ensure_drive_path(conn, gdrive_bin, division, folder_parts)
-    _, existing_drive_files = list_drive_children(gdrive_bin, target_folder_id)
+    target_folder_id = ensure_drive_path(conn, backend, division, folder_parts)
+    _, existing_drive_files = list_drive_children(backend, target_folder_id)
 
     # Mark any already-present Drive files right away without re-downloading
     pending_items = []
@@ -310,7 +590,7 @@ def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
     TMP_ROOT.mkdir(parents=True, exist_ok=True)
 
     def upload_single(entry):
-        if STOP_EVENT.is_set():
+        if STOP_EVENT.is_set() or deadline_reached():
             return False, 0
         rel_key, fname, fsize = entry
         link = signed_links.get(fname)
@@ -330,9 +610,11 @@ def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
             last_dl_err = ""
             dl_url = link if link.startswith("http") else (BASE_INDEX_URL + link)
             for attempt in range(4):
+                if STOP_EVENT.is_set() or deadline_reached():
+                    return False, 0
                 try:
                     with DL_LOCK:
-                        time.sleep(0.4)
+                        time.sleep(0.12)
                     dl_req = urllib.request.Request(dl_url, headers=HEADERS)
                     with urllib.request.urlopen(dl_req, timeout=180) as r, open(tmp_path, "wb") as f:
                         shutil.copyfileobj(r, f, length=262144)
@@ -362,9 +644,7 @@ def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
                 print(f"[Skip] Download failed for {rel_key}: {last_dl_err}", flush=True)
                 return False, 0
 
-            out = gdrive_run(gdrive_bin, ["mutate", "upload", str(tmp_path), "--parent", target_folder_id])
-            m = re.search(r"\(ID:\s*([A-Za-z0-9_-]+)\)", out)
-            fid = m.group(1) if m else None
+            fid = backend.upload_file(tmp_path, target_folder_id)
             if fid:
                 with DB_LOCK:
                     conn.execute(
@@ -584,12 +864,16 @@ def refresh_github_catalogs(conn):
 
     md += [
         "",
-        "## Resumable Zero-Disk Sync (For Remaining Files)",
+        "## 24/7 Cloud & Resumable Zero-Disk Sync (PC On or Off)",
         "",
-        "Because Google Drive enforces a **750 GB / 24-hour** upload limit per user and the full archive is ~2.33 TB, run `START_MAP_SYNC.bat` (or `python sync_gdrive_maps.py --workers 3`) to stream remaining files directly to Google Drive without filling local disk storage and automatically refresh the Drive links above:",
+        "Because Google Drive enforces a **750 GB / 24-hour** upload limit per user and the full archive is ~2.33 TB, you can run this sync either in the cloud or locally without consuming disk space:",
+        "",
+        "- **24/7 Cloud (PC Off):** [`.github/workflows/mouza-drive-sync.yml`](../../.github/workflows/mouza-drive-sync.yml) runs automatically on GitHub Actions every 6 hours and updates all Drive links on `main`. Run `SETUP_CLOUD_SYNC.bat` once to authorize `GDRIVE_OAUTH_JSON`.",
+        "- **1-Click Google Colab:** Open [`Google_Colab_Mouza_Sync.ipynb`](./Google_Colab_Mouza_Sync.ipynb) for browser-based cloud syncing using `google.colab.auth`.",
+        "- **Fast Local PC Sync:** Double-click `RESUME_MOUZA_SYNC.bat` (or run the command below) to resume with 8 parallel workers:",
         "",
         "```bash",
-        "python sync_gdrive_maps.py --workers 3 --limit-gb 700 --refresh-github",
+        "python sync_gdrive_maps.py --workers 8 --limit-gb 0 --continuous --refresh-github --auto-push-github",
         "```",
     ]
     (REPO_MAPS_DIR / "README.md").write_text("\n".join(md) + "\n", encoding="utf-8")
@@ -612,6 +896,22 @@ def auto_push_github_maps(conn):
             cwd=str(repo_root),
             check=True,
         )
+        for attempt in range(3):
+            push_res = subprocess.run(["git", "push", "origin", "main"], cwd=str(repo_root), capture_output=True, text=True, encoding="utf-8")
+            if push_res.returncode == 0:
+                print(f"[GitHub] Pushed updated land/maps catalogs ({done_cnt:,} uploaded).", flush=True)
+                return
+            pull_res = subprocess.run(
+                ["git", "pull", "--rebase", "--autostash", "-X", "theirs", "origin", "main"],
+                cwd=str(repo_root),
+                capture_output=True,
+                text=True,
+                encoding="utf-8",
+            )
+            if pull_res.returncode != 0:
+                subprocess.run(["git", "rebase", "--abort"], cwd=str(repo_root), capture_output=True)
+                raise RuntimeError(f"git pull --rebase failed: {pull_res.stderr or push_res.stderr}")
+            time.sleep(2 * (attempt + 1))
         subprocess.run(["git", "push", "origin", "main"], cwd=str(repo_root), check=True)
         print(f"[GitHub] Pushed updated land/maps catalogs ({done_cnt:,} uploaded).", flush=True)
     except Exception as exc:
@@ -619,6 +919,7 @@ def auto_push_github_maps(conn):
 
 
 def main():
+    global DEADLINE_TS
     parser = argparse.ArgumentParser(description="Zero-disk sync of Mouza Maps to Google Drive + GitHub links.")
     parser.add_argument("--db", type=Path, default=DEFAULT_DB_PATH)
     parser.add_argument("--division", type=str, default=None, help="Filter by division (e.g. Dhaka)")
@@ -626,11 +927,14 @@ def main():
     parser.add_argument("--workers", type=int, default=3)
     parser.add_argument("--limit-files", type=int, default=0, help="Max files to upload in this run (0 = no limit)")
     parser.add_argument("--limit-gb", type=float, default=700.0, help="Stop cleanly after uploading N GB per cycle (default 700 GB for Drive 750 GB/day cap; 0 = unlimited until quota)")
+    parser.add_argument("--limit-minutes", type=float, default=0.0, help="Stop cleanly after N minutes so scheduled CI runs can commit and exit gracefully")
     parser.add_argument("--refresh-github", action="store_true", help="Regenerate GitHub JSONs and README with Drive links")
     parser.add_argument("--refresh-only", action="store_true", help="Only regenerate GitHub JSONs and README from existing DB without uploading")
     parser.add_argument("--continuous", action="store_true", help="Wait across 24h Google Drive upload quota windows and resume automatically until all files are uploaded")
-    parser.add_argument("--auto-push-github", action="store_true", help="Automatically commit and push updated land/maps catalogs every 250 files and on quota pause")
+    parser.add_argument("--auto-push-github", action="store_true", help="Automatically commit and push updated land/maps catalogs every 250 files and on quota/time pause")
     args = parser.parse_args()
+
+    DEADLINE_TS = (time.monotonic() + args.limit_minutes * 60.0) if args.limit_minutes > 0 else None
 
     conn = init_db(args.db)
     total = seed_db_from_catalog(conn)
@@ -641,7 +945,7 @@ def main():
         conn.close()
         return
 
-    gdrive_bin = find_gdrive()
+    backend = create_gdrive_backend()
 
     where = ["status != 'uploaded'"]
     params = []
@@ -687,6 +991,9 @@ def main():
             for (d_idx, div, fparts), items in groups.items():
                 if STOP_EVENT.is_set():
                     break
+                if deadline_reached():
+                    print(f"Reached --limit-minutes ({args.limit_minutes:g} min). Stopping cleanly to save progress.", flush=True)
+                    break
                 if args.limit_files and uploaded_total_files >= args.limit_files:
                     break
                 if limit_bytes and cycle_bytes >= limit_bytes:
@@ -696,7 +1003,7 @@ def main():
                     rem = args.limit_files - uploaded_total_files
                     items = items[:rem]
 
-                c, b = sync_folder_group(conn, gdrive_bin, (d_idx, div, list(fparts), items), workers=args.workers)
+                c, b = sync_folder_group(conn, backend, (d_idx, div, list(fparts), items), workers=args.workers)
                 uploaded_total_files += c
                 cycle_files += c
                 cycle_bytes += b
@@ -717,6 +1024,8 @@ def main():
             elif args.refresh_github:
                 refresh_github_catalogs(conn)
 
+            if deadline_reached():
+                break
             if args.limit_files and uploaded_total_files >= args.limit_files:
                 break
             if not args.continuous:
@@ -725,8 +1034,12 @@ def main():
             # Daily quota hit or cycle limit reached — sleep 6 hours in 30-min intervals before resuming
             print("[QuotaWait] Google Drive daily quota or cycle limit reached. Sleeping 6h (polling every 30m) before resuming...", flush=True)
             for mins in range(0, 360, 30):
+                if deadline_reached():
+                    break
                 print(f"[QuotaWait] Sleeping {mins}/360 min before next Drive upload cycle...", flush=True)
                 time.sleep(1800)
+            if deadline_reached():
+                break
     finally:
         if args.refresh_github:
             refresh_github_catalogs(conn)

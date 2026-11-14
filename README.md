@@ -9,7 +9,7 @@ Explore structured Bangladesh datasets covering geography, banking, education, h
 [![Formats](https://img.shields.io/badge/Data-JSON%20%7C%20CSV%20%7C%20PDF-blue.svg)](#)
 [![Country](https://img.shields.io/badge/Country-Bangladesh-green.svg)](#)
 
-**Repository:** [salman-anik/Bangladesh-Biggest-Public-Database](https://github.com/salman-anik/Bangladesh-Biggest-Public-Database)
+**Repository:** [salman-anik/Bangladesh-Biggest-Public-Database](https://github.com/salman-anik/Bangladesh-Biggest-Public-Database) | **Live Visualizer (Next.js on Vercel):** [bangladesh-biggest-public-database.vercel.app](https://bangladesh-biggest-public-database.vercel.app)
 
 ---
 

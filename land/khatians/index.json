@@ -1,9 +1,9 @@
 {
   "title": "Bangladesh Khatians Dataset - Nationwide Catalog (All 8 Divisions)",
-  "total_records": 83455,
+  "total_records": 93953,
   "total_divisions": 8,
-  "total_districts": 43,
-  "total_upazilas": 91,
+  "total_districts": 61,
+  "total_upazilas": 515,
   "divisions": [
     "Barishal",
     "Chattogram",
@@ -16,6 +16,116 @@
   ],
   "hierarchy": "division > district > upazila.json",
   "partitions": [
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barguna",
+      "district_bn": "বরগুনা",
+      "upazila_en": "AMTALI",
+      "upazila_bn": "আমতলী",
+      "record_count": 25,
+      "file_path": "Barishal/Barguna/AMTALI.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barguna",
+      "district_bn": "বরগুনা",
+      "upazila_en": "BAMNA",
+      "upazila_bn": "বামনা",
+      "record_count": 25,
+      "file_path": "Barishal/Barguna/BAMNA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barguna",
+      "district_bn": "বরগুনা",
+      "upazila_en": "BARGUNA SADAR",
+      "upazila_bn": "বরগুনা সদর",
+      "record_count": 25,
+      "file_path": "Barishal/Barguna/BARGUNA SADAR.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barguna",
+      "district_bn": "বরগুনা",
+      "upazila_en": "BETAGI",
+      "upazila_bn": "বেতাগী",
+      "record_count": 25,
+      "file_path": "Barishal/Barguna/BETAGI.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barguna",
+      "district_bn": "বরগুনা",
+      "upazila_en": "PATHARGHATA",
+      "upazila_bn": "পাথরঘাটা",
+      "record_count": 25,
+      "file_path": "Barishal/Barguna/PATHARGHATA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barguna",
+      "district_bn": "বরগুনা",
+      "upazila_en": "TALTALI",
+      "upazila_bn": "তালতলী",
+      "record_count": 25,
+      "file_path": "Barishal/Barguna/TALTALI.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "AGAILJHARA",
+      "upazila_bn": "আগৈলঝাড়া",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/AGAILJHARA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "BABUGANJ",
+      "upazila_bn": "বাবুগঞ্জ",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/BABUGANJ.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "BAKERGANJ",
+      "upazila_bn": "বাকেরগঞ্জ",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/BAKERGANJ.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "BANARI PARA",
+      "upazila_bn": "বানারী পাড়া",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/BANARI PARA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "BARISAL SADAR (KOTWALI)",
+      "upazila_bn": "বরিশাল সদর",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/BARISAL SADAR (KOTWALI).json"
+    },
     {
       "division_en": "Barishal",
       "division_bn": "বরিশাল",
@@ -39,12 +149,122 @@
     {
       "division_en": "Barishal",
       "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "GAURNADI",
+      "upazila_bn": "গৌরনদী",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/GAURNADI.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "HIZLA",
+      "upazila_bn": "হিজলা",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/HIZLA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "MEHENDIGANJ",
+      "upazila_bn": "মেহেন্দীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/MEHENDIGANJ.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "MULADI",
+      "upazila_bn": "মুলাদী",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/MULADI.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Barishal",
+      "district_bn": "বরিশাল",
+      "upazila_en": "UJIRPUR",
+      "upazila_bn": "উজিরপুর",
+      "record_count": 25,
+      "file_path": "Barishal/Barishal/UJIRPUR.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Bhola",
+      "district_bn": "ভোলা",
+      "upazila_en": "BORHANUDDIN",
+      "upazila_bn": "বোরহানউদ্দীন",
+      "record_count": 25,
+      "file_path": "Barishal/Bhola/BORHANUDDIN.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
       "district_en": "Bhola",
       "district_bn": "ভোলা",
       "upazila_en": "Bhola Sadar",
       "upazila_bn": "ভোলা সদর",
       "record_count": 25,
       "file_path": "Barishal/Bhola/Bhola Sadar.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Bhola",
+      "district_bn": "ভোলা",
+      "upazila_en": "CHAR FASSON",
+      "upazila_bn": "চর ফ্যাশন",
+      "record_count": 25,
+      "file_path": "Barishal/Bhola/CHAR FASSON.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Bhola",
+      "district_bn": "ভোলা",
+      "upazila_en": "DAULAT KHAN",
+      "upazila_bn": "দৌলত খান",
+      "record_count": 25,
+      "file_path": "Barishal/Bhola/DAULAT KHAN.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Bhola",
+      "district_bn": "ভোলা",
+      "upazila_en": "LALMOHAN",
+      "upazila_bn": "লালমোহন",
+      "record_count": 25,
+      "file_path": "Barishal/Bhola/LALMOHAN.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Bhola",
+      "district_bn": "ভোলা",
+      "upazila_en": "MANPURA",
+      "upazila_bn": "মনপুরা",
+      "record_count": 25,
+      "file_path": "Barishal/Bhola/MANPURA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Bhola",
+      "district_bn": "ভোলা",
+      "upazila_en": "TAZUMUDDIN",
+      "upazila_bn": "তজুমদ্দিন",
+      "record_count": 25,
+      "file_path": "Barishal/Bhola/TAZUMUDDIN.json"
     },
     {
       "division_en": "Barishal",
@@ -69,12 +289,82 @@
     {
       "division_en": "Barishal",
       "division_bn": "বরিশাল",
+      "district_en": "Jhalokati",
+      "district_bn": "ঝালকাঠি",
+      "upazila_en": "NALCHITY",
+      "upazila_bn": "নলছিটি",
+      "record_count": 25,
+      "file_path": "Barishal/Jhalokati/NALCHITY.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Jhalokati",
+      "district_bn": "ঝালকাঠি",
+      "upazila_en": "RAJAPUR",
+      "upazila_bn": "রাজাপুর",
+      "record_count": 25,
+      "file_path": "Barishal/Jhalokati/RAJAPUR.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
       "district_en": "Patuakhali",
       "district_bn": "পটুয়াখালী",
       "upazila_en": "Bauphal",
       "upazila_bn": "বাউফল",
       "record_count": 20,
       "file_path": "Barishal/Patuakhali/Bauphal.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Patuakhali",
+      "district_bn": "পটুয়াখালী",
+      "upazila_en": "DASHMINA",
+      "upazila_bn": "দশ্‌মিনা",
+      "record_count": 25,
+      "file_path": "Barishal/Patuakhali/DASHMINA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Patuakhali",
+      "district_bn": "পটুয়াখালী",
+      "upazila_en": "DUMKI UPAZILA",
+      "upazila_bn": "দুম্‌কী",
+      "record_count": 25,
+      "file_path": "Barishal/Patuakhali/DUMKI UPAZILA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Patuakhali",
+      "district_bn": "পটুয়াখালী",
+      "upazila_en": "GALACHIPA",
+      "upazila_bn": "গলাচিপা",
+      "record_count": 25,
+      "file_path": "Barishal/Patuakhali/GALACHIPA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Patuakhali",
+      "district_bn": "পটুয়াখালী",
+      "upazila_en": "KALA PARA",
+      "upazila_bn": "কলাপাড়া",
+      "record_count": 25,
+      "file_path": "Barishal/Patuakhali/KALA PARA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Patuakhali",
+      "district_bn": "পটুয়াখালী",
+      "upazila_en": "MIRZAGANJ UPAZILA",
+      "upazila_bn": "মির্জাগঞ্জ",
+      "record_count": 25,
+      "file_path": "Barishal/Patuakhali/MIRZAGANJ UPAZILA.json"
     },
     {
       "division_en": "Barishal",
@@ -111,10 +401,340 @@
       "division_bn": "বরিশাল",
       "district_en": "Pirojpur",
       "district_bn": "পিরোজপুর",
+      "upazila_en": "Indurkani",
+      "upazila_bn": "ইন্দুরকানী",
+      "record_count": 25,
+      "file_path": "Barishal/Pirojpur/Indurkani.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Pirojpur",
+      "district_bn": "পিরোজপুর",
       "upazila_en": "Kawkhali",
       "upazila_bn": "কাউখালী",
       "record_count": 20,
       "file_path": "Barishal/Pirojpur/Kawkhali.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Pirojpur",
+      "district_bn": "পিরোজপুর",
+      "upazila_en": "MATHBARIA",
+      "upazila_bn": "মঠবাড়িয়া",
+      "record_count": 25,
+      "file_path": "Barishal/Pirojpur/MATHBARIA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Pirojpur",
+      "district_bn": "পিরোজপুর",
+      "upazila_en": "NAZIRPUR UPAZILA",
+      "upazila_bn": "নাজিরপুর",
+      "record_count": 25,
+      "file_path": "Barishal/Pirojpur/NAZIRPUR UPAZILA.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Pirojpur",
+      "district_bn": "পিরোজপুর",
+      "upazila_en": "NESARABAD (SWARUPKATI)",
+      "upazila_bn": "নেছারাবাদ",
+      "record_count": 25,
+      "file_path": "Barishal/Pirojpur/NESARABAD (SWARUPKATI).json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Pirojpur",
+      "district_bn": "পিরোজপুর",
+      "upazila_en": "PIROJPUR SADAR",
+      "upazila_bn": "পিরোজপুর সদর",
+      "record_count": 25,
+      "file_path": "Barishal/Pirojpur/PIROJPUR SADAR.json"
+    },
+    {
+      "division_en": "Barishal",
+      "division_bn": "বরিশাল",
+      "district_en": "Pirojpur",
+      "district_bn": "পিরোজপুর",
+      "upazila_en": "Swarupkathi",
+      "upazila_bn": "নেছারাবাদ (স্বরূপকাঠি)",
+      "record_count": 27385,
+      "file_path": "Barishal/Pirojpur/Swarupkathi.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "AKHAURA",
+      "upazila_bn": "আখাউড়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/AKHAURA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "ASHUGANJ",
+      "upazila_bn": "আশুগঞ্জ",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/ASHUGANJ.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "BANCHHARAMPUR",
+      "upazila_bn": "বাঞ্ছারামপুর",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/BANCHHARAMPUR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "BIJOYNAGAR",
+      "upazila_bn": "বিজয়নগর",
+      "record_count": 14,
+      "file_path": "Chattogram/Brahmanbaria/BIJOYNAGAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "BRAHMANBARIA SADAR",
+      "upazila_bn": "ব্রাক্ষ্মণবাড়িয়া সদর",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/BRAHMANBARIA SADAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "KASBA",
+      "upazila_bn": "কস্‌বা",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/KASBA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "NABINAGAR",
+      "upazila_bn": "নবীনগর",
+      "record_count": 17,
+      "file_path": "Chattogram/Brahmanbaria/NABINAGAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "NASIRNAGAR",
+      "upazila_bn": "নাসিরনগর",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/NASIRNAGAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Brahmanbaria",
+      "district_bn": "ব্রাহ্মণবাড়িয়া",
+      "upazila_en": "SARAIL",
+      "upazila_bn": "সরাইল",
+      "record_count": 25,
+      "file_path": "Chattogram/Brahmanbaria/SARAIL.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "CHANDPUR SADAR",
+      "upazila_bn": "চাঁদপুর সদর",
+      "record_count": 25,
+      "file_path": "Chattogram/Chandpur/CHANDPUR SADAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "FARIDGANJ",
+      "upazila_bn": "ফরিদগঞ্জ",
+      "record_count": 7,
+      "file_path": "Chattogram/Chandpur/FARIDGANJ.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "HAIMCHAR",
+      "upazila_bn": "হাইমচর",
+      "record_count": 25,
+      "file_path": "Chattogram/Chandpur/HAIMCHAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "HAJIGANJ",
+      "upazila_bn": "হাজীগঞ্জ",
+      "record_count": 29,
+      "file_path": "Chattogram/Chandpur/HAJIGANJ.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "KACHUA",
+      "upazila_bn": "কচুয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Chandpur/KACHUA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "MATLAB DAKSHIN",
+      "upazila_bn": "মতলব দক্ষিণ",
+      "record_count": 30,
+      "file_path": "Chattogram/Chandpur/MATLAB DAKSHIN.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "MATLAB UTTAR",
+      "upazila_bn": "মতলব উত্তর",
+      "record_count": 25,
+      "file_path": "Chattogram/Chandpur/MATLAB UTTAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "upazila_en": "SHAHRASTI",
+      "upazila_bn": "শাহরাস্তি",
+      "record_count": 43,
+      "file_path": "Chattogram/Chandpur/SHAHRASTI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "ANWARA",
+      "upazila_bn": "আনোয়ারা",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/ANWARA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "Agrabad Revenue Circle",
+      "upazila_bn": "আগ্রাবাদ রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/Agrabad Revenue Circle.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "BANSHKHALI",
+      "upazila_bn": "বাঁশখালী",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/BANSHKHALI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "BOALKHALI",
+      "upazila_bn": "বোয়ালখালী",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/BOALKHALI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "Bakalia Revenue Circle",
+      "upazila_bn": "বাকলিয়া রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/Bakalia Revenue Circle.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "CHANDANAISH",
+      "upazila_bn": "চন্দনাইশ",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/CHANDANAISH.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "Chandagao Revenue Circle",
+      "upazila_bn": "চান্দগাঁও রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/Chandagao Revenue Circle.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "Chittagong Sadar Revenue Circle",
+      "upazila_bn": "চট্টগ্রাম সদর রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/Chittagong Sadar Revenue Circle.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "FATIKCHHARI",
+      "upazila_bn": "ফটিকছড়ি",
+      "record_count": 4,
+      "file_path": "Chattogram/Chattogram/FATIKCHHARI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "HATHAZARI",
+      "upazila_bn": "হাটহাজারী",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/HATHAZARI.json"
     },
     {
       "division_en": "Chattogram",
@@ -131,10 +751,140 @@
       "division_bn": "চট্টগ্রাম",
       "district_en": "Chattogram",
       "district_bn": "চট্টগ্রাম",
+      "upazila_en": "KARNAFULI",
+      "upazila_bn": "কর্ণফুলী",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/KARNAFULI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "Kattali Revenue Circle",
+      "upazila_bn": "কাট্টলী রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/Kattali Revenue Circle.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "LOHAGARA",
+      "upazila_bn": "লোহাগাড়া",
+      "record_count": 40,
+      "file_path": "Chattogram/Chattogram/LOHAGARA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "MIRSHARAI",
+      "upazila_bn": "মীরসরাই",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/MIRSHARAI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "PATIYA",
+      "upazila_bn": "পটিয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/PATIYA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "Patenga Revenue Circle",
+      "upazila_bn": "পতেঙ্গা রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/Patenga Revenue Circle.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "RANGUNIA",
+      "upazila_bn": "রাঙ্গুনীয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/RANGUNIA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "RAOZAN",
+      "upazila_bn": "রাউজান",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/RAOZAN.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "SANDWIP",
+      "upazila_bn": "সন্দ্বীপ",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/SANDWIP.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "SATKANIA",
+      "upazila_bn": "সাতকানীয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/SATKANIA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "upazila_en": "SITAKUNDA",
+      "upazila_bn": "সীতাকুন্ড",
+      "record_count": 25,
+      "file_path": "Chattogram/Chattogram/SITAKUNDA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
       "upazila_en": "Sitakunda",
       "upazila_bn": "সীতাকুন্ড",
       "record_count": 25,
       "file_path": "Chattogram/Chattogram/Sitakunda.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "CHAKARIA",
+      "upazila_bn": "চকরিয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/CHAKARIA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "COXS BAZAR SADAR",
+      "upazila_bn": "কক্সবাজার সদর",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/COXS BAZAR SADAR.json"
     },
     {
       "division_en": "Chattogram",
@@ -149,6 +899,146 @@
     {
       "division_en": "Chattogram",
       "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "KUTUBDIA",
+      "upazila_bn": "কুতুবদিয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/KUTUBDIA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "MAHESHKHALI",
+      "upazila_bn": "মহেশখালী",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/MAHESHKHALI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "Matamuhuri",
+      "upazila_bn": "মাতামুহুরী",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/Matamuhuri.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "PEKUA",
+      "upazila_bn": "পেকুয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/PEKUA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "RAMU",
+      "upazila_bn": "রামু",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/RAMU.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "TEKNAF",
+      "upazila_bn": "টেক্‌নাফ",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/TEKNAF.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Coxs Bazar",
+      "district_bn": "কক্সবাজার",
+      "upazila_en": "UKHIA",
+      "upazila_bn": "উখিয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Coxs Bazar/UKHIA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "ADARSHA SADAR",
+      "upazila_bn": "আদর্শ সদর",
+      "record_count": 30,
+      "file_path": "Chattogram/Cumilla/ADARSHA SADAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "BARURA",
+      "upazila_bn": "বরুড়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/BARURA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "BRAHMANPARA",
+      "upazila_bn": "ব্রাক্ষ্মণপাড়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/BRAHMANPARA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "BURICHANG",
+      "upazila_bn": "বুড়িচং",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/BURICHANG.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "CHANDINA",
+      "upazila_bn": "চান্দিনা",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/CHANDINA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "CHAUDDAGRAM",
+      "upazila_bn": "চৌদ্দগ্রাম",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/CHAUDDAGRAM.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "COMILLA SADAR DAKSHIN",
+      "upazila_bn": "কুমিল্লা সদর দক্ষিণ",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/COMILLA SADAR DAKSHIN.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
       "district_en": "Cumilla",
       "district_bn": "কুমিল্লা",
       "upazila_en": "Cumilla Sadar",
@@ -159,12 +1049,162 @@
     {
       "division_en": "Chattogram",
       "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "DAUDKANDI",
+      "upazila_bn": "দাউদকান্দি",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/DAUDKANDI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "DEBIDWAR",
+      "upazila_bn": "দেবিদ্বার",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/DEBIDWAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "HOMNA",
+      "upazila_bn": "হোমনা",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/HOMNA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "LAKSAM",
+      "upazila_bn": "লাকসাম",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/LAKSAM.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "Lalmai",
+      "upazila_bn": "লালমাই",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/Lalmai.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "MANOHARGANJ",
+      "upazila_bn": "মনোহরগঞ্জ",
+      "record_count": 48,
+      "file_path": "Chattogram/Cumilla/MANOHARGANJ.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "MEGHNA",
+      "upazila_bn": "মেঘনা",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/MEGHNA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "MURADNAGAR",
+      "upazila_bn": "মুরাদনগর",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/MURADNAGAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "NANGALKOT",
+      "upazila_bn": "নাঙ্গলকোট",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/NANGALKOT.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "upazila_en": "TITAS",
+      "upazila_bn": "তিতাস",
+      "record_count": 25,
+      "file_path": "Chattogram/Cumilla/TITAS.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Feni",
+      "district_bn": "ফেনী",
+      "upazila_en": "CHHAGALNAIYA",
+      "upazila_bn": "ছাগলনাইয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Feni/CHHAGALNAIYA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Feni",
+      "district_bn": "ফেনী",
+      "upazila_en": "DAGANBHUIYAN",
+      "upazila_bn": "দাগনভূঞাঁ",
+      "record_count": 25,
+      "file_path": "Chattogram/Feni/DAGANBHUIYAN.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Feni",
+      "district_bn": "ফেনী",
+      "upazila_en": "FULGAZI",
+      "upazila_bn": "ফুলগাজী",
+      "record_count": 25,
+      "file_path": "Chattogram/Feni/FULGAZI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
       "district_en": "Feni",
       "district_bn": "ফেনী",
       "upazila_en": "Feni Sadar",
       "upazila_bn": "ফেনী সদর",
       "record_count": 25,
       "file_path": "Chattogram/Feni/Feni Sadar.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Feni",
+      "district_bn": "ফেনী",
+      "upazila_en": "PARSHURAM",
+      "upazila_bn": "পরশুরাম",
+      "record_count": 25,
+      "file_path": "Chattogram/Feni/PARSHURAM.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Feni",
+      "district_bn": "ফেনী",
+      "upazila_en": "SONAGAZI",
+      "upazila_bn": "সোনাগাজী",
+      "record_count": 25,
+      "file_path": "Chattogram/Feni/SONAGAZI.json"
     },
     {
       "division_en": "Chattogram",
@@ -189,6 +1229,36 @@
     {
       "division_en": "Chattogram",
       "division_bn": "চট্টগ্রাম",
+      "district_en": "Lakshmipur",
+      "district_bn": "লক্ষ্মীপুর",
+      "upazila_en": "RAMGANJ",
+      "upazila_bn": "রামগঞ্জ",
+      "record_count": 25,
+      "file_path": "Chattogram/Lakshmipur/RAMGANJ.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Lakshmipur",
+      "district_bn": "লক্ষ্মীপুর",
+      "upazila_en": "RAMGATI",
+      "upazila_bn": "রামগতি",
+      "record_count": 25,
+      "file_path": "Chattogram/Lakshmipur/RAMGATI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Lakshmipur",
+      "district_bn": "লক্ষ্মীপুর",
+      "upazila_en": "ROYPUR",
+      "upazila_bn": "রায়পুর",
+      "record_count": 25,
+      "file_path": "Chattogram/Lakshmipur/ROYPUR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
       "district_en": "Noakhali",
       "district_bn": "নোয়াখালী",
       "upazila_en": "Begumganj",
@@ -201,10 +1271,140 @@
       "division_bn": "চট্টগ্রাম",
       "district_en": "Noakhali",
       "district_bn": "নোয়াখালী",
+      "upazila_en": "COMPANIGANJ",
+      "upazila_bn": "কোম্পানীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Chattogram/Noakhali/COMPANIGANJ.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
       "upazila_en": "Chatkhil",
       "upazila_bn": "চাট্‌খিল",
       "record_count": 20,
       "file_path": "Chattogram/Noakhali/Chatkhil.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
+      "upazila_en": "HATIYA",
+      "upazila_bn": "হাতিয়া",
+      "record_count": 25,
+      "file_path": "Chattogram/Noakhali/HATIYA.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
+      "upazila_en": "KABIRHAT",
+      "upazila_bn": "কবিরহাট",
+      "record_count": 25,
+      "file_path": "Chattogram/Noakhali/KABIRHAT.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
+      "upazila_en": "NOAKHALI SADAR",
+      "upazila_bn": "নোয়াখালী সদর",
+      "record_count": 32,
+      "file_path": "Chattogram/Noakhali/NOAKHALI SADAR.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
+      "upazila_en": "SENBAGH",
+      "upazila_bn": "সেনবাগ",
+      "record_count": 5,
+      "file_path": "Chattogram/Noakhali/SENBAGH.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
+      "upazila_en": "SONAIMURI",
+      "upazila_bn": "সোনাইমুড়ী",
+      "record_count": 25,
+      "file_path": "Chattogram/Noakhali/SONAIMURI.json"
+    },
+    {
+      "division_en": "Chattogram",
+      "division_bn": "চট্টগ্রাম",
+      "district_en": "Noakhali",
+      "district_bn": "নোয়াখালী",
+      "upazila_en": "SUBARNACHAR",
+      "upazila_bn": "সুবর্ণচর",
+      "record_count": 25,
+      "file_path": "Chattogram/Noakhali/SUBARNACHAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Amin Bazar Revenue Circle",
+      "upazila_bn": "আমিন বাজার রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Amin Bazar Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Ashulia Revenue Circle",
+      "upazila_bn": "আশুলিয়া রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Ashulia Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Cantonment Revenue Circle",
+      "upazila_bn": "ক্যান্টনমেন্ট রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Cantonment Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "DHAMRAI",
+      "upazila_bn": "ধামরাই",
+      "record_count": 20,
+      "file_path": "Dhaka/Dhaka/DHAMRAI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "DOHAR",
+      "upazila_bn": "দোহার",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/DOHAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Demra Revenue Circle",
+      "upazila_bn": "ডেমরা রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Demra Revenue Circle.json"
     },
     {
       "division_en": "Dhaka",
@@ -221,10 +1421,170 @@
       "division_bn": "ঢাকা",
       "district_en": "Dhaka",
       "district_bn": "ঢাকা",
+      "upazila_en": "Dhanmondi Revenue Circle",
+      "upazila_bn": "ধানমন্ডি রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Dhanmondi Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Gulshan Revenue Circle",
+      "upazila_bn": "গুলশান রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Gulshan Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "KERANIGANJ",
+      "upazila_bn": "কেরানীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/KERANIGANJ.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Keraniganj South Revenue Circle",
+      "upazila_bn": "কেরানীগঞ্জ দক্ষিন রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Keraniganj South Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Kutawali Revenue Circle",
+      "upazila_bn": "কোতয়ালী রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Kutawali Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Lalbagh Revenue Circle",
+      "upazila_bn": "লালবাগ রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Lalbagh Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Matijeel Revenue Circle",
+      "upazila_bn": "মতিঝিল রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Matijeel Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Mirpur Revenue Circle",
+      "upazila_bn": "মিরপুর রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Mirpur Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Mohammedpur Revenue Circle",
+      "upazila_bn": "মোহাম্মদপুর রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Mohammedpur Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "NAWABGANJ",
+      "upazila_bn": "নবাবগঞ্জ",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/NAWABGANJ.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Ramna Revenue Circle",
+      "upazila_bn": "রমনা রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Ramna Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
       "upazila_en": "Savar",
       "upazila_bn": "সাভার",
       "record_count": 25,
       "file_path": "Dhaka/Dhaka/Savar.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "district_bn": "ঢাকা",
+      "upazila_en": "Tejgao Revenue Circle",
+      "upazila_bn": "তেজগাঁও রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Dhaka/Tejgao Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "ALFADANGA",
+      "upazila_bn": "আলফাডাঙ্গা",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/ALFADANGA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "BHANGA",
+      "upazila_bn": "ভাংগা",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/BHANGA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "BOALMARI",
+      "upazila_bn": "বোয়ালমারী",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/BOALMARI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "CHAR BHADRASAN",
+      "upazila_bn": "চর ভদ্রাসন",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/CHAR BHADRASAN.json"
     },
     {
       "division_en": "Dhaka",
@@ -239,6 +1599,86 @@
     {
       "division_en": "Dhaka",
       "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "MADHUKHALI",
+      "upazila_bn": "মধুখালী",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/MADHUKHALI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "NAGARKANDA",
+      "upazila_bn": "নগরকান্দা",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/NAGARKANDA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "SADARPUR",
+      "upazila_bn": "সদরপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/SADARPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "upazila_en": "SALTHA",
+      "upazila_bn": "সালথা",
+      "record_count": 25,
+      "file_path": "Dhaka/Faridpur/SALTHA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "upazila_en": "GAZIPUR SADAR",
+      "upazila_bn": "গাজীপুর সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Gazipur/GAZIPUR SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "upazila_en": "KALIAKAIR",
+      "upazila_bn": "কালিয়াকৈর",
+      "record_count": 20,
+      "file_path": "Dhaka/Gazipur/KALIAKAIR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "upazila_en": "KALIGANJ",
+      "upazila_bn": "কালীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Dhaka/Gazipur/KALIGANJ.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "upazila_en": "KAPASIA",
+      "upazila_bn": "কাপাসিয়া",
+      "record_count": 25,
+      "file_path": "Dhaka/Gazipur/KAPASIA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
       "district_en": "Gazipur",
       "district_bn": "গাজীপুর",
       "upazila_en": "Kaliakair",
@@ -249,12 +1689,532 @@
     {
       "division_en": "Dhaka",
       "division_bn": "ঢাকা",
+      "district_en": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "upazila_en": "SREEPUR",
+      "upazila_bn": "শ্রীপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Gazipur/SREEPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "upazila_en": "Tangi Revenue Circle",
+      "upazila_bn": "টংঙ্গি রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Gazipur/Tangi Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gopalganj",
+      "district_bn": "গোপালগঞ্জ",
+      "upazila_en": "GOPALGANJ SADAR",
+      "upazila_bn": "গোপালগঞ্জ সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Gopalganj/GOPALGANJ SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gopalganj",
+      "district_bn": "গোপালগঞ্জ",
+      "upazila_en": "KASHIANI",
+      "upazila_bn": "কাশিয়ানী",
+      "record_count": 25,
+      "file_path": "Dhaka/Gopalganj/KASHIANI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gopalganj",
+      "district_bn": "গোপালগঞ্জ",
+      "upazila_en": "KOTALIPARA",
+      "upazila_bn": "কোটালীপাড়া",
+      "record_count": 25,
+      "file_path": "Dhaka/Gopalganj/KOTALIPARA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gopalganj",
+      "district_bn": "গোপালগঞ্জ",
+      "upazila_en": "MUKSUDPUR",
+      "upazila_bn": "মুকসুদপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Gopalganj/MUKSUDPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Gopalganj",
+      "district_bn": "গোপালগঞ্জ",
+      "upazila_en": "TUNGIPARA",
+      "upazila_bn": "টুংগীপাড়া",
+      "record_count": 25,
+      "file_path": "Dhaka/Gopalganj/TUNGIPARA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "AUSTAGRAM",
+      "upazila_bn": "অষ্টগ্রাম",
+      "record_count": 8,
+      "file_path": "Dhaka/Kishoreganj/AUSTAGRAM.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "BAJITPUR",
+      "upazila_bn": "বাজিতপুর",
+      "record_count": 9,
+      "file_path": "Dhaka/Kishoreganj/BAJITPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "BHAIRAB",
+      "upazila_bn": "ভৈরব",
+      "record_count": 6,
+      "file_path": "Dhaka/Kishoreganj/BHAIRAB.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "HOSSAINPUR",
+      "upazila_bn": "হোসেনপুর",
+      "record_count": 4,
+      "file_path": "Dhaka/Kishoreganj/HOSSAINPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "ITNA",
+      "upazila_bn": "ইটনা",
+      "record_count": 2,
+      "file_path": "Dhaka/Kishoreganj/ITNA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "KARIMGANJ",
+      "upazila_bn": "করিমগঞ্জ",
+      "record_count": 21,
+      "file_path": "Dhaka/Kishoreganj/KARIMGANJ.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "KATIADI",
+      "upazila_bn": "কটিয়াদী",
+      "record_count": 22,
+      "file_path": "Dhaka/Kishoreganj/KATIADI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "KISHOREGANJ SADAR",
+      "upazila_bn": "কিশোরগঞ্জ সদর",
+      "record_count": 2,
+      "file_path": "Dhaka/Kishoreganj/KISHOREGANJ SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "KULIAR CHAR",
+      "upazila_bn": "কুলিয়ারচর",
+      "record_count": 25,
+      "file_path": "Dhaka/Kishoreganj/KULIAR CHAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "MITHAMAIN",
+      "upazila_bn": "মিঠামইন",
+      "record_count": 2,
+      "file_path": "Dhaka/Kishoreganj/MITHAMAIN.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "NIKLI",
+      "upazila_bn": "নিকলী",
+      "record_count": 3,
+      "file_path": "Dhaka/Kishoreganj/NIKLI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "PAKUNDIA",
+      "upazila_bn": "পাকুন্দিয়া",
+      "record_count": 11,
+      "file_path": "Dhaka/Kishoreganj/PAKUNDIA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Kishoreganj",
+      "district_bn": "কিশোরগঞ্জ",
+      "upazila_en": "TARAIL",
+      "upazila_bn": "তাড়াইল",
+      "record_count": 26,
+      "file_path": "Dhaka/Kishoreganj/TARAIL.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "upazila_en": "Dasar",
+      "upazila_bn": "ডাসার",
+      "record_count": 25,
+      "file_path": "Dhaka/Madaripur/Dasar.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "upazila_en": "KALKINI",
+      "upazila_bn": "কালকিনী",
+      "record_count": 25,
+      "file_path": "Dhaka/Madaripur/KALKINI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "upazila_en": "MADARIPUR SADAR",
+      "upazila_bn": "মাদারিপুর সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Madaripur/MADARIPUR SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "upazila_en": "RAJOIR",
+      "upazila_bn": "রাজৈর",
+      "record_count": 25,
+      "file_path": "Dhaka/Madaripur/RAJOIR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "upazila_en": "SHIB CHAR",
+      "upazila_bn": "শিবচর",
+      "record_count": 25,
+      "file_path": "Dhaka/Madaripur/SHIB CHAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "DAULATPUR",
+      "upazila_bn": "দৌলতপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/DAULATPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "GHIOR",
+      "upazila_bn": "ঘিওর",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/GHIOR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "HARIRAMPUR",
+      "upazila_bn": "হরিরামপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/HARIRAMPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "MANIKGANJ SADAR",
+      "upazila_bn": "মানিকগঞ্জ সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/MANIKGANJ SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "SATURIA",
+      "upazila_bn": "সাটুরিয়া",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/SATURIA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "SHIBALAYA",
+      "upazila_bn": "শিবালয়",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/SHIBALAYA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Manikganj",
+      "district_bn": "মানিকগঞ্জ",
+      "upazila_en": "SINGAIR",
+      "upazila_bn": "সিংগাইর",
+      "record_count": 25,
+      "file_path": "Dhaka/Manikganj/SINGAIR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Munshiganj",
+      "district_bn": "মুন্সিগঞ্জ",
+      "upazila_en": "GAZARIA",
+      "upazila_bn": "গজারিয়া",
+      "record_count": 25,
+      "file_path": "Dhaka/Munshiganj/GAZARIA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Munshiganj",
+      "district_bn": "মুন্সিগঞ্জ",
+      "upazila_en": "LOHAJANG",
+      "upazila_bn": "লৌহজং",
+      "record_count": 25,
+      "file_path": "Dhaka/Munshiganj/LOHAJANG.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Munshiganj",
+      "district_bn": "মুন্সিগঞ্জ",
+      "upazila_en": "MUNSHIGANJ SADAR",
+      "upazila_bn": "মুন্সীগঞ্জ সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Munshiganj/MUNSHIGANJ SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Munshiganj",
+      "district_bn": "মুন্সিগঞ্জ",
+      "upazila_en": "SERAJDIKHAN",
+      "upazila_bn": "সিরাজদীখান",
+      "record_count": 25,
+      "file_path": "Dhaka/Munshiganj/SERAJDIKHAN.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Munshiganj",
+      "district_bn": "মুন্সিগঞ্জ",
+      "upazila_en": "SREENAGAR",
+      "upazila_bn": "শ্রীনগর",
+      "record_count": 25,
+      "file_path": "Dhaka/Munshiganj/SREENAGAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Munshiganj",
+      "district_bn": "মুন্সিগঞ্জ",
+      "upazila_en": "TONGIBARI",
+      "upazila_bn": "টঙ্গিবাড়ী",
+      "record_count": 37,
+      "file_path": "Dhaka/Munshiganj/TONGIBARI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "ARAIHAZAR",
+      "upazila_bn": "আড়াইহাজার",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/ARAIHAZAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "BANDAR",
+      "upazila_bn": "বন্দর",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/BANDAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "Fatulla Revenue Circle",
+      "upazila_bn": "ফতুল্লা রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/Fatulla Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "Kachpur Revenue Circle",
+      "upazila_bn": "কাঁচপুর রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/Kachpur Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
       "district_en": "Narayanganj",
       "district_bn": "নারায়ণগঞ্জ",
       "upazila_en": "Narayanganj Sadar",
       "upazila_bn": "নারায়ণগঞ্জ সদর",
       "record_count": 25,
       "file_path": "Dhaka/Narayanganj/Narayanganj Sadar.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "Purbachar Revenue Circle",
+      "upazila_bn": "পুর্বাচল রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/Purbachar Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "RUPGANJ",
+      "upazila_bn": "রূপগঞ্জ",
+      "record_count": 40,
+      "file_path": "Dhaka/Narayanganj/RUPGANJ.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "SONARGAON",
+      "upazila_bn": "সোনারগাঁ",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/SONARGAON.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narayanganj",
+      "district_bn": "নারায়ণগঞ্জ",
+      "upazila_en": "Shiddirganj Revenue Circle",
+      "upazila_bn": "সিদ্ধিরগঞ্জ রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Dhaka/Narayanganj/Shiddirganj Revenue Circle.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narsingdi",
+      "district_bn": "নরসিংদী",
+      "upazila_en": "BELABO",
+      "upazila_bn": "বেলাব",
+      "record_count": 25,
+      "file_path": "Dhaka/Narsingdi/BELABO.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narsingdi",
+      "district_bn": "নরসিংদী",
+      "upazila_en": "MANOHARDI",
+      "upazila_bn": "মনোহরদী",
+      "record_count": 25,
+      "file_path": "Dhaka/Narsingdi/MANOHARDI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narsingdi",
+      "district_bn": "নরসিংদী",
+      "upazila_en": "NARSINGDI SADAR",
+      "upazila_bn": "নরসিংদী সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Narsingdi/NARSINGDI SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narsingdi",
+      "district_bn": "নরসিংদী",
+      "upazila_en": "PALASH",
+      "upazila_bn": "পলাশ",
+      "record_count": 25,
+      "file_path": "Dhaka/Narsingdi/PALASH.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narsingdi",
+      "district_bn": "নরসিংদী",
+      "upazila_en": "ROYPURA",
+      "upazila_bn": "রায়পুরা",
+      "record_count": 25,
+      "file_path": "Dhaka/Narsingdi/ROYPURA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Narsingdi",
+      "district_bn": "নরসিংদী",
+      "upazila_en": "SHIBPUR",
+      "upazila_bn": "শিবপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Narsingdi/SHIBPUR.json"
     },
     {
       "division_en": "Dhaka",
@@ -271,10 +2231,40 @@
       "division_bn": "ঢাকা",
       "district_en": "Rajbari",
       "district_bn": "রাজবাড়ী",
+      "upazila_en": "GOALANDA",
+      "upazila_bn": "গোয়ালন্দ",
+      "record_count": 45,
+      "file_path": "Dhaka/Rajbari/GOALANDA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Rajbari",
+      "district_bn": "রাজবাড়ী",
       "upazila_en": "Kalukhali",
       "upazila_bn": "কালুখালী",
       "record_count": 20,
       "file_path": "Dhaka/Rajbari/Kalukhali.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Rajbari",
+      "district_bn": "রাজবাড়ী",
+      "upazila_en": "PANGSHA",
+      "upazila_bn": "পাংশা",
+      "record_count": 25,
+      "file_path": "Dhaka/Rajbari/PANGSHA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Rajbari",
+      "district_bn": "রাজবাড়ী",
+      "upazila_en": "RAJBARI SADAR",
+      "upazila_bn": "রাজবাড়ী সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Rajbari/RAJBARI SADAR.json"
     },
     {
       "division_en": "Dhaka",
@@ -299,6 +2289,46 @@
     {
       "division_en": "Dhaka",
       "division_bn": "ঢাকা",
+      "district_en": "Shariatpur",
+      "district_bn": "শরীয়তপুর",
+      "upazila_en": "GOSAIRHAT",
+      "upazila_bn": "গোসাইরহাট",
+      "record_count": 25,
+      "file_path": "Dhaka/Shariatpur/GOSAIRHAT.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Shariatpur",
+      "district_bn": "শরীয়তপুর",
+      "upazila_en": "NARIA",
+      "upazila_bn": "নড়িয়া",
+      "record_count": 25,
+      "file_path": "Dhaka/Shariatpur/NARIA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Shariatpur",
+      "district_bn": "শরীয়তপুর",
+      "upazila_en": "SHARIATPUR SADAR",
+      "upazila_bn": "শরিয়তপুর সদর",
+      "record_count": 25,
+      "file_path": "Dhaka/Shariatpur/SHARIATPUR SADAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Shariatpur",
+      "district_bn": "শরীয়তপুর",
+      "upazila_en": "ZANJIRA",
+      "upazila_bn": "জাজিরা",
+      "record_count": 25,
+      "file_path": "Dhaka/Shariatpur/ZANJIRA.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
       "district_en": "Tangail",
       "district_bn": "টাঙ্গাইল",
       "upazila_en": "Basail",
@@ -317,6 +2347,276 @@
       "file_path": "Dhaka/Tangail/Bhuapur.json"
     },
     {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "DELDUAR",
+      "upazila_bn": "দেলদোয়ার",
+      "record_count": 27,
+      "file_path": "Dhaka/Tangail/DELDUAR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "DHANBARI",
+      "upazila_bn": "ধনবাড়ী",
+      "record_count": 25,
+      "file_path": "Dhaka/Tangail/DHANBARI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "GHATAIL",
+      "upazila_bn": "ঘাটাইল",
+      "record_count": 40,
+      "file_path": "Dhaka/Tangail/GHATAIL.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "GOPALPUR",
+      "upazila_bn": "গোপালপুর",
+      "record_count": 26,
+      "file_path": "Dhaka/Tangail/GOPALPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "KALIHATI",
+      "upazila_bn": "কালিহাতী",
+      "record_count": 26,
+      "file_path": "Dhaka/Tangail/KALIHATI.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "MADHUPUR",
+      "upazila_bn": "মধুপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Tangail/MADHUPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "MIRZAPUR",
+      "upazila_bn": "মির্জাপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Tangail/MIRZAPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "NAGARPUR",
+      "upazila_bn": "নাগরপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Tangail/NAGARPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "SAKHIPUR",
+      "upazila_bn": "সখীপুর",
+      "record_count": 25,
+      "file_path": "Dhaka/Tangail/SAKHIPUR.json"
+    },
+    {
+      "division_en": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district_en": "Tangail",
+      "district_bn": "টাঙ্গাইল",
+      "upazila_en": "TANGAIL SADAR",
+      "upazila_bn": "টাঙ্গাইল সদর",
+      "record_count": 10,
+      "file_path": "Dhaka/Tangail/TANGAIL SADAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "BAGERHAT SADAR",
+      "upazila_bn": "বাগেরহাট সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/BAGERHAT SADAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "CHITALMARI",
+      "upazila_bn": "চিতলমারী",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/CHITALMARI.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "FAKIRHAT",
+      "upazila_bn": "ফকিরহাট",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/FAKIRHAT.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "KACHUA",
+      "upazila_bn": "কচুয়া",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/KACHUA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "MOLLAHAT",
+      "upazila_bn": "মোল্লাহাট",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/MOLLAHAT.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "MONGLA",
+      "upazila_bn": "মোংলা",
+      "record_count": 1,
+      "file_path": "Khulna/Bagerhat/MONGLA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "MORELGANJ",
+      "upazila_bn": "মোড়েলগঞ্জ",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/MORELGANJ.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "RAMPAL",
+      "upazila_bn": "রামপাল",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/RAMPAL.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Bagerhat",
+      "district_bn": "বাগেরহাট",
+      "upazila_en": "SHARANKHOLA",
+      "upazila_bn": "শরনখোলা",
+      "record_count": 25,
+      "file_path": "Khulna/Bagerhat/SHARANKHOLA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Chuadanga",
+      "district_bn": "চুয়াডাঙ্গা",
+      "upazila_en": "ALAMDANGA",
+      "upazila_bn": "আলমডাঙ্গা",
+      "record_count": 25,
+      "file_path": "Khulna/Chuadanga/ALAMDANGA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Chuadanga",
+      "district_bn": "চুয়াডাঙ্গা",
+      "upazila_en": "CHUADANGA SADAR",
+      "upazila_bn": "চুয়াডাঙ্গা সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Chuadanga/CHUADANGA SADAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Chuadanga",
+      "district_bn": "চুয়াডাঙ্গা",
+      "upazila_en": "DAMURHUDA",
+      "upazila_bn": "দামুড়হুদা",
+      "record_count": 25,
+      "file_path": "Khulna/Chuadanga/DAMURHUDA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Chuadanga",
+      "district_bn": "চুয়াডাঙ্গা",
+      "upazila_en": "JIBANNAGAR",
+      "upazila_bn": "জীবননগর",
+      "record_count": 25,
+      "file_path": "Khulna/Chuadanga/JIBANNAGAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "ABHAYNAGAR",
+      "upazila_bn": "অভয়নগর",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/ABHAYNAGAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "BAGHER PARA",
+      "upazila_bn": "বাঘেরপাড়া",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/BAGHER PARA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "CHAUGACHHA",
+      "upazila_bn": "চৌগাছা",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/CHAUGACHHA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "JHIKARGACHHA",
+      "upazila_bn": "ঝিকরগাছা",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/JHIKARGACHHA.json"
+    },
+    {
       "division_en": "Khulna",
       "division_bn": "খুলনা",
       "district_en": "Jashore",
@@ -325,6 +2625,136 @@
       "upazila_bn": "যশোর সদর",
       "record_count": 25,
       "file_path": "Khulna/Jashore/Jashore Sadar.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "Jessore Sadar",
+      "upazila_bn": "যশোর সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/Jessore Sadar.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "KESHABPUR",
+      "upazila_bn": "কেশবপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/KESHABPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "MANIRAMPUR",
+      "upazila_bn": "মনিরামপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/MANIRAMPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jashore",
+      "district_bn": "যশোর",
+      "upazila_en": "SHARSHA",
+      "upazila_bn": "শার্শা",
+      "record_count": 25,
+      "file_path": "Khulna/Jashore/SHARSHA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jhenaidah",
+      "district_bn": "ঝিনাইদহ",
+      "upazila_en": "HARINAKUNDA",
+      "upazila_bn": "হরিণাকুন্ড",
+      "record_count": 25,
+      "file_path": "Khulna/Jhenaidah/HARINAKUNDA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jhenaidah",
+      "district_bn": "ঝিনাইদহ",
+      "upazila_en": "JHENAIDAH SADAR",
+      "upazila_bn": "ঝিনাইদহ সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Jhenaidah/JHENAIDAH SADAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jhenaidah",
+      "district_bn": "ঝিনাইদহ",
+      "upazila_en": "KALIGANJ",
+      "upazila_bn": "কালীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Khulna/Jhenaidah/KALIGANJ.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jhenaidah",
+      "district_bn": "ঝিনাইদহ",
+      "upazila_en": "KOTCHANDPUR",
+      "upazila_bn": "কোটচাঁদপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Jhenaidah/KOTCHANDPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jhenaidah",
+      "district_bn": "ঝিনাইদহ",
+      "upazila_en": "MAHESHPUR",
+      "upazila_bn": "মহেশপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Jhenaidah/MAHESHPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Jhenaidah",
+      "district_bn": "ঝিনাইদহ",
+      "upazila_en": "SHAILKUPA",
+      "upazila_bn": "শৈলকুপা",
+      "record_count": 25,
+      "file_path": "Khulna/Jhenaidah/SHAILKUPA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "BATIAGHATA",
+      "upazila_bn": "বটিয়াঘাটা",
+      "record_count": 41,
+      "file_path": "Khulna/Khulna/BATIAGHATA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "DAKOP",
+      "upazila_bn": "দাকোপ",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/DAKOP.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "DUMURIA",
+      "upazila_bn": "ডুমুরিয়া",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/DUMURIA.json"
     },
     {
       "division_en": "Khulna",
@@ -341,10 +2771,110 @@
       "division_bn": "খুলনা",
       "district_en": "Khulna",
       "district_bn": "খুলনা",
+      "upazila_en": "KOYRA",
+      "upazila_bn": "কয়রা",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/KOYRA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "Khulna Sadar Revenue Circle",
+      "upazila_bn": "খুলনা সদর রাজস্ব সার্কেল",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/Khulna Sadar Revenue Circle.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "PAIKGACHHA",
+      "upazila_bn": "পাইকগাছা",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/PAIKGACHHA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "PHULTALA",
+      "upazila_bn": "ফুলতলা",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/PHULTALA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "RUPSA",
+      "upazila_bn": "রূপসা",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/RUPSA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
       "upazila_en": "Rupsha",
       "upazila_bn": "রূপসা",
       "record_count": 25,
       "file_path": "Khulna/Khulna/Rupsha.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Khulna",
+      "district_bn": "খুলনা",
+      "upazila_en": "TEROKHADA",
+      "upazila_bn": "তেরখাদা",
+      "record_count": 25,
+      "file_path": "Khulna/Khulna/TEROKHADA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "upazila_en": "BHERAMARA",
+      "upazila_bn": "ভেড়ামারা",
+      "record_count": 25,
+      "file_path": "Khulna/Kushtia/BHERAMARA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "upazila_en": "DAULATPUR",
+      "upazila_bn": "দৌলতপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Kushtia/DAULATPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "upazila_en": "KHOKSA",
+      "upazila_bn": "খোক্‌সা",
+      "record_count": 25,
+      "file_path": "Khulna/Kushtia/KHOKSA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "upazila_en": "KUMARKHALI",
+      "upazila_bn": "কুমারখালী",
+      "record_count": 25,
+      "file_path": "Khulna/Kushtia/KUMARKHALI.json"
     },
     {
       "division_en": "Khulna",
@@ -359,12 +2889,72 @@
     {
       "division_en": "Khulna",
       "division_bn": "খুলনা",
+      "district_en": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "upazila_en": "MIRPUR",
+      "upazila_bn": "মিরপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Kushtia/MIRPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Magura",
+      "district_bn": "মাগুরা",
+      "upazila_en": "MAGURA SADAR",
+      "upazila_bn": "মাগুরা সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Magura/MAGURA SADAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Magura",
+      "district_bn": "মাগুরা",
+      "upazila_en": "MOHAMMADPUR",
+      "upazila_bn": "মহম্মদপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Magura/MOHAMMADPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Magura",
+      "district_bn": "মাগুরা",
+      "upazila_en": "SHALIKHA",
+      "upazila_bn": "শালিখা",
+      "record_count": 25,
+      "file_path": "Khulna/Magura/SHALIKHA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Magura",
+      "district_bn": "মাগুরা",
+      "upazila_en": "SREEPUR",
+      "upazila_bn": "শ্রীপুর",
+      "record_count": 25,
+      "file_path": "Khulna/Magura/SREEPUR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
       "district_en": "Meherpur",
       "district_bn": "মেহেরপুর",
       "upazila_en": "Gangni",
       "upazila_bn": "গাংনী",
       "record_count": 20,
       "file_path": "Khulna/Meherpur/Gangni.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Meherpur",
+      "district_bn": "মেহেরপুর",
+      "upazila_en": "MEHERPUR SADAR",
+      "upazila_bn": "মেহেরপুর সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Meherpur/MEHERPUR SADAR.json"
     },
     {
       "division_en": "Khulna",
@@ -399,6 +2989,16 @@
     {
       "division_en": "Khulna",
       "division_bn": "খুলনা",
+      "district_en": "Narail",
+      "district_bn": "নড়াইল",
+      "upazila_en": "NARAIL SADAR",
+      "upazila_bn": "নড়াইল সদর",
+      "record_count": 25,
+      "file_path": "Khulna/Narail/NARAIL SADAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
       "district_en": "Satkhira",
       "district_bn": "সাতক্ষীরা",
       "upazila_en": "Assasuni",
@@ -421,10 +3021,80 @@
       "division_bn": "খুলনা",
       "district_en": "Satkhira",
       "district_bn": "সাতক্ষীরা",
+      "upazila_en": "KALAROA",
+      "upazila_bn": "কলারোয়া",
+      "record_count": 25,
+      "file_path": "Khulna/Satkhira/KALAROA.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Satkhira",
+      "district_bn": "সাতক্ষীরা",
+      "upazila_en": "KALIGANJ",
+      "upazila_bn": "কালীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Khulna/Satkhira/KALIGANJ.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Satkhira",
+      "district_bn": "সাতক্ষীরা",
+      "upazila_en": "SHYAMNAGAR",
+      "upazila_bn": "শ্যামনগর",
+      "record_count": 25,
+      "file_path": "Khulna/Satkhira/SHYAMNAGAR.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Satkhira",
+      "district_bn": "সাতক্ষীরা",
       "upazila_en": "Satkhira Sadar",
       "upazila_bn": "সাতক্ষীরা সদর",
       "record_count": 25,
       "file_path": "Khulna/Satkhira/Satkhira Sadar.json"
+    },
+    {
+      "division_en": "Khulna",
+      "division_bn": "খুলনা",
+      "district_en": "Satkhira",
+      "district_bn": "সাতক্ষীরা",
+      "upazila_en": "TALA",
+      "upazila_bn": "তালা",
+      "record_count": 25,
+      "file_path": "Khulna/Satkhira/TALA.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Jamalpur",
+      "district_bn": "জামালপুর",
+      "upazila_en": "BAKSHIGANJ",
+      "upazila_bn": "বক্‌শীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Mymensingh/Jamalpur/BAKSHIGANJ.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Jamalpur",
+      "district_bn": "জামালপুর",
+      "upazila_en": "DEWANGANJ",
+      "upazila_bn": "দেওয়ানগঞ্জ",
+      "record_count": 25,
+      "file_path": "Mymensingh/Jamalpur/DEWANGANJ.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Jamalpur",
+      "district_bn": "জামালপুর",
+      "upazila_en": "ISLAMPUR",
+      "upazila_bn": "ইসলামপুর",
+      "record_count": 44,
+      "file_path": "Mymensingh/Jamalpur/ISLAMPUR.json"
     },
     {
       "division_en": "Mymensingh",
@@ -439,12 +3109,162 @@
     {
       "division_en": "Mymensingh",
       "division_bn": "ময়মনসিংহ",
+      "district_en": "Jamalpur",
+      "district_bn": "জামালপুর",
+      "upazila_en": "MADARGANJ",
+      "upazila_bn": "মাদারগঞ্জ",
+      "record_count": 25,
+      "file_path": "Mymensingh/Jamalpur/MADARGANJ.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Jamalpur",
+      "district_bn": "জামালপুর",
+      "upazila_en": "MELANDAHA",
+      "upazila_bn": "মেলান্দহ",
+      "record_count": 25,
+      "file_path": "Mymensingh/Jamalpur/MELANDAHA.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Jamalpur",
+      "district_bn": "জামালপুর",
+      "upazila_en": "SARISHABARI",
+      "upazila_bn": "সরিষাবাড়ী",
+      "record_count": 25,
+      "file_path": "Mymensingh/Jamalpur/SARISHABARI.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
       "district_en": "Mymensingh",
       "district_bn": "ময়মনসিংহ",
       "upazila_en": "Bhaluka",
       "upazila_bn": "ভালুকা",
       "record_count": 56,
       "file_path": "Mymensingh/Mymensingh/Bhaluka.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "DHOBAURA",
+      "upazila_bn": "ধোবাউড়া",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/DHOBAURA.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "FULBARIA",
+      "upazila_bn": "ফুলবাড়ীয়া",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/FULBARIA.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "GAFFARGAON",
+      "upazila_bn": "গফরগাঁও",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/GAFFARGAON.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "GAURIPUR",
+      "upazila_bn": "গৌরীপুর",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/GAURIPUR.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "HALUAGHAT",
+      "upazila_bn": "হালূয়াঘাট",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/HALUAGHAT.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "ISHWARGANJ",
+      "upazila_bn": "ঈশ্বরগঞ্জ",
+      "record_count": 45,
+      "file_path": "Mymensingh/Mymensingh/ISHWARGANJ.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "MUKTAGACHHA",
+      "upazila_bn": "মুক্তাগাছা",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/MUKTAGACHHA.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "MYMENSINGH SADAR",
+      "upazila_bn": "ময়মনসিংহ সদর",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/MYMENSINGH SADAR.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "NANDAIL",
+      "upazila_bn": "নান্দাইল",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/NANDAIL.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "PHULPUR",
+      "upazila_bn": "ফুলপুর",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/PHULPUR.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "TRISHAL",
+      "upazila_bn": "ত্রিশাল",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/TRISHAL.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "district_bn": "ময়মনসিংহ",
+      "upazila_en": "Tarakanda",
+      "upazila_bn": "তারাকান্দা",
+      "record_count": 25,
+      "file_path": "Mymensingh/Mymensingh/Tarakanda.json"
     },
     {
       "division_en": "Mymensingh",
@@ -531,6 +3351,16 @@
       "division_bn": "ময়মনসিংহ",
       "district_en": "Netrakona",
       "district_bn": "নেত্রকোণা",
+      "upazila_en": "NETROKONA SADAR",
+      "upazila_bn": "নেত্রকোনা সদর",
+      "record_count": 25,
+      "file_path": "Mymensingh/Netrakona/NETROKONA SADAR.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Netrakona",
+      "district_bn": "নেত্রকোণা",
       "upazila_en": "Netrokona_Sadar",
       "upazila_bn": "নেত্রকোনা সদর",
       "record_count": 56,
@@ -581,6 +3411,16 @@
       "division_bn": "ময়মনসিংহ",
       "district_en": "Sherpur",
       "district_bn": "শেরপুর",
+      "upazila_en": "SHERPUR SADAR",
+      "upazila_bn": "শেরপুর সদর",
+      "record_count": 25,
+      "file_path": "Mymensingh/Sherpur/SHERPUR SADAR.json"
+    },
+    {
+      "division_en": "Mymensingh",
+      "division_bn": "ময়মনসিংহ",
+      "district_en": "Sherpur",
+      "district_bn": "শেরপুর",
       "upazila_en": "Sherpur_Sadar",
       "upazila_bn": "শেরপুর সদর",
       "record_count": 56,
@@ -601,10 +3441,410 @@
       "division_bn": "রাজশাহী",
       "district_en": "Bogura",
       "district_bn": "বগুড়া",
+      "upazila_en": "ADAMDIGHI",
+      "upazila_bn": "আদমদিঘী",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/ADAMDIGHI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "BOGRA SADAR",
+      "upazila_bn": "বগুড়া সদর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/BOGRA SADAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
       "upazila_en": "Bogura Sadar",
       "upazila_bn": "বগুড়া সদর",
       "record_count": 25,
       "file_path": "Rajshahi/Bogura/Bogura Sadar.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "DHUNAT",
+      "upazila_bn": "ধুনট",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/DHUNAT.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "DUPCHACHIA",
+      "upazila_bn": "দুপচাঁচিয়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/DUPCHACHIA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "GABTALI",
+      "upazila_bn": "গাবতলী",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/GABTALI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "KAHALOO",
+      "upazila_bn": "কাহালু",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/KAHALOO.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "NANDIGRAM",
+      "upazila_bn": "নন্দীগ্রাম",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/NANDIGRAM.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "SARIAKANDI",
+      "upazila_bn": "সারিয়াকান্দি",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/SARIAKANDI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "SHAJAHANPUR",
+      "upazila_bn": "শাজাহানপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/SHAJAHANPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "SHERPUR",
+      "upazila_bn": "শেরপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/SHERPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "SHIBGANJ",
+      "upazila_bn": "শিব্‌গঞ্জ",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/SHIBGANJ.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Bogura",
+      "district_bn": "বগুড়া",
+      "upazila_en": "SONATALA",
+      "upazila_bn": "সোনাতলা",
+      "record_count": 25,
+      "file_path": "Rajshahi/Bogura/SONATALA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Chapainawabganj",
+      "district_bn": "চাঁপাইনবাবগঞ্জ",
+      "upazila_en": "BHOLAHAT",
+      "upazila_bn": "ভোলাহাট",
+      "record_count": 25,
+      "file_path": "Rajshahi/Chapainawabganj/BHOLAHAT.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Chapainawabganj",
+      "district_bn": "চাঁপাইনবাবগঞ্জ",
+      "upazila_en": "CHAPAI NABABGANJ SADAR",
+      "upazila_bn": "চাঁপাই নবাবগঞ্জ সদর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Chapainawabganj/CHAPAI NABABGANJ SADAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Chapainawabganj",
+      "district_bn": "চাঁপাইনবাবগঞ্জ",
+      "upazila_en": "GOMASTAPUR",
+      "upazila_bn": "গোমস্তাপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Chapainawabganj/GOMASTAPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Chapainawabganj",
+      "district_bn": "চাঁপাইনবাবগঞ্জ",
+      "upazila_en": "NACHOLE",
+      "upazila_bn": "নাচোল",
+      "record_count": 25,
+      "file_path": "Rajshahi/Chapainawabganj/NACHOLE.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Chapainawabganj",
+      "district_bn": "চাঁপাইনবাবগঞ্জ",
+      "upazila_en": "SHIBGANJ",
+      "upazila_bn": "শিবগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rajshahi/Chapainawabganj/SHIBGANJ.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Joypurhat",
+      "district_bn": "জয়পুরহাট",
+      "upazila_en": "AKKELPUR",
+      "upazila_bn": "আক্কেলপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Joypurhat/AKKELPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Joypurhat",
+      "district_bn": "জয়পুরহাট",
+      "upazila_en": "JOYPURHAT SADAR",
+      "upazila_bn": "জয়পুরহাট সদর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Joypurhat/JOYPURHAT SADAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Joypurhat",
+      "district_bn": "জয়পুরহাট",
+      "upazila_en": "KALAI",
+      "upazila_bn": "কালাই",
+      "record_count": 25,
+      "file_path": "Rajshahi/Joypurhat/KALAI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Joypurhat",
+      "district_bn": "জয়পুরহাট",
+      "upazila_en": "KHETLAL",
+      "upazila_bn": "ক্ষেতলাল",
+      "record_count": 25,
+      "file_path": "Rajshahi/Joypurhat/KHETLAL.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Joypurhat",
+      "district_bn": "জয়পুরহাট",
+      "upazila_en": "PANCHBIBI",
+      "upazila_bn": "পাঁচবিবি",
+      "record_count": 25,
+      "file_path": "Rajshahi/Joypurhat/PANCHBIBI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "ATRAI",
+      "upazila_bn": "আত্রাই",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/ATRAI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "BADALGACHHI",
+      "upazila_bn": "বাদলগাছী",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/BADALGACHHI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "DHAMOIRHAT",
+      "upazila_bn": "ধামইরহাট",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/DHAMOIRHAT.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "MAHADEBPUR",
+      "upazila_bn": "মহাদেবপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/MAHADEBPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "MANDA",
+      "upazila_bn": "মান্দা",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/MANDA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "NAOGAON SADAR",
+      "upazila_bn": "নওগাঁ সদর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/NAOGAON SADAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "NIAMATPUR",
+      "upazila_bn": "নিয়ামতপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/NIAMATPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "PATNITALA",
+      "upazila_bn": "পত্নীতলা",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/PATNITALA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "PORSHA",
+      "upazila_bn": "পোরশা",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/PORSHA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "RANINAGAR",
+      "upazila_bn": "রাণীনগর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Naogaon/RANINAGAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Naogaon",
+      "district_bn": "নওগাঁ",
+      "upazila_en": "SAPAHAR",
+      "upazila_bn": "সাপাহার",
+      "record_count": 23,
+      "file_path": "Rajshahi/Naogaon/SAPAHAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "BAGATIPARA",
+      "upazila_bn": "বাগাতীপাড়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/BAGATIPARA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "BARAIGRAM",
+      "upazila_bn": "বড়াইগ্রাম",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/BARAIGRAM.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "GURUDASPUR",
+      "upazila_bn": "গুরুদাসপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/GURUDASPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "LALPUR",
+      "upazila_bn": "লালপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/LALPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "NATORE SADAR",
+      "upazila_bn": "নাটোর সদর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/NATORE SADAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "Noldanga",
+      "upazila_bn": "নলডাঙ্গা",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/Noldanga.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Natore",
+      "district_bn": "নাটোর",
+      "upazila_en": "SINGRA",
+      "upazila_bn": "সিংড়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Natore/SINGRA.json"
     },
     {
       "division_en": "Rajshahi",
@@ -621,6 +3861,16 @@
       "division_bn": "রাজশাহী",
       "district_en": "Pabna",
       "district_bn": "পাবনা",
+      "upazila_en": "BHANGURA",
+      "upazila_bn": "ভাঙ্গুড়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Pabna/BHANGURA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Pabna",
+      "district_bn": "পাবনা",
       "upazila_en": "Bera",
       "upazila_bn": "বেড়া",
       "record_count": 20,
@@ -631,10 +3881,70 @@
       "division_bn": "রাজশাহী",
       "district_en": "Pabna",
       "district_bn": "পাবনা",
+      "upazila_en": "CHATMOHAR",
+      "upazila_bn": "চাটমোহর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Pabna/CHATMOHAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Pabna",
+      "district_bn": "পাবনা",
+      "upazila_en": "FARIDPUR",
+      "upazila_bn": "ফরিদপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Pabna/FARIDPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Pabna",
+      "district_bn": "পাবনা",
+      "upazila_en": "ISHWARDI",
+      "upazila_bn": "ঈশ্বরদী",
+      "record_count": 25,
+      "file_path": "Rajshahi/Pabna/ISHWARDI.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Pabna",
+      "district_bn": "পাবনা",
       "upazila_en": "Pabna Sadar",
       "upazila_bn": "পাবনা সদর",
       "record_count": 25,
       "file_path": "Rajshahi/Pabna/Pabna Sadar.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Pabna",
+      "district_bn": "পাবনা",
+      "upazila_en": "SANTHIA",
+      "upazila_bn": "সাঁথিয়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Pabna/SANTHIA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Pabna",
+      "district_bn": "পাবনা",
+      "upazila_en": "SUJANAGAR",
+      "upazila_bn": "সুজানগর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Pabna/SUJANAGAR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "upazila_en": "BAGHMARA",
+      "upazila_bn": "বাগমারা",
+      "record_count": 25,
+      "file_path": "Rajshahi/Rajshahi/BAGHMARA.json"
     },
     {
       "division_en": "Rajshahi",
@@ -651,10 +3961,50 @@
       "division_bn": "রাজশাহী",
       "district_en": "Rajshahi",
       "district_bn": "রাজশাহী",
+      "upazila_en": "CHARGHAT",
+      "upazila_bn": "চারঘাট",
+      "record_count": 25,
+      "file_path": "Rajshahi/Rajshahi/CHARGHAT.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "upazila_en": "DURGAPUR",
+      "upazila_bn": "দুর্গাপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Rajshahi/DURGAPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "district_bn": "রাজশাহী",
       "upazila_en": "Godagari",
       "upazila_bn": "গোদাগাড়ী",
       "record_count": 25,
       "file_path": "Rajshahi/Rajshahi/Godagari.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "upazila_en": "MOHANPUR",
+      "upazila_bn": "মোহনপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Rajshahi/MOHANPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "upazila_en": "PUTHIA",
+      "upazila_bn": "পুঠিয়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Rajshahi/PUTHIA.json"
     },
     {
       "division_en": "Rajshahi",
@@ -675,6 +4025,16 @@
       "upazila_bn": "রাজশাহী বোয়ালিয়া রাজস্ব সার্কেল",
       "record_count": 20,
       "file_path": "Rajshahi/Rajshahi/Rajshahi Bualia Revenue Circle.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "upazila_en": "TANORE",
+      "upazila_bn": "তানোর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Rajshahi/TANORE.json"
     },
     {
       "division_en": "Rajshahi",
@@ -701,10 +4061,130 @@
       "division_bn": "রাজশাহী",
       "district_en": "Sirajganj",
       "district_bn": "সিরাজগঞ্জ",
+      "upazila_en": "KAMARKHANDA",
+      "upazila_bn": "কামারখন্দ",
+      "record_count": 25,
+      "file_path": "Rajshahi/Sirajganj/KAMARKHANDA.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
+      "upazila_en": "KAZIPUR",
+      "upazila_bn": "কাজীপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Sirajganj/KAZIPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
+      "upazila_en": "ROYGANJ",
+      "upazila_bn": "রায়গঞ্জ",
+      "record_count": 25,
+      "file_path": "Rajshahi/Sirajganj/ROYGANJ.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
+      "upazila_en": "SHAHJADPUR",
+      "upazila_bn": "শাহজাদপুর",
+      "record_count": 25,
+      "file_path": "Rajshahi/Sirajganj/SHAHJADPUR.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
       "upazila_en": "Sirajganj Sadar",
       "upazila_bn": "সিরাজগঞ্জ সদর",
       "record_count": 25,
       "file_path": "Rajshahi/Sirajganj/Sirajganj Sadar.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
+      "upazila_en": "TARASH",
+      "upazila_bn": "তাড়াশ",
+      "record_count": 25,
+      "file_path": "Rajshahi/Sirajganj/TARASH.json"
+    },
+    {
+      "division_en": "Rajshahi",
+      "division_bn": "রাজশাহী",
+      "district_en": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
+      "upazila_en": "ULLAH PARA",
+      "upazila_bn": "উল্লাপাড়া",
+      "record_count": 25,
+      "file_path": "Rajshahi/Sirajganj/ULLAH PARA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "BIRAMPUR",
+      "upazila_bn": "বিরামপুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/BIRAMPUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "BIRGANJ",
+      "upazila_bn": "বীরগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/BIRGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "BIROL",
+      "upazila_bn": "বিরল",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/BIROL.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "BOCHAGANJ",
+      "upazila_bn": "বোঁচাগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/BOCHAGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "CHIRIRBANDAR",
+      "upazila_bn": "চিরিরবন্দর",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/CHIRIRBANDAR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "DINAJPUR SADAR",
+      "upazila_bn": "দিনাজপুর সদর",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/DINAJPUR SADAR.json"
     },
     {
       "division_en": "Rangpur",
@@ -719,6 +4199,96 @@
     {
       "division_en": "Rangpur",
       "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "FULBARI",
+      "upazila_bn": "ফুলবাড়ী",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/FULBARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "GHORAGHAT",
+      "upazila_bn": "ঘোড়াঘাট",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/GHORAGHAT.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "HAKIMPUR",
+      "upazila_bn": "হাকিমপুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/HAKIMPUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "KAHAROLE",
+      "upazila_bn": "কাহারোল",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/KAHAROLE.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "KHANSAMA",
+      "upazila_bn": "খানসামা",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/KHANSAMA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "NAWABGANJ",
+      "upazila_bn": "নবাবগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Dinajpur/NAWABGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "upazila_en": "PARBATIPUR",
+      "upazila_bn": "পার্বতীপুর",
+      "record_count": 33,
+      "file_path": "Rangpur/Dinajpur/PARBATIPUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "upazila_en": "FULCHHARI",
+      "upazila_bn": "ফুলছড়ি",
+      "record_count": 25,
+      "file_path": "Rangpur/Gaibandha/FULCHHARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "upazila_en": "GOBINDAGANJ",
+      "upazila_bn": "গোবিন্দগঞ্জ",
+      "record_count": 29,
+      "file_path": "Rangpur/Gaibandha/GOBINDAGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
       "district_en": "Gaibandha",
       "district_bn": "গাইবান্ধা",
       "upazila_en": "Gaibandha Sadar",
@@ -729,12 +4299,242 @@
     {
       "division_en": "Rangpur",
       "division_bn": "রংপুর",
+      "district_en": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "upazila_en": "PALASHBARI",
+      "upazila_bn": "পলাশবাড়ী",
+      "record_count": 25,
+      "file_path": "Rangpur/Gaibandha/PALASHBARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "upazila_en": "SADULLAPUR",
+      "upazila_bn": "সাদুল্যাপুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Gaibandha/SADULLAPUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "upazila_en": "SAGHATA",
+      "upazila_bn": "সাঘাটা",
+      "record_count": 25,
+      "file_path": "Rangpur/Gaibandha/SAGHATA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "upazila_en": "SUNDARGANJ",
+      "upazila_bn": "সুন্দরগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Gaibandha/SUNDARGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "BHURUNGAMARI",
+      "upazila_bn": "ভুরুঙ্গামারী",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/BHURUNGAMARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "CHAR RAJIBPUR",
+      "upazila_bn": "রাজীবপুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/CHAR RAJIBPUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "CHILMARI",
+      "upazila_bn": "চিলমারী",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/CHILMARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
       "district_en": "Kurigram",
       "district_bn": "কুড়িগ্রাম",
       "upazila_en": "Kurigram Sadar",
       "upazila_bn": "কুড়িগ্রাম সদর",
       "record_count": 25,
       "file_path": "Rangpur/Kurigram/Kurigram Sadar.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "NAGESHWARI",
+      "upazila_bn": "নাগেশ্বরী",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/NAGESHWARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "PHULBARI",
+      "upazila_bn": "ফুলবাড়ী",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/PHULBARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "RAJARHAT",
+      "upazila_bn": "রাজারহাট",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/RAJARHAT.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "RAUMARI",
+      "upazila_bn": "রৌমারী",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/RAUMARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "upazila_en": "ULIPUR",
+      "upazila_bn": "উলিপুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Kurigram/ULIPUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "upazila_en": "ADITMARI",
+      "upazila_bn": "অদিতমারী",
+      "record_count": 25,
+      "file_path": "Rangpur/Lalmonirhat/ADITMARI.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "upazila_en": "HATIBANDHA",
+      "upazila_bn": "হাতীবান্ধা",
+      "record_count": 25,
+      "file_path": "Rangpur/Lalmonirhat/HATIBANDHA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "upazila_en": "KALIGANJ",
+      "upazila_bn": "কালীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Lalmonirhat/KALIGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "upazila_en": "LALMONIRHAT SADAR",
+      "upazila_bn": "লালমনিরহাট সদর",
+      "record_count": 25,
+      "file_path": "Rangpur/Lalmonirhat/LALMONIRHAT SADAR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "upazila_en": "PATGRAM",
+      "upazila_bn": "পাটগ্রাম",
+      "record_count": 25,
+      "file_path": "Rangpur/Lalmonirhat/PATGRAM.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Nilphamari",
+      "district_bn": "নীলফামারী",
+      "upazila_en": "DIMLA UPAZILA",
+      "upazila_bn": "ডিম্‌লা",
+      "record_count": 25,
+      "file_path": "Rangpur/Nilphamari/DIMLA UPAZILA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Nilphamari",
+      "district_bn": "নীলফামারী",
+      "upazila_en": "DOMAR UPAZILA",
+      "upazila_bn": "ডোমার",
+      "record_count": 34,
+      "file_path": "Rangpur/Nilphamari/DOMAR UPAZILA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Nilphamari",
+      "district_bn": "নীলফামারী",
+      "upazila_en": "JALDHAKA UPAZILA",
+      "upazila_bn": "জলঢাকা",
+      "record_count": 25,
+      "file_path": "Rangpur/Nilphamari/JALDHAKA UPAZILA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Nilphamari",
+      "district_bn": "নীলফামারী",
+      "upazila_en": "KISHOREGANJ UPAZILA",
+      "upazila_bn": "কিশোরগঞ্জ",
+      "record_count": 29,
+      "file_path": "Rangpur/Nilphamari/KISHOREGANJ UPAZILA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Nilphamari",
+      "district_bn": "নীলফামারী",
+      "upazila_en": "NILPHAMARI SADAR UPAZ",
+      "upazila_bn": "নীলফামারী সদর",
+      "record_count": 42,
+      "file_path": "Rangpur/Nilphamari/NILPHAMARI SADAR UPAZ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Nilphamari",
+      "district_bn": "নীলফামারী",
+      "upazila_en": "SAIDPUR UPAZILA",
+      "upazila_bn": "সৈয়দপুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Nilphamari/SAIDPUR UPAZILA.json"
     },
     {
       "division_en": "Rangpur",
@@ -759,12 +4559,92 @@
     {
       "division_en": "Rangpur",
       "division_bn": "রংপুর",
+      "district_en": "Panchagarh",
+      "district_bn": "পঞ্চগড়",
+      "upazila_en": "DEBIGANJ",
+      "upazila_bn": "দেবীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Panchagarh/DEBIGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Panchagarh",
+      "district_bn": "পঞ্চগড়",
+      "upazila_en": "PANCHAGARH SADAR",
+      "upazila_bn": "পঞ্চগড় সদর",
+      "record_count": 25,
+      "file_path": "Rangpur/Panchagarh/PANCHAGARH SADAR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Panchagarh",
+      "district_bn": "পঞ্চগড়",
+      "upazila_en": "TENTULIA",
+      "upazila_bn": "তেঁতুলিয়া",
+      "record_count": 25,
+      "file_path": "Rangpur/Panchagarh/TENTULIA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
       "district_en": "Rangpur",
       "district_bn": "রংপুর",
       "upazila_en": "Badarganj",
       "upazila_bn": "বদরগঞ্জ",
       "record_count": 20,
       "file_path": "Rangpur/Rangpur/Badarganj.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "district_bn": "রংপুর",
+      "upazila_en": "GANGACHARA",
+      "upazila_bn": "গংগাচড়া",
+      "record_count": 25,
+      "file_path": "Rangpur/Rangpur/GANGACHARA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "district_bn": "রংপুর",
+      "upazila_en": "KAUNIA",
+      "upazila_bn": "কাউনিয়া",
+      "record_count": 25,
+      "file_path": "Rangpur/Rangpur/KAUNIA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "district_bn": "রংপুর",
+      "upazila_en": "MITHA PUKUR",
+      "upazila_bn": "মিঠাপুকুর",
+      "record_count": 25,
+      "file_path": "Rangpur/Rangpur/MITHA PUKUR.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "district_bn": "রংপুর",
+      "upazila_en": "PIRGACHHA",
+      "upazila_bn": "পীরগাছা",
+      "record_count": 25,
+      "file_path": "Rangpur/Rangpur/PIRGACHHA.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "district_bn": "রংপুর",
+      "upazila_en": "PIRGANJ",
+      "upazila_bn": "পীরগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Rangpur/PIRGANJ.json"
     },
     {
       "division_en": "Rangpur",
@@ -789,6 +4669,16 @@
     {
       "division_en": "Rangpur",
       "division_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "district_bn": "রংপুর",
+      "upazila_en": "TARAGANJ",
+      "upazila_bn": "তারাগঞ্জ",
+      "record_count": 25,
+      "file_path": "Rangpur/Rangpur/TARAGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
       "district_en": "Thakurgaon",
       "district_bn": "ঠাকুরগাঁও",
       "upazila_en": "Baliadangi",
@@ -801,10 +4691,100 @@
       "division_bn": "রংপুর",
       "district_en": "Thakurgaon",
       "district_bn": "ঠাকুরগাঁও",
+      "upazila_en": "Bhulli",
+      "upazila_bn": "ভূল্লী",
+      "record_count": 25,
+      "file_path": "Rangpur/Thakurgaon/Bhulli.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Thakurgaon",
+      "district_bn": "ঠাকুরগাঁও",
       "upazila_en": "Haripur",
       "upazila_bn": "হরিপুর",
       "record_count": 20,
       "file_path": "Rangpur/Thakurgaon/Haripur.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Thakurgaon",
+      "district_bn": "ঠাকুরগাঁও",
+      "upazila_en": "PIRGANJ",
+      "upazila_bn": "পীরগঞ্জ",
+      "record_count": 4,
+      "file_path": "Rangpur/Thakurgaon/PIRGANJ.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Thakurgaon",
+      "district_bn": "ঠাকুরগাঁও",
+      "upazila_en": "RANISANKAIL",
+      "upazila_bn": "রানীশংকৈল",
+      "record_count": 3,
+      "file_path": "Rangpur/Thakurgaon/RANISANKAIL.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Thakurgaon",
+      "district_bn": "ঠাকুরগাঁও",
+      "upazila_en": "Ruhia",
+      "upazila_bn": "রুহিয়া",
+      "record_count": 25,
+      "file_path": "Rangpur/Thakurgaon/Ruhia.json"
+    },
+    {
+      "division_en": "Rangpur",
+      "division_bn": "রংপুর",
+      "district_en": "Thakurgaon",
+      "district_bn": "ঠাকুরগাঁও",
+      "upazila_en": "THAKURGAON SADAR",
+      "upazila_bn": "ঠাকুরগাঁও সদর",
+      "record_count": 3,
+      "file_path": "Rangpur/Thakurgaon/THAKURGAON SADAR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "AJMIRIGANJ",
+      "upazila_bn": "আজমিরীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/AJMIRIGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "BAHUBAL",
+      "upazila_bn": "বাহুবল",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/BAHUBAL.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "BANIACHONG",
+      "upazila_bn": "বানিয়াচং",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/BANIACHONG.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "CHUNARUGHAT",
+      "upazila_bn": "চুনারুঘাট",
+      "record_count": 22,
+      "file_path": "Sylhet/Habiganj/CHUNARUGHAT.json"
     },
     {
       "division_en": "Sylhet",
@@ -819,22 +4799,112 @@
     {
       "division_en": "Sylhet",
       "division_bn": "সিলেট",
-      "district_en": "Maulvibazar",
-      "district_bn": "মৌলভীবাজার",
-      "upazila_en": "Barlekha",
-      "upazila_bn": "বড়লেখা",
-      "record_count": 20,
-      "file_path": "Sylhet/Maulvibazar/Barlekha.json"
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "LAKHAI",
+      "upazila_bn": "লাখাই",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/LAKHAI.json"
     },
     {
       "division_en": "Sylhet",
       "division_bn": "সিলেট",
-      "district_en": "Maulvibazar",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "MADHABPUR",
+      "upazila_bn": "মাধবপুর",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/MADHABPUR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "NABIGANJ",
+      "upazila_bn": "নবীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/NABIGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "upazila_en": "Shayestaganj",
+      "upazila_bn": "শায়েস্তাগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Habiganj/Shayestaganj.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
+      "district_bn": "মৌলভীবাজার",
+      "upazila_en": "Barlekha",
+      "upazila_bn": "বড়লেখা",
+      "record_count": 20,
+      "file_path": "Sylhet/Moulvibazar/Barlekha.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
       "district_bn": "মৌলভীবাজার",
       "upazila_en": "Juri",
       "upazila_bn": "জুড়ী",
       "record_count": 20,
-      "file_path": "Sylhet/Maulvibazar/Juri.json"
+      "file_path": "Sylhet/Moulvibazar/Juri.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
+      "district_bn": "মৌলভীবাজার",
+      "upazila_en": "KAMALGANJ",
+      "upazila_bn": "কমলগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Moulvibazar/KAMALGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
+      "district_bn": "মৌলভীবাজার",
+      "upazila_en": "KULAURA",
+      "upazila_bn": "কুলাউড়া",
+      "record_count": 1,
+      "file_path": "Sylhet/Moulvibazar/KULAURA.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
+      "district_bn": "মৌলভীবাজার",
+      "upazila_en": "MAULVIBAZAR SADAR",
+      "upazila_bn": "মৌলভীবাজার সদর",
+      "record_count": 25,
+      "file_path": "Sylhet/Moulvibazar/MAULVIBAZAR SADAR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
+      "district_bn": "মৌলভীবাজার",
+      "upazila_en": "RAJNAGAR",
+      "upazila_bn": "রাজনগর",
+      "record_count": 25,
+      "file_path": "Sylhet/Moulvibazar/RAJNAGAR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Moulvibazar",
+      "district_bn": "মৌলভীবাজার",
+      "upazila_en": "SREEMANGAL",
+      "upazila_bn": "শ্রীমঙ্গল",
+      "record_count": 25,
+      "file_path": "Sylhet/Moulvibazar/SREEMANGAL.json"
     },
     {
       "division_en": "Sylhet",
@@ -871,10 +4941,110 @@
       "division_bn": "সিলেট",
       "district_en": "Sunamganj",
       "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "DERAI",
+      "upazila_bn": "দিরাই",
+      "record_count": 25,
+      "file_path": "Sylhet/Sunamganj/DERAI.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "DHARAMPASHA",
+      "upazila_bn": "ধর্মপাশা",
+      "record_count": 25,
+      "file_path": "Sylhet/Sunamganj/DHARAMPASHA.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "DOWARABAZAR",
+      "upazila_bn": "দোয়ারাবাজার",
+      "record_count": 49,
+      "file_path": "Sylhet/Sunamganj/DOWARABAZAR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "JAGANNATHPUR",
+      "upazila_bn": "জগন্নাথপুর",
+      "record_count": 27,
+      "file_path": "Sylhet/Sunamganj/JAGANNATHPUR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "JAMALGANJ",
+      "upazila_bn": "জামালগঞ্জ",
+      "record_count": 36,
+      "file_path": "Sylhet/Sunamganj/JAMALGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "SHANTIGANJ",
+      "upazila_bn": "শান্তিগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Sunamganj/SHANTIGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "SULLA",
+      "upazila_bn": "শাল্লা",
+      "record_count": 25,
+      "file_path": "Sylhet/Sunamganj/SULLA.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
       "upazila_en": "Sunamganj Sadar",
       "upazila_bn": "সুনামগঞ্জ সদর",
       "record_count": 25,
       "file_path": "Sylhet/Sunamganj/Sunamganj Sadar.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sunamganj",
+      "district_bn": "সুনামগঞ্জ",
+      "upazila_en": "TAHIRPUR",
+      "upazila_bn": "তাহিরপুর",
+      "record_count": 25,
+      "file_path": "Sylhet/Sunamganj/TAHIRPUR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "BEANI BAZAR",
+      "upazila_bn": "বিয়ানীবাজার",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/BEANI BAZAR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "BISHWANATH",
+      "upazila_bn": "বিশ্বনাথ",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/BISHWANATH.json"
     },
     {
       "division_en": "Sylhet",
@@ -891,10 +5061,80 @@
       "division_bn": "সিলেট",
       "district_en": "Sylhet",
       "district_bn": "সিলেট",
+      "upazila_en": "COMPANIGANJ",
+      "upazila_bn": "কোম্পানীগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/COMPANIGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "DAKSHIN SURMA",
+      "upazila_bn": "দক্ষিণ সুরমা",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/DAKSHIN SURMA.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "FENCHUGANJ",
+      "upazila_bn": "ফেঞ্চুগঞ্জ",
+      "record_count": 31,
+      "file_path": "Sylhet/Sylhet/FENCHUGANJ.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "GOWAINGHAT",
+      "upazila_bn": "গোয়াইনঘাট",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/GOWAINGHAT.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
       "upazila_en": "Golapganj",
       "upazila_bn": "গোলাপগঞ্জ",
       "record_count": 25,
       "file_path": "Sylhet/Sylhet/Golapganj.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "JAINTIAPUR",
+      "upazila_bn": "জৈন্তাপুর",
+      "record_count": 45,
+      "file_path": "Sylhet/Sylhet/JAINTIAPUR.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "KANAIGHAT",
+      "upazila_bn": "কানাইঘাট",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/KANAIGHAT.json"
+    },
+    {
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "Osmani Nagar",
+      "upazila_bn": "ওসমানী নগর",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/Osmani Nagar.json"
     },
     {
       "division_en": "Sylhet",
@@ -917,14 +5157,14 @@
       "file_path": "Sylhet/Sylhet/Sylhet Sadar.json"
     },
     {
-      "division_en": "Barishal",
-      "division_bn": "বরিশাল",
-      "district_en": "Pirojpur",
-      "district_bn": "পিরোজপুর",
-      "upazila_en": "Swarupkathi",
-      "upazila_bn": "নেছারাবাদ (স্বরূপকাঠি)",
-      "record_count": 27385,
-      "file_path": "Barishal/Pirojpur/Swarupkathi.json"
+      "division_en": "Sylhet",
+      "division_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "district_bn": "সিলেট",
+      "upazila_en": "ZAKIGANJ",
+      "upazila_bn": "জকিগঞ্জ",
+      "record_count": 25,
+      "file_path": "Sylhet/Sylhet/ZAKIGANJ.json"
     }
   ]
 }

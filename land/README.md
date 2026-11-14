@@ -1,6 +1,6 @@
-# ePorcha Land Records & Khatian PDF Database
+# Bangladesh Land Records, Khatians & Mouza Maps Database
 
-Automated database extractor, khatian enricher, and PDF downloader for Bangladesh land records sourced from [ePorcha (eporcha.tech)](https://eporcha.tech/).
+Nationwide Bangladesh land records, mouza/JL metadata, ePorcha khatians, and [Google Drive-linked Mouza maps archive](./maps/README.md), sourced from [ePorcha (eporcha.tech)](https://eporcha.tech/) and [`mouzamap.tech`](https://mouzamap.tech/). All JSON/CSV datasets are stored directly in GitHub while large binary Mouza map files (`PDF`/`JPG`/`TIF`) live in Google Drive and are linked inside [`land/maps/`](./maps/).
 
 ---
 
@@ -9,15 +9,17 @@ Automated database extractor, khatian enricher, and PDF downloader for Banglades
 ```
 database/land/ (or Desktop/Land/)
 │
-├── metadata/                          # Core administrative reference data
+├── metadata/                          # Core administrative reference data & nationwide Mouza catalog
 │   ├── divisions.json                 # All 8 administrative divisions of Bangladesh
 │   ├── districts.json                 # All 64 districts with BBS codes
 │   ├── upazilas.json                  # All 527 upazilas / circles
-│   └── surveys.json                   # Land survey types (RS, CS, SA, BS, Diara, etc.)
+│   ├── surveys.json                   # Land survey types (RS, CS, SA, BS, Diara, etc.)
+│   ├── mouzas_index.json              # Master nationwide Mouza index (171,877 entries across 527 upazilas)
+│   └── mouzas/                        # Per-district Mouza/JL catalogs (<Division>/<District>.json)
 │
-├── khatians/                          # Partitioned & Unified Khatian datasets (All 8 Divisions)
+├── khatians/                          # Partitioned & Unified Khatian datasets (8 Divisions, 61 districts, 515 upazilas, 798 mouzas)
 │   ├── index.json                     # Nationwide catalog with upazila-level record counts
-│   ├── khatians.json                  # Complete consolidated JSON records (56,000+ khatians)
+│   ├── khatians.json                  # Complete consolidated JSON records (93,953 khatians, 89.04 MiB)
 │   ├── khatians.csv                   # CSV format for Excel, Google Sheets, or SQL imports
 │   ├── Barishal/                      # Barishal, Patuakhali, Pirojpur, Bhola...
 │   ├── Chattogram/                    # Chattogram, Cox's Bazar, Cumilla, Feni, Brahmanbaria...
@@ -28,22 +30,21 @@ database/land/ (or Desktop/Land/)
 │   ├── Rangpur/                       # Rangpur, Dinajpur, Kurigram, Gaibandha...
 │   └── Sylhet/                        # Sylhet, Moulvibazar, Habiganj, Sunamganj...
 │
-├── pdfs/                              # Downloaded & Arranged Official PDF Khatian Copies
-│   ├── টাঙ্গাইল/বাসাইল/আর এস/
-│   │   ├── একঢালা_JL_5/
-│   │   │   ├── Khatian_47.pdf
-│   │   │   └── Khatian_633.pdf
-│   │   └── মুরাকইর_JL_9/
-│   │       ├── Khatian_1.pdf
-│   │       └── ...
-│   ├── ঢাকা/ধামরাই/আর এস/সুন্দীতারা_JL_1/
-│   └── গাজীপুর/কালিয়াকৈর/আর এস/মোথাজুরী_JL_1/
+├── (Drive-only binary archives — gitignored locally; stored in Google Drive):
+│   └── Mouza Map PDFs/JPGs/TIFs -> Google Drive folder `land/maps/` (226,157 files / 2,385.37 GB)
 │
-├── eporcha_scraper.py                 # Core scraping & API interaction engine
-├── download_khatians.py               # Interactive CLI & batch downloader
-├── fetch_metadata.py                  # Metadata synchronizer
-├── START_DOWNLOADER.bat               # 1-Click launcher for Windows
-├── summary.json                       # Live stats summary
+├── maps/                              # Google Drive-linked index of 226,157 Mouza map files (2,385.37 GB across 8 divisions / 61 districts)
+│   ├── index.json                     # Division/District totals, Google Drive folder IDs & live upload counts
+│   ├── mouza_maps_catalog.json        # Uploaded map file records with direct Google Drive view/download URLs
+│   ├── <Division>/<District>.json     # Per-district Mouza map catalogs (upazila/survey paths + Drive links)
+│   ├── sync_gdrive_maps.py            # Zero-disk resumable streaming sync engine (free.mouzamap.tech -> Google Drive -> GitHub links)
+│   ├── START_MAP_SYNC.bat             # Windows launcher to continue streaming remaining maps under Drive's 750 GB/day cap
+│   └── README.md                      # Nationwide Mouza maps table with clickable Google Drive links
+│
+├── collect_all_divisions.py           # Nationwide ePorcha collector script
+├── partition_khatians.py              # Partitioned khatian builder script
+├── scrape_swarupkathi_all.py          # Swarupkathi ePorcha scraper script
+├── summary.json                       # Live stats summary (93,953 khatians & 171,877 cataloged mouzas)
 └── README.md                          # Documentation
 ```
 
@@ -71,29 +72,23 @@ database/land/ (or Desktop/Land/)
 
 ---
 
-## 🚀 How to Run & Download More
+## 🗺️ Google Drive Mouza Maps & Zero-Disk Sync
 
-### Option 1: 1-Click Launcher
-Double-click `START_DOWNLOADER.bat` on Windows. You can:
-1. Select interactive mode to pick any Division -> District -> Upazila -> Survey -> Mouza.
-2. Run batch ingestion across selected districts.
-3. Check database summary stats.
+Large binary Mouza maps (`226,157` files totaling `2,385.37 GB`) are stored in Google Drive (not inside GitHub) and indexed under [`maps/`](./maps/README.md):
 
-### Option 2: Command Line
-```bash
-# 1. Interactive Downloader (Select any area interactively)
-python download_khatians.py --interactive
-
-# 2. Automated batch download (e.g. 20 khatians per mouza)
-python download_khatians.py --batch --limit 20
-
-# 3. Synchronize administrative metadata
-python fetch_metadata.py
-```
+- **Google Drive `land/maps` Root:** [Open in Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u)
+- **Google Drive `land/` Folder:** [Open in Google Drive](https://drive.google.com/drive/folders/1hbpHQ-3DFp1AsSZr_ISKV4g59KeKGb5e)
+- **Continue Zero-Disk Sync (`750 GB / 24h` Google Drive limit):**
+  Run [`maps/START_MAP_SYNC.bat`](./maps/START_MAP_SYNC.bat) on Windows, or run via CLI:
+  ```bash
+  cd maps
+  python sync_gdrive_maps.py --workers 6 --limit-gb 700 --refresh-github
+  ```
+  Each file is streamed through temporary storage to Google Drive, deleted immediately from the local PC after upload, recorded in `%LOCALAPPDATA%\BangladeshMouzaSync\sync_state.db`, and linked back into `maps/<Division>/<District>.json`, `maps/index.json`, `maps/mouza_maps_catalog.json`, and `maps/README.md`.
 
 ---
 
-## 🔒 Reliability & Rate-Limiting
-- Includes automated retry with exponential backoff.
-- Built-in polite delay (`0.3s`) between PDF generation requests to prevent hitting Cloudflare or DLRMS backend rate limits.
-- Resume capability: skips already downloaded PDFs and prevents duplicates in `khatians.json` / `khatians.csv`.
+## 🔧 Reliability & Maintenance
+- Retries transient upstream and Google Drive API errors with exponential backoff while keeping zero permanent binary map files on local disk.
+- Khatian collector (`collect_all_divisions.py`, `partition_khatians.py`) keeps all JSON/CSV datasets partitioned below GitHub's 100 MiB file limit (`khatians.json` = 89.04 MiB).
+- Run `python maps/sync_gdrive_maps.py --refresh-only` anytime to regenerate GitHub map catalogs and Drive links from local SQLite sync state.

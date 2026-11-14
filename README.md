@@ -37,7 +37,7 @@ The repository is organized into the following subject areas.
 
 | Category | Dataset Coverage | Directory |
 |---|---|---|
-| Geography & Administration | 8 divisions, 64 districts, 494 upazilas, 4,540 unions, 12 city corporations, 1,368 postal codes | `geography/` |
+| Geography & Administration | 8 divisions, 64 districts, 494 upazilas, 4,540 unions, 12 city corporations, 1,368 postal codes, GeoJSONs & [boundary polygons (Drive)](./geography/geojson/README.md) | `geography/` |
 | Demographics & Census | BBS latest publications (120 reports) & statistical yearbooks catalog | `demographics/` |
 | Economy & Macro | BBS macro indicators (GDP, GNI, per capita income) & 14 national accounts reports | `economy/` |
 | Banking & Finance | 62 banks, 8,751 branches, 8,747 BEFTN routing numbers and 5 MFS providers | `banking/` |
@@ -50,7 +50,7 @@ The repository is organized into the following subject areas.
 | Environment & Pollution | DoE daily AQI (1,286 reports cataloged, 15 recent parsed) & water quality reports | `environment/` |
 | Elections & Constituencies | 300 parliamentary constituencies (with voter counts) & 63 registered political parties | `elections/` |
 | Government Procurement | BPPA contract awards & public procurement records | `procurement/` |
-| Land Records | 83,455 ePorcha khatian records & mouza map PDFs | `land/` |
+| Land Records & Mouza Maps | 93,953 ePorcha khatian records (61 districts, 515 upazilas), 171,877 cataloged mouzas (527 upazilas) & [226,157 Mouza map files (2,385.37 GB) linked from Google Drive](./land/maps/README.md) | `land/` |
 | Law & Legal Information | Constitution, Penal Code 1860, CrPC 1898, major acts and legal glossary | `law/` |
 | Lawyers Directory | 34,591 Dhaka Bar Association members by division, district and status | `Lawyer/` |
 | Healthcare | 3,590 hospitals, diagnostic centers, doctors, blood banks and ambulance services | `healthcare/` |
@@ -74,8 +74,8 @@ To make finding information instant and intuitive, all regional datasets are org
 - **Healthcare:** `healthcare/divisions/<Division>/<District>/<Upazila>.json` (hospitals, bed capacity, ICU, ambulance availability, and emergency hotlines).
 - **Banking:** `banking/divisions/<Division>/<District>/<Upazila>.json` (8,750+ bank branches, routing numbers, swift codes, and branch codes).
 - **Emergency Services:** `emergency/divisions/<Division>/<District>/<Upazila>.json` (police stations with OC numbers, fire stations, district administration contacts, and national hotlines).
-- **Geography:** `geography/divisions/<Division>/<District>/<Upazila>/info.json` (unions, postal codes, coordinates, and official government portal links).
-- **Land Records:** `land/khatians/<Division>/<District>/<Upazila>.json` (54,000+ ePorcha khatian records partitioned by upazila).
+- **Geography & GIS:** `geography/divisions/<Division>/<District>/<Upazila>/info.json` plus nationwide GeoJSON layers in `geography/geojson/` and [high-resolution boundary polygon ZIPs on Google Drive](./geography/geojson/README.md).
+- **Land Records, Khatians & Mouza Maps:** `land/khatians/<Division>/<District>/<Upazila>.json` (93,953 ePorcha khatian records across 8 divisions / 61 districts / 515 upazilas), `land/metadata/mouzas/<Division>/<District>.json` (171,877 cataloged mouza/JL entries across 527 upazilas), and `land/maps/<Division>/<District>.json` indexing 226,157 Mouza map files (PDF/JPG/TIF) hosted on [Google Drive](./land/maps/README.md).
 - **Transport:** `transport/divisions/<Division>/<District>/transport_nodes.json` (railway stations and airports).
 
 ---
@@ -134,12 +134,12 @@ Bangladesh-Biggest-Public-Database/
 ├── elections/                   # 300 Parliamentary Constituencies & 63 Political Parties
 ├── emergency/                   # Police, Fire Service, District Admin & National Hotlines
 ├── environment/                 # DoE Daily AQI (1,286 Reports) & Water Quality Reports
-├── geography/                   # 8 Divisions, 64 Districts, 494 Upazilas, 4,540 Unions, 1,368 Postcodes
+├── geography/                   # 8 Divisions, 64 Districts, 494 Upazilas, 4,540 Unions, 1,368 Postcodes & GeoJSON/GIS layers
 ├── governance/                  # Ministries, Statutory Bodies & Citizen Services
 ├── healthcare/                  # 3,590 Hospitals, Doctors, Blood Banks & Ambulances
 ├── heritage/                    # Historical Landmarks & Tourist Destinations
 ├── Islamic/                     # Quran, Hadith & Fiqh Datasets
-├── land/                        # 83,455 Land Khatians & Mouza Maps
+├── land/                        # 93,953 Land Khatians, 171,877 Mouzas & 226,157 Drive-linked Mouza Maps
 ├── law/                         # Constitution, Penal Code 1860, CrPC 1898 & Major Acts
 ├── Lawyer/                      # 34,591 Dhaka Bar Association Members
 ├── medicine/                    # 33,219 Medicines, 2,594 Generics, 1,233 Indications
@@ -212,6 +212,15 @@ Filter records when the relevant field exists:
 jq '.[] | select(.district_name == "Dhaka")' \
   geography/upazilas.json
 ```
+
+## Google Drive Full Mirror & Large Files
+
+All **JSON/CSV datasets, metadata, and scripts** live directly inside this GitHub repository, while **large binary Mouza map files** (`PDF`/`JPG`/`TIF` from [`mouzamap.tech`](https://mouzamap.tech/)) and high-resolution GIS boundary polygon archives are stored in **Google Drive** and linked from GitHub:
+
+- **Full Repository Google Drive Mirror:** [Open `Bangladesh-Biggest-Public-Database` on Google Drive](https://drive.google.com/drive/folders/1ObOiGGQXl9B4bodcnDkx7g5yU_dc-Gol) (full manifest: [`drive_mirror.json`](./drive_mirror.json))
+- **Mouza Maps Root (`land/maps/`):** [Open `land/maps` on Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u) — 226,157 cataloged map files (~2.33 TB) organized by Division → District → Upazila → Survey; see [`land/maps/README.md`](./land/maps/README.md) & [`land/maps/index.json`](./land/maps/index.json)
+- **Land Records Folder (`land/`):** [Open `land` on Google Drive](https://drive.google.com/drive/folders/1hbpHQ-3DFp1AsSZr_ISKV4g59KeKGb5e) — see [`land/README.md`](./land/README.md)
+- **Geography & High-Res GIS Boundaries (`geography/geojson/`):** [Open `geography/geojson` on Google Drive](https://drive.google.com/drive/folders/1slEFybA33XtFDW1vqK60nwkwqGHpL8XO) (parent [`geography/`](https://drive.google.com/drive/folders/1oo_tHSf42JXy5NUVY2qxH6KctXOZhVj9)) — see [`geography/geojson/README.md`](./geography/geojson/README.md)
 
 ## Data Sources & References
 

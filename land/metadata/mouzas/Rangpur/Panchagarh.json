@@ -1,0 +1,4964 @@
+[
+  {
+    "upazila_en": "ATWARI",
+    "upazila_bn": "আটোয়ারী",
+    "upazila_bbs": "04",
+    "district_bbs": "77",
+    "survey": "BRS",
+    "mouza_count": 21,
+    "mouzas": [
+      {
+        "id": 444709,
+        "mouza_id": 55963,
+        "mouza_name": "রাজাগাঁও ",
+        "jl_no": "2",
+        "uuid": "0e496408-a502-48f5-b46a-5fc619256a8b"
+      },
+      {
+        "id": 444703,
+        "mouza_id": 87162,
+        "mouza_name": "পানিশালী",
+        "jl_no": "4",
+        "uuid": "a30ea3a9-9d2f-48e6-8f34-410133fc9b4a"
+      },
+      {
+        "id": 386387,
+        "mouza_id": 79373,
+        "mouza_name": "দানাবীর",
+        "jl_no": "5",
+        "uuid": "49a81fc0-5f32-44db-9ca7-0dd0ed6eac21"
+      },
+      {
+        "id": 386197,
+        "mouza_id": 86113,
+        "mouza_name": "ফতেপুর",
+        "jl_no": "8",
+        "uuid": "8cf17770-23b1-4aba-af91-f75316985fe5"
+      },
+      {
+        "id": 386307,
+        "mouza_id": 15976,
+        "mouza_name": "উত্তর দূর্গাপুর",
+        "jl_no": "10",
+        "uuid": "ffee0642-5509-4460-b216-faf2bcdf08e7"
+      },
+      {
+        "id": 386288,
+        "mouza_id": 15187,
+        "mouza_name": "বারাগাঁও",
+        "jl_no": "11",
+        "uuid": "7e58d59f-6275-42c7-83b3-3c491b4cabff"
+      },
+      {
+        "id": 336051,
+        "mouza_id": 74447,
+        "mouza_name": "লতিঝারি",
+        "jl_no": "12",
+        "uuid": "fd163695-651d-44e3-80c6-be6b4af43b0c"
+      },
+      {
+        "id": 336093,
+        "mouza_id": 57229,
+        "mouza_name": "সিকটীহারী",
+        "jl_no": "13",
+        "uuid": "8dcd30f5-4655-4592-9f7a-4a82626b571a"
+      },
+      {
+        "id": 416543,
+        "mouza_id": 27636,
+        "mouza_name": "কিসমত পানবরা",
+        "jl_no": "19",
+        "uuid": "17b9b211-f427-4958-8189-502ce582719d"
+      },
+      {
+        "id": 386386,
+        "mouza_id": 32407,
+        "mouza_name": "যাদববাটী",
+        "jl_no": "25",
+        "uuid": "38c773c8-5f9f-4d22-99bc-478c1365cb91"
+      },
+      {
+        "id": 416545,
+        "mouza_id": 32424,
+        "mouza_name": "নিতুপাড়া",
+        "jl_no": "30",
+        "uuid": "569d3c9c-d5d2-4975-ae40-76fc460d32f6"
+      },
+      {
+        "id": 416546,
+        "mouza_id": 60070,
+        "mouza_name": "আলোয়া খাওয়া ",
+        "jl_no": "36",
+        "uuid": "fb334d86-4e28-44aa-be48-dada0956442c"
+      },
+      {
+        "id": 386273,
+        "mouza_id": 33629,
+        "mouza_name": "বাকডোকরা",
+        "jl_no": "40",
+        "uuid": "528aed27-7c74-4549-b111-5d31b5d42246"
+      },
+      {
+        "id": 416548,
+        "mouza_id": 32833,
+        "mouza_name": "মোলানী",
+        "jl_no": "41",
+        "uuid": "4492e9ec-8693-4a8f-9a52-aa98d956592b"
+      },
+      {
+        "id": 336077,
+        "mouza_id": 32933,
+        "mouza_name": "রঘুনাথপুর",
+        "jl_no": "42",
+        "uuid": "bcc6fa7c-6616-4713-a265-d404da1bfe9d"
+      },
+      {
+        "id": 444697,
+        "mouza_id": 32936,
+        "mouza_name": "কালিকাপুর ",
+        "jl_no": "45",
+        "uuid": "d072553d-5c48-40e6-970b-80d8c85b841d"
+      },
+      {
+        "id": 336075,
+        "mouza_id": 86406,
+        "mouza_name": "নলপুখুরী",
+        "jl_no": "46",
+        "uuid": "d5c6470d-d297-4ad6-af77-c5e219942b85"
+      },
+      {
+        "id": 386289,
+        "mouza_id": 85857,
+        "mouza_name": "ত্রিশুলিয়া",
+        "jl_no": "55",
+        "uuid": "460aefcf-00f8-4f57-a1e3-3d183dd9a120"
+      },
+      {
+        "id": 386266,
+        "mouza_id": 83436,
+        "mouza_name": "চামেশ্বরী",
+        "jl_no": "56",
+        "uuid": "4d8a30b7-9601-493d-bad5-93e0e330950d"
+      },
+      {
+        "id": 416551,
+        "mouza_id": 33163,
+        "mouza_name": "কালমেঘ",
+        "jl_no": "57",
+        "uuid": "bc33491f-bd26-4f65-81bb-9224982beb02"
+      },
+      {
+        "id": 336099,
+        "mouza_id": 61115,
+        "mouza_name": "লক্ষীদ্বার",
+        "jl_no": "58",
+        "uuid": "4ddb94b8-5cf0-450e-a9d2-3fa5a91f1a37"
+      }
+    ]
+  },
+  {
+    "upazila_en": "ATWARI",
+    "upazila_bn": "আটোয়ারী",
+    "upazila_bbs": "04",
+    "district_bbs": "77",
+    "survey": "CS",
+    "mouza_count": 62,
+    "mouzas": [
+      {
+        "id": 179173,
+        "mouza_id": 55973,
+        "mouza_name": "কিসমত সোনাপাটিলা",
+        "jl_no": "1",
+        "uuid": "873813a6-bdf3-40dc-9f63-1977a4df7c88"
+      },
+      {
+        "id": 397655,
+        "mouza_id": 55963,
+        "mouza_name": "রাজাগাঁও",
+        "jl_no": "2",
+        "uuid": "63172b51-e4ef-4b0a-80a9-1a15c67a7dec"
+      },
+      {
+        "id": 284936,
+        "mouza_id": 86519,
+        "mouza_name": "ধামোড়",
+        "jl_no": "3",
+        "uuid": "fb8b8864-b08d-46e6-b6f3-38977c4365e9"
+      },
+      {
+        "id": 397648,
+        "mouza_id": 87162,
+        "mouza_name": "পানিশালী",
+        "jl_no": "4",
+        "uuid": "88b65ef8-43b7-4137-b69b-3c90c1733d9d"
+      },
+      {
+        "id": 397645,
+        "mouza_id": 79373,
+        "mouza_name": "দানাবীর",
+        "jl_no": "5",
+        "uuid": "f4b5549e-1426-4443-8892-6d224b0fa803"
+      },
+      {
+        "id": 397640,
+        "mouza_id": 5114,
+        "mouza_name": "গিরাগাঁও",
+        "jl_no": "6",
+        "uuid": "b4ca4ccc-55b4-4fbb-8a82-493c3d2b9c89"
+      },
+      {
+        "id": 285032,
+        "mouza_id": 86542,
+        "mouza_name": "আটোয়ারী.",
+        "jl_no": "7",
+        "uuid": "acf898f9-cee3-4042-9e9b-b99ac996656a"
+      },
+      {
+        "id": 397650,
+        "mouza_id": 86113,
+        "mouza_name": "আটোয়ারী",
+        "jl_no": "8",
+        "uuid": "c23420e2-5738-4b71-a25f-312844cd7091"
+      },
+      {
+        "id": 182477,
+        "mouza_id": 56960,
+        "mouza_name": "দাড়খোর",
+        "jl_no": "9",
+        "uuid": "c3104248-c953-4418-bb0b-a82ffbe371db"
+      },
+      {
+        "id": 39623,
+        "mouza_id": 15186,
+        "mouza_name": "দারখোড়",
+        "jl_no": "9",
+        "uuid": "4ee29d4a-6a28-4ecb-810c-fae1bb7a5f1e"
+      },
+      {
+        "id": 41947,
+        "mouza_id": 15976,
+        "mouza_name": "উঃ দুর্গাপুর",
+        "jl_no": "10",
+        "uuid": "39483d2b-ce2f-4b2b-b405-cce828f1633a"
+      },
+      {
+        "id": 39629,
+        "mouza_id": 15187,
+        "mouza_name": "বারাগাও",
+        "jl_no": "11",
+        "uuid": "f3d67216-edb9-447c-9e77-2a108a49327e"
+      },
+      {
+        "id": 397656,
+        "mouza_id": 74447,
+        "mouza_name": "লতিঝারি",
+        "jl_no": "12",
+        "uuid": "c43b35f0-9a6c-4c25-b842-14dbcada622e"
+      },
+      {
+        "id": 183240,
+        "mouza_id": 57229,
+        "mouza_name": "সিকটীহারী",
+        "jl_no": "13",
+        "uuid": "b860bf87-34b6-469d-9190-eee36fa8bc2c"
+      },
+      {
+        "id": 80304,
+        "mouza_id": 27682,
+        "mouza_name": "মির্জ্জাপুর",
+        "jl_no": "14",
+        "uuid": "aedb1704-45d2-4e55-9515-2269cd066754"
+      },
+      {
+        "id": 183457,
+        "mouza_id": 17742,
+        "mouza_name": "কৃষ্ণনগর",
+        "jl_no": "15",
+        "uuid": "01b95b7b-6b2e-4cdc-aca2-fdb988f8d507"
+      },
+      {
+        "id": 287409,
+        "mouza_id": 17761,
+        "mouza_name": "জুগিকাটা",
+        "jl_no": "16",
+        "uuid": "031d8b2b-4568-4c05-bf92-c0d36c8402c7"
+      },
+      {
+        "id": 397647,
+        "mouza_id": 87441,
+        "mouza_name": "পানবরা",
+        "jl_no": "17",
+        "uuid": "dec2a5e7-51dd-41b5-94f3-7b58126e0d39"
+      },
+      {
+        "id": 80211,
+        "mouza_id": 27649,
+        "mouza_name": "আরাজী কৃষ্ণনগর",
+        "jl_no": "18",
+        "uuid": "0e2b5583-8174-4cae-a9e0-2b5681026480"
+      },
+      {
+        "id": 80175,
+        "mouza_id": 27636,
+        "mouza_name": "কিসমত পানবরা",
+        "jl_no": "19",
+        "uuid": "6bc8d6f1-f136-4058-816f-a5c5976b84b0"
+      },
+      {
+        "id": 6860,
+        "mouza_id": 4954,
+        "mouza_name": "বার আউলিয়া",
+        "jl_no": "20",
+        "uuid": "a2287531-b019-448f-bebe-fe7eb5d1271f"
+      },
+      {
+        "id": 80313,
+        "mouza_id": 27684,
+        "mouza_name": "সর্দ্দারপাড়া",
+        "jl_no": "21",
+        "uuid": "de27065e-ac65-4444-bdb0-7d693bef9dd9"
+      },
+      {
+        "id": 186023,
+        "mouza_id": 32213,
+        "mouza_name": "লক্ষীপুর",
+        "jl_no": "22",
+        "uuid": "bbc6baf7-80ba-49da-8d65-f89d7896a681"
+      },
+      {
+        "id": 186509,
+        "mouza_id": 58271,
+        "mouza_name": "ঝলঝলী",
+        "jl_no": "23",
+        "uuid": "d575cb0e-969d-4a62-aaa1-fe080120f6c4"
+      },
+      {
+        "id": 186606,
+        "mouza_id": 58309,
+        "mouza_name": "তড়িয়া",
+        "jl_no": "24",
+        "uuid": "5517d277-abbb-4696-9960-90be2f91207d"
+      },
+      {
+        "id": 94909,
+        "mouza_id": 32407,
+        "mouza_name": "যাদববাটী",
+        "jl_no": "25",
+        "uuid": "777eb658-ea34-46d1-bbb8-f8ac6530be8f"
+      },
+      {
+        "id": 283410,
+        "mouza_id": 83226,
+        "mouza_name": "ছেপড়াঝাড়.",
+        "jl_no": "27",
+        "uuid": "ed7dbd9a-ac31-42f5-9032-0eee2f6c9a22"
+      },
+      {
+        "id": 397652,
+        "mouza_id": 32398,
+        "mouza_name": "বোধগাও",
+        "jl_no": "28",
+        "uuid": "a93f2483-e86e-47f1-8796-5146b0029742"
+      },
+      {
+        "id": 397651,
+        "mouza_id": 32223,
+        "mouza_name": "বর্ষালু পাড়া",
+        "jl_no": "29",
+        "uuid": "4ab4b54e-40c0-48c5-95ee-ccda9ad26b5d"
+      },
+      {
+        "id": 95534,
+        "mouza_id": 32424,
+        "mouza_name": "নিতুপাড়া",
+        "jl_no": "30",
+        "uuid": "1e447bda-47bd-4cfc-9566-c2317e4968eb"
+      },
+      {
+        "id": 95379,
+        "mouza_id": 32529,
+        "mouza_name": "সুখাতী",
+        "jl_no": "31",
+        "uuid": "487f395f-3dba-4f7f-b35f-f1a5b5b25133"
+      },
+      {
+        "id": 397637,
+        "mouza_id": 32538,
+        "mouza_name": "কিসমত.দাপ",
+        "jl_no": "32",
+        "uuid": "b6f15b96-dcfa-4a03-aada-83c0a2edf06c"
+      },
+      {
+        "id": 279603,
+        "mouza_id": 84659,
+        "mouza_name": "ছোটদাপ.",
+        "jl_no": "33",
+        "uuid": "090553c1-8daf-4867-9104-122dc97fdd69"
+      },
+      {
+        "id": 397653,
+        "mouza_id": 32595,
+        "mouza_name": "বড়সিঙ্গা",
+        "jl_no": "34",
+        "uuid": "346e2941-56f7-43c3-8bd3-99e8021fba04"
+      },
+      {
+        "id": 96434,
+        "mouza_id": 32792,
+        "mouza_name": "পালটাপাড়া",
+        "jl_no": "35",
+        "uuid": "2ffb4a40-ab16-4abe-b1c5-4ba45fc64950"
+      },
+      {
+        "id": 192632,
+        "mouza_id": 60070,
+        "mouza_name": "আলোয়া খাওয়া",
+        "jl_no": "36",
+        "uuid": "c2c59f96-bd4b-40cf-9613-1a4c06eb79f5"
+      },
+      {
+        "id": 96045,
+        "mouza_id": 32676,
+        "mouza_name": "বালিয়া",
+        "jl_no": "37",
+        "uuid": "057e0985-921d-4292-9e8e-407a44293a03"
+      },
+      {
+        "id": 96404,
+        "mouza_id": 32785,
+        "mouza_name": "বামনকুমার",
+        "jl_no": "38",
+        "uuid": "f88ece33-9af0-4979-8bad-3d2f8efc9032"
+      },
+      {
+        "id": 96386,
+        "mouza_id": 32777,
+        "mouza_name": "রামপুর",
+        "jl_no": "39",
+        "uuid": "63d1560e-14b7-4fba-a934-a62f5a1fd53f"
+      },
+      {
+        "id": 99503,
+        "mouza_id": 33629,
+        "mouza_name": "বাকডোকরা",
+        "jl_no": "40",
+        "uuid": "9036107c-82d5-4d7d-a266-4542610b69e6"
+      },
+      {
+        "id": 96565,
+        "mouza_id": 32833,
+        "mouza_name": "মোলানী",
+        "jl_no": "41",
+        "uuid": "c034c83f-aa6b-41bc-b47e-2b8f4f03a762"
+      },
+      {
+        "id": 96939,
+        "mouza_id": 32933,
+        "mouza_name": "রঘুনাথপুর",
+        "jl_no": "42",
+        "uuid": "8fcda454-f18a-4864-b2d0-c498b3213d6c"
+      },
+      {
+        "id": 96782,
+        "mouza_id": 32876,
+        "mouza_name": "গোবিন্দপুর",
+        "jl_no": "43",
+        "uuid": "799d70f4-1584-4615-867e-07de3d334c16"
+      },
+      {
+        "id": 284755,
+        "mouza_id": 85603,
+        "mouza_name": "বড়দাপ.",
+        "jl_no": "44",
+        "uuid": "44546139-f7d0-4160-b117-da2b4bba0050"
+      },
+      {
+        "id": 193891,
+        "mouza_id": 32936,
+        "mouza_name": "কালিকাপুর",
+        "jl_no": "45",
+        "uuid": "02622039-c716-41eb-9808-d0aae3c6d0af"
+      },
+      {
+        "id": 397646,
+        "mouza_id": 86406,
+        "mouza_name": "নলপুখরী",
+        "jl_no": "46",
+        "uuid": "5c7e0d9f-1b58-426c-a79a-173cb906bb10"
+      },
+      {
+        "id": 397654,
+        "mouza_id": 85157,
+        "mouza_name": "রসেয়া",
+        "jl_no": "47",
+        "uuid": "851c575d-e760-4d49-a052-543d877e8fb3"
+      },
+      {
+        "id": 397635,
+        "mouza_id": 84210,
+        "mouza_name": "কিসমত রসেয়া",
+        "jl_no": "48",
+        "uuid": "7fd8fdc7-fe07-40eb-a955-2a8a54f36593"
+      },
+      {
+        "id": 279772,
+        "mouza_id": 33042,
+        "mouza_name": "মালিগাও",
+        "jl_no": "50",
+        "uuid": "f01ea7f3-b585-4a41-ad37-a02751039fc1"
+      },
+      {
+        "id": 282772,
+        "mouza_id": 85920,
+        "mouza_name": "দক্ষিণ দূর্গাপূর",
+        "jl_no": "51",
+        "uuid": "7de5e468-086a-4cf6-b75c-9c8a519b10ce"
+      },
+      {
+        "id": 282581,
+        "mouza_id": 85879,
+        "mouza_name": "দূহসুহ",
+        "jl_no": "52",
+        "uuid": "bb0a822b-1d70-425b-97ea-205195fbab87"
+      },
+      {
+        "id": 97622,
+        "mouza_id": 33093,
+        "mouza_name": "চুচুলী",
+        "jl_no": "53",
+        "uuid": "b1b063ee-3163-4bdd-86af-eca35b754c49"
+      },
+      {
+        "id": 97594,
+        "mouza_id": 33106,
+        "mouza_name": "আঃ চামেশ্বরী",
+        "jl_no": "54",
+        "uuid": "3bba9728-81e9-4849-9d59-909f1d2777e5"
+      },
+      {
+        "id": 282517,
+        "mouza_id": 85857,
+        "mouza_name": "ত্রিশূলিয়া",
+        "jl_no": "55",
+        "uuid": "f6989fe5-0b8e-44c8-ab54-6e39acadda0d"
+      },
+      {
+        "id": 397642,
+        "mouza_id": 83436,
+        "mouza_name": "চামেশ্বরী",
+        "jl_no": "56",
+        "uuid": "e4fc452d-6cf2-4ef7-870a-3ffa7c5157ce"
+      },
+      {
+        "id": 97824,
+        "mouza_id": 33163,
+        "mouza_name": "কালমেঘ",
+        "jl_no": "57",
+        "uuid": "048853d2-4a2e-429b-9f97-200244515474"
+      },
+      {
+        "id": 196169,
+        "mouza_id": 61115,
+        "mouza_name": "লক্ষীদ্বার",
+        "jl_no": "58",
+        "uuid": "d39a35fc-12bc-40df-89bb-b5c5120c747b"
+      },
+      {
+        "id": 98322,
+        "mouza_id": 33303,
+        "mouza_name": "বলরামপুর",
+        "jl_no": "59",
+        "uuid": "5b79ab24-6bee-49c4-84ea-c8960fe5871e"
+      },
+      {
+        "id": 282897,
+        "mouza_id": 85958,
+        "mouza_name": "কুড়ূলিয়া",
+        "jl_no": "60",
+        "uuid": "086ee4c2-7a1b-48aa-9da7-7dfd447e99d0"
+      },
+      {
+        "id": 272902,
+        "mouza_id": 82292,
+        "mouza_name": "সাতখামার.",
+        "jl_no": "61",
+        "uuid": "23f9d6d5-90d2-4ad3-a64a-9dd196d42d0b"
+      },
+      {
+        "id": 276184,
+        "mouza_id": 83226,
+        "mouza_name": "ছেপড়াঝাড়.",
+        "jl_no": ".",
+        "uuid": "f65abe66-e4e8-4bb9-b9b6-ca3bf8aba950"
+      },
+      {
+        "id": 286886,
+        "mouza_id": 84100,
+        "mouza_name": "রাধানগর.",
+        "jl_no": "-",
+        "uuid": "e607d51d-8ee2-4615-93c9-eba7c3fcf45e"
+      }
+    ]
+  },
+  {
+    "upazila_en": "ATWARI",
+    "upazila_bn": "আটোয়ারী",
+    "upazila_bbs": "04",
+    "district_bbs": "77",
+    "survey": "RS",
+    "mouza_count": 3,
+    "mouzas": [
+      {
+        "id": 397649,
+        "mouza_id": 32792,
+        "mouza_name": "পাল্টাপাড়া",
+        "jl_no": "35",
+        "uuid": "25a07b99-5d8d-48a6-aa7a-56e879656a85"
+      },
+      {
+        "id": 282150,
+        "mouza_id": 32933,
+        "mouza_name": "রঘুনাথপুর",
+        "jl_no": "42",
+        "uuid": "c679ed44-5a72-4cf4-a0b6-9fc8eec20077"
+      },
+      {
+        "id": 397641,
+        "mouza_id": 83436,
+        "mouza_name": "চামেশ্বরী",
+        "jl_no": "56",
+        "uuid": "82dc0724-1e1f-4d37-a8bd-6ad75ce1aa33"
+      }
+    ]
+  },
+  {
+    "upazila_en": "ATWARI",
+    "upazila_bn": "আটোয়ারী",
+    "upazila_bbs": "04",
+    "district_bbs": "77",
+    "survey": "SA",
+    "mouza_count": 62,
+    "mouzas": [
+      {
+        "id": 397636,
+        "mouza_id": 55973,
+        "mouza_name": "কিসমত সোনাপাতিলা",
+        "jl_no": "1",
+        "uuid": "f0541f8d-7679-4293-a0ef-168cd39bb476"
+      },
+      {
+        "id": 283369,
+        "mouza_id": 55963,
+        "mouza_name": "রাজাগাও",
+        "jl_no": "2",
+        "uuid": "33887a38-b0bf-4a8e-84bd-e182d1bb74d8"
+      },
+      {
+        "id": 284937,
+        "mouza_id": 86519,
+        "mouza_name": "ধামোড়",
+        "jl_no": "3",
+        "uuid": "5bf4322a-de37-4545-bf10-d04866c097a1"
+      },
+      {
+        "id": 287222,
+        "mouza_id": 87162,
+        "mouza_name": "পানিসালী",
+        "jl_no": "4",
+        "uuid": "50fe9086-7d1b-4cfa-aa13-7fb84a82796e"
+      },
+      {
+        "id": 261653,
+        "mouza_id": 79373,
+        "mouza_name": "দানাবীর    ,",
+        "jl_no": "5",
+        "uuid": "9b5f1448-3b40-4b89-83b5-7a88e7b31253"
+      },
+      {
+        "id": 7406,
+        "mouza_id": 5114,
+        "mouza_name": "গিরাগাও",
+        "jl_no": "6",
+        "uuid": "2da80984-1993-42e0-a7d0-d477edd11fc0"
+      },
+      {
+        "id": 285033,
+        "mouza_id": 86542,
+        "mouza_name": "আটোয়ারী.",
+        "jl_no": "7",
+        "uuid": "6071c7cd-bbdb-4e54-b4e4-91e714da89eb"
+      },
+      {
+        "id": 283472,
+        "mouza_id": 86113,
+        "mouza_name": "ফতেপূর",
+        "jl_no": "8",
+        "uuid": "8fe120ba-bdb5-4404-a71f-d2108ace17c8"
+      },
+      {
+        "id": 39624,
+        "mouza_id": 15186,
+        "mouza_name": "দারখোড়",
+        "jl_no": "9",
+        "uuid": "cf61dc7f-9fd1-48fb-8666-d075df3a8704"
+      },
+      {
+        "id": 41948,
+        "mouza_id": 15976,
+        "mouza_name": "উঃ দূর্গাপুর",
+        "jl_no": "10",
+        "uuid": "b3de63be-c568-4643-9025-f1410e551fda"
+      },
+      {
+        "id": 39630,
+        "mouza_id": 15187,
+        "mouza_name": "বারাগাও",
+        "jl_no": "11",
+        "uuid": "6494daa2-8155-4cb7-90d9-37f0326e9cfa"
+      },
+      {
+        "id": 246076,
+        "mouza_id": 74447,
+        "mouza_name": "লতিঝারি .",
+        "jl_no": "12",
+        "uuid": "8a4197d8-2621-4731-8e15-5161c7d19e3a"
+      },
+      {
+        "id": 397657,
+        "mouza_id": 57229,
+        "mouza_name": "সিকটিহারী",
+        "jl_no": "13",
+        "uuid": "c4711e3c-de33-4003-9244-c96c3ebb4397"
+      },
+      {
+        "id": 80305,
+        "mouza_id": 27682,
+        "mouza_name": "মির্জ্জাপুর",
+        "jl_no": "14",
+        "uuid": "515f80ae-71f0-4394-84a0-7c02fdf7735f"
+      },
+      {
+        "id": 47984,
+        "mouza_id": 17742,
+        "mouza_name": "কৃষ্ণনগর",
+        "jl_no": "15",
+        "uuid": "7c7971c0-eed5-4deb-a809-206673c4ef49"
+      },
+      {
+        "id": 48072,
+        "mouza_id": 17761,
+        "mouza_name": "জুগিকাটা",
+        "jl_no": "16",
+        "uuid": "cc0d8982-3ede-4dc5-abda-868dc7a6b03f"
+      },
+      {
+        "id": 288341,
+        "mouza_id": 87441,
+        "mouza_name": "পানবারা",
+        "jl_no": "17",
+        "uuid": "d3d4d120-649d-43e6-b313-6891bd722145"
+      },
+      {
+        "id": 80212,
+        "mouza_id": 27649,
+        "mouza_name": "আরাজী কৃষ্ণনগর",
+        "jl_no": "18",
+        "uuid": "219c3060-4c18-46a5-a716-494054be68b6"
+      },
+      {
+        "id": 80176,
+        "mouza_id": 27636,
+        "mouza_name": "কিসমত পানবরা",
+        "jl_no": "19",
+        "uuid": "8d69ef3b-86ba-49d5-836d-2bfbc47c4e4a"
+      },
+      {
+        "id": 6881,
+        "mouza_id": 4954,
+        "mouza_name": "বার আউলিয়া",
+        "jl_no": "20",
+        "uuid": "30fc0d7c-df5f-40ec-b9d2-8364bd73994d"
+      },
+      {
+        "id": 80314,
+        "mouza_id": 27684,
+        "mouza_name": "সর্দ্দারপাড়া",
+        "jl_no": "21",
+        "uuid": "8fe41a1e-34e7-4c9c-bd7f-9e1299f57b53"
+      },
+      {
+        "id": 94267,
+        "mouza_id": 32213,
+        "mouza_name": "লক্ষীপুর",
+        "jl_no": "22",
+        "uuid": "0146e276-33a9-4ffb-83e7-daefcff4d8d3"
+      },
+      {
+        "id": 224364,
+        "mouza_id": 58271,
+        "mouza_name": "ঝলঝলী",
+        "jl_no": "23",
+        "uuid": "ba239c44-75e2-4b52-887c-1d374ba2ad26"
+      },
+      {
+        "id": 287264,
+        "mouza_id": 58309,
+        "mouza_name": "তড়িয়া",
+        "jl_no": "24",
+        "uuid": "1e9d1030-c8c1-47d3-80f7-5ed562a70aa3"
+      },
+      {
+        "id": 94910,
+        "mouza_id": 32407,
+        "mouza_name": "যাদববাটী",
+        "jl_no": "25",
+        "uuid": "f05199fc-a7e4-49e9-a028-fa95b2656775"
+      },
+      {
+        "id": 243066,
+        "mouza_id": 73451,
+        "mouza_name": "কাটালী .",
+        "jl_no": "26",
+        "uuid": "42c00ee2-1219-41ab-b41a-4eba59474918"
+      },
+      {
+        "id": 276185,
+        "mouza_id": 83226,
+        "mouza_name": "ছেপড়াঝাড়.",
+        "jl_no": "27",
+        "uuid": "c057a6aa-1c5f-4021-8e95-b22d904f1e90"
+      },
+      {
+        "id": 94969,
+        "mouza_id": 32398,
+        "mouza_name": "বোধগাঁও",
+        "jl_no": "28",
+        "uuid": "b384b125-0043-4047-a427-7022b617bf1f"
+      },
+      {
+        "id": 94341,
+        "mouza_id": 32223,
+        "mouza_name": "বর্ষালুপাড়া",
+        "jl_no": "29",
+        "uuid": "51c71c9e-8f7d-49d1-95d6-ab23df61b17d"
+      },
+      {
+        "id": 94997,
+        "mouza_id": 32424,
+        "mouza_name": "নিতুপাড়া",
+        "jl_no": "30",
+        "uuid": "9edabf8b-a8e6-4e41-822b-3a6c1dd48495"
+      },
+      {
+        "id": 95380,
+        "mouza_id": 32529,
+        "mouza_name": "সুখাতী",
+        "jl_no": "31",
+        "uuid": "79d2ae40-edc8-4c90-87ae-39f0b10782a1"
+      },
+      {
+        "id": 95461,
+        "mouza_id": 32538,
+        "mouza_name": "কিসমত দাপ",
+        "jl_no": "32",
+        "uuid": "7a131fa9-811c-45a7-85d1-e44df5aefdc2"
+      },
+      {
+        "id": 397643,
+        "mouza_id": 84659,
+        "mouza_name": "ছোটদাপ",
+        "jl_no": "33",
+        "uuid": "53fb6f17-b3e2-4c67-bacc-63daa98ca12c"
+      },
+      {
+        "id": 95718,
+        "mouza_id": 32595,
+        "mouza_name": "বড়সিঙ্গাঁ",
+        "jl_no": "34",
+        "uuid": "22299106-ce05-463c-a7bb-4c03f7240d41"
+      },
+      {
+        "id": 96435,
+        "mouza_id": 32792,
+        "mouza_name": "পালটাপাড়া",
+        "jl_no": "35",
+        "uuid": "0c5c0d06-4be2-44bf-b286-aa230437d1e6"
+      },
+      {
+        "id": 397630,
+        "mouza_id": 60070,
+        "mouza_name": "আলোয়া খাওয়া ",
+        "jl_no": "36",
+        "uuid": "fdbbd053-6c10-4f3f-8983-b158e21b031c"
+      },
+      {
+        "id": 96046,
+        "mouza_id": 32676,
+        "mouza_name": "বালিয়া",
+        "jl_no": "37",
+        "uuid": "3a801487-1ca3-4142-8eec-05eab18c3d89"
+      },
+      {
+        "id": 96405,
+        "mouza_id": 32785,
+        "mouza_name": "বামনকুমার",
+        "jl_no": "38",
+        "uuid": "9a8068c9-0ad9-40bc-9c35-11c75cbe8c27"
+      },
+      {
+        "id": 96387,
+        "mouza_id": 32777,
+        "mouza_name": "রামপুর",
+        "jl_no": "39",
+        "uuid": "171348b3-bec4-496d-b05c-700a847e14f1"
+      },
+      {
+        "id": 99504,
+        "mouza_id": 33629,
+        "mouza_name": "বাকডোকরা",
+        "jl_no": "40",
+        "uuid": "d72f177f-5a37-46d7-8255-7b2b5d6136cb"
+      },
+      {
+        "id": 96566,
+        "mouza_id": 32833,
+        "mouza_name": "মোলানী",
+        "jl_no": "41",
+        "uuid": "89fec99d-81f6-4891-8ec6-32bc314766f0"
+      },
+      {
+        "id": 96940,
+        "mouza_id": 32933,
+        "mouza_name": "রঘুনাথপুর",
+        "jl_no": "42",
+        "uuid": "99b108ff-e4e8-4f82-b235-9229dbbc3f89"
+      },
+      {
+        "id": 96783,
+        "mouza_id": 32876,
+        "mouza_name": "গোবিন্দপুর",
+        "jl_no": "43",
+        "uuid": "b797b771-2d3a-4f97-a515-551be0168f24"
+      },
+      {
+        "id": 281590,
+        "mouza_id": 85603,
+        "mouza_name": "বড়দাপ.",
+        "jl_no": "44",
+        "uuid": "635a8764-bfc0-462a-b7ba-09d6aca19175"
+      },
+      {
+        "id": 96952,
+        "mouza_id": 32936,
+        "mouza_name": "কালিকাপুর",
+        "jl_no": "45",
+        "uuid": "bb7dad1c-49e2-4240-985f-f7f6ce5ba946"
+      },
+      {
+        "id": 284566,
+        "mouza_id": 86406,
+        "mouza_name": "নলপূখরী",
+        "jl_no": "46",
+        "uuid": "e4b5c034-1810-481a-913d-b59a71adaac2"
+      },
+      {
+        "id": 280701,
+        "mouza_id": 85157,
+        "mouza_name": "রসেয়া,",
+        "jl_no": "47",
+        "uuid": "587976c6-4b96-44d3-b319-b679e254bf92"
+      },
+      {
+        "id": 278601,
+        "mouza_id": 84210,
+        "mouza_name": "কিসমতরসেয়া",
+        "jl_no": "48",
+        "uuid": "436936b4-d5bc-4e36-ac4f-0dff3c5b1c9f"
+      },
+      {
+        "id": 97397,
+        "mouza_id": 33042,
+        "mouza_name": "মালিগাও",
+        "jl_no": "50",
+        "uuid": "b6c49bb5-2a20-4740-ad7a-7f9a0d006697"
+      },
+      {
+        "id": 397644,
+        "mouza_id": 85920,
+        "mouza_name": "দক্ষিণ দূর্গাপুর",
+        "jl_no": "51",
+        "uuid": "01359177-56dc-4b20-b8da-b026512b91f1"
+      },
+      {
+        "id": 282582,
+        "mouza_id": 85879,
+        "mouza_name": "দূহসুহ",
+        "jl_no": "52",
+        "uuid": "82b5c869-58cb-43c0-a121-42b4e8dee17c"
+      },
+      {
+        "id": 97623,
+        "mouza_id": 33093,
+        "mouza_name": "চুচুলী",
+        "jl_no": "53",
+        "uuid": "f0e20cc6-2b2d-4163-8dc6-88140676eef9"
+      },
+      {
+        "id": 97595,
+        "mouza_id": 33106,
+        "mouza_name": "আঃ চামেশ্বরী",
+        "jl_no": "54",
+        "uuid": "839d550b-b6e3-4f0d-8d1a-6d2129a14f73"
+      },
+      {
+        "id": 282518,
+        "mouza_id": 85857,
+        "mouza_name": "ত্রিশূলিয়া",
+        "jl_no": "55",
+        "uuid": "82fae0f8-381a-41ac-801a-fc7d44608d38"
+      },
+      {
+        "id": 276962,
+        "mouza_id": 83436,
+        "mouza_name": "চামেস্বরী",
+        "jl_no": "56",
+        "uuid": "85b39579-b2d2-46b6-ae00-40c1c90e7d25"
+      },
+      {
+        "id": 97825,
+        "mouza_id": 33163,
+        "mouza_name": "কালমেঘ",
+        "jl_no": "57",
+        "uuid": "0f80e3a8-8029-4203-87d6-91ac241e1674"
+      },
+      {
+        "id": 274204,
+        "mouza_id": 61115,
+        "mouza_name": "লক্ষীদ্বার",
+        "jl_no": "58",
+        "uuid": "4e9edeb5-87b3-4e6e-8f4f-029c08bee0d1"
+      },
+      {
+        "id": 98323,
+        "mouza_id": 33303,
+        "mouza_name": "বলরামপুর",
+        "jl_no": "59",
+        "uuid": "96c34316-6da0-44cc-b949-9ad5ca4251f2"
+      },
+      {
+        "id": 397638,
+        "mouza_id": 85958,
+        "mouza_name": "কুড়ুলিয়া",
+        "jl_no": "60",
+        "uuid": "b02b2c1b-588d-4316-9329-b90964a25f6c"
+      },
+      {
+        "id": 272903,
+        "mouza_id": 82292,
+        "mouza_name": "সাতখামার.",
+        "jl_no": "61",
+        "uuid": "b51810e7-0396-4f76-980d-47be4cd9be73"
+      },
+      {
+        "id": 242924,
+        "mouza_id": 58309,
+        "mouza_name": "তড়িযা",
+        "jl_no": "-",
+        "uuid": "77ce1361-5328-4087-b66c-c7f0ba3caf64"
+      },
+      {
+        "id": 278329,
+        "mouza_id": 84100,
+        "mouza_name": "রাধানগর.",
+        "jl_no": "-",
+        "uuid": "bf70901e-09e4-4859-bfed-c7fa25cce2b8"
+      }
+    ]
+  },
+  {
+    "upazila_en": "BODA",
+    "upazila_bn": "বোদা",
+    "upazila_bbs": "25",
+    "district_bbs": "77",
+    "survey": "BRS",
+    "mouza_count": 45,
+    "mouzas": [
+      {
+        "id": 416795,
+        "mouza_id": 86306,
+        "mouza_name": "খারিজা ঝলই ভক্তরাম",
+        "jl_no": "1",
+        "uuid": "212436eb-8ffb-4f94-b655-dff3445443bf"
+      },
+      {
+        "id": 398936,
+        "mouza_id": 101774,
+        "mouza_name": "খারিজা ঝলই  লাল মামুদ",
+        "jl_no": "8",
+        "uuid": "a8f60276-f05a-47b3-8e13-cffbf417df97"
+      },
+      {
+        "id": 386368,
+        "mouza_id": 36352,
+        "mouza_name": "আহাম্মদ নগর",
+        "jl_no": "11",
+        "uuid": "969888fe-ec6e-44ff-b15c-332312744355"
+      },
+      {
+        "id": 444723,
+        "mouza_id": 80139,
+        "mouza_name": "দেবীকান্ত",
+        "jl_no": "18",
+        "uuid": "0f1f3eba-0efc-4b61-88fc-f5230da71d2e"
+      },
+      {
+        "id": 416888,
+        "mouza_id": 86707,
+        "mouza_name": "আরাজী পীর মামুদ",
+        "jl_no": "19",
+        "uuid": "58b15aae-37ca-46d0-a7d1-1d035b77bfd1"
+      },
+      {
+        "id": 416801,
+        "mouza_id": 87177,
+        "mouza_name": "দৌলতপুর",
+        "jl_no": "23",
+        "uuid": "1125ce94-c757-496c-8a5a-0e2ee0c75d0e"
+      },
+      {
+        "id": 444981,
+        "mouza_id": 105051,
+        "mouza_name": "দক্ষিণ মাগুরা",
+        "jl_no": "27",
+        "uuid": "d8f694e5-96e6-43f2-a4ba-c1c74610062c"
+      },
+      {
+        "id": 360658,
+        "mouza_id": 69383,
+        "mouza_name": "পুটিমারী",
+        "jl_no": "30",
+        "uuid": "7f4b732b-2f04-4347-9f05-ad8d00e84788"
+      },
+      {
+        "id": 416875,
+        "mouza_id": 36924,
+        "mouza_name": "বাকপুর",
+        "jl_no": "31",
+        "uuid": "b7e057c4-7bd2-4306-8194-c389b19b7113"
+      },
+      {
+        "id": 416566,
+        "mouza_id": 39348,
+        "mouza_name": "আরাজী সুভাসুজন ",
+        "jl_no": "36",
+        "uuid": "87e04e49-b111-468f-b3e8-c3487fd190fd"
+      },
+      {
+        "id": 444714,
+        "mouza_id": 101773,
+        "mouza_name": "আরাজী শিকারপুর",
+        "jl_no": "37",
+        "uuid": "c18d4aaf-4bd1-4cca-b58d-c257bd7ecea9"
+      },
+      {
+        "id": 386308,
+        "mouza_id": 39295,
+        "mouza_name": "ঘাগড়া",
+        "jl_no": "38",
+        "uuid": "4a629cfe-eb24-492b-b687-d2f799fcde7f"
+      },
+      {
+        "id": 386223,
+        "mouza_id": 83334,
+        "mouza_name": "ঝলঝলি",
+        "jl_no": "41",
+        "uuid": "44a6d200-9fba-4e33-b0c4-40140d820839"
+      },
+      {
+        "id": 416470,
+        "mouza_id": 37760,
+        "mouza_name": "ঝলঝলী সুভাসুজন",
+        "jl_no": "42",
+        "uuid": "b9b8f877-4020-4c38-a867-fac3198e7c91"
+      },
+      {
+        "id": 444733,
+        "mouza_id": 101775,
+        "mouza_name": "মনিরাম জোত হরদেব",
+        "jl_no": "54",
+        "uuid": "7090cf98-290b-4e60-a868-689e4a1d4f2f"
+      },
+      {
+        "id": 416563,
+        "mouza_id": 39570,
+        "mouza_name": "বালা আব্দল্লাহ",
+        "jl_no": "64",
+        "uuid": "2c83ab5c-cc8a-4239-a0ef-f8c7323f5c3a"
+      },
+      {
+        "id": 386187,
+        "mouza_id": 86419,
+        "mouza_name": "শিবদত্ত পুজারী",
+        "jl_no": "69",
+        "uuid": "eaf4ac51-4762-4761-8f8a-aef808985594"
+      },
+      {
+        "id": 386222,
+        "mouza_id": 86287,
+        "mouza_name": "বালাভির",
+        "jl_no": "71",
+        "uuid": "321c386c-f89d-4eaa-bc38-0a38bdde1d9d"
+      },
+      {
+        "id": 448315,
+        "mouza_id": 87257,
+        "mouza_name": "পামুলী বাবদ খারিজা",
+        "jl_no": "75",
+        "uuid": "f305e616-50ff-4bbe-be46-39220c73dd0f"
+      },
+      {
+        "id": 444727,
+        "mouza_id": 37942,
+        "mouza_name": "বলহরি বাবদ খারিজা ",
+        "jl_no": "87",
+        "uuid": "6c8cda67-e8ca-42ae-b192-d8707be6e26c"
+      },
+      {
+        "id": 360710,
+        "mouza_id": 38021,
+        "mouza_name": "খারিজা বনগ্রাম",
+        "jl_no": "90",
+        "uuid": "f4b974cf-2f0c-489b-8417-7bcfccadb180"
+      },
+      {
+        "id": 444725,
+        "mouza_id": 38073,
+        "mouza_name": "দেবোত্তর বোদেশ্বরী",
+        "jl_no": "91",
+        "uuid": "69faba4b-8de3-4239-9c28-f9e022cec9a8"
+      },
+      {
+        "id": 386224,
+        "mouza_id": 38074,
+        "mouza_name": "নাওতারি আরাজী",
+        "jl_no": "92",
+        "uuid": "55248fa5-72dd-49cc-bac5-ff4f3de81458"
+      },
+      {
+        "id": 360656,
+        "mouza_id": 84497,
+        "mouza_name": "বনগ্রাম খারিজা",
+        "jl_no": "94",
+        "uuid": "208d808a-d048-4f01-9ef6-9a8790f1adff"
+      },
+      {
+        "id": 360660,
+        "mouza_id": 83485,
+        "mouza_name": "ডেনাকাটা",
+        "jl_no": "96",
+        "uuid": "c4573ad6-9689-41c0-b91d-965a6ab8a977"
+      },
+      {
+        "id": 360662,
+        "mouza_id": 69379,
+        "mouza_name": "দৈখাতা",
+        "jl_no": "97",
+        "uuid": "62d90dc8-9b6f-405d-bc88-440f452d50a6"
+      },
+      {
+        "id": 397683,
+        "mouza_id": 86288,
+        "mouza_name": "উত্তর টোকরাভাষা",
+        "jl_no": "105",
+        "uuid": "a8a34103-63ea-434e-8293-4b38ed0e9e37"
+      },
+      {
+        "id": 386428,
+        "mouza_id": 38172,
+        "mouza_name": "পশ্চিমটোকরাভাষা",
+        "jl_no": "107",
+        "uuid": "1f34ef53-bb4d-4382-b6c4-4e00947a3735"
+      },
+      {
+        "id": 386309,
+        "mouza_id": 38931,
+        "mouza_name": "হারাগঞ্জ",
+        "jl_no": "114",
+        "uuid": "05babca9-26d1-48a6-9765-367dffd5d43b"
+      },
+      {
+        "id": 386429,
+        "mouza_id": 40087,
+        "mouza_name": "নূরনগর",
+        "jl_no": "118",
+        "uuid": "9b5b047a-bd36-4b39-a6a3-19f5f4913edc"
+      },
+      {
+        "id": 386225,
+        "mouza_id": 101785,
+        "mouza_name": "খেলারাম ভোলাডাঙ্গা",
+        "jl_no": "119",
+        "uuid": "0518a4ee-9668-4015-a209-9bce1a64bb36"
+      },
+      {
+        "id": 386373,
+        "mouza_id": 87258,
+        "mouza_name": "তাজ মামুদ",
+        "jl_no": "120",
+        "uuid": "23fe4ac0-1d29-48a0-84bc-af281a9bea27"
+      },
+      {
+        "id": 386200,
+        "mouza_id": 86709,
+        "mouza_name": "কাদেরিয়াবাদ",
+        "jl_no": "121",
+        "uuid": "522f58d9-a8c2-4b65-9d68-45f507c0495e"
+      },
+      {
+        "id": 416711,
+        "mouza_id": 87050,
+        "mouza_name": "আরাজী সাকোয়াকামাত",
+        "jl_no": "123",
+        "uuid": "f0463a03-f1bd-4e40-b121-2faf4cce32df"
+      },
+      {
+        "id": 386188,
+        "mouza_id": 40066,
+        "mouza_name": "সাকোয়া কামাত",
+        "jl_no": "124",
+        "uuid": "60722ab0-0035-4afc-9a11-b7a4be4af82b"
+      },
+      {
+        "id": 416806,
+        "mouza_id": 87836,
+        "mouza_name": "করিমপুর ",
+        "jl_no": "126",
+        "uuid": "2959e3fa-708e-44b8-aaf2-b7691cdd9820"
+      },
+      {
+        "id": 386198,
+        "mouza_id": 86452,
+        "mouza_name": "দেবোত্তর বাবদ জোত",
+        "jl_no": "135",
+        "uuid": "47676085-6887-4f0c-aa7f-bf9e2b79c3bf"
+      },
+      {
+        "id": 444718,
+        "mouza_id": 86159,
+        "mouza_name": "ছত্র শিকারপুর ",
+        "jl_no": "138",
+        "uuid": "b8332465-f9b0-4e93-9cac-10a05096e58b"
+      },
+      {
+        "id": 386199,
+        "mouza_id": 40558,
+        "mouza_name": "মদনহার",
+        "jl_no": "142",
+        "uuid": "478f160a-a445-4933-82f2-1e6b9884c716"
+      },
+      {
+        "id": 398992,
+        "mouza_id": 101786,
+        "mouza_name": "বালাভীর জোত জয়ানন্দ বড়ুয়া",
+        "jl_no": "144",
+        "uuid": "24704b3d-5707-4b98-b7f2-e74d04f75959"
+      },
+      {
+        "id": 416715,
+        "mouza_id": 81792,
+        "mouza_name": "ইসলামপুর",
+        "jl_no": "145",
+        "uuid": "56d47286-b4e2-4ad5-b319-f495e346828a"
+      },
+      {
+        "id": 416810,
+        "mouza_id": 86616,
+        "mouza_name": "খয়েরপুর ",
+        "jl_no": "147",
+        "uuid": "076d71cc-e6f6-4d84-9aa2-b16252c894c3"
+      },
+      {
+        "id": 360794,
+        "mouza_id": 40724,
+        "mouza_name": "কিসমত রতিরাম পাইকান",
+        "jl_no": "148",
+        "uuid": "2ec5ea3a-d9cb-429a-9483-fc9a10a0b157"
+      },
+      {
+        "id": 386389,
+        "mouza_id": 86241,
+        "mouza_name": "আরাজীবাকপুর",
+        "jl_no": "149",
+        "uuid": "2eb2686c-9376-4adc-8b61-38bba9035fcd"
+      },
+      {
+        "id": 444736,
+        "mouza_id": 40715,
+        "mouza_name": "রতিরাম পাইকান",
+        "jl_no": "151",
+        "uuid": "64194691-f4f0-4822-82cb-a0257ce83772"
+      }
+    ]
+  },
+  {
+    "upazila_en": "BODA",
+    "upazila_bn": "বোদা",
+    "upazila_bbs": "25",
+    "district_bbs": "77",
+    "survey": "RS",
+    "mouza_count": 31,
+    "mouzas": [
+      {
+        "id": 443315,
+        "mouza_id": 86306,
+        "mouza_name": "খারিজা ঝলই ভক্তরাম",
+        "jl_no": "1",
+        "uuid": "1ea779d4-268a-41c8-971a-ddb768429bc7"
+      },
+      {
+        "id": 443164,
+        "mouza_id": 36325,
+        "mouza_name": "আরাজি শিকারপুর",
+        "jl_no": "5",
+        "uuid": "402fe693-87d0-4b3a-9d1b-c0639b7b7d16"
+      },
+      {
+        "id": 443176,
+        "mouza_id": 80139,
+        "mouza_name": "দেবীকান্ত",
+        "jl_no": "18",
+        "uuid": "9ea1b072-eccd-45fe-8288-0f69defaa473"
+      },
+      {
+        "id": 225398,
+        "mouza_id": 69383,
+        "mouza_name": "পুটিমারী",
+        "jl_no": "30",
+        "uuid": "38560bfc-3080-4ab4-ac8f-bd4dae28bc86"
+      },
+      {
+        "id": 443161,
+        "mouza_id": 101773,
+        "mouza_name": "আরাজি শিকারপুর",
+        "jl_no": "37",
+        "uuid": "5aaef662-2aac-4d9f-907d-c51a05c6497f"
+      },
+      {
+        "id": 443182,
+        "mouza_id": 101775,
+        "mouza_name": "মনিরাম জোত হরদেব",
+        "jl_no": "54",
+        "uuid": "925b0ef5-8356-472e-a92b-5766395dd084"
+      },
+      {
+        "id": 443257,
+        "mouza_id": 39533,
+        "mouza_name": "জিন্নানগর",
+        "jl_no": "62",
+        "uuid": "09261b44-f29c-4273-8856-535558677bc2"
+      },
+      {
+        "id": 443238,
+        "mouza_id": 87257,
+        "mouza_name": "পামুলী বাবদ খারিজা",
+        "jl_no": "75",
+        "uuid": "be4ea985-ccd6-4612-a357-2a3e19e05f54"
+      },
+      {
+        "id": 397689,
+        "mouza_id": 84497,
+        "mouza_name": "বনগ্রাম খারিজা",
+        "jl_no": "83",
+        "uuid": "e64c6a72-0c18-454c-a97b-39abc4d5b7b0"
+      },
+      {
+        "id": 443203,
+        "mouza_id": 84741,
+        "mouza_name": "রাধা বল্লভ সাহা",
+        "jl_no": "84",
+        "uuid": "7ce9511d-972d-40c3-914b-18e7aa6563a9"
+      },
+      {
+        "id": 443215,
+        "mouza_id": 85701,
+        "mouza_name": "কাটনহারী",
+        "jl_no": "85",
+        "uuid": "0a9a3fe9-0daf-4fe9-a354-ab20b5db8ed5"
+      },
+      {
+        "id": 443194,
+        "mouza_id": 37942,
+        "mouza_name": "বলহরি বাবদ খারিজা",
+        "jl_no": "87",
+        "uuid": "b789e4c8-e6cc-4957-9675-c230cb2ed9a8"
+      },
+      {
+        "id": 443230,
+        "mouza_id": 101776,
+        "mouza_name": "সুন্দরমনি লস্করা",
+        "jl_no": "88",
+        "uuid": "caf8f2f7-34ec-4bf4-85e4-de5a7f780be0"
+      },
+      {
+        "id": 443224,
+        "mouza_id": 38073,
+        "mouza_name": "দেবত্তর বদেশ্বরী",
+        "jl_no": "91",
+        "uuid": "2d99d43a-fd4f-4870-815f-e25b2a76a6aa"
+      },
+      {
+        "id": 225335,
+        "mouza_id": 69361,
+        "mouza_name": "কাজলদিঘী আরাজি",
+        "jl_no": "94",
+        "uuid": "72739a23-0261-4aae-a784-232485a1d47e"
+      },
+      {
+        "id": 286749,
+        "mouza_id": 38620,
+        "mouza_name": "কাজলদিঘী আরাজী",
+        "jl_no": "94",
+        "uuid": "c8638d25-7299-4d67-9ee6-947e92034038"
+      },
+      {
+        "id": 397688,
+        "mouza_id": 101779,
+        "mouza_name": "নাজিরগঞ্জ",
+        "jl_no": "95",
+        "uuid": "7bc99f85-353c-420b-9e0c-68672f4fea01"
+      },
+      {
+        "id": 397685,
+        "mouza_id": 83485,
+        "mouza_name": "ডেনাকাটা",
+        "jl_no": "96",
+        "uuid": "143965c5-eac8-43b2-84d1-1d779aeeb15c"
+      },
+      {
+        "id": 225346,
+        "mouza_id": 69379,
+        "mouza_name": "দৈখাতা",
+        "jl_no": "97",
+        "uuid": "13d9a1d5-8f72-4895-b242-e1cda264ed9f"
+      },
+      {
+        "id": 443233,
+        "mouza_id": 39065,
+        "mouza_name": "নিতাই সরকার",
+        "jl_no": "116",
+        "uuid": "139d9850-7eb4-46fa-8786-6527e5d645fc"
+      },
+      {
+        "id": 436452,
+        "mouza_id": 40087,
+        "mouza_name": "নূর নগর",
+        "jl_no": "118",
+        "uuid": "209284df-a0b6-4395-978a-0490c7546c97"
+      },
+      {
+        "id": 436456,
+        "mouza_id": 40066,
+        "mouza_name": "সাকোয়া কামাত",
+        "jl_no": "124",
+        "uuid": "5fc39e75-6742-44fa-bed9-0605b7bb56fa"
+      },
+      {
+        "id": 436455,
+        "mouza_id": 86159,
+        "mouza_name": "ছত্র শিকারপুর",
+        "jl_no": "138",
+        "uuid": "2f9a4fdd-b79d-44e3-97fb-2bdfde117d04"
+      },
+      {
+        "id": 436443,
+        "mouza_id": 40558,
+        "mouza_name": "মদনহার",
+        "jl_no": "142",
+        "uuid": "05b6ee66-154d-4f08-be76-964dcee2eaf4"
+      },
+      {
+        "id": 443269,
+        "mouza_id": 40665,
+        "mouza_name": "বংশীধর পুজারী",
+        "jl_no": "143",
+        "uuid": "ad1bdf97-2614-4c78-958f-0ec842e12dd3"
+      },
+      {
+        "id": 436446,
+        "mouza_id": 101786,
+        "mouza_name": "বালাভীর জোত জয়নন্দ বড়ুয়া",
+        "jl_no": "144",
+        "uuid": "de8bd158-fe97-4761-a9a4-272fbb2e41a8"
+      },
+      {
+        "id": 436449,
+        "mouza_id": 86616,
+        "mouza_name": "খয়েরপুর",
+        "jl_no": "147",
+        "uuid": "b464d2f5-866e-4170-bb02-695390091c8d"
+      },
+      {
+        "id": 436442,
+        "mouza_id": 86241,
+        "mouza_name": "আরাজি বাকপুর",
+        "jl_no": "149",
+        "uuid": "2b770d02-0e38-415e-8643-5ca3f1ec0c83"
+      },
+      {
+        "id": 443264,
+        "mouza_id": 86608,
+        "mouza_name": "আরাজি চন্দনবাড়ী",
+        "jl_no": "150",
+        "uuid": "66388fbc-45eb-4d72-8ebd-0f75a921fbe6"
+      },
+      {
+        "id": 436448,
+        "mouza_id": 40715,
+        "mouza_name": "রতিরাম পাইকান",
+        "jl_no": "151",
+        "uuid": "15638883-e368-4575-967f-0e226e27bf92"
+      },
+      {
+        "id": 443311,
+        "mouza_id": 40783,
+        "mouza_name": "মেনাগ্রাম",
+        "jl_no": "152",
+        "uuid": "5b9b4ed8-2863-4f04-b9a2-8c043b5d2f89"
+      }
+    ]
+  },
+  {
+    "upazila_en": "BODA",
+    "upazila_bn": "বোদা",
+    "upazila_bbs": "25",
+    "district_bbs": "77",
+    "survey": "SA",
+    "mouza_count": 157,
+    "mouzas": [
+      {
+        "id": 398867,
+        "mouza_id": 101787,
+        "mouza_name": "চিলাহাটি",
+        "jl_no": "1",
+        "uuid": "85e120a9-2329-4c4e-bfd7-474efd9eb5f3"
+      },
+      {
+        "id": 398910,
+        "mouza_id": 101781,
+        "mouza_name": "সর্দ্দারপুর",
+        "jl_no": "2",
+        "uuid": "61d5eb9f-f292-4b80-a95e-89277c68f644"
+      },
+      {
+        "id": 398869,
+        "mouza_id": 101782,
+        "mouza_name": "জসিমপুর",
+        "jl_no": "3",
+        "uuid": "986c92e8-c9bc-4284-9134-577fdffd6460"
+      },
+      {
+        "id": 107923,
+        "mouza_id": 35277,
+        "mouza_name": "প্রধানপাড়া",
+        "jl_no": "7",
+        "uuid": "dd777486-16b2-4abc-9063-59307821c11f"
+      },
+      {
+        "id": 284223,
+        "mouza_id": 86306,
+        "mouza_name": "খারিজা ঝলইভক্তরাম",
+        "jl_no": "17",
+        "uuid": "81c0774e-2f79-421c-92ac-14f4dd689b84"
+      },
+      {
+        "id": 281295,
+        "mouza_id": 85477,
+        "mouza_name": "মাঝগ্রাম কামাত মানিকচাদ",
+        "jl_no": "18",
+        "uuid": "53eb3fee-cc6d-48de-8086-f8a37f5e2060"
+      },
+      {
+        "id": 111278,
+        "mouza_id": 36257,
+        "mouza_name": "জোত নিশিকান্ত",
+        "jl_no": "19",
+        "uuid": "eb5d32d7-463a-40ac-bc65-a913135fb3d4"
+      },
+      {
+        "id": 398937,
+        "mouza_id": 101772,
+        "mouza_name": "খারিজা ঝলই বাসুদেব বড়ুয়া",
+        "jl_no": "20",
+        "uuid": "d68cd4b7-538d-489b-9149-ec03932e6a3b"
+      },
+      {
+        "id": 111528,
+        "mouza_id": 36325,
+        "mouza_name": "আরাজি শিকারপুর",
+        "jl_no": "21",
+        "uuid": "6c04575a-f28d-4190-8264-f7642ef79ce1"
+      },
+      {
+        "id": 277197,
+        "mouza_id": 83487,
+        "mouza_name": "কিসমত বাহাদুরনারায়নী",
+        "jl_no": "22",
+        "uuid": "a01ec7e2-69fe-4538-98f8-73f875adaa1d"
+      },
+      {
+        "id": 111597,
+        "mouza_id": 36348,
+        "mouza_name": "কালিয়াগঞ্জ",
+        "jl_no": "23",
+        "uuid": "dd52e5e0-616c-4238-bcec-36fcac0c9c76"
+      },
+      {
+        "id": 398935,
+        "mouza_id": 101774,
+        "mouza_name": "খারিজা ঝলই লাল মামুদ",
+        "jl_no": "24",
+        "uuid": "ffd8f4a6-41c6-4c28-bdfd-f63e9c342f25"
+      },
+      {
+        "id": 275489,
+        "mouza_id": 83028,
+        "mouza_name": "আরাজী সিকারপুর",
+        "jl_no": "25",
+        "uuid": "19495892-ad0e-44f9-9813-6b8716c43e7f"
+      },
+      {
+        "id": 111577,
+        "mouza_id": 36334,
+        "mouza_name": "আরাজী কিসমত বাহাদুর নারায়নী",
+        "jl_no": "26",
+        "uuid": "08b03e84-4a88-4096-b49e-6441170867a0"
+      },
+      {
+        "id": 111618,
+        "mouza_id": 36352,
+        "mouza_name": "আহাম্মদ নগর",
+        "jl_no": "28",
+        "uuid": "4b7cb08c-e632-415d-8aba-8a8f9fbc7bb5"
+      },
+      {
+        "id": 112008,
+        "mouza_id": 36439,
+        "mouza_name": "খারিজা ঝলই হরিপুর",
+        "jl_no": "31",
+        "uuid": "95186a64-f456-47c6-a86a-8cd3d2e6189d"
+      },
+      {
+        "id": 274210,
+        "mouza_id": 82660,
+        "mouza_name": "কাদেরপুর.",
+        "jl_no": "32",
+        "uuid": "17e19a5a-b8c7-439d-95ec-5dff25e2add3"
+      },
+      {
+        "id": 286146,
+        "mouza_id": 86845,
+        "mouza_name": "মাগুড়া.",
+        "jl_no": "33",
+        "uuid": "2563f4d2-6a82-4d1c-bd15-f5a0e0afa877"
+      },
+      {
+        "id": 112108,
+        "mouza_id": 36487,
+        "mouza_name": "অভিরাম খারিজা বাদুল্যা",
+        "jl_no": "34",
+        "uuid": "5d4aafdf-5ab3-480d-971b-774ae05d5b51"
+      },
+      {
+        "id": 278938,
+        "mouza_id": 84378,
+        "mouza_name": "আরাজী গাইঘাটা",
+        "jl_no": "35",
+        "uuid": "a30477cf-b5c3-4027-b686-e0c28b61fded"
+      },
+      {
+        "id": 112728,
+        "mouza_id": 36646,
+        "mouza_name": "বেংহারী দেবত্তর",
+        "jl_no": "38",
+        "uuid": "d9a264aa-3a63-4873-8736-bb9f743af09d"
+      },
+      {
+        "id": 113329,
+        "mouza_id": 36835,
+        "mouza_name": "আরাজী শিকারপুর..",
+        "jl_no": "39",
+        "uuid": "b067a02c-250c-4ab4-9d0e-e6513b60ae8d"
+      },
+      {
+        "id": 268003,
+        "mouza_id": 80963,
+        "mouza_name": "বেংহারী ময়গর্দ্দ",
+        "jl_no": "40",
+        "uuid": "27b460b5-73d3-45ae-8191-e142f60faf1e"
+      },
+      {
+        "id": 113693,
+        "mouza_id": 36924,
+        "mouza_name": "বাকপুর",
+        "jl_no": "41",
+        "uuid": "dceeac97-c1c4-4c3f-8bac-f8b49cfb9499"
+      },
+      {
+        "id": 126577,
+        "mouza_id": 36924,
+        "mouza_name": "বাকপুর",
+        "jl_no": "41",
+        "uuid": "4819e84f-b2e9-4c67-b668-081ed98b5405"
+      },
+      {
+        "id": 295001,
+        "mouza_id": 89004,
+        "mouza_name": "মনিরামজোত",
+        "jl_no": "42",
+        "uuid": "ee2b380d-335c-401f-89cf-7b7744b8d5b9"
+      },
+      {
+        "id": 282824,
+        "mouza_id": 85939,
+        "mouza_name": "আরাজি পীরমামুদ",
+        "jl_no": "43",
+        "uuid": "5d787769-020e-4d73-ba52-934058f6aac8"
+      },
+      {
+        "id": 287301,
+        "mouza_id": 87177,
+        "mouza_name": "দৌলত পুর",
+        "jl_no": "44",
+        "uuid": "d0a4ecae-6e94-4375-a0db-24a917f176dd"
+      },
+      {
+        "id": 278458,
+        "mouza_id": 84179,
+        "mouza_name": "রহমতপূর",
+        "jl_no": "45",
+        "uuid": "e7ce46fd-9294-4bb8-9b8e-f1ec562fae73"
+      },
+      {
+        "id": 114013,
+        "mouza_id": 4571,
+        "mouza_name": "রহমতপুর",
+        "jl_no": "45",
+        "uuid": "59d9517b-e04e-407f-a79e-b0b2eebc8533"
+      },
+      {
+        "id": 278944,
+        "mouza_id": 84379,
+        "mouza_name": "হোসেনাবাদ.",
+        "jl_no": "46",
+        "uuid": "a9e7322b-3a0d-4346-a703-64a8183142f8"
+      },
+      {
+        "id": 114314,
+        "mouza_id": 37110,
+        "mouza_name": "খারিজা ঝলই ব্রম্মত্তর",
+        "jl_no": "47",
+        "uuid": "ead831f5-ef31-4461-bd93-4a3e652c4dbd"
+      },
+      {
+        "id": 116365,
+        "mouza_id": 37586,
+        "mouza_name": "সফি মহেন্দ্রপুর",
+        "jl_no": "48",
+        "uuid": "787036b2-aafb-49a6-b73b-f7ce1e8a4a74"
+      },
+      {
+        "id": 276438,
+        "mouza_id": 83303,
+        "mouza_name": "খানপুর.",
+        "jl_no": "49",
+        "uuid": "5882d290-3629-47a9-9eb7-60accc456088"
+      },
+      {
+        "id": 115792,
+        "mouza_id": 37443,
+        "mouza_name": "আরাজী রাধানাথ রায়",
+        "jl_no": "50",
+        "uuid": "a10dfb27-fd2d-484a-bd9c-1dfa7a7fede2"
+      },
+      {
+        "id": 265031,
+        "mouza_id": 80139,
+        "mouza_name": "দেবীকান্ত",
+        "jl_no": "51",
+        "uuid": "6af00581-b81a-4859-8d80-76043b3b1ef2"
+      },
+      {
+        "id": 285629,
+        "mouza_id": 86707,
+        "mouza_name": "আরাজী পীরমামুদ",
+        "jl_no": "52",
+        "uuid": "866364d2-cc85-4ecf-8793-c5c62a35a220"
+      },
+      {
+        "id": 116476,
+        "mouza_id": 37622,
+        "mouza_name": "নবাবগঞ্জ",
+        "jl_no": "53",
+        "uuid": "10946816-60e6-4e92-9ec4-91146b8911c9"
+      },
+      {
+        "id": 285594,
+        "mouza_id": 86699,
+        "mouza_name": "হরিপুর জোত.সমাস",
+        "jl_no": "54",
+        "uuid": "8736a69e-bc92-4239-b572-ff0fd3991696"
+      },
+      {
+        "id": 116508,
+        "mouza_id": 37640,
+        "mouza_name": ".কিসমত হরিপুর",
+        "jl_no": "55",
+        "uuid": "e543d4bf-bebd-49ea-af4a-55d5166a43fa"
+      },
+      {
+        "id": 397686,
+        "mouza_id": 101771,
+        "mouza_name": "ডাবরভাঙ্গাখারিজা",
+        "jl_no": "56",
+        "uuid": "9d5719b8-3db7-427c-a79b-94f399d89af9"
+      },
+      {
+        "id": 276581,
+        "mouza_id": 83334,
+        "mouza_name": "ঝলঝলী.",
+        "jl_no": "57",
+        "uuid": "89c4592d-4717-4c34-a65d-5de0197bec0b"
+      },
+      {
+        "id": 277119,
+        "mouza_id": 83470,
+        "mouza_name": "সুভাসুজনখারিজা",
+        "jl_no": "58",
+        "uuid": "a2020355-e5b2-4b79-91ae-7b4816a0f59d"
+      },
+      {
+        "id": 116943,
+        "mouza_id": 37760,
+        "mouza_name": "ঝলঝলী সুভাসুজন",
+        "jl_no": "59",
+        "uuid": "09fd9857-3146-4261-9a21-c8ecf74e3cab"
+      },
+      {
+        "id": 116949,
+        "mouza_id": 37761,
+        "mouza_name": "বেংহারী",
+        "jl_no": "60",
+        "uuid": "012f4e3b-5f2b-49bd-a6e8-659e273e7a4d"
+      },
+      {
+        "id": 279225,
+        "mouza_id": 84539,
+        "mouza_name": "ডাবরভাঙ্গা.",
+        "jl_no": "61",
+        "uuid": "5229a200-d6ea-46a0-a31c-0612fbc45dc1"
+      },
+      {
+        "id": 276956,
+        "mouza_id": 83435,
+        "mouza_name": "ডাবড়ভাঙ্গা",
+        "jl_no": "62",
+        "uuid": "64ffc8e5-c759-4a54-9243-8f3165712f0d"
+      },
+      {
+        "id": 285645,
+        "mouza_id": 86710,
+        "mouza_name": "কিসমত ভক্তেরবাড়ী",
+        "jl_no": "63",
+        "uuid": "4db7a153-e866-45e6-8dcb-0ed998a54f32"
+      },
+      {
+        "id": 285651,
+        "mouza_id": 86711,
+        "mouza_name": "শিকারপূর",
+        "jl_no": "64",
+        "uuid": "27f2fc04-7355-4f9d-a9c0-b6a6da4697fd"
+      },
+      {
+        "id": 280870,
+        "mouza_id": 85228,
+        "mouza_name": "নন্দরামমন্ডল",
+        "jl_no": "65",
+        "uuid": "c6516ef1-ba23-4621-89e3-584b04d67fd7"
+      },
+      {
+        "id": 281941,
+        "mouza_id": 85701,
+        "mouza_name": "কাটানহারী",
+        "jl_no": "66",
+        "uuid": "a18ce36e-97a4-475c-836d-40354ec219cb"
+      },
+      {
+        "id": 281301,
+        "mouza_id": 85478,
+        "mouza_name": "বনগ্রাম.",
+        "jl_no": "67",
+        "uuid": "e18cb1d4-ae0b-4a67-a047-c7026b13d9c7"
+      },
+      {
+        "id": 117635,
+        "mouza_id": 37942,
+        "mouza_name": "বলহরি বাবদ খারিজা",
+        "jl_no": "68",
+        "uuid": "d4158d2a-f493-421f-a4ff-6d2fd6c9ce67"
+      },
+      {
+        "id": 237307,
+        "mouza_id": 72024,
+        "mouza_name": "সুন্দরমনি. লস্করা",
+        "jl_no": "69",
+        "uuid": "241b317c-b38b-428d-a32d-99a218c322d6"
+      },
+      {
+        "id": 117950,
+        "mouza_id": 38006,
+        "mouza_name": "কমলাপুকুরী কাজলদিঘী",
+        "jl_no": "70",
+        "uuid": "fa6c5eed-bc9c-4057-8da5-d55ffbb12231"
+      },
+      {
+        "id": 117961,
+        "mouza_id": 38021,
+        "mouza_name": "খারিজা বনগ্রাম",
+        "jl_no": "71",
+        "uuid": "b82fa95e-0f51-4740-9753-2de5dcaee73d"
+      },
+      {
+        "id": 281560,
+        "mouza_id": 85597,
+        "mouza_name": ". শিকারপূর",
+        "jl_no": "72",
+        "uuid": "e0202204-1204-4a49-8331-4c5865648dd0"
+      },
+      {
+        "id": 118175,
+        "mouza_id": 38073,
+        "mouza_name": "দেবোত্তর বদেশ্বরী",
+        "jl_no": "73",
+        "uuid": "6128d663-41f3-4117-a6a4-2ec1860afdd2"
+      },
+      {
+        "id": 118181,
+        "mouza_id": 38074,
+        "mouza_name": "নওতরী আরাজী",
+        "jl_no": "74",
+        "uuid": "de606d35-d11f-4d72-b4d4-14fa862af824"
+      },
+      {
+        "id": 277904,
+        "mouza_id": 83938,
+        "mouza_name": "নাওতরী নবাবগঞ্জ.",
+        "jl_no": "77",
+        "uuid": "93b603a9-6f6a-4b29-b8e9-6089c739c97f"
+      },
+      {
+        "id": 118363,
+        "mouza_id": 38128,
+        "mouza_name": "বড়শর্শী",
+        "jl_no": "78",
+        "uuid": "25fe43be-f0a1-4291-96bb-92ec937f6f4f"
+      },
+      {
+        "id": 118504,
+        "mouza_id": 38167,
+        "mouza_name": "অমরখানা",
+        "jl_no": "79",
+        "uuid": "44e86900-d286-4d35-a9fb-50b8c306d806"
+      },
+      {
+        "id": 284155,
+        "mouza_id": 86288,
+        "mouza_name": "উত্তর টোকরা ভাষা",
+        "jl_no": "80",
+        "uuid": "856a8a3b-01b7-407c-a602-921956bb092b"
+      },
+      {
+        "id": 277103,
+        "mouza_id": 83466,
+        "mouza_name": "মহিষবাথান",
+        "jl_no": "81",
+        "uuid": "775e483d-cbb3-4cf4-9f48-7d804f6e6d8f"
+      },
+      {
+        "id": 118527,
+        "mouza_id": 38172,
+        "mouza_name": "পশ্চিম টোকরাভাষা",
+        "jl_no": "82",
+        "uuid": "3c7de617-c85d-4129-b875-4e69d68fd1f2"
+      },
+      {
+        "id": 118664,
+        "mouza_id": 38208,
+        "mouza_name": "আরাজী মাড়েয়া",
+        "jl_no": "83",
+        "uuid": "1fcb84bf-d7e4-45d0-9ed0-61fb35ad52d0"
+      },
+      {
+        "id": 119220,
+        "mouza_id": 38372,
+        "mouza_name": "দেবোত্তর ভিতরগড় বোদেশ্বরী",
+        "jl_no": "84",
+        "uuid": "bbd31347-33a9-44b5-9325-d8d4a4e53e9c"
+      },
+      {
+        "id": 224358,
+        "mouza_id": 69130,
+        "mouza_name": "বারপাটিয়া",
+        "jl_no": "86",
+        "uuid": "7704b573-cef7-4715-a16c-143e07b382f0"
+      },
+      {
+        "id": 119762,
+        "mouza_id": 38520,
+        "mouza_name": ". ইসলাপুর",
+        "jl_no": "87",
+        "uuid": "698a6c1f-a7ae-4173-9860-550abf0bcfd5"
+      },
+      {
+        "id": 277185,
+        "mouza_id": 83485,
+        "mouza_name": "ডেনাকাটা .",
+        "jl_no": "89",
+        "uuid": "71676dda-1e0f-4ef3-a82b-0931df290ca9"
+      },
+      {
+        "id": 120137,
+        "mouza_id": 38620,
+        "mouza_name": "কাজলদিঘী আরাজী",
+        "jl_no": "91",
+        "uuid": "93b02535-8626-4290-8c82-3632e30b7ea1"
+      },
+      {
+        "id": 282664,
+        "mouza_id": 69361,
+        "mouza_name": "কাজলদিঘী আরাজি",
+        "jl_no": "91",
+        "uuid": "95d282e2-f5b5-4930-aa7b-81326c8e97b2"
+      },
+      {
+        "id": 397687,
+        "mouza_id": 101779,
+        "mouza_name": "নাজির গঞ্জ",
+        "jl_no": "92",
+        "uuid": "f0411240-8842-4a9d-9af4-909a46d3ad93"
+      },
+      {
+        "id": 279782,
+        "mouza_id": 84741,
+        "mouza_name": "রাধাবল্লভ.সাহা",
+        "jl_no": "93",
+        "uuid": "dce6f384-1d1a-4394-a68c-57ef9c9120dc"
+      },
+      {
+        "id": 286748,
+        "mouza_id": 38620,
+        "mouza_name": "কাজলদিঘী আরাজী",
+        "jl_no": "94",
+        "uuid": "35da70bc-9aec-4322-b100-3b06a8516cb0"
+      },
+      {
+        "id": 279158,
+        "mouza_id": 84497,
+        "mouza_name": "বনগ্রামখারিজা",
+        "jl_no": "94",
+        "uuid": "4c048ffc-b158-49d0-a2a9-6a39ea5719b8"
+      },
+      {
+        "id": 287382,
+        "mouza_id": 87199,
+        "mouza_name": "ঘাগড়া আরাজি",
+        "jl_no": "95",
+        "uuid": "1e88bbb6-6482-4555-af5b-0c81c832a261"
+      },
+      {
+        "id": 283704,
+        "mouza_id": 86180,
+        "mouza_name": "সূভাসুজন",
+        "jl_no": "96",
+        "uuid": "5d2774f9-e38c-46cb-943b-8058d5292355"
+      },
+      {
+        "id": 120519,
+        "mouza_id": 38727,
+        "mouza_name": "ডাবরভাঙ্গা .",
+        "jl_no": "97",
+        "uuid": "604ce72d-4a82-4a91-a9d2-36ae5e4c1377"
+      },
+      {
+        "id": 397691,
+        "mouza_id": 101775,
+        "mouza_name": "মনিরামজোত হরদেব",
+        "jl_no": "98",
+        "uuid": "127143e6-749f-4710-ab57-6ac7c3c5689a"
+      },
+      {
+        "id": 120667,
+        "mouza_id": 38771,
+        "mouza_name": "তেপুখরিয়া",
+        "jl_no": "99",
+        "uuid": "d9bf955e-c500-45f0-8f5b-b5e9d0978982"
+      },
+      {
+        "id": 121297,
+        "mouza_id": 38952,
+        "mouza_name": ". বেংহারী  .",
+        "jl_no": "100",
+        "uuid": "eaee4b83-19f2-4824-920b-8089af2ad7f3"
+      },
+      {
+        "id": 295614,
+        "mouza_id": 89132,
+        "mouza_name": "রাধাবাবদজোত",
+        "jl_no": "101",
+        "uuid": "6d3c84e3-9f62-4ab1-92f5-2379ead543f3"
+      },
+      {
+        "id": 278538,
+        "mouza_id": 84190,
+        "mouza_name": "মাড়েয়া কমলা পুকূরী",
+        "jl_no": "102",
+        "uuid": "7663509b-754c-4648-a543-9397b60a1fbf"
+      },
+      {
+        "id": 288464,
+        "mouza_id": 87476,
+        "mouza_name": "মাড়েয়া,",
+        "jl_no": "103",
+        "uuid": "96762e2f-c1ec-405c-abc0-f02bdb207c81"
+      },
+      {
+        "id": 121251,
+        "mouza_id": 38931,
+        "mouza_name": "হারাগঞ্জ",
+        "jl_no": "104",
+        "uuid": "db22386c-1b9f-44b8-adc3-ac78fa601462"
+      },
+      {
+        "id": 268067,
+        "mouza_id": 80982,
+        "mouza_name": "আমির নগর,",
+        "jl_no": "105",
+        "uuid": "cdccb7de-1432-445f-a546-f4d74c7e69a9"
+      },
+      {
+        "id": 121738,
+        "mouza_id": 39065,
+        "mouza_name": "নিতাই সরকার",
+        "jl_no": "106",
+        "uuid": "83234a6a-51d1-41ee-909f-32a20114af11"
+      },
+      {
+        "id": 278498,
+        "mouza_id": 84185,
+        "mouza_name": "আটিয়াগ্রাম",
+        "jl_no": "107",
+        "uuid": "4cb0b509-8cf9-4f5b-b219-425288ba2f40"
+      },
+      {
+        "id": 277838,
+        "mouza_id": 83899,
+        "mouza_name": "খারিজামাড়েয়া",
+        "jl_no": "108",
+        "uuid": "771bc5ac-007f-4b61-801d-0a4350780ca5"
+      },
+      {
+        "id": 283116,
+        "mouza_id": 86021,
+        "mouza_name": "সূভাসুজন খারিজা",
+        "jl_no": "109",
+        "uuid": "c859a9fc-aa51-4af4-acb2-e7b1c82b7ec2"
+      },
+      {
+        "id": 122365,
+        "mouza_id": 39251,
+        "mouza_name": "নকলীবাবদ জোত",
+        "jl_no": "110",
+        "uuid": "a6a7632c-f3e6-4f8e-a0ed-c3d26e9dccfc"
+      },
+      {
+        "id": 122553,
+        "mouza_id": 39295,
+        "mouza_name": "ঘাগড়া",
+        "jl_no": "112",
+        "uuid": "03f3aca2-2571-4eb0-8998-2f10b24600de"
+      },
+      {
+        "id": 282346,
+        "mouza_id": 85795,
+        "mouza_name": "ডাবর..ভাঙ্গা",
+        "jl_no": "113",
+        "uuid": "b9f07fe8-33c2-4224-b49e-2f658715c345"
+      },
+      {
+        "id": 288327,
+        "mouza_id": 87438,
+        "mouza_name": "মেনাগ্রাম.",
+        "jl_no": "114",
+        "uuid": "90792e94-19e8-4ee7-af7b-43b77b5caa71"
+      },
+      {
+        "id": 284052,
+        "mouza_id": 86265,
+        "mouza_name": "হরগোবিন্দনাপিত",
+        "jl_no": "115",
+        "uuid": "f7ebac7b-a1f6-4968-9491-0106066666bc"
+      },
+      {
+        "id": 122705,
+        "mouza_id": 39348,
+        "mouza_name": "আরাজী সূভাসুজন",
+        "jl_no": "116",
+        "uuid": "85989731-377c-4bcc-9394-26b91a2ea4c9"
+      },
+      {
+        "id": 123614,
+        "mouza_id": 39590,
+        "mouza_name": ".  আরাজি শিকারপুর",
+        "jl_no": "117",
+        "uuid": "69381533-4586-4988-974f-e4789df508b6"
+      },
+      {
+        "id": 122762,
+        "mouza_id": 39352,
+        "mouza_name": "ডাবরভাঙ্গা-",
+        "jl_no": "118",
+        "uuid": "a9dd3803-0e60-488f-8a19-80c0947b3e3e"
+      },
+      {
+        "id": 281255,
+        "mouza_id": 85417,
+        "mouza_name": "ডাবরভাঙ্গা---",
+        "jl_no": "119",
+        "uuid": "fff2c938-3b46-4350-9a25-c8922e0b949d"
+      },
+      {
+        "id": 272765,
+        "mouza_id": 82258,
+        "mouza_name": "কান্তমনি,",
+        "jl_no": "120",
+        "uuid": "26d4092d-f59a-4b61-bdc5-5fcae8335491"
+      },
+      {
+        "id": 285710,
+        "mouza_id": 86722,
+        "mouza_name": "লিয়াকতপূর",
+        "jl_no": "121",
+        "uuid": "572a39ee-5cca-433c-9649-13d95538e361"
+      },
+      {
+        "id": 123386,
+        "mouza_id": 39533,
+        "mouza_name": "জিন্নানগড়",
+        "jl_no": "122",
+        "uuid": "24cc99d5-d14c-4330-b586-0b62e5703668"
+      },
+      {
+        "id": 123366,
+        "mouza_id": 39513,
+        "mouza_name": "জোত সমাস",
+        "jl_no": "123",
+        "uuid": "9b0854da-2620-42e3-b8f4-3b05ec6799e1"
+      },
+      {
+        "id": 123506,
+        "mouza_id": 39570,
+        "mouza_name": "বালা আব্দুল্লা",
+        "jl_no": "124",
+        "uuid": "5fd98836-cf9d-4401-8259-5891370ca5b0"
+      },
+      {
+        "id": 279619,
+        "mouza_id": 84661,
+        "mouza_name": "হোসেনপুর.",
+        "jl_no": "125",
+        "uuid": "43c7d576-e1f2-49c0-ba2c-9a24c6ff29bb"
+      },
+      {
+        "id": 123672,
+        "mouza_id": 39598,
+        "mouza_name": "মোসলেমপুর",
+        "jl_no": "126",
+        "uuid": "517e4628-14a4-4988-b182-68b3c4e5782b"
+      },
+      {
+        "id": 123678,
+        "mouza_id": 39599,
+        "mouza_name": "আইয়ুবগঞ্জ",
+        "jl_no": "127",
+        "uuid": "c8af4712-4983-4c7c-ac0e-92ac2f9e7139"
+      },
+      {
+        "id": 123708,
+        "mouza_id": 39628,
+        "mouza_name": "হাজীপুর",
+        "jl_no": "128",
+        "uuid": "74cafc55-7997-43b2-b511-a0441035789d"
+      },
+      {
+        "id": 123723,
+        "mouza_id": 39608,
+        "mouza_name": "জায়গীর স্বরন",
+        "jl_no": "129",
+        "uuid": "0a2cd124-16cf-406c-a691-73e027248724"
+      },
+      {
+        "id": 273712,
+        "mouza_id": 82518,
+        "mouza_name": "সমসের. নগর",
+        "jl_no": "130",
+        "uuid": "3017ad13-a215-4fa0-9f61-a85e2b34648f"
+      },
+      {
+        "id": 282628,
+        "mouza_id": 85890,
+        "mouza_name": "ফূলচাঁদ সাহামনী",
+        "jl_no": "131",
+        "uuid": "67e68c12-32e1-4cd6-9403-480ae0395f0e"
+      },
+      {
+        "id": 123988,
+        "mouza_id": 39681,
+        "mouza_name": "পাচুরায় গোপীনাথ",
+        "jl_no": "132",
+        "uuid": "21fddb0f-e325-4538-87a8-e5e50e06f655"
+      },
+      {
+        "id": 284610,
+        "mouza_id": 86419,
+        "mouza_name": "শিবদত্তপুজারী",
+        "jl_no": "133",
+        "uuid": "a4fef7cb-96bc-41fe-98c1-c0003cad1ac8"
+      },
+      {
+        "id": 277378,
+        "mouza_id": 83617,
+        "mouza_name": "কামাত মাঝ গ্রাম",
+        "jl_no": "134",
+        "uuid": "db33e5f1-df5c-4357-b36c-5b2af9f898f3"
+      },
+      {
+        "id": 284149,
+        "mouza_id": 86287,
+        "mouza_name": "বালাভীর,",
+        "jl_no": "135",
+        "uuid": "f84d4425-03ba-40c9-a48d-a78a67d3bc9c"
+      },
+      {
+        "id": 124358,
+        "mouza_id": 39782,
+        "mouza_name": "আব্দুল্যাপুর",
+        "jl_no": "136",
+        "uuid": "63304ec0-366c-425c-9551-9f07d9cda490"
+      },
+      {
+        "id": 124567,
+        "mouza_id": 39700,
+        "mouza_name": "নন্দলাল ঝাঁ",
+        "jl_no": "137",
+        "uuid": "1a609d1b-4f01-4e5b-8979-036358232814"
+      },
+      {
+        "id": 124493,
+        "mouza_id": 37761,
+        "mouza_name": "বেংহারী",
+        "jl_no": "138",
+        "uuid": "510a337b-1919-4f57-bfa5-5cc61db1628e"
+      },
+      {
+        "id": 124495,
+        "mouza_id": 39816,
+        "mouza_name": "বেংহারী..",
+        "jl_no": "138",
+        "uuid": "ae84863a-3301-4ab5-8e74-56f26ee07f2a"
+      },
+      {
+        "id": 397692,
+        "mouza_id": 101784,
+        "mouza_name": "রামপ্রশাদ কাজি",
+        "jl_no": "139",
+        "uuid": "09766fb3-137e-4644-835a-bffb785d4e88"
+      },
+      {
+        "id": 290803,
+        "mouza_id": 87836,
+        "mouza_name": "করিমপূর",
+        "jl_no": "140",
+        "uuid": "4a231b53-0a7a-43ab-95e2-ad5a596bf5d7"
+      },
+      {
+        "id": 124872,
+        "mouza_id": 39837,
+        "mouza_name": "চন্দনবাড়ী",
+        "jl_no": "141",
+        "uuid": "0f454a79-1fd4-4f4a-a262-f26e6e1cd787"
+      },
+      {
+        "id": 284718,
+        "mouza_id": 86452,
+        "mouza_name": "দেবোত্তর বাবদ জোত",
+        "jl_no": "142",
+        "uuid": "989c8dd5-154c-4fab-bd75-964e424a20c6"
+      },
+      {
+        "id": 276806,
+        "mouza_id": 83397,
+        "mouza_name": "অর্জ্জুনবেগুনী",
+        "jl_no": "143",
+        "uuid": "08d1386e-92de-413c-afa6-29d37eec7cde"
+      },
+      {
+        "id": 125211,
+        "mouza_id": 40000,
+        "mouza_name": "জোত ময়রাম",
+        "jl_no": "144",
+        "uuid": "f42ac83a-0568-4769-a227-e4a563d94968"
+      },
+      {
+        "id": 286684,
+        "mouza_id": 87002,
+        "mouza_name": "সাহপুর",
+        "jl_no": "145",
+        "uuid": "3e644588-3b6c-4344-9a56-b29e41061b83"
+      },
+      {
+        "id": 287626,
+        "mouza_id": 87257,
+        "mouza_name": "পামুলি বাবদখারিজা",
+        "jl_no": "146",
+        "uuid": "1cc59d03-44f6-423b-a5b2-09bcc3da5fcb"
+      },
+      {
+        "id": 128508,
+        "mouza_id": 40891,
+        "mouza_name": "বারপাটিয়া,",
+        "jl_no": "147",
+        "uuid": "2873e85c-8f0b-4024-88d5-7f87cde08d8f"
+      },
+      {
+        "id": 283749,
+        "mouza_id": 86192,
+        "mouza_name": "ভোলাবসুনিয়া",
+        "jl_no": "148",
+        "uuid": "ba0722e2-ff61-49c2-b61f-135190ae5b59"
+      },
+      {
+        "id": 125574,
+        "mouza_id": 40066,
+        "mouza_name": "সাকোয়া কামাত",
+        "jl_no": "149",
+        "uuid": "2e303864-8b80-44d5-a51b-dac1bfa51c12"
+      },
+      {
+        "id": 125580,
+        "mouza_id": 40087,
+        "mouza_name": "নূর নগর",
+        "jl_no": "150",
+        "uuid": "9a031fcb-84c9-41ba-99ba-91f487dd1dbf"
+      },
+      {
+        "id": 397684,
+        "mouza_id": 101785,
+        "mouza_name": "খেলারাম ভোলাডাঙ্গা",
+        "jl_no": "151",
+        "uuid": "b00b9685-46d1-46f0-a8be-0b01614fa242"
+      },
+      {
+        "id": 287633,
+        "mouza_id": 87258,
+        "mouza_name": "তাজমামুদ",
+        "jl_no": "152",
+        "uuid": "22dbaabb-2485-49ad-bbdf-92832b43d307"
+      },
+      {
+        "id": 285639,
+        "mouza_id": 86709,
+        "mouza_name": "কাদেরীয়াবাদ",
+        "jl_no": "153",
+        "uuid": "1d3ede05-a966-4b66-b6bd-2ef6babb5604"
+      },
+      {
+        "id": 125611,
+        "mouza_id": 40109,
+        "mouza_name": "আরাজি গৌরীকান্ত",
+        "jl_no": "154",
+        "uuid": "ff06b633-7158-4c92-8c14-dd589010f7f2"
+      },
+      {
+        "id": 286845,
+        "mouza_id": 87050,
+        "mouza_name": "আরাজি সাকোয়া কামাত",
+        "jl_no": "155",
+        "uuid": "cf52d4d8-1ecf-4102-8e01-89e97ac9fef7"
+      },
+      {
+        "id": 277097,
+        "mouza_id": 83465,
+        "mouza_name": "নগরসাকোয়া",
+        "jl_no": "156",
+        "uuid": "98ce4973-50e7-4e0c-9ea5-198ad4929f4f"
+      },
+      {
+        "id": 283613,
+        "mouza_id": 86159,
+        "mouza_name": "ছত্রশিকারপুর",
+        "jl_no": "157",
+        "uuid": "36c6f608-0f13-4471-b044-d86b5600c3d2"
+      },
+      {
+        "id": 126587,
+        "mouza_id": 40352,
+        "mouza_name": "আরাজি . শিকারপুর",
+        "jl_no": "158",
+        "uuid": "be48a78f-33cf-48b5-89ce-fa64e6ab7b8f"
+      },
+      {
+        "id": 126599,
+        "mouza_id": 40339,
+        "mouza_name": "বাকপুর .",
+        "jl_no": "159",
+        "uuid": "77100b90-83c6-4191-8907-28e55b100698"
+      },
+      {
+        "id": 285287,
+        "mouza_id": 86616,
+        "mouza_name": "খায়েরপুর",
+        "jl_no": "160",
+        "uuid": "34f762d5-d909-431d-ace7-d64477d59f41"
+      },
+      {
+        "id": 283942,
+        "mouza_id": 86243,
+        "mouza_name": "করুনাময়ীগুপ্তা",
+        "jl_no": "161",
+        "uuid": "f9bf88aa-da33-41e2-980d-0153de7729b5"
+      },
+      {
+        "id": 127348,
+        "mouza_id": 40558,
+        "mouza_name": "মদনহার",
+        "jl_no": "162",
+        "uuid": "18838dc8-b744-404f-875a-0df44cf406ab"
+      },
+      {
+        "id": 277191,
+        "mouza_id": 83486,
+        "mouza_name": "সিকারপুর",
+        "jl_no": "163",
+        "uuid": "61d57e74-8c1b-4a09-8316-6f076b073b6c"
+      },
+      {
+        "id": 281106,
+        "mouza_id": 85307,
+        "mouza_name": "খলিফাপূর",
+        "jl_no": "164",
+        "uuid": "4bb798b1-ce10-45ec-a909-58db102568a8"
+      },
+      {
+        "id": 127755,
+        "mouza_id": 40665,
+        "mouza_name": "বংশীধর পুজারী",
+        "jl_no": "165",
+        "uuid": "78d97083-aef7-41e0-afb1-0f09602576fa"
+      },
+      {
+        "id": 398991,
+        "mouza_id": 101786,
+        "mouza_name": "বালাভীর জোত জয়নন্দ বড়ুয়া",
+        "jl_no": "166",
+        "uuid": "dff88e92-a17e-45fe-acbd-043bbbc48d7b"
+      },
+      {
+        "id": 271097,
+        "mouza_id": 81792,
+        "mouza_name": "ইসলামপুর..",
+        "jl_no": "167",
+        "uuid": "54c31009-804e-4910-b7b8-c49f0f3b170a"
+      },
+      {
+        "id": 127915,
+        "mouza_id": 40705,
+        "mouza_name": "রামগোবিন্দ হিসারিয়া",
+        "jl_no": "168",
+        "uuid": "836ae905-df18-4380-87ad-856f28b4d5b0"
+      },
+      {
+        "id": 128146,
+        "mouza_id": 40783,
+        "mouza_name": "মেনাগ্রাম,",
+        "jl_no": "169",
+        "uuid": "bc58c2c3-564f-4218-b339-7f6d4069b49c"
+      },
+      {
+        "id": 127947,
+        "mouza_id": 40715,
+        "mouza_name": "রতিরাম পাইকান",
+        "jl_no": "170",
+        "uuid": "e5fd8676-7a98-46e6-b64e-4ce6f05810a3"
+      },
+      {
+        "id": 283932,
+        "mouza_id": 86241,
+        "mouza_name": "আরাজী বাকপুর",
+        "jl_no": "171",
+        "uuid": "6c9cb0c7-24b0-4dbf-b84e-49da24b68142"
+      },
+      {
+        "id": 285250,
+        "mouza_id": 86608,
+        "mouza_name": "আরাজী চন্দনবাড়ী",
+        "jl_no": "172",
+        "uuid": "8ba48f82-8a72-488b-8595-f1cede6d22fc"
+      },
+      {
+        "id": 128000,
+        "mouza_id": 40724,
+        "mouza_name": "কিসমত রতিরাম পাইকান",
+        "jl_no": "173",
+        "uuid": "8ddc0c41-7757-451c-81dc-c973ae618749"
+      },
+      {
+        "id": 128152,
+        "mouza_id": 40784,
+        "mouza_name": "বৈরাতী",
+        "jl_no": "174",
+        "uuid": "ea342af1-bf4a-40f4-a287-150864267859"
+      },
+      {
+        "id": 283460,
+        "mouza_id": 86111,
+        "mouza_name": "হাজারী কিসমত",
+        "jl_no": "175",
+        "uuid": "0af63d17-aa80-4d42-b65d-f2aeeec25f3a"
+      }
+    ]
+  },
+  {
+    "upazila_en": "DEBIGANJ",
+    "upazila_bn": "দেবীগঞ্জ",
+    "upazila_bbs": "34",
+    "district_bbs": "77",
+    "survey": "BRS",
+    "mouza_count": 54,
+    "mouzas": [
+      {
+        "id": 335861,
+        "mouza_id": 86245,
+        "mouza_name": "বানিয়াপুর",
+        "jl_no": "3",
+        "uuid": "82d91b10-0b6b-4356-a006-5f777a7220c9"
+      },
+      {
+        "id": 416869,
+        "mouza_id": 97255,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "5",
+        "uuid": "ae6e2dd4-7a03-4a1d-a46f-56735a9a18b5"
+      },
+      {
+        "id": 335868,
+        "mouza_id": 41301,
+        "mouza_name": "উপঞ্চৌকি ভাজনী",
+        "jl_no": "6",
+        "uuid": "61af21f6-553e-4ad7-b06b-3dc9f4961f40"
+      },
+      {
+        "id": 416865,
+        "mouza_id": 97257,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "7",
+        "uuid": "97394356-3c7e-413b-8f8e-87b6dddd9ebd"
+      },
+      {
+        "id": 416868,
+        "mouza_id": 97256,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "8",
+        "uuid": "abb1af79-204e-41f8-9698-86347d210610"
+      },
+      {
+        "id": 416859,
+        "mouza_id": 97258,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "9",
+        "uuid": "e375d5bc-4d60-45f5-82d8-3e36a4cf55c4"
+      },
+      {
+        "id": 415979,
+        "mouza_id": 86626,
+        "mouza_name": "দামনীগ্রাম",
+        "jl_no": "20",
+        "uuid": "4fd09c09-d1bf-4d39-9f4f-b876450e5ded"
+      },
+      {
+        "id": 444751,
+        "mouza_id": 42202,
+        "mouza_name": "বন্দিরাম ",
+        "jl_no": "24",
+        "uuid": "db032972-58be-4b34-b645-1dbcd6af4e1f"
+      },
+      {
+        "id": 444742,
+        "mouza_id": 83817,
+        "mouza_name": "খারিজা কাটানহারী",
+        "jl_no": "25",
+        "uuid": "0c6fe1b8-7027-47d0-b3f6-66154d1b5581"
+      },
+      {
+        "id": 444747,
+        "mouza_id": 97261,
+        "mouza_name": "পামুলী ",
+        "jl_no": "26",
+        "uuid": "81ac09dd-f4e4-4f4f-ab1a-f2501c409760"
+      },
+      {
+        "id": 415974,
+        "mouza_id": 86631,
+        "mouza_name": "হাসানপুর",
+        "jl_no": "27",
+        "uuid": "8eabbb03-e691-4e7d-8218-989f91cb8a40"
+      },
+      {
+        "id": 417923,
+        "mouza_id": 42296,
+        "mouza_name": "কাটানহারী আরাজী",
+        "jl_no": "28",
+        "uuid": "990c036d-f47b-41a3-a9cb-f827712285d9"
+      },
+      {
+        "id": 415970,
+        "mouza_id": 83502,
+        "mouza_name": "মাড়েয়া সিংরোড",
+        "jl_no": "29",
+        "uuid": "946297cf-6449-49f8-a4bf-9578ecdb5011"
+      },
+      {
+        "id": 335903,
+        "mouza_id": 42593,
+        "mouza_name": "বাকপুর",
+        "jl_no": "30",
+        "uuid": "78a31964-4314-490d-bc75-83715b3eacf0"
+      },
+      {
+        "id": 335905,
+        "mouza_id": 42595,
+        "mouza_name": "কাটনহারী",
+        "jl_no": "31",
+        "uuid": "8a840665-efd5-4970-a379-17d25405997a"
+      },
+      {
+        "id": 415964,
+        "mouza_id": 42390,
+        "mouza_name": "দৌলতপুর",
+        "jl_no": "33",
+        "uuid": "6c5bf15a-aa01-4240-8940-40601cc04453"
+      },
+      {
+        "id": 335885,
+        "mouza_id": 86112,
+        "mouza_name": "জোতদেওয়ানু",
+        "jl_no": "34",
+        "uuid": "33ebba58-eb0d-4315-a789-cbd8f334a6c1"
+      },
+      {
+        "id": 335888,
+        "mouza_id": 42391,
+        "mouza_name": "রামজি শান্তি",
+        "jl_no": "35",
+        "uuid": "db62d66b-a4f2-4d30-a725-d769445715c2"
+      },
+      {
+        "id": 444759,
+        "mouza_id": 42433,
+        "mouza_name": "রহমতপুর ",
+        "jl_no": "36",
+        "uuid": "fc83f2b5-1913-453b-92c3-ed9b3b8f72b2"
+      },
+      {
+        "id": 335890,
+        "mouza_id": 85264,
+        "mouza_name": "জোতশুকুর",
+        "jl_no": "37",
+        "uuid": "caac2f10-1f14-43ba-82e6-718428db9a67"
+      },
+      {
+        "id": 444757,
+        "mouza_id": 85201,
+        "mouza_name": "মোসলেম পাইকান",
+        "jl_no": "38",
+        "uuid": "acc62a6b-247b-4658-abf5-302981635389"
+      },
+      {
+        "id": 335894,
+        "mouza_id": 42474,
+        "mouza_name": "কালীচরন",
+        "jl_no": "39",
+        "uuid": "6a522858-9681-47bc-b19b-bff5c304ca97"
+      },
+      {
+        "id": 416554,
+        "mouza_id": 42490,
+        "mouza_name": "আহম্মেদ নগর",
+        "jl_no": "40",
+        "uuid": "6ce8af8d-4576-48a1-8660-33c938a12c6a"
+      },
+      {
+        "id": 335899,
+        "mouza_id": 42579,
+        "mouza_name": "কানটহারী সুন্দরদিঘী",
+        "jl_no": "42",
+        "uuid": "b6af9497-6942-4631-b02f-eb1a9d83e651"
+      },
+      {
+        "id": 416855,
+        "mouza_id": 97262,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "46",
+        "uuid": "fd3b52ca-73ba-42db-a8d5-629678a09cde"
+      },
+      {
+        "id": 416849,
+        "mouza_id": 97263,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "47",
+        "uuid": "c9ba40ff-b2da-4ba9-bbba-40dd60da65aa"
+      },
+      {
+        "id": 416848,
+        "mouza_id": 97264,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "48",
+        "uuid": "5fba5beb-774e-4e45-bdd8-16ec7f89da5e"
+      },
+      {
+        "id": 416844,
+        "mouza_id": 97265,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "49",
+        "uuid": "03082fe9-0bc3-4dd6-924d-019d4e7136fd"
+      },
+      {
+        "id": 416557,
+        "mouza_id": 42819,
+        "mouza_name": "মেকুমারী ",
+        "jl_no": "50",
+        "uuid": "6e5d76c4-e0a6-4c15-90c0-fedd4cad11bb"
+      },
+      {
+        "id": 415958,
+        "mouza_id": 86986,
+        "mouza_name": "রাধানাথ রায়",
+        "jl_no": "57",
+        "uuid": "a9c830e1-d9a3-43df-b35d-7a1852884b3a"
+      },
+      {
+        "id": 335830,
+        "mouza_id": 43500,
+        "mouza_name": "এনায়েতপুর",
+        "jl_no": "59",
+        "uuid": "b1c297dd-6a6e-42e8-b32b-27eb7d8c8fdb"
+      },
+      {
+        "id": 335883,
+        "mouza_id": 97250,
+        "mouza_name": "পামুলী",
+        "jl_no": "60",
+        "uuid": "8d8ede24-af9a-4484-8a2e-23d4be658fdb"
+      },
+      {
+        "id": 335826,
+        "mouza_id": 43430,
+        "mouza_name": "বিনয়পুর",
+        "jl_no": "64",
+        "uuid": "a5696d32-c070-40c0-a261-d7a14dc50de6"
+      },
+      {
+        "id": 399052,
+        "mouza_id": 97268,
+        "mouza_name": "দণ্ডপাল আরাজী",
+        "jl_no": "66",
+        "uuid": "672a43f2-29b6-4d1b-baf8-8801b15b65be"
+      },
+      {
+        "id": 444763,
+        "mouza_id": 86553,
+        "mouza_name": "শান্তিনগর ",
+        "jl_no": "70",
+        "uuid": "dea26626-e2ee-41bb-8d29-e54f580cbac9"
+      },
+      {
+        "id": 335816,
+        "mouza_id": 44050,
+        "mouza_name": "কিসমত বাগদহ",
+        "jl_no": "71",
+        "uuid": "78d65ff6-f720-4330-8c46-83cbf5c1e953"
+      },
+      {
+        "id": 388858,
+        "mouza_id": 97251,
+        "mouza_name": "ধেনুচেংটি",
+        "jl_no": "73",
+        "uuid": "14beb063-0cf0-41bc-8eae-2809067a64a7"
+      },
+      {
+        "id": 388860,
+        "mouza_id": 97252,
+        "mouza_name": "নগর মাধে খাঁ",
+        "jl_no": "74",
+        "uuid": "31da10a8-11ab-4f23-9543-6ac0ab7388e9"
+      },
+      {
+        "id": 416558,
+        "mouza_id": 43665,
+        "mouza_name": "নগর চেংটী",
+        "jl_no": "75",
+        "uuid": "0be6b5df-cc58-4da3-a20b-1af2d8dc8569"
+      },
+      {
+        "id": 444985,
+        "mouza_id": 45146,
+        "mouza_name": "ধনমন্ডল ",
+        "jl_no": "78",
+        "uuid": "67140b9b-d91e-46ba-9357-7c79c808281d"
+      },
+      {
+        "id": 415915,
+        "mouza_id": 86806,
+        "mouza_name": "মাড়েয়া কমলা পূখরী",
+        "jl_no": "80",
+        "uuid": "4d6f284a-55f1-4986-9493-a11d48536e2d"
+      },
+      {
+        "id": 416561,
+        "mouza_id": 83501,
+        "mouza_name": "মালচন্ডি",
+        "jl_no": "86",
+        "uuid": "5916f4fd-4ac9-4da0-a98f-657067c857a2"
+      },
+      {
+        "id": 415910,
+        "mouza_id": 87022,
+        "mouza_name": "আলিয়ার খাঁ",
+        "jl_no": "89",
+        "uuid": "1cb21404-b483-435d-ae7f-a73eb719208a"
+      },
+      {
+        "id": 415905,
+        "mouza_id": 45262,
+        "mouza_name": "চেংটী",
+        "jl_no": "91",
+        "uuid": "8d536a94-229e-440b-b2a0-cfc3dc66589f"
+      },
+      {
+        "id": 335851,
+        "mouza_id": 45261,
+        "mouza_name": "দেহাইচন্ডি",
+        "jl_no": "92",
+        "uuid": "d1be5679-01e2-4239-a1ba-051026ed2905"
+      },
+      {
+        "id": 415901,
+        "mouza_id": 84739,
+        "mouza_name": "লক্ষী নারায়নী",
+        "jl_no": "93",
+        "uuid": "c65f6e99-b10f-4a11-a9cc-af63328dd17c"
+      },
+      {
+        "id": 416726,
+        "mouza_id": 45296,
+        "mouza_name": "ছলিমনগড়",
+        "jl_no": "94",
+        "uuid": "1ae28e60-e83b-457b-ac37-cba018e41ada"
+      },
+      {
+        "id": 415895,
+        "mouza_id": 83319,
+        "mouza_name": "মোহাম্মদপুর",
+        "jl_no": "95",
+        "uuid": "dfaaf38f-46dc-4f97-9810-3bbae7d4a37a"
+      },
+      {
+        "id": 335804,
+        "mouza_id": 69369,
+        "mouza_name": "বালাপাড়া খাগড়াবাড়ী",
+        "jl_no": "99",
+        "uuid": "19fe1ee5-bc0f-4757-9413-574fae34a552"
+      },
+      {
+        "id": 335806,
+        "mouza_id": 69350,
+        "mouza_name": "কোট ভাজনী",
+        "jl_no": "100",
+        "uuid": "81336b1a-8f8e-47be-8f8a-d0d067952995"
+      },
+      {
+        "id": 335808,
+        "mouza_id": 69356,
+        "mouza_name": "দহলা খাগড়াবাড়ি",
+        "jl_no": "101",
+        "uuid": "4b39f597-a103-4993-b29d-21a9b32c75db"
+      },
+      {
+        "id": 335810,
+        "mouza_id": 69367,
+        "mouza_name": "কাজলদিঘী",
+        "jl_no": "157",
+        "uuid": "5bd8e3d1-26b6-4f15-bd77-bb082cd7c2ab"
+      },
+      {
+        "id": 335812,
+        "mouza_id": 69374,
+        "mouza_name": "বেউলাডাঙ্গা",
+        "jl_no": "158",
+        "uuid": "40359444-e514-4709-9aba-a6694afe9cec"
+      },
+      {
+        "id": 335814,
+        "mouza_id": 69358,
+        "mouza_name": "নাটকটোকা",
+        "jl_no": "159",
+        "uuid": "bdf85d30-7a21-48d3-ac63-1ab2f46d1e70"
+      }
+    ]
+  },
+  {
+    "upazila_en": "DEBIGANJ",
+    "upazila_bn": "দেবীগঞ্জ",
+    "upazila_bbs": "34",
+    "district_bbs": "77",
+    "survey": "RS",
+    "mouza_count": 19,
+    "mouzas": [
+      {
+        "id": 388863,
+        "mouza_id": 86245,
+        "mouza_name": "বানিয়াপুর",
+        "jl_no": "3",
+        "uuid": "934eb51f-b3ae-4489-ac1d-ab92887e04e1"
+      },
+      {
+        "id": 415834,
+        "mouza_id": 86631,
+        "mouza_name": "হাসানপুর",
+        "jl_no": "27",
+        "uuid": "acb4bcea-4315-49e4-b9b5-841a7e08b83f"
+      },
+      {
+        "id": 415829,
+        "mouza_id": 83502,
+        "mouza_name": "মাড়েয়াসিংরোড",
+        "jl_no": "29",
+        "uuid": "0eaa37bc-857f-46a1-a749-bb6fc5039a0a"
+      },
+      {
+        "id": 415840,
+        "mouza_id": 42390,
+        "mouza_name": "দৌলতপুর",
+        "jl_no": "33",
+        "uuid": "095e6a64-81c1-4e36-b62d-f6b44ad30eee"
+      },
+      {
+        "id": 415852,
+        "mouza_id": 86986,
+        "mouza_name": "রাধানাথরায়",
+        "jl_no": "57",
+        "uuid": "01f9cc10-b38d-4ea8-8188-26cab4fc6fd9"
+      },
+      {
+        "id": 397661,
+        "mouza_id": 97267,
+        "mouza_name": "দেবীদাসী দন্ডপাল",
+        "jl_no": "62",
+        "uuid": "2e855950-9f99-4d00-8964-bf1e621b4302"
+      },
+      {
+        "id": 397671,
+        "mouza_id": 43443,
+        "mouza_name": "মুসলেমপাইকান",
+        "jl_no": "68",
+        "uuid": "2b290f41-381e-4d22-95f1-27b65fac6953"
+      },
+      {
+        "id": 388859,
+        "mouza_id": 97252,
+        "mouza_name": "নগর মাধে খাঁ",
+        "jl_no": "74",
+        "uuid": "f15dc9e1-66ae-4fde-9089-ec2bd82f2611"
+      },
+      {
+        "id": 415846,
+        "mouza_id": 86806,
+        "mouza_name": "মাড়েয়া কমলা পুকুরী",
+        "jl_no": "80",
+        "uuid": "5373f6c9-5305-4b28-90f6-ace19bd597fa"
+      },
+      {
+        "id": 415806,
+        "mouza_id": 87022,
+        "mouza_name": "আলিয়ারখাঁ",
+        "jl_no": "89",
+        "uuid": "be06f10f-6bec-4af2-a58c-7aef4c468319"
+      },
+      {
+        "id": 415824,
+        "mouza_id": 45262,
+        "mouza_name": "চেংঠী",
+        "jl_no": "91",
+        "uuid": "9141cf32-f850-4bef-92bb-6ba9014d2f05"
+      },
+      {
+        "id": 415818,
+        "mouza_id": 84739,
+        "mouza_name": "লক্ষিনারায়নী",
+        "jl_no": "93",
+        "uuid": "0ca4b807-e139-462a-b366-75c0b07b8d30"
+      },
+      {
+        "id": 415812,
+        "mouza_id": 45296,
+        "mouza_name": "ছলিমনগর",
+        "jl_no": "94",
+        "uuid": "e5bb6136-6d03-447b-8497-3d05de0a1c80"
+      },
+      {
+        "id": 225248,
+        "mouza_id": 69369,
+        "mouza_name": "বালাপাড়া খাগড়াবাড়ী",
+        "jl_no": "99",
+        "uuid": "8622fab0-f711-4e50-8ee0-e4bd15a587c4"
+      },
+      {
+        "id": 225207,
+        "mouza_id": 69350,
+        "mouza_name": "কোট ভাজনী",
+        "jl_no": "100",
+        "uuid": "083e1c64-371a-45ec-afa3-b794f67795b8"
+      },
+      {
+        "id": 225292,
+        "mouza_id": 69356,
+        "mouza_name": "দহলা খাগড়াবাড়ী",
+        "jl_no": "101",
+        "uuid": "b377ece3-5319-4e7d-b1c3-d7268650f6dc"
+      },
+      {
+        "id": 225238,
+        "mouza_id": 69367,
+        "mouza_name": "কাজলদিঘী",
+        "jl_no": "157",
+        "uuid": "d6297224-9385-4716-9c23-efaf6f783059"
+      },
+      {
+        "id": 225267,
+        "mouza_id": 69374,
+        "mouza_name": "বেউলা ডাঙ্গা",
+        "jl_no": "158",
+        "uuid": "7c755597-d139-4973-b419-b831b2f47fa8"
+      },
+      {
+        "id": 225301,
+        "mouza_id": 69358,
+        "mouza_name": "নাটকটোকা",
+        "jl_no": "159",
+        "uuid": "aa03391f-f885-46d4-9fde-ea08812b2829"
+      }
+    ]
+  },
+  {
+    "upazila_en": "DEBIGANJ",
+    "upazila_bn": "দেবীগঞ্জ",
+    "upazila_bbs": "34",
+    "district_bbs": "77",
+    "survey": "SA",
+    "mouza_count": 92,
+    "mouzas": [
+      {
+        "id": 281273,
+        "mouza_id": 85439,
+        "mouza_name": "ভাউলাগঞ্জ.",
+        "jl_no": "4",
+        "uuid": "945f5905-a6d5-4902-9e6a-36708c7a1a64"
+      },
+      {
+        "id": 283951,
+        "mouza_id": 86245,
+        "mouza_name": "বানিয়াপূর",
+        "jl_no": "5",
+        "uuid": "cb3e6bbd-baac-446e-a5a3-cecb0186926b"
+      },
+      {
+        "id": 281139,
+        "mouza_id": 85317,
+        "mouza_name": "পূর্ব টোকড়াভাষা",
+        "jl_no": "6",
+        "uuid": "012b356b-60d4-4132-8a95-f6d5f97f18d3"
+      },
+      {
+        "id": 129541,
+        "mouza_id": 41192,
+        "mouza_name": "বলরামপুর",
+        "jl_no": "7",
+        "uuid": "ae05c777-8d85-45e6-8566-587a56a33471"
+      },
+      {
+        "id": 129532,
+        "mouza_id": 41190,
+        "mouza_name": "সেখবাধা",
+        "jl_no": "8",
+        "uuid": "5fc925d8-f482-4188-8b2f-83560b376e7b"
+      },
+      {
+        "id": 398846,
+        "mouza_id": 97255,
+        "mouza_name": "উপঞ্চৌকী ভাজনী",
+        "jl_no": "9",
+        "uuid": "cf9b792c-e4ca-46b0-859c-cbaf0bfc1f99"
+      },
+      {
+        "id": 398844,
+        "mouza_id": 97258,
+        "mouza_name": "উপেঞ্চকী ভাজনী",
+        "jl_no": "10",
+        "uuid": "549b1d16-3f0a-411e-8d5d-b858c5b58794"
+      },
+      {
+        "id": 129991,
+        "mouza_id": 41301,
+        "mouza_name": "উপঞ্চৌকি ভাজনী",
+        "jl_no": "13",
+        "uuid": "203a82fd-7ef0-41fe-a732-79e254647144"
+      },
+      {
+        "id": 131192,
+        "mouza_id": 41584,
+        "mouza_name": "বটতলী",
+        "jl_no": "16",
+        "uuid": "b027774e-037d-4403-b892-b127d2c00556"
+      },
+      {
+        "id": 397660,
+        "mouza_id": 97259,
+        "mouza_name": "টেপ্রীগঞ্জ",
+        "jl_no": "17",
+        "uuid": "045c4f65-4f05-40c0-9b32-067c40ef0e27"
+      },
+      {
+        "id": 131472,
+        "mouza_id": 41670,
+        "mouza_name": "চতুরাডাঙ্গী",
+        "jl_no": "18",
+        "uuid": "1c349f31-cf1e-4934-9e2f-483c7d64060c"
+      },
+      {
+        "id": 287462,
+        "mouza_id": 87213,
+        "mouza_name": "সালডাঙ্গা",
+        "jl_no": "19",
+        "uuid": "69ef336d-255e-4d4a-a668-7a17e7cdea3f"
+      },
+      {
+        "id": 280755,
+        "mouza_id": 85181,
+        "mouza_name": "শিকারপূর",
+        "jl_no": "20",
+        "uuid": "eb9eb31d-3de2-4866-b3bb-d8fa9ca57f3c"
+      },
+      {
+        "id": 132185,
+        "mouza_id": 41857,
+        "mouza_name": "দেবোত্তর সালডাঙ্গা",
+        "jl_no": "21",
+        "uuid": "b2087c67-361d-4770-8507-d7869ded7142"
+      },
+      {
+        "id": 132191,
+        "mouza_id": 41858,
+        "mouza_name": "অমরখানা",
+        "jl_no": "22",
+        "uuid": "cb669c7e-b27c-4363-957f-831a22d167eb"
+      },
+      {
+        "id": 276855,
+        "mouza_id": 83407,
+        "mouza_name": "ছত্রশিকারপূর",
+        "jl_no": "23",
+        "uuid": "436164cd-ad80-4d07-b90b-1424fea9c36b"
+      },
+      {
+        "id": 287980,
+        "mouza_id": 87348,
+        "mouza_name": "কাটান হারী",
+        "jl_no": "24",
+        "uuid": "7e2f00bd-46c7-4210-a1b6-0838bdddb36b"
+      },
+      {
+        "id": 285338,
+        "mouza_id": 86626,
+        "mouza_name": "দামানীগ্রাম",
+        "jl_no": "25",
+        "uuid": "02611035-1c3f-4596-b20e-76458096abba"
+      },
+      {
+        "id": 277738,
+        "mouza_id": 83817,
+        "mouza_name": "খারিজা কাটান হারী",
+        "jl_no": "26",
+        "uuid": "41ce838b-0f11-4ba5-95ff-48ad807c32a4"
+      },
+      {
+        "id": 133452,
+        "mouza_id": 42202,
+        "mouza_name": "বন্দিরাম",
+        "jl_no": "27",
+        "uuid": "b3895e73-0853-4757-b82f-26203c9ec33c"
+      },
+      {
+        "id": 133875,
+        "mouza_id": 42218,
+        "mouza_name": "ধ্যানগ্রাম",
+        "jl_no": "28",
+        "uuid": "e0cf9523-6de3-4949-8afb-5170c44c35e2"
+      },
+      {
+        "id": 285357,
+        "mouza_id": 86631,
+        "mouza_name": "হাসানপূর",
+        "jl_no": "29",
+        "uuid": "992a6dfd-22d0-4d31-8ed8-2a195ef6442c"
+      },
+      {
+        "id": 133958,
+        "mouza_id": 42296,
+        "mouza_name": "কাটনহারী আরাজী",
+        "jl_no": "30",
+        "uuid": "fd89fbec-a00d-4019-be22-23c2ade95dce"
+      },
+      {
+        "id": 388862,
+        "mouza_id": 97261,
+        "mouza_name": "পামুলী",
+        "jl_no": "31",
+        "uuid": "51d8c0f9-6c4c-4fe5-a36f-fdcdccaae011"
+      },
+      {
+        "id": 134218,
+        "mouza_id": 42391,
+        "mouza_name": "রামজি শান্তি",
+        "jl_no": "32",
+        "uuid": "d31a5859-2df5-4c47-a8ec-ed3b177c0d27"
+      },
+      {
+        "id": 283466,
+        "mouza_id": 86112,
+        "mouza_name": "জোতদেওয়ানু",
+        "jl_no": "33",
+        "uuid": "34511fa9-6e0b-4830-af51-2a3bdb4ad5fb"
+      },
+      {
+        "id": 134212,
+        "mouza_id": 42390,
+        "mouza_name": "দৌলতপুর",
+        "jl_no": "34",
+        "uuid": "1f4d026c-48b8-4c35-9462-0b2e74d19544"
+      },
+      {
+        "id": 134372,
+        "mouza_id": 42433,
+        "mouza_name": "রহমতপুর",
+        "jl_no": "35",
+        "uuid": "1b0d008f-a6f3-4c4a-b450-531c66e8b172"
+      },
+      {
+        "id": 280952,
+        "mouza_id": 85264,
+        "mouza_name": "জোতশুকুর",
+        "jl_no": "36",
+        "uuid": "72179f07-a3c7-4957-8950-2a3bddee8e06"
+      },
+      {
+        "id": 280801,
+        "mouza_id": 85201,
+        "mouza_name": "মোসলেমপাইকান",
+        "jl_no": "37",
+        "uuid": "52bc7ae0-7314-4c65-9a4f-8d6b201326dc"
+      },
+      {
+        "id": 134544,
+        "mouza_id": 42474,
+        "mouza_name": "কালীচরন",
+        "jl_no": "38",
+        "uuid": "e8267619-c9f6-43be-8df9-471eea5cef84"
+      },
+      {
+        "id": 134627,
+        "mouza_id": 42490,
+        "mouza_name": "আহম্মদনগর",
+        "jl_no": "39",
+        "uuid": "5395d22d-02d3-4622-b7be-a22aaf13d7a3"
+      },
+      {
+        "id": 134689,
+        "mouza_id": 42511,
+        "mouza_name": "হেদায়েতপুর",
+        "jl_no": "40",
+        "uuid": "ad300624-3b97-4aeb-a359-048eb8bdf8c7"
+      },
+      {
+        "id": 134973,
+        "mouza_id": 42593,
+        "mouza_name": "বাকপুর",
+        "jl_no": "41",
+        "uuid": "68cafc63-8888-4715-ab7c-208111885089"
+      },
+      {
+        "id": 277259,
+        "mouza_id": 83502,
+        "mouza_name": "মাড়েয়াসিংরোড",
+        "jl_no": "42",
+        "uuid": "fa601d41-15bd-4604-845d-34a4fe322968"
+      },
+      {
+        "id": 134983,
+        "mouza_id": 42595,
+        "mouza_name": "কাটানহারী  .",
+        "jl_no": "43",
+        "uuid": "dbbd61a3-5d78-4df0-8bc3-432419b9248c"
+      },
+      {
+        "id": 135005,
+        "mouza_id": 42579,
+        "mouza_name": "কাটানহারী সুন্দরদিঘী",
+        "jl_no": "44",
+        "uuid": "48365024-6cb7-46a2-8c11-9609e12ec9d7"
+      },
+      {
+        "id": 279120,
+        "mouza_id": 84477,
+        "mouza_name": "শান্তিনগর.",
+        "jl_no": "45",
+        "uuid": "eceb6496-c49d-407e-87e6-8ff0e41e3bbb"
+      },
+      {
+        "id": 279460,
+        "mouza_id": 84617,
+        "mouza_name": "সুলতানপূল",
+        "jl_no": "46",
+        "uuid": "ee61c4bb-4270-4851-96d9-fb45a59d4d2d"
+      },
+      {
+        "id": 135753,
+        "mouza_id": 42801,
+        "mouza_name": "বিলাসপুর",
+        "jl_no": "48",
+        "uuid": "e30b3ee0-8a97-4399-9361-d70b4b2a39b5"
+      },
+      {
+        "id": 398842,
+        "mouza_id": 97262,
+        "mouza_name": "উপঞ্চকি ভাজনী",
+        "jl_no": "49",
+        "uuid": "6a59dd2b-9734-4e97-9bbc-56bd80747e43"
+      },
+      {
+        "id": 398845,
+        "mouza_id": 97263,
+        "mouza_name": "উপেনচৌকি50",
+        "jl_no": "50",
+        "uuid": "65e4e5c8-ddef-4585-a33e-6063ac87a33e"
+      },
+      {
+        "id": 135844,
+        "mouza_id": 42819,
+        "mouza_name": "মেকুমারী",
+        "jl_no": "52",
+        "uuid": "815f51b9-0786-4ece-bbc1-f3fc2a71995f"
+      },
+      {
+        "id": 398843,
+        "mouza_id": 97265,
+        "mouza_name": "-উপেনচৌকিভাজনী",
+        "jl_no": "53",
+        "uuid": "0f02c6cf-dabe-4965-b34a-3a73e1875a15"
+      },
+      {
+        "id": 136042,
+        "mouza_id": 42891,
+        "mouza_name": "দেবীগঞ্জ",
+        "jl_no": "54",
+        "uuid": "361810ad-ef7f-4c9b-93f9-112e4100dda5"
+      },
+      {
+        "id": 272817,
+        "mouza_id": 82273,
+        "mouza_name": "সোনাপোতা",
+        "jl_no": "55",
+        "uuid": "008b7f79-3fd7-40dd-96dc-f0196fa93e4a"
+      },
+      {
+        "id": 280848,
+        "mouza_id": 85223,
+        "mouza_name": "খূটামারা",
+        "jl_no": "56",
+        "uuid": "85355628-0726-490a-89e5-5e7bbdb94b7d"
+      },
+      {
+        "id": 136683,
+        "mouza_id": 43044,
+        "mouza_name": "দেবীডোবা",
+        "jl_no": "57",
+        "uuid": "657b9e7c-2ac1-47f9-86fa-c6e1bb8058de"
+      },
+      {
+        "id": 281819,
+        "mouza_id": 85659,
+        "mouza_name": "প্রধানাবাদ.",
+        "jl_no": "58",
+        "uuid": "5ed90252-4d44-4d33-86b0-022cd54ea977"
+      },
+      {
+        "id": 282216,
+        "mouza_id": 85756,
+        "mouza_name": "হাকিমপূর",
+        "jl_no": "59",
+        "uuid": "e4859774-7fcc-431d-8745-2d46081ba377"
+      },
+      {
+        "id": 286632,
+        "mouza_id": 86986,
+        "mouza_name": "রাধানাথরায়",
+        "jl_no": "60",
+        "uuid": "4a7192dc-b416-4033-bc32-75bc63396063"
+      },
+      {
+        "id": 388864,
+        "mouza_id": 97266,
+        "mouza_name": "ভুগুকাজী",
+        "jl_no": "61",
+        "uuid": "58e743e3-2b83-4647-b9e5-8c040216c700"
+      },
+      {
+        "id": 397662,
+        "mouza_id": 97267,
+        "mouza_name": "দেবীদাসী দন্ডপাল",
+        "jl_no": "62",
+        "uuid": "a87b9a06-2f90-45f0-a04b-e2590a0862f0"
+      },
+      {
+        "id": 265578,
+        "mouza_id": 80283,
+        "mouza_name": "ধনমন্ডল/63",
+        "jl_no": "63",
+        "uuid": "863be14b-0715-428b-9542-ddb4274f6c68"
+      },
+      {
+        "id": 137746,
+        "mouza_id": 43365,
+        "mouza_name": "বেংহারী",
+        "jl_no": "64",
+        "uuid": "d85f0388-b3da-4fa7-912e-bc31ae741678"
+      },
+      {
+        "id": 280946,
+        "mouza_id": 85263,
+        "mouza_name": "ধনমন্ডল আরাজী.",
+        "jl_no": "65",
+        "uuid": "79fae728-9cf6-43ec-9ddf-2aabc4909c58"
+      },
+      {
+        "id": 138064,
+        "mouza_id": 43443,
+        "mouza_name": "মোসলেম পাইকান66",
+        "jl_no": "66",
+        "uuid": "5ad03c83-4b65-49f6-88a8-bc51e53a13e0"
+      },
+      {
+        "id": 137955,
+        "mouza_id": 43430,
+        "mouza_name": "বিনয়পুর",
+        "jl_no": "67",
+        "uuid": "56e5e6a7-381f-48c7-bb20-603fddf75c40"
+      },
+      {
+        "id": 138205,
+        "mouza_id": 43500,
+        "mouza_name": "এনায়েতপুর",
+        "jl_no": "69",
+        "uuid": "90c12d00-ce38-4058-9077-5d563da872e2"
+      },
+      {
+        "id": 399053,
+        "mouza_id": 97268,
+        "mouza_name": "দন্ডপাল আরাজী",
+        "jl_no": "71",
+        "uuid": "2944fc23-0ef7-4700-bcaf-3e788782f49b"
+      },
+      {
+        "id": 285076,
+        "mouza_id": 86553,
+        "mouza_name": "শান্তিনগর,",
+        "jl_no": "72",
+        "uuid": "6096e7a5-6481-476f-8ff6-bb27ffecebbf"
+      },
+      {
+        "id": 140323,
+        "mouza_id": 44050,
+        "mouza_name": "কিসমত বাগদহ",
+        "jl_no": "73",
+        "uuid": "33293402-dd02-4d87-be55-5bce6629dbcb"
+      },
+      {
+        "id": 273987,
+        "mouza_id": 82593,
+        "mouza_name": "দন্ডপাল.",
+        "jl_no": "74",
+        "uuid": "cadd63de-52db-4084-b9d6-9d87fcd98fc3"
+      },
+      {
+        "id": 388857,
+        "mouza_id": 97251,
+        "mouza_name": "ধনূচেংঠী",
+        "jl_no": "75",
+        "uuid": "5eb47072-02be-432c-bfc7-621236df9e66"
+      },
+      {
+        "id": 388861,
+        "mouza_id": 97252,
+        "mouza_name": "নগর মাধেখা",
+        "jl_no": "76",
+        "uuid": "b13186ab-62f5-4871-b61e-f1bbe43d2d78"
+      },
+      {
+        "id": 138981,
+        "mouza_id": 43665,
+        "mouza_name": "নগর চেংঠী",
+        "jl_no": "77",
+        "uuid": "946e9edc-8332-4435-aca9-2a7feb2fab14"
+      },
+      {
+        "id": 280564,
+        "mouza_id": 85078,
+        "mouza_name": "বাগদহ .",
+        "jl_no": "78",
+        "uuid": "3638b101-0c80-4742-ac4c-7017edac955d"
+      },
+      {
+        "id": 139848,
+        "mouza_id": 43896,
+        "mouza_name": "হাজরাডাঙ্গা",
+        "jl_no": "79",
+        "uuid": "987a4b31-7804-4adb-8791-6d62589e551c"
+      },
+      {
+        "id": 140305,
+        "mouza_id": 44025,
+        "mouza_name": "ধনমন্ডল  .",
+        "jl_no": "80",
+        "uuid": "ccccccf0-6069-47bf-ba0d-e12bbd38dd91"
+      },
+      {
+        "id": 397663,
+        "mouza_id": 97269,
+        "mouza_name": "ধনমন্ডল আরাজী  ,",
+        "jl_no": "80",
+        "uuid": "5168b2e4-3392-42fc-9f16-8dd44df04d10"
+      },
+      {
+        "id": 140531,
+        "mouza_id": 44081,
+        "mouza_name": "খাঃ গুঃ হাজরাডাঙ্গা",
+        "jl_no": "81",
+        "uuid": "c9905caf-0a59-4e04-860e-69631932e872"
+      },
+      {
+        "id": 286009,
+        "mouza_id": 86806,
+        "mouza_name": "মাড়েয়া কমলা পুকুরী",
+        "jl_no": "82",
+        "uuid": "cf007db0-7c76-41d6-ac31-d9c98ae7a3a2"
+      },
+      {
+        "id": 277139,
+        "mouza_id": 83473,
+        "mouza_name": "ব্রম্মত্তর সুন্দরদীঘী",
+        "jl_no": "83",
+        "uuid": "bd276e96-b3a6-4bfb-b9ff-253c0cee4556"
+      },
+      {
+        "id": 140705,
+        "mouza_id": 44142,
+        "mouza_name": "দাড়ার হাট",
+        "jl_no": "84",
+        "uuid": "eaa68a7a-3b17-43b2-98df-c742b863d094"
+      },
+      {
+        "id": 277518,
+        "mouza_id": 83717,
+        "mouza_name": "প্রধানপূর",
+        "jl_no": "85",
+        "uuid": "70f64319-c1ff-49bd-9cca-6008b8830633"
+      },
+      {
+        "id": 282367,
+        "mouza_id": 85799,
+        "mouza_name": "মোস্তফাপূর",
+        "jl_no": "86",
+        "uuid": "d050edca-eed8-4f11-ba51-3f9d27373d5f"
+      },
+      {
+        "id": 277253,
+        "mouza_id": 83501,
+        "mouza_name": "মালচন্ডী",
+        "jl_no": "87",
+        "uuid": "40a52702-232b-496b-b7f1-256adde66a4b"
+      },
+      {
+        "id": 141111,
+        "mouza_id": 44270,
+        "mouza_name": "আরাজি সুন্দরদিঘী",
+        "jl_no": "88",
+        "uuid": "01680c5b-ce47-40a7-b2d0-e3db2257f9ab"
+      },
+      {
+        "id": 398908,
+        "mouza_id": 97253,
+        "mouza_name": "মুলকাদহ",
+        "jl_no": "89",
+        "uuid": "7f0db4c8-c770-4b98-863c-47c1ee162337"
+      },
+      {
+        "id": 144509,
+        "mouza_id": 45146,
+        "mouza_name": "ধনমন্ডল ,",
+        "jl_no": "90",
+        "uuid": "a0fd079b-6021-4d1f-b5c4-ce0f6802513c"
+      },
+      {
+        "id": 286757,
+        "mouza_id": 87022,
+        "mouza_name": "আলিয়ারখাঁ",
+        "jl_no": "91",
+        "uuid": "76a5c770-06d3-4f8e-9f2a-3179de773a7c"
+      },
+      {
+        "id": 286323,
+        "mouza_id": 86897,
+        "mouza_name": "আঃ শিকারপূর",
+        "jl_no": "92",
+        "uuid": "f3611298-887c-4233-a425-849b7b876c03"
+      },
+      {
+        "id": 144838,
+        "mouza_id": 45261,
+        "mouza_name": "দেহাইচন্ডি",
+        "jl_no": "93",
+        "uuid": "08f6f7e6-ac26-47fb-96c9-f99b2c2b849b"
+      },
+      {
+        "id": 144844,
+        "mouza_id": 45262,
+        "mouza_name": "চেংঠী",
+        "jl_no": "94",
+        "uuid": "b3273a87-e072-4d34-8979-5d31e13ee25d"
+      },
+      {
+        "id": 279767,
+        "mouza_id": 84739,
+        "mouza_name": "লক্ষিনারায়নী",
+        "jl_no": "95",
+        "uuid": "7a84d8ca-0afa-4658-ba75-575dc2c63f49"
+      },
+      {
+        "id": 144961,
+        "mouza_id": 45296,
+        "mouza_name": "ছলিমনগর",
+        "jl_no": "96",
+        "uuid": "9f8de0c9-ebe2-4049-bb25-82a6e8da29ca"
+      },
+      {
+        "id": 276506,
+        "mouza_id": 83319,
+        "mouza_name": "মোহাম্মদপুর",
+        "jl_no": "97",
+        "uuid": "241fc7dd-9193-4b47-bbf5-fac129d9c01c"
+      },
+      {
+        "id": 274160,
+        "mouza_id": 82648,
+        "mouza_name": "রছুলপুর.",
+        "jl_no": "98",
+        "uuid": "f4de3bb6-48c1-44a2-8a32-0c168405fa7f"
+      },
+      {
+        "id": 275128,
+        "mouza_id": 82920,
+        "mouza_name": "সোনাহার.",
+        "jl_no": "99",
+        "uuid": "ac7f68f3-6410-435d-90c8-1dc9cd21547f"
+      },
+      {
+        "id": 145305,
+        "mouza_id": 45394,
+        "mouza_name": "আলমনগর",
+        "jl_no": "100",
+        "uuid": "1762b68b-3cf8-41f1-85a0-e71dc449a8b7"
+      },
+      {
+        "id": 277958,
+        "mouza_id": 83957,
+        "mouza_name": "খারিজাসোনাহার",
+        "jl_no": "101",
+        "uuid": "0bc76e95-8246-471d-91c2-987508319324"
+      },
+      {
+        "id": 279678,
+        "mouza_id": 84697,
+        "mouza_name": "খারিজাভাজনী",
+        "jl_no": "-",
+        "uuid": "cff3a73b-a3c7-4720-8681-a670ecbd2cc1"
+      }
+    ]
+  },
+  {
+    "upazila_en": "PANCHAGARH SADAR",
+    "upazila_bn": "পঞ্চগড় সদর",
+    "upazila_bbs": "73",
+    "district_bbs": "77",
+    "survey": "BRS",
+    "mouza_count": 17,
+    "mouzas": [
+      {
+        "id": 360600,
+        "mouza_id": 84540,
+        "mouza_name": "খারিজা ভজনপুর",
+        "jl_no": "1",
+        "uuid": "3aee45d6-462a-4988-8d1e-8c5129e9ab42"
+      },
+      {
+        "id": 444766,
+        "mouza_id": 101765,
+        "mouza_name": "লাখেরাজ ঘুমটী ",
+        "jl_no": "20",
+        "uuid": "10726a67-543c-47ad-8e88-ff14cff21a85"
+      },
+      {
+        "id": 360633,
+        "mouza_id": 101752,
+        "mouza_name": "জোত বাহাদি",
+        "jl_no": "27",
+        "uuid": "1b86d1f6-3b8a-496e-b658-816977f883b0"
+      },
+      {
+        "id": 360631,
+        "mouza_id": 101751,
+        "mouza_name": "জোত কৃষ্ণ চন্দ্র নন্দী",
+        "jl_no": "28",
+        "uuid": "d586ca83-0f81-4c25-b0b1-cd8ce8d7d813"
+      },
+      {
+        "id": 360639,
+        "mouza_id": 101754,
+        "mouza_name": "কালেশ্বর সামাঞ্জ",
+        "jl_no": "29",
+        "uuid": "db95ab2f-1194-4718-a438-fb183c7188b4"
+      },
+      {
+        "id": 416702,
+        "mouza_id": 4602,
+        "mouza_name": "বেঙ্গহারী শিকারপুর",
+        "jl_no": "32",
+        "uuid": "084bb010-02e1-4e4e-9f1d-9fb4c0cfbaa2"
+      },
+      {
+        "id": 360569,
+        "mouza_id": 80196,
+        "mouza_name": "পাহাড়তলী",
+        "jl_no": "44",
+        "uuid": "d5876299-9c4b-4003-801f-91b475365151"
+      },
+      {
+        "id": 360571,
+        "mouza_id": 48456,
+        "mouza_name": "তেলধর",
+        "jl_no": "45",
+        "uuid": "9e2c2533-4919-4fa8-a935-c2ada1343c5c"
+      },
+      {
+        "id": 360573,
+        "mouza_id": 4588,
+        "mouza_name": "কাজলদিঘী",
+        "jl_no": "46",
+        "uuid": "198aca79-cd90-42b0-8b70-c58415feb385"
+      },
+      {
+        "id": 360591,
+        "mouza_id": 72255,
+        "mouza_name": "মাড়েয়া কমলা পুকুরী",
+        "jl_no": "50",
+        "uuid": "2ddfb3a9-7658-4200-b47b-3638379d0364"
+      },
+      {
+        "id": 414634,
+        "mouza_id": 70702,
+        "mouza_name": "মাঝগ্রাম",
+        "jl_no": "51",
+        "uuid": "fd7066d5-2adc-460a-b6e9-2a35dccd22aa"
+      },
+      {
+        "id": 360611,
+        "mouza_id": 4616,
+        "mouza_name": "বাহাদুর নারায়নী",
+        "jl_no": "53",
+        "uuid": "dd1cd2ab-9c44-4e95-a232-41d9e5928904"
+      },
+      {
+        "id": 360637,
+        "mouza_id": 101753,
+        "mouza_name": "জগন্নাথ জোত",
+        "jl_no": "55",
+        "uuid": "67fa3c5a-4a20-4e67-9891-ed6695495cc1"
+      },
+      {
+        "id": 360597,
+        "mouza_id": 72472,
+        "mouza_name": "আরাজী বেরু বাড়ী",
+        "jl_no": "57",
+        "uuid": "8ff002f3-3874-4440-8c90-39f7311b5d11"
+      },
+      {
+        "id": 360626,
+        "mouza_id": 72137,
+        "mouza_name": "আরাজী বাঁশকন্ঠিয়া",
+        "jl_no": "67",
+        "uuid": "56a869b6-7e83-4c09-86e6-ed8c53d27123"
+      },
+      {
+        "id": 360635,
+        "mouza_id": 4606,
+        "mouza_name": "আরাজী বগুলাডাঙ্গী শিকারপুর ডেনাকাটা",
+        "jl_no": "69",
+        "uuid": "4df461f1-0c24-4701-b483-ca01c35fea3e"
+      },
+      {
+        "id": 360577,
+        "mouza_id": 4574,
+        "mouza_name": "কিসমত সিং রোড",
+        "jl_no": "73",
+        "uuid": "7cb57605-486f-4ec3-8bcd-6058b34488fa"
+      }
+    ]
+  },
+  {
+    "upazila_en": "PANCHAGARH SADAR",
+    "upazila_bn": "পঞ্চগড় সদর",
+    "upazila_bbs": "73",
+    "district_bbs": "77",
+    "survey": "RS",
+    "mouza_count": 13,
+    "mouzas": [
+      {
+        "id": 283386,
+        "mouza_id": 86095,
+        "mouza_name": "ওমরপূর",
+        "jl_no": "9",
+        "uuid": "d8bf6547-e7b2-4dd6-87c1-ec01d1628872"
+      },
+      {
+        "id": 274220,
+        "mouza_id": 82662,
+        "mouza_name": "ধাক্কামারা.",
+        "jl_no": "10",
+        "uuid": "4512d655-dde9-486d-bc62-8ddd4b5ed4f1"
+      },
+      {
+        "id": 278219,
+        "mouza_id": 84057,
+        "mouza_name": "পুরাতনপঞ্চগড়",
+        "jl_no": "11",
+        "uuid": "f4903473-46c8-4384-b6c2-fd27fe614788"
+      },
+      {
+        "id": 212475,
+        "mouza_id": 65735,
+        "mouza_name": "ঢেমসীমারী",
+        "jl_no": "12",
+        "uuid": "72e7fbf0-3f48-4dfe-a5a3-5c55927106ac"
+      },
+      {
+        "id": 397681,
+        "mouza_id": 87397,
+        "mouza_name": "যোথনপুখুরী",
+        "jl_no": "13",
+        "uuid": "c8ffdb04-2e4a-420d-a088-2668afa1d5e3"
+      },
+      {
+        "id": 420930,
+        "mouza_id": 101765,
+        "mouza_name": "লাখেরাজ ঘূমটি",
+        "jl_no": "20",
+        "uuid": "72c0272d-e668-4644-ac7f-b060f56a631d"
+      },
+      {
+        "id": 211507,
+        "mouza_id": 4584,
+        "mouza_name": "মোলানী",
+        "jl_no": "21",
+        "uuid": "68d7b41a-c9e7-4f8b-8a68-5f03de8909ac"
+      },
+      {
+        "id": 271137,
+        "mouza_id": 81801,
+        "mouza_name": "পঞ্চগড়.",
+        "jl_no": "22",
+        "uuid": "498a35c4-77af-405d-b8de-a5a3dd7a7c50"
+      },
+      {
+        "id": 397674,
+        "mouza_id": 80196,
+        "mouza_name": "পাহাড়তলী",
+        "jl_no": "44",
+        "uuid": "588dde5f-f3b0-470a-baf6-92f967a906a1"
+      },
+      {
+        "id": 397672,
+        "mouza_id": 48456,
+        "mouza_name": "তেলধর",
+        "jl_no": "45",
+        "uuid": "974b52ed-0e33-496d-9adf-fabe0330e6f3"
+      },
+      {
+        "id": 225314,
+        "mouza_id": 4588,
+        "mouza_name": "কাজলদিঘী",
+        "jl_no": "46",
+        "uuid": "88e93fa1-7ecd-494f-9fa8-9c672ba0d039"
+      },
+      {
+        "id": 397680,
+        "mouza_id": 70702,
+        "mouza_name": "মাঝগ্রাম",
+        "jl_no": "51",
+        "uuid": "588a6e69-1e2a-4230-b589-0dd8919386d5"
+      },
+      {
+        "id": 397667,
+        "mouza_id": 72137,
+        "mouza_name": "আরাজী বাঁশকণ্ঠিয়া",
+        "jl_no": "67",
+        "uuid": "23988e56-0f50-4fac-b0ad-6365a0877952"
+      }
+    ]
+  },
+  {
+    "upazila_en": "PANCHAGARH SADAR",
+    "upazila_bn": "পঞ্চগড় সদর",
+    "upazila_bbs": "73",
+    "district_bbs": "77",
+    "survey": "SA",
+    "mouza_count": 73,
+    "mouzas": [
+      {
+        "id": 279238,
+        "mouza_id": 84540,
+        "mouza_name": "খারিজা ভজনপূর",
+        "jl_no": "1",
+        "uuid": "9e3d71b7-68fe-4216-96d2-5affd14e9d57"
+      },
+      {
+        "id": 399060,
+        "mouza_id": 101761,
+        "mouza_name": "গরিনাবাড়ী.",
+        "jl_no": "1",
+        "uuid": "9d6d5241-65c6-48ef-a4ac-bdb699694dd5"
+      },
+      {
+        "id": 398971,
+        "mouza_id": 101764,
+        "mouza_name": "ঠাটপাড়া",
+        "jl_no": "2",
+        "uuid": "15061ac4-dfaa-4063-9c6d-6a2df9f20fa5"
+      },
+      {
+        "id": 281066,
+        "mouza_id": 85298,
+        "mouza_name": "সাতমেরা  .",
+        "jl_no": "2",
+        "uuid": "89656d51-2a8d-4d45-afbc-554ccd4f612e"
+      },
+      {
+        "id": 399058,
+        "mouza_id": 101762,
+        "mouza_name": "কাসেমপুর.",
+        "jl_no": "3",
+        "uuid": "74689579-d285-4b93-9841-314c280085f1"
+      },
+      {
+        "id": 202844,
+        "mouza_id": 63013,
+        "mouza_name": "সাহেবীজোত",
+        "jl_no": "3",
+        "uuid": "65bb5a17-a024-4532-86d6-7a0be31a10cf"
+      },
+      {
+        "id": 271400,
+        "mouza_id": 81870,
+        "mouza_name": "ফুলবাড়ী.",
+        "jl_no": "4",
+        "uuid": "be32e46a-16b9-4f65-bdcb-ebf7a68f05e1"
+      },
+      {
+        "id": 399016,
+        "mouza_id": 101765,
+        "mouza_name": "লাখেরাজ ঘূমটি",
+        "jl_no": "4",
+        "uuid": "3e9ed7ec-3ffe-4c3c-97f8-33053c6bb087"
+      },
+      {
+        "id": 397669,
+        "mouza_id": 4594,
+        "mouza_name": "খাস.মহল",
+        "jl_no": "5",
+        "uuid": "d9a40f44-acfc-4fa8-a653-35f9bb25a96a"
+      },
+      {
+        "id": 398931,
+        "mouza_id": 101766,
+        "mouza_name": "ইসলামপুর,",
+        "jl_no": "5",
+        "uuid": "24a0e6e1-6510-47d4-a2cf-0dac18742c0a"
+      },
+      {
+        "id": 398997,
+        "mouza_id": 101763,
+        "mouza_name": "মহিমাগঞ্জ.",
+        "jl_no": "6",
+        "uuid": "51b35f91-25e4-41e2-b7c5-a36ff2188444"
+      },
+      {
+        "id": 397679,
+        "mouza_id": 4610,
+        "mouza_name": "বোয়ালীমারী.",
+        "jl_no": "6",
+        "uuid": "7b56e7a1-ab0c-44f6-9c89-38bfb1b7fdf1"
+      },
+      {
+        "id": 397678,
+        "mouza_id": 4611,
+        "mouza_name": "বোদা. পাড়া",
+        "jl_no": "7",
+        "uuid": "5b845cea-2628-4aab-9c8b-e0571a713c92"
+      },
+      {
+        "id": 399007,
+        "mouza_id": 101755,
+        "mouza_name": "মীরগড়.",
+        "jl_no": "8",
+        "uuid": "7d06b4b9-1e8f-4f00-8de3-bce5eb77254a"
+      },
+      {
+        "id": 236199,
+        "mouza_id": 71805,
+        "mouza_name": "সোনারবান.",
+        "jl_no": "8",
+        "uuid": "984feac8-face-4375-8874-3afd97d494f8"
+      },
+      {
+        "id": 398933,
+        "mouza_id": 86095,
+        "mouza_name": "ওমরপুর",
+        "jl_no": "9",
+        "uuid": "b8de94c4-712b-430b-b51a-828c43e0775b"
+      },
+      {
+        "id": 272939,
+        "mouza_id": 82300,
+        "mouza_name": "ভিতরগড়.",
+        "jl_no": "9",
+        "uuid": "8a825df6-9669-45e5-b781-4b3d3b4096b5"
+      },
+      {
+        "id": 398915,
+        "mouza_id": 101760,
+        "mouza_name": "অমরখানা গের্দ্দ নালাগঞ্জ",
+        "jl_no": "10",
+        "uuid": "86216e06-92b3-4c1f-bc07-40d6e0de82e8"
+      },
+      {
+        "id": 398984,
+        "mouza_id": 82662,
+        "mouza_name": "ধাক্কামারা.",
+        "jl_no": "10",
+        "uuid": "0136b48f-e584-4787-a1c1-2c277d33d5f7"
+      },
+      {
+        "id": 265244,
+        "mouza_id": 80196,
+        "mouza_name": "পাহাড়তলী.",
+        "jl_no": "11",
+        "uuid": "d5adb7dd-fa4e-42c8-af5c-63ff15079401"
+      },
+      {
+        "id": 398986,
+        "mouza_id": 84057,
+        "mouza_name": "পুরাতন পঞ্চগড়",
+        "jl_no": "11",
+        "uuid": "ea8c6dde-311d-4d83-81d2-1e9e3afed234"
+      },
+      {
+        "id": 398974,
+        "mouza_id": 65735,
+        "mouza_name": "ঢেমশিমারী",
+        "jl_no": "12",
+        "uuid": "d8017fb7-14b4-4e8c-8f7f-369dc745a000"
+      },
+      {
+        "id": 154283,
+        "mouza_id": 48456,
+        "mouza_name": "তেলধার",
+        "jl_no": "12",
+        "uuid": "993ef9c9-d386-4c3b-9eb8-353a23f63ed7"
+      },
+      {
+        "id": 288183,
+        "mouza_id": 87397,
+        "mouza_name": "যতনপুকূরী",
+        "jl_no": "13",
+        "uuid": "ce9293aa-ca1e-4f82-9389-2d214dad6f6d"
+      },
+      {
+        "id": 273142,
+        "mouza_id": 82357,
+        "mouza_name": "মধুপাড়া        .",
+        "jl_no": "13",
+        "uuid": "4b12c958-661a-40ae-8091-69addea15960"
+      },
+      {
+        "id": 398932,
+        "mouza_id": 101768,
+        "mouza_name": "উত্তর মাগুড়া",
+        "jl_no": "14",
+        "uuid": "4eb3972b-882b-446f-8239-9e30c27b04ea"
+      },
+      {
+        "id": 147737,
+        "mouza_id": 46027,
+        "mouza_name": "সর্দ্দার পাড়া",
+        "jl_no": "14",
+        "uuid": "37c2b3b6-4578-4368-ba28-8fee9b7636db"
+      },
+      {
+        "id": 282208,
+        "mouza_id": 85755,
+        "mouza_name": "প্রধানপাড়া.",
+        "jl_no": "15",
+        "uuid": "733f40c1-9dbc-4f3a-b661-86cec2e17f67"
+      },
+      {
+        "id": 234857,
+        "mouza_id": 71546,
+        "mouza_name": "প্রধান.পাড়া",
+        "jl_no": "15",
+        "uuid": "f585f5df-bbfb-4cc6-867c-8c1c151db144"
+      },
+      {
+        "id": 398938,
+        "mouza_id": 101769,
+        "mouza_name": "খারিজা মাগুড়া",
+        "jl_no": "15",
+        "uuid": "4b94bc40-a8db-4da3-bd4c-ef604ac4f250"
+      },
+      {
+        "id": 147254,
+        "mouza_id": 4576,
+        "mouza_name": "মাঝবাড়ী",
+        "jl_no": "16",
+        "uuid": "4b301796-a6d6-4e4d-8e54-39b6dc29f5fd"
+      },
+      {
+        "id": 398930,
+        "mouza_id": 101767,
+        "mouza_name": "আয়মা ঝলই",
+        "jl_no": "16",
+        "uuid": "8331c642-21e6-4703-af43-a724cafa137a"
+      },
+      {
+        "id": 236398,
+        "mouza_id": 71866,
+        "mouza_name": "কাজী.পাড়া",
+        "jl_no": "17",
+        "uuid": "391ebd59-1765-4fff-9f7c-1b00605c983d"
+      },
+      {
+        "id": 3287,
+        "mouza_id": 4573,
+        "mouza_name": "দ্বারীকামারী",
+        "jl_no": "18",
+        "uuid": "6449c4a7-6cdb-4e4d-98d9-4b978a2ce701"
+      },
+      {
+        "id": 236778,
+        "mouza_id": 71883,
+        "mouza_name": "হাফিজাবাদ.",
+        "jl_no": "19",
+        "uuid": "286ba197-ea8b-4ef0-a5c6-616f62ba4b98"
+      },
+      {
+        "id": 287965,
+        "mouza_id": 87345,
+        "mouza_name": "নিজামাবাদ.",
+        "jl_no": "20",
+        "uuid": "8787b30b-d417-4848-b285-bb71b1180674"
+      },
+      {
+        "id": 225095,
+        "mouza_id": 4584,
+        "mouza_name": "মোলানী",
+        "jl_no": "21",
+        "uuid": "1477870c-f61a-40d3-b493-bd9f02db3fdf"
+      },
+      {
+        "id": 397673,
+        "mouza_id": 81801,
+        "mouza_name": "পঞ্চগড়,",
+        "jl_no": "22",
+        "uuid": "9a0a3bdb-afa0-450f-9d8d-f38b6506c2b9"
+      },
+      {
+        "id": 397677,
+        "mouza_id": 4602,
+        "mouza_name": "বেংহারি শিকারপুর",
+        "jl_no": "23",
+        "uuid": "9c1dde34-8c37-410e-b1ff-4ea238116680"
+      },
+      {
+        "id": 397676,
+        "mouza_id": 4603,
+        "mouza_name": "বিষ্ণু. নারায়নী",
+        "jl_no": "24",
+        "uuid": "1a151a43-088b-4c6f-bac5-2bdac4bac1f4"
+      },
+      {
+        "id": 276975,
+        "mouza_id": 83439,
+        "mouza_name": "ইসলামপুর.",
+        "jl_no": "25",
+        "uuid": "d9ebe9a2-0e98-4783-b697-14273d568494"
+      },
+      {
+        "id": 277003,
+        "mouza_id": 83447,
+        "mouza_name": "মাঘই.",
+        "jl_no": "26",
+        "uuid": "101c0322-aac3-433c-9046-3b56091e5223"
+      },
+      {
+        "id": 284732,
+        "mouza_id": 86455,
+        "mouza_name": "মোলানী আরাজী,",
+        "jl_no": "27",
+        "uuid": "df0122b1-d238-47a3-bdad-a5dde824f913"
+      },
+      {
+        "id": 398963,
+        "mouza_id": 101752,
+        "mouza_name": "জোত বাহাদী",
+        "jl_no": "27",
+        "uuid": "12cfa023-179a-4283-a8ff-9c2e22cb2655"
+      },
+      {
+        "id": 398918,
+        "mouza_id": 4588,
+        "mouza_name": "কাজলদিঘী.",
+        "jl_no": "28",
+        "uuid": "900e2097-1d9c-4799-ab53-a9898b359ac1"
+      },
+      {
+        "id": 287743,
+        "mouza_id": 87271,
+        "mouza_name": "মোহনপুর",
+        "jl_no": "29",
+        "uuid": "31141704-bb0f-47de-8956-63e8207c13ea"
+      },
+      {
+        "id": 398961,
+        "mouza_id": 101751,
+        "mouza_name": "জোত কৃষ্ণ চন্দ্র নদী",
+        "jl_no": "29",
+        "uuid": "4d9922dd-31ed-4eb8-8b00-89e85be5942b"
+      },
+      {
+        "id": 398934,
+        "mouza_id": 101754,
+        "mouza_name": "কালেশ্বর সামান্জু",
+        "jl_no": "30",
+        "uuid": "6c43af0b-da63-4a89-bfff-92e3976191df"
+      },
+      {
+        "id": 237759,
+        "mouza_id": 72137,
+        "mouza_name": "আরাজী বাশকুন্ঠিয়া.",
+        "jl_no": "31",
+        "uuid": "50ca86da-4b1b-47d1-b76b-1ed3a1b9a06d"
+      },
+      {
+        "id": 397682,
+        "mouza_id": 4608,
+        "mouza_name": "হোসেনপুর.",
+        "jl_no": "32",
+        "uuid": "39ce43da-8e61-47db-a7aa-3873d63ccc7f"
+      },
+      {
+        "id": 272750,
+        "mouza_id": 82255,
+        "mouza_name": "মোহাম্মদপুর",
+        "jl_no": "33",
+        "uuid": "0481f339-bb76-43f0-a0c2-1b42358e39de"
+      },
+      {
+        "id": 276491,
+        "mouza_id": 83316,
+        "mouza_name": "ফাতেমাগঞ্জ",
+        "jl_no": "34",
+        "uuid": "39c017cd-d456-40b8-b427-c89d6adb9bfc"
+      },
+      {
+        "id": 278341,
+        "mouza_id": 84102,
+        "mouza_name": "বাহাদূর নারায়নী ঘটবর",
+        "jl_no": "35",
+        "uuid": "683b11c9-a8b1-4917-a12d-c9fd1b058698"
+      },
+      {
+        "id": 414122,
+        "mouza_id": 101756,
+        "mouza_name": "আরাজি শিকারপুর",
+        "jl_no": "36",
+        "uuid": "7f69a77a-427d-4a7e-97e1-f1e1e3c3d2bc"
+      },
+      {
+        "id": 397665,
+        "mouza_id": 72255,
+        "mouza_name": ".মাড়েয়া কমলা পুকুরী",
+        "jl_no": "36",
+        "uuid": "ff3f1607-79c9-422e-b838-f9f2dca97c8d"
+      },
+      {
+        "id": 238206,
+        "mouza_id": 72255,
+        "mouza_name": "মাড়েয়া কমলাপুকুরী  .",
+        "jl_no": "36",
+        "uuid": "13f1473e-e362-412d-9d3d-2f8a684dcf15"
+      },
+      {
+        "id": 398953,
+        "mouza_id": 101757,
+        "mouza_name": "জলপেশ নারায়নী",
+        "jl_no": "37",
+        "uuid": "74b026cf-d992-4ca1-8c94-f925ca94ae68"
+      },
+      {
+        "id": 231234,
+        "mouza_id": 70702,
+        "mouza_name": "মাঝগ্রাম .",
+        "jl_no": "37",
+        "uuid": "91cc675d-3e21-47b3-96e4-ef70fb41b554"
+      },
+      {
+        "id": 271412,
+        "mouza_id": 81873,
+        "mouza_name": "ঘাগড়া খোচাবাড়ী.",
+        "jl_no": "38",
+        "uuid": "1e49f680-cf85-4641-bfa9-0f928ce320e9"
+      },
+      {
+        "id": 397670,
+        "mouza_id": 101753,
+        "mouza_name": "জগন্নাথজোত",
+        "jl_no": "39",
+        "uuid": "055d8d49-b5b3-4b8c-83bf-4d4d2c1fea5b"
+      },
+      {
+        "id": 397675,
+        "mouza_id": 4616,
+        "mouza_name": "বাহাদুর নারায়ণী",
+        "jl_no": "40",
+        "uuid": "5a1328cf-f9a3-48ab-859a-a4e325b2f27e"
+      },
+      {
+        "id": 295234,
+        "mouza_id": 89055,
+        "mouza_name": "কামাত কাজলদিঘী",
+        "jl_no": "41",
+        "uuid": "bb00f60f-d367-4526-b819-8466fb5bc551"
+      },
+      {
+        "id": 238343,
+        "mouza_id": 72288,
+        "mouza_name": "আরাজী কাজলদিঘী.",
+        "jl_no": "42",
+        "uuid": "b64f8175-5acf-4933-a063-acec0cb1e2df"
+      },
+      {
+        "id": 280676,
+        "mouza_id": 85143,
+        "mouza_name": "খারিজা, কাজলদিঘী",
+        "jl_no": "43",
+        "uuid": "6791be7e-e1c7-4dac-baaf-b8669b73b905"
+      },
+      {
+        "id": 234934,
+        "mouza_id": 71575,
+        "mouza_name": "বগুলা.ডাঙ্গী",
+        "jl_no": "44",
+        "uuid": "c93abb22-4087-45db-aeae-6d36d9167cd0"
+      },
+      {
+        "id": 238993,
+        "mouza_id": 72472,
+        "mouza_name": "আরাজী বেরুবাড়ী.",
+        "jl_no": "45",
+        "uuid": "39d414eb-d147-4ef2-bd98-946e90f91350"
+      },
+      {
+        "id": 285241,
+        "mouza_id": 86606,
+        "mouza_name": "কাজলদিঘী পড়ানী গ্রাম",
+        "jl_no": "46",
+        "uuid": "41c610b9-5ba4-486a-b9ad-0783d1444b0a"
+      },
+      {
+        "id": 283079,
+        "mouza_id": 86010,
+        "mouza_name": "চাকলাহাট.",
+        "jl_no": "48",
+        "uuid": "7b8ce3eb-1159-42e3-bbd9-08c0a0d5bd24"
+      },
+      {
+        "id": 397666,
+        "mouza_id": 4606,
+        "mouza_name": "আরাজী বগুলাডাঙ্গী শিকারপুর ডেনাকাটা",
+        "jl_no": "49",
+        "uuid": "48aafb3b-f9e5-44a6-a306-52842b4b4c79"
+      },
+      {
+        "id": 243942,
+        "mouza_id": 73733,
+        "mouza_name": "নারায়নপুর উপেন চৌকি,",
+        "jl_no": "50",
+        "uuid": "98ccfd01-b048-4087-8b2e-e20533d027a3"
+      },
+      {
+        "id": 261360,
+        "mouza_id": 79311,
+        "mouza_name": "ভোলাবসুনিয়া.",
+        "jl_no": "51",
+        "uuid": "85145f76-11b0-467c-a353-ba3c7c2be55c"
+      },
+      {
+        "id": 397668,
+        "mouza_id": 4574,
+        "mouza_name": "কিসমত সিংরোড.",
+        "jl_no": "52",
+        "uuid": "32833d13-149f-4d2c-bf17-a15d584f7a3c"
+      },
+      {
+        "id": 204802,
+        "mouza_id": 63613,
+        "mouza_name": "সিংরোড কিসমত .",
+        "jl_no": "53",
+        "uuid": "d7f11827-8f06-48b5-ac5f-efd945551e47"
+      }
+    ]
+  },
+  {
+    "upazila_en": "TENTULIA",
+    "upazila_bn": "তেঁতুলিয়া",
+    "upazila_bbs": "90",
+    "district_bbs": "77",
+    "survey": "BRS",
+    "mouza_count": 3,
+    "mouzas": [
+      {
+        "id": 444772,
+        "mouza_id": 86618,
+        "mouza_name": "বালাবাড়ী ",
+        "jl_no": "18",
+        "uuid": "3759c29d-3dbf-4f16-8e3b-cc84c5aafae9"
+      },
+      {
+        "id": 416815,
+        "mouza_id": 82287,
+        "mouza_name": "ভদ্রেশ্বর ",
+        "jl_no": "26",
+        "uuid": "253dbbc4-64f6-418c-97ad-f8dbec0f5965"
+      },
+      {
+        "id": 444769,
+        "mouza_id": 54001,
+        "mouza_name": "ঝালিঙ্গীগছ ",
+        "jl_no": "27",
+        "uuid": "59fbdd20-09c1-4078-a925-9826e8938e54"
+      }
+    ]
+  },
+  {
+    "upazila_en": "TENTULIA",
+    "upazila_bn": "তেঁতুলিয়া",
+    "upazila_bbs": "90",
+    "district_bbs": "77",
+    "survey": "RS",
+    "mouza_count": 1,
+    "mouzas": [
+      {
+        "id": 432084,
+        "mouza_id": 84181,
+        "mouza_name": "খানজি কিসমত",
+        "jl_no": "3",
+        "uuid": "99aa50a8-d2d1-4f75-93cd-732b089bed4a"
+      }
+    ]
+  },
+  {
+    "upazila_en": "TENTULIA",
+    "upazila_bn": "তেঁতুলিয়া",
+    "upazila_bbs": "90",
+    "district_bbs": "77",
+    "survey": "SA",
+    "mouza_count": 33,
+    "mouzas": [
+      {
+        "id": 280968,
+        "mouza_id": 85267,
+        "mouza_name": "বাংলাবান্ধা.",
+        "jl_no": "1",
+        "uuid": "ef5ec682-88d5-4d77-aca5-6b301e6f2863"
+      },
+      {
+        "id": 157766,
+        "mouza_id": 49554,
+        "mouza_name": "সিপাইপাড়া",
+        "jl_no": "2",
+        "uuid": "eb6b85a8-fd54-46f4-b9bc-b5444ed529bb"
+      },
+      {
+        "id": 278467,
+        "mouza_id": 84181,
+        "mouza_name": "খানকিকিসমত",
+        "jl_no": "3",
+        "uuid": "bf1e1364-0392-4b89-b8b1-d55fe154286d"
+      },
+      {
+        "id": 284550,
+        "mouza_id": 86403,
+        "mouza_name": "তিরনই.",
+        "jl_no": "4",
+        "uuid": "6cf6dcea-ebd5-4a0b-bb0c-ef90a8881a9e"
+      },
+      {
+        "id": 276058,
+        "mouza_id": 83190,
+        "mouza_name": "রৌসনপুর",
+        "jl_no": "5",
+        "uuid": "4a614968-487d-4b3b-bde2-903ac8dbfb2c"
+      },
+      {
+        "id": 278950,
+        "mouza_id": 84380,
+        "mouza_name": "তুলসিয়াবিল.",
+        "jl_no": "6",
+        "uuid": "2bea9c5d-5bda-4bd7-96e3-cbddd189ea45"
+      },
+      {
+        "id": 277079,
+        "mouza_id": 83461,
+        "mouza_name": "খয়ঘাটপাড়া",
+        "jl_no": "7",
+        "uuid": "dd9c2864-c97f-46b8-a4b8-9210450aa5f9"
+      },
+      {
+        "id": 272920,
+        "mouza_id": 82296,
+        "mouza_name": "গুয়াবাড়ী.",
+        "jl_no": "8",
+        "uuid": "7b51a246-957f-4796-bfa0-a276eb3ba523"
+      },
+      {
+        "id": 164907,
+        "mouza_id": 51816,
+        "mouza_name": "সরকারী পাড়া",
+        "jl_no": "9",
+        "uuid": "fd239a76-b6f0-45c7-9cd4-317aae074068"
+      },
+      {
+        "id": 286626,
+        "mouza_id": 86985,
+        "mouza_name": "তেতুলিয়া",
+        "jl_no": "10",
+        "uuid": "319b615d-1987-4b5d-b3ba-4e8377b8d452"
+      },
+      {
+        "id": 131253,
+        "mouza_id": 41594,
+        "mouza_name": "দর্জ্জিপাড়া",
+        "jl_no": "11",
+        "uuid": "e6e49639-451c-4d74-8f93-0e97784082cc"
+      },
+      {
+        "id": 273393,
+        "mouza_id": 82432,
+        "mouza_name": "মাথাফাটা.",
+        "jl_no": "12",
+        "uuid": "920ec3ac-d60d-4f8d-a6ec-e004e4ba9c4c"
+      },
+      {
+        "id": 278778,
+        "mouza_id": 84337,
+        "mouza_name": "খিরকিডাঙ্গী",
+        "jl_no": "13",
+        "uuid": "a541d88e-a40e-4ab9-9df0-efc689842e9e"
+      },
+      {
+        "id": 130911,
+        "mouza_id": 41505,
+        "mouza_name": "বোয়ালীমারী",
+        "jl_no": "14",
+        "uuid": "028df58e-479a-40e3-bf90-bee5053375a0"
+      },
+      {
+        "id": 166202,
+        "mouza_id": 52174,
+        "mouza_name": "মাঝিপাড়া",
+        "jl_no": "15",
+        "uuid": "27f4e0f5-0464-43e4-8793-92c907f892a2"
+      },
+      {
+        "id": 166508,
+        "mouza_id": 52261,
+        "mouza_name": "লোহাকাচি",
+        "jl_no": "16",
+        "uuid": "b110bd0b-0a14-44ff-94f4-f3145ca5615a"
+      },
+      {
+        "id": 272980,
+        "mouza_id": 82309,
+        "mouza_name": "সালবাহান.",
+        "jl_no": "17",
+        "uuid": "6b701629-671d-4fdc-963a-13837790a405"
+      },
+      {
+        "id": 285300,
+        "mouza_id": 86618,
+        "mouza_name": "বালাবাড়ী,",
+        "jl_no": "18",
+        "uuid": "2e8fb9b5-0d3b-4f50-be55-aecea5636e52"
+      },
+      {
+        "id": 285312,
+        "mouza_id": 86621,
+        "mouza_name": "হারাদিঘী.",
+        "jl_no": "19",
+        "uuid": "73455abd-57ab-46c3-b965-2d34b4265bfe"
+      },
+      {
+        "id": 167757,
+        "mouza_id": 52635,
+        "mouza_name": "প্রধানগজ",
+        "jl_no": "20",
+        "uuid": "57803c41-8d1d-4b96-89fb-ac7b4a1c4d6b"
+      },
+      {
+        "id": 272885,
+        "mouza_id": 82289,
+        "mouza_name": "সরকার. পাড়া",
+        "jl_no": "21",
+        "uuid": "0a389dff-6a83-4260-9fef-e9a9cded1df3"
+      },
+      {
+        "id": 170640,
+        "mouza_id": 53553,
+        "mouza_name": "কাটাপাড়া",
+        "jl_no": "22",
+        "uuid": "310a0a12-8e83-4d3b-9e29-55840b9df7cf"
+      },
+      {
+        "id": 289949,
+        "mouza_id": 87722,
+        "mouza_name": "বুড়াবুড়ি.",
+        "jl_no": "23",
+        "uuid": "8330fbb7-46da-4192-904b-5c4b22c634d3"
+      },
+      {
+        "id": 171794,
+        "mouza_id": 53881,
+        "mouza_name": "সর্দ্দারপাড়া",
+        "jl_no": "24",
+        "uuid": "495b2a1c-b499-49e7-a86e-9e1ef23e2d2d"
+      },
+      {
+        "id": 277821,
+        "mouza_id": 83898,
+        "mouza_name": "ভজনপূর",
+        "jl_no": "25",
+        "uuid": "634ab35f-6e7d-40d4-8b3d-6d77c18ec03e"
+      },
+      {
+        "id": 272876,
+        "mouza_id": 82287,
+        "mouza_name": "ভদ্রেশ্বর.",
+        "jl_no": "26",
+        "uuid": "941b9dad-500b-4d9d-a778-2d2bb621114b"
+      },
+      {
+        "id": 172178,
+        "mouza_id": 54001,
+        "mouza_name": "ঝালঙ্গীগছ",
+        "jl_no": "27",
+        "uuid": "63f6c0e9-682b-49f1-93a4-3483403265f1"
+      },
+      {
+        "id": 172491,
+        "mouza_id": 54105,
+        "mouza_name": "আমজুয়ানী",
+        "jl_no": "28",
+        "uuid": "5b8c3439-f531-4d58-a0db-7655e9374b04"
+      },
+      {
+        "id": 273405,
+        "mouza_id": 82434,
+        "mouza_name": "ভজনপুর-দেবনগর",
+        "jl_no": "29",
+        "uuid": "5730f399-8119-40a7-97ce-f540a8a0600f"
+      },
+      {
+        "id": 284560,
+        "mouza_id": 86405,
+        "mouza_name": "ভজনপূর গের্দ্দ",
+        "jl_no": "30",
+        "uuid": "c4cbbbbe-7f99-4e7c-9e4a-129ce8390c44"
+      },
+      {
+        "id": 173145,
+        "mouza_id": 54271,
+        "mouza_name": "ঝাড়বাড়ী",
+        "jl_no": "31",
+        "uuid": "1e44e7d2-079d-4a9d-9dfb-0f96cdc664c1"
+      },
+      {
+        "id": 288313,
+        "mouza_id": 87436,
+        "mouza_name": "শেখগজ",
+        "jl_no": "32",
+        "uuid": "eb1d2273-dcbe-480b-891f-9c28506532ce"
+      },
+      {
+        "id": 173620,
+        "mouza_id": 54411,
+        "mouza_name": "ময়নাগুড়ী",
+        "jl_no": "33",
+        "uuid": "3afd034c-017d-40e9-a12a-78b86570daa8"
+      }
+    ]
+  }
+]

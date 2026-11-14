@@ -1,11 +1,12 @@
 {
-  "total_khatians": 83455,
+  "total_khatians": 93953,
   "total_pdfs_downloaded": 38,
   "total_pdf_size_mb": 12.25,
   "divisions_represented": 8,
-  "districts_represented": 43,
-  "upazilas_represented": 91,
-  "mouzas_represented": 261,
+  "districts_represented": 61,
+  "upazilas_represented": 515,
+  "mouzas_represented": 798,
+  "total_mouza_jl_entries_cataloged": 171877,
   "divisions_list": [
     "Barishal",
     "Chattogram",
@@ -17,5 +18,5 @@
     "Sylhet"
   ],
   "hierarchy_format": "division > district > upazila.json",
-  "last_updated": "2026-11-08 13:30:34"
+  "last_updated": "2026-11-14 07:50:18"
 }

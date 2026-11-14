@@ -4,13 +4,13 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 
 - **Google Drive Maps Root Folder:** [Open `land/maps` in Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u)
 - **Master Index:** [`index.json`](./index.json)
-- **Uploaded Maps with Live File Links (`2,531` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
+- **Uploaded Maps with Live File Links (`2,802` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
 
 ## Divisions & Districts (Google Drive Folders + Partitioned Catalogs)
 
 | Division | Districts | Total Map Files | Total Size | Uploaded to Drive | Google Drive Folder |
 |---|---:|---:|---:|---:|---|
-| **Barishal** | 6 | 17,107 | 200.53 GB | 2,443 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
+| **Barishal** | 6 | 17,107 | 200.53 GB | 2,714 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
 | **Chattogram** | 8 | 39,249 | 416.80 GB | 16 | [Open Chattogram Drive Folder](https://drive.google.com/drive/folders/1rDm8EnTOj0NpIM8UaGwPlMiIFSk4KQts) |
 | **Dhaka** | 13 | 62,976 | 645.82 GB | 32 | [Open Dhaka Drive Folder](https://drive.google.com/drive/folders/1DcOgN4Lb32oFCBxLuF5e5ADxBjaMm2G4) |
 | **Khulna** | 10 | 22,439 | 229.98 GB | 8 | [Open Khulna Drive Folder](https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg) |
@@ -25,7 +25,7 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 | District | Upazilas | Files | Size (GB) | Uploaded | Drive Folder | Catalog JSON |
 |---|---:|---:|---:|---:|---|---|
 | Barguna | 4 | 843 | 9.90 | 842 | [Drive Folder](https://drive.google.com/drive/folders/17zuUhm47Ns16vFq22TYWyGsST17QSdva) | [`Barguna.json`](./Barishal/Barguna.json) |
-| Barishal | 28 | 5,427 | 65.08 | 1,601 | [Drive Folder](https://drive.google.com/drive/folders/1BQzdzNco0_ZDWD9G7lDPKHvA5roxF52F) | [`Barishal.json`](./Barishal/Barishal.json) |
+| Barishal | 28 | 5,427 | 65.08 | 1,872 | [Drive Folder](https://drive.google.com/drive/folders/1BQzdzNco0_ZDWD9G7lDPKHvA5roxF52F) | [`Barishal.json`](./Barishal/Barishal.json) |
 | Bhola | 6 | 3,577 | 42.19 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1PKLAaX-k4dvZ6EBrBerwjHOIsCZMyjge) | [`Bhola.json`](./Barishal/Bhola.json) |
 | Jhalokati | 4 | 857 | 10.08 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1olq57r_8jlrOjGihS6oqJiA1T7sZ8mvd) | [`Jhalokati.json`](./Barishal/Jhalokati.json) |
 | Patuakhali | 7 | 3,676 | 41.12 | 0 | [Drive Folder](https://drive.google.com/drive/folders/1p5vPUlQh2IjCYJCbkiSB6AhUY9nGonna) | [`Patuakhali.json`](./Barishal/Patuakhali.json) |
@@ -123,22 +123,6 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 | Barishal | Barguna | আমতলি | DIYARA | `36-Choto bagi-1_result_result - (www.mouzamap.tech).pdf` | 11.59 | [View/Download](https://drive.google.com/file/d/1KP3aaxo2Tx91uL68-HlrhfhEXEnX9Kq7/view) |
 | Barishal | Barguna | আমতলি | DIYARA | `36-Choto bagi-2_result_result - (www.mouzamap.tech).pdf` | 11.81 | [View/Download](https://drive.google.com/file/d/1UccFzwerCGQttHTdy5TNaWdc9wki3P2i/view) |
 | Barishal | Barguna | আমতলি | DIYARA | `36-Choto bagi-3_result_result - (www.mouzamap.tech).pdf` | 7.76 | [View/Download](https://drive.google.com/file/d/16l_-7AuOCUjGuJnK2AnEOg74PxoUB2t4/view) |
-| Chattogram | Brahmanbaria0 | আখাউড়া | BS_RS | `1-KRISNONOGOR-1_result_result - (www.mouzamap.tech).pdf` | 11.98 | [View/Download](https://drive.google.com/file/d/1_z6NqpP8PIGRmI47XLL4wTxtVwLbfKmQ/view) |
-| Chattogram | Brahmanbaria0 | আখাউড়া | BS_RS | `10-TULATOLI-1_result_result - (www.mouzamap.tech).pdf` | 8.88 | [View/Download](https://drive.google.com/file/d/1go0CN0hoOsDBi8BFHcWEYQnqiNvYoJcl/view) |
-| Chattogram | Brahmanbaria0 | আখাউড়া | BS_RS | `100-DHONIA-1_result_result - (www.mouzamap.tech).pdf` | 6.66 | [View/Download](https://drive.google.com/file/d/1zkygt_q8eso542ePM1ng3FyYWzs0n9D0/view) |
-| Chattogram | Brahmanbaria0 | আখাউড়া | BS_RS | `101-GOBINDOPUR-1_result_result - (www.mouzamap.tech).pdf` | 7.81 | [View/Download](https://drive.google.com/file/d/1r9FxldaFJRC33wPCyvnxYyFfWNIg43K8/view) |
-| Chattogram | Brahmanbaria0 | আখাউড়া | BS_RS | `102-MIRPUR-1_result_result - (www.mouzamap.tech).pdf` | 6.32 | [View/Download](https://drive.google.com/file/d/1SG0pZyuydk4JWG6xdBlMYSU0BGzR36lU/view) |
-| Dhaka | Dhaka | কতোয়ালী | CITY | `1-DHAKA-11_result_result - (www.mouzamap.tech).pdf` | 13.97 | [View/Download](https://drive.google.com/file/d/1h0q90ciaEBVHJqBITiHLrPaJ50M2qx40/view) |
-| Dhaka | Dhaka | কতোয়ালী | CITY | `1-DHAKA-13_result_result - (www.mouzamap.tech).pdf` | 14.60 | [View/Download](https://drive.google.com/file/d/1W8t36DPN4cy3YVbxNkcUYOW3QexmSiD_/view) |
-| Dhaka | Dhaka | কতোয়ালী | CITY | `1-DHAKA-15_result_result - (www.mouzamap.tech).pdf` | 14.93 | [View/Download](https://drive.google.com/file/d/19VAYk2CWVYPHJoy9FvAinLBLk2qr0fWw/view) |
-| Dhaka | Dhaka | কতোয়ালী | CITY | `1-DHAKA-17_result_result - (www.mouzamap.tech).pdf` | 14.49 | [View/Download](https://drive.google.com/file/d/1KkIZ95EPlbQU59HMS0KCeZ-mGm-2WZUV/view) |
-| Dhaka | Dhaka | কতোয়ালী | CITY | `1-DHAKA-19_result_result - (www.mouzamap.tech).pdf` | 13.84 | [View/Download](https://drive.google.com/file/d/1WAeC_1NEot9oxju080JZPUDbwFj2OHLc/view) |
-| Khulna | Bagerhat | কচুয়া- | BS | `1-ALIPUR-1_result_result - (www.mouzamap.tech).pdf` | 6.55 | [View/Download](https://drive.google.com/file/d/1t4b_yyb9oZn0l0V66LOb_djpJItHbM8_/view) |
-| Khulna | Bagerhat | কচুয়া- | BS | `10-JHALDANGA-1_result_result - (www.mouzamap.tech).pdf` | 7.26 | [View/Download](https://drive.google.com/file/d/1CV6vHLE6zR9HQTsUYbkhiRxEkUNRpTA9/view) |
-| Khulna | Bagerhat | কচুয়া- | BS | `11-KAMARGATI-1_result_result - (www.mouzamap.tech).pdf` | 7.96 | [View/Download](https://drive.google.com/file/d/1RquWdRDUOdNPnURVuwTvR10aGbOOPYC8/view) |
-| Khulna | Bagerhat | কচুয়া- | BS | `12-MECHKHALI-1_result_result - (www.mouzamap.tech).pdf` | 8.77 | [View/Download](https://drive.google.com/file/d/19pbSCMQO00IZ4zvsCz9PBU7u6WGjGLSj/view) |
-| Khulna | Bagerhat | কচুয়া- | BS | `13-SHIALKHATI-1_result_result - (www.mouzamap.tech).pdf` | 7.34 | [View/Download](https://drive.google.com/file/d/1cFHYj8B2ZeSi2ViSeg7qfi7GKZJpHnT7/view) |
-| Mymensingh | Jamalpur | Nakla | Nakla 1=70 | `Nakla-0001 - (www.mouzamap.tech).jpg` | 12.32 | [View/Download](https://drive.google.com/file/d/1bUght453ZUvxIqeXY-3RTREC9gCVmPzO/view) |
 
 ## 24/7 Cloud & Resumable Zero-Disk Sync (PC On or Off)
 

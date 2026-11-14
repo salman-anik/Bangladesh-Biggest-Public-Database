@@ -1,0 +1,75 @@
+{
+  "division": "Rajshahi",
+  "district": "Natore",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4893,
+      "slug": "natore-1",
+      "code": "58",
+      "district_id": 31,
+      "division_id": 6,
+      "name": {
+        "en": "Natore-1",
+        "bn": "নাটোর-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Natore-1.svg",
+      "total_voters": 368276,
+      "total_male_voters": 183595,
+      "total_female_voters": 184679,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4894,
+      "slug": "natore-2",
+      "code": "59",
+      "district_id": 31,
+      "division_id": 6,
+      "name": {
+        "en": "Natore-2",
+        "bn": "নাটোর-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Natore-2.svg",
+      "total_voters": 406886,
+      "total_male_voters": 201655,
+      "total_female_voters": 205222,
+      "total_third_gender_voters": 9,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4895,
+      "slug": "natore-3",
+      "code": "60",
+      "district_id": 31,
+      "division_id": 6,
+      "name": {
+        "en": "Natore-3",
+        "bn": "নাটোর-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Natore-3.svg",
+      "total_voters": 326872,
+      "total_male_voters": 164088,
+      "total_female_voters": 162781,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4896,
+      "slug": "natore-4",
+      "code": "61",
+      "district_id": 31,
+      "division_id": 6,
+      "name": {
+        "en": "Natore-4",
+        "bn": "নাটোর-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Natore-4.svg",
+      "total_voters": 445172,
+      "total_male_voters": 221348,
+      "total_female_voters": 223821,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    }
+  ]
+}

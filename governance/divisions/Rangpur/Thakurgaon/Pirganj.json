@@ -1,0 +1,191 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Thakurgaon",
+  "district_bn": "ঠাকুরগাঁও",
+  "upazila_id": "436",
+  "upazila": "Pirganj",
+  "upazila_bn": "পীরগঞ্জ",
+  "uno_portal": "pirganj.thakurgaon.gov.bd",
+  "district_administration": {
+    "district": "Thakurgaon",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Thakurgaon",
+      "phone": "01713-000060",
+      "email": "dcthakurgaon@mopa.gov.bd",
+      "website": "http://www.thakurgaon.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Thakurgaon",
+      "phone": "01713-373060",
+      "email": "spthakurgaon@police.gov.bd",
+      "control_room": "01713-374060"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Thakurgaon",
+      "phone": "01713-555060",
+      "email": "csthakurgaon@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "4002",
+      "name": "Bhomradaha",
+      "bn_name": "ভোমরাদহ",
+      "url": "bhomradahaup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4003",
+      "name": "Kosharaniganj",
+      "bn_name": "কোষারাণীগঞ্জ",
+      "url": "kosharaniganjup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4004",
+      "name": "Khangaon",
+      "bn_name": "খনগাঁও",
+      "url": "khangaonup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4005",
+      "name": "Saidpur",
+      "bn_name": "সৈয়দপুর",
+      "url": "saidpurup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4006",
+      "name": "Pirganj",
+      "bn_name": "পীরগঞ্জ",
+      "url": "pirganjup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4007",
+      "name": "Hajipur",
+      "bn_name": "হাজীপুর",
+      "url": "hajipurup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4008",
+      "name": "Daulatpur",
+      "bn_name": "দৌলতপুর",
+      "url": "daulatpurup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4009",
+      "name": "Sengaon",
+      "bn_name": "সেনগাঁও",
+      "url": "sengaonup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4010",
+      "name": "Jabarhat",
+      "bn_name": "জাবরহাট",
+      "url": "jabarhatup.thakurgaon.gov.bd"
+    },
+    {
+      "id": "4011",
+      "name": "Bairchuna",
+      "bn_name": "বৈরচুনা",
+      "url": "bairchunaup.thakurgaon.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5110",
+      "postcode_bn": "৫১১০",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Thakurgaon",
+      "district_bn": "ঠাকুরগাঁও",
+      "thana_upazila": "Pirganj",
+      "thana_upazila_bn": "পীরগঞ্জ",
+      "sub_office": "Pirganj",
+      "sub_office_bn": "পীরগঞ্জ"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "3",
+      "name": {
+        "en": "Thakurgaon-1",
+        "bn": "ঠাকুরগাঁও-১"
+      },
+      "total_voters": 511629
+    },
+    {
+      "code": "4",
+      "name": {
+        "en": "Thakurgaon-2",
+        "bn": "ঠাকুরগাঁও-২"
+      },
+      "total_voters": 340049
+    },
+    {
+      "code": "5",
+      "name": {
+        "en": "Thakurgaon-3",
+        "bn": "ঠাকুরগাঁও-৩"
+      },
+      "total_voters": 401735
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

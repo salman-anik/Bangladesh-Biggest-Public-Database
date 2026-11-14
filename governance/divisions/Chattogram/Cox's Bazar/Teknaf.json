@@ -1,0 +1,199 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Cox's Bazar",
+  "district_bn": "কক্সবাজার",
+  "upazila_id": "87",
+  "upazila": "Teknaf",
+  "upazila_bn": "টেকনাফ",
+  "uno_portal": "teknaf.coxsbazar.gov.bd",
+  "district_administration": {
+    "district": "Cox's Bazar",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Cox's Bazar",
+      "phone": "01713-000026",
+      "email": "dccoxsbazar@mopa.gov.bd",
+      "website": "http://www.coxsbazar.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Cox's Bazar",
+      "phone": "01713-373026",
+      "email": "spcox'sbazar@police.gov.bd",
+      "control_room": "01713-374026"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Cox's Bazar",
+      "phone": "01713-555026",
+      "email": "cscox'sbazar@dghs.gov.bd"
+    }
+  },
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "878",
+      "name": "Subrang",
+      "bn_name": "সাবরাং",
+      "url": "subrangup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "879",
+      "name": "Baharchara",
+      "bn_name": "বাহারছড়া",
+      "url": "baharcharaup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "880",
+      "name": "Hnila",
+      "bn_name": "হ্নীলা",
+      "url": "hnilaup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "881",
+      "name": "Whykong",
+      "bn_name": "হোয়াইক্যং",
+      "url": "whykongup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "882",
+      "name": "Saintmartin",
+      "bn_name": "সেন্ট মার্টিন",
+      "url": "saintmartinup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "883",
+      "name": "Teknaf Sadar",
+      "bn_name": "টেকনাফ সদর",
+      "url": "teknafsadarup.coxsbazar.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "4761",
+      "postcode_bn": "৪৭৬১",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cox's Bazar",
+      "district_bn": "কক্সবাজার",
+      "thana_upazila": "Teknaf",
+      "thana_upazila_bn": "টেকনাফ",
+      "sub_office": "Hnila",
+      "sub_office_bn": "Hnila"
+    },
+    {
+      "postcode": "4762",
+      "postcode_bn": "৪৭৬২",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cox's Bazar",
+      "district_bn": "কক্সবাজার",
+      "thana_upazila": "Teknaf",
+      "thana_upazila_bn": "টেকনাফ",
+      "sub_office": "St.Martin",
+      "sub_office_bn": "St.Martin"
+    },
+    {
+      "postcode": "4760",
+      "postcode_bn": "৪৭৬০",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cox's Bazar",
+      "district_bn": "কক্সবাজার",
+      "thana_upazila": "Teknaf",
+      "thana_upazila_bn": "টেকনাফ",
+      "sub_office": "Teknaf",
+      "sub_office_bn": "টেকনাফ"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "294",
+      "name": {
+        "en": "Coxs Bazar-1",
+        "bn": "কক্সবাজার-১"
+      },
+      "total_voters": 540490
+    },
+    {
+      "code": "295",
+      "name": {
+        "en": "Coxs Bazar-2",
+        "bn": "কক্সবাজার-২"
+      },
+      "total_voters": 387851
+    },
+    {
+      "code": "296",
+      "name": {
+        "en": "Coxs Bazar-3",
+        "bn": "কক্সবাজার-৩"
+      },
+      "total_voters": 545963
+    },
+    {
+      "code": "297",
+      "name": {
+        "en": "Coxs Bazar-4",
+        "bn": "কক্সবাজার-৪"
+      },
+      "total_voters": 375688
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

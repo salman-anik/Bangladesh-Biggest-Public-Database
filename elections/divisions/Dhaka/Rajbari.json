@@ -1,0 +1,41 @@
+{
+  "division": "Dhaka",
+  "district": "Rajbari",
+  "total_constituencies": 2,
+  "constituencies": [
+    {
+      "id": 4726,
+      "slug": "rajbari-1",
+      "code": "209",
+      "district_id": 59,
+      "division_id": 3,
+      "name": {
+        "en": "Rajbari-1",
+        "bn": "রাজবাড়ী-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Rajbari-1.svg",
+      "total_voters": 430216,
+      "total_male_voters": 216150,
+      "total_female_voters": 214058,
+      "total_third_gender_voters": 8,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4727,
+      "slug": "rajbari-2",
+      "code": "210",
+      "district_id": 59,
+      "division_id": 3,
+      "name": {
+        "en": "Rajbari-2",
+        "bn": "রাজবাড়ী-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Rajbari-2.svg",
+      "total_voters": 559696,
+      "total_male_voters": 285544,
+      "total_female_voters": 274146,
+      "total_third_gender_voters": 6,
+      "last_demographic_update": null
+    }
+  ]
+}

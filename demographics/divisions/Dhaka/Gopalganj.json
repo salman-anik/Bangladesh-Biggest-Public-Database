@@ -1,0 +1,46 @@
+{
+  "division": "Dhaka",
+  "district": "Gopalganj",
+  "upazilas_count": 5,
+  "unions_count": 67,
+  "post_offices_count": 14,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1092620,
+    "male": 555279,
+    "female": 537336,
+    "third_gender": 5
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "215",
+      "name": {
+        "en": "Gopalgonj-1",
+        "bn": "গোপালগঞ্জ-১"
+      },
+      "total_voters": 399510,
+      "male": 202816,
+      "female": 196694
+    },
+    {
+      "seat_no": "216",
+      "name": {
+        "en": "Gopalgonj-2",
+        "bn": "গোপালগঞ্জ-২"
+      },
+      "total_voters": 384326,
+      "male": 194060,
+      "female": 190262
+    },
+    {
+      "seat_no": "217",
+      "name": {
+        "en": "Gopalgonj-3",
+        "bn": "গোপালগঞ্জ-৩"
+      },
+      "total_voters": 308784,
+      "male": 158403,
+      "female": 150380
+    }
+  ]
+}

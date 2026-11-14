@@ -1,0 +1,192 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Jhenaidah",
+  "district_bn": "ঝিনাইদহ",
+  "upazila_id": "227",
+  "upazila": "Kaliganj",
+  "upazila_bn": "কালীগঞ্জ",
+  "uno_portal": "kaliganj.jhenaidah.gov.bd",
+  "district_administration": {
+    "district": "Jhenaidah",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jhenaidah",
+      "phone": "01713-000041",
+      "email": "dcjhenaidah@mopa.gov.bd",
+      "website": "http://www.jhenaidah.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jhenaidah",
+      "phone": "01713-373041",
+      "email": "spjhenaidah@police.gov.bd",
+      "control_room": "01713-374041"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jhenaidah",
+      "phone": "01713-555041",
+      "email": "csjhenaidah@dghs.gov.bd"
+    }
+  },
+  "total_unions": 11,
+  "unions": [
+    {
+      "id": "2059",
+      "name": "Sundarpurdurgapur",
+      "bn_name": "সুন্দরপুর-দূর্গাপুর",
+      "url": "sundarpurdurgapurup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2060",
+      "name": "Jamal",
+      "bn_name": "জামাল",
+      "url": "jamalup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2061",
+      "name": "Kola",
+      "bn_name": "কোলা",
+      "url": "kolaup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2062",
+      "name": "Niamatpur",
+      "bn_name": "নিয়ামতপুর",
+      "url": "niamatpurup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2063",
+      "name": "Simla-Rokonpur",
+      "bn_name": "শিমলা-রোকনপুর",
+      "url": "simlarokonpurup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2064",
+      "name": "Trilochanpur",
+      "bn_name": "ত্রিলোচনপুর",
+      "url": "trilochanpurup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2065",
+      "name": "Raygram",
+      "bn_name": "রায়গ্রাম",
+      "url": "raygramup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2066",
+      "name": "Maliat",
+      "bn_name": "মালিয়াট",
+      "url": "maliatup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2067",
+      "name": "Barabazar",
+      "bn_name": "বারবাজার",
+      "url": "barabazarup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2068",
+      "name": "Kashtabhanga",
+      "bn_name": "কাষ্টভাঙ্গা",
+      "url": "kashtabhangaup.jhenaidah.gov.bd"
+    },
+    {
+      "id": "2069",
+      "name": "Rakhalgachhi",
+      "bn_name": "রাখালগাছি",
+      "url": "rakhalgachhiup.jhenaidah.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "81",
+      "name": {
+        "en": "Jhenidha-1",
+        "bn": "ঝিনাইদহ-১"
+      },
+      "total_voters": 325278
+    },
+    {
+      "code": "82",
+      "name": {
+        "en": "Jheniadha-2",
+        "bn": "ঝিনাইদহ-২"
+      },
+      "total_voters": 506640
+    },
+    {
+      "code": "83",
+      "name": {
+        "en": "Jheniadha-3",
+        "bn": "ঝিনাইদহ-৩"
+      },
+      "total_voters": 431015
+    },
+    {
+      "code": "84",
+      "name": {
+        "en": "Jheniadha-4",
+        "bn": "ঝিনাইদহ-৪"
+      },
+      "total_voters": 375177
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

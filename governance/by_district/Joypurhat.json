@@ -1,0 +1,139 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "district_administration": {
+    "district": "Joypurhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Joypurhat",
+      "phone": "01713-000035",
+      "email": "dcjoypurhat@mopa.gov.bd",
+      "website": "http://www.joypurhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Joypurhat",
+      "phone": "01713-373035",
+      "email": "spjoypurhat@police.gov.bd",
+      "control_room": "01713-374035"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Joypurhat",
+      "phone": "01713-555035",
+      "email": "csjoypurhat@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 5,
+  "upazilas": [
+    {
+      "upazila": "Akkelpur",
+      "upazila_bn": "আক্কেলপুর",
+      "uno_portal": "akkelpur.joypurhat.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Rajshahi/Joypurhat/Akkelpur.json"
+    },
+    {
+      "upazila": "Joypurhat Sadar",
+      "upazila_bn": "জয়পুরহাট সদর",
+      "uno_portal": "joypurhatsadar.joypurhat.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Rajshahi/Joypurhat/Joypurhat Sadar.json"
+    },
+    {
+      "upazila": "Kalai",
+      "upazila_bn": "কালাই",
+      "uno_portal": "kalai.joypurhat.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Rajshahi/Joypurhat/Kalai.json"
+    },
+    {
+      "upazila": "Khetlal",
+      "upazila_bn": "ক্ষেতলাল",
+      "uno_portal": "khetlal.joypurhat.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Rajshahi/Joypurhat/Khetlal.json"
+    },
+    {
+      "upazila": "Panchbibi",
+      "upazila_bn": "পাঁচবিবি",
+      "uno_portal": "panchbibi.joypurhat.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Joypurhat/Panchbibi.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "34",
+      "name": {
+        "en": "Joypurhat-1",
+        "bn": "জয়পুরহাট-১"
+      },
+      "total_voters": 466274
+    },
+    {
+      "code": "35",
+      "name": {
+        "en": "Joypurhat-2",
+        "bn": "জয়পুরহাট-২"
+      },
+      "total_voters": 351572
+    }
+  ],
+  "total_postal_offices": 7,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

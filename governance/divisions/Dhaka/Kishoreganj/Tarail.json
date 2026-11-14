@@ -1,0 +1,184 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Kishoreganj",
+  "district_bn": "কিশোরগঞ্জ",
+  "upazila_id": "348",
+  "upazila": "Tarail",
+  "upazila_bn": "তাড়াইল",
+  "uno_portal": "tarail.kishoreganj.gov.bd",
+  "district_administration": {
+    "district": "Kishoreganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kishoreganj",
+      "phone": "01713-000013",
+      "email": "dckishoreganj@mopa.gov.bd",
+      "website": "http://www.kishoreganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kishoreganj",
+      "phone": "01713-373013",
+      "email": "spkishoreganj@police.gov.bd",
+      "control_room": "01713-374013"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kishoreganj",
+      "phone": "01713-555013",
+      "email": "cskishoreganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "3122",
+      "name": "Taljanga",
+      "bn_name": "তালজাঙ্গা",
+      "url": "taljangaup.kishoreganj.gov.bd"
+    },
+    {
+      "id": "3123",
+      "name": "Rauti",
+      "bn_name": "রাউতি",
+      "url": "rautiup.kishoreganj.gov.bd"
+    },
+    {
+      "id": "3124",
+      "name": "Dhola",
+      "bn_name": "ধলা",
+      "url": "dholaup.kishoreganj.gov.bd"
+    },
+    {
+      "id": "3125",
+      "name": "Jawar",
+      "bn_name": "জাওয়ার",
+      "url": "jawarup.kishoreganj.gov.bd"
+    },
+    {
+      "id": "3126",
+      "name": "Damiha",
+      "bn_name": "দামিহা",
+      "url": "damihaup.kishoreganj.gov.bd"
+    },
+    {
+      "id": "3127",
+      "name": "Digdair",
+      "bn_name": "দিগদাইর",
+      "url": "digdairup.kishoreganj.gov.bd"
+    },
+    {
+      "id": "3128",
+      "name": "Tarail-Sachail",
+      "bn_name": "তাড়াইল-সাচাইল",
+      "url": "tarailsachailup.kishoreganj.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "162",
+      "name": {
+        "en": "Kishorgonj-1",
+        "bn": "কিশোরগঞ্জ-১"
+      },
+      "total_voters": 555136
+    },
+    {
+      "code": "163",
+      "name": {
+        "en": "Kishorgonj-2",
+        "bn": "কিশোরগঞ্জ-২"
+      },
+      "total_voters": 532516
+    },
+    {
+      "code": "164",
+      "name": {
+        "en": "Kishorgonj-3",
+        "bn": "কিশোরগঞ্জ-৩"
+      },
+      "total_voters": 448625
+    },
+    {
+      "code": "165",
+      "name": {
+        "en": "Kishorgonj-4",
+        "bn": "কিশোরগঞ্জ-৪"
+      },
+      "total_voters": 408352
+    },
+    {
+      "code": "166",
+      "name": {
+        "en": "Kishorgonj-5",
+        "bn": "কিশোরগঞ্জ-৫"
+      },
+      "total_voters": 353566
+    },
+    {
+      "code": "167",
+      "name": {
+        "en": "Kishorgonj-6",
+        "bn": "কিশোরগঞ্জ-৬"
+      },
+      "total_voters": 428804
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

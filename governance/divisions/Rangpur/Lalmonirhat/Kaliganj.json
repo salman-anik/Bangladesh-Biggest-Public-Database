@@ -1,0 +1,166 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Lalmonirhat",
+  "district_bn": "লালমনিরহাট",
+  "upazila_id": "418",
+  "upazila": "Kaliganj",
+  "upazila_bn": "কালীগঞ্জ",
+  "uno_portal": "kaliganj.lalmonirhat.gov.bd",
+  "district_administration": {
+    "district": "Lalmonirhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lalmonirhat",
+      "phone": "01713-000058",
+      "email": "dclalmonirhat@mopa.gov.bd",
+      "website": "http://www.lalmonirhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lalmonirhat",
+      "phone": "01713-373058",
+      "email": "splalmonirhat@police.gov.bd",
+      "control_room": "01713-374058"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lalmonirhat",
+      "phone": "01713-555058",
+      "email": "cslalmonirhat@dghs.gov.bd"
+    }
+  },
+  "total_unions": 8,
+  "unions": [
+    {
+      "id": "3803",
+      "name": "Bhotmari",
+      "bn_name": "ভোটমারী",
+      "url": "bhotmariup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3804",
+      "name": "Modati",
+      "bn_name": "মদাতী",
+      "url": "modatiup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3805",
+      "name": "Dologram",
+      "bn_name": "দলগ্রাম",
+      "url": "dologramup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3806",
+      "name": "Tushbhandar",
+      "bn_name": "তুষভান্ডার",
+      "url": "tushbhandarup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3807",
+      "name": "Goral",
+      "bn_name": "গোড়ল",
+      "url": "goralup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3808",
+      "name": "Chondropur",
+      "bn_name": "চন্দ্রপুর",
+      "url": "chondropurup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3809",
+      "name": "Cholbola",
+      "bn_name": "চলবলা",
+      "url": "cholbolaup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3810",
+      "name": "Kakina",
+      "bn_name": "কাকিনা",
+      "url": "kakinaup.lalmonirhat.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "16",
+      "name": {
+        "en": "Lalmonirhat-1",
+        "bn": "লালমনিরহাট-১"
+      },
+      "total_voters": 403561
+    },
+    {
+      "code": "17",
+      "name": {
+        "en": "Lalmonirhat-2",
+        "bn": "লালমনিরহাট-২"
+      },
+      "total_voters": 432964
+    },
+    {
+      "code": "18",
+      "name": {
+        "en": "Lalmonirhat-3",
+        "bn": "লালমনিরহাট-৩"
+      },
+      "total_voters": 307970
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

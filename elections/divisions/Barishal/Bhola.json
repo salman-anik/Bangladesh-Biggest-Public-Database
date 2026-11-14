@@ -1,0 +1,75 @@
+{
+  "division": "Barishal",
+  "district": "Bhola",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4619,
+      "slug": "bhola-1",
+      "code": "115",
+      "district_id": 3,
+      "division_id": 1,
+      "name": {
+        "en": "Bhola-1",
+        "bn": "ভোলা-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bhola-1.svg",
+      "total_voters": 406567,
+      "total_male_voters": 210087,
+      "total_female_voters": 196475,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4620,
+      "slug": "bhola-2",
+      "code": "116",
+      "district_id": 3,
+      "division_id": 1,
+      "name": {
+        "en": "Bhola-2",
+        "bn": "ভোলা-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bhola-2.svg",
+      "total_voters": 395546,
+      "total_male_voters": 206433,
+      "total_female_voters": 189112,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4621,
+      "slug": "bhola-3",
+      "code": "117",
+      "district_id": 3,
+      "division_id": 1,
+      "name": {
+        "en": "Bhola-3",
+        "bn": "ভোলা-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bhola-3.svg",
+      "total_voters": 388550,
+      "total_male_voters": 200497,
+      "total_female_voters": 188050,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4622,
+      "slug": "bhola-4",
+      "code": "118",
+      "district_id": 3,
+      "division_id": 1,
+      "name": {
+        "en": "Bhola-4",
+        "bn": "ভোলা-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bhola-4.svg",
+      "total_voters": 502026,
+      "total_male_voters": 262843,
+      "total_female_voters": 239176,
+      "total_third_gender_voters": 7,
+      "last_demographic_update": null
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Bogura",
+  "district_bn": "বগুড়া",
+  "upazila_id": "127",
+  "upazila": "Adamdighi",
+  "upazila_bn": "আদমদিঘি",
+  "uno_portal": "adamdighi.bogra.gov.bd",
+  "district_administration": {
+    "district": "Bogura",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bogura",
+      "phone": "01713-000030",
+      "email": "dcbogura@mopa.gov.bd",
+      "website": "http://www.bogura.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bogura",
+      "phone": "01713-373030",
+      "email": "spbogura@police.gov.bd",
+      "control_room": "01713-374030"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bogura",
+      "phone": "01713-555030",
+      "email": "csbogura@dghs.gov.bd"
+    }
+  },
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "1153",
+      "name": "Chhatiangram",
+      "bn_name": "ছাতিয়ানগ্রাম",
+      "url": "chhatiangramup.bogra.gov.bd"
+    },
+    {
+      "id": "1154",
+      "name": "Nasaratpur",
+      "bn_name": "নশরতপুর",
+      "url": "nasaratpurup.bogra.gov.bd"
+    },
+    {
+      "id": "1155",
+      "name": "Adamdighi",
+      "bn_name": "আদমদিঘি",
+      "url": "adamdighiup.bogra.gov.bd"
+    },
+    {
+      "id": "1156",
+      "name": "Kundagram",
+      "bn_name": "কুন্দগ্রাম",
+      "url": "kundagramup.bogra.gov.bd"
+    },
+    {
+      "id": "1157",
+      "name": "Chapapur",
+      "bn_name": "চাঁপাপুর",
+      "url": "chapapurup.bogra.gov.bd"
+    },
+    {
+      "id": "1158",
+      "name": "Shantahar",
+      "bn_name": "সান্তাহার",
+      "url": "shantaharup.bogra.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5890",
+      "postcode_bn": "৫৮৯০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Bogura",
+      "district_bn": "বগুড়া",
+      "thana_upazila": "Adamdighi",
+      "thana_upazila_bn": "আদমদীঘি",
+      "sub_office": "Adamdighi",
+      "sub_office_bn": "আদমদীঘি"
+    },
+    {
+      "postcode": "5892",
+      "postcode_bn": "৫৮৯২",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Bogura",
+      "district_bn": "বগুড়া",
+      "thana_upazila": "Adamdighi",
+      "thana_upazila_bn": "আদমদীঘি",
+      "sub_office": "Nasharatpur",
+      "sub_office_bn": "নশরতপুর"
+    },
+    {
+      "postcode": "5891",
+      "postcode_bn": "৫৮৯১",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Bogura",
+      "district_bn": "বগুড়া",
+      "thana_upazila": "Adamdighi",
+      "thana_upazila_bn": "আদমদীঘি",
+      "sub_office": "Santahar",
+      "sub_office_bn": "সান্তাহার"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "36",
+      "name": {
+        "en": "Bogra-1",
+        "bn": "বগুড়া-১"
+      },
+      "total_voters": 376019
+    },
+    {
+      "code": "37",
+      "name": {
+        "en": "Bogra-2",
+        "bn": "বগুড়া-২"
+      },
+      "total_voters": 342155
+    },
+    {
+      "code": "38",
+      "name": {
+        "en": "Bogra-3",
+        "bn": "বগুড়া-৩"
+      },
+      "total_voters": 339181
+    },
+    {
+      "code": "39",
+      "name": {
+        "en": "Bogra-4",
+        "bn": "বগুড়া-৪"
+      },
+      "total_voters": 359523
+    },
+    {
+      "code": "40",
+      "name": {
+        "en": "Bogra-5",
+        "bn": "বগুড়া-৫"
+      },
+      "total_voters": 572340
+    },
+    {
+      "code": "41",
+      "name": {
+        "en": "Bogra-6",
+        "bn": "বগুড়া-৬"
+      },
+      "total_voters": 454043
+    },
+    {
+      "code": "42",
+      "name": {
+        "en": "Bogra-7",
+        "bn": "বগুড়া-৭"
+      },
+      "total_voters": 538092
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

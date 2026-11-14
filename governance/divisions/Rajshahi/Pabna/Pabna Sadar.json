@@ -1,0 +1,231 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Pabna",
+  "district_bn": "পাবনা",
+  "upazila_id": "116",
+  "upazila": "Pabna Sadar",
+  "upazila_bn": "পাবনা সদর",
+  "uno_portal": "pabnasadar.pabna.gov.bd",
+  "district_administration": {
+    "district": "Pabna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Pabna",
+      "phone": "01713-000032",
+      "email": "dcpabna@mopa.gov.bd",
+      "website": "http://www.pabna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Pabna",
+      "phone": "01713-373032",
+      "email": "sppabna@police.gov.bd",
+      "control_room": "01713-374032"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Pabna",
+      "phone": "01713-555032",
+      "email": "cspabna@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "1055",
+      "name": "Maligachha",
+      "bn_name": "মালিগাছা",
+      "url": "maligachhaup.pabna.gov.bd"
+    },
+    {
+      "id": "1056",
+      "name": "Malanchi",
+      "bn_name": "মালঞ্চি",
+      "url": "malanchiup.pabna.gov.bd"
+    },
+    {
+      "id": "1057",
+      "name": "Gayeshpur",
+      "bn_name": "গয়েশপুর",
+      "url": "gayeshpurup.pabna.gov.bd"
+    },
+    {
+      "id": "1058",
+      "name": "Ataikula",
+      "bn_name": "আতাইকুলা",
+      "url": "ataikulaup.pabna.gov.bd"
+    },
+    {
+      "id": "1059",
+      "name": "Chartarapur",
+      "bn_name": "চরতারাপুর",
+      "url": "chartarapurup.pabna.gov.bd"
+    },
+    {
+      "id": "1060",
+      "name": "Sadullahpur",
+      "bn_name": "সাদুল্লাপুর",
+      "url": "sadullahpurup.pabna.gov.bd"
+    },
+    {
+      "id": "1061",
+      "name": "Bharara",
+      "bn_name": "ভাঁড়ারা",
+      "url": "bhararaup.pabna.gov.bd"
+    },
+    {
+      "id": "1062",
+      "name": "Dogachi",
+      "bn_name": "দোগাছী",
+      "url": "dogachiup.pabna.gov.bd"
+    },
+    {
+      "id": "1063",
+      "name": "Hemayetpur",
+      "bn_name": "হেমায়েতপুর",
+      "url": "hemayetpurup.pabna.gov.bd"
+    },
+    {
+      "id": "1064",
+      "name": "Dapunia",
+      "bn_name": "দাপুনিয়া",
+      "url": "dapuniaup.pabna.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "6602",
+      "postcode_bn": "৬৬০২",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Pabna",
+      "district_bn": "পাবনা",
+      "thana_upazila": "Pabna Sadar",
+      "thana_upazila_bn": "পাবনা সদর",
+      "sub_office": "Hamayetpur",
+      "sub_office_bn": "হেমায়েতপুর"
+    },
+    {
+      "postcode": "6601",
+      "postcode_bn": "৬৬০১",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Pabna",
+      "district_bn": "পাবনা",
+      "thana_upazila": "Pabna Sadar",
+      "thana_upazila_bn": "পাবনা সদর",
+      "sub_office": "Kaliko Cotton Mills",
+      "sub_office_bn": "কালিকো কটন মিলস"
+    },
+    {
+      "postcode": "6600",
+      "postcode_bn": "৬৬০০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Pabna",
+      "district_bn": "পাবনা",
+      "thana_upazila": "Pabna Sadar",
+      "thana_upazila_bn": "পাবনা সদর",
+      "sub_office": "Pabna Sadar",
+      "sub_office_bn": "পাবনা সদর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "68",
+      "name": {
+        "en": "Pabna-1",
+        "bn": "পাবনা-১"
+      },
+      "total_voters": 340935
+    },
+    {
+      "code": "69",
+      "name": {
+        "en": "Pabna-2",
+        "bn": "পাবনা-২"
+      },
+      "total_voters": 497394
+    },
+    {
+      "code": "70",
+      "name": {
+        "en": "Pabna-3",
+        "bn": "পাবনা-৩"
+      },
+      "total_voters": 486806
+    },
+    {
+      "code": "71",
+      "name": {
+        "en": "Pabna-4",
+        "bn": "পাবনা-৪"
+      },
+      "total_voters": 440168
+    },
+    {
+      "code": "72",
+      "name": {
+        "en": "Pabna-5",
+        "bn": "পাবনা-৫"
+      },
+      "total_voters": 528044
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

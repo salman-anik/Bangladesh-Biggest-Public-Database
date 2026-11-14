@@ -1,0 +1,41 @@
+{
+  "division": "Khulna",
+  "district": "Meherpur",
+  "total_constituencies": 2,
+  "constituencies": [
+    {
+      "id": 4752,
+      "slug": "meherpur-1",
+      "code": "73",
+      "district_id": 34,
+      "division_id": 4,
+      "name": {
+        "en": "Meherpur-1",
+        "bn": "মেহেরপুর-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Meherpur-1.svg",
+      "total_voters": 316975,
+      "total_male_voters": 157890,
+      "total_female_voters": 159082,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4753,
+      "slug": "meherpur-2",
+      "code": "74",
+      "district_id": 34,
+      "division_id": 4,
+      "name": {
+        "en": "Meherpur-2",
+        "bn": "মেহেরপুর-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Meherpur-2.svg",
+      "total_voters": 270705,
+      "total_male_voters": 135087,
+      "total_female_voters": 135615,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    }
+  ]
+}

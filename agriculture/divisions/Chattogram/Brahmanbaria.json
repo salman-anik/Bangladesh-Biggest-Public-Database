@@ -1,0 +1,286 @@
+{
+  "division": "Chattogram",
+  "district": "Brahmanbaria",
+  "total_upazilas": 9,
+  "upazilas": [
+    "Akhaura",
+    "Ashuganj",
+    "Bancharampur",
+    "Bijoynagar",
+    "Brahmanbaria Sadar",
+    "Kasba",
+    "Nabinagar",
+    "Nasirnagar",
+    "Sarail"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Ambagan(Ctg)",
+    "Chittagong",
+    "Sandwip",
+    "Sitakunda",
+    "Cox's Bazar",
+    "Kutubdia",
+    "Teknaf",
+    "Comilla",
+    "Cumilla",
+    "Chandpur",
+    "Feni",
+    "Maijdi Court",
+    "Hatiya",
+    "Rangamati"
+  ],
+  "agromet_stations_in_region": [
+    "Cumilla",
+    "Rangamati"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Ambagan(Ctg)",
+      "monthly_normal_humidity_pct": {
+        "Jan": 73,
+        "Feb": 66,
+        "Mar": 70,
+        "Apr": 77,
+        "May": 80,
+        "Jun": 86,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 85,
+        "Oct": 84,
+        "Nov": 79,
+        "Dec": 77
+      },
+      "annual_mean_pct": 79.2
+    },
+    {
+      "station": "Chittagong",
+      "monthly_normal_humidity_pct": {
+        "Jan": 73,
+        "Feb": 70,
+        "Mar": 74,
+        "Apr": 77,
+        "May": 79,
+        "Jun": 83,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 83,
+        "Oct": 81,
+        "Nov": 78,
+        "Dec": 75
+      },
+      "annual_mean_pct": 78.6
+    },
+    {
+      "station": "Sandwip",
+      "monthly_normal_humidity_pct": {
+        "Jan": 79,
+        "Feb": 77,
+        "Mar": 79,
+        "Apr": 82,
+        "May": 84,
+        "Jun": 88,
+        "Jul": 90,
+        "Aug": 89,
+        "Sep": 88,
+        "Oct": 85,
+        "Nov": 82,
+        "Dec": 81
+      },
+      "annual_mean_pct": 83.7
+    },
+    {
+      "station": "Sitakunda",
+      "monthly_normal_humidity_pct": {
+        "Jan": 75,
+        "Feb": 72,
+        "Mar": 74,
+        "Apr": 78,
+        "May": 81,
+        "Jun": 85,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 85,
+        "Oct": 83,
+        "Nov": 80,
+        "Dec": 78
+      },
+      "annual_mean_pct": 80.3
+    },
+    {
+      "station": "Cox's Bazar",
+      "monthly_normal_humidity_pct": {
+        "Jan": 72,
+        "Feb": 71,
+        "Mar": 75,
+        "Apr": 78,
+        "May": 80,
+        "Jun": 87,
+        "Jul": 89,
+        "Aug": 88,
+        "Sep": 86,
+        "Oct": 82,
+        "Nov": 77,
+        "Dec": 74
+      },
+      "annual_mean_pct": 79.9
+    },
+    {
+      "station": "Kutubdia",
+      "monthly_normal_humidity_pct": {
+        "Jan": 75,
+        "Feb": 75,
+        "Mar": 80,
+        "Apr": 81,
+        "May": 81,
+        "Jun": 86,
+        "Jul": 88,
+        "Aug": 87,
+        "Sep": 85,
+        "Oct": 83,
+        "Nov": 79,
+        "Dec": 76
+      },
+      "annual_mean_pct": 81.3
+    },
+    {
+      "station": "Teknaf",
+      "monthly_normal_humidity_pct": {
+        "Jan": 69,
+        "Feb": 68,
+        "Mar": 73,
+        "Apr": 77,
+        "May": 81,
+        "Jun": 88,
+        "Jul": 90,
+        "Aug": 89,
+        "Sep": 87,
+        "Oct": 83,
+        "Nov": 77,
+        "Dec": 71
+      },
+      "annual_mean_pct": 79.4
+    },
+    {
+      "station": "Comilla",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 75,
+        "Mar": 77,
+        "Apr": 81,
+        "May": 82,
+        "Jun": 86,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 84,
+        "Nov": 80,
+        "Dec": 79
+      },
+      "annual_mean_pct": 81.7
+    },
+    {
+      "station": "Chandpur",
+      "monthly_normal_humidity_pct": {
+        "Jan": 78,
+        "Feb": 73,
+        "Mar": 73,
+        "Apr": 77,
+        "May": 80,
+        "Jun": 85,
+        "Jul": 86,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 82,
+        "Nov": 78,
+        "Dec": 78
+      },
+      "annual_mean_pct": 80.0
+    },
+    {
+      "station": "Feni",
+      "monthly_normal_humidity_pct": {
+        "Jan": 76,
+        "Feb": 73,
+        "Mar": 74,
+        "Apr": 79,
+        "May": 81,
+        "Jun": 85,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 84,
+        "Nov": 80,
+        "Dec": 78
+      },
+      "annual_mean_pct": 80.8
+    },
+    {
+      "station": "Maijdi Court",
+      "monthly_normal_humidity_pct": {
+        "Jan": 79,
+        "Feb": 76,
+        "Mar": 76,
+        "Apr": 78,
+        "May": 81,
+        "Jun": 86,
+        "Jul": 88,
+        "Aug": 87,
+        "Sep": 86,
+        "Oct": 83,
+        "Nov": 80,
+        "Dec": 80
+      },
+      "annual_mean_pct": 81.7
+    },
+    {
+      "station": "Hatiya",
+      "monthly_normal_humidity_pct": {
+        "Jan": 76,
+        "Feb": 74,
+        "Mar": 76,
+        "Apr": 79,
+        "May": 82,
+        "Jun": 87,
+        "Jul": 89,
+        "Aug": 88,
+        "Sep": 86,
+        "Oct": 84,
+        "Nov": 80,
+        "Dec": 79
+      },
+      "annual_mean_pct": 81.7
+    },
+    {
+      "station": "Rangamati",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 69,
+        "Mar": 67,
+        "Apr": 72,
+        "May": 78,
+        "Jun": 84,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 84,
+        "Nov": 82,
+        "Dec": 81
+      },
+      "annual_mean_pct": 79.1
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

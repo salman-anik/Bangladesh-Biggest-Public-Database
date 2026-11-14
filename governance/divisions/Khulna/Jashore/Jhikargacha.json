@@ -1,0 +1,208 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Jashore",
+  "district_bn": "যশোর",
+  "upazila_id": "175",
+  "upazila": "Jhikargacha",
+  "upazila_bn": "ঝিকরগাছা",
+  "uno_portal": "jhikargacha.jessore.gov.bd",
+  "district_administration": {
+    "district": "Jashore",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Jashore",
+      "phone": "01713-000037",
+      "email": "dcjashore@mopa.gov.bd",
+      "website": "http://www.jashore.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Jashore",
+      "phone": "01713-373037",
+      "email": "spjashore@police.gov.bd",
+      "control_room": "01713-374037"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Jashore",
+      "phone": "01713-555037",
+      "email": "csjashore@dghs.gov.bd"
+    }
+  },
+  "total_unions": 11,
+  "unions": [
+    {
+      "id": "1558",
+      "name": "Gangananda",
+      "bn_name": "গংগানন্দপুর",
+      "url": "ganganandapurup.jessore.gov.bd"
+    },
+    {
+      "id": "1559",
+      "name": "Gadkhali",
+      "bn_name": "গদখালী",
+      "url": "gadkhaliup.jessore.gov.bd"
+    },
+    {
+      "id": "1560",
+      "name": "Jhikargachha",
+      "bn_name": "ঝিকরগাছা",
+      "url": "jhikargachhaup.jessore.gov.bd"
+    },
+    {
+      "id": "1561",
+      "name": "Nabharan",
+      "bn_name": "নাভারন",
+      "url": "nabharanup.jessore.gov.bd"
+    },
+    {
+      "id": "1562",
+      "name": "Nibaskhola",
+      "bn_name": "নির্বাসখোলা",
+      "url": "nibaskholaup.jessore.gov.bd"
+    },
+    {
+      "id": "1563",
+      "name": "Panisara",
+      "bn_name": "পানিসারা",
+      "url": "panisaraup.jessore.gov.bd"
+    },
+    {
+      "id": "1564",
+      "name": "Bankra",
+      "bn_name": "বাঁকড়া",
+      "url": "bankraup.jessore.gov.bd"
+    },
+    {
+      "id": "1565",
+      "name": "Shankarpur",
+      "bn_name": "শংকরপুর",
+      "url": "shankarpurup10.jessore.gov.bd"
+    },
+    {
+      "id": "1566",
+      "name": "Shimulia",
+      "bn_name": "শিমুলিয়া",
+      "url": "shimuliaup3.jessore.gov.bd"
+    },
+    {
+      "id": "1567",
+      "name": "Hajirbagh",
+      "bn_name": "হাজিরবাগ",
+      "url": "hajirbaghup9.jessore.gov.bd"
+    },
+    {
+      "id": "1568",
+      "name": "Magura",
+      "bn_name": "মাগুরা",
+      "url": "maguraup.jessore.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "85",
+      "name": {
+        "en": "Jessor-1",
+        "bn": "যশোর-১"
+      },
+      "total_voters": 311633
+    },
+    {
+      "code": "86",
+      "name": {
+        "en": "Jessor-2",
+        "bn": "যশোর-২"
+      },
+      "total_voters": 484866
+    },
+    {
+      "code": "87",
+      "name": {
+        "en": "Jessor-3",
+        "bn": "যশোর-৩"
+      },
+      "total_voters": 613460
+    },
+    {
+      "code": "88",
+      "name": {
+        "en": "Jessor-4",
+        "bn": "যশোর-৪"
+      },
+      "total_voters": 458531
+    },
+    {
+      "code": "89",
+      "name": {
+        "en": "Jessor-5",
+        "bn": "যশোর-৫"
+      },
+      "total_voters": 374252
+    },
+    {
+      "code": "90",
+      "name": {
+        "en": "Jessor-6",
+        "bn": "যশোর-৬"
+      },
+      "total_voters": 229163
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

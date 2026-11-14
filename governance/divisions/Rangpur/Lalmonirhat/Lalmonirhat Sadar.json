@@ -1,0 +1,209 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Lalmonirhat",
+  "district_bn": "লালমনিরহাট",
+  "upazila_id": "417",
+  "upazila": "Lalmonirhat Sadar",
+  "upazila_bn": "লালমনিরহাট সদর",
+  "uno_portal": "sadar.lalmonirhat.gov.bd",
+  "district_administration": {
+    "district": "Lalmonirhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lalmonirhat",
+      "phone": "01713-000058",
+      "email": "dclalmonirhat@mopa.gov.bd",
+      "website": "http://www.lalmonirhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lalmonirhat",
+      "phone": "01713-373058",
+      "email": "splalmonirhat@police.gov.bd",
+      "control_room": "01713-374058"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lalmonirhat",
+      "phone": "01713-555058",
+      "email": "cslalmonirhat@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "3794",
+      "name": "Rajpur",
+      "bn_name": "রাজপুর",
+      "url": "rajpurup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3795",
+      "name": "Harati",
+      "bn_name": "হারাটি",
+      "url": "haratiup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3796",
+      "name": "Mogolhat",
+      "bn_name": "মোগলহাট",
+      "url": "mogolhatup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3797",
+      "name": "Gokunda",
+      "bn_name": "গোকুন্ডা",
+      "url": "gokundaup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3798",
+      "name": "Barobari",
+      "bn_name": "বড়বাড়ী",
+      "url": "barobariup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3799",
+      "name": "Kulaghat",
+      "bn_name": "কুলাঘাট",
+      "url": "kulaghatup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3800",
+      "name": "Mohendranagar",
+      "bn_name": "মহেন্দ্রনগর",
+      "url": "mohendranagarup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3801",
+      "name": "Khuniagachh",
+      "bn_name": "খুনিয়াগাছ",
+      "url": "khuniagachhup.lalmonirhat.gov.bd"
+    },
+    {
+      "id": "3802",
+      "name": "Panchagram",
+      "bn_name": "পঞ্চগ্রাম",
+      "url": "panchagramup.lalmonirhat.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5502",
+      "postcode_bn": "৫৫০২",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "thana_upazila": "Lalmonirhat Sadar",
+      "thana_upazila_bn": "লালমনিরহাট সদর",
+      "sub_office": "Kulaghat SO",
+      "sub_office_bn": "Kulaghat তাই"
+    },
+    {
+      "postcode": "5500",
+      "postcode_bn": "৫৫০০",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "thana_upazila": "Lalmonirhat Sadar",
+      "thana_upazila_bn": "লালমনিরহাট সদর",
+      "sub_office": "Lalmonirhat Sadar",
+      "sub_office_bn": "লালমনিরহাট সদর"
+    },
+    {
+      "postcode": "5501",
+      "postcode_bn": "৫৫০১",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Lalmonirhat",
+      "district_bn": "লালমনিরহাট",
+      "thana_upazila": "Lalmonirhat Sadar",
+      "thana_upazila_bn": "লালমনিরহাট সদর",
+      "sub_office": "Moghalhat",
+      "sub_office_bn": "মোঘলহাট"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "16",
+      "name": {
+        "en": "Lalmonirhat-1",
+        "bn": "লালমনিরহাট-১"
+      },
+      "total_voters": 403561
+    },
+    {
+      "code": "17",
+      "name": {
+        "en": "Lalmonirhat-2",
+        "bn": "লালমনিরহাট-২"
+      },
+      "total_voters": 432964
+    },
+    {
+      "code": "18",
+      "name": {
+        "en": "Lalmonirhat-3",
+        "bn": "লালমনিরহাট-৩"
+      },
+      "total_voters": 307970
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

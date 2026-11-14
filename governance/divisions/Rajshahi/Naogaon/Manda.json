@@ -1,0 +1,226 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Naogaon",
+  "district_bn": "নওগাঁ",
+  "upazila_id": "165",
+  "upazila": "Manda",
+  "upazila_bn": "মান্দা",
+  "uno_portal": "manda.naogaon.gov.bd",
+  "district_administration": {
+    "district": "Naogaon",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Naogaon",
+      "phone": "01713-000034",
+      "email": "dcnaogaon@mopa.gov.bd",
+      "website": "http://www.naogaon.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Naogaon",
+      "phone": "01713-373034",
+      "email": "spnaogaon@police.gov.bd",
+      "control_room": "01713-374034"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Naogaon",
+      "phone": "01713-555034",
+      "email": "csnaogaon@dghs.gov.bd"
+    }
+  },
+  "total_unions": 14,
+  "unions": [
+    {
+      "id": "1459",
+      "name": "Varsho",
+      "bn_name": "ভারশো",
+      "url": "1novarshoup.naogaon.gov.bd"
+    },
+    {
+      "id": "1460",
+      "name": "Valain",
+      "bn_name": "ভালাইন",
+      "url": "2novalainup.naogaon.gov.bd"
+    },
+    {
+      "id": "1461",
+      "name": "Paranpur",
+      "bn_name": "পরানপুর",
+      "url": "3noparanpurup.naogaon.gov.bd"
+    },
+    {
+      "id": "1462",
+      "name": "Manda",
+      "bn_name": "মান্দা",
+      "url": "4nomandaup.naogaon.gov.bd"
+    },
+    {
+      "id": "1463",
+      "name": "Goneshpur",
+      "bn_name": "গনেশপুর",
+      "url": "5nogoneshpurup.naogaon.gov.bd"
+    },
+    {
+      "id": "1464",
+      "name": "Moinom",
+      "bn_name": "মৈনম",
+      "url": "6nomoinomup.naogaon.gov.bd"
+    },
+    {
+      "id": "1465",
+      "name": "Proshadpur",
+      "bn_name": "প্রসাদপুর",
+      "url": "7noproshadpurup.naogaon.gov.bd"
+    },
+    {
+      "id": "1466",
+      "name": "Kosomba",
+      "bn_name": "কুসুম্বা",
+      "url": "8nokosombaup.naogaon.gov.bd"
+    },
+    {
+      "id": "1467",
+      "name": "Tetulia",
+      "bn_name": "তেঁতুলিয়া",
+      "url": "9notetuliaup.naogaon.gov.bd"
+    },
+    {
+      "id": "1468",
+      "name": "Nurullabad",
+      "bn_name": "নূরুল্যাবাদ",
+      "url": "10nonurullabadup.naogaon.gov.bd"
+    },
+    {
+      "id": "1469",
+      "name": "Kalikapur",
+      "bn_name": "কালিকাপুর",
+      "url": "11nokalikapurup.naogaon.gov.bd"
+    },
+    {
+      "id": "1470",
+      "name": "Kashopara",
+      "bn_name": "কাঁশোকাপুর",
+      "url": "12nokashoparaup.naogaon.gov.bd"
+    },
+    {
+      "id": "1471",
+      "name": "Koshob",
+      "bn_name": "কশব",
+      "url": "13nokoshobup.naogaon.gov.bd"
+    },
+    {
+      "id": "1472",
+      "name": "Bisnopur",
+      "bn_name": "বিষ্ণপুর",
+      "url": "14nobisnopurup.naogaon.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "46",
+      "name": {
+        "en": "Noagoan-1",
+        "bn": "নওগাঁ-১"
+      },
+      "total_voters": 474067
+    },
+    {
+      "code": "47",
+      "name": {
+        "en": "Noagoan-2",
+        "bn": "নওগাঁ-২"
+      },
+      "total_voters": 372436
+    },
+    {
+      "code": "48",
+      "name": {
+        "en": "Noagoan-3",
+        "bn": "নওগাঁ-৩"
+      },
+      "total_voters": 440785
+    },
+    {
+      "code": "49",
+      "name": {
+        "en": "Noagoan-4",
+        "bn": "নওগাঁ-৪"
+      },
+      "total_voters": 333862
+    },
+    {
+      "code": "50",
+      "name": {
+        "en": "Noagoan-5",
+        "bn": "নওগাঁ-৫"
+      },
+      "total_voters": 363030
+    },
+    {
+      "code": "51",
+      "name": {
+        "en": "Noagoan-6",
+        "bn": "নওগাঁ-৬"
+      },
+      "total_voters": 345416
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4604,
+      "slug": "patuakhali-1",
+      "code": "111",
+      "district_id": 5,
+      "division_id": 1,
+      "name": {
+        "en": "Patuakhali-1",
+        "bn": "পটুয়াখালী-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Patuakhali-1.svg",
+      "total_voters": 505840,
+      "total_male_voters": 254339,
+      "total_female_voters": 251493,
+      "total_third_gender_voters": 8,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4605,
+      "slug": "patuakhali-2",
+      "code": "112",
+      "district_id": 5,
+      "division_id": 1,
+      "name": {
+        "en": "Patuakhali-2",
+        "bn": "পটুয়াখালী-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Patuakhali-2.svg",
+      "total_voters": 315282,
+      "total_male_voters": 160501,
+      "total_female_voters": 154779,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4606,
+      "slug": "patuakhali-3",
+      "code": "113",
+      "district_id": 5,
+      "division_id": 1,
+      "name": {
+        "en": "patuakhali-3",
+        "bn": "পটুয়াখালী-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/2026/02/959c51b7-0d1d-400b-b9aa-1912078d4c89.svg",
+      "total_voters": 375871,
+      "total_male_voters": 189020,
+      "total_female_voters": 186848,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4607,
+      "slug": "patuakhali-4",
+      "code": "114",
+      "district_id": 5,
+      "division_id": 1,
+      "name": {
+        "en": "Patuakhali-4",
+        "bn": "পটুয়াখালী-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Patuakhali-4.svg",
+      "total_voters": 312603,
+      "total_male_voters": 158123,
+      "total_female_voters": 154475,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    }
+  ]
+}

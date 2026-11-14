@@ -1,0 +1,180 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Nilphamari",
+  "district_bn": "নীলফামারী",
+  "upazila_id": "426",
+  "upazila": "Kishorganj",
+  "upazila_bn": "কিশোরগঞ্জ",
+  "uno_portal": "kishorganj.nilphamari.gov.bd",
+  "district_administration": {
+    "district": "Nilphamari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Nilphamari",
+      "phone": "01713-000057",
+      "email": "dcnilphamari@mopa.gov.bd",
+      "website": "http://www.nilphamari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Nilphamari",
+      "phone": "01713-373057",
+      "email": "spnilphamari@police.gov.bd",
+      "control_room": "01713-374057"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Nilphamari",
+      "phone": "01713-555057",
+      "email": "csnilphamari@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "3875",
+      "name": "Barabhita",
+      "bn_name": "বড়ভিটা",
+      "url": "barabhitaup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3876",
+      "name": "Putimari",
+      "bn_name": "পুটিমারী",
+      "url": "putimariup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3877",
+      "name": "Nitai",
+      "bn_name": "নিতাই",
+      "url": "nitaiup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3878",
+      "name": "Bahagili",
+      "bn_name": "বাহাগিলি",
+      "url": "bahagiliup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3879",
+      "name": "Chandkhana",
+      "bn_name": "চাঁদখানা",
+      "url": "chandkhanaup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3880",
+      "name": "Kishoreganj",
+      "bn_name": "কিশোরগঞ্জ",
+      "url": "kishoreganjup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3881",
+      "name": "Ranachandi",
+      "bn_name": "রনচন্ডি",
+      "url": "ranachandiup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3882",
+      "name": "Garagram",
+      "bn_name": "গাড়াগ্রাম",
+      "url": "garagramup.nilphamari.gov.bd"
+    },
+    {
+      "id": "3883",
+      "name": "Magura",
+      "bn_name": "মাগুরা",
+      "url": "maguraup.nilphamari.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "12",
+      "name": {
+        "en": "Nilphamari-1",
+        "bn": "নীলফামারী-১"
+      },
+      "total_voters": 460271
+    },
+    {
+      "code": "13",
+      "name": {
+        "en": "Nilphamari-2",
+        "bn": "নীলফামারী-২"
+      },
+      "total_voters": 385785
+    },
+    {
+      "code": "14",
+      "name": {
+        "en": "Nilphamari-3",
+        "bn": "নীলফামারী-৩"
+      },
+      "total_voters": 294446
+    },
+    {
+      "code": "15",
+      "name": {
+        "en": "Nilphamari-4",
+        "bn": "নীলফামারী-৪"
+      },
+      "total_voters": 451814
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

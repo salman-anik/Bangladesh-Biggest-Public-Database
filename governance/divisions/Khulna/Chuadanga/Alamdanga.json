@@ -1,0 +1,225 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Chuadanga",
+  "district_bn": "চুয়াডাঙ্গা",
+  "upazila_id": "193",
+  "upazila": "Alamdanga",
+  "upazila_bn": "আলমডাঙ্গা",
+  "uno_portal": "alamdanga.chuadanga.gov.bd",
+  "district_administration": {
+    "district": "Chuadanga",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chuadanga",
+      "phone": "01713-000042",
+      "email": "dcchuadanga@mopa.gov.bd",
+      "website": "http://www.chuadanga.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chuadanga",
+      "phone": "01713-373042",
+      "email": "spchuadanga@police.gov.bd",
+      "control_room": "01713-374042"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chuadanga",
+      "phone": "01713-555042",
+      "email": "cschuadanga@dghs.gov.bd"
+    }
+  },
+  "total_unions": 15,
+  "unions": [
+    {
+      "id": "1746",
+      "name": "Bhangbaria",
+      "bn_name": "ভাংবাড়ীয়া",
+      "url": "bhangbaria.chuadanga.gov.bd"
+    },
+    {
+      "id": "1747",
+      "name": "Baradi",
+      "bn_name": "বাড়াদী",
+      "url": "baradiup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1748",
+      "name": "Gangni",
+      "bn_name": "গাংনী",
+      "url": "gangniup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1749",
+      "name": "Khadimpur",
+      "bn_name": "খাদিমপুর",
+      "url": "khadimpurup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1750",
+      "name": "Jehala",
+      "bn_name": "জেহালা",
+      "url": "jehalaup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1751",
+      "name": "Belgachi",
+      "bn_name": "বেলগাছি",
+      "url": "belgachiup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1752",
+      "name": "Dauki",
+      "bn_name": "ডাউকী",
+      "url": "daukiup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1753",
+      "name": "Jamjami",
+      "bn_name": "জামজামি",
+      "url": "jamjamiup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1754",
+      "name": "Nagdah",
+      "bn_name": "নাগদাহ",
+      "url": "nagdahup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1755",
+      "name": "Kashkorara",
+      "bn_name": "খাসকররা",
+      "url": "kashkoraraup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1756",
+      "name": "Chitla",
+      "bn_name": "চিৎলা",
+      "url": "chitlaup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1757",
+      "name": "Kalidashpur",
+      "bn_name": "কালিদাসপুর",
+      "url": "kalidashpurup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1758",
+      "name": "Kumari",
+      "bn_name": "কুমারী",
+      "url": "kumariup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1759",
+      "name": "Hardi",
+      "bn_name": "হারদী",
+      "url": "hardiup.chuadanga.gov.bd"
+    },
+    {
+      "id": "1760",
+      "name": "Ailhash",
+      "bn_name": "আইলহাঁস",
+      "url": "ailhashup.chuadanga.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "7210",
+      "postcode_bn": "৭২১০",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chuadanga",
+      "district_bn": "চুয়াডাঙ্গা",
+      "thana_upazila": "Alamdanga",
+      "thana_upazila_bn": "আলমডাঙ্গা",
+      "sub_office": "Alamdanga",
+      "sub_office_bn": "আলমডাঙ্গা"
+    },
+    {
+      "postcode": "7211",
+      "postcode_bn": "৭২১১",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chuadanga",
+      "district_bn": "চুয়াডাঙ্গা",
+      "thana_upazila": "Alamdanga",
+      "thana_upazila_bn": "আলমডাঙ্গা",
+      "sub_office": "Hardi",
+      "sub_office_bn": "Hardi"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "79",
+      "name": {
+        "en": "Chaudanga-1",
+        "bn": "চুয়াডাঙ্গা-১"
+      },
+      "total_voters": 511657
+    },
+    {
+      "code": "80",
+      "name": {
+        "en": "Chaudanga-2",
+        "bn": "চুয়াডাঙ্গা-২"
+      },
+      "total_voters": 492431
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

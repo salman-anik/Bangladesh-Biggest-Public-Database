@@ -1,0 +1,58 @@
+{
+  "division": "Dhaka",
+  "district": "Manikganj",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4681,
+      "slug": "manikgonj-1",
+      "code": "168",
+      "district_id": 50,
+      "division_id": 3,
+      "name": {
+        "en": "Manikgonj-1",
+        "bn": "মানিকগঞ্জ-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Manikgonj-1.svg",
+      "total_voters": 461942,
+      "total_male_voters": 231857,
+      "total_female_voters": 230081,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4682,
+      "slug": "manikgonj-2",
+      "code": "169",
+      "district_id": 50,
+      "division_id": 3,
+      "name": {
+        "en": "Manikgonj-2",
+        "bn": "মানিকগঞ্জ-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Manikgonj-2.svg",
+      "total_voters": 472622,
+      "total_male_voters": 237205,
+      "total_female_voters": 235413,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4683,
+      "slug": "manikgonj-3",
+      "code": "170",
+      "district_id": 50,
+      "division_id": 3,
+      "name": {
+        "en": "Manikgonj-3",
+        "bn": "মানিকগঞ্জ-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Manikgonj-3.svg",
+      "total_voters": 400059,
+      "total_male_voters": 199398,
+      "total_female_voters": 200660,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    }
+  ]
+}

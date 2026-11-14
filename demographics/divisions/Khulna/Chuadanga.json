@@ -1,0 +1,36 @@
+{
+  "division": "Khulna",
+  "district": "Chuadanga",
+  "upazilas_count": 4,
+  "unions_count": 35,
+  "post_offices_count": 8,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 1004088,
+    "male": 501101,
+    "female": 502976,
+    "third_gender": 11
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "79",
+      "name": {
+        "en": "Chaudanga-1",
+        "bn": "চুয়াডাঙ্গা-১"
+      },
+      "total_voters": 511657,
+      "male": 254385,
+      "female": 257265
+    },
+    {
+      "seat_no": "80",
+      "name": {
+        "en": "Chaudanga-2",
+        "bn": "চুয়াডাঙ্গা-২"
+      },
+      "total_voters": 492431,
+      "male": 246716,
+      "female": 245711
+    }
+  ]
+}

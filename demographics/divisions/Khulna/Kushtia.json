@@ -1,0 +1,56 @@
+{
+  "division": "Khulna",
+  "district": "Kushtia",
+  "upazilas_count": 6,
+  "unions_count": 67,
+  "post_offices_count": 17,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1793217,
+    "male": 896897,
+    "female": 896307,
+    "third_gender": 13
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "75",
+      "name": {
+        "en": "Kushtia-1",
+        "bn": "কুষ্টিয়া-১"
+      },
+      "total_voters": 404504,
+      "male": 203492,
+      "female": 201011
+    },
+    {
+      "seat_no": "76",
+      "name": {
+        "en": "Kustia-2",
+        "bn": "কুষ্টিয়া-২"
+      },
+      "total_voters": 523454,
+      "male": 262632,
+      "female": 260819
+    },
+    {
+      "seat_no": "77",
+      "name": {
+        "en": "Kustia-3",
+        "bn": "কুষ্টিয়া-৩"
+      },
+      "total_voters": 440842,
+      "male": 217269,
+      "female": 223569
+    },
+    {
+      "seat_no": "78",
+      "name": {
+        "en": "Kustia-4",
+        "bn": "কুষ্টিয়া-৪"
+      },
+      "total_voters": 424417,
+      "male": 213504,
+      "female": 210908
+    }
+  ]
+}

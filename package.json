@@ -4,6 +4,6 @@
   "scripts": {
     "dev": "cd visualize && npm run dev",
     "build": "cd visualize && npm install && npm run build",
-    "preview": "cd visualize && npm run preview"
+    "start": "cd visualize && npm run start"
   }
 }

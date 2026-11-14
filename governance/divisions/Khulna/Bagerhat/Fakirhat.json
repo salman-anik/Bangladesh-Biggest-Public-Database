@@ -1,0 +1,211 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Bagerhat",
+  "district_bn": "বাগেরহাট",
+  "upazila_id": "215",
+  "upazila": "Fakirhat",
+  "upazila_bn": "ফকিরহাট",
+  "uno_portal": "fakirhat.bagerhat.gov.bd",
+  "district_administration": {
+    "district": "Bagerhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bagerhat",
+      "phone": "01713-000040",
+      "email": "dcbagerhat@mopa.gov.bd",
+      "website": "http://www.bagerhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bagerhat",
+      "phone": "01713-373040",
+      "email": "spbagerhat@police.gov.bd",
+      "control_room": "01713-374040"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bagerhat",
+      "phone": "01713-555040",
+      "email": "csbagerhat@dghs.gov.bd"
+    }
+  },
+  "total_unions": 8,
+  "unions": [
+    {
+      "id": "1945",
+      "name": "Betaga",
+      "bn_name": "বেতাগা",
+      "url": "betagaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1946",
+      "name": "Lakhpur",
+      "bn_name": "লখপুর",
+      "url": "lakhpurup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1947",
+      "name": "Fakirhat",
+      "bn_name": "ফকিরহাট",
+      "url": "fakirhatup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1948",
+      "name": "Bahirdia-Mansa",
+      "bn_name": "বাহিরদিয়া-মানসা",
+      "url": "bahirdiamansaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1949",
+      "name": "Piljanga",
+      "bn_name": "পিলজংগ",
+      "url": "piljangaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1950",
+      "name": "Naldha-Mouvhog",
+      "bn_name": "নলধা-মৌভোগ",
+      "url": "naldhamauvhogup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1951",
+      "name": "Mulghar",
+      "bn_name": "মূলঘর",
+      "url": "mulgharup.bagerhat.gov.bd"
+    },
+    {
+      "id": "1952",
+      "name": "Suvhadia",
+      "bn_name": "শুভদিয়া",
+      "url": "suvhadiaup.bagerhat.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "9372",
+      "postcode_bn": "৯৩৭২",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Bagerhat",
+      "district_bn": "বাগেরহাটের",
+      "thana_upazila": "Fakirhat",
+      "thana_upazila_bn": "ফকিরহাট",
+      "sub_office": "Bhanganpar Bazar",
+      "sub_office_bn": "Bhanganpar বাজার"
+    },
+    {
+      "postcode": "9370",
+      "postcode_bn": "৯৩৭০",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Bagerhat",
+      "district_bn": "বাগেরহাটের",
+      "thana_upazila": "Fakirhat",
+      "thana_upazila_bn": "ফকিরহাট",
+      "sub_office": "Fakirhat",
+      "sub_office_bn": "ফকিরহাট"
+    },
+    {
+      "postcode": "9371",
+      "postcode_bn": "৯৩৭১",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Bagerhat",
+      "district_bn": "বাগেরহাটের",
+      "thana_upazila": "Fakirhat",
+      "thana_upazila_bn": "ফকিরহাট",
+      "sub_office": "Mansa",
+      "sub_office_bn": "মানসা"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "95",
+      "name": {
+        "en": "Bagerhat-1",
+        "bn": "বাগেরহাট-১"
+      },
+      "total_voters": 375560
+    },
+    {
+      "code": "96",
+      "name": {
+        "en": "Bagerhat-2",
+        "bn": "বাগেরহাট-২"
+      },
+      "total_voters": 338009
+    },
+    {
+      "code": "97",
+      "name": {
+        "en": "Bagerhat-3",
+        "bn": "বাগেরহাট-৩"
+      },
+      "total_voters": 266864
+    },
+    {
+      "code": "98",
+      "name": {
+        "en": "Bagerhat-4",
+        "bn": "বাগেরহাট-৪"
+      },
+      "total_voters": 380679
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

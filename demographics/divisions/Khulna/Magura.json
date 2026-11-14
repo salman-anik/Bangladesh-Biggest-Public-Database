@@ -1,0 +1,36 @@
+{
+  "division": "Khulna",
+  "district": "Magura",
+  "upazilas_count": 4,
+  "unions_count": 36,
+  "post_offices_count": 8,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 847409,
+    "male": 426814,
+    "female": 420589,
+    "third_gender": 6
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "91",
+      "name": {
+        "en": "Magura-1",
+        "bn": "মাগুড়া-১"
+      },
+      "total_voters": 430775,
+      "male": 215268,
+      "female": 215504
+    },
+    {
+      "seat_no": "92",
+      "name": {
+        "en": "Magura-2",
+        "bn": "মাগুড়া-২"
+      },
+      "total_voters": 416634,
+      "male": 211546,
+      "female": 205085
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "division": "Chattogram",
+  "district": "Rangamati",
+  "total_upazilas": 10,
+  "upazilas": [
+    "Baghaichari",
+    "Barkal",
+    "Belaichari",
+    "Juraichari",
+    "Kaptai",
+    "Kawkhali",
+    "Langadu",
+    "Naniarchar",
+    "Rajasthali",
+    "Rangamati Sadar"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Rangamati"
+  ],
+  "agromet_stations_in_region": [
+    "Rangamati"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Rangamati",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 69,
+        "Mar": 67,
+        "Apr": 72,
+        "May": 78,
+        "Jun": 84,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 84,
+        "Nov": 82,
+        "Dec": 81
+      },
+      "annual_mean_pct": 79.1
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

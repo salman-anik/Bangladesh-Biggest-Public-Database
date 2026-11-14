@@ -1,0 +1,170 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Panchagarh",
+  "district_bn": "পঞ্চগড়",
+  "upazila_id": "399",
+  "upazila": "Panchagarh Sadar",
+  "upazila_bn": "পঞ্চগড় সদর",
+  "uno_portal": "panchagarhsadar.panchagarh.gov.bd",
+  "district_administration": {
+    "district": "Panchagarh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+      "phone": "01713-000059",
+      "email": "dcpanchagarh@mopa.gov.bd",
+      "website": "http://www.panchagarh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Panchagarh",
+      "phone": "01713-373059",
+      "email": "sppanchagarh@police.gov.bd",
+      "control_room": "01713-374059"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Panchagarh",
+      "phone": "01713-555059",
+      "email": "cspanchagarh@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "3648",
+      "name": "Panchagarh Sadar",
+      "bn_name": "পঞ্চগড় সদর",
+      "url": "panchagarhsadarup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3649",
+      "name": "Satmara",
+      "bn_name": "সাতমেরা",
+      "url": "satmaraup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3650",
+      "name": "Amarkhana",
+      "bn_name": "অমরখানা",
+      "url": "amarkhanaup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3651",
+      "name": "Haribhasa",
+      "bn_name": "হাড়িভাসা",
+      "url": "haribhasaup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3652",
+      "name": "Chaklahat",
+      "bn_name": "চাকলাহাট",
+      "url": "chaklahatup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3653",
+      "name": "Hafizabad",
+      "bn_name": "হাফিজাবাদ",
+      "url": "hafizabadup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3654",
+      "name": "Kamat Kajol Dighi",
+      "bn_name": "কামাত কাজল দীঘি",
+      "url": "kamatkajoldighiup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3655",
+      "name": "Dhakkamara",
+      "bn_name": "ধাক্কামারা",
+      "url": "dhakkamaraup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3656",
+      "name": "Magura",
+      "bn_name": "মাগুরা",
+      "url": "maguraup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3657",
+      "name": "Garinabari",
+      "bn_name": "গরিনাবাড়ী",
+      "url": "garinabariup.panchagarh.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "1",
+      "name": {
+        "en": "Panchagarh-1",
+        "bn": "পঞ্চগড়-১"
+      },
+      "total_voters": 463700
+    },
+    {
+      "code": "2",
+      "name": {
+        "en": "Panchagarh-2",
+        "bn": "পঞ্চগড়-২"
+      },
+      "total_voters": 417529
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

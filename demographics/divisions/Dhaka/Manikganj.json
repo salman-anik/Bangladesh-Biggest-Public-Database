@@ -1,0 +1,46 @@
+{
+  "division": "Dhaka",
+  "district": "Manikganj",
+  "upazilas_count": 7,
+  "unions_count": 65,
+  "post_offices_count": 18,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1334623,
+    "male": 668460,
+    "female": 666154,
+    "third_gender": 9
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "168",
+      "name": {
+        "en": "Manikgonj-1",
+        "bn": "মানিকগঞ্জ-১"
+      },
+      "total_voters": 461942,
+      "male": 231857,
+      "female": 230081
+    },
+    {
+      "seat_no": "169",
+      "name": {
+        "en": "Manikgonj-2",
+        "bn": "মানিকগঞ্জ-২"
+      },
+      "total_voters": 472622,
+      "male": 237205,
+      "female": 235413
+    },
+    {
+      "seat_no": "170",
+      "name": {
+        "en": "Manikgonj-3",
+        "bn": "মানিকগঞ্জ-৩"
+      },
+      "total_voters": 400059,
+      "male": 199398,
+      "female": 200660
+    }
+  ]
+}

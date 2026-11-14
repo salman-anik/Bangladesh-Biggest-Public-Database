@@ -1,0 +1,26 @@
+{
+  "station": "Country",
+  "division": "National",
+  "district": "Country Average",
+  "is_agromet_station": false,
+  "humidity_normal": {
+    "station": "Country",
+    "monthly_normal_humidity_pct": {
+      "Jan": 76,
+      "Feb": 72,
+      "Mar": 71,
+      "Apr": 75,
+      "May": 79,
+      "Jun": 85,
+      "Jul": 86,
+      "Aug": 86,
+      "Sep": 85,
+      "Oct": 83,
+      "Nov": 79,
+      "Dec": 77
+    },
+    "annual_mean_pct": 79.5
+  },
+  "temperature_history_years": 0,
+  "temperature_history": []
+}

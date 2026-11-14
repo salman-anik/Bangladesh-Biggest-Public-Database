@@ -1,0 +1,24 @@
+{
+  "division": "Chattogram",
+  "district": "Bandarban",
+  "total_constituencies": 1,
+  "constituencies": [
+    {
+      "id": 4623,
+      "slug": "bandarban",
+      "code": "300",
+      "district_id": 7,
+      "division_id": 2,
+      "name": {
+        "en": "Bandarban",
+        "bn": "বান্দারবান"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bandarban.svg",
+      "total_voters": 315422,
+      "total_male_voters": 161775,
+      "total_female_voters": 153647,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    }
+  ]
+}

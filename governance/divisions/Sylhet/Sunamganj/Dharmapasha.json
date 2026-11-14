@@ -1,0 +1,194 @@
+{
+  "division": "Sylhet",
+  "division_bn": "সিলেট",
+  "district": "Sunamganj",
+  "district_bn": "সুনামগঞ্জ",
+  "upazila_id": "307",
+  "upazila": "Dharmapasha",
+  "upazila_bn": "ধর্মপাশা",
+  "uno_portal": "dharmapasha.sunamganj.gov.bd",
+  "district_administration": {
+    "district": "Sunamganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sunamganj",
+      "phone": "01713-000053",
+      "email": "dcsunamganj@mopa.gov.bd",
+      "website": "http://www.sunamganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sunamganj",
+      "phone": "01713-373053",
+      "email": "spsunamganj@police.gov.bd",
+      "control_room": "01713-374053"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sunamganj",
+      "phone": "01713-555053",
+      "email": "cssunamganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "2744",
+      "name": "Bongshikunda North",
+      "bn_name": "বংশীকুন্ডা উত্তর",
+      "url": "bongshikundanorthup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2745",
+      "name": "Bongshikunda South",
+      "bn_name": "বংশীকুন্ডা দক্ষিণ",
+      "url": "bongshikundasouthup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2746",
+      "name": "Chamordani",
+      "bn_name": "চামরদানী",
+      "url": "chamordaniup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2747",
+      "name": "Madhyanagar",
+      "bn_name": "মধ্যনগর",
+      "url": "madhyanagarup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2748",
+      "name": "Paikurati",
+      "bn_name": "পাইকুরাটী",
+      "url": "paikuratiup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2749",
+      "name": "Selbarash",
+      "bn_name": "সেলবরষ",
+      "url": "selbarashup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2750",
+      "name": "Dharmapasha Sadar",
+      "bn_name": "ধর্মপাশা সদর",
+      "url": "dharmapashasadarup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2751",
+      "name": "Joyasree",
+      "bn_name": "জয়শ্রী",
+      "url": "joyasreeup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2752",
+      "name": "Sukhair Rajapur North",
+      "bn_name": "সুখাইড় রাজাপুর উত্তর",
+      "url": "sukhairrajapurnorthup.sunamganj.gov.bd"
+    },
+    {
+      "id": "2753",
+      "name": "Sukhair Rajapur South",
+      "bn_name": "সুখাইড় রাজাপুর দক্ষিণ",
+      "url": "sukhairrajapursouthup.sunamganj.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "224",
+      "name": {
+        "en": "Sunamgonj-1",
+        "bn": "সুনামগঞ্জ-১"
+      },
+      "total_voters": 501556
+    },
+    {
+      "code": "225",
+      "name": {
+        "en": "Sunamgonj-2",
+        "bn": "সুনামগঞ্জ-২"
+      },
+      "total_voters": 306052
+    },
+    {
+      "code": "226",
+      "name": {
+        "en": "Sunamgonj-3",
+        "bn": "সুনামগঞ্জ-৩"
+      },
+      "total_voters": 373016
+    },
+    {
+      "code": "227",
+      "name": {
+        "en": "Sunamgonj-4",
+        "bn": "সুনামগঞ্জ-৪"
+      },
+      "total_voters": 372185
+    },
+    {
+      "code": "228",
+      "name": {
+        "en": "Sunamgonj-5",
+        "bn": "সুনামগঞ্জ-৫"
+      },
+      "total_voters": 527458
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

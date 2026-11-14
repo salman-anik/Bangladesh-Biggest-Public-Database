@@ -1,0 +1,172 @@
+{
+  "division": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "district": "Sherpur",
+  "district_bn": "শেরপুর",
+  "upazila_id": "460",
+  "upazila": "Nokla",
+  "upazila_bn": "নকলা",
+  "uno_portal": "nokla.sherpur.gov.bd",
+  "district_administration": {
+    "district": "Sherpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sherpur",
+      "phone": "01713-000063",
+      "email": "dcsherpur@mopa.gov.bd",
+      "website": "http://www.sherpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sherpur",
+      "phone": "01713-373063",
+      "email": "spsherpur@police.gov.bd",
+      "control_room": "01713-374063"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sherpur",
+      "phone": "01713-555063",
+      "email": "cssherpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "4225",
+      "name": "Gonopoddi",
+      "bn_name": "গণপদ্দী",
+      "url": "gonopoddiup.sherpur.gov.bd"
+    },
+    {
+      "id": "4226",
+      "name": "Nokla",
+      "bn_name": "নকলা",
+      "url": "noklaup.sherpur.gov.bd"
+    },
+    {
+      "id": "4227",
+      "name": "Urpha",
+      "bn_name": "উরফা",
+      "url": "urphaup.sherpur.gov.bd"
+    },
+    {
+      "id": "4228",
+      "name": "Gourdwar",
+      "bn_name": "গৌড়দ্বার",
+      "url": "gourdwarup.sherpur.gov.bd"
+    },
+    {
+      "id": "4229",
+      "name": "Baneshwardi",
+      "bn_name": "বানেশ্বর্দী",
+      "url": "baneshwardiup.sherpur.gov.bd"
+    },
+    {
+      "id": "4230",
+      "name": "Pathakata",
+      "bn_name": "পাঠাকাটা",
+      "url": "pathakataup.sherpur.gov.bd"
+    },
+    {
+      "id": "4231",
+      "name": "Talki",
+      "bn_name": "টালকী",
+      "url": "talkiup.sherpur.gov.bd"
+    },
+    {
+      "id": "4232",
+      "name": "Choraustadhar",
+      "bn_name": "চরঅষ্টধর",
+      "url": "choraustadharup.sherpur.gov.bd"
+    },
+    {
+      "id": "4233",
+      "name": "Chandrakona",
+      "bn_name": "চন্দ্রকোনা",
+      "url": "chandrakonaup.sherpur.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "143",
+      "name": {
+        "en": "Sherpur-1",
+        "bn": "শেরপুর-১"
+      },
+      "total_voters": 450489
+    },
+    {
+      "code": "144",
+      "name": {
+        "en": "Sherpur-2",
+        "bn": "শেরপুর-২"
+      },
+      "total_voters": 440035
+    },
+    {
+      "code": "145",
+      "name": {
+        "en": "Sherpur-3",
+        "bn": "শেরপুর-৩"
+      },
+      "total_voters": 413377
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

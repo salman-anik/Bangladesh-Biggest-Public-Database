@@ -1,0 +1,227 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Gopalganj",
+  "district_bn": "গোপালগঞ্জ",
+  "upazila_id": "389",
+  "upazila": "Muksudpur",
+  "upazila_bn": "মুকসুদপুর",
+  "uno_portal": "muksudpur.gopalganj.gov.bd",
+  "district_administration": {
+    "district": "Gopalganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gopalganj",
+      "phone": "01713-000012",
+      "email": "dcgopalganj@mopa.gov.bd",
+      "website": "http://www.gopalganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gopalganj",
+      "phone": "01713-373012",
+      "email": "spgopalganj@police.gov.bd",
+      "control_room": "01713-374012"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gopalganj",
+      "phone": "01713-555012",
+      "email": "csgopalganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 16,
+  "unions": [
+    {
+      "id": "3553",
+      "name": "Ujani",
+      "bn_name": "উজানী",
+      "url": "ujaniup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3554",
+      "name": "Nanikhir",
+      "bn_name": "ননীক্ষীর",
+      "url": "nanikhirup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3555",
+      "name": "Dignagar",
+      "bn_name": "দিগনগর",
+      "url": "dignagarup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3556",
+      "name": "Poshargati",
+      "bn_name": "পশারগাতি",
+      "url": "poshargatiup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3557",
+      "name": "Gobindopur",
+      "bn_name": "গোবিন্দপুর",
+      "url": "gobindopurup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3558",
+      "name": "Khandarpara",
+      "bn_name": "খান্দারপাড়া",
+      "url": "khandarparaup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3559",
+      "name": "Bohugram",
+      "bn_name": "বহুগ্রাম",
+      "url": "bohugramup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3560",
+      "name": "Banshbaria",
+      "bn_name": "বাশঁবাড়িয়া",
+      "url": "banshbariaup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3561",
+      "name": "Vabrashur",
+      "bn_name": "ভাবড়াশুর",
+      "url": "vabrashurup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3562",
+      "name": "Moharajpur",
+      "bn_name": "মহারাজপুর",
+      "url": "moharajpurup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3563",
+      "name": "Batikamari",
+      "bn_name": "বাটিকামারী",
+      "url": "batikamariup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3564",
+      "name": "Jalirpar",
+      "bn_name": "জলিরপাড়",
+      "url": "jalirparup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3565",
+      "name": "Raghdi",
+      "bn_name": "রাঘদী",
+      "url": "raghdiup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3566",
+      "name": "Gohala",
+      "bn_name": "গোহালা",
+      "url": "gohalaup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3567",
+      "name": "Mochna",
+      "bn_name": "মোচনা",
+      "url": "mochnaup.gopalganj.gov.bd"
+    },
+    {
+      "id": "3568",
+      "name": "Kashalia",
+      "bn_name": "কাশালিয়া",
+      "url": "kashaliaup.gopalganj.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "8140",
+      "postcode_bn": "৮১৪০",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Gopalganj",
+      "district_bn": "গোপালগঞ্জ",
+      "thana_upazila": "Muksudpur",
+      "thana_upazila_bn": "মাকসুদপুর",
+      "sub_office": "Muksudpur",
+      "sub_office_bn": "মাকসুদপুর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "215",
+      "name": {
+        "en": "Gopalgonj-1",
+        "bn": "গোপালগঞ্জ-১"
+      },
+      "total_voters": 399510
+    },
+    {
+      "code": "216",
+      "name": {
+        "en": "Gopalgonj-2",
+        "bn": "গোপালগঞ্জ-২"
+      },
+      "total_voters": 384326
+    },
+    {
+      "code": "217",
+      "name": {
+        "en": "Gopalgonj-3",
+        "bn": "গোপালগঞ্জ-৩"
+      },
+      "total_voters": 308784
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

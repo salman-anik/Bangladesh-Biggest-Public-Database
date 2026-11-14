@@ -1,0 +1,223 @@
+{
+  "division": "Sylhet",
+  "division_bn": "সিলেট",
+  "district": "Habiganj",
+  "district_bn": "হবিগঞ্জ",
+  "upazila_id": "297",
+  "upazila": "Chunarughat",
+  "upazila_bn": "চুনারুঘাট",
+  "uno_portal": "chunarughat.habiganj.gov.bd",
+  "district_administration": {
+    "district": "Habiganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Habiganj",
+      "phone": "01713-000052",
+      "email": "dchabiganj@mopa.gov.bd",
+      "website": "http://www.habiganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Habiganj",
+      "phone": "01713-373052",
+      "email": "sphabiganj@police.gov.bd",
+      "control_room": "01713-374052"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Habiganj",
+      "phone": "01713-555052",
+      "email": "cshabiganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "2654",
+      "name": "Gazipur",
+      "bn_name": "গাজীপুর",
+      "url": "gazipurup.habiganj.gov.bd"
+    },
+    {
+      "id": "2655",
+      "name": "Ahammadabad",
+      "bn_name": "আহম্মদাবাদ",
+      "url": "ahammadabadup.habiganj.gov.bd"
+    },
+    {
+      "id": "2656",
+      "name": "Deorgach",
+      "bn_name": "দেওরগাছ",
+      "url": "deorgachup.habiganj.gov.bd"
+    },
+    {
+      "id": "2657",
+      "name": "Paikpara",
+      "bn_name": "পাইকপাড়া",
+      "url": "paikparaup.habiganj.gov.bd"
+    },
+    {
+      "id": "2658",
+      "name": "Shankhala",
+      "bn_name": "শানখলা",
+      "url": "shankhalaup.habiganj.gov.bd"
+    },
+    {
+      "id": "2659",
+      "name": "Chunarughat",
+      "bn_name": "চুনারুঘাট",
+      "url": "chunarughatup.habiganj.gov.bd"
+    },
+    {
+      "id": "2660",
+      "name": "Ubahata",
+      "bn_name": "উবাহাটা",
+      "url": "ubahataup.habiganj.gov.bd"
+    },
+    {
+      "id": "2661",
+      "name": "Shatiajuri",
+      "bn_name": "সাটিয়াজুরী",
+      "url": "shatiajuriup.habiganj.gov.bd"
+    },
+    {
+      "id": "2662",
+      "name": "Ranigaon",
+      "bn_name": "রাণীগাঁও",
+      "url": "ranigaonup.habiganj.gov.bd"
+    },
+    {
+      "id": "2663",
+      "name": "Mirashi",
+      "bn_name": "মিরাশী",
+      "url": "mirashiup.habiganj.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "3321",
+      "postcode_bn": "৩৩২১",
+      "division": "Sylhet",
+      "division_bn": "চট্টগ্রাম",
+      "district": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "thana_upazila": "Chunarughat",
+      "thana_upazila_bn": "চুনারুঘাট",
+      "sub_office": "Chandpurbagan",
+      "sub_office_bn": "চাঁদপুরবাগান"
+    },
+    {
+      "postcode": "3320",
+      "postcode_bn": "৩৩২০",
+      "division": "Sylhet",
+      "division_bn": "চট্টগ্রাম",
+      "district": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "thana_upazila": "Chunarughat",
+      "thana_upazila_bn": "চুনারুঘাট",
+      "sub_office": "Chunarughat",
+      "sub_office_bn": "চুনারুঘাট"
+    },
+    {
+      "postcode": "3322",
+      "postcode_bn": "৩৩২২",
+      "division": "Sylhet",
+      "division_bn": "চট্টগ্রাম",
+      "district": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "thana_upazila": "Chunarughat",
+      "thana_upazila_bn": "চুনারুঘাট",
+      "sub_office": "Narapati",
+      "sub_office_bn": "নরপাটি"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "239",
+      "name": {
+        "en": "Hobigonj-1",
+        "bn": "হবিগঞ্জ-১"
+      },
+      "total_voters": 466921
+    },
+    {
+      "code": "240",
+      "name": {
+        "en": "Hobigonj-2",
+        "bn": "হবিগঞ্জ-২"
+      },
+      "total_voters": 394756
+    },
+    {
+      "code": "241",
+      "name": {
+        "en": "Hobigonj-3",
+        "bn": "হবিগঞ্জ-৩"
+      },
+      "total_voters": 419573
+    },
+    {
+      "code": "242",
+      "name": {
+        "en": "Hobigonj-4",
+        "bn": "হবিগঞ্জ-৪"
+      },
+      "total_voters": 552711
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

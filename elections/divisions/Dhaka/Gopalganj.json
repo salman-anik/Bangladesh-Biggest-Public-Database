@@ -1,0 +1,58 @@
+{
+  "division": "Dhaka",
+  "district": "Gopalganj",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4723,
+      "slug": "gopalgonj-1",
+      "code": "215",
+      "district_id": 56,
+      "division_id": 3,
+      "name": {
+        "en": "Gopalgonj-1",
+        "bn": "গোপালগঞ্জ-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gopalgonj-1.svg",
+      "total_voters": 399510,
+      "total_male_voters": 202816,
+      "total_female_voters": 196694,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4724,
+      "slug": "gopalgonj-2",
+      "code": "216",
+      "district_id": 56,
+      "division_id": 3,
+      "name": {
+        "en": "Gopalgonj-2",
+        "bn": "গোপালগঞ্জ-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gopalgonj-2.svg",
+      "total_voters": 384326,
+      "total_male_voters": 194060,
+      "total_female_voters": 190262,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4725,
+      "slug": "gopalgonj-3",
+      "code": "217",
+      "district_id": 56,
+      "division_id": 3,
+      "name": {
+        "en": "Gopalgonj-3",
+        "bn": "গোপালগঞ্জ-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gopalgonj-3.svg",
+      "total_voters": 308784,
+      "total_male_voters": 158403,
+      "total_female_voters": 150380,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    }
+  ]
+}

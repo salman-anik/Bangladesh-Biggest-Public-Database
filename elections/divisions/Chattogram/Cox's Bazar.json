@@ -1,0 +1,75 @@
+{
+  "division": "Chattogram",
+  "district": "Cox's Bazar",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4640,
+      "slug": "coxs-bazar-1",
+      "code": "294",
+      "district_id": 9,
+      "division_id": 2,
+      "name": {
+        "en": "Coxs Bazar-1",
+        "bn": "কক্সবাজার-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/CoxsBazar-1.svg",
+      "total_voters": 540490,
+      "total_male_voters": 290291,
+      "total_female_voters": 250198,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4641,
+      "slug": "coxs-bazar-2",
+      "code": "295",
+      "district_id": 9,
+      "division_id": 2,
+      "name": {
+        "en": "Coxs Bazar-2",
+        "bn": "কক্সবাজার-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/CoxsBazar-2.svg",
+      "total_voters": 387851,
+      "total_male_voters": 206453,
+      "total_female_voters": 181398,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4642,
+      "slug": "coxs-bazar-3",
+      "code": "296",
+      "district_id": 9,
+      "division_id": 2,
+      "name": {
+        "en": "Coxs Bazar-3",
+        "bn": "কক্সবাজার-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/CoxsBazar-3.svg",
+      "total_voters": 545963,
+      "total_male_voters": 291099,
+      "total_female_voters": 254863,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4643,
+      "slug": "coxs-bazar-4",
+      "code": "297",
+      "district_id": 9,
+      "division_id": 2,
+      "name": {
+        "en": "Coxs Bazar-4",
+        "bn": "কক্সবাজার-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/CoxsBazar-4.svg",
+      "total_voters": 375688,
+      "total_male_voters": 192803,
+      "total_female_voters": 182879,
+      "total_third_gender_voters": 6,
+      "last_demographic_update": null
+    }
+  ]
+}

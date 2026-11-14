@@ -1,0 +1,41 @@
+{
+  "division": "Khulna",
+  "district": "Chuadanga",
+  "total_constituencies": 2,
+  "constituencies": [
+    {
+      "id": 4758,
+      "slug": "chaudanga-1",
+      "code": "79",
+      "district_id": 36,
+      "division_id": 4,
+      "name": {
+        "en": "Chaudanga-1",
+        "bn": "চুয়াডাঙ্গা-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Chaudanga-1.svg",
+      "total_voters": 511657,
+      "total_male_voters": 254385,
+      "total_female_voters": 257265,
+      "total_third_gender_voters": 7,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4759,
+      "slug": "chaudanga-2",
+      "code": "80",
+      "district_id": 36,
+      "division_id": 4,
+      "name": {
+        "en": "Chaudanga-2",
+        "bn": "চুয়াডাঙ্গা-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Chaudanga-2.svg",
+      "total_voters": 492431,
+      "total_male_voters": 246716,
+      "total_female_voters": 245711,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    }
+  ]
+}

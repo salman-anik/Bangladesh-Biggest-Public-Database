@@ -1,0 +1,56 @@
+{
+  "division": "Khulna",
+  "district": "Bagerhat",
+  "upazilas_count": 9,
+  "unions_count": 75,
+  "post_offices_count": 26,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1361112,
+    "male": 682739,
+    "female": 678359,
+    "third_gender": 14
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "95",
+      "name": {
+        "en": "Bagerhat-1",
+        "bn": "বাগেরহাট-১"
+      },
+      "total_voters": 375560,
+      "male": 190838,
+      "female": 184720
+    },
+    {
+      "seat_no": "96",
+      "name": {
+        "en": "Bagerhat-2",
+        "bn": "বাগেরহাট-২"
+      },
+      "total_voters": 338009,
+      "male": 167739,
+      "female": 170265
+    },
+    {
+      "seat_no": "97",
+      "name": {
+        "en": "Bagerhat-3",
+        "bn": "বাগেরহাট-৩"
+      },
+      "total_voters": 266864,
+      "male": 132350,
+      "female": 134510
+    },
+    {
+      "seat_no": "98",
+      "name": {
+        "en": "Bagerhat-4",
+        "bn": "বাগেরহাট-৪"
+      },
+      "total_voters": 380679,
+      "male": 191812,
+      "female": 188864
+    }
+  ]
+}

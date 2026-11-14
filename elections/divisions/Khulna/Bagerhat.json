@@ -1,0 +1,75 @@
+{
+  "division": "Khulna",
+  "district": "Bagerhat",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4774,
+      "slug": "bagerhat-1",
+      "code": "95",
+      "district_id": 41,
+      "division_id": 4,
+      "name": {
+        "en": "Bagerhat-1",
+        "bn": "বাগেরহাট-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bagerhat-1.svg",
+      "total_voters": 375560,
+      "total_male_voters": 190838,
+      "total_female_voters": 184720,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4775,
+      "slug": "bagerhat-2",
+      "code": "96",
+      "district_id": 41,
+      "division_id": 4,
+      "name": {
+        "en": "Bagerhat-2",
+        "bn": "বাগেরহাট-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bagerhat-2.svg",
+      "total_voters": 338009,
+      "total_male_voters": 167739,
+      "total_female_voters": 170265,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4776,
+      "slug": "bagerhat-3",
+      "code": "97",
+      "district_id": 41,
+      "division_id": 4,
+      "name": {
+        "en": "Bagerhat-3",
+        "bn": "বাগেরহাট-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bagerhat-3.svg",
+      "total_voters": 266864,
+      "total_male_voters": 132350,
+      "total_female_voters": 134510,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 5233,
+      "slug": "bagerhat-4",
+      "code": "98",
+      "district_id": 41,
+      "division_id": 4,
+      "name": {
+        "en": "Bagerhat-4",
+        "bn": "বাগেরহাট-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Bagerhat-4.svg",
+      "total_voters": 380679,
+      "total_male_voters": 191812,
+      "total_female_voters": 188864,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "division": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "district": "Netrokona",
+  "district_bn": "নেত্রকোণা",
+  "upazila_id": "484",
+  "upazila": "Kendua",
+  "upazila_bn": "কেন্দুয়া",
+  "uno_portal": "kendua.netrokona.gov.bd",
+  "district_administration": {},
+  "total_unions": 13,
+  "unions": [
+    {
+      "id": "4469",
+      "name": "Asujia",
+      "bn_name": "আশুজিয়া",
+      "url": "asujiaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4470",
+      "name": "Dalpa",
+      "bn_name": "দলপা",
+      "url": "dalpaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4471",
+      "name": "Goraduba",
+      "bn_name": "গড়াডোবা",
+      "url": "goradubaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4472",
+      "name": "Gonda",
+      "bn_name": "গণ্ডা",
+      "url": "gondaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4473",
+      "name": "Sandikona",
+      "bn_name": "সান্দিকোনা",
+      "url": "sandikonaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4474",
+      "name": "Maska",
+      "bn_name": "মাসকা",
+      "url": "maskaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4475",
+      "name": "Bolaishimul",
+      "bn_name": "বলাইশিমুল",
+      "url": "bolaishimulup.netrokona.gov.bd"
+    },
+    {
+      "id": "4476",
+      "name": "Noapara",
+      "bn_name": "নওপাড়া",
+      "url": "noaparaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4477",
+      "name": "Kandiura",
+      "bn_name": "কান্দিউড়া",
+      "url": "kandiuraup.netrokona.gov.bd"
+    },
+    {
+      "id": "4478",
+      "name": "Chirang",
+      "bn_name": "চিরাং",
+      "url": "chirangup.netrokona.gov.bd"
+    },
+    {
+      "id": "4479",
+      "name": "Roailbari Amtala",
+      "bn_name": "রোয়াইলবাড়ী আমতলা",
+      "url": "roailbariamtalaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4480",
+      "name": "Paikura",
+      "bn_name": "পাইকুড়া",
+      "url": "paikuraup.netrokona.gov.bd"
+    },
+    {
+      "id": "4481",
+      "name": "Muzafarpur",
+      "bn_name": "মোজাফরপুর",
+      "url": "muzafarpurup.netrokona.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "157",
+      "name": {
+        "en": "Netrokona-1",
+        "bn": "নেত্রকোণা-১"
+      },
+      "total_voters": 433023
+    },
+    {
+      "code": "158",
+      "name": {
+        "en": "Netrokona-2",
+        "bn": "নেত্রকোণা-২"
+      },
+      "total_voters": 502438
+    },
+    {
+      "code": "159",
+      "name": {
+        "en": "Netrokona-3",
+        "bn": "নেত্রকোণা-৩"
+      },
+      "total_voters": 420686
+    },
+    {
+      "code": "160",
+      "name": {
+        "en": "Netrokona-4",
+        "bn": "নেত্রকোণা-৪"
+      },
+      "total_voters": 375308
+    },
+    {
+      "code": "161",
+      "name": {
+        "en": "Netrokona-5",
+        "bn": "নেত্রকোণা-৫"
+      },
+      "total_voters": 290117
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

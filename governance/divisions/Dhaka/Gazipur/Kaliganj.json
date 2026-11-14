@@ -1,0 +1,225 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Gazipur",
+  "district_bn": "গাজীপুর",
+  "upazila_id": "317",
+  "upazila": "Kaliganj",
+  "upazila_bn": "কালীগঞ্জ",
+  "uno_portal": "kaliganj.gazipur.gov.bd",
+  "district_administration": {
+    "district": "Gazipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gazipur",
+      "phone": "01713-000008",
+      "email": "dcgazipur@mopa.gov.bd",
+      "website": "http://www.gazipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gazipur",
+      "phone": "01713-373008",
+      "email": "spgazipur@police.gov.bd",
+      "control_room": "01713-374008"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gazipur",
+      "phone": "01713-555008",
+      "email": "csgazipur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "2842",
+      "name": "Bahadursadi",
+      "bn_name": "বাহাদুরশাদী",
+      "url": "bahadursadi.gazipur.gov.bd"
+    },
+    {
+      "id": "2843",
+      "name": "Baktarpur",
+      "bn_name": "বক্তারপুর",
+      "url": "baktarpur.gazipur.gov.bd"
+    },
+    {
+      "id": "2844",
+      "name": "Jamalpurnew",
+      "bn_name": "জামালপুর",
+      "url": "jamalpurnew.gazipur.gov.bd"
+    },
+    {
+      "id": "2845",
+      "name": "Jangalia",
+      "bn_name": "জাঙ্গালিয়া",
+      "url": "jangalia.gazipur.gov.bd"
+    },
+    {
+      "id": "2846",
+      "name": "Moktarpur",
+      "bn_name": "মোক্তারপুর",
+      "url": "moktarpur.gazipur.gov.bd"
+    },
+    {
+      "id": "2847",
+      "name": "Nagari",
+      "bn_name": "নাগরী",
+      "url": "nagari.gazipur.gov.bd"
+    },
+    {
+      "id": "2848",
+      "name": "Tumulia",
+      "bn_name": "তুমুলিয়া",
+      "url": "tumulia.gazipur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "1720",
+      "postcode_bn": "১৭২০",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "thana_upazila": "Kaliganj",
+      "thana_upazila_bn": "কালীগঞ্জ",
+      "sub_office": "Kaliganj",
+      "sub_office_bn": "কালীগঞ্জ"
+    },
+    {
+      "postcode": "1721",
+      "postcode_bn": "১৭২১",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "thana_upazila": "Kaliganj",
+      "thana_upazila_bn": "কালীগঞ্জ",
+      "sub_office": "Pubail",
+      "sub_office_bn": "পুবাইল"
+    },
+    {
+      "postcode": "1722",
+      "postcode_bn": "১৭২২",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "thana_upazila": "Kaliganj",
+      "thana_upazila_bn": "কালীগঞ্জ",
+      "sub_office": "Santanpara",
+      "sub_office_bn": "সান্তানপাড়া"
+    },
+    {
+      "postcode": "1723",
+      "postcode_bn": "১৭২৩",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Gazipur",
+      "district_bn": "গাজীপুর",
+      "thana_upazila": "Kaliganj",
+      "thana_upazila_bn": "কালীগঞ্জ",
+      "sub_office": "Vaoal Jamalpur",
+      "sub_office_bn": "ভাওয়াল জামালপুর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "194",
+      "name": {
+        "en": "Gazipur-1",
+        "bn": "গাজীপুর-১"
+      },
+      "total_voters": 720939
+    },
+    {
+      "code": "195",
+      "name": {
+        "en": "Gazipur-2",
+        "bn": "গাজীপুর-২"
+      },
+      "total_voters": 804333
+    },
+    {
+      "code": "196",
+      "name": {
+        "en": "Gazipur-3",
+        "bn": "গাজীপুর-৩"
+      },
+      "total_voters": 527360
+    },
+    {
+      "code": "197",
+      "name": {
+        "en": "Gazipur-4",
+        "bn": "গাজীপুর-৪"
+      },
+      "total_voters": 330977
+    },
+    {
+      "code": "198",
+      "name": {
+        "en": "Gazipur-5",
+        "bn": "গাজীপুর-৫"
+      },
+      "total_voters": 312930
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

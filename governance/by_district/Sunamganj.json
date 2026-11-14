@@ -1,0 +1,212 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "district_administration": {
+    "district": "Sunamganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sunamganj",
+      "phone": "01713-000053",
+      "email": "dcsunamganj@mopa.gov.bd",
+      "website": "http://www.sunamganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sunamganj",
+      "phone": "01713-373053",
+      "email": "spsunamganj@police.gov.bd",
+      "control_room": "01713-374053"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sunamganj",
+      "phone": "01713-555053",
+      "email": "cssunamganj@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 12,
+  "upazilas": [
+    {
+      "upazila": "Bishwambarpur",
+      "upazila_bn": "বিশ্বম্ভরপুর",
+      "uno_portal": "bishwambarpur.sunamganj.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Sylhet/Sunamganj/Bishwambarpur.json"
+    },
+    {
+      "upazila": "Chhatak",
+      "upazila_bn": "ছাতক",
+      "uno_portal": "chhatak.sunamganj.gov.bd",
+      "total_unions": 13,
+      "file": "divisions/Sylhet/Sunamganj/Chhatak.json"
+    },
+    {
+      "upazila": "Derai",
+      "upazila_bn": "দিরাই",
+      "uno_portal": "derai.sunamganj.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Sylhet/Sunamganj/Derai.json"
+    },
+    {
+      "upazila": "Dharmapasha",
+      "upazila_bn": "ধর্মপাশা",
+      "uno_portal": "dharmapasha.sunamganj.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Sylhet/Sunamganj/Dharmapasha.json"
+    },
+    {
+      "upazila": "Dowarabazar",
+      "upazila_bn": "দোয়ারাবাজার",
+      "uno_portal": "dowarabazar.sunamganj.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Sylhet/Sunamganj/Dowarabazar.json"
+    },
+    {
+      "upazila": "Jagannathpur",
+      "upazila_bn": "জগন্নাথপুর",
+      "uno_portal": "jagannathpur.sunamganj.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Sylhet/Sunamganj/Jagannathpur.json"
+    },
+    {
+      "upazila": "Jamalganj",
+      "upazila_bn": "জামালগঞ্জ",
+      "uno_portal": "jamalganj.sunamganj.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Sylhet/Sunamganj/Jamalganj.json"
+    },
+    {
+      "upazila": "Madhyanagar",
+      "upazila_bn": "মধ্যনগর",
+      "uno_portal": "null",
+      "total_unions": 0,
+      "file": "divisions/Sylhet/Sunamganj/Madhyanagar.json"
+    },
+    {
+      "upazila": "Shalla",
+      "upazila_bn": "শাল্লা",
+      "uno_portal": "shalla.sunamganj.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Sylhet/Sunamganj/Shalla.json"
+    },
+    {
+      "upazila": "South Sunamganj",
+      "upazila_bn": "দক্ষিণ সুনামগঞ্জ",
+      "uno_portal": "southsunamganj.sunamganj.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Sylhet/Sunamganj/South Sunamganj.json"
+    },
+    {
+      "upazila": "Sunamganj Sadar",
+      "upazila_bn": "সুনামগঞ্জ সদর",
+      "uno_portal": "sadar.sunamganj.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Sylhet/Sunamganj/Sunamganj Sadar.json"
+    },
+    {
+      "upazila": "Tahirpur",
+      "upazila_bn": "তাহিরপুর",
+      "uno_portal": "tahirpur.sunamganj.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Sylhet/Sunamganj/Tahirpur.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "224",
+      "name": {
+        "en": "Sunamgonj-1",
+        "bn": "সুনামগঞ্জ-১"
+      },
+      "total_voters": 501556
+    },
+    {
+      "code": "225",
+      "name": {
+        "en": "Sunamgonj-2",
+        "bn": "সুনামগঞ্জ-২"
+      },
+      "total_voters": 306052
+    },
+    {
+      "code": "226",
+      "name": {
+        "en": "Sunamgonj-3",
+        "bn": "সুনামগঞ্জ-৩"
+      },
+      "total_voters": 373016
+    },
+    {
+      "code": "227",
+      "name": {
+        "en": "Sunamgonj-4",
+        "bn": "সুনামগঞ্জ-৪"
+      },
+      "total_voters": 372185
+    },
+    {
+      "code": "228",
+      "name": {
+        "en": "Sunamgonj-5",
+        "bn": "সুনামগঞ্জ-৫"
+      },
+      "total_voters": 527458
+    }
+  ],
+  "total_postal_offices": 26,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

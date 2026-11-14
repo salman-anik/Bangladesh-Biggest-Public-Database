@@ -1,0 +1,41 @@
+{
+  "division": "Khulna",
+  "district": "Narail",
+  "total_constituencies": 2,
+  "constituencies": [
+    {
+      "id": 4772,
+      "slug": "narail-1",
+      "code": "93",
+      "district_id": 40,
+      "division_id": 4,
+      "name": {
+        "en": "Narail-1",
+        "bn": "নড়াইল-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Narail-1.svg",
+      "total_voters": 294155,
+      "total_male_voters": 148505,
+      "total_female_voters": 145648,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4773,
+      "slug": "narail-2",
+      "code": "94",
+      "district_id": 40,
+      "division_id": 4,
+      "name": {
+        "en": "Narail-2",
+        "bn": "নড়াইল-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Narail-2.svg",
+      "total_voters": 390988,
+      "total_male_voters": 194245,
+      "total_female_voters": 196739,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    }
+  ]
+}

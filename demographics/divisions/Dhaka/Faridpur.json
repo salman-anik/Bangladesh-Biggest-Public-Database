@@ -1,0 +1,56 @@
+{
+  "division": "Dhaka",
+  "district": "Faridpur",
+  "upazilas_count": 9,
+  "unions_count": 79,
+  "post_offices_count": 17,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1771915,
+    "male": 902916,
+    "female": 868991,
+    "third_gender": 8
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "211",
+      "name": {
+        "en": "Faridpur-1",
+        "bn": "ফরিদপুর-১"
+      },
+      "total_voters": 510540,
+      "male": 259335,
+      "female": 251204
+    },
+    {
+      "seat_no": "212",
+      "name": {
+        "en": "Faridpur-2",
+        "bn": "ফরিদপুর-২"
+      },
+      "total_voters": 332041,
+      "male": 172904,
+      "female": 159137
+    },
+    {
+      "seat_no": "213",
+      "name": {
+        "en": "Faridpur-3",
+        "bn": "ফরিদপুর-৩"
+      },
+      "total_voters": 432628,
+      "male": 216022,
+      "female": 216600
+    },
+    {
+      "seat_no": "214",
+      "name": {
+        "en": "Faridpur-4",
+        "bn": "ফরিদপুর-৪"
+      },
+      "total_voters": 496706,
+      "male": 254655,
+      "female": 242050
+    }
+  ]
+}

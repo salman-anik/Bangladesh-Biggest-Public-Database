@@ -1,0 +1,181 @@
+{
+  "division": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "district": "Netrokona",
+  "district_bn": "নেত্রকোণা",
+  "upazila_id": "490",
+  "upazila": "Purbadhala",
+  "upazila_bn": "পূর্বধলা",
+  "uno_portal": "purbadhala.netrokona.gov.bd",
+  "district_administration": {},
+  "total_unions": 11,
+  "unions": [
+    {
+      "id": "4518",
+      "name": "Khalishaur",
+      "bn_name": "খলিশাউড়",
+      "url": "khalishaurup.netrokona.gov.bd"
+    },
+    {
+      "id": "4519",
+      "name": "Ghagra",
+      "bn_name": "ঘাগড়া",
+      "url": "ghagraup.netrokona.gov.bd"
+    },
+    {
+      "id": "4520",
+      "name": "Jaria",
+      "bn_name": "জারিয়া",
+      "url": "jariaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4521",
+      "name": "Narandia",
+      "bn_name": "নারান্দিয়া",
+      "url": "narandiaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4522",
+      "name": "Bishkakuni",
+      "bn_name": "বিশকাকুনী",
+      "url": "bishkakuniup.netrokona.gov.bd"
+    },
+    {
+      "id": "4523",
+      "name": "Bairaty",
+      "bn_name": "বৈরাটী",
+      "url": "bairaty.netrokona.gov.bd"
+    },
+    {
+      "id": "4524",
+      "name": "Hogla",
+      "bn_name": "হোগলা",
+      "url": "hoglaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4525",
+      "name": "Gohalakanda",
+      "bn_name": "গোহালাকান্দা",
+      "url": "gohalakandaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4526",
+      "name": "Dhalamulgaon",
+      "bn_name": "ধলামুলগাঁও",
+      "url": "dhalamulgaonup.netrokona.gov.bd"
+    },
+    {
+      "id": "4527",
+      "name": "Agia",
+      "bn_name": "আগিয়া",
+      "url": "agia.netrokona.gov.bd"
+    },
+    {
+      "id": "4528",
+      "name": "Purbadhala",
+      "bn_name": "পূর্বধলা",
+      "url": "purbadhalaup.netrokona.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "157",
+      "name": {
+        "en": "Netrokona-1",
+        "bn": "নেত্রকোণা-১"
+      },
+      "total_voters": 433023
+    },
+    {
+      "code": "158",
+      "name": {
+        "en": "Netrokona-2",
+        "bn": "নেত্রকোণা-২"
+      },
+      "total_voters": 502438
+    },
+    {
+      "code": "159",
+      "name": {
+        "en": "Netrokona-3",
+        "bn": "নেত্রকোণা-৩"
+      },
+      "total_voters": 420686
+    },
+    {
+      "code": "160",
+      "name": {
+        "en": "Netrokona-4",
+        "bn": "নেত্রকোণা-৪"
+      },
+      "total_voters": 375308
+    },
+    {
+      "code": "161",
+      "name": {
+        "en": "Netrokona-5",
+        "bn": "নেত্রকোণা-৫"
+      },
+      "total_voters": 290117
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

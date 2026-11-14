@@ -1,0 +1,110 @@
+{
+  "division": "Barishal",
+  "division_bn": "বরিশাল",
+  "district": "Jhalakathi",
+  "district_bn": "ঝালকাঠি",
+  "upazila_id": "233",
+  "upazila": "Rajapur",
+  "upazila_bn": "রাজাপুর",
+  "uno_portal": "rajapur.jhalakathi.gov.bd",
+  "district_administration": {},
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "2113",
+      "name": "Suktagarh",
+      "bn_name": "শুক্তাগড়",
+      "url": "suktagarhup.jhalakathi.gov.bd"
+    },
+    {
+      "id": "2114",
+      "name": "Saturia",
+      "bn_name": "সাতুরিয়া",
+      "url": "saturiaup.jhalakathi.gov.bd"
+    },
+    {
+      "id": "2115",
+      "name": "Mathbari",
+      "bn_name": "মঠবাড়ী",
+      "url": "mathbariup.jhalakathi.gov.bd"
+    },
+    {
+      "id": "2116",
+      "name": "Galua",
+      "bn_name": "গালুয়া",
+      "url": "galuaup.jhalakathi.gov.bd"
+    },
+    {
+      "id": "2117",
+      "name": "Baraia",
+      "bn_name": "বড়ইয়া",
+      "url": "baraiaup.jhalakathi.gov.bd"
+    },
+    {
+      "id": "2118",
+      "name": "Rajapur",
+      "bn_name": "রাজাপুর",
+      "url": "rajapurup.jhalakathi.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 @echo off
 chcp 65001 > nul
-title Mouza Maps Zero-Disk Google Drive Sync
+title Mouza Maps Continuous Zero-Disk Google Drive Sync
 cd /d "%~dp0"
 echo ============================================================================
-echo   Bangladesh Mouza Maps Zero-Disk Google Drive Sync + GitHub Link Updater
+echo   Bangladesh Mouza Maps Continuous Zero-Disk Google Drive Sync + GitHub Push
 echo ============================================================================
-python sync_gdrive_maps.py --workers 3 --limit-gb 700 --refresh-github
+python sync_gdrive_maps.py --workers 3 --limit-gb 0 --continuous --refresh-github --auto-push-github
 echo.
-echo Finished batch. Run git add/commit/push in repo root to publish updated links.
+echo Finished continuous sync.
 pause

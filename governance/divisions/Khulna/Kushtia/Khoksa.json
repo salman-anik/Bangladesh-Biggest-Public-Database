@@ -1,0 +1,180 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Kushtia",
+  "district_bn": "কুষ্টিয়া",
+  "upazila_id": "198",
+  "upazila": "Khoksa",
+  "upazila_bn": "খোকসা",
+  "uno_portal": "khoksa.kushtia.gov.bd",
+  "district_administration": {
+    "district": "Kushtia",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kushtia",
+      "phone": "01713-000038",
+      "email": "dckushtia@mopa.gov.bd",
+      "website": "http://www.kushtia.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kushtia",
+      "phone": "01713-373038",
+      "email": "spkushtia@police.gov.bd",
+      "control_room": "01713-374038"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kushtia",
+      "phone": "01713-555038",
+      "email": "cskushtia@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "1799",
+      "name": "Khoksa",
+      "bn_name": "খোকসা",
+      "url": "1nokhoksaup.kushtia.gov.bd"
+    },
+    {
+      "id": "1800",
+      "name": "Osmanpur",
+      "bn_name": "ওসমানপুর",
+      "url": "2noosmanpurup.kushtia.gov.bd"
+    },
+    {
+      "id": "1801",
+      "name": "Janipur",
+      "bn_name": "জানিপুর",
+      "url": "4nojanipurup.kushtia.gov.bd"
+    },
+    {
+      "id": "1802",
+      "name": "Shimulia",
+      "bn_name": "শিমুলিয়া",
+      "url": "5noshimuliaup.kushtia.gov.bd"
+    },
+    {
+      "id": "1803",
+      "name": "Joyntihazra",
+      "bn_name": "জয়ন্তীহাজরা",
+      "url": "8nojoyntihazraup.kushtia.gov.bd"
+    },
+    {
+      "id": "1804",
+      "name": "Ambaria",
+      "bn_name": "আমবাড়ীয়া",
+      "url": "9noambariaup.kushtia.gov.bd"
+    },
+    {
+      "id": "1805",
+      "name": "Bethbaria",
+      "bn_name": "বেতবাড়ীয়া",
+      "url": "3nobethbariaup.kushtia.gov.bd"
+    },
+    {
+      "id": "1806",
+      "name": "Shomospur",
+      "bn_name": "শোমসপুর",
+      "url": "6noshomospurup.kushtia.gov.bd"
+    },
+    {
+      "id": "1807",
+      "name": "Gopgram",
+      "bn_name": "গোপগ্রাম",
+      "url": "gopgram7up.kushtia.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "75",
+      "name": {
+        "en": "Kushtia-1",
+        "bn": "কুষ্টিয়া-১"
+      },
+      "total_voters": 404504
+    },
+    {
+      "code": "76",
+      "name": {
+        "en": "Kustia-2",
+        "bn": "কুষ্টিয়া-২"
+      },
+      "total_voters": 523454
+    },
+    {
+      "code": "77",
+      "name": {
+        "en": "Kustia-3",
+        "bn": "কুষ্টিয়া-৩"
+      },
+      "total_voters": 440842
+    },
+    {
+      "code": "78",
+      "name": {
+        "en": "Kustia-4",
+        "bn": "কুষ্টিয়া-৪"
+      },
+      "total_voters": 424417
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

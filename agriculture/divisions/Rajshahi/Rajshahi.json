@@ -1,0 +1,56 @@
+{
+  "division": "Rajshahi",
+  "district": "Rajshahi",
+  "total_upazilas": 9,
+  "upazilas": [
+    "Bagha",
+    "Bagmara",
+    "Charghat",
+    "Durgapur",
+    "Godagari",
+    "Mohonpur",
+    "Paba",
+    "Puthia",
+    "Tanore"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Rajshahi"
+  ],
+  "agromet_stations_in_region": [
+    "Rajshahi"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Rajshahi",
+      "monthly_normal_humidity_pct": {
+        "Jan": 78,
+        "Feb": 71,
+        "Mar": 63,
+        "Apr": 65,
+        "May": 75,
+        "Jun": 83,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 83,
+        "Nov": 78,
+        "Dec": 78
+      },
+      "annual_mean_pct": 77.8
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

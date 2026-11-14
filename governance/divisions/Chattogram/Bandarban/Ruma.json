@@ -1,0 +1,139 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Bandarban",
+  "district_bn": "বান্দরবান",
+  "upazila_id": "102",
+  "upazila": "Ruma",
+  "upazila_bn": "রুমা",
+  "uno_portal": "ruma.bandarban.gov.bd",
+  "district_administration": {
+    "district": "Bandarban",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bandarban",
+      "phone": "01713-000029",
+      "email": "dcbandarban@mopa.gov.bd",
+      "website": "http://www.bandarban.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bandarban",
+      "phone": "01713-373029",
+      "email": "spbandarban@police.gov.bd",
+      "control_room": "01713-374029"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bandarban",
+      "phone": "01713-555029",
+      "email": "csbandarban@dghs.gov.bd"
+    }
+  },
+  "total_unions": 4,
+  "unions": [
+    {
+      "id": "943",
+      "name": "Paind",
+      "bn_name": "পাইন্দু",
+      "url": "painduup.bandarban.gov.bd"
+    },
+    {
+      "id": "944",
+      "name": "Ruma Sadar",
+      "bn_name": "রুমা সদর",
+      "url": "rumasadarup.bandarban.gov.bd"
+    },
+    {
+      "id": "945",
+      "name": "Ramakreprangsa",
+      "bn_name": "রেমাক্রীপ্রাংসা",
+      "url": "ramakreprangsaup.bandarban.gov.bd"
+    },
+    {
+      "id": "946",
+      "name": "Galanggya",
+      "bn_name": "গ্যালেংগ্যা",
+      "url": "galanggyaup.bandarban.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "4620",
+      "postcode_bn": "৪৬২০",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Bandarban",
+      "district_bn": "বান্দরবান",
+      "thana_upazila": "Ruma",
+      "thana_upazila_bn": "রুমা",
+      "sub_office": "Ruma",
+      "sub_office_bn": "রুমা"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "300",
+      "name": {
+        "en": "Bandarban",
+        "bn": "বান্দারবান"
+      },
+      "total_voters": 315422
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

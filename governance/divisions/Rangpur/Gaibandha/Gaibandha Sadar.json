@@ -1,0 +1,225 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Gaibandha",
+  "district_bn": "গাইবান্ধা",
+  "upazila_id": "429",
+  "upazila": "Gaibandha Sadar",
+  "upazila_bn": "গাইবান্ধা সদর",
+  "uno_portal": "gaibandhasadar.gaibandha.gov.bd",
+  "district_administration": {
+    "district": "Gaibandha",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Gaibandha",
+      "phone": "01713-000055",
+      "email": "dcgaibandha@mopa.gov.bd",
+      "website": "http://www.gaibandha.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Gaibandha",
+      "phone": "01713-373055",
+      "email": "spgaibandha@police.gov.bd",
+      "control_room": "01713-374055"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Gaibandha",
+      "phone": "01713-555055",
+      "email": "csgaibandha@dghs.gov.bd"
+    }
+  },
+  "total_unions": 13,
+  "unions": [
+    {
+      "id": "3910",
+      "name": "Laxmipur",
+      "bn_name": "লক্ষ্মীপুর",
+      "url": "laxmipurup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3911",
+      "name": "Malibari",
+      "bn_name": "মালীবাড়ী",
+      "url": "malibariup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3912",
+      "name": "Kuptola",
+      "bn_name": "কুপতলা",
+      "url": "kuptolaup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3913",
+      "name": "Shahapara",
+      "bn_name": "সাহাপাড়া",
+      "url": "shahaparaup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3914",
+      "name": "Ballamjhar",
+      "bn_name": "বল্লমঝাড়",
+      "url": "ballamjharup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3915",
+      "name": "Ramchandrapur",
+      "bn_name": "রামচন্দ্রপুর",
+      "url": "ramchandrapurup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3916",
+      "name": "Badiakhali",
+      "bn_name": "বাদিয়াখালী",
+      "url": "badiakhaliup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3917",
+      "name": "Boali",
+      "bn_name": "বোয়ালী",
+      "url": "boaliup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3918",
+      "name": "Ghagoa",
+      "bn_name": "ঘাগোয়া",
+      "url": "ghagoaup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3919",
+      "name": "Gidari",
+      "bn_name": "গিদারী",
+      "url": "gidariup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3920",
+      "name": "Kholahati",
+      "bn_name": "খোলাহাটী",
+      "url": "kholahatiup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3921",
+      "name": "Mollarchar",
+      "bn_name": "মোল্লারচর",
+      "url": "mollarcharup.gaibandha.gov.bd"
+    },
+    {
+      "id": "3922",
+      "name": "Kamarjani",
+      "bn_name": "কামারজানি",
+      "url": "kamarjaniup.gaibandha.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5700",
+      "postcode_bn": "৫৭০০",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Gaibandha",
+      "district_bn": "গাইবান্ধা",
+      "thana_upazila": "Gaibandha Sadar",
+      "thana_upazila_bn": "গাইবান্ধা সদর",
+      "sub_office": "Gaibandha Sadar",
+      "sub_office_bn": "গাইবান্ধা সদর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "29",
+      "name": {
+        "en": "Gaibandha-1",
+        "bn": "গাইবান্ধা-১"
+      },
+      "total_voters": 419111
+    },
+    {
+      "code": "30",
+      "name": {
+        "en": "Gaibandha-2",
+        "bn": "গাইবান্ধা-২"
+      },
+      "total_voters": 411460
+    },
+    {
+      "code": "31",
+      "name": {
+        "en": "Gaibandha-3",
+        "bn": "গাইবান্ধা-৩"
+      },
+      "total_voters": 506185
+    },
+    {
+      "code": "32",
+      "name": {
+        "en": "Gaibandha-4",
+        "bn": "গাইবান্ধা-৪"
+      },
+      "total_voters": 468384
+    },
+    {
+      "code": "33",
+      "name": {
+        "en": "Gaibandha-5",
+        "bn": "গাইবান্ধা-৫"
+      },
+      "total_voters": 385261
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

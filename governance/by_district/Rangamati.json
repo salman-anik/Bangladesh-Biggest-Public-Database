@@ -1,0 +1,166 @@
+{
+  "division": "Chattogram",
+  "district": "Rangamati",
+  "district_administration": {
+    "district": "Rangamati",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rangamati",
+      "phone": "01713-000028",
+      "email": "dcrangamati@mopa.gov.bd",
+      "website": "http://www.rangamati.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rangamati",
+      "phone": "01713-373028",
+      "email": "sprangamati@police.gov.bd",
+      "control_room": "01713-374028"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rangamati",
+      "phone": "01713-555028",
+      "email": "csrangamati@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 10,
+  "upazilas": [
+    {
+      "upazila": "Baghaichari",
+      "upazila_bn": "বাঘাইছড়ি",
+      "uno_portal": "baghaichari.rangamati.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Chattogram/Rangamati/Baghaichari.json"
+    },
+    {
+      "upazila": "Barkal",
+      "upazila_bn": "বরকল",
+      "uno_portal": "barkal.rangamati.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Chattogram/Rangamati/Barkal.json"
+    },
+    {
+      "upazila": "Belaichari",
+      "upazila_bn": "বিলাইছড়ি",
+      "uno_portal": "belaichari.rangamati.gov.bd",
+      "total_unions": 3,
+      "file": "divisions/Chattogram/Rangamati/Belaichari.json"
+    },
+    {
+      "upazila": "Juraichari",
+      "upazila_bn": "জুরাছড়ি",
+      "uno_portal": "juraichari.rangamati.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Chattogram/Rangamati/Juraichari.json"
+    },
+    {
+      "upazila": "Kaptai",
+      "upazila_bn": "কাপ্তাই",
+      "uno_portal": "kaptai.rangamati.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Chattogram/Rangamati/Kaptai.json"
+    },
+    {
+      "upazila": "Kawkhali",
+      "upazila_bn": "কাউখালী",
+      "uno_portal": "kawkhali.rangamati.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Chattogram/Rangamati/Kawkhali.json"
+    },
+    {
+      "upazila": "Langadu",
+      "upazila_bn": "লংগদু",
+      "uno_portal": "langadu.rangamati.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Chattogram/Rangamati/Langadu.json"
+    },
+    {
+      "upazila": "Naniarchar",
+      "upazila_bn": "নানিয়ারচর",
+      "uno_portal": "naniarchar.rangamati.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Chattogram/Rangamati/Naniarchar.json"
+    },
+    {
+      "upazila": "Rajasthali",
+      "upazila_bn": "রাজস্থলী",
+      "uno_portal": "rajasthali.rangamati.gov.bd",
+      "total_unions": 3,
+      "file": "divisions/Chattogram/Rangamati/Rajasthali.json"
+    },
+    {
+      "upazila": "Rangamati Sadar",
+      "upazila_bn": "রাঙ্গামাটি সদর",
+      "uno_portal": "sadar.rangamati.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Chattogram/Rangamati/Rangamati Sadar.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "299",
+      "name": {
+        "en": "Rangamati",
+        "bn": "রাঙ্গামাটি"
+      },
+      "total_voters": 509272
+    }
+  ],
+  "total_postal_offices": 14,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

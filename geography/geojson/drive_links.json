@@ -1,74 +1,67 @@
 {
+  "description": "Uncompressed large Bangladesh GeoJSON boundary layers hosted in Google Drive folders (zero ZIPs)",
   "drive_folder_id": "1slEFybA33XtFDW1vqK60nwkwqGHpL8XO",
   "drive_folder_url": "https://drive.google.com/drive/folders/1slEFybA33XtFDW1vqK60nwkwqGHpL8XO",
-  "source_highres": "https://github.com/MasudJGTDSL/BANGLADESH_GEOJSON",
-  "source_lightweight": "https://github.com/ifahimreza/bangladesh-geojson",
-  "files": {
-    "bangladesh.geojson": {
-      "size_bytes": 3596695,
-      "drive_file_id": "1rDQvUcGyIJxA8ByaRdGod1ZOnbTVSRnJ",
-      "drive_url": "https://drive.google.com/file/d/1rDQvUcGyIJxA8ByaRdGod1ZOnbTVSRnJ/view",
-      "in_github": true
+  "layers": {
+    "division": {
+      "label": "Division Boundaries (8 Divisions)",
+      "drive_folder_id": "1Mx5pgenm9xIlmoqBjnCJK_y2CvMQOQ1v",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1Mx5pgenm9xIlmoqBjnCJK_y2CvMQOQ1v",
+      "file_count": 1,
+      "total_size_mb": 13.18,
+      "files": [
+        {
+          "path": "division/geo_locations_geofeaturedivision.csv",
+          "size_bytes": 13818836,
+          "drive_file_id": "1flDUamZ7E1an5LjnNTLdMfp4hoag8IP3",
+          "drive_url": "https://drive.google.com/file/d/1flDUamZ7E1an5LjnNTLdMfp4hoag8IP3/view"
+        }
+      ]
     },
-    "bd-bazars.geojson": {
-      "size_bytes": 1049723,
-      "drive_file_id": "1VadBuBLNduOKrDbRLPKs540PmNsrisV5",
-      "drive_url": "https://drive.google.com/file/d/1VadBuBLNduOKrDbRLPKs540PmNsrisV5/view",
-      "in_github": true
+    "district": {
+      "label": "District Boundaries (64 Districts)",
+      "drive_folder_id": "1tXEYo998ueSe3XyoDXI2zC9dmZacWYzM",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1tXEYo998ueSe3XyoDXI2zC9dmZacWYzM",
+      "file_count": 1,
+      "total_size_mb": 41.28,
+      "files": [
+        {
+          "path": "district/geo_locations_geofeaturedistrict.csv",
+          "size_bytes": 43284309,
+          "drive_file_id": "1zL8SNqCTg_rUdEzW61_CEtQcpq18b8ys",
+          "drive_url": "https://drive.google.com/file/d/1zL8SNqCTg_rUdEzW61_CEtQcpq18b8ys/view"
+        }
+      ]
     },
-    "bd-major-routes.geojson": {
-      "size_bytes": 1500104,
-      "drive_file_id": "1N-0oe1cadAuYpupCK8L67wkfUl4ARk0G",
-      "drive_url": "https://drive.google.com/file/d/1N-0oe1cadAuYpupCK8L67wkfUl4ARk0G/view",
-      "in_github": true
+    "upazila": {
+      "label": "Upazila Boundaries (495 Upazilas)",
+      "drive_folder_id": "1lqofEyI79CgLZvghVLhCshSr6OAfHe_8",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1lqofEyI79CgLZvghVLhCshSr6OAfHe_8",
+      "file_count": 1,
+      "total_size_mb": 110.69,
+      "files": [
+        {
+          "path": "upazila/geo_locations_geofeatureupazila.csv",
+          "size_bytes": 116067917,
+          "drive_file_id": "1xr3S4e9KwvN2iXvk4vCFd8PvQBg7sies",
+          "drive_url": "https://drive.google.com/file/d/1xr3S4e9KwvN2iXvk4vCFd8PvQBg7sies/view"
+        }
+      ]
     },
-    "bd-divisions.json": {
-      "size_bytes": 1198,
-      "drive_file_id": "137ytMwv6DVGH0vsknz8g-A2wdtnuCual",
-      "drive_url": "https://drive.google.com/file/d/137ytMwv6DVGH0vsknz8g-A2wdtnuCual/view",
-      "in_github": true
-    },
-    "bd-districts.json": {
-      "size_bytes": 11464,
-      "drive_file_id": "1DxIGvT1HiJrPFF76GhhAtln_xb5QhEXh",
-      "drive_url": "https://drive.google.com/file/d/1DxIGvT1HiJrPFF76GhhAtln_xb5QhEXh/view",
-      "in_github": true
-    },
-    "bd-upazilas.json": {
-      "size_bytes": 64090,
-      "drive_file_id": "1mtJY9wQGEgUGLIb8plg9Du4Bnr91Ujhv",
-      "drive_url": "https://drive.google.com/file/d/1mtJY9wQGEgUGLIb8plg9Du4Bnr91Ujhv/view",
-      "in_github": true
-    },
-    "bd-postcodes.json": {
-      "size_bytes": 183634,
-      "drive_file_id": "1LAcsU8bplSfGy80jeKiVIjjW8wUZY1Ha",
-      "drive_url": "https://drive.google.com/file/d/1LAcsU8bplSfGy80jeKiVIjjW8wUZY1Ha/view",
-      "in_github": true
-    },
-    "geo_locations_geofeaturedivision.zip": {
-      "size_bytes": 4129264,
-      "drive_file_id": "1CkQ8JQu7vWQxrYYlySmT39Nh5nxVNVik",
-      "drive_url": "https://drive.google.com/file/d/1CkQ8JQu7vWQxrYYlySmT39Nh5nxVNVik/view",
-      "in_github": false
-    },
-    "geo_locations_geofeaturedistrict.zip": {
-      "size_bytes": 12823842,
-      "drive_file_id": "1JFzjU6bdFyGHrsmiDPtEkTxnOOl292l9",
-      "drive_url": "https://drive.google.com/file/d/1JFzjU6bdFyGHrsmiDPtEkTxnOOl292l9/view",
-      "in_github": false
-    },
-    "geo_locations_geofeatureupazila.zip": {
-      "size_bytes": 34382144,
-      "drive_file_id": "1SZtCWDvGx9dB1O9RSmjJJoH5fx42eJSe",
-      "drive_url": "https://drive.google.com/file/d/1SZtCWDvGx9dB1O9RSmjJJoH5fx42eJSe/view",
-      "in_github": false
-    },
-    "geo_locations_geofeatureunion.zip": {
-      "size_bytes": 95160157,
-      "drive_file_id": "1VWYzrm-JZrCC0iUUrZaDUX3POZ8hvOOp",
-      "drive_url": "https://drive.google.com/file/d/1VWYzrm-JZrCC0iUUrZaDUX3POZ8hvOOp/view",
-      "in_github": false
+    "union": {
+      "label": "Union Boundaries (4,500+ Unions)",
+      "drive_folder_id": "1wYT8jv1x3i9a_0WRP1tmugCKZujEmpdI",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1wYT8jv1x3i9a_0WRP1tmugCKZujEmpdI",
+      "file_count": 1,
+      "total_size_mb": 304.24,
+      "files": [
+        {
+          "path": "union/geo_locations_geofeatureunion.csv",
+          "size_bytes": 319021882,
+          "drive_file_id": "1sj3TOqUxuMWnWIoeibtWRoraKYJQHqDt",
+          "drive_url": "https://drive.google.com/file/d/1sj3TOqUxuMWnWIoeibtWRoraKYJQHqDt/view"
+        }
+      ]
     }
   }
 }

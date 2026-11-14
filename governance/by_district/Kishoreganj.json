@@ -1,0 +1,227 @@
+{
+  "division": "Dhaka",
+  "district": "Kishoreganj",
+  "district_administration": {
+    "district": "Kishoreganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kishoreganj",
+      "phone": "01713-000013",
+      "email": "dckishoreganj@mopa.gov.bd",
+      "website": "http://www.kishoreganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kishoreganj",
+      "phone": "01713-373013",
+      "email": "spkishoreganj@police.gov.bd",
+      "control_room": "01713-374013"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kishoreganj",
+      "phone": "01713-555013",
+      "email": "cskishoreganj@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 13,
+  "upazilas": [
+    {
+      "upazila": "Austagram",
+      "upazila_bn": "অষ্টগ্রাম",
+      "uno_portal": "austagram.kishoreganj.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Dhaka/Kishoreganj/Austagram.json"
+    },
+    {
+      "upazila": "Bajitpur",
+      "upazila_bn": "বাজিতপুর",
+      "uno_portal": "bajitpur.kishoreganj.gov.bd",
+      "total_unions": 11,
+      "file": "divisions/Dhaka/Kishoreganj/Bajitpur.json"
+    },
+    {
+      "upazila": "Bhairab",
+      "upazila_bn": "ভৈরব",
+      "uno_portal": "bhairab.kishoreganj.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Dhaka/Kishoreganj/Bhairab.json"
+    },
+    {
+      "upazila": "Hossainpur",
+      "upazila_bn": "হোসেনপুর",
+      "uno_portal": "hossainpur.kishoreganj.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Dhaka/Kishoreganj/Hossainpur.json"
+    },
+    {
+      "upazila": "Itna",
+      "upazila_bn": "ইটনা",
+      "uno_portal": "itna.kishoreganj.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Dhaka/Kishoreganj/Itna.json"
+    },
+    {
+      "upazila": "Karimgonj",
+      "upazila_bn": "করিমগঞ্জ",
+      "uno_portal": "karimgonj.kishoreganj.gov.bd",
+      "total_unions": 11,
+      "file": "divisions/Dhaka/Kishoreganj/Karimgonj.json"
+    },
+    {
+      "upazila": "Katiadi",
+      "upazila_bn": "কটিয়াদী",
+      "uno_portal": "katiadi.kishoreganj.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Dhaka/Kishoreganj/Katiadi.json"
+    },
+    {
+      "upazila": "Kishoreganj Sadar",
+      "upazila_bn": "কিশোরগঞ্জ সদর",
+      "uno_portal": "kishoreganjsadar.kishoreganj.gov.bd",
+      "total_unions": 11,
+      "file": "divisions/Dhaka/Kishoreganj/Kishoreganj Sadar.json"
+    },
+    {
+      "upazila": "Kuliarchar",
+      "upazila_bn": "কুলিয়ারচর",
+      "uno_portal": "kuliarchar.kishoreganj.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Dhaka/Kishoreganj/Kuliarchar.json"
+    },
+    {
+      "upazila": "Mithamoin",
+      "upazila_bn": "মিঠামইন",
+      "uno_portal": "mithamoin.kishoreganj.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Dhaka/Kishoreganj/Mithamoin.json"
+    },
+    {
+      "upazila": "Nikli",
+      "upazila_bn": "নিকলী",
+      "uno_portal": "nikli.kishoreganj.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Dhaka/Kishoreganj/Nikli.json"
+    },
+    {
+      "upazila": "Pakundia",
+      "upazila_bn": "পাকুন্দিয়া",
+      "uno_portal": "pakundia.kishoreganj.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Dhaka/Kishoreganj/Pakundia.json"
+    },
+    {
+      "upazila": "Tarail",
+      "upazila_bn": "তাড়াইল",
+      "uno_portal": "tarail.kishoreganj.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Dhaka/Kishoreganj/Tarail.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "162",
+      "name": {
+        "en": "Kishorgonj-1",
+        "bn": "কিশোরগঞ্জ-১"
+      },
+      "total_voters": 555136
+    },
+    {
+      "code": "163",
+      "name": {
+        "en": "Kishorgonj-2",
+        "bn": "কিশোরগঞ্জ-২"
+      },
+      "total_voters": 532516
+    },
+    {
+      "code": "164",
+      "name": {
+        "en": "Kishorgonj-3",
+        "bn": "কিশোরগঞ্জ-৩"
+      },
+      "total_voters": 448625
+    },
+    {
+      "code": "165",
+      "name": {
+        "en": "Kishorgonj-4",
+        "bn": "কিশোরগঞ্জ-৪"
+      },
+      "total_voters": 408352
+    },
+    {
+      "code": "166",
+      "name": {
+        "en": "Kishorgonj-5",
+        "bn": "কিশোরগঞ্জ-৫"
+      },
+      "total_voters": 353566
+    },
+    {
+      "code": "167",
+      "name": {
+        "en": "Kishorgonj-6",
+        "bn": "কিশোরগঞ্জ-৬"
+      },
+      "total_voters": 428804
+    }
+  ],
+  "total_postal_offices": 21,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

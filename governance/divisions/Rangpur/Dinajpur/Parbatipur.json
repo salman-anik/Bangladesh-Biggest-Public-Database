@@ -1,0 +1,215 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Dinajpur",
+  "district_bn": "দিনাজপুর",
+  "upazila_id": "408",
+  "upazila": "Parbatipur",
+  "upazila_bn": "পার্বতীপুর",
+  "uno_portal": "parbatipur.dinajpur.gov.bd",
+  "district_administration": {
+    "district": "Dinajpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Dinajpur",
+      "phone": "01713-000054",
+      "email": "dcdinajpur@mopa.gov.bd",
+      "website": "http://www.dinajpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Dinajpur",
+      "phone": "01713-373054",
+      "email": "spdinajpur@police.gov.bd",
+      "control_room": "01713-374054"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Dinajpur",
+      "phone": "01713-555054",
+      "email": "csdinajpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "3723",
+      "name": "Belaichandi",
+      "bn_name": "বেলাইচন্ডি",
+      "url": "belaichandiup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3724",
+      "name": "Monmothopur",
+      "bn_name": "মন্মথপুর",
+      "url": "monmothopurup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3725",
+      "name": "Rampur",
+      "bn_name": "রামপুর",
+      "url": "rampurup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3726",
+      "name": "Polashbari",
+      "bn_name": "পলাশবাড়ী",
+      "url": "polashbariup4.dinajpur.gov.bd"
+    },
+    {
+      "id": "3727",
+      "name": "Chandipur",
+      "bn_name": "চন্ডীপুর",
+      "url": "chandipurup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3728",
+      "name": "Mominpur",
+      "bn_name": "মোমিনপুর",
+      "url": "mominpurup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3729",
+      "name": "Mostofapur",
+      "bn_name": "মোস্তফাপুর",
+      "url": "mostofapurup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3730",
+      "name": "Habra",
+      "bn_name": "হাবড়া",
+      "url": "habraup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3731",
+      "name": "Hamidpur",
+      "bn_name": "হামিদপুর",
+      "url": "hamidpurup.dinajpur.gov.bd"
+    },
+    {
+      "id": "3732",
+      "name": "Harirampur",
+      "bn_name": "হরিরামপুর",
+      "url": "harirampurup.dinajpur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5250",
+      "postcode_bn": "৫২৫০",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Dinajpur",
+      "district_bn": "দিনাজপুর",
+      "thana_upazila": "Parbatipur",
+      "thana_upazila_bn": "পার্বতীপুর",
+      "sub_office": "Parbatipur",
+      "sub_office_bn": "পার্বতীপুর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "6",
+      "name": {
+        "en": "Dinajpur-1",
+        "bn": "দিনাজপুর-১"
+      },
+      "total_voters": 417133
+    },
+    {
+      "code": "7",
+      "name": {
+        "en": "Dinajpur-2",
+        "bn": "দিনাজপুর-২"
+      },
+      "total_voters": 371478
+    },
+    {
+      "code": "8",
+      "name": {
+        "en": "Dinajpur-3",
+        "bn": "দিনাজপুর-৩"
+      },
+      "total_voters": 415636
+    },
+    {
+      "code": "9",
+      "name": {
+        "en": "Dinajpur-4",
+        "bn": "দিনাজপুর-৪"
+      },
+      "total_voters": 421278
+    },
+    {
+      "code": "10",
+      "name": {
+        "en": "Dinajpur-5",
+        "bn": "দিনাজপুর-৫"
+      },
+      "total_voters": 477516
+    },
+    {
+      "code": "11",
+      "name": {
+        "en": "Dinajpur-6",
+        "bn": "দিনাজপুর-৬"
+      },
+      "total_voters": 557692
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

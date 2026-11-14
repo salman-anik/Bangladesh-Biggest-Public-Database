@@ -1,0 +1,160 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Manikganj",
+  "district_bn": "মানিকগঞ্জ",
+  "upazila_id": "361",
+  "upazila": "Gior",
+  "upazila_bn": "ঘিওর",
+  "uno_portal": "gior.manikganj.gov.bd",
+  "district_administration": {
+    "district": "Manikganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Manikganj",
+      "phone": "01713-000014",
+      "email": "dcmanikganj@mopa.gov.bd",
+      "website": "http://www.manikganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Manikganj",
+      "phone": "01713-373014",
+      "email": "spmanikganj@police.gov.bd",
+      "control_room": "01713-374014"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Manikganj",
+      "phone": "01713-555014",
+      "email": "csmanikganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "3238",
+      "name": "Paila",
+      "bn_name": "পয়লা",
+      "url": "pailaup.manikganj.gov.bd"
+    },
+    {
+      "id": "3239",
+      "name": "Shingzuri",
+      "bn_name": "সিংজুড়ী",
+      "url": "shingzuriup.manikganj.gov.bd"
+    },
+    {
+      "id": "3240",
+      "name": "Baliyakhora",
+      "bn_name": "বালিয়াখোড়া",
+      "url": "baliyakhoraup.manikganj.gov.bd"
+    },
+    {
+      "id": "3241",
+      "name": "Gior",
+      "bn_name": "ঘিওর",
+      "url": "giorup.manikganj.gov.bd"
+    },
+    {
+      "id": "3242",
+      "name": "Bartia",
+      "bn_name": "বড়টিয়া",
+      "url": "bartiaup.manikganj.gov.bd"
+    },
+    {
+      "id": "3243",
+      "name": "Baniazuri",
+      "bn_name": "বানিয়াজুড়ী",
+      "url": "baniazuriup.manikganj.gov.bd"
+    },
+    {
+      "id": "3244",
+      "name": "Nalee",
+      "bn_name": "নালী",
+      "url": "naleeup.manikganj.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "168",
+      "name": {
+        "en": "Manikgonj-1",
+        "bn": "মানিকগঞ্জ-১"
+      },
+      "total_voters": 461942
+    },
+    {
+      "code": "169",
+      "name": {
+        "en": "Manikgonj-2",
+        "bn": "মানিকগঞ্জ-২"
+      },
+      "total_voters": 472622
+    },
+    {
+      "code": "170",
+      "name": {
+        "en": "Manikgonj-3",
+        "bn": "মানিকগঞ্জ-৩"
+      },
+      "total_voters": 400059
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

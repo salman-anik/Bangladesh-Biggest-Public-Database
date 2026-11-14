@@ -1,0 +1,195 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Magura",
+  "district_bn": "মাগুরা",
+  "upazila_id": "205",
+  "upazila": "Mohammadpur",
+  "upazila_bn": "মহম্মদপুর",
+  "uno_portal": "mohammadpur.magura.gov.bd",
+  "district_administration": {
+    "district": "Magura",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Magura",
+      "phone": "01713-000043",
+      "email": "dcmagura@mopa.gov.bd",
+      "website": "http://www.magura.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Magura",
+      "phone": "01713-373043",
+      "email": "spmagura@police.gov.bd",
+      "control_room": "01713-374043"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Magura",
+      "phone": "01713-555043",
+      "email": "csmagura@dghs.gov.bd"
+    }
+  },
+  "total_unions": 8,
+  "unions": [
+    {
+      "id": "1869",
+      "name": "Digha",
+      "bn_name": "দীঘা",
+      "url": "dighaup.magura.gov.bd"
+    },
+    {
+      "id": "1870",
+      "name": "Nohata",
+      "bn_name": "নহাটা",
+      "url": "nohataup.magura.gov.bd"
+    },
+    {
+      "id": "1871",
+      "name": "Palashbaria",
+      "bn_name": "পলাশবাড়ীয়া",
+      "url": "palashbariaup.magura.gov.bd"
+    },
+    {
+      "id": "1872",
+      "name": "Babukhali",
+      "bn_name": "বাবুখালী",
+      "url": "babukhaliup.magura.gov.bd"
+    },
+    {
+      "id": "1873",
+      "name": "Balidia",
+      "bn_name": "বালিদিয়া",
+      "url": "balidiaup.magura.gov.bd"
+    },
+    {
+      "id": "1874",
+      "name": "Binodpur",
+      "bn_name": "বিনোদপুর",
+      "url": "binodpurup.magura.gov.bd"
+    },
+    {
+      "id": "1875",
+      "name": "Mohammadpur",
+      "bn_name": "মহম্মদপুর",
+      "url": "mohammadpurup.magura.gov.bd"
+    },
+    {
+      "id": "1876",
+      "name": "Rajapur",
+      "bn_name": "রাজাপুর",
+      "url": "rajapurup.magura.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "7631",
+      "postcode_bn": "৭৬৩১",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Magura",
+      "district_bn": "মাগুরা",
+      "thana_upazila": "Mohammadpur",
+      "thana_upazila_bn": "মোহাম্মদপুর",
+      "sub_office": "Binodpur",
+      "sub_office_bn": "বিনোদপুর"
+    },
+    {
+      "postcode": "7630",
+      "postcode_bn": "৭৬৩০",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Magura",
+      "district_bn": "মাগুরা",
+      "thana_upazila": "Mohammadpur",
+      "thana_upazila_bn": "মোহাম্মদপুর",
+      "sub_office": "Mohammadpur",
+      "sub_office_bn": "মোহাম্মদপুর"
+    },
+    {
+      "postcode": "7632",
+      "postcode_bn": "৭৬৩২",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Magura",
+      "district_bn": "মাগুরা",
+      "thana_upazila": "Mohammadpur",
+      "thana_upazila_bn": "মোহাম্মদপুর",
+      "sub_office": "Nahata",
+      "sub_office_bn": "Nahata"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "91",
+      "name": {
+        "en": "Magura-1",
+        "bn": "মাগুড়া-১"
+      },
+      "total_voters": 430775
+    },
+    {
+      "code": "92",
+      "name": {
+        "en": "Magura-2",
+        "bn": "মাগুড়া-২"
+      },
+      "total_voters": 416634
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

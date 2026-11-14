@@ -1,0 +1,266 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Narsingdi",
+  "district_bn": "নরসিংদী",
+  "upazila_id": "315",
+  "upazila": "Raipura",
+  "upazila_bn": "রায়পুরা",
+  "uno_portal": "raipura.narsingdi.gov.bd",
+  "district_administration": {
+    "district": "Narsingdi",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Narsingdi",
+      "phone": "01713-000016",
+      "email": "dcnarsingdi@mopa.gov.bd",
+      "website": "http://www.narsingdi.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Narsingdi",
+      "phone": "01713-373016",
+      "email": "spnarsingdi@police.gov.bd",
+      "control_room": "01713-374016"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Narsingdi",
+      "phone": "01713-555016",
+      "email": "csnarsingdi@dghs.gov.bd"
+    }
+  },
+  "total_unions": 22,
+  "unions": [
+    {
+      "id": "2811",
+      "name": "Chanpur",
+      "bn_name": "চানপুর",
+      "url": "chanpurup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2812",
+      "name": "Alipura",
+      "bn_name": "অলিপুরা",
+      "url": "alipuraup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2813",
+      "name": "Amirganj",
+      "bn_name": "আমিরগঞ্জ",
+      "url": "amirganjup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2814",
+      "name": "Adiabad",
+      "bn_name": "আদিয়াবাদ",
+      "url": "adiabadup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2815",
+      "name": "Banshgari",
+      "bn_name": "বাঁশগাড়ী",
+      "url": "banshgariup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2816",
+      "name": "Chanderkandi",
+      "bn_name": "চান্দেরকান্দি",
+      "url": "chanderkandiup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2817",
+      "name": "Chararalia",
+      "bn_name": "চরআড়ালিয়া",
+      "url": "chararaliaup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2818",
+      "name": "Charmadhua",
+      "bn_name": "চরমধুয়া",
+      "url": "charmadhuaup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2819",
+      "name": "Charsubuddi",
+      "bn_name": "চরসুবুদ্দি",
+      "url": "charsubuddiup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2820",
+      "name": "Daukarchar",
+      "bn_name": "ডৌকারচর",
+      "url": "daukarcharup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2821",
+      "name": "Hairmara",
+      "bn_name": "হাইরমারা",
+      "url": "hairmaraup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2822",
+      "name": "Maheshpur",
+      "bn_name": "মহেষপুর",
+      "url": "maheshpurup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2823",
+      "name": "Mirzanagar",
+      "bn_name": "মির্জানগর",
+      "url": "mirzanagarup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2824",
+      "name": "Mirzarchar",
+      "bn_name": "মির্জারচর",
+      "url": "mirzarcharup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2825",
+      "name": "Nilakhya",
+      "bn_name": "নিলক্ষ্যা",
+      "url": "nilakhyaup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2826",
+      "name": "Palashtali",
+      "bn_name": "পলাশতলী",
+      "url": "palashtaliup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2827",
+      "name": "Paratali",
+      "bn_name": "পাড়াতলী",
+      "url": "parataliup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2828",
+      "name": "Sreenagar",
+      "bn_name": "শ্রীনগর",
+      "url": "sreenagarup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2829",
+      "name": "Roypura",
+      "bn_name": "রায়পুরা",
+      "url": "roypuraup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2830",
+      "name": "Musapur",
+      "bn_name": "মুছাপুর",
+      "url": "musapurup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2831",
+      "name": "Uttar Bakharnagar",
+      "bn_name": "উত্তর বাখরনগর",
+      "url": "uttarbakharnagarup.narsingdi.gov.bd"
+    },
+    {
+      "id": "2832",
+      "name": "Marjal",
+      "bn_name": "মরজাল",
+      "url": "marjal2up.narsingdi.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "199",
+      "name": {
+        "en": "Narshingdi-1",
+        "bn": "নরসিংদী-১"
+      },
+      "total_voters": 477209
+    },
+    {
+      "code": "200",
+      "name": {
+        "en": "Narshingdi-2",
+        "bn": "নরসিংদী-২"
+      },
+      "total_voters": 286218
+    },
+    {
+      "code": "201",
+      "name": {
+        "en": "Narshingdi-3",
+        "bn": "নরসিংদী-৩"
+      },
+      "total_voters": 284248
+    },
+    {
+      "code": "202",
+      "name": {
+        "en": "Narshingdi-4",
+        "bn": "নরসিংদী-৪"
+      },
+      "total_voters": 428954
+    },
+    {
+      "code": "203",
+      "name": {
+        "en": "Narshingdi-5",
+        "bn": "নরসিংদী-৫"
+      },
+      "total_voters": 494650
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

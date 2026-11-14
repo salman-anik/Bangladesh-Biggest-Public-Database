@@ -1,0 +1,177 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Meherpur",
+  "district_bn": "মেহেরপুর",
+  "upazila_id": "188",
+  "upazila": "Gangni",
+  "upazila_bn": "গাংনী",
+  "uno_portal": "gangni.meherpur.gov.bd",
+  "district_administration": {
+    "district": "Meherpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Meherpur",
+      "phone": "01713-000044",
+      "email": "dcmeherpur@mopa.gov.bd",
+      "website": "http://www.meherpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Meherpur",
+      "phone": "01713-373044",
+      "email": "spmeherpur@police.gov.bd",
+      "control_room": "01713-374044"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Meherpur",
+      "phone": "01713-555044",
+      "email": "csmeherpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "1691",
+      "name": "Tentulbaria",
+      "bn_name": "তেঁতুলবাড়ীয়া",
+      "url": "tentulbaria.meherpur.gov.bd"
+    },
+    {
+      "id": "1692",
+      "name": "Kazipur",
+      "bn_name": "কাজিপুর",
+      "url": "kazipurup.meherpur.gov.bd"
+    },
+    {
+      "id": "1693",
+      "name": "Bamondi",
+      "bn_name": "বামন্দী",
+      "url": "bamondiup.meherpur.gov.bd"
+    },
+    {
+      "id": "1694",
+      "name": "Motmura",
+      "bn_name": "মটমুড়া",
+      "url": "motmuraup.meherpur.gov.bd"
+    },
+    {
+      "id": "1695",
+      "name": "Sholotaka",
+      "bn_name": "ষোলটাকা",
+      "url": "sholotakaup.meherpur.gov.bd"
+    },
+    {
+      "id": "1696",
+      "name": "Shaharbati",
+      "bn_name": "সাহারবাটী",
+      "url": "shaharbatiup.meherpur.gov.bd"
+    },
+    {
+      "id": "1697",
+      "name": "Dhankolla",
+      "bn_name": "ধানখোলা",
+      "url": "dhankollaup.meherpur.gov.bd"
+    },
+    {
+      "id": "1698",
+      "name": "Raipur",
+      "bn_name": "রায়পুর",
+      "url": "raipurup.meherpur.gov.bd"
+    },
+    {
+      "id": "1699",
+      "name": "Kathuli",
+      "bn_name": "কাথুলী",
+      "url": "kathuli.meherpur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "7110",
+      "postcode_bn": "৭১১০",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Meherpur",
+      "district_bn": "মেহেরপুর",
+      "thana_upazila": "Gangni",
+      "thana_upazila_bn": "গাংনী",
+      "sub_office": "Gangni",
+      "sub_office_bn": "গাংনী"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "73",
+      "name": {
+        "en": "Meherpur-1",
+        "bn": "মেহেরপুর-১"
+      },
+      "total_voters": 316975
+    },
+    {
+      "code": "74",
+      "name": {
+        "en": "Meherpur-2",
+        "bn": "মেহেরপুর-২"
+      },
+      "total_voters": 270705
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

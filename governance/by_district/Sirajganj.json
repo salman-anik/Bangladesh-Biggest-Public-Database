@@ -1,0 +1,199 @@
+{
+  "division": "Rajshahi",
+  "district": "Sirajganj",
+  "district_administration": {
+    "district": "Sirajganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sirajganj",
+      "phone": "01713-000031",
+      "email": "dcsirajganj@mopa.gov.bd",
+      "website": "http://www.sirajganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sirajganj",
+      "phone": "01713-373031",
+      "email": "spsirajganj@police.gov.bd",
+      "control_room": "01713-374031"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sirajganj",
+      "phone": "01713-555031",
+      "email": "cssirajganj@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 9,
+  "upazilas": [
+    {
+      "upazila": "Belkuchi",
+      "upazila_bn": "বেলকুচি",
+      "uno_portal": "belkuchi.sirajganj.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Rajshahi/Sirajganj/Belkuchi.json"
+    },
+    {
+      "upazila": "Chauhali",
+      "upazila_bn": "চৌহালি",
+      "uno_portal": "chauhali.sirajganj.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Rajshahi/Sirajganj/Chauhali.json"
+    },
+    {
+      "upazila": "Kamarkhand",
+      "upazila_bn": "কামারখন্দ",
+      "uno_portal": "kamarkhand.sirajganj.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Rajshahi/Sirajganj/Kamarkhand.json"
+    },
+    {
+      "upazila": "Kazipur",
+      "upazila_bn": "কাজীপুর",
+      "uno_portal": "kazipur.sirajganj.gov.bd",
+      "total_unions": 12,
+      "file": "divisions/Rajshahi/Sirajganj/Kazipur.json"
+    },
+    {
+      "upazila": "Raigonj",
+      "upazila_bn": "রায়গঞ্জ",
+      "uno_portal": "raigonj.sirajganj.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Rajshahi/Sirajganj/Raigonj.json"
+    },
+    {
+      "upazila": "Shahjadpur",
+      "upazila_bn": "শাহজাদপুর",
+      "uno_portal": "shahjadpur.sirajganj.gov.bd",
+      "total_unions": 13,
+      "file": "divisions/Rajshahi/Sirajganj/Shahjadpur.json"
+    },
+    {
+      "upazila": "Sirajganj Sadar",
+      "upazila_bn": "সিরাজগঞ্জ সদর",
+      "uno_portal": "sirajganjsadar.sirajganj.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rajshahi/Sirajganj/Sirajganj Sadar.json"
+    },
+    {
+      "upazila": "Tarash",
+      "upazila_bn": "তাড়াশ",
+      "uno_portal": "tarash.sirajganj.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Sirajganj/Tarash.json"
+    },
+    {
+      "upazila": "Ullapara",
+      "upazila_bn": "উল্লাপাড়া",
+      "uno_portal": "ullapara.sirajganj.gov.bd",
+      "total_unions": 13,
+      "file": "divisions/Rajshahi/Sirajganj/Ullapara.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "62",
+      "name": {
+        "en": "Sirajgong-1",
+        "bn": "সিরাজগঞ্জ-১"
+      },
+      "total_voters": 385024
+    },
+    {
+      "code": "63",
+      "name": {
+        "en": "Sirajgonj-2",
+        "bn": "সিরাজগঞ্জ-২"
+      },
+      "total_voters": 469878
+    },
+    {
+      "code": "64",
+      "name": {
+        "en": "Sirajgonj-3",
+        "bn": "সিরাজগঞ্জ-৩"
+      },
+      "total_voters": 444427
+    },
+    {
+      "code": "65",
+      "name": {
+        "en": "Sirajgonj-4",
+        "bn": "সিরাজগঞ্জ-৪"
+      },
+      "total_voters": 475821
+    },
+    {
+      "code": "66",
+      "name": {
+        "en": "Sirajgonj-5",
+        "bn": "সিরাজগঞ্জ-৫"
+      },
+      "total_voters": 426321
+    },
+    {
+      "code": "67",
+      "name": {
+        "en": "Sirajgonj-6",
+        "bn": "সিরাজগঞ্জ-৬"
+      },
+      "total_voters": 485387
+    }
+  ],
+  "total_postal_offices": 23,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Rajshahi",
+  "district_bn": "রাজশাহী",
+  "upazila_id": "139",
+  "upazila": "Bagha",
+  "upazila_bn": "বাঘা",
+  "uno_portal": "bagha.rajshahi.gov.bd",
+  "district_administration": {
+    "district": "Rajshahi",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rajshahi",
+      "phone": "01713-000002",
+      "email": "dcrajshahi@mopa.gov.bd",
+      "website": "http://www.rajshahi.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rajshahi",
+      "phone": "01713-373002",
+      "email": "sprajshahi@police.gov.bd",
+      "control_room": "01713-374002"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rajshahi",
+      "phone": "01713-555002",
+      "email": "csrajshahi@dghs.gov.bd"
+    }
+  },
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "1247",
+      "name": "Bajubagha",
+      "bn_name": "বাজুবাঘা",
+      "url": "bajubaghaup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1248",
+      "name": "Gorgori",
+      "bn_name": "গড়গড়ি",
+      "url": "gorgoriup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1249",
+      "name": "Pakuria",
+      "bn_name": "পাকুড়িয়া",
+      "url": "pakuriaup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1250",
+      "name": "Monigram",
+      "bn_name": "মনিগ্রাম",
+      "url": "monigramup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1251",
+      "name": "Bausa",
+      "bn_name": "বাউসা",
+      "url": "bausaup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1252",
+      "name": "Arani",
+      "bn_name": "আড়ানী",
+      "url": "araniup.rajshahi.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "6281",
+      "postcode_bn": "৬২৮১",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "thana_upazila": "Bagha",
+      "thana_upazila_bn": "বাঘা",
+      "sub_office": "Arani",
+      "sub_office_bn": "আড়ানী"
+    },
+    {
+      "postcode": "6280",
+      "postcode_bn": "৬২৮০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "thana_upazila": "Bagha",
+      "thana_upazila_bn": "বাঘা",
+      "sub_office": "Bagha",
+      "sub_office_bn": "বাঘা"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "52",
+      "name": {
+        "en": "Rajshahi-1",
+        "bn": "রাজশাহী-১"
+      },
+      "total_voters": 468780
+    },
+    {
+      "code": "53",
+      "name": {
+        "en": "Rajshahi-2",
+        "bn": "রাজশাহী-২"
+      },
+      "total_voters": 369564
+    },
+    {
+      "code": "54",
+      "name": {
+        "en": "Rajshahi-3",
+        "bn": "রাজশাহী-৩"
+      },
+      "total_voters": 423738
+    },
+    {
+      "code": "55",
+      "name": {
+        "en": "Rajshahi-4",
+        "bn": "রাজশাহী-৪"
+      },
+      "total_voters": 319909
+    },
+    {
+      "code": "56",
+      "name": {
+        "en": "Rajshahi-5",
+        "bn": "রাজশাহী-৫"
+      },
+      "total_voters": 376333
+    },
+    {
+      "code": "57",
+      "name": {
+        "en": "Rajshahi-6",
+        "bn": "রাজশাহী-৬"
+      },
+      "total_voters": 357054
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

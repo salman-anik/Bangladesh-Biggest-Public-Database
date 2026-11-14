@@ -1,0 +1,203 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Sirajganj",
+  "district_bn": "সিরাজগঞ্জ",
+  "upazila_id": "111",
+  "upazila": "Tarash",
+  "upazila_bn": "তাড়াশ",
+  "uno_portal": "tarash.sirajganj.gov.bd",
+  "district_administration": {
+    "district": "Sirajganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sirajganj",
+      "phone": "01713-000031",
+      "email": "dcsirajganj@mopa.gov.bd",
+      "website": "http://www.sirajganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sirajganj",
+      "phone": "01713-373031",
+      "email": "spsirajganj@police.gov.bd",
+      "control_room": "01713-374031"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sirajganj",
+      "phone": "01713-555031",
+      "email": "cssirajganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 8,
+  "unions": [
+    {
+      "id": "1012",
+      "name": "Baruhas",
+      "bn_name": "বারুহাস",
+      "url": "baruhasup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1013",
+      "name": "Talam",
+      "bn_name": "তালম",
+      "url": "talamup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1014",
+      "name": "Soguna",
+      "bn_name": "সগুনা",
+      "url": "sogunaup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1015",
+      "name": "Magura Binod",
+      "bn_name": "মাগুড়া বিনোদ",
+      "url": "magurabinodup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1016",
+      "name": "Naogaon",
+      "bn_name": "নওগাঁ",
+      "url": "naogaonup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1017",
+      "name": "Tarash Sadar",
+      "bn_name": "তাড়াশ সদর",
+      "url": "tarashsadarup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1018",
+      "name": "Madhainagar",
+      "bn_name": "মাধাইনগর",
+      "url": "madhainagarup.sirajganj.gov.bd"
+    },
+    {
+      "id": "1019",
+      "name": "Deshigram",
+      "bn_name": "দেশীগ্রাম",
+      "url": "deshigramup.sirajganj.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "6780",
+      "postcode_bn": "৬৭৮০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Sirajganj",
+      "district_bn": "সিরাজগঞ্জ",
+      "thana_upazila": "Tarash",
+      "thana_upazila_bn": "তাড়াশ",
+      "sub_office": "Tarash",
+      "sub_office_bn": "তাড়াশ"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "62",
+      "name": {
+        "en": "Sirajgong-1",
+        "bn": "সিরাজগঞ্জ-১"
+      },
+      "total_voters": 385024
+    },
+    {
+      "code": "63",
+      "name": {
+        "en": "Sirajgonj-2",
+        "bn": "সিরাজগঞ্জ-২"
+      },
+      "total_voters": 469878
+    },
+    {
+      "code": "64",
+      "name": {
+        "en": "Sirajgonj-3",
+        "bn": "সিরাজগঞ্জ-৩"
+      },
+      "total_voters": 444427
+    },
+    {
+      "code": "65",
+      "name": {
+        "en": "Sirajgonj-4",
+        "bn": "সিরাজগঞ্জ-৪"
+      },
+      "total_voters": 475821
+    },
+    {
+      "code": "66",
+      "name": {
+        "en": "Sirajgonj-5",
+        "bn": "সিরাজগঞ্জ-৫"
+      },
+      "total_voters": 426321
+    },
+    {
+      "code": "67",
+      "name": {
+        "en": "Sirajgonj-6",
+        "bn": "সিরাজগঞ্জ-৬"
+      },
+      "total_voters": 485387
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "division": "Barishal",
+  "division_bn": "বরিশাল",
+  "district": "Patuakhali",
+  "district_bn": "পটুয়াখালী",
+  "upazila_id": "238",
+  "upazila": "Kalapara",
+  "upazila_bn": "কলাপাড়া",
+  "uno_portal": "kalapara.patuakhali.gov.bd",
+  "district_administration": {
+    "district": "Patuakhali",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Patuakhali",
+      "phone": "01713-000046",
+      "email": "dcpatuakhali@mopa.gov.bd",
+      "website": "http://www.patuakhali.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Patuakhali",
+      "phone": "01713-373046",
+      "email": "sppatuakhali@police.gov.bd",
+      "control_room": "01713-374046"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Patuakhali",
+      "phone": "01713-555046",
+      "email": "cspatuakhali@dghs.gov.bd"
+    }
+  },
+  "total_unions": 12,
+  "unions": [
+    {
+      "id": "2156",
+      "name": "Chakamaia",
+      "bn_name": "চাকামইয়া",
+      "url": "chakamaiaup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2157",
+      "name": "Tiakhali",
+      "bn_name": "টিয়াখালী",
+      "url": "tiakhaliup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2158",
+      "name": "Lalua",
+      "bn_name": "লালুয়া",
+      "url": "laluaup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2159",
+      "name": "Dhankhali",
+      "bn_name": "ধানখালী",
+      "url": "dhankhaliup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2160",
+      "name": "Mithagonj",
+      "bn_name": "মিঠাগঞ্জ",
+      "url": "mithagonjup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2161",
+      "name": "Nilgonj",
+      "bn_name": "নীলগঞ্জ",
+      "url": "nilgonjup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2162",
+      "name": "Dulaser",
+      "bn_name": "ধুলাসার",
+      "url": "dulaserup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2163",
+      "name": "Latachapli",
+      "bn_name": "লতাচাপলী",
+      "url": "latachapliup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2164",
+      "name": "Mahipur",
+      "bn_name": "মহিপুর",
+      "url": "mahipurup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2165",
+      "name": "Dalbugonj",
+      "bn_name": "ডালবুগঞ্জ",
+      "url": "dalbugonjup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2166",
+      "name": "Baliatali",
+      "bn_name": "বালিয়াতলী",
+      "url": "baliataliup.patuakhali.gov.bd"
+    },
+    {
+      "id": "2167",
+      "name": "Champapur",
+      "bn_name": "চম্পাপুর",
+      "url": "champapurup.patuakhali.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "111",
+      "name": {
+        "en": "Patuakhali-1",
+        "bn": "পটুয়াখালী-১"
+      },
+      "total_voters": 505840
+    },
+    {
+      "code": "112",
+      "name": {
+        "en": "Patuakhali-2",
+        "bn": "পটুয়াখালী-২"
+      },
+      "total_voters": 315282
+    },
+    {
+      "code": "113",
+      "name": {
+        "en": "patuakhali-3",
+        "bn": "পটুয়াখালী-৩"
+      },
+      "total_voters": 375871
+    },
+    {
+      "code": "114",
+      "name": {
+        "en": "Patuakhali-4",
+        "bn": "পটুয়াখালী-৪"
+      },
+      "total_voters": 312603
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

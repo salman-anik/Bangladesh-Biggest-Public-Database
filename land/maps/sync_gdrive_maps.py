@@ -555,6 +555,28 @@ def refresh_github_catalogs(conn):
     print(f"Refreshed GitHub catalogs: {total_uploaded:,}/{total_files:,} files uploaded ({total_uploaded_bytes/(1024**3):.2f} GB)", flush=True)
 
 
+def auto_push_github_maps(conn):
+    """Refresh map catalog JSONs/README and commit + push land/maps updates to GitHub."""
+    refresh_github_catalogs(conn)
+    repo_root = REPO_MAPS_DIR.parent.parent
+    try:
+        st = subprocess.run(["git", "status", "--porcelain", "land/maps"], cwd=str(repo_root), capture_output=True, text=True, encoding="utf-8")
+        if not st.stdout.strip():
+            return
+        row = conn.execute("SELECT COUNT(*) FROM files WHERE status='uploaded'").fetchone()
+        done_cnt = row[0] if row else 0
+        subprocess.run(["git", "add", "land/maps"], cwd=str(repo_root), check=True)
+        subprocess.run(
+            ["git", "commit", "-m", f"chore(maps): sync Mouza maps to Google Drive ({done_cnt:,}/226,157 uploaded)"],
+            cwd=str(repo_root),
+            check=True,
+        )
+        subprocess.run(["git", "push", "origin", "main"], cwd=str(repo_root), check=True)
+        print(f"[GitHub] Pushed updated land/maps catalogs ({done_cnt:,} uploaded).", flush=True)
+    except Exception as exc:
+        print(f"[GitHub Warn] Auto-push skipped/failed: {exc}", flush=True)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Zero-disk sync of Mouza Maps to Google Drive + GitHub links.")
     parser.add_argument("--db", type=Path, default=DEFAULT_DB_PATH)
@@ -562,9 +584,11 @@ def main():
     parser.add_argument("--district", type=str, default=None, help="Filter by district (e.g. Dhaka)")
     parser.add_argument("--workers", type=int, default=3)
     parser.add_argument("--limit-files", type=int, default=0, help="Max files to upload in this run (0 = no limit)")
-    parser.add_argument("--limit-gb", type=float, default=700.0, help="Stop cleanly after uploading N GB (default 700 GB for Drive 750 GB/day cap)")
+    parser.add_argument("--limit-gb", type=float, default=700.0, help="Stop cleanly after uploading N GB per cycle (default 700 GB for Drive 750 GB/day cap; 0 = unlimited until quota)")
     parser.add_argument("--refresh-github", action="store_true", help="Regenerate GitHub JSONs and README with Drive links")
     parser.add_argument("--refresh-only", action="store_true", help="Only regenerate GitHub JSONs and README from existing DB without uploading")
+    parser.add_argument("--continuous", action="store_true", help="Wait across 24h Google Drive upload quota windows and resume automatically until 100% uploaded")
+    parser.add_argument("--auto-push-github", action="store_true", help="Automatically commit and push updated land/maps catalogs every 250 files and on quota pause")
     args = parser.parse_args()
 
     conn = init_db(args.db)
@@ -587,47 +611,81 @@ def main():
         where.append("district = ?")
         params.append(args.district)
 
-    rows = conn.execute(
-        f"""
-        SELECT drive_idx, division, district, upazila, survey, subpath, rel_key, file_name, file_size
-        FROM files
-        WHERE {' AND '.join(where)}
-        ORDER BY division, district, upazila, survey, subpath, file_name
-        """,
-        params,
-    ).fetchall()
-
-    # Group by exact source folder path
-    groups = defaultdict(list)
-    for d_idx, div, dist, upz, surv, subp, rel_key, fname, fsize in rows:
-        folder_parts = [p for p in [dist, upz, surv] + ([s for s in subp.split("/") if s] if subp else []) if p]
-        groups[(d_idx, div, tuple(folder_parts))].append((rel_key, fname, fsize))
-
     uploaded_total_files = 0
-    uploaded_total_bytes = 0
-    limit_bytes = int(args.limit_gb * (1024**3)) if args.limit_gb > 0 else 0
-
     try:
-        for (d_idx, div, fparts), items in groups.items():
-            if STOP_EVENT.is_set():
+        while True:
+            STOP_EVENT.clear()
+            rows = conn.execute(
+                f"""
+                SELECT drive_idx, division, district, upazila, survey, subpath, rel_key, file_name, file_size
+                FROM files
+                WHERE {' AND '.join(where)}
+                ORDER BY division, district, upazila, survey, subpath, file_name
+                """,
+                params,
+            ).fetchall()
+
+            if not rows:
+                print("All matching Mouza map files are uploaded to Google Drive!", flush=True)
+                if args.auto_push_github:
+                    auto_push_github_maps(conn)
+                elif args.refresh_github:
+                    refresh_github_catalogs(conn)
                 break
+
+            groups = defaultdict(list)
+            for d_idx, div, dist, upz, surv, subp, rel_key, fname, fsize in rows:
+                folder_parts = [p for p in [dist, upz, surv] + ([s for s in subp.split("/") if s] if subp else []) if p]
+                groups[(d_idx, div, tuple(folder_parts))].append((rel_key, fname, fsize))
+
+            cycle_files = 0
+            cycle_bytes = 0
+            since_last_push = 0
+            limit_bytes = int(args.limit_gb * (1024**3)) if args.limit_gb > 0 else 0
+
+            for (d_idx, div, fparts), items in groups.items():
+                if STOP_EVENT.is_set():
+                    break
+                if args.limit_files and uploaded_total_files >= args.limit_files:
+                    break
+                if limit_bytes and cycle_bytes >= limit_bytes:
+                    print(f"Reached cycle --limit-gb ({args.limit_gb} GB).", flush=True)
+                    break
+                if args.limit_files:
+                    rem = args.limit_files - uploaded_total_files
+                    items = items[:rem]
+
+                c, b = sync_folder_group(conn, gdrive_bin, (d_idx, div, list(fparts), items), workers=args.workers)
+                uploaded_total_files += c
+                cycle_files += c
+                cycle_bytes += b
+                if c > 0:
+                    print(
+                        f"[Synced] {div}/{'/'.join(fparts)}: +{c} files ({b/1048576:.1f} MB) | Cycle: {cycle_files} files ({cycle_bytes/(1024**3):.2f} GB) | Session: {uploaded_total_files} files",
+                        flush=True,
+                    )
+                if (args.refresh_github or args.auto_push_github) and (cycle_files - since_last_push) >= 250:
+                    since_last_push = cycle_files
+                    if args.auto_push_github:
+                        auto_push_github_maps(conn)
+                    else:
+                        refresh_github_catalogs(conn)
+
+            if args.auto_push_github:
+                auto_push_github_maps(conn)
+            elif args.refresh_github:
+                refresh_github_catalogs(conn)
+
             if args.limit_files and uploaded_total_files >= args.limit_files:
                 break
-            if limit_bytes and uploaded_total_bytes >= limit_bytes:
-                print(f"Reached --limit-gb ({args.limit_gb} GB). Stopping cleanly.", flush=True)
+            if not args.continuous:
                 break
-            if args.limit_files:
-                rem = args.limit_files - uploaded_total_files
-                items = items[:rem]
 
-            c, b = sync_folder_group(conn, gdrive_bin, (d_idx, div, list(fparts), items), workers=args.workers)
-            uploaded_total_files += c
-            uploaded_total_bytes += b
-            if c > 0:
-                print(
-                    f"[Synced] {div}/{'/'.join(fparts)}: +{c} files ({b/1048576:.1f} MB) | Run total: {uploaded_total_files} files ({uploaded_total_bytes/(1024**3):.2f} GB)",
-                    flush=True,
-                )
+            # Daily quota hit or cycle limit reached — sleep 6 hours in 30-min intervals before resuming
+            print("[QuotaWait] Google Drive daily quota or cycle limit reached. Sleeping 6h (polling every 30m) before resuming...", flush=True)
+            for mins in range(0, 360, 30):
+                print(f"[QuotaWait] Sleeping {mins}/360 min before next Drive upload cycle...", flush=True)
+                time.sleep(1800)
     finally:
         if args.refresh_github:
             refresh_github_catalogs(conn)

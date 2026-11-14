@@ -1,0 +1,46 @@
+{
+  "division": "Rangpur",
+  "district": "Lalmonirhat",
+  "upazilas_count": 5,
+  "unions_count": 45,
+  "post_offices_count": 9,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1144495,
+    "male": 574074,
+    "female": 570414,
+    "third_gender": 7
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "16",
+      "name": {
+        "en": "Lalmonirhat-1",
+        "bn": "লালমনিরহাট-১"
+      },
+      "total_voters": 403561,
+      "male": 202707,
+      "female": 200852
+    },
+    {
+      "seat_no": "17",
+      "name": {
+        "en": "Lalmonirhat-2",
+        "bn": "লালমনিরহাট-২"
+      },
+      "total_voters": 432964,
+      "male": 217200,
+      "female": 215761
+    },
+    {
+      "seat_no": "18",
+      "name": {
+        "en": "Lalmonirhat-3",
+        "bn": "লালমনিরহাট-৩"
+      },
+      "total_voters": 307970,
+      "male": 154167,
+      "female": 153801
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "division": "Barishal",
+  "division_bn": "বরিশাল",
+  "district": "Bhola",
+  "district_bn": "ভোলা",
+  "upazila_id": "259",
+  "upazila": "Bhola Sadar",
+  "upazila_bn": "ভোলা সদর",
+  "uno_portal": "sadar.bhola.gov.bd",
+  "district_administration": {
+    "district": "Bhola",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bhola",
+      "phone": "01713-000047",
+      "email": "dcbhola@mopa.gov.bd",
+      "website": "http://www.bhola.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bhola",
+      "phone": "01713-373047",
+      "email": "spbhola@police.gov.bd",
+      "control_room": "01713-374047"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bhola",
+      "phone": "01713-555047",
+      "email": "csbhola@dghs.gov.bd"
+    }
+  },
+  "total_unions": 13,
+  "unions": [
+    {
+      "id": "2328",
+      "name": "Razapur",
+      "bn_name": "রাজাপুর",
+      "url": "razapurup.bhola.gov.bd"
+    },
+    {
+      "id": "2329",
+      "name": "Ilisha",
+      "bn_name": "ইলিশা",
+      "url": "ilishaup.bhola.gov.bd"
+    },
+    {
+      "id": "2330",
+      "name": "Westilisa",
+      "bn_name": "পশ্চিম ইলিশা",
+      "url": "westilisaup.bhola.gov.bd"
+    },
+    {
+      "id": "2331",
+      "name": "Kachia",
+      "bn_name": "কাচিয়া",
+      "url": "kachiaup.bhola.gov.bd"
+    },
+    {
+      "id": "2332",
+      "name": "Bapta",
+      "bn_name": "বাপ্তা",
+      "url": "baptaup.bhola.gov.bd"
+    },
+    {
+      "id": "2333",
+      "name": "Dhania",
+      "bn_name": "ধনিয়া",
+      "url": "dhaniaup.bhola.gov.bd"
+    },
+    {
+      "id": "2334",
+      "name": "Shibpur",
+      "bn_name": "শিবপুর",
+      "url": "shibpurup.bhola.gov.bd"
+    },
+    {
+      "id": "2335",
+      "name": "Alinagor",
+      "bn_name": "আলীনগর",
+      "url": "alinagorup.bhola.gov.bd"
+    },
+    {
+      "id": "2336",
+      "name": "Charshamya",
+      "bn_name": "চরসামাইয়া",
+      "url": "charshamyaup.bhola.gov.bd"
+    },
+    {
+      "id": "2337",
+      "name": "Vhelumia",
+      "bn_name": " ভেলুমিয়া",
+      "url": "vhelumiaup.bhola.gov.bd"
+    },
+    {
+      "id": "2338",
+      "name": "Vheduria",
+      "bn_name": "ভেদুরিয়া",
+      "url": "vheduriaup.bhola.gov.bd"
+    },
+    {
+      "id": "2339",
+      "name": "North Digholdi",
+      "bn_name": "উত্তর দিঘলদী",
+      "url": "northdigholdiup.bhola.gov.bd"
+    },
+    {
+      "id": "2340",
+      "name": "South Digholdi",
+      "bn_name": "দক্ষিণ দিঘলদী",
+      "url": "southdigholdiup.bhola.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "8300",
+      "postcode_bn": "৮৩০০",
+      "division": "Barishal",
+      "division_bn": "খুলনা",
+      "district": "Bhola",
+      "district_bn": "ভোলা",
+      "thana_upazila": "Bhola Sadar",
+      "thana_upazila_bn": "ভোলা সদর",
+      "sub_office": "Bhola Sadar",
+      "sub_office_bn": "ভোলা সদর"
+    },
+    {
+      "postcode": "8301",
+      "postcode_bn": "৮৩০১",
+      "division": "Barishal",
+      "division_bn": "খুলনা",
+      "district": "Bhola",
+      "district_bn": "ভোলা",
+      "thana_upazila": "Bhola Sadar",
+      "thana_upazila_bn": "ভোলা সদর",
+      "sub_office": "Joynagar",
+      "sub_office_bn": "জয়নগর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "115",
+      "name": {
+        "en": "Bhola-1",
+        "bn": "ভোলা-১"
+      },
+      "total_voters": 406567
+    },
+    {
+      "code": "116",
+      "name": {
+        "en": "Bhola-2",
+        "bn": "ভোলা-২"
+      },
+      "total_voters": 395546
+    },
+    {
+      "code": "117",
+      "name": {
+        "en": "Bhola-3",
+        "bn": "ভোলা-৩"
+      },
+      "total_voters": 388550
+    },
+    {
+      "code": "118",
+      "name": {
+        "en": "Bhola-4",
+        "bn": "ভোলা-৪"
+      },
+      "total_voters": 502026
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

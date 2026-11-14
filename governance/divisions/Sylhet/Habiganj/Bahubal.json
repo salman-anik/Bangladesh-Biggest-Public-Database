@@ -1,0 +1,181 @@
+{
+  "division": "Sylhet",
+  "division_bn": "সিলেট",
+  "district": "Habiganj",
+  "district_bn": "হবিগঞ্জ",
+  "upazila_id": "293",
+  "upazila": "Bahubal",
+  "upazila_bn": "বাহুবল",
+  "uno_portal": "bahubal.habiganj.gov.bd",
+  "district_administration": {
+    "district": "Habiganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Habiganj",
+      "phone": "01713-000052",
+      "email": "dchabiganj@mopa.gov.bd",
+      "website": "http://www.habiganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Habiganj",
+      "phone": "01713-373052",
+      "email": "sphabiganj@police.gov.bd",
+      "control_room": "01713-374052"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Habiganj",
+      "phone": "01713-555052",
+      "email": "cshabiganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "2621",
+      "name": "Snanghat",
+      "bn_name": "স্নানঘাট",
+      "url": "snanghatup.habiganj.gov.bd"
+    },
+    {
+      "id": "2622",
+      "name": "Putijuri",
+      "bn_name": "পুটিজুরী",
+      "url": "putijuriup.habiganj.gov.bd"
+    },
+    {
+      "id": "2623",
+      "name": "Satkapon",
+      "bn_name": "সাতকাপন",
+      "url": "satkaponup.habiganj.gov.bd"
+    },
+    {
+      "id": "2624",
+      "name": "Bahubal Sadar",
+      "bn_name": "বাহুবল সদর",
+      "url": "bahubalsadarup.habiganj.gov.bd"
+    },
+    {
+      "id": "2625",
+      "name": "Lamatashi",
+      "bn_name": "লামাতাশী",
+      "url": "lamatashiup.habiganj.gov.bd"
+    },
+    {
+      "id": "2626",
+      "name": "Mirpur",
+      "bn_name": "মিরপুর",
+      "url": "mirpurup.habiganj.gov.bd"
+    },
+    {
+      "id": "2627",
+      "name": "Bhadeshwar",
+      "bn_name": "ভাদেশ্বর",
+      "url": "bhadeshwarup.habiganj.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "3310",
+      "postcode_bn": "৩৩১০",
+      "division": "Sylhet",
+      "division_bn": "চট্টগ্রাম",
+      "district": "Habiganj",
+      "district_bn": "হবিগঞ্জ",
+      "thana_upazila": "Bahubal",
+      "thana_upazila_bn": "বাহুবল",
+      "sub_office": "Bahubal",
+      "sub_office_bn": "মানিকা বাজার"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "239",
+      "name": {
+        "en": "Hobigonj-1",
+        "bn": "হবিগঞ্জ-১"
+      },
+      "total_voters": 466921
+    },
+    {
+      "code": "240",
+      "name": {
+        "en": "Hobigonj-2",
+        "bn": "হবিগঞ্জ-২"
+      },
+      "total_voters": 394756
+    },
+    {
+      "code": "241",
+      "name": {
+        "en": "Hobigonj-3",
+        "bn": "হবিগঞ্জ-৩"
+      },
+      "total_voters": 419573
+    },
+    {
+      "code": "242",
+      "name": {
+        "en": "Hobigonj-4",
+        "bn": "হবিগঞ্জ-৪"
+      },
+      "total_voters": 552711
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

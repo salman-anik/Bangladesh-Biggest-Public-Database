@@ -1,0 +1,363 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Dhaka",
+  "district_bn": "ঢাকা",
+  "upazila_id": "366",
+  "upazila": "Dhamrai",
+  "upazila_bn": "ধামরাই",
+  "uno_portal": "dhamrai.dhaka.gov.bd",
+  "district_administration": {
+    "district": "Dhaka",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Dhaka",
+      "phone": "01713-000000",
+      "email": "dcdhaka@mopa.gov.bd",
+      "website": "http://www.dhaka.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Dhaka",
+      "phone": "01713-373000",
+      "email": "spdhaka@police.gov.bd",
+      "control_room": "01713-374000"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Dhaka",
+      "phone": "01713-555000",
+      "email": "csdhaka@dghs.gov.bd"
+    }
+  },
+  "total_unions": 16,
+  "unions": [
+    {
+      "id": "3283",
+      "name": "Chauhat",
+      "bn_name": "চৌহাট",
+      "url": "chauhatup.dhaka.gov.bd"
+    },
+    {
+      "id": "3284",
+      "name": "Amta",
+      "bn_name": "আমতা",
+      "url": "amtaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3285",
+      "name": "Balia",
+      "bn_name": "বালিয়া",
+      "url": "baliaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3286",
+      "name": "Jadabpur",
+      "bn_name": "যাদবপুর",
+      "url": "jadabpurup.dhaka.gov.bd"
+    },
+    {
+      "id": "3287",
+      "name": "Baisakanda",
+      "bn_name": "বাইশাকান্দা",
+      "url": "baisakandaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3288",
+      "name": "Kushura",
+      "bn_name": "কুশুরা",
+      "url": "kushuraup.dhaka.gov.bd"
+    },
+    {
+      "id": "3289",
+      "name": "Gangutia",
+      "bn_name": "গাংগুটিয়া",
+      "url": "gangutiaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3290",
+      "name": "Sanora",
+      "bn_name": "সানোড়া",
+      "url": "sanoraup.dhaka.gov.bd"
+    },
+    {
+      "id": "3291",
+      "name": "Sutipara",
+      "bn_name": "সূতিপাড়া",
+      "url": "sutiparaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3292",
+      "name": "Sombhag",
+      "bn_name": "সোমভাগ",
+      "url": "sombhagup.dhaka.gov.bd"
+    },
+    {
+      "id": "3293",
+      "name": "Vararia",
+      "bn_name": "ভাড়ারিয়া",
+      "url": "varariaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3294",
+      "name": "Dhamrai",
+      "bn_name": "ধামরাই",
+      "url": "dhamraiup.dhaka.gov.bd"
+    },
+    {
+      "id": "3295",
+      "name": "Kulla",
+      "bn_name": "কুল্লা",
+      "url": "kullaup.dhaka.gov.bd"
+    },
+    {
+      "id": "3296",
+      "name": "Rowail",
+      "bn_name": "রোয়াইল",
+      "url": "rowailup.dhaka.gov.bd"
+    },
+    {
+      "id": "3297",
+      "name": "Suapur",
+      "bn_name": "সুয়াপুর",
+      "url": "suapurup.dhaka.gov.bd"
+    },
+    {
+      "id": "3298",
+      "name": "Nannar",
+      "bn_name": "নান্নার",
+      "url": "nannarup.dhaka.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "1350",
+      "postcode_bn": "১৩৫০",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Dhaka",
+      "district_bn": "ঢাকা",
+      "thana_upazila": "Dhamrai",
+      "thana_upazila_bn": "ধামরাই",
+      "sub_office": "Dhamrai",
+      "sub_office_bn": "ধামরাই"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "174",
+      "name": {
+        "en": "Dhaka-1",
+        "bn": "ঢাকা-১"
+      },
+      "total_voters": 545140
+    },
+    {
+      "code": "175",
+      "name": {
+        "en": "Dhaka-2",
+        "bn": "ঢাকা-২"
+      },
+      "total_voters": 419215
+    },
+    {
+      "code": "176",
+      "name": {
+        "en": "Dhaka-3",
+        "bn": "ঢাকা-৩"
+      },
+      "total_voters": 362159
+    },
+    {
+      "code": "177",
+      "name": {
+        "en": "Dhaka-4",
+        "bn": "ঢাকা-৪"
+      },
+      "total_voters": 362506
+    },
+    {
+      "code": "178",
+      "name": {
+        "en": "Dhaka-5",
+        "bn": "ঢাকা-৫"
+      },
+      "total_voters": 419996
+    },
+    {
+      "code": "179",
+      "name": {
+        "en": "Dhaka-6",
+        "bn": "ঢাকা-৬"
+      },
+      "total_voters": 292284
+    },
+    {
+      "code": "180",
+      "name": {
+        "en": "Dhaka-7",
+        "bn": "ঢাকা-৭"
+      },
+      "total_voters": 498263
+    },
+    {
+      "code": "181",
+      "name": {
+        "en": "Dhaka-8",
+        "bn": "ঢাকা-৮"
+      },
+      "total_voters": 275471
+    },
+    {
+      "code": "182",
+      "name": {
+        "en": "Dhaka-9",
+        "bn": "ঢাকা-৯"
+      },
+      "total_voters": 469359
+    },
+    {
+      "code": "183",
+      "name": {
+        "en": "Dhaka-10",
+        "bn": "ঢাকা-১০"
+      },
+      "total_voters": 388660
+    },
+    {
+      "code": "184",
+      "name": {
+        "en": "Dhaka-11",
+        "bn": "ঢাকা-১১"
+      },
+      "total_voters": 439078
+    },
+    {
+      "code": "185",
+      "name": {
+        "en": "Dhaka-12",
+        "bn": "ঢাকা-১২"
+      },
+      "total_voters": 333320
+    },
+    {
+      "code": "186",
+      "name": {
+        "en": "Dhaka-13",
+        "bn": "ঢাকা-১৩"
+      },
+      "total_voters": 408791
+    },
+    {
+      "code": "187",
+      "name": {
+        "en": "Dhaka-14",
+        "bn": "ঢাকা-১৪"
+      },
+      "total_voters": 410591
+    },
+    {
+      "code": "188",
+      "name": {
+        "en": "Dhaka-15",
+        "bn": "ঢাকা-১৫"
+      },
+      "total_voters": 351718
+    },
+    {
+      "code": "189",
+      "name": {
+        "en": "Dhaka-16",
+        "bn": "ঢাকা-১৬"
+      },
+      "total_voters": 400499
+    },
+    {
+      "code": "190",
+      "name": {
+        "en": "Dhaka-17",
+        "bn": "ঢাকা-১৭"
+      },
+      "total_voters": 333777
+    },
+    {
+      "code": "191",
+      "name": {
+        "en": "Dhaka-18",
+        "bn": "ঢাকা-১৮"
+      },
+      "total_voters": 613883
+    },
+    {
+      "code": "192",
+      "name": {
+        "en": "Dhaka-19",
+        "bn": "ঢাকা-১৯"
+      },
+      "total_voters": 747070
+    },
+    {
+      "code": "193",
+      "name": {
+        "en": "Dhaka-20",
+        "bn": "ঢাকা-২০"
+      },
+      "total_voters": 376639
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Rajbari",
+  "district_bn": "রাজবাড়ী",
+  "upazila_id": "378",
+  "upazila": "Pangsa",
+  "upazila_bn": "পাংশা",
+  "uno_portal": "pangsa.rajbari.gov.bd",
+  "district_administration": {
+    "district": "Rajbari",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rajbari",
+      "phone": "01713-000017",
+      "email": "dcrajbari@mopa.gov.bd",
+      "website": "http://www.rajbari.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rajbari",
+      "phone": "01713-373017",
+      "email": "sprajbari@police.gov.bd",
+      "control_room": "01713-374017"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rajbari",
+      "phone": "01713-555017",
+      "email": "csrajbari@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "3418",
+      "name": "Bahadurpur",
+      "bn_name": "বাহাদুরপুর",
+      "url": "bahadurpurup.rajbari.gov.bd"
+    },
+    {
+      "id": "3419",
+      "name": "Habashpur",
+      "bn_name": "হাবাসপুর",
+      "url": "habashpurup.rajbari.gov.bd"
+    },
+    {
+      "id": "3420",
+      "name": "Jashai",
+      "bn_name": "যশাই",
+      "url": "jashaiup.rajbari.gov.bd"
+    },
+    {
+      "id": "3421",
+      "name": "Babupara",
+      "bn_name": "বাবুপাড়া",
+      "url": "babuparaup.rajbari.gov.bd"
+    },
+    {
+      "id": "3422",
+      "name": "Mourat",
+      "bn_name": "মৌরাট",
+      "url": "mouratup.rajbari.gov.bd"
+    },
+    {
+      "id": "3423",
+      "name": "Patta",
+      "bn_name": "পাট্টা",
+      "url": "pattaup.rajbari.gov.bd"
+    },
+    {
+      "id": "3424",
+      "name": "Sarisha",
+      "bn_name": "সরিষা",
+      "url": "sarishaup.rajbari.gov.bd"
+    },
+    {
+      "id": "3425",
+      "name": "Kalimahar",
+      "bn_name": "কলিমহর",
+      "url": "kalimaharup.rajbari.gov.bd"
+    },
+    {
+      "id": "3426",
+      "name": "Kasbamajhail",
+      "bn_name": "কসবামাজাইল",
+      "url": "kasbamajhailup.rajbari.gov.bd"
+    },
+    {
+      "id": "3427",
+      "name": "Machhpara",
+      "bn_name": "মাছপাড়া",
+      "url": "machhparaup.rajbari.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "209",
+      "name": {
+        "en": "Rajbari-1",
+        "bn": "রাজবাড়ী-১"
+      },
+      "total_voters": 430216
+    },
+    {
+      "code": "210",
+      "name": {
+        "en": "Rajbari-2",
+        "bn": "রাজবাড়ী-২"
+      },
+      "total_voters": 559696
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

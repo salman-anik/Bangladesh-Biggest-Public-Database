@@ -1,0 +1,66 @@
+{
+  "division": "Dhaka",
+  "district": "Narayanganj",
+  "upazilas_count": 5,
+  "unions_count": 38,
+  "post_offices_count": 21,
+  "parliamentary_seats_count": 5,
+  "registered_voters": {
+    "total": 2392346,
+    "male": 1215423,
+    "female": 1176898,
+    "third_gender": 25
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "204",
+      "name": {
+        "en": "Narayangonj-1",
+        "bn": "নারায়ণগঞ্জ-১"
+      },
+      "total_voters": 408829,
+      "male": 207849,
+      "female": 200977
+    },
+    {
+      "seat_no": "205",
+      "name": {
+        "en": "Narayangonj-2",
+        "bn": "নারায়ণগঞ্জ-২"
+      },
+      "total_voters": 364098,
+      "male": 187801,
+      "female": 176292
+    },
+    {
+      "seat_no": "206",
+      "name": {
+        "en": "Narayangonj-3",
+        "bn": "নারায়ণগঞ্জ-৩"
+      },
+      "total_voters": 593348,
+      "male": 302290,
+      "female": 291055
+    },
+    {
+      "seat_no": "207",
+      "name": {
+        "en": "Narayangonj-4",
+        "bn": "নারায়ণগঞ্জ-৪"
+      },
+      "total_voters": 540783,
+      "male": 273715,
+      "female": 267062
+    },
+    {
+      "seat_no": "208",
+      "name": {
+        "en": "Narayangonj-5",
+        "bn": "নারায়ণগঞ্জ-৫"
+      },
+      "total_voters": 485288,
+      "male": 243768,
+      "female": 241512
+    }
+  ]
+}

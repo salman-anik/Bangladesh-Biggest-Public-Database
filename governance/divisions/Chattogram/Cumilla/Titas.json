@@ -1,0 +1,236 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Cumilla",
+  "district_bn": "কুমিল্লা",
+  "upazila_id": "15",
+  "upazila": "Titas",
+  "upazila_bn": "তিতাস",
+  "uno_portal": "titas.comilla.gov.bd",
+  "district_administration": {
+    "district": "Cumilla",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Cumilla",
+      "phone": "01713-000020",
+      "email": "dccumilla@mopa.gov.bd",
+      "website": "http://www.cumilla.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Cumilla",
+      "phone": "01713-373020",
+      "email": "spcumilla@police.gov.bd",
+      "control_room": "01713-374020"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Cumilla",
+      "phone": "01713-555020",
+      "email": "cscumilla@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "168",
+      "name": "Satani",
+      "bn_name": "সাতানী",
+      "url": "sataniup.comilla.gov.bd"
+    },
+    {
+      "id": "169",
+      "name": "Jagatpur",
+      "bn_name": "জগতপুর",
+      "url": "jagatpurup.comilla.gov.bd"
+    },
+    {
+      "id": "170",
+      "name": "Balorampur",
+      "bn_name": "বলরামপুর",
+      "url": "balorampurup.comilla.gov.bd"
+    },
+    {
+      "id": "171",
+      "name": "Karikandi",
+      "bn_name": "কড়িকান্দি",
+      "url": "karikandiup.comilla.gov.bd"
+    },
+    {
+      "id": "172",
+      "name": "Kalakandi",
+      "bn_name": "কলাকান্দি",
+      "url": "kalakandiup.comilla.gov.bd"
+    },
+    {
+      "id": "173",
+      "name": "Vitikandi",
+      "bn_name": "ভিটিকান্দি",
+      "url": "vitikandiup.comilla.gov.bd"
+    },
+    {
+      "id": "174",
+      "name": "Narayandia",
+      "bn_name": "নারান্দিয়া",
+      "url": "narayandiaup.comilla.gov.bd"
+    },
+    {
+      "id": "175",
+      "name": "Zearkandi",
+      "bn_name": "জিয়ারকান্দি",
+      "url": "zearkandiup.comilla.gov.bd"
+    },
+    {
+      "id": "176",
+      "name": "Majidpur",
+      "bn_name": "মজিদপুর",
+      "url": "majidpurup.comilla.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "249",
+      "name": {
+        "en": "Comilla-1",
+        "bn": "কুমিল্লা-১"
+      },
+      "total_voters": 438616
+    },
+    {
+      "code": "250",
+      "name": {
+        "en": "Comilla-2",
+        "bn": "কুমিল্লা-২"
+      },
+      "total_voters": 375067
+    },
+    {
+      "code": "251",
+      "name": {
+        "en": "Comilla-3",
+        "bn": "কুমিল্লা-৩"
+      },
+      "total_voters": 500726
+    },
+    {
+      "code": "252",
+      "name": {
+        "en": "Comilla-4",
+        "bn": "কুমিল্লা-৪"
+      },
+      "total_voters": 410559
+    },
+    {
+      "code": "253",
+      "name": {
+        "en": "Comilla-5",
+        "bn": "কুমিল্লা-৫"
+      },
+      "total_voters": 476172
+    },
+    {
+      "code": "254",
+      "name": {
+        "en": "Comilla-6",
+        "bn": "কুমিল্লা-৬"
+      },
+      "total_voters": 644777
+    },
+    {
+      "code": "255",
+      "name": {
+        "en": "Comilla-7",
+        "bn": "কুমিল্লা-৭"
+      },
+      "total_voters": 329166
+    },
+    {
+      "code": "256",
+      "name": {
+        "en": "Comilla-8",
+        "bn": "কুমিল্লা-৮"
+      },
+      "total_voters": 380833
+    },
+    {
+      "code": "257",
+      "name": {
+        "en": "Comilla-9",
+        "bn": "কুমিল্লা-৯"
+      },
+      "total_voters": 478535
+    },
+    {
+      "code": "258",
+      "name": {
+        "en": "Comilla-10",
+        "bn": "কুমিল্লা-১০"
+      },
+      "total_voters": 536227
+    },
+    {
+      "code": "259",
+      "name": {
+        "en": "Comilla-11",
+        "bn": "কুমিল্লা-১১"
+      },
+      "total_voters": 421632
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

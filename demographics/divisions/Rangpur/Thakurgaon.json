@@ -1,0 +1,46 @@
+{
+  "division": "Rangpur",
+  "district": "Thakurgaon",
+  "upazilas_count": 5,
+  "unions_count": 53,
+  "post_offices_count": 10,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1253413,
+    "male": 633154,
+    "female": 620252,
+    "third_gender": 7
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "3",
+      "name": {
+        "en": "Thakurgaon-1",
+        "bn": "ঠাকুরগাঁও-১"
+      },
+      "total_voters": 511629,
+      "male": 255053,
+      "female": 256572
+    },
+    {
+      "seat_no": "4",
+      "name": {
+        "en": "Thakurgaon-2",
+        "bn": "ঠাকুরগাঁও-২"
+      },
+      "total_voters": 340049,
+      "male": 175232,
+      "female": 164816
+    },
+    {
+      "seat_no": "5",
+      "name": {
+        "en": "Thakurgaon-3",
+        "bn": "ঠাকুরগাঁও-৩"
+      },
+      "total_voters": 401735,
+      "male": 202869,
+      "female": 198864
+    }
+  ]
+}

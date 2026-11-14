@@ -1,0 +1,220 @@
+{
+  "division": "Barishal",
+  "division_bn": "বরিশাল",
+  "district": "Barishal",
+  "district_bn": "বরিশাল",
+  "upazila_id": "256",
+  "upazila": "Mehendiganj",
+  "upazila_bn": "মেহেন্দিগঞ্জ",
+  "uno_portal": "mehendiganj.barisal.gov.bd",
+  "district_administration": {
+    "district": "Barishal",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Barishal",
+      "phone": "01713-000004",
+      "email": "dcbarishal@mopa.gov.bd",
+      "website": "http://www.barishal.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Barishal",
+      "phone": "01713-373004",
+      "email": "spbarishal@police.gov.bd",
+      "control_room": "01713-374004"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Barishal",
+      "phone": "01713-555004",
+      "email": "csbarishal@dghs.gov.bd"
+    }
+  },
+  "total_unions": 13,
+  "unions": [
+    {
+      "id": "2302",
+      "name": "Andarmanik",
+      "bn_name": "আন্দারমানিক",
+      "url": "andarmanikup.barisal.gov.bd"
+    },
+    {
+      "id": "2303",
+      "name": "Lata",
+      "bn_name": "লতা",
+      "url": "lataup.barisal.gov.bd"
+    },
+    {
+      "id": "2304",
+      "name": "Charakkorea",
+      "bn_name": "চরএককরিয়া",
+      "url": "charakkoreaup.barisal.gov.bd"
+    },
+    {
+      "id": "2305",
+      "name": "Ulania",
+      "bn_name": "উলানিয়া",
+      "url": "ulaniaup.barisal.gov.bd"
+    },
+    {
+      "id": "2306",
+      "name": "Mehendigong",
+      "bn_name": "মেহেন্দিগঞ্জ",
+      "url": "mehendigongup.barisal.gov.bd"
+    },
+    {
+      "id": "2307",
+      "name": "Biddanandapur",
+      "bn_name": "বিদ্যানন্দনপুর",
+      "url": "biddanandapurup.barisal.gov.bd"
+    },
+    {
+      "id": "2308",
+      "name": "Bhashanchar",
+      "bn_name": "ভাষানচর",
+      "url": "bhashancharup.barisal.gov.bd"
+    },
+    {
+      "id": "2309",
+      "name": "Jangalia",
+      "bn_name": "জাঙ্গালিয়া",
+      "url": "jangaliaup.barisal.gov.bd"
+    },
+    {
+      "id": "2310",
+      "name": "Alimabad",
+      "bn_name": "আলিমাবাদ",
+      "url": "alimabadup.barisal.gov.bd"
+    },
+    {
+      "id": "2311",
+      "name": "Chandpur",
+      "bn_name": "চানপুর",
+      "url": "chandpurup.barisal.gov.bd"
+    },
+    {
+      "id": "2312",
+      "name": "Darirchar Khajuria",
+      "bn_name": "দড়িরচর খাজুরিয়া",
+      "url": "darircharkhajuriaup.barisal.gov.bd"
+    },
+    {
+      "id": "2313",
+      "name": "Gobindapur",
+      "bn_name": "গোবিন্দপুর",
+      "url": "gobindapurup.barisal.gov.bd"
+    },
+    {
+      "id": "2314",
+      "name": "Chargopalpur",
+      "bn_name": "চরগোপালপুর",
+      "url": "chargopalpurup.barisal.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "119",
+      "name": {
+        "en": "Barishal-1",
+        "bn": "বরিশাল-১"
+      },
+      "total_voters": 328198
+    },
+    {
+      "code": "120",
+      "name": {
+        "en": "Barishal-2",
+        "bn": "বরিশাল-২"
+      },
+      "total_voters": 385807
+    },
+    {
+      "code": "121",
+      "name": {
+        "en": "Barishal-3",
+        "bn": "বরিশাল-৩"
+      },
+      "total_voters": 332097
+    },
+    {
+      "code": "122",
+      "name": {
+        "en": "Barishal-4",
+        "bn": "বরিশাল-৪"
+      },
+      "total_voters": 421975
+    },
+    {
+      "code": "123",
+      "name": {
+        "en": "Barishal-5",
+        "bn": "বরিশাল-৫"
+      },
+      "total_voters": 501304
+    },
+    {
+      "code": "124",
+      "name": {
+        "en": "Barishal-6",
+        "bn": "বরিশাল-৬"
+      },
+      "total_voters": 315597
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

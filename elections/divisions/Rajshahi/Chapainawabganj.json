@@ -1,0 +1,58 @@
+{
+  "division": "Rajshahi",
+  "district": "Chapainawabganj",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4878,
+      "slug": "chapainababgonj-1",
+      "code": "43",
+      "district_id": 28,
+      "division_id": 6,
+      "name": {
+        "en": "ChapaiNababgonj-1",
+        "bn": "চাঁপাইনবাবগঞ্জ-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/ChapaiNababgonj-1.svg",
+      "total_voters": 500181,
+      "total_male_voters": 255316,
+      "total_female_voters": 244865,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4879,
+      "slug": "chapainababgonj-2",
+      "code": "44",
+      "district_id": 28,
+      "division_id": 6,
+      "name": {
+        "en": "ChapaiNababgonj-2",
+        "bn": "চাঁপাইনবাবগঞ্জ-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/ChapaiNababgonj-2.svg",
+      "total_voters": 461000,
+      "total_male_voters": 228825,
+      "total_female_voters": 232174,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4880,
+      "slug": "chapainababgonj-3",
+      "code": "45",
+      "district_id": 28,
+      "division_id": 6,
+      "name": {
+        "en": "ChapaiNababgonj-3",
+        "bn": "চাঁপাইনবাবগঞ্জ-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/ChapaiNababgonj-3.svg",
+      "total_voters": 468479,
+      "total_male_voters": 236648,
+      "total_female_voters": 231831,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    }
+  ]
+}

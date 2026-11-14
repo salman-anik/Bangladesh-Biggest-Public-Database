@@ -1,0 +1,150 @@
+{
+  "division": "Sylhet",
+  "district": "Moulvibazar",
+  "district_administration": {},
+  "total_upazilas": 7,
+  "upazilas": [
+    {
+      "upazila": "Barlekha",
+      "upazila_bn": "বড়লেখা",
+      "uno_portal": "barlekha.moulvibazar.gov.bd",
+      "total_unions": 11,
+      "file": "divisions/Sylhet/Moulvibazar/Barlekha.json"
+    },
+    {
+      "upazila": "Juri",
+      "upazila_bn": "জুড়ী",
+      "uno_portal": "juri.moulvibazar.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Sylhet/Moulvibazar/Juri.json"
+    },
+    {
+      "upazila": "Kamolganj",
+      "upazila_bn": "কমলগঞ্জ",
+      "uno_portal": "kamolganj.moulvibazar.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Sylhet/Moulvibazar/Kamolganj.json"
+    },
+    {
+      "upazila": "Kulaura",
+      "upazila_bn": "কুলাউড়া",
+      "uno_portal": "kulaura.moulvibazar.gov.bd",
+      "total_unions": 13,
+      "file": "divisions/Sylhet/Moulvibazar/Kulaura.json"
+    },
+    {
+      "upazila": "Moulvibazar Sadar",
+      "upazila_bn": "মৌলভীবাজার সদর",
+      "uno_portal": "moulvibazarsadar.moulvibazar.gov.bd",
+      "total_unions": 12,
+      "file": "divisions/Sylhet/Moulvibazar/Moulvibazar Sadar.json"
+    },
+    {
+      "upazila": "Rajnagar",
+      "upazila_bn": "রাজনগর",
+      "uno_portal": "rajnagar.moulvibazar.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Sylhet/Moulvibazar/Rajnagar.json"
+    },
+    {
+      "upazila": "Sreemangal",
+      "upazila_bn": "শ্রীমঙ্গল",
+      "uno_portal": "sreemangal.moulvibazar.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Sylhet/Moulvibazar/Sreemangal.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "235",
+      "name": {
+        "en": "Moulavibazar-1",
+        "bn": "মৌলভীবাজার-১"
+      },
+      "total_voters": 337816
+    },
+    {
+      "code": "236",
+      "name": {
+        "en": "Moulavibazar-2",
+        "bn": "মৌলভীবাজার-২"
+      },
+      "total_voters": 303020
+    },
+    {
+      "code": "237",
+      "name": {
+        "en": "Moulavibazar-3",
+        "bn": "মৌলভীবাজার-৩"
+      },
+      "total_voters": 486212
+    },
+    {
+      "code": "238",
+      "name": {
+        "en": "Moulavibazar-4",
+        "bn": "মৌলভীবাজার-৪"
+      },
+      "total_voters": 487892
+    }
+  ],
+  "total_postal_offices": 26,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

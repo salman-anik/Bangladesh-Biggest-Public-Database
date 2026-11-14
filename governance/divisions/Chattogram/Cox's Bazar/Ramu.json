@@ -1,0 +1,205 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Cox's Bazar",
+  "district_bn": "কক্সবাজার",
+  "upazila_id": "86",
+  "upazila": "Ramu",
+  "upazila_bn": "রামু",
+  "uno_portal": "ramu.coxsbazar.gov.bd",
+  "district_administration": {
+    "district": "Cox's Bazar",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Cox's Bazar",
+      "phone": "01713-000026",
+      "email": "dccoxsbazar@mopa.gov.bd",
+      "website": "http://www.coxsbazar.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Cox's Bazar",
+      "phone": "01713-373026",
+      "email": "spcox'sbazar@police.gov.bd",
+      "control_room": "01713-374026"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Cox's Bazar",
+      "phone": "01713-555026",
+      "email": "cscox'sbazar@dghs.gov.bd"
+    }
+  },
+  "total_unions": 11,
+  "unions": [
+    {
+      "id": "867",
+      "name": "Fotekharkul",
+      "bn_name": "ফতেখাঁরকুল",
+      "url": "fotekharkulup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "868",
+      "name": "Rajarkul",
+      "bn_name": "রাজারকুল",
+      "url": "rajarkulup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "869",
+      "name": "Rashidnagar",
+      "bn_name": "রশীদনগর",
+      "url": "rashidnagarup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "870",
+      "name": "Khuniapalong",
+      "bn_name": "খুনিয়াপালং",
+      "url": "khuniapalongup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "871",
+      "name": "Eidghar",
+      "bn_name": "ঈদগড়",
+      "url": "eidgharup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "872",
+      "name": "Chakmarkul",
+      "bn_name": "চাকমারকুল",
+      "url": "chakmarkulup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "873",
+      "name": "Kacchapia",
+      "bn_name": "কচ্ছপিয়া",
+      "url": "kacchapiaup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "874",
+      "name": "Kauwarkho",
+      "bn_name": "কাউয়ারখোপ",
+      "url": "kauwarkhopup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "875",
+      "name": "Dakkhin Mithachhari",
+      "bn_name": "দক্ষিণ মিঠাছড়ি",
+      "url": "dakkhinmithachhariup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "876",
+      "name": "Jouarianala",
+      "bn_name": "জোয়ারিয়া নালা",
+      "url": "jouarianalaup.coxsbazar.gov.bd"
+    },
+    {
+      "id": "877",
+      "name": "Garjoniya",
+      "bn_name": "গর্জনিয়া",
+      "url": "garjoniyaup.coxsbazar.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "4730",
+      "postcode_bn": "৪৭৩০",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cox's Bazar",
+      "district_bn": "কক্সবাজার",
+      "thana_upazila": "Ramu",
+      "thana_upazila_bn": "রামু",
+      "sub_office": "Ramu",
+      "sub_office_bn": "রামু"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "294",
+      "name": {
+        "en": "Coxs Bazar-1",
+        "bn": "কক্সবাজার-১"
+      },
+      "total_voters": 540490
+    },
+    {
+      "code": "295",
+      "name": {
+        "en": "Coxs Bazar-2",
+        "bn": "কক্সবাজার-২"
+      },
+      "total_voters": 387851
+    },
+    {
+      "code": "296",
+      "name": {
+        "en": "Coxs Bazar-3",
+        "bn": "কক্সবাজার-৩"
+      },
+      "total_voters": 545963
+    },
+    {
+      "code": "297",
+      "name": {
+        "en": "Coxs Bazar-4",
+        "bn": "কক্সবাজার-৪"
+      },
+      "total_voters": 375688
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

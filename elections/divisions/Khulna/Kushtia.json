@@ -1,0 +1,75 @@
+{
+  "division": "Khulna",
+  "district": "Kushtia",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4754,
+      "slug": "kushtia-1",
+      "code": "75",
+      "district_id": 35,
+      "division_id": 4,
+      "name": {
+        "en": "Kushtia-1",
+        "bn": "কুষ্টিয়া-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/2026/02/7dda17f5-be48-4db1-8123-e4edc872b004.svg",
+      "total_voters": 404504,
+      "total_male_voters": 203492,
+      "total_female_voters": 201011,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4755,
+      "slug": "kustia-2",
+      "code": "76",
+      "district_id": 35,
+      "division_id": 4,
+      "name": {
+        "en": "Kustia-2",
+        "bn": "কুষ্টিয়া-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kustia-2.svg",
+      "total_voters": 523454,
+      "total_male_voters": 262632,
+      "total_female_voters": 260819,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4756,
+      "slug": "kustia-3",
+      "code": "77",
+      "district_id": 35,
+      "division_id": 4,
+      "name": {
+        "en": "Kustia-3",
+        "bn": "কুষ্টিয়া-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kustia-3.svg",
+      "total_voters": 440842,
+      "total_male_voters": 217269,
+      "total_female_voters": 223569,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4757,
+      "slug": "kustia-4",
+      "code": "78",
+      "district_id": 35,
+      "division_id": 4,
+      "name": {
+        "en": "Kustia-4",
+        "bn": "কুষ্টিয়া-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kustia-4.svg",
+      "total_voters": 424417,
+      "total_male_voters": 213504,
+      "total_female_voters": 210908,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    }
+  ]
+}

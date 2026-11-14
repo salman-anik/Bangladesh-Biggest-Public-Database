@@ -1,0 +1,36 @@
+{
+  "division": "Dhaka",
+  "district": "Rajbari",
+  "upazilas_count": 5,
+  "unions_count": 43,
+  "post_offices_count": 9,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 989912,
+    "male": 501694,
+    "female": 488204,
+    "third_gender": 14
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "209",
+      "name": {
+        "en": "Rajbari-1",
+        "bn": "রাজবাড়ী-১"
+      },
+      "total_voters": 430216,
+      "male": 216150,
+      "female": 214058
+    },
+    {
+      "seat_no": "210",
+      "name": {
+        "en": "Rajbari-2",
+        "bn": "রাজবাড়ী-২"
+      },
+      "total_voters": 559696,
+      "male": 285544,
+      "female": 274146
+    }
+  ]
+}

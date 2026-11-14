@@ -1,0 +1,191 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "district_administration": {
+    "district": "Pabna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Pabna",
+      "phone": "01713-000032",
+      "email": "dcpabna@mopa.gov.bd",
+      "website": "http://www.pabna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Pabna",
+      "phone": "01713-373032",
+      "email": "sppabna@police.gov.bd",
+      "control_room": "01713-374032"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Pabna",
+      "phone": "01713-555032",
+      "email": "cspabna@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 9,
+  "upazilas": [
+    {
+      "upazila": "Atghoria",
+      "upazila_bn": "আটঘরিয়া",
+      "uno_portal": "atghoria.pabna.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Rajshahi/Pabna/Atghoria.json"
+    },
+    {
+      "upazila": "Bera",
+      "upazila_bn": "বেড়া",
+      "uno_portal": "bera.pabna.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Rajshahi/Pabna/Bera.json"
+    },
+    {
+      "upazila": "Bhangura",
+      "upazila_bn": "ভাঙ্গুড়া",
+      "uno_portal": "bhangura.pabna.gov.bd",
+      "total_unions": 5,
+      "file": "divisions/Rajshahi/Pabna/Bhangura.json"
+    },
+    {
+      "upazila": "Chatmohar",
+      "upazila_bn": "চাটমোহর",
+      "uno_portal": "chatmohar.pabna.gov.bd",
+      "total_unions": 11,
+      "file": "divisions/Rajshahi/Pabna/Chatmohar.json"
+    },
+    {
+      "upazila": "Faridpur",
+      "upazila_bn": "ফরিদপুর",
+      "uno_portal": "faridpur.pabna.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Rajshahi/Pabna/Faridpur.json"
+    },
+    {
+      "upazila": "Ishurdi",
+      "upazila_bn": "ঈশ্বরদী",
+      "uno_portal": "ishurdi.pabna.gov.bd",
+      "total_unions": 7,
+      "file": "divisions/Rajshahi/Pabna/Ishurdi.json"
+    },
+    {
+      "upazila": "Pabna Sadar",
+      "upazila_bn": "পাবনা সদর",
+      "uno_portal": "pabnasadar.pabna.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rajshahi/Pabna/Pabna Sadar.json"
+    },
+    {
+      "upazila": "Santhia",
+      "upazila_bn": "সাঁথিয়া",
+      "uno_portal": "santhia.pabna.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rajshahi/Pabna/Santhia.json"
+    },
+    {
+      "upazila": "Sujanagar",
+      "upazila_bn": "সুজানগর",
+      "uno_portal": "sujanagar.pabna.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rajshahi/Pabna/Sujanagar.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "68",
+      "name": {
+        "en": "Pabna-1",
+        "bn": "পাবনা-১"
+      },
+      "total_voters": 340935
+    },
+    {
+      "code": "69",
+      "name": {
+        "en": "Pabna-2",
+        "bn": "পাবনা-২"
+      },
+      "total_voters": 497394
+    },
+    {
+      "code": "70",
+      "name": {
+        "en": "Pabna-3",
+        "bn": "পাবনা-৩"
+      },
+      "total_voters": 486806
+    },
+    {
+      "code": "71",
+      "name": {
+        "en": "Pabna-4",
+        "bn": "পাবনা-৪"
+      },
+      "total_voters": 440168
+    },
+    {
+      "code": "72",
+      "name": {
+        "en": "Pabna-5",
+        "bn": "পাবনা-৫"
+      },
+      "total_voters": 528044
+    }
+  ],
+  "total_postal_offices": 18,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

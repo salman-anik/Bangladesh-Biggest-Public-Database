@@ -1,0 +1,75 @@
+{
+  "division": "Rangpur",
+  "district": "Kurigram",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4836,
+      "slug": "kurigram-1",
+      "code": "25",
+      "district_id": 24,
+      "division_id": 7,
+      "name": {
+        "en": "Kurigram-1",
+        "bn": "কুড়িগ্রাম-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kurigram-1.svg",
+      "total_voters": 563978,
+      "total_male_voters": 281424,
+      "total_female_voters": 282551,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4837,
+      "slug": "kurigram-2",
+      "code": "26",
+      "district_id": 24,
+      "division_id": 7,
+      "name": {
+        "en": "Kurigram-2",
+        "bn": "কুড়িগ্রাম-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kurigram-2.svg",
+      "total_voters": 604738,
+      "total_male_voters": 299890,
+      "total_female_voters": 304841,
+      "total_third_gender_voters": 7,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4838,
+      "slug": "kurigram-3",
+      "code": "27",
+      "district_id": 24,
+      "division_id": 7,
+      "name": {
+        "en": "Kurigram-3",
+        "bn": "কুড়িগ্রাম-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kurigram-3.svg",
+      "total_voters": 368470,
+      "total_male_voters": 183064,
+      "total_female_voters": 185406,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4839,
+      "slug": "kurigram-4",
+      "code": "28",
+      "district_id": 24,
+      "division_id": 7,
+      "name": {
+        "en": "Kurigram-4",
+        "bn": "কুড়িগ্রাম-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Kurigram-4.svg",
+      "total_voters": 362753,
+      "total_male_voters": 181361,
+      "total_female_voters": 181388,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "division": "Rajshahi",
+  "district": "Naogaon",
+  "district_administration": {
+    "district": "Naogaon",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Naogaon",
+      "phone": "01713-000034",
+      "email": "dcnaogaon@mopa.gov.bd",
+      "website": "http://www.naogaon.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Naogaon",
+      "phone": "01713-373034",
+      "email": "spnaogaon@police.gov.bd",
+      "control_room": "01713-374034"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Naogaon",
+      "phone": "01713-555034",
+      "email": "csnaogaon@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 11,
+  "upazilas": [
+    {
+      "upazila": "Atrai",
+      "upazila_bn": "আত্রাই",
+      "uno_portal": "atrai.naogaon.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Naogaon/Atrai.json"
+    },
+    {
+      "upazila": "Badalgachi",
+      "upazila_bn": "বদলগাছী",
+      "uno_portal": "badalgachi.naogaon.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Naogaon/Badalgachi.json"
+    },
+    {
+      "upazila": "Dhamoirhat",
+      "upazila_bn": "ধামইরহাট",
+      "uno_portal": "dhamoirhat.naogaon.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Naogaon/Dhamoirhat.json"
+    },
+    {
+      "upazila": "Manda",
+      "upazila_bn": "মান্দা",
+      "uno_portal": "manda.naogaon.gov.bd",
+      "total_unions": 14,
+      "file": "divisions/Rajshahi/Naogaon/Manda.json"
+    },
+    {
+      "upazila": "Mohadevpur",
+      "upazila_bn": "মহাদেবপুর",
+      "uno_portal": "mohadevpur.naogaon.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rajshahi/Naogaon/Mohadevpur.json"
+    },
+    {
+      "upazila": "Naogaon Sadar",
+      "upazila_bn": "নওগাঁ সদর",
+      "uno_portal": "naogaonsadar.naogaon.gov.bd",
+      "total_unions": 12,
+      "file": "divisions/Rajshahi/Naogaon/Naogaon Sadar.json"
+    },
+    {
+      "upazila": "Niamatpur",
+      "upazila_bn": "নিয়ামতপুর",
+      "uno_portal": "niamatpur.naogaon.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Naogaon/Niamatpur.json"
+    },
+    {
+      "upazila": "Patnitala",
+      "upazila_bn": "পত্নিতলা",
+      "uno_portal": "patnitala.naogaon.gov.bd",
+      "total_unions": 11,
+      "file": "divisions/Rajshahi/Naogaon/Patnitala.json"
+    },
+    {
+      "upazila": "Porsha",
+      "upazila_bn": "পোরশা",
+      "uno_portal": "porsha.naogaon.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Rajshahi/Naogaon/Porsha.json"
+    },
+    {
+      "upazila": "Raninagar",
+      "upazila_bn": "রাণীনগর",
+      "uno_portal": "raninagar.naogaon.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Naogaon/Raninagar.json"
+    },
+    {
+      "upazila": "Sapahar",
+      "upazila_bn": "সাপাহার",
+      "uno_portal": "sapahar.naogaon.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Rajshahi/Naogaon/Sapahar.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "46",
+      "name": {
+        "en": "Noagoan-1",
+        "bn": "নওগাঁ-১"
+      },
+      "total_voters": 474067
+    },
+    {
+      "code": "47",
+      "name": {
+        "en": "Noagoan-2",
+        "bn": "নওগাঁ-২"
+      },
+      "total_voters": 372436
+    },
+    {
+      "code": "48",
+      "name": {
+        "en": "Noagoan-3",
+        "bn": "নওগাঁ-৩"
+      },
+      "total_voters": 440785
+    },
+    {
+      "code": "49",
+      "name": {
+        "en": "Noagoan-4",
+        "bn": "নওগাঁ-৪"
+      },
+      "total_voters": 333862
+    },
+    {
+      "code": "50",
+      "name": {
+        "en": "Noagoan-5",
+        "bn": "নওগাঁ-৫"
+      },
+      "total_voters": 363030
+    },
+    {
+      "code": "51",
+      "name": {
+        "en": "Noagoan-6",
+        "bn": "নওগাঁ-৬"
+      },
+      "total_voters": 345416
+    }
+  ],
+  "total_postal_offices": 18,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

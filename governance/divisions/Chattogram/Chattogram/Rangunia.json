@@ -1,0 +1,331 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Chattogram",
+  "district_bn": "চট্টগ্রাম",
+  "upazila_id": "65",
+  "upazila": "Rangunia",
+  "upazila_bn": "রাঙ্গুনিয়া",
+  "uno_portal": "rangunia.chittagong.gov.bd",
+  "district_administration": {
+    "district": "Chattogram",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chattogram",
+      "phone": "01713-000001",
+      "email": "dcchattogram@mopa.gov.bd",
+      "website": "http://www.chattogram.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chattogram",
+      "phone": "01713-373001",
+      "email": "spchattogram@police.gov.bd",
+      "control_room": "01713-374001"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chattogram",
+      "phone": "01713-555001",
+      "email": "cschattogram@dghs.gov.bd"
+    }
+  },
+  "total_unions": 14,
+  "unions": [
+    {
+      "id": "619",
+      "name": "Rajanagar",
+      "bn_name": "রাজানগর",
+      "url": "rajanagarup.chittagong.gov.bd"
+    },
+    {
+      "id": "620",
+      "name": "Hosnabad",
+      "bn_name": "হোছনাবাদ",
+      "url": "hosnabadup.chittagong.gov.bd"
+    },
+    {
+      "id": "621",
+      "name": "Swanirbor Rangunia",
+      "bn_name": "স্বনির্ভর রাঙ্গুনিয়া",
+      "url": "swanirborranguniaup.chittagong.gov.bd"
+    },
+    {
+      "id": "622",
+      "name": "Mariumnagar",
+      "bn_name": "মরিয়মনগর",
+      "url": "mariumnagarup.chittagong.gov.bd"
+    },
+    {
+      "id": "623",
+      "name": "Parua",
+      "bn_name": "পারুয়া",
+      "url": "paruaup.chittagong.gov.bd"
+    },
+    {
+      "id": "624",
+      "name": "Pomra",
+      "bn_name": "পোমরা",
+      "url": "pomraup.chittagong.gov.bd"
+    },
+    {
+      "id": "625",
+      "name": "Betagi",
+      "bn_name": "বেতাগী",
+      "url": "betagiup.chittagong.gov.bd"
+    },
+    {
+      "id": "626",
+      "name": "Sharafbhata",
+      "bn_name": "সরফভাটা",
+      "url": "sharafbhataup.chittagong.gov.bd"
+    },
+    {
+      "id": "627",
+      "name": "Shilok",
+      "bn_name": "শিলক",
+      "url": "shilokup.chittagong.gov.bd"
+    },
+    {
+      "id": "628",
+      "name": "Chandraghona",
+      "bn_name": "চন্দ্রঘোনা",
+      "url": "chandraghonaup.chittagong.gov.bd"
+    },
+    {
+      "id": "629",
+      "name": "Kodala",
+      "bn_name": "কোদালা",
+      "url": "kodalaup.chittagong.gov.bd"
+    },
+    {
+      "id": "630",
+      "name": "Islampur",
+      "bn_name": "ইসলামপুর",
+      "url": "islampurup.chittagong.gov.bd"
+    },
+    {
+      "id": "631",
+      "name": "South Rajanagar",
+      "bn_name": "দক্ষিণ রাজানগর",
+      "url": "southrajanagarup.chittagong.gov.bd"
+    },
+    {
+      "id": "632",
+      "name": "Lalanagar",
+      "bn_name": "লালানগর",
+      "url": "lalanagarup.chittagong.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "4361",
+      "postcode_bn": "৪৩৬১",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "thana_upazila": "Rangunia",
+      "thana_upazila_bn": "রাঙ্গুনিয়া",
+      "sub_office": "Dhamair",
+      "sub_office_bn": "Dhamair"
+    },
+    {
+      "postcode": "4360",
+      "postcode_bn": "৪৩৬০",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chattogram",
+      "district_bn": "চট্টগ্রাম",
+      "thana_upazila": "Rangunia",
+      "thana_upazila_bn": "রাঙ্গুনিয়া",
+      "sub_office": "Rangunia",
+      "sub_office_bn": "রাঙ্গুনিয়া"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "278",
+      "name": {
+        "en": "Chittagong-1",
+        "bn": "চট্রগ্রাম-১"
+      },
+      "total_voters": 386674
+    },
+    {
+      "code": "279",
+      "name": {
+        "en": "Chittagong-2",
+        "bn": "চট্রগ্রাম-২"
+      },
+      "total_voters": 488465
+    },
+    {
+      "code": "280",
+      "name": {
+        "en": "Chittagong-3",
+        "bn": "চট্রগ্রাম-৩"
+      },
+      "total_voters": 260485
+    },
+    {
+      "code": "281",
+      "name": {
+        "en": "Chittagong-4",
+        "bn": "চট্রগ্রাম-৪"
+      },
+      "total_voters": 448380
+    },
+    {
+      "code": "282",
+      "name": {
+        "en": "Chittagong-5",
+        "bn": "চট্রগ্রাম-৫"
+      },
+      "total_voters": 501916
+    },
+    {
+      "code": "283",
+      "name": {
+        "en": "Chittagong-6",
+        "bn": "চট্রগ্রাম-৬"
+      },
+      "total_voters": 339988
+    },
+    {
+      "code": "284",
+      "name": {
+        "en": "Chittagong-7",
+        "bn": "চট্রগ্রাম-৭"
+      },
+      "total_voters": 319008
+    },
+    {
+      "code": "285",
+      "name": {
+        "en": "Chittagong-8",
+        "bn": "চট্রগ্রাম-৮"
+      },
+      "total_voters": 554729
+    },
+    {
+      "code": "286",
+      "name": {
+        "en": "Chittagong-9",
+        "bn": "চট্রগ্রাম-৯"
+      },
+      "total_voters": 397476
+    },
+    {
+      "code": "287",
+      "name": {
+        "en": "Chittagong-10",
+        "bn": "চট্রগ্রাম-১০"
+      },
+      "total_voters": 492444
+    },
+    {
+      "code": "288",
+      "name": {
+        "en": "Chittagong-11",
+        "bn": "চট্রগ্রাম-১১"
+      },
+      "total_voters": 495278
+    },
+    {
+      "code": "289",
+      "name": {
+        "en": "Chittagong-12",
+        "bn": "চট্রগ্রাম-১২"
+      },
+      "total_voters": 352695
+    },
+    {
+      "code": "290",
+      "name": {
+        "en": "Chittagong-13",
+        "bn": "চট্রগ্রাম-১৩"
+      },
+      "total_voters": 395246
+    },
+    {
+      "code": "291",
+      "name": {
+        "en": "Chittagong-14",
+        "bn": "চট্রগ্রাম-১৪"
+      },
+      "total_voters": 313513
+    },
+    {
+      "code": "292",
+      "name": {
+        "en": "Chittagong-15",
+        "bn": "চট্রগ্রাম-১৫"
+      },
+      "total_voters": 506059
+    },
+    {
+      "code": "293",
+      "name": {
+        "en": "Chittagong-16",
+        "bn": "চট্রগ্রাম-১৬"
+      },
+      "total_voters": 411274
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

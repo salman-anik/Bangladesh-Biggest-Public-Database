@@ -1,0 +1,66 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "upazilas_count": 9,
+  "unions_count": 73,
+  "post_offices_count": 18,
+  "parliamentary_seats_count": 5,
+  "registered_voters": {
+    "total": 2293347,
+    "male": 1160954,
+    "female": 1132376,
+    "third_gender": 17
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "68",
+      "name": {
+        "en": "Pabna-1",
+        "bn": "পাবনা-১"
+      },
+      "total_voters": 340935,
+      "male": 174438,
+      "female": 166496
+    },
+    {
+      "seat_no": "69",
+      "name": {
+        "en": "Pabna-2",
+        "bn": "পাবনা-২"
+      },
+      "total_voters": 497394,
+      "male": 254704,
+      "female": 242689
+    },
+    {
+      "seat_no": "70",
+      "name": {
+        "en": "Pabna-3",
+        "bn": "পাবনা-৩"
+      },
+      "total_voters": 486806,
+      "male": 243937,
+      "female": 242863
+    },
+    {
+      "seat_no": "71",
+      "name": {
+        "en": "Pabna-4",
+        "bn": "পাবনা-৪"
+      },
+      "total_voters": 440168,
+      "male": 221442,
+      "female": 218720
+    },
+    {
+      "seat_no": "72",
+      "name": {
+        "en": "Pabna-5",
+        "bn": "পাবনা-৫"
+      },
+      "total_voters": 528044,
+      "male": 266433,
+      "female": 261608
+    }
+  ]
+}

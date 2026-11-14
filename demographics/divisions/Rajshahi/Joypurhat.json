@@ -1,0 +1,36 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "upazilas_count": 5,
+  "unions_count": 32,
+  "post_offices_count": 7,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 817846,
+    "male": 406161,
+    "female": 411675,
+    "third_gender": 10
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "34",
+      "name": {
+        "en": "Joypurhat-1",
+        "bn": "জয়পুরহাট-১"
+      },
+      "total_voters": 466274,
+      "male": 231984,
+      "female": 234282
+    },
+    {
+      "seat_no": "35",
+      "name": {
+        "en": "Joypurhat-2",
+        "bn": "জয়পুরহাট-২"
+      },
+      "total_voters": 351572,
+      "male": 174177,
+      "female": 177393
+    }
+  ]
+}

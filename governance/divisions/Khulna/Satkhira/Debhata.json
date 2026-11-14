@@ -1,0 +1,156 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Satkhira",
+  "district_bn": "সাতক্ষীরা",
+  "upazila_id": "180",
+  "upazila": "Debhata",
+  "upazila_bn": "দেবহাটা",
+  "uno_portal": "debhata.satkhira.gov.bd",
+  "district_administration": {
+    "district": "Satkhira",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Satkhira",
+      "phone": "01713-000039",
+      "email": "dcsatkhira@mopa.gov.bd",
+      "website": "http://www.satkhira.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Satkhira",
+      "phone": "01713-373039",
+      "email": "spsatkhira@police.gov.bd",
+      "control_room": "01713-374039"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Satkhira",
+      "phone": "01713-555039",
+      "email": "cssatkhira@dghs.gov.bd"
+    }
+  },
+  "total_unions": 5,
+  "unions": [
+    {
+      "id": "1615",
+      "name": "Kulia",
+      "bn_name": "কুলিয়া",
+      "url": "kuliaup.satkhira.gov.bd"
+    },
+    {
+      "id": "1616",
+      "name": "Debhata",
+      "bn_name": "দেবহাটা",
+      "url": "debhataup.satkhira.gov.bd"
+    },
+    {
+      "id": "1617",
+      "name": "Noapara",
+      "bn_name": "নওয়াপাড়া",
+      "url": "noaparaup.satkhira.gov.bd"
+    },
+    {
+      "id": "1618",
+      "name": "Parulia",
+      "bn_name": "পারুলিয়া",
+      "url": "paruliaup.satkhira.gov.bd"
+    },
+    {
+      "id": "1619",
+      "name": "Sakhipur",
+      "bn_name": "সখিপুর",
+      "url": "sakhipurup.satkhira.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "105",
+      "name": {
+        "en": "Satkhira-1",
+        "bn": "সাতক্ষীরা-১"
+      },
+      "total_voters": 496848
+    },
+    {
+      "code": "106",
+      "name": {
+        "en": "Satkhira-2",
+        "bn": "সাতক্ষীরা-২"
+      },
+      "total_voters": 535654
+    },
+    {
+      "code": "107",
+      "name": {
+        "en": "Satkhira-3",
+        "bn": "সাতক্ষীরা-৩"
+      },
+      "total_voters": 502222
+    },
+    {
+      "code": "108",
+      "name": {
+        "en": "Satkhira-4",
+        "bn": "সাতক্ষীরা-৪"
+      },
+      "total_voters": 298052
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

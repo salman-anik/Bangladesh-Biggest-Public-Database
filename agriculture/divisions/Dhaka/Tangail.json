@@ -1,0 +1,57 @@
+{
+  "division": "Dhaka",
+  "district": "Tangail",
+  "total_upazilas": 12,
+  "upazilas": [
+    "Basail",
+    "Bhuapur",
+    "Delduar",
+    "Dhanbari",
+    "Ghatail",
+    "Gopalpur",
+    "Kalihati",
+    "Madhupur",
+    "Mirzapur",
+    "Nagarpur",
+    "Sakhipur",
+    "Tangail Sadar"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Tangail"
+  ],
+  "agromet_stations_in_region": [],
+  "humidity_normals": [
+    {
+      "station": "Tangail",
+      "monthly_normal_humidity_pct": {
+        "Jan": 80,
+        "Feb": 74,
+        "Mar": 69,
+        "Apr": 74,
+        "May": 79,
+        "Jun": 84,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 83,
+        "Nov": 80,
+        "Dec": 81
+      },
+      "annual_mean_pct": 79.9
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

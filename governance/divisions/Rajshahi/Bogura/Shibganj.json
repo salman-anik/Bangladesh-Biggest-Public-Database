@@ -1,0 +1,235 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Bogura",
+  "district_bn": "বগুড়া",
+  "upazila_id": "133",
+  "upazila": "Shibganj",
+  "upazila_bn": "শিবগঞ্জ",
+  "uno_portal": "shibganj.bogra.gov.bd",
+  "district_administration": {
+    "district": "Bogura",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bogura",
+      "phone": "01713-000030",
+      "email": "dcbogura@mopa.gov.bd",
+      "website": "http://www.bogura.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bogura",
+      "phone": "01713-373030",
+      "email": "spbogura@police.gov.bd",
+      "control_room": "01713-374030"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bogura",
+      "phone": "01713-555030",
+      "email": "csbogura@dghs.gov.bd"
+    }
+  },
+  "total_unions": 12,
+  "unions": [
+    {
+      "id": "1202",
+      "name": "Moidanhatta",
+      "bn_name": "ময়দানহাট্টা",
+      "url": "moidanhattaup.bogra.gov.bd"
+    },
+    {
+      "id": "1203",
+      "name": "Kichok",
+      "bn_name": "কিচক",
+      "url": "kichokup.bogra.gov.bd"
+    },
+    {
+      "id": "1204",
+      "name": "Atmul",
+      "bn_name": "আটমূল",
+      "url": "atmulup.bogra.gov.bd"
+    },
+    {
+      "id": "1205",
+      "name": "Pirob",
+      "bn_name": "পিরব",
+      "url": "pirobup.bogra.gov.bd"
+    },
+    {
+      "id": "1206",
+      "name": "Majhihatta",
+      "bn_name": "মাঝিহট্ট",
+      "url": "majhihattaup.bogra.gov.bd"
+    },
+    {
+      "id": "1207",
+      "name": "Buriganj",
+      "bn_name": "বুড়িগঞ্জ",
+      "url": "buriganjup.bogra.gov.bd"
+    },
+    {
+      "id": "1208",
+      "name": "Bihar",
+      "bn_name": "বিহার",
+      "url": "biharup.bogra.gov.bd"
+    },
+    {
+      "id": "1209",
+      "name": "Shibganj",
+      "bn_name": "শিবগঞ্জ",
+      "url": "shibganjup.bogra.gov.bd"
+    },
+    {
+      "id": "1210",
+      "name": "Deuly",
+      "bn_name": "দেউলি",
+      "url": "deulyup.bogra.gov.bd"
+    },
+    {
+      "id": "1211",
+      "name": "Sayedpur",
+      "bn_name": "সৈয়দপুর",
+      "url": "sayedpurup.bogra.gov.bd"
+    },
+    {
+      "id": "1212",
+      "name": "Mokamtala",
+      "bn_name": "মোকামতলা",
+      "url": "mokamtalaup.bogra.gov.bd"
+    },
+    {
+      "id": "1213",
+      "name": "Raynagar",
+      "bn_name": "রায়নগর",
+      "url": "raynagarup.bogra.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5810",
+      "postcode_bn": "৫৮১০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Bogura",
+      "district_bn": "বগুড়া",
+      "thana_upazila": "Shibganj",
+      "thana_upazila_bn": "শিবগঞ্জ",
+      "sub_office": "Shibganj",
+      "sub_office_bn": "শিবগঞ্জ"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "36",
+      "name": {
+        "en": "Bogra-1",
+        "bn": "বগুড়া-১"
+      },
+      "total_voters": 376019
+    },
+    {
+      "code": "37",
+      "name": {
+        "en": "Bogra-2",
+        "bn": "বগুড়া-২"
+      },
+      "total_voters": 342155
+    },
+    {
+      "code": "38",
+      "name": {
+        "en": "Bogra-3",
+        "bn": "বগুড়া-৩"
+      },
+      "total_voters": 339181
+    },
+    {
+      "code": "39",
+      "name": {
+        "en": "Bogra-4",
+        "bn": "বগুড়া-৪"
+      },
+      "total_voters": 359523
+    },
+    {
+      "code": "40",
+      "name": {
+        "en": "Bogra-5",
+        "bn": "বগুড়া-৫"
+      },
+      "total_voters": 572340
+    },
+    {
+      "code": "41",
+      "name": {
+        "en": "Bogra-6",
+        "bn": "বগুড়া-৬"
+      },
+      "total_voters": 454043
+    },
+    {
+      "code": "42",
+      "name": {
+        "en": "Bogra-7",
+        "bn": "বগুড়া-৭"
+      },
+      "total_voters": 538092
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

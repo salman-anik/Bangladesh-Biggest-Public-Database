@@ -1,0 +1,115 @@
+{
+  "division": "Dhaka",
+  "district": "Munshiganj",
+  "total_upazilas": 6,
+  "upazilas": [
+    "Gajaria",
+    "Louhajanj",
+    "Munshiganj Sadar",
+    "Sirajdikhan",
+    "Sreenagar",
+    "Tongibari"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Dhaka",
+    "Faridpur",
+    "Joydebpur",
+    "Gopalganj",
+    "Madaripur",
+    "Tangail"
+  ],
+  "agromet_stations_in_region": [
+    "Dhaka",
+    "Faridpur",
+    "Joydebpur",
+    "Gopalganj"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Dhaka",
+      "monthly_normal_humidity_pct": {
+        "Jan": 71,
+        "Feb": 64,
+        "Mar": 62,
+        "Apr": 71,
+        "May": 76,
+        "Jun": 82,
+        "Jul": 83,
+        "Aug": 82,
+        "Sep": 83,
+        "Oct": 78,
+        "Nov": 73,
+        "Dec": 73
+      },
+      "annual_mean_pct": 74.8
+    },
+    {
+      "station": "Faridpur",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 72,
+        "Mar": 67,
+        "Apr": 72,
+        "May": 79,
+        "Jun": 85,
+        "Jul": 87,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 82,
+        "Nov": 78,
+        "Dec": 78
+      },
+      "annual_mean_pct": 78.9
+    },
+    {
+      "station": "Madaripur",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 72,
+        "Mar": 70,
+        "Apr": 74,
+        "May": 79,
+        "Jun": 84,
+        "Jul": 86,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 82,
+        "Nov": 78,
+        "Dec": 78
+      },
+      "annual_mean_pct": 79.2
+    },
+    {
+      "station": "Tangail",
+      "monthly_normal_humidity_pct": {
+        "Jan": 80,
+        "Feb": 74,
+        "Mar": 69,
+        "Apr": 74,
+        "May": 79,
+        "Jun": 84,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 83,
+        "Nov": 80,
+        "Dec": 81
+      },
+      "annual_mean_pct": 79.9
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

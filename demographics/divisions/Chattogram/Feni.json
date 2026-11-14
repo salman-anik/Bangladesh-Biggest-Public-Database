@@ -1,0 +1,46 @@
+{
+  "division": "Chattogram",
+  "district": "Feni",
+  "upazilas_count": 6,
+  "unions_count": 43,
+  "post_offices_count": 21,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1330924,
+    "male": 687867,
+    "female": 643049,
+    "third_gender": 8
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "265",
+      "name": {
+        "en": "Feni-1",
+        "bn": "ফেনী-১"
+      },
+      "total_voters": 385652,
+      "male": 198759,
+      "female": 186890
+    },
+    {
+      "seat_no": "266",
+      "name": {
+        "en": "Feni-2",
+        "bn": "ফেনী-২"
+      },
+      "total_voters": 437078,
+      "male": 225881,
+      "female": 211194
+    },
+    {
+      "seat_no": "267",
+      "name": {
+        "en": "Feni-3",
+        "bn": "ফেনী-৩"
+      },
+      "total_voters": 508194,
+      "male": 263227,
+      "female": 244965
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Cumilla",
+  "district_bn": "কুমিল্লা",
+  "upazila_id": "2",
+  "upazila": "Barura",
+  "upazila_bn": "বরুড়া",
+  "uno_portal": "barura.comilla.gov.bd",
+  "district_administration": {
+    "district": "Cumilla",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Cumilla",
+      "phone": "01713-000020",
+      "email": "dccumilla@mopa.gov.bd",
+      "website": "http://www.cumilla.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Cumilla",
+      "phone": "01713-373020",
+      "email": "spcumilla@police.gov.bd",
+      "control_room": "01713-374020"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Cumilla",
+      "phone": "01713-555020",
+      "email": "cscumilla@dghs.gov.bd"
+    }
+  },
+  "total_unions": 15,
+  "unions": [
+    {
+      "id": "16",
+      "name": "Aganagar",
+      "bn_name": "আগানগর",
+      "url": "aganagarup.comilla.gov.bd"
+    },
+    {
+      "id": "17",
+      "name": "Bhabanipur",
+      "bn_name": "ভবানীপুর",
+      "url": "bhabanipurup.comilla.gov.bd"
+    },
+    {
+      "id": "18",
+      "name": "North Khoshbas",
+      "bn_name": "উত্তর খোশবাস",
+      "url": "khoshbasnorthup.comilla.gov.bd"
+    },
+    {
+      "id": "19",
+      "name": "South Khoshbas",
+      "bn_name": "দক্ষিন খোশবাস",
+      "url": "khoshbassouthup.comilla.gov.bd"
+    },
+    {
+      "id": "20",
+      "name": "Jhalam",
+      "bn_name": "ঝলম",
+      "url": "jhalamup.comilla.gov.bd"
+    },
+    {
+      "id": "21",
+      "name": "Chitodda",
+      "bn_name": "চিতড্ডা",
+      "url": "chitoddaup.comilla.gov.bd"
+    },
+    {
+      "id": "22",
+      "name": "North Shilmuri",
+      "bn_name": "উত্তর শিলমুড়ি",
+      "url": "shilmurinorthup.comilla.gov.bd"
+    },
+    {
+      "id": "23",
+      "name": "South Shilmuri",
+      "bn_name": "দক্ষিন শিলমুড়ি",
+      "url": "shilmurisouthup.comilla.gov.bd"
+    },
+    {
+      "id": "24",
+      "name": "Galimpur",
+      "bn_name": "গালিমপুর",
+      "url": "galimpurup.comilla.gov.bd"
+    },
+    {
+      "id": "25",
+      "name": "Shakpur",
+      "bn_name": "শাকপুর",
+      "url": "shakpurup.comilla.gov.bd"
+    },
+    {
+      "id": "26",
+      "name": "Bhaukshar",
+      "bn_name": "ভাউকসার",
+      "url": "bhauksharup.comilla.gov.bd"
+    },
+    {
+      "id": "27",
+      "name": "Adda",
+      "bn_name": "আড্ডা",
+      "url": "addaup.comilla.gov.bd"
+    },
+    {
+      "id": "28",
+      "name": "Adra",
+      "bn_name": "আদ্রা",
+      "url": "adraup.comilla.gov.bd"
+    },
+    {
+      "id": "29",
+      "name": "Payalgacha",
+      "bn_name": "পয়ালগাছা",
+      "url": "payalgachaup.comilla.gov.bd"
+    },
+    {
+      "id": "30",
+      "name": "Laxmipur",
+      "bn_name": "লক্ষীপুর",
+      "url": "laxmipurup.comilla.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "3560",
+      "postcode_bn": "৩৫৬০",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "thana_upazila": "Barura",
+      "thana_upazila_bn": "বরুড়া",
+      "sub_office": "Barura",
+      "sub_office_bn": "বরুড়া"
+    },
+    {
+      "postcode": "3562",
+      "postcode_bn": "৩৫৬২",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "thana_upazila": "Barura",
+      "thana_upazila_bn": "বরুড়া",
+      "sub_office": "Murdafarganj",
+      "sub_office_bn": "Murdafarganj"
+    },
+    {
+      "postcode": "3561",
+      "postcode_bn": "৩৫৬১",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Cumilla",
+      "district_bn": "কুমিল্লা",
+      "thana_upazila": "Barura",
+      "thana_upazila_bn": "বরুড়া",
+      "sub_office": "Poyalgachha",
+      "sub_office_bn": "Poyalgachha"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "249",
+      "name": {
+        "en": "Comilla-1",
+        "bn": "কুমিল্লা-১"
+      },
+      "total_voters": 438616
+    },
+    {
+      "code": "250",
+      "name": {
+        "en": "Comilla-2",
+        "bn": "কুমিল্লা-২"
+      },
+      "total_voters": 375067
+    },
+    {
+      "code": "251",
+      "name": {
+        "en": "Comilla-3",
+        "bn": "কুমিল্লা-৩"
+      },
+      "total_voters": 500726
+    },
+    {
+      "code": "252",
+      "name": {
+        "en": "Comilla-4",
+        "bn": "কুমিল্লা-৪"
+      },
+      "total_voters": 410559
+    },
+    {
+      "code": "253",
+      "name": {
+        "en": "Comilla-5",
+        "bn": "কুমিল্লা-৫"
+      },
+      "total_voters": 476172
+    },
+    {
+      "code": "254",
+      "name": {
+        "en": "Comilla-6",
+        "bn": "কুমিল্লা-৬"
+      },
+      "total_voters": 644777
+    },
+    {
+      "code": "255",
+      "name": {
+        "en": "Comilla-7",
+        "bn": "কুমিল্লা-৭"
+      },
+      "total_voters": 329166
+    },
+    {
+      "code": "256",
+      "name": {
+        "en": "Comilla-8",
+        "bn": "কুমিল্লা-৮"
+      },
+      "total_voters": 380833
+    },
+    {
+      "code": "257",
+      "name": {
+        "en": "Comilla-9",
+        "bn": "কুমিল্লা-৯"
+      },
+      "total_voters": 478535
+    },
+    {
+      "code": "258",
+      "name": {
+        "en": "Comilla-10",
+        "bn": "কুমিল্লা-১০"
+      },
+      "total_voters": 536227
+    },
+    {
+      "code": "259",
+      "name": {
+        "en": "Comilla-11",
+        "bn": "কুমিল্লা-১১"
+      },
+      "total_voters": 421632
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

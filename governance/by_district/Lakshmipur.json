@@ -1,0 +1,155 @@
+{
+  "division": "Chattogram",
+  "district": "Lakshmipur",
+  "district_administration": {
+    "district": "Lakshmipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lakshmipur",
+      "phone": "01713-000025",
+      "email": "dclakshmipur@mopa.gov.bd",
+      "website": "http://www.lakshmipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lakshmipur",
+      "phone": "01713-373025",
+      "email": "splakshmipur@police.gov.bd",
+      "control_room": "01713-374025"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lakshmipur",
+      "phone": "01713-555025",
+      "email": "cslakshmipur@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 5,
+  "upazilas": [
+    {
+      "upazila": "Kamalnagar",
+      "upazila_bn": "কমলনগর",
+      "uno_portal": "kamalnagar.lakshmipur.gov.bd",
+      "total_unions": 9,
+      "file": "divisions/Chattogram/Lakshmipur/Kamalnagar.json"
+    },
+    {
+      "upazila": "Lakshmipur Sadar",
+      "upazila_bn": "লক্ষ্মীপুর সদর",
+      "uno_portal": "sadar.lakshmipur.gov.bd",
+      "total_unions": 20,
+      "file": "divisions/Chattogram/Lakshmipur/Lakshmipur Sadar.json"
+    },
+    {
+      "upazila": "Raipur",
+      "upazila_bn": "রায়পুর",
+      "uno_portal": "raipur.lakshmipur.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Chattogram/Lakshmipur/Raipur.json"
+    },
+    {
+      "upazila": "Ramganj",
+      "upazila_bn": "রামগঞ্জ",
+      "uno_portal": "ramganj.lakshmipur.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Chattogram/Lakshmipur/Ramganj.json"
+    },
+    {
+      "upazila": "Ramgati",
+      "upazila_bn": "রামগতি",
+      "uno_portal": "ramgati.lakshmipur.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Chattogram/Lakshmipur/Ramgati.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "274",
+      "name": {
+        "en": "Lakshmipur-1",
+        "bn": "লক্ষীপুর-১"
+      },
+      "total_voters": 281302
+    },
+    {
+      "code": "275",
+      "name": {
+        "en": "Lakshmipur-2",
+        "bn": "লক্ষীপুর-২"
+      },
+      "total_voters": 493970
+    },
+    {
+      "code": "276",
+      "name": {
+        "en": "Lakshmipur-3",
+        "bn": "লক্ষীপুর-৩"
+      },
+      "total_voters": 444472
+    },
+    {
+      "code": "277",
+      "name": {
+        "en": "Lakshmipur-4",
+        "bn": "লক্ষীপুর-৪"
+      },
+      "total_voters": 418160
+    }
+  ],
+  "total_postal_offices": 24,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

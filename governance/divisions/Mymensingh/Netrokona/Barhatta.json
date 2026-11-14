@@ -1,0 +1,157 @@
+{
+  "division": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "district": "Netrokona",
+  "district_bn": "নেত্রকোণা",
+  "upazila_id": "482",
+  "upazila": "Barhatta",
+  "upazila_bn": "বারহাট্টা",
+  "uno_portal": "barhatta.netrokona.gov.bd",
+  "district_administration": {},
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "4455",
+      "name": "Asma",
+      "bn_name": "আসমা",
+      "url": "asma.netrokona.gov.bd"
+    },
+    {
+      "id": "4456",
+      "name": "Chhiram",
+      "bn_name": "চিরাম",
+      "url": "chhiram.netrokona.gov.bd"
+    },
+    {
+      "id": "4457",
+      "name": "Baushi",
+      "bn_name": "বাউশী",
+      "url": "baushiup.netrokona.gov.bd"
+    },
+    {
+      "id": "4458",
+      "name": "Barhatta",
+      "bn_name": "বারহাট্টা",
+      "url": "barhattaup.netrokona.gov.bd"
+    },
+    {
+      "id": "4459",
+      "name": "Raypur",
+      "bn_name": "রায়পুর",
+      "url": "raypurup.netrokona.gov.bd"
+    },
+    {
+      "id": "4460",
+      "name": "Sahata",
+      "bn_name": "সাহতা",
+      "url": "sahataup.netrokona.gov.bd"
+    },
+    {
+      "id": "4461",
+      "name": "Singdha",
+      "bn_name": "সিংধা",
+      "url": "singdhaup.netrokona.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "157",
+      "name": {
+        "en": "Netrokona-1",
+        "bn": "নেত্রকোণা-১"
+      },
+      "total_voters": 433023
+    },
+    {
+      "code": "158",
+      "name": {
+        "en": "Netrokona-2",
+        "bn": "নেত্রকোণা-২"
+      },
+      "total_voters": 502438
+    },
+    {
+      "code": "159",
+      "name": {
+        "en": "Netrokona-3",
+        "bn": "নেত্রকোণা-৩"
+      },
+      "total_voters": 420686
+    },
+    {
+      "code": "160",
+      "name": {
+        "en": "Netrokona-4",
+        "bn": "নেত্রকোণা-৪"
+      },
+      "total_voters": 375308
+    },
+    {
+      "code": "161",
+      "name": {
+        "en": "Netrokona-5",
+        "bn": "নেত্রকোণা-৫"
+      },
+      "total_voters": 290117
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "division": "Khulna",
+  "district": "Satkhira",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4784,
+      "slug": "satkhira-1",
+      "code": "105",
+      "district_id": 43,
+      "division_id": 4,
+      "name": {
+        "en": "Satkhira-1",
+        "bn": "সাতক্ষীরা-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Satkhira-1.svg",
+      "total_voters": 496848,
+      "total_male_voters": 247873,
+      "total_female_voters": 248973,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4785,
+      "slug": "satkhira-2",
+      "code": "106",
+      "district_id": 43,
+      "division_id": 4,
+      "name": {
+        "en": "Satkhira-2",
+        "bn": "সাতক্ষীরা-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Satkhira-2.svg",
+      "total_voters": 535654,
+      "total_male_voters": 265965,
+      "total_female_voters": 269685,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4786,
+      "slug": "satkhira-3",
+      "code": "107",
+      "district_id": 43,
+      "division_id": 4,
+      "name": {
+        "en": "Satkhira-3",
+        "bn": "সাতক্ষীরা-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Satkhira-3.svg",
+      "total_voters": 502222,
+      "total_male_voters": 253984,
+      "total_female_voters": 248235,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4787,
+      "slug": "satkhira-4",
+      "code": "108",
+      "district_id": 43,
+      "division_id": 4,
+      "name": {
+        "en": "Satkhira-4",
+        "bn": "সাতক্ষীরা-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Satkhira-4.svg",
+      "total_voters": 298052,
+      "total_male_voters": 150027,
+      "total_female_voters": 148021,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    }
+  ]
+}

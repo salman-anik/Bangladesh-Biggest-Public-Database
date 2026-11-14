@@ -1,0 +1,139 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "district_administration": {
+    "district": "Panchagarh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+      "phone": "01713-000059",
+      "email": "dcpanchagarh@mopa.gov.bd",
+      "website": "http://www.panchagarh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Panchagarh",
+      "phone": "01713-373059",
+      "email": "sppanchagarh@police.gov.bd",
+      "control_room": "01713-374059"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Panchagarh",
+      "phone": "01713-555059",
+      "email": "cspanchagarh@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 5,
+  "upazilas": [
+    {
+      "upazila": "Atwari",
+      "upazila_bn": "আটোয়ারী",
+      "uno_portal": "atwari.panchagarh.gov.bd",
+      "total_unions": 6,
+      "file": "divisions/Rangpur/Panchagarh/Atwari.json"
+    },
+    {
+      "upazila": "Boda",
+      "upazila_bn": "বোদা",
+      "uno_portal": "boda.panchagarh.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rangpur/Panchagarh/Boda.json"
+    },
+    {
+      "upazila": "Debiganj",
+      "upazila_bn": "দেবীগঞ্জ",
+      "uno_portal": "debiganj.panchagarh.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rangpur/Panchagarh/Debiganj.json"
+    },
+    {
+      "upazila": "Panchagarh Sadar",
+      "upazila_bn": "পঞ্চগড় সদর",
+      "uno_portal": "panchagarhsadar.panchagarh.gov.bd",
+      "total_unions": 10,
+      "file": "divisions/Rangpur/Panchagarh/Panchagarh Sadar.json"
+    },
+    {
+      "upazila": "Tetulia",
+      "upazila_bn": "তেতুলিয়া",
+      "uno_portal": "tetulia.panchagarh.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rangpur/Panchagarh/Tetulia.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "1",
+      "name": {
+        "en": "Panchagarh-1",
+        "bn": "পঞ্চগড়-১"
+      },
+      "total_voters": 463700
+    },
+    {
+      "code": "2",
+      "name": {
+        "en": "Panchagarh-2",
+        "bn": "পঞ্চগড়-২"
+      },
+      "total_voters": 417529
+    }
+  ],
+  "total_postal_offices": 6,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "division": "Barishal",
+  "district": "Patuakhali",
+  "upazilas_count": 8,
+  "unions_count": 72,
+  "post_offices_count": 15,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1509596,
+    "male": 761983,
+    "female": 747595,
+    "third_gender": 18
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "111",
+      "name": {
+        "en": "Patuakhali-1",
+        "bn": "পটুয়াখালী-১"
+      },
+      "total_voters": 505840,
+      "male": 254339,
+      "female": 251493
+    },
+    {
+      "seat_no": "112",
+      "name": {
+        "en": "Patuakhali-2",
+        "bn": "পটুয়াখালী-২"
+      },
+      "total_voters": 315282,
+      "male": 160501,
+      "female": 154779
+    },
+    {
+      "seat_no": "113",
+      "name": {
+        "en": "patuakhali-3",
+        "bn": "পটুয়াখালী-৩"
+      },
+      "total_voters": 375871,
+      "male": 189020,
+      "female": 186848
+    },
+    {
+      "seat_no": "114",
+      "name": {
+        "en": "Patuakhali-4",
+        "bn": "পটুয়াখালী-৪"
+      },
+      "total_voters": 312603,
+      "male": 158123,
+      "female": 154475
+    }
+  ]
+}

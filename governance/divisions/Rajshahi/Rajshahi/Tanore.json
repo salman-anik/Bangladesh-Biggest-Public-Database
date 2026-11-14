@@ -1,0 +1,197 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Rajshahi",
+  "district_bn": "রাজশাহী",
+  "upazila_id": "141",
+  "upazila": "Tanore",
+  "upazila_bn": "তানোর",
+  "uno_portal": "tanore.rajshahi.gov.bd",
+  "district_administration": {
+    "district": "Rajshahi",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rajshahi",
+      "phone": "01713-000002",
+      "email": "dcrajshahi@mopa.gov.bd",
+      "website": "http://www.rajshahi.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rajshahi",
+      "phone": "01713-373002",
+      "email": "sprajshahi@police.gov.bd",
+      "control_room": "01713-374002"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rajshahi",
+      "phone": "01713-555002",
+      "email": "csrajshahi@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "1262",
+      "name": "Kalma",
+      "bn_name": "কলমা",
+      "url": "kalmaup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1263",
+      "name": "Badhair",
+      "bn_name": "বাধাইড়",
+      "url": "badhairup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1264",
+      "name": "Panchandar",
+      "bn_name": "পাঁচন্দর",
+      "url": "panchandarup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1265",
+      "name": "Saranjai",
+      "bn_name": "সরঞ্জাই",
+      "url": "saranjaiup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1266",
+      "name": "Talondo",
+      "bn_name": "তালন্দ",
+      "url": "talondoup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1267",
+      "name": "Kamargaon",
+      "bn_name": "কামারগাঁ",
+      "url": "kamargaonup.rajshahi.gov.bd"
+    },
+    {
+      "id": "1268",
+      "name": "Chanduria",
+      "bn_name": "চান্দুড়িয়া",
+      "url": "chanduriaup.rajshahi.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "6230",
+      "postcode_bn": "৬২৩০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Rajshahi",
+      "district_bn": "রাজশাহী",
+      "thana_upazila": "Tanor",
+      "thana_upazila_bn": "তানোরে",
+      "sub_office": "Tanor",
+      "sub_office_bn": "তানোরে"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "52",
+      "name": {
+        "en": "Rajshahi-1",
+        "bn": "রাজশাহী-১"
+      },
+      "total_voters": 468780
+    },
+    {
+      "code": "53",
+      "name": {
+        "en": "Rajshahi-2",
+        "bn": "রাজশাহী-২"
+      },
+      "total_voters": 369564
+    },
+    {
+      "code": "54",
+      "name": {
+        "en": "Rajshahi-3",
+        "bn": "রাজশাহী-৩"
+      },
+      "total_voters": 423738
+    },
+    {
+      "code": "55",
+      "name": {
+        "en": "Rajshahi-4",
+        "bn": "রাজশাহী-৪"
+      },
+      "total_voters": 319909
+    },
+    {
+      "code": "56",
+      "name": {
+        "en": "Rajshahi-5",
+        "bn": "রাজশাহী-৫"
+      },
+      "total_voters": 376333
+    },
+    {
+      "code": "57",
+      "name": {
+        "en": "Rajshahi-6",
+        "bn": "রাজশাহী-৬"
+      },
+      "total_voters": 357054
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "division": "Barishal",
+  "division_bn": "বরিশাল",
+  "district": "Barguna",
+  "district_bn": "বরগুনা",
+  "upazila_id": "270",
+  "upazila": "Pathorghata",
+  "upazila_bn": "পাথরঘাটা",
+  "uno_portal": "pathorghata.barguna.gov.bd",
+  "district_administration": {
+    "district": "Barguna",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Barguna",
+      "phone": "01713-000050",
+      "email": "dcbarguna@mopa.gov.bd",
+      "website": "http://www.barguna.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Barguna",
+      "phone": "01713-373050",
+      "email": "spbarguna@police.gov.bd",
+      "control_room": "01713-374050"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Barguna",
+      "phone": "01713-555050",
+      "email": "csbarguna@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "2422",
+      "name": "Raihanpur",
+      "bn_name": "রায়হানপুর",
+      "url": "raihanpurup.barguna.gov.bd"
+    },
+    {
+      "id": "2423",
+      "name": "Nachnapara",
+      "bn_name": "নাচনাপাড়া",
+      "url": "nachnaparaup.barguna.gov.bd"
+    },
+    {
+      "id": "2424",
+      "name": "Charduany",
+      "bn_name": "চরদুয়ানী",
+      "url": "charduanyup.barguna.gov.bd"
+    },
+    {
+      "id": "2425",
+      "name": "Patharghata",
+      "bn_name": "পাথরঘাটা",
+      "url": "patharghataup.barguna.gov.bd"
+    },
+    {
+      "id": "2426",
+      "name": "Kalmegha",
+      "bn_name": "কালমেঘা",
+      "url": "kalmeghaup.barguna.gov.bd"
+    },
+    {
+      "id": "2427",
+      "name": "Kakchira",
+      "bn_name": "কাকচিঢ়া",
+      "url": "kakchiraup.barguna.gov.bd"
+    },
+    {
+      "id": "2428",
+      "name": "Kathaltali",
+      "bn_name": "কাঠালতলী",
+      "url": "kathaltaliup.barguna.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "109",
+      "name": {
+        "en": "Barguna-1",
+        "bn": "বরগুনা-১"
+      },
+      "total_voters": 519460
+    },
+    {
+      "code": "110",
+      "name": {
+        "en": "Barguna-2",
+        "bn": "বরগুনা-২"
+      },
+      "total_voters": 337744
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

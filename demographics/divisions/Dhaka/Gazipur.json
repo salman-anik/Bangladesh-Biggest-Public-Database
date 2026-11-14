@@ -1,0 +1,66 @@
+{
+  "division": "Dhaka",
+  "district": "Gazipur",
+  "upazilas_count": 5,
+  "unions_count": 43,
+  "post_offices_count": 23,
+  "parliamentary_seats_count": 5,
+  "registered_voters": {
+    "total": 2696539,
+    "male": 1343593,
+    "female": 1352914,
+    "third_gender": 32
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "194",
+      "name": {
+        "en": "Gazipur-1",
+        "bn": "গাজীপুর-১"
+      },
+      "total_voters": 720939,
+      "male": 360234,
+      "female": 360693
+    },
+    {
+      "seat_no": "195",
+      "name": {
+        "en": "Gazipur-2",
+        "bn": "গাজীপুর-২"
+      },
+      "total_voters": 804333,
+      "male": 400402,
+      "female": 403918
+    },
+    {
+      "seat_no": "196",
+      "name": {
+        "en": "Gazipur-3",
+        "bn": "গাজীপুর-৩"
+      },
+      "total_voters": 527360,
+      "male": 260191,
+      "female": 267162
+    },
+    {
+      "seat_no": "197",
+      "name": {
+        "en": "Gazipur-4",
+        "bn": "গাজীপুর-৪"
+      },
+      "total_voters": 330977,
+      "male": 164429,
+      "female": 166548
+    },
+    {
+      "seat_no": "198",
+      "name": {
+        "en": "Gazipur-5",
+        "bn": "গাজীপুর-৫"
+      },
+      "total_voters": 312930,
+      "male": 158337,
+      "female": 154593
+    }
+  ]
+}

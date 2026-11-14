@@ -1,0 +1,53 @@
+{
+  "division": "Khulna",
+  "district": "Jashore",
+  "total_upazilas": 8,
+  "upazilas": [
+    "Abhaynagar",
+    "Bagherpara",
+    "Chougachha",
+    "Jessore Sadar",
+    "Jhikargacha",
+    "Keshabpur",
+    "Manirampur",
+    "Sharsha"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Jessore"
+  ],
+  "agromet_stations_in_region": [],
+  "humidity_normals": [
+    {
+      "station": "Jessore",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 72,
+        "Mar": 69,
+        "Apr": 72,
+        "May": 77,
+        "Jun": 84,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 83,
+        "Nov": 79,
+        "Dec": 78
+      },
+      "annual_mean_pct": 79.2
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "division": "Barishal",
+  "district": "Barguna",
+  "upazilas_count": 6,
+  "unions_count": 43,
+  "post_offices_count": 8,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 857204,
+    "male": 427063,
+    "female": 430126,
+    "third_gender": 15
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "109",
+      "name": {
+        "en": "Barguna-1",
+        "bn": "বরগুনা-১"
+      },
+      "total_voters": 519460,
+      "male": 259098,
+      "female": 260351
+    },
+    {
+      "seat_no": "110",
+      "name": {
+        "en": "Barguna-2",
+        "bn": "বরগুনা-২"
+      },
+      "total_voters": 337744,
+      "male": 167965,
+      "female": 169775
+    }
+  ]
+}

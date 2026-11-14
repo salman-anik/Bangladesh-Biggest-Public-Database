@@ -1,0 +1,143 @@
+{
+  "division": "Sylhet",
+  "division_bn": "সিলেট",
+  "district": "Moulvibazar",
+  "district_bn": "মৌলভীবাজার",
+  "upazila_id": "291",
+  "upazila": "Juri",
+  "upazila_bn": "জুড়ী",
+  "uno_portal": "juri.moulvibazar.gov.bd",
+  "district_administration": {},
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "2602",
+      "name": "Jafornagar",
+      "bn_name": "জায়ফরনগর",
+      "url": "jafornagarup.moulvibazar.gov.bd"
+    },
+    {
+      "id": "2603",
+      "name": "West Juri",
+      "bn_name": "পশ্চিম জুড়ী",
+      "url": "westjuriup.moulvibazar.gov.bd"
+    },
+    {
+      "id": "2604",
+      "name": "Gualbari",
+      "bn_name": "গোয়ালবাড়ী",
+      "url": "gualbariup.moulvibazar.gov.bd"
+    },
+    {
+      "id": "2605",
+      "name": "Sagornal",
+      "bn_name": "সাগরনাল",
+      "url": "sagornalup.moulvibazar.gov.bd"
+    },
+    {
+      "id": "2606",
+      "name": "Fultola",
+      "bn_name": "ফুলতলা",
+      "url": "fultolaup.moulvibazar.gov.bd"
+    },
+    {
+      "id": "2607",
+      "name": "Eastjuri",
+      "bn_name": "পুর্ব জুড়ী",
+      "url": "eastjuriup.moulvibazar.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "235",
+      "name": {
+        "en": "Moulavibazar-1",
+        "bn": "মৌলভীবাজার-১"
+      },
+      "total_voters": 337816
+    },
+    {
+      "code": "236",
+      "name": {
+        "en": "Moulavibazar-2",
+        "bn": "মৌলভীবাজার-২"
+      },
+      "total_voters": 303020
+    },
+    {
+      "code": "237",
+      "name": {
+        "en": "Moulavibazar-3",
+        "bn": "মৌলভীবাজার-৩"
+      },
+      "total_voters": 486212
+    },
+    {
+      "code": "238",
+      "name": {
+        "en": "Moulavibazar-4",
+        "bn": "মৌলভীবাজার-৪"
+      },
+      "total_voters": 487892
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "division": "Khulna",
+  "district": "Satkhira",
+  "upazilas_count": 7,
+  "unions_count": 78,
+  "post_offices_count": 24,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1832776,
+    "male": 917849,
+    "female": 914914,
+    "third_gender": 13
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "105",
+      "name": {
+        "en": "Satkhira-1",
+        "bn": "সাতক্ষীরা-১"
+      },
+      "total_voters": 496848,
+      "male": 247873,
+      "female": 248973
+    },
+    {
+      "seat_no": "106",
+      "name": {
+        "en": "Satkhira-2",
+        "bn": "সাতক্ষীরা-২"
+      },
+      "total_voters": 535654,
+      "male": 265965,
+      "female": 269685
+    },
+    {
+      "seat_no": "107",
+      "name": {
+        "en": "Satkhira-3",
+        "bn": "সাতক্ষীরা-৩"
+      },
+      "total_voters": 502222,
+      "male": 253984,
+      "female": 248235
+    },
+    {
+      "seat_no": "108",
+      "name": {
+        "en": "Satkhira-4",
+        "bn": "সাতক্ষীরা-৪"
+      },
+      "total_voters": 298052,
+      "male": 150027,
+      "female": 148021
+    }
+  ]
+}

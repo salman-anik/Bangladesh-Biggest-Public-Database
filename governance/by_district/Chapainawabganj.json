@@ -1,0 +1,147 @@
+{
+  "division": "Rajshahi",
+  "district": "Chapainawabganj",
+  "district_administration": {
+    "district": "Chapai Nawabganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chapai Nawabganj",
+      "phone": "01713-000036",
+      "email": "dcchapainawabganj@mopa.gov.bd",
+      "website": "http://www.chapainawabganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chapai Nawabganj",
+      "phone": "01713-373036",
+      "email": "spchapainawabganj@police.gov.bd",
+      "control_room": "01713-374036"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chapai Nawabganj",
+      "phone": "01713-555036",
+      "email": "cschapainawabganj@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 5,
+  "upazilas": [
+    {
+      "upazila": "Bholahat",
+      "upazila_bn": "ভোলাহাট",
+      "uno_portal": "bholahat.chapainawabganj.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Rajshahi/Chapainawabganj/Bholahat.json"
+    },
+    {
+      "upazila": "Chapainawabganj Sadar",
+      "upazila_bn": "চাঁপাইনবাবগঞ্জ সদর",
+      "uno_portal": "chapainawabganjsadar.chapainawabganj.gov.bd",
+      "total_unions": 14,
+      "file": "divisions/Rajshahi/Chapainawabganj/Chapainawabganj Sadar.json"
+    },
+    {
+      "upazila": "Gomostapur",
+      "upazila_bn": "গোমস্তাপুর",
+      "uno_portal": "gomostapur.chapainawabganj.gov.bd",
+      "total_unions": 8,
+      "file": "divisions/Rajshahi/Chapainawabganj/Gomostapur.json"
+    },
+    {
+      "upazila": "Nachol",
+      "upazila_bn": "নাচোল",
+      "uno_portal": "nachol.chapainawabganj.gov.bd",
+      "total_unions": 4,
+      "file": "divisions/Rajshahi/Chapainawabganj/Nachol.json"
+    },
+    {
+      "upazila": "Shibganj",
+      "upazila_bn": "শিবগঞ্জ",
+      "uno_portal": "shibganj.chapainawabganj.gov.bd",
+      "total_unions": 15,
+      "file": "divisions/Rajshahi/Chapainawabganj/Shibganj.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "43",
+      "name": {
+        "en": "ChapaiNababgonj-1",
+        "bn": "চাঁপাইনবাবগঞ্জ-১"
+      },
+      "total_voters": 500181
+    },
+    {
+      "code": "44",
+      "name": {
+        "en": "ChapaiNababgonj-2",
+        "bn": "চাঁপাইনবাবগঞ্জ-২"
+      },
+      "total_voters": 461000
+    },
+    {
+      "code": "45",
+      "name": {
+        "en": "ChapaiNababgonj-3",
+        "bn": "চাঁপাইনবাবগঞ্জ-৩"
+      },
+      "total_voters": 468479
+    }
+  ],
+  "total_postal_offices": 12,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

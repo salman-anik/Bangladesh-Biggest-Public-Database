@@ -1,0 +1,255 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Chandpur",
+  "district_bn": "চাঁদপুর",
+  "upazila_id": "53",
+  "upazila": "Kachua",
+  "upazila_bn": "কচুয়া",
+  "uno_portal": "kachua.chandpur.gov.bd",
+  "district_administration": {
+    "district": "Chandpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Chandpur",
+      "phone": "01713-000022",
+      "email": "dcchandpur@mopa.gov.bd",
+      "website": "http://www.chandpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Chandpur",
+      "phone": "01713-373022",
+      "email": "spchandpur@police.gov.bd",
+      "control_room": "01713-374022"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Chandpur",
+      "phone": "01713-555022",
+      "email": "cschandpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 12,
+  "unions": [
+    {
+      "id": "480",
+      "name": "Pathair",
+      "bn_name": "পাথৈর",
+      "url": "pathairup.chandpur.gov.bd"
+    },
+    {
+      "id": "481",
+      "name": "Bitara",
+      "bn_name": "বিতারা",
+      "url": "bitaraup.chandpur.gov.bd"
+    },
+    {
+      "id": "482",
+      "name": "Shohodebpur (East)",
+      "bn_name": "সহদেবপুর (পূর্ব)",
+      "url": "shohodebpureastup.chandpur.gov.bd"
+    },
+    {
+      "id": "483",
+      "name": "Shohodebpur (West)",
+      "bn_name": "সহদেবপুর (পশ্চিম)",
+      "url": "shohodebpurwestup.chandpur.gov.bd"
+    },
+    {
+      "id": "484",
+      "name": "Kachua (North)",
+      "bn_name": "কচুয়া (উত্তর)",
+      "url": "kachuanorthup.chandpur.gov.bd"
+    },
+    {
+      "id": "485",
+      "name": "Kachua (South)",
+      "bn_name": "কচুয়া (দক্ষিণ)",
+      "url": "kachuasouthup.chandpur.gov.bd"
+    },
+    {
+      "id": "486",
+      "name": "Gohat (North)",
+      "bn_name": "গোহাট (উত্তর)",
+      "url": "gohatnorthup.chandpur.gov.bd"
+    },
+    {
+      "id": "487",
+      "name": "Kadla",
+      "bn_name": "কাদলা",
+      "url": "kadlaup.chandpur.gov.bd"
+    },
+    {
+      "id": "488",
+      "name": "Ashrafpur",
+      "bn_name": "আসরাফপুর",
+      "url": "ashrafpurup.chandpur.gov.bd"
+    },
+    {
+      "id": "489",
+      "name": "Gohat (South)",
+      "bn_name": "গোহাট (দক্ষিণ)",
+      "url": "gohatsouthup.chandpur.gov.bd"
+    },
+    {
+      "id": "490",
+      "name": "Sachar",
+      "bn_name": "সাচার",
+      "url": "sacharup.chandpur.gov.bd"
+    },
+    {
+      "id": "491",
+      "name": "Koroia",
+      "bn_name": "কড়ইয়া",
+      "url": "koroiaup.chandpur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "3630",
+      "postcode_bn": "৩৬৩০",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "thana_upazila": "Kachua",
+      "thana_upazila_bn": "কচুয়া",
+      "sub_office": "Kachua",
+      "sub_office_bn": "কচুয়া"
+    },
+    {
+      "postcode": "3631",
+      "postcode_bn": "৩৬৩১",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "thana_upazila": "Kachua",
+      "thana_upazila_bn": "কচুয়া",
+      "sub_office": "Pak Shrirampur",
+      "sub_office_bn": "পাক শ্রীরামপুর"
+    },
+    {
+      "postcode": "3632",
+      "postcode_bn": "৩৬৩২",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "thana_upazila": "Kachua",
+      "thana_upazila_bn": "কচুয়া",
+      "sub_office": "Rahima Nagar",
+      "sub_office_bn": "রহিমা নগর"
+    },
+    {
+      "postcode": "3633",
+      "postcode_bn": "৩৬৩৩",
+      "division": "Chattogram",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Chandpur",
+      "district_bn": "চাঁদপুর",
+      "thana_upazila": "Kachua",
+      "thana_upazila_bn": "কচুয়া",
+      "sub_office": "Shachar",
+      "sub_office_bn": "Shachar"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "260",
+      "name": {
+        "en": "Chandpur-1",
+        "bn": "চাঁদপুর-১"
+      },
+      "total_voters": 356485
+    },
+    {
+      "code": "261",
+      "name": {
+        "en": "Chandpur-2",
+        "bn": "চাঁদপুর-২"
+      },
+      "total_voters": 501061
+    },
+    {
+      "code": "262",
+      "name": {
+        "en": "Chandpur-3",
+        "bn": "চাঁদপুর-৩"
+      },
+      "total_voters": 546334
+    },
+    {
+      "code": "263",
+      "name": {
+        "en": "Chandpur-4",
+        "bn": "চাঁদপুর-৪"
+      },
+      "total_voters": 400631
+    },
+    {
+      "code": "264",
+      "name": {
+        "en": "Chandpur-5",
+        "bn": "চাঁদপুর-৫"
+      },
+      "total_voters": 526679
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

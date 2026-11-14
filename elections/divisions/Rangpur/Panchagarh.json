@@ -1,0 +1,41 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "total_constituencies": 2,
+  "constituencies": [
+    {
+      "id": 4812,
+      "slug": "panchagarh-1",
+      "code": "1",
+      "district_id": 18,
+      "division_id": 7,
+      "name": {
+        "en": "Panchagarh-1",
+        "bn": "পঞ্চগড়-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Panchagarh-1.svg",
+      "total_voters": 463700,
+      "total_male_voters": 231976,
+      "total_female_voters": 231723,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4813,
+      "slug": "panchagarh-2",
+      "code": "2",
+      "district_id": 18,
+      "division_id": 7,
+      "name": {
+        "en": "Panchagarh-2",
+        "bn": "পঞ্চগড়-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Panchagarh-2.svg",
+      "total_voters": 417529,
+      "total_male_voters": 209708,
+      "total_female_voters": 207818,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    }
+  ]
+}

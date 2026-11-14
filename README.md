@@ -37,28 +37,28 @@ The repository is organized into the following subject areas.
 
 | Category | Dataset Coverage | Directory |
 |---|---|---|
-| Geography & Administration | 8 divisions, 64 districts, 494 upazilas, 4,540 unions, 12 city corporations, 1,368 postal codes, GeoJSONs & [boundary polygons (Drive)](./geography/geojson/README.md) | `geography/` |
-| Demographics & Census | BBS latest publications (120 reports) & statistical yearbooks catalog | `demographics/` |
-| Economy & Macro | BBS macro indicators (GDP, GNI, per capita income) & 14 national accounts reports | `economy/` |
-| Banking & Finance | 62 banks, 8,751 branches, 8,747 BEFTN routing numbers and 5 MFS providers | `banking/` |
+| Geography & Administration | 8 divisions, 64 districts, 494 upazilas, 4,540 unions, 12 city corporations, 1,368 postal codes, GeoJSONs & [uncompressed boundary layers (Drive)](./geography/geojson/README.md) | `geography/` |
+| Demographics & Census | BBS latest publications by topic, Census/SVRS District Statistics (64 districts) & statistical yearbooks | `demographics/` |
+| Economy & Macro | BBS macro indicators (CPI/inflation, GDP growth) & National Accounts (2016–2026) | `economy/` |
+| Banking & Finance | 62 banks, 8,751 branches, 8,747 BEFTN routing numbers and 5 MFS providers by bank & division/district | `banking/` |
 | Companies & Businesses | 3,344 companies: 409 DSE listed, 2,882 BASIS IT members, conglomerates, startups, trade bodies | `company/` |
 | Medicine & Pharmaceuticals | 33,219 medicines, 1,233 diseases/indications, 2,594 generics, 435 manufacturers, 215 dosage forms | `medicine/` |
-| Education | 40,000+ schools, colleges, madrasas, EIIN and teacher rosters | `education/` |
-| Universities & Higher Ed | 185 UGC-listed universities (61 public, 121 private, 3 international) with details | `universities/` |
-| Agriculture & Crops | 117 BBS crop/agricultural wage reports & DAE portal resources | `agriculture/` |
-| Climate & Weather | BMD temperature history (576 records), humidity normals (36 stations), 20 agromet stations | `climate/` |
-| Environment & Pollution | DoE daily AQI (1,286 reports cataloged, 15 recent parsed) & water quality reports | `environment/` |
-| Elections & Constituencies | 300 parliamentary constituencies (with voter counts) & 63 registered political parties | `elections/` |
-| Government Procurement | BPPA contract awards & public procurement records | `procurement/` |
+| Education | 40,000+ schools, colleges, madrasas, EIIN and teacher rosters by Division > District > Upazila | `education/` |
+| Universities & Higher Ed | 185 UGC-listed universities categorized into Public (General/Engineering/Agri/Medical), Private & International | `universities/` |
+| Agriculture & Crops | 64 district profiles (agro-ecological zones & seasonal calendars), 117 BBS crop reports & 134 DAE resources | `agriculture/` |
+| Climate & Weather | BMD weather station history (48 stations, 576 records) by Division > District, decadal series & normals | `climate/` |
+| Environment & Pollution | DoE daily AQI by year (2023–2026) & city (14 cities), plus water quality reports | `environment/` |
+| Elections & Constituencies | 300 parliamentary constituencies by Division > District & seat range, plus 63 registered political parties | `elections/` |
+| Government Procurement | BPPA/CPTU e-GP contract awards categorized by Division > District & procuring ministry | `procurement/` |
 | Land Records & Mouza Maps | 93,953 ePorcha khatian records (61 districts, 515 upazilas), 171,877 cataloged mouzas (527 upazilas) & [226,157 Mouza map files (2,385.37 GB) linked from Google Drive](./land/maps/README.md) | `land/` |
-| Law & Legal Information | Constitution, Penal Code 1860, CrPC 1898, major acts and legal glossary | `law/` |
+| Law & Legal Information | Constitution by Part, Penal Code 1860, CrPC 1898, major acts by category & legal glossary | `law/` |
 | Lawyers Directory | 34,591 Dhaka Bar Association members by division, district and status | `Lawyer/` |
 | Healthcare | 3,590 hospitals, diagnostic centers, doctors, blood banks and ambulance services | `healthcare/` |
 | Emergency Services | 14 national hotlines, 76 police stations, 67 fire stations and 64 district admin offices | `emergency/` |
 | Transportation | Railway stations, 44 station BTCL phones, intercity trains, fares, bus/launch routes, airports | `transport/` |
 | Islamic Information | Quran, Hadith collections and Fiqh/Sunnah datasets | `Islamic/` |
-| Government & Public Services | 15 ministries, 10 statutory bodies and 8 citizen e-services | `governance/` |
-| Heritage & Tourism | Historical landmarks and tourist destinations | `heritage/` |
+| Governance & Public Services | 494 Upazilas (`Division > District > Upazila`), 64 districts, UNO/district portals, constituencies, 15 ministries, 10 statutory bodies & 8 citizen e-services | `governance/` |
+| Heritage & Tourism | Historical landmarks, UNESCO heritage sites & natural destinations by Division > District & category | `heritage/` |
 
 *Dataset availability varies by category. Refer to the actual repository files for current coverage.*
 
@@ -71,10 +71,11 @@ To make finding information instant and intuitive, all regional datasets are org
 ```
 
 - **Education:** `education/<Division>/<District>/<Upazila>/<category>/<institution>.json` (40,000+ schools, colleges, and madrasas with teachers and contacts, plus `_summary.json` per upazila).
+- **Governance:** `governance/divisions/<Division>/<District>/<Upazila>.json` (494 upazila UNO portals, 64 district administrations, parliamentary seats, ministries, statutory bodies & citizen e-services).
 - **Healthcare:** `healthcare/divisions/<Division>/<District>/<Upazila>.json` (hospitals, bed capacity, ICU, ambulance availability, and emergency hotlines).
 - **Banking:** `banking/divisions/<Division>/<District>/<Upazila>.json` (8,750+ bank branches, routing numbers, swift codes, and branch codes).
 - **Emergency Services:** `emergency/divisions/<Division>/<District>/<Upazila>.json` (police stations with OC numbers, fire stations, district administration contacts, and national hotlines).
-- **Geography & GIS:** `geography/divisions/<Division>/<District>/<Upazila>/info.json` plus nationwide GeoJSON layers in `geography/geojson/` and [high-resolution boundary polygon ZIPs on Google Drive](./geography/geojson/README.md).
+- **Geography & GIS:** `geography/divisions/<Division>/<District>/<Upazila>/info.json` plus nationwide GeoJSON layers in `geography/geojson/` and [uncompressed high-resolution GeoJSON boundary folders on Google Drive](./geography/geojson/README.md).
 - **Land Records, Khatians & Mouza Maps:** `land/khatians/<Division>/<District>/<Upazila>.json` (93,953 ePorcha khatian records across 8 divisions / 61 districts / 515 upazilas), `land/metadata/mouzas/<Division>/<District>.json` (171,877 cataloged mouza/JL entries across 527 upazilas), and `land/maps/<Division>/<District>.json` indexing 226,157 Mouza map files (PDF/JPG/TIF) hosted on [Google Drive](./land/maps/README.md).
 - **Transport:** `transport/divisions/<Division>/<District>/transport_nodes.json` (railway stations and airports).
 
@@ -91,9 +92,9 @@ The `medicine/` directory contains a comprehensive Bangladesh pharmaceutical and
 
 ---
 
-## Interactive Data Visualizer (`visualize/`)
+## Interactive Data Visualizer (`visualize/` — Next.js App Router)
 
-A modern, fast React + Vite web application is included in the `visualize/` folder to search, explore, and visualize all public datasets.
+A modern, fast **Next.js 15 (App Router) + Tailwind CSS** web application is included in `visualize/` (configured for Vercel static export) to search, explore, and visualize all 22 categories, 494 Upazilas, Land Khatians, Governance portals, and Google Drive Mouza Maps.
 
 ### Running the Visualizer:
 
@@ -103,7 +104,7 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:3000` to browse by **Division > District > Upazila** or search globally across 53,000+ institutions, hospitals, bank branches, routing numbers, and emergency stations.
+Visit `http://localhost:3000` to browse by **Location Explorer (`Division > District > Upazila`)** or switch to the **22 Dataset Categories** view. Every folder throughout this repository also contains a dedicated `README.md` index for effortless GitHub navigation.
 
 ---
 
@@ -111,10 +112,10 @@ Visit `http://localhost:3000` to browse by **Division > District > Upazila** or 
 
 ```text
 Bangladesh-Biggest-Public-Database/
-├── visualize/                   # React + Vite interactive search & visualizer portal
-│   ├── src/
-│   ├── public/data/             # Pre-indexed search and upazila bundle data
-│   └── package.json
+├── visualize/                   # Next.js 15 App Router interactive explorer & Vercel frontend
+│   ├── src/app/                 # Next.js App Router layout, globals.css & page entry
+│   ├── public/data/             # Pre-indexed search, 22-category overview & 494 upazila bundles
+│   └── next.config.mjs
 │
 ├── agriculture/                 # BBS Crop Reports (117) & DAE Agricultural Resources
 ├── banking/                     # 8,751 Bank Branches & 8,747 Routing Numbers
@@ -215,7 +216,7 @@ jq '.[] | select(.district_name == "Dhaka")' \
 
 ## Google Drive Full Mirror & Large Files
 
-All **JSON/CSV datasets, metadata, and scripts** live directly inside this GitHub repository, while **large binary Mouza map files** (`PDF`/`JPG`/`TIF` from [`mouzamap.tech`](https://mouzamap.tech/)) and high-resolution GIS boundary polygon archives are stored in **Google Drive** and linked from GitHub:
+All **JSON/CSV datasets, metadata, and scripts** live directly inside this GitHub repository, while **large binary Mouza map files** (`PDF`/`JPG`/`TIF` from [`mouzamap.tech`](https://mouzamap.tech/)) and high-resolution GIS GeoJSON boundary layers are stored as **uncompressed folders (zero ZIP archives)** in **Google Drive** and linked from GitHub:
 
 - **Full Repository Google Drive Mirror:** [Open `Bangladesh-Biggest-Public-Database` on Google Drive](https://drive.google.com/drive/folders/1ObOiGGQXl9B4bodcnDkx7g5yU_dc-Gol) (full manifest: [`drive_mirror.json`](./drive_mirror.json))
 - **Mouza Maps Root (`land/maps/`):** [Open `land/maps` on Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u) — 226,157 cataloged map files (~2.33 TB) organized by Division → District → Upazila → Survey; see [`land/maps/README.md`](./land/maps/README.md) & [`land/maps/index.json`](./land/maps/index.json)

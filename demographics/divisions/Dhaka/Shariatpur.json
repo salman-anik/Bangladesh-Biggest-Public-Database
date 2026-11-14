@@ -1,0 +1,46 @@
+{
+  "division": "Dhaka",
+  "district": "Shariatpur",
+  "upazilas_count": 6,
+  "unions_count": 64,
+  "post_offices_count": 12,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1150753,
+    "male": 597791,
+    "female": 552948,
+    "third_gender": 14
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "221",
+      "name": {
+        "en": "Sariatpur-1",
+        "bn": "শরীয়তপুর-১"
+      },
+      "total_voters": 395476,
+      "male": 207730,
+      "female": 187736
+    },
+    {
+      "seat_no": "222",
+      "name": {
+        "en": "Sariatpur-2",
+        "bn": "শরীয়তপুর-২"
+      },
+      "total_voters": 415135,
+      "male": 215993,
+      "female": 199140
+    },
+    {
+      "seat_no": "223",
+      "name": {
+        "en": "Sariatpur-3",
+        "bn": "শরীয়তপুর-৩"
+      },
+      "total_voters": 340142,
+      "male": 174068,
+      "female": 166072
+    }
+  ]
+}

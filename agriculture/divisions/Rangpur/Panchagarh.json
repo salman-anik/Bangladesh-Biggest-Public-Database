@@ -1,0 +1,95 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "total_upazilas": 5,
+  "upazilas": [
+    "Atwari",
+    "Boda",
+    "Debiganj",
+    "Panchagarh Sadar",
+    "Tetulia"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Dimla",
+    "Sayedpur",
+    "Dinajpur",
+    "Rajarhat",
+    "Rangpur"
+  ],
+  "agromet_stations_in_region": [
+    "Dimla",
+    "Dinajpur",
+    "Rajarhat",
+    "Rangpur"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Sayedpur",
+      "monthly_normal_humidity_pct": {
+        "Jan": 78,
+        "Feb": 70,
+        "Mar": 63,
+        "Apr": 70,
+        "May": 77,
+        "Jun": 82,
+        "Jul": 83,
+        "Aug": 83,
+        "Sep": 83,
+        "Oct": 80,
+        "Nov": 75,
+        "Dec": 76
+      },
+      "annual_mean_pct": 76.7
+    },
+    {
+      "station": "Dinajpur",
+      "monthly_normal_humidity_pct": {
+        "Jan": 79,
+        "Feb": 70,
+        "Mar": 63,
+        "Apr": 68,
+        "May": 76,
+        "Jun": 82,
+        "Jul": 84,
+        "Aug": 84,
+        "Sep": 85,
+        "Oct": 82,
+        "Nov": 78,
+        "Dec": 78
+      },
+      "annual_mean_pct": 77.4
+    },
+    {
+      "station": "Rangpur",
+      "monthly_normal_humidity_pct": {
+        "Jan": 82,
+        "Feb": 75,
+        "Mar": 68,
+        "Apr": 74,
+        "May": 81,
+        "Jun": 85,
+        "Jul": 86,
+        "Aug": 85,
+        "Sep": 87,
+        "Oct": 84,
+        "Nov": 80,
+        "Dec": 81
+      },
+      "annual_mean_pct": 80.7
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

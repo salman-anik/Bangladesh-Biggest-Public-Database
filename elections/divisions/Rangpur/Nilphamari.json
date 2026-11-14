@@ -1,0 +1,75 @@
+{
+  "division": "Rangpur",
+  "district": "Nilphamari",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4823,
+      "slug": "nilphamari-1",
+      "code": "12",
+      "district_id": 21,
+      "division_id": 7,
+      "name": {
+        "en": "Nilphamari-1",
+        "bn": "নীলফামারী-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Nilphamari-1.svg",
+      "total_voters": 460271,
+      "total_male_voters": 232483,
+      "total_female_voters": 227786,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4824,
+      "slug": "nilphamari-2",
+      "code": "13",
+      "district_id": 21,
+      "division_id": 7,
+      "name": {
+        "en": "Nilphamari-2",
+        "bn": "নীলফামারী-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Nilphamari-2.svg",
+      "total_voters": 385785,
+      "total_male_voters": 193034,
+      "total_female_voters": 192749,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4825,
+      "slug": "nilphamari-3",
+      "code": "14",
+      "district_id": 21,
+      "division_id": 7,
+      "name": {
+        "en": "Nilphamari-3",
+        "bn": "নীলফামারী-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Nilphamari-3.svg",
+      "total_voters": 294446,
+      "total_male_voters": 149878,
+      "total_female_voters": 144567,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4826,
+      "slug": "nilphamari-4",
+      "code": "15",
+      "district_id": 21,
+      "division_id": 7,
+      "name": {
+        "en": "Nilphamari-4",
+        "bn": "নীলফামারী-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Nilphamari-4.svg",
+      "total_voters": 451814,
+      "total_male_voters": 226728,
+      "total_female_voters": 225081,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    }
+  ]
+}

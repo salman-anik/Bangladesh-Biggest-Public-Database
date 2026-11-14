@@ -1,0 +1,227 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Madaripur",
+  "district_bn": "মাদারীপুর",
+  "upazila_id": "383",
+  "upazila": "Kalkini",
+  "upazila_bn": "কালকিনি",
+  "uno_portal": "kalkini.madaripur.gov.bd",
+  "district_administration": {
+    "district": "Madaripur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Madaripur",
+      "phone": "01713-000019",
+      "email": "dcmadaripur@mopa.gov.bd",
+      "website": "http://www.madaripur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Madaripur",
+      "phone": "01713-373019",
+      "email": "spmadaripur@police.gov.bd",
+      "control_room": "01713-374019"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Madaripur",
+      "phone": "01713-555019",
+      "email": "csmadaripur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 14,
+  "unions": [
+    {
+      "id": "3477",
+      "name": "Alinagar",
+      "bn_name": "আলীনগর",
+      "url": "alinagarup.madaripur.gov.bd"
+    },
+    {
+      "id": "3478",
+      "name": "Baligram",
+      "bn_name": "বালীগ্রাম",
+      "url": "baligramup.madaripur.gov.bd"
+    },
+    {
+      "id": "3479",
+      "name": "Basgari",
+      "bn_name": "বাঁশগাড়ী",
+      "url": "basgariup.madaripur.gov.bd"
+    },
+    {
+      "id": "3480",
+      "name": "Chardoulatkhan",
+      "bn_name": "চরদৌলতখান",
+      "url": "chardoulatkhanup.madaripur.gov.bd"
+    },
+    {
+      "id": "3481",
+      "name": "Dashar",
+      "bn_name": "ডাসার",
+      "url": "dasharup.madaripur.gov.bd"
+    },
+    {
+      "id": "3482",
+      "name": "Enayetnagor",
+      "bn_name": "এনায়েতনগর",
+      "url": "enayetnagorup.madaripur.gov.bd"
+    },
+    {
+      "id": "3483",
+      "name": "Gopalpur",
+      "bn_name": "গোপালপুর",
+      "url": "gopalpurup.madaripur.gov.bd"
+    },
+    {
+      "id": "3484",
+      "name": "Koyaria",
+      "bn_name": "কয়ারিয়া",
+      "url": "koyariaup.madaripur.gov.bd"
+    },
+    {
+      "id": "3485",
+      "name": "Kazibakai",
+      "bn_name": "কাজীবাকাই",
+      "url": "kazibakaiup.madaripur.gov.bd"
+    },
+    {
+      "id": "3486",
+      "name": "Laxmipur",
+      "bn_name": "লক্ষীপুর",
+      "url": "laxmipurup.madaripur.gov.bd"
+    },
+    {
+      "id": "3487",
+      "name": "Nabogram",
+      "bn_name": "নবগ্রাম",
+      "url": "nabogramup.madaripur.gov.bd"
+    },
+    {
+      "id": "3488",
+      "name": "Ramjanpur",
+      "bn_name": "রমজানপুর",
+      "url": "ramjanpurup.madaripur.gov.bd"
+    },
+    {
+      "id": "3489",
+      "name": "Shahebrampur",
+      "bn_name": "সাহেবরামপুর",
+      "url": "shahebrampurup.madaripur.gov.bd"
+    },
+    {
+      "id": "3490",
+      "name": "Shikarmongol",
+      "bn_name": "শিকারমঙ্গল",
+      "url": "shikarmongolup.madaripur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "7920",
+      "postcode_bn": "৭৯২০",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "thana_upazila": "kalkini",
+      "thana_upazila_bn": "কালকিনি",
+      "sub_office": "Kalkini",
+      "sub_office_bn": "কালকিনি"
+    },
+    {
+      "postcode": "7921",
+      "postcode_bn": "৭৯২১",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Madaripur",
+      "district_bn": "মাদারীপুর",
+      "thana_upazila": "kalkini",
+      "thana_upazila_bn": "কালকিনি",
+      "sub_office": "Sahabrampur",
+      "sub_office_bn": "সাহাবরামপুর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "218",
+      "name": {
+        "en": "Madaripur-1",
+        "bn": "মাদারিপুর-১"
+      },
+      "total_voters": 324289
+    },
+    {
+      "code": "219",
+      "name": {
+        "en": "Madaripur-2",
+        "bn": "মাদারিপুর-২"
+      },
+      "total_voters": 436233
+    },
+    {
+      "code": "220",
+      "name": {
+        "en": "Madaripur-3",
+        "bn": "মাদারীপুর-৩"
+      },
+      "total_voters": 387806
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "division": "Khulna",
+  "district": "Narail",
+  "district_administration": {
+    "district": "Narail",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Narail",
+      "phone": "01713-000045",
+      "email": "dcnarail@mopa.gov.bd",
+      "website": "http://www.narail.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Narail",
+      "phone": "01713-373045",
+      "email": "spnarail@police.gov.bd",
+      "control_room": "01713-374045"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Narail",
+      "phone": "01713-555045",
+      "email": "csnarail@dghs.gov.bd"
+    }
+  },
+  "total_upazilas": 3,
+  "upazilas": [
+    {
+      "upazila": "Kalia",
+      "upazila_bn": "কালিয়া",
+      "uno_portal": "kalia.narail.gov.bd",
+      "total_unions": 14,
+      "file": "divisions/Khulna/Narail/Kalia.json"
+    },
+    {
+      "upazila": "Lohagara",
+      "upazila_bn": "লোহাগড়া",
+      "uno_portal": "lohagara.narail.gov.bd",
+      "total_unions": 12,
+      "file": "divisions/Khulna/Narail/Lohagara.json"
+    },
+    {
+      "upazila": "Narail Sadar",
+      "upazila_bn": "নড়াইল সদর",
+      "uno_portal": "narailsadar.narail.gov.bd",
+      "total_unions": 13,
+      "file": "divisions/Khulna/Narail/Narail Sadar.json"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "93",
+      "name": {
+        "en": "Narail-1",
+        "bn": "নড়াইল-১"
+      },
+      "total_voters": 294155
+    },
+    {
+      "code": "94",
+      "name": {
+        "en": "Narail-2",
+        "bn": "নড়াইল-২"
+      },
+      "total_voters": 390988
+    }
+  ],
+  "total_postal_offices": 9,
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

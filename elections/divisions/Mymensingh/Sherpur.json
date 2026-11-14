@@ -1,0 +1,58 @@
+{
+  "division": "Mymensingh",
+  "district": "Sherpur",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4793,
+      "slug": "sherpur-1",
+      "code": "143",
+      "district_id": 46,
+      "division_id": 5,
+      "name": {
+        "en": "Sherpur-1",
+        "bn": "শেরপুর-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Sherpur-1.svg",
+      "total_voters": 450489,
+      "total_male_voters": 224472,
+      "total_female_voters": 226009,
+      "total_third_gender_voters": 8,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4794,
+      "slug": "sherpur-2",
+      "code": "144",
+      "district_id": 46,
+      "division_id": 5,
+      "name": {
+        "en": "Sherpur-2",
+        "bn": "শেরপুর-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Sherpur-2.svg",
+      "total_voters": 440035,
+      "total_male_voters": 215786,
+      "total_female_voters": 224249,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4795,
+      "slug": "sherpur-3",
+      "code": "145",
+      "district_id": 46,
+      "division_id": 5,
+      "name": {
+        "en": "Sherpur-3",
+        "bn": "শেরপুর-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Sherpur-3.svg",
+      "total_voters": 413377,
+      "total_male_voters": 205077,
+      "total_female_voters": 208293,
+      "total_third_gender_voters": 7,
+      "last_demographic_update": null
+    }
+  ]
+}

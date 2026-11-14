@@ -1,0 +1,56 @@
+{
+  "division": "Barishal",
+  "district": "Bhola",
+  "upazilas_count": 7,
+  "unions_count": 65,
+  "post_offices_count": 14,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1692689,
+    "male": 879860,
+    "female": 812813,
+    "third_gender": 16
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "115",
+      "name": {
+        "en": "Bhola-1",
+        "bn": "ভোলা-১"
+      },
+      "total_voters": 406567,
+      "male": 210087,
+      "female": 196475
+    },
+    {
+      "seat_no": "116",
+      "name": {
+        "en": "Bhola-2",
+        "bn": "ভোলা-২"
+      },
+      "total_voters": 395546,
+      "male": 206433,
+      "female": 189112
+    },
+    {
+      "seat_no": "117",
+      "name": {
+        "en": "Bhola-3",
+        "bn": "ভোলা-৩"
+      },
+      "total_voters": 388550,
+      "male": 200497,
+      "female": 188050
+    },
+    {
+      "seat_no": "118",
+      "name": {
+        "en": "Bhola-4",
+        "bn": "ভোলা-৪"
+      },
+      "total_voters": 502026,
+      "male": 262843,
+      "female": 239176
+    }
+  ]
+}

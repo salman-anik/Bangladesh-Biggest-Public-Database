@@ -1,0 +1,36 @@
+{
+  "division": "Rangpur",
+  "district": "Panchagarh",
+  "upazilas_count": 5,
+  "unions_count": 44,
+  "post_offices_count": 6,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 881229,
+    "male": 441684,
+    "female": 439541,
+    "third_gender": 4
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "1",
+      "name": {
+        "en": "Panchagarh-1",
+        "bn": "পঞ্চগড়-১"
+      },
+      "total_voters": 463700,
+      "male": 231976,
+      "female": 231723
+    },
+    {
+      "seat_no": "2",
+      "name": {
+        "en": "Panchagarh-2",
+        "bn": "পঞ্চগড়-২"
+      },
+      "total_voters": 417529,
+      "male": 209708,
+      "female": 207818
+    }
+  ]
+}

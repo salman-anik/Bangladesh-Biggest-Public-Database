@@ -1,0 +1,246 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Lakshmipur",
+  "district_bn": "লক্ষ্মীপুর",
+  "upazila_id": "60",
+  "upazila": "Lakshmipur Sadar",
+  "upazila_bn": "লক্ষ্মীপুর সদর",
+  "uno_portal": "sadar.lakshmipur.gov.bd",
+  "district_administration": {
+    "district": "Lakshmipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lakshmipur",
+      "phone": "01713-000025",
+      "email": "dclakshmipur@mopa.gov.bd",
+      "website": "http://www.lakshmipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lakshmipur",
+      "phone": "01713-373025",
+      "email": "splakshmipur@police.gov.bd",
+      "control_room": "01713-374025"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lakshmipur",
+      "phone": "01713-555025",
+      "email": "cslakshmipur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 20,
+  "unions": [
+    {
+      "id": "562",
+      "name": "Hamsadi (North)",
+      "bn_name": "হামছাদী (উত্তর)",
+      "url": "northhamsadiup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "563",
+      "name": "Hamsadi (South)",
+      "bn_name": "হামছাদী (দক্ষিন)",
+      "url": "southhamsadiup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "564",
+      "name": "Dalalbazar",
+      "bn_name": "দালাল বাজার",
+      "url": "dalalbazarup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "565",
+      "name": "Charruhita",
+      "bn_name": "চররুহিতা",
+      "url": "charruhitaup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "566",
+      "name": "Parbotinagar",
+      "bn_name": "পার্বতীনগর",
+      "url": "parbotinagarup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "567",
+      "name": "Bangakha",
+      "bn_name": "বাঙ্গাখাঁ",
+      "url": "bangakhaup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "568",
+      "name": "Dattapara",
+      "bn_name": "দত্তপাড়া",
+      "url": "dattaparaup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "569",
+      "name": "Basikpur",
+      "bn_name": "বশিকপুর",
+      "url": "basikpurup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "570",
+      "name": "Chandrogonj",
+      "bn_name": "চন্দ্রগঞ্জ",
+      "url": "chandrogonjup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "571",
+      "name": "Nourthjoypur",
+      "bn_name": "উত্তর জয়পুর",
+      "url": "nourthjoypurup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "572",
+      "name": "Hazirpara",
+      "bn_name": "হাজিরপাড়া",
+      "url": "hazirparaup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "573",
+      "name": "Charshahi",
+      "bn_name": "চরশাহী",
+      "url": "charshahiup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "574",
+      "name": "Digli",
+      "bn_name": "দিঘলী",
+      "url": "digliup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "575",
+      "name": "Laharkandi",
+      "bn_name": "লাহারকান্দি",
+      "url": "laharkandiup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "576",
+      "name": "Vobanigonj",
+      "bn_name": "ভবানীগঞ্জ",
+      "url": "vobanigonjup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "577",
+      "name": "Kusakhali",
+      "bn_name": "কুশাখালী",
+      "url": "kusakhaliup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "578",
+      "name": "Sakchor",
+      "bn_name": "শাকচর",
+      "url": "sakchorup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "579",
+      "name": "Tearigonj",
+      "bn_name": "তেয়ারীগঞ্জ",
+      "url": "tearigonjup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "580",
+      "name": "Tumchor",
+      "bn_name": "টুমচর",
+      "url": "tumchorup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "581",
+      "name": "Charramoni Mohon",
+      "bn_name": "চররমনী মোহন",
+      "url": "charramonimohonup.lakshmipur.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "274",
+      "name": {
+        "en": "Lakshmipur-1",
+        "bn": "লক্ষীপুর-১"
+      },
+      "total_voters": 281302
+    },
+    {
+      "code": "275",
+      "name": {
+        "en": "Lakshmipur-2",
+        "bn": "লক্ষীপুর-২"
+      },
+      "total_voters": 493970
+    },
+    {
+      "code": "276",
+      "name": {
+        "en": "Lakshmipur-3",
+        "bn": "লক্ষীপুর-৩"
+      },
+      "total_voters": 444472
+    },
+    {
+      "code": "277",
+      "name": {
+        "en": "Lakshmipur-4",
+        "bn": "লক্ষীপুর-৪"
+      },
+      "total_voters": 418160
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

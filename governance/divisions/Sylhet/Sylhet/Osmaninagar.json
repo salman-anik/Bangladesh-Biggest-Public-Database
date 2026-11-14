@@ -1,0 +1,190 @@
+{
+  "division": "Sylhet",
+  "division_bn": "সিলেট",
+  "district": "Sylhet",
+  "district_bn": "সিলেট",
+  "upazila_id": "284",
+  "upazila": "Osmaninagar",
+  "upazila_bn": "ওসমানী নগর",
+  "uno_portal": "osmaninagar.sylhet.gov.bd",
+  "district_administration": {
+    "district": "Sylhet",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Sylhet",
+      "phone": "01713-000005",
+      "email": "dcsylhet@mopa.gov.bd",
+      "website": "http://www.sylhet.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Sylhet",
+      "phone": "01713-373005",
+      "email": "spsylhet@police.gov.bd",
+      "control_room": "01713-374005"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Sylhet",
+      "phone": "01713-555005",
+      "email": "cssylhet@dghs.gov.bd"
+    }
+  },
+  "total_unions": 8,
+  "unions": [
+    {
+      "id": "2436",
+      "name": "Tazpur",
+      "bn_name": "তাজপুর",
+      "url": "tazpurup.sylhet.gov.bd"
+    },
+    {
+      "id": "2437",
+      "name": "Umorpur",
+      "bn_name": "উমরপুর",
+      "url": "umorpurup.sylhet.gov.bd"
+    },
+    {
+      "id": "2438",
+      "name": "West Poilanpur",
+      "bn_name": "পশ্চিম পৈলনপুর",
+      "url": "westpoilanpurup.sylhet.gov.bd"
+    },
+    {
+      "id": "2441",
+      "name": "Burungabazar",
+      "bn_name": "বুরুঙ্গাবাজার",
+      "url": "burungabazarup.sylhet.gov.bd"
+    },
+    {
+      "id": "2442",
+      "name": "Goalabazar",
+      "bn_name": "গোয়ালাবাজার",
+      "url": "goalabazarup.sylhet.gov.bd"
+    },
+    {
+      "id": "2443",
+      "name": "Doyamir",
+      "bn_name": "দয়ামীর",
+      "url": "doyamirup.sylhet.gov.bd"
+    },
+    {
+      "id": "2444",
+      "name": "Usmanpur",
+      "bn_name": "উসমানপুর",
+      "url": "usmanpurup.sylhet.gov.bd"
+    },
+    {
+      "id": "2449",
+      "name": "Sadipur",
+      "bn_name": "সাদিরপুর",
+      "url": "sadipurup.sylhet.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "229",
+      "name": {
+        "en": "Sylhet-1",
+        "bn": "সিলেট-১"
+      },
+      "total_voters": 680946
+    },
+    {
+      "code": "230",
+      "name": {
+        "en": "Sylhet-2",
+        "bn": "সিলেট-২"
+      },
+      "total_voters": 368932
+    },
+    {
+      "code": "231",
+      "name": {
+        "en": "Sylhet-3",
+        "bn": "সিলেট-৩"
+      },
+      "total_voters": 416000
+    },
+    {
+      "code": "232",
+      "name": {
+        "en": "Sylhet-4",
+        "bn": "সিলেট-৪"
+      },
+      "total_voters": 512933
+    },
+    {
+      "code": "233",
+      "name": {
+        "en": "Sylhet-5",
+        "bn": "সিলেট-৫"
+      },
+      "total_voters": 428748
+    },
+    {
+      "code": "234",
+      "name": {
+        "en": "Sylhet-6",
+        "bn": "সিলেট-৬"
+      },
+      "total_voters": 509093
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

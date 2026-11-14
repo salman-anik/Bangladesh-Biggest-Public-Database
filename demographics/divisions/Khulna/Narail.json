@@ -1,0 +1,36 @@
+{
+  "division": "Khulna",
+  "district": "Narail",
+  "upazilas_count": 3,
+  "unions_count": 39,
+  "post_offices_count": 9,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 685143,
+    "male": 342750,
+    "female": 342387,
+    "third_gender": 6
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "93",
+      "name": {
+        "en": "Narail-1",
+        "bn": "নড়াইল-১"
+      },
+      "total_voters": 294155,
+      "male": 148505,
+      "female": 145648
+    },
+    {
+      "seat_no": "94",
+      "name": {
+        "en": "Narail-2",
+        "bn": "নড়াইল-২"
+      },
+      "total_voters": 390988,
+      "male": 194245,
+      "female": 196739
+    }
+  ]
+}

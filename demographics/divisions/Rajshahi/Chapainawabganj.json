@@ -1,0 +1,46 @@
+{
+  "division": "Rajshahi",
+  "district": "Chapainawabganj",
+  "upazilas_count": 5,
+  "unions_count": 45,
+  "post_offices_count": 12,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1429660,
+    "male": 720789,
+    "female": 708870,
+    "third_gender": 1
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "43",
+      "name": {
+        "en": "ChapaiNababgonj-1",
+        "bn": "চাঁপাইনবাবগঞ্জ-১"
+      },
+      "total_voters": 500181,
+      "male": 255316,
+      "female": 244865
+    },
+    {
+      "seat_no": "44",
+      "name": {
+        "en": "ChapaiNababgonj-2",
+        "bn": "চাঁপাইনবাবগঞ্জ-২"
+      },
+      "total_voters": 461000,
+      "male": 228825,
+      "female": 232174
+    },
+    {
+      "seat_no": "45",
+      "name": {
+        "en": "ChapaiNababgonj-3",
+        "bn": "চাঁপাইনবাবগঞ্জ-৩"
+      },
+      "total_voters": 468479,
+      "male": 236648,
+      "female": 231831
+    }
+  ]
+}

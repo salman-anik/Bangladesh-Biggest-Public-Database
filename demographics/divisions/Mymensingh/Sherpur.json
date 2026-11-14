@@ -1,0 +1,46 @@
+{
+  "division": "Mymensingh",
+  "district": "Sherpur",
+  "upazilas_count": 5,
+  "unions_count": 52,
+  "post_offices_count": 8,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1303901,
+    "male": 645335,
+    "female": 658551,
+    "third_gender": 15
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "143",
+      "name": {
+        "en": "Sherpur-1",
+        "bn": "শেরপুর-১"
+      },
+      "total_voters": 450489,
+      "male": 224472,
+      "female": 226009
+    },
+    {
+      "seat_no": "144",
+      "name": {
+        "en": "Sherpur-2",
+        "bn": "শেরপুর-২"
+      },
+      "total_voters": 440035,
+      "male": 215786,
+      "female": 224249
+    },
+    {
+      "seat_no": "145",
+      "name": {
+        "en": "Sherpur-3",
+        "bn": "শেরপুর-৩"
+      },
+      "total_voters": 413377,
+      "male": 205077,
+      "female": 208293
+    }
+  ]
+}

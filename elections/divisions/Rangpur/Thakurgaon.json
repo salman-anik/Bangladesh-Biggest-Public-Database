@@ -1,0 +1,58 @@
+{
+  "division": "Rangpur",
+  "district": "Thakurgaon",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4814,
+      "slug": "thakurgaon-1",
+      "code": "3",
+      "district_id": 19,
+      "division_id": 7,
+      "name": {
+        "en": "Thakurgaon-1",
+        "bn": "ঠাকুরগাঁও-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Thakurgaon-1.svg",
+      "total_voters": 511629,
+      "total_male_voters": 255053,
+      "total_female_voters": 256572,
+      "total_third_gender_voters": 4,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4815,
+      "slug": "thakurgaon-2",
+      "code": "4",
+      "district_id": 19,
+      "division_id": 7,
+      "name": {
+        "en": "Thakurgaon-2",
+        "bn": "ঠাকুরগাঁও-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Thakurgaon-2.svg",
+      "total_voters": 340049,
+      "total_male_voters": 175232,
+      "total_female_voters": 164816,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4816,
+      "slug": "thakurgaon-3",
+      "code": "5",
+      "district_id": 19,
+      "division_id": 7,
+      "name": {
+        "en": "Thakurgaon-3",
+        "bn": "ঠাকুরগাঁও-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Thakurgaon-3.svg",
+      "total_voters": 401735,
+      "total_male_voters": 202869,
+      "total_female_voters": 198864,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    }
+  ]
+}

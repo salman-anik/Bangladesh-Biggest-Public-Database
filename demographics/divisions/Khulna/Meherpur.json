@@ -1,0 +1,36 @@
+{
+  "division": "Khulna",
+  "district": "Meherpur",
+  "upazilas_count": 3,
+  "unions_count": 18,
+  "post_offices_count": 5,
+  "parliamentary_seats_count": 2,
+  "registered_voters": {
+    "total": 587680,
+    "male": 292977,
+    "female": 294697,
+    "third_gender": 6
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "73",
+      "name": {
+        "en": "Meherpur-1",
+        "bn": "মেহেরপুর-১"
+      },
+      "total_voters": 316975,
+      "male": 157890,
+      "female": 159082
+    },
+    {
+      "seat_no": "74",
+      "name": {
+        "en": "Meherpur-2",
+        "bn": "মেহেরপুর-২"
+      },
+      "total_voters": 270705,
+      "male": 135087,
+      "female": 135615
+    }
+  ]
+}

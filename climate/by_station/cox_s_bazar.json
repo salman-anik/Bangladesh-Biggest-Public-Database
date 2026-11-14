@@ -1,0 +1,26 @@
+{
+  "station": "Cox's Bazar",
+  "division": "Chattogram",
+  "district": "Cox's Bazar",
+  "is_agromet_station": false,
+  "humidity_normal": {
+    "station": "Cox's Bazar",
+    "monthly_normal_humidity_pct": {
+      "Jan": 72,
+      "Feb": 71,
+      "Mar": 75,
+      "Apr": 78,
+      "May": 80,
+      "Jun": 87,
+      "Jul": 89,
+      "Aug": 88,
+      "Sep": 86,
+      "Oct": 82,
+      "Nov": 77,
+      "Dec": 74
+    },
+    "annual_mean_pct": 79.9
+  },
+  "temperature_history_years": 0,
+  "temperature_history": []
+}

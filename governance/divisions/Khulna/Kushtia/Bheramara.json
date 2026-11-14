@@ -1,0 +1,199 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Kushtia",
+  "district_bn": "কুষ্টিয়া",
+  "upazila_id": "201",
+  "upazila": "Bheramara",
+  "upazila_bn": "ভেড়ামারা",
+  "uno_portal": "bheramara.kushtia.gov.bd",
+  "district_administration": {
+    "district": "Kushtia",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kushtia",
+      "phone": "01713-000038",
+      "email": "dckushtia@mopa.gov.bd",
+      "website": "http://www.kushtia.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kushtia",
+      "phone": "01713-373038",
+      "email": "spkushtia@police.gov.bd",
+      "control_room": "01713-374038"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kushtia",
+      "phone": "01713-555038",
+      "email": "cskushtia@dghs.gov.bd"
+    }
+  },
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "1835",
+      "name": "Dharampur",
+      "bn_name": "ধরমপুর",
+      "url": "5nodharampurup.kushtia.gov.bd"
+    },
+    {
+      "id": "1836",
+      "name": "Bahirchar",
+      "bn_name": "বাহিরচর",
+      "url": "3nobahircharup.kushtia.gov.bd"
+    },
+    {
+      "id": "1837",
+      "name": "Mukarimpur",
+      "bn_name": "মোকারিমপুর",
+      "url": "2nomukarimpurup.kushtia.gov.bd"
+    },
+    {
+      "id": "1838",
+      "name": "Juniadah",
+      "bn_name": "জুনিয়াদহ",
+      "url": "6nojuniadahup.kushtia.gov.bd"
+    },
+    {
+      "id": "1839",
+      "name": "Chandgram",
+      "bn_name": "চাঁদগ্রাম",
+      "url": "4nochandgramup.kushtia.gov.bd"
+    },
+    {
+      "id": "1840",
+      "name": "Bahadurpur",
+      "bn_name": "বাহাদুরপুর",
+      "url": "1nobahadurpurup.kushtia.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "7042",
+      "postcode_bn": "৭০৪২",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "thana_upazila": "Bheramara",
+      "thana_upazila_bn": "ভেড়ামারা",
+      "sub_office": "Allardarga",
+      "sub_office_bn": "Allardarga"
+    },
+    {
+      "postcode": "7040",
+      "postcode_bn": "৭০৪০",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "thana_upazila": "Bheramara",
+      "thana_upazila_bn": "ভেড়ামারা",
+      "sub_office": "Bheramara",
+      "sub_office_bn": "ভেড়ামারা"
+    },
+    {
+      "postcode": "7041",
+      "postcode_bn": "৭০৪১",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Kushtia",
+      "district_bn": "কুষ্টিয়া",
+      "thana_upazila": "Bheramara",
+      "thana_upazila_bn": "ভেড়ামারা",
+      "sub_office": "Ganges Bheramara",
+      "sub_office_bn": "গঙ্গা ভেড়ামারা"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "75",
+      "name": {
+        "en": "Kushtia-1",
+        "bn": "কুষ্টিয়া-১"
+      },
+      "total_voters": 404504
+    },
+    {
+      "code": "76",
+      "name": {
+        "en": "Kustia-2",
+        "bn": "কুষ্টিয়া-২"
+      },
+      "total_voters": 523454
+    },
+    {
+      "code": "77",
+      "name": {
+        "en": "Kustia-3",
+        "bn": "কুষ্টিয়া-৩"
+      },
+      "total_voters": 440842
+    },
+    {
+      "code": "78",
+      "name": {
+        "en": "Kustia-4",
+        "bn": "কুষ্টিয়া-৪"
+      },
+      "total_voters": 424417
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

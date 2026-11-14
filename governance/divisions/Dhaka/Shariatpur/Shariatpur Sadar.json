@@ -1,0 +1,221 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Shariatpur",
+  "district_bn": "শরীয়তপুর",
+  "upazila_id": "322",
+  "upazila": "Shariatpur Sadar",
+  "upazila_bn": "শরিয়তপুর সদর",
+  "uno_portal": "sadar.shariatpur.gov.bd",
+  "district_administration": {
+    "district": "Shariatpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Shariatpur",
+      "phone": "01713-000018",
+      "email": "dcshariatpur@mopa.gov.bd",
+      "website": "http://www.shariatpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Shariatpur",
+      "phone": "01713-373018",
+      "email": "spshariatpur@police.gov.bd",
+      "control_room": "01713-374018"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Shariatpur",
+      "phone": "01713-555018",
+      "email": "csshariatpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 11,
+  "unions": [
+    {
+      "id": "2885",
+      "name": "Binodpur",
+      "bn_name": "বিনোদপুর",
+      "url": "binodpurup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2886",
+      "name": "Tulasar",
+      "bn_name": "তুলাসার",
+      "url": "tulasarup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2887",
+      "name": "Palong",
+      "bn_name": "পালং",
+      "url": "palongup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2888",
+      "name": "Domshar",
+      "bn_name": "ডোমসার",
+      "url": "domsharup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2889",
+      "name": "Rudrakar",
+      "bn_name": "রুদ্রকর",
+      "url": "rudrakarup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2890",
+      "name": "Angaria",
+      "bn_name": "আংগারিয়া",
+      "url": "angariaup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2891",
+      "name": "Chitolia",
+      "bn_name": "চিতলয়া",
+      "url": "chitoliaup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2892",
+      "name": "Mahmudpur",
+      "bn_name": "মাহমুদপুর",
+      "url": "mahmudpurup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2893",
+      "name": "Chikondi",
+      "bn_name": "চিকন্দি",
+      "url": "chikondiup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2894",
+      "name": "Chandrapur",
+      "bn_name": "চন্দ্রপুর",
+      "url": "chandrapurup.shariatpur.gov.bd"
+    },
+    {
+      "id": "2895",
+      "name": "Shulpara",
+      "bn_name": "শৌলপাড়া",
+      "url": "shulparaup.shariatpur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "8001",
+      "postcode_bn": "৮০০১",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Shariatpur",
+      "district_bn": "শরীয়তপুর",
+      "thana_upazila": "Shariatpur Sadar",
+      "thana_upazila_bn": "শরীয়তপুর সদর",
+      "sub_office": "Angaria",
+      "sub_office_bn": "আঙ্গারিয়া"
+    },
+    {
+      "postcode": "8002",
+      "postcode_bn": "৮০০২",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Shariatpur",
+      "district_bn": "শরীয়তপুর",
+      "thana_upazila": "Shariatpur Sadar",
+      "thana_upazila_bn": "শরীয়তপুর সদর",
+      "sub_office": "Chikandi",
+      "sub_office_bn": "চিকান্দি"
+    },
+    {
+      "postcode": "8000",
+      "postcode_bn": "",
+      "division": "Dhaka",
+      "division_bn": "",
+      "district": "Shariatpur",
+      "district_bn": "",
+      "thana_upazila": "Shariatpur Sadar",
+      "thana_upazila_bn": "",
+      "sub_office": "Shariatpur Sadar",
+      "sub_office_bn": ""
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "221",
+      "name": {
+        "en": "Sariatpur-1",
+        "bn": "শরীয়তপুর-১"
+      },
+      "total_voters": 395476
+    },
+    {
+      "code": "222",
+      "name": {
+        "en": "Sariatpur-2",
+        "bn": "শরীয়তপুর-২"
+      },
+      "total_voters": 415135
+    },
+    {
+      "code": "223",
+      "name": {
+        "en": "Sariatpur-3",
+        "bn": "শরীয়তপুর-৩"
+      },
+      "total_voters": 340142
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

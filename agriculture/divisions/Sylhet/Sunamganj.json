@@ -1,0 +1,79 @@
+{
+  "division": "Sylhet",
+  "district": "Sunamganj",
+  "total_upazilas": 12,
+  "upazilas": [
+    "Bishwambarpur",
+    "Chhatak",
+    "Derai",
+    "Dharmapasha",
+    "Dowarabazar",
+    "Jagannathpur",
+    "Jamalganj",
+    "Madhyanagar",
+    "Shalla",
+    "South Sunamganj",
+    "Sunamganj Sadar",
+    "Tahirpur"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Sreemangal",
+    "Srimangal",
+    "Sylhet"
+  ],
+  "agromet_stations_in_region": [
+    "Sreemangal"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Srimangal",
+      "monthly_normal_humidity_pct": {
+        "Jan": 80,
+        "Feb": 73,
+        "Mar": 70,
+        "Apr": 75,
+        "May": 80,
+        "Jun": 84,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 85,
+        "Oct": 85,
+        "Nov": 82,
+        "Dec": 81
+      },
+      "annual_mean_pct": 80.4
+    },
+    {
+      "station": "Sylhet",
+      "monthly_normal_humidity_pct": {
+        "Jan": 75,
+        "Feb": 68,
+        "Mar": 68,
+        "Apr": 76,
+        "May": 81,
+        "Jun": 87,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 83,
+        "Nov": 77,
+        "Dec": 75
+      },
+      "annual_mean_pct": 79.1
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "division": "Dhaka",
+  "district": "Madaripur",
+  "upazilas_count": 5,
+  "unions_count": 59,
+  "post_offices_count": 13,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1148328,
+    "male": 595310,
+    "female": 553006,
+    "third_gender": 12
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "218",
+      "name": {
+        "en": "Madaripur-1",
+        "bn": "মাদারিপুর-১"
+      },
+      "total_voters": 324289,
+      "male": 169041,
+      "female": 155246
+    },
+    {
+      "seat_no": "219",
+      "name": {
+        "en": "Madaripur-2",
+        "bn": "মাদারিপুর-২"
+      },
+      "total_voters": 436233,
+      "male": 223624,
+      "female": 212601
+    },
+    {
+      "seat_no": "220",
+      "name": {
+        "en": "Madaripur-3",
+        "bn": "মাদারীপুর-৩"
+      },
+      "total_voters": 387806,
+      "male": 202645,
+      "female": 185159
+    }
+  ]
+}

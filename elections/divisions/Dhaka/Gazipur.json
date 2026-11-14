@@ -1,0 +1,92 @@
+{
+  "division": "Dhaka",
+  "district": "Gazipur",
+  "total_constituencies": 5,
+  "constituencies": [
+    {
+      "id": 4687,
+      "slug": "gazipur-1",
+      "code": "194",
+      "district_id": 52,
+      "division_id": 3,
+      "name": {
+        "en": "Gazipur-1",
+        "bn": "গাজীপুর-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gazipur-1.svg",
+      "total_voters": 720939,
+      "total_male_voters": 360234,
+      "total_female_voters": 360693,
+      "total_third_gender_voters": 12,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4688,
+      "slug": "gazipur-2",
+      "code": "195",
+      "district_id": 52,
+      "division_id": 3,
+      "name": {
+        "en": "Gazipur-2",
+        "bn": "গাজীপুর-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gazipur-2.svg",
+      "total_voters": 804333,
+      "total_male_voters": 400402,
+      "total_female_voters": 403918,
+      "total_third_gender_voters": 13,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4689,
+      "slug": "gazipur-3",
+      "code": "196",
+      "district_id": 52,
+      "division_id": 3,
+      "name": {
+        "en": "Gazipur-3",
+        "bn": "গাজীপুর-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gazipur-3.svg",
+      "total_voters": 527360,
+      "total_male_voters": 260191,
+      "total_female_voters": 267162,
+      "total_third_gender_voters": 7,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4690,
+      "slug": "gazipur-4",
+      "code": "197",
+      "district_id": 52,
+      "division_id": 3,
+      "name": {
+        "en": "Gazipur-4",
+        "bn": "গাজীপুর-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gazipur-4.svg",
+      "total_voters": 330977,
+      "total_male_voters": 164429,
+      "total_female_voters": 166548,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4691,
+      "slug": "gazipur-5",
+      "code": "198",
+      "district_id": 52,
+      "division_id": 3,
+      "name": {
+        "en": "Gazipur-5",
+        "bn": "গাজীপুর-৫"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Gazipur-5.svg",
+      "total_voters": 312930,
+      "total_male_voters": 158337,
+      "total_female_voters": 154593,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    }
+  ]
+}

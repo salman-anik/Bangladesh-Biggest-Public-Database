@@ -8,7 +8,15 @@
     "total_bank_branches": 8751,
     "total_police_stations": 76,
     "total_fire_stations": 67,
-    "total_postal_codes": 1368
+    "total_postal_codes": 1368,
+    "total_categories": 22,
+    "total_land_khatians": 93953,
+    "total_mouzas": 171877,
+    "total_mouza_maps": 226157,
+    "total_mouza_maps_gb": 2385.37,
+    "total_mouza_maps_uploaded": 96,
+    "drive_root_url": "https://drive.google.com/drive/folders/1ObOiGGQXl9B4bodcnDkx7g5yU_dc-Gol",
+    "maps_drive_root_url": "https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u"
   },
   "hierarchy": {
     "Chattogram": {
@@ -937,5 +945,1155 @@
         }
       }
     }
-  }
+  },
+  "categories": [
+    {
+      "name": "agriculture",
+      "title": "Agriculture & Crops",
+      "description": "Crop production calendars, BBS crop survey catalogs, agro-ecological zones & DAE resources by Division & District.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1mg5_eBtAY52sljmzxuRLvjkLLSpPiSfj",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/agriculture",
+      "total_files": 81,
+      "total_subfolders": 11,
+      "total_size_mb": 0.29,
+      "subfolders": [
+        {
+          "name": "crop_reports",
+          "file_count": 9,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/agriculture/crop_reports"
+        },
+        {
+          "name": "dae_resources",
+          "file_count": 5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/agriculture/dae_resources"
+        },
+        {
+          "name": "divisions",
+          "file_count": 64,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/agriculture/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "bbs_crop_reports_catalog.json",
+          "size_kb": 62.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/agriculture/bbs_crop_reports_catalog.json"
+        },
+        {
+          "name": "dae_portal_resources.json",
+          "size_kb": 27.7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/agriculture/dae_portal_resources.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/agriculture/index.json"
+        }
+      ]
+    },
+    {
+      "name": "banking",
+      "title": "Banking & Finance",
+      "description": "Bangladesh Bank, scheduled banks, 8,751+ branch routing numbers & MFS providers by bank and Division > District.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/18rWMWTlusQ9rDy4TCop47aCiHgwQAwyL",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/banking",
+      "total_files": 564,
+      "total_subfolders": 78,
+      "total_size_mb": 18.31,
+      "subfolders": [
+        {
+          "name": "by_bank",
+          "file_count": 62,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/banking/by_bank"
+        },
+        {
+          "name": "divisions",
+          "file_count": 497,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/banking/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "banks.json",
+          "size_kb": 9.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/banking/banks.json"
+        },
+        {
+          "name": "branches.json",
+          "size_kb": 4530.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/banking/branches.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/banking/index.json"
+        },
+        {
+          "name": "mfs_providers.json",
+          "size_kb": 2.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/banking/mfs_providers.json"
+        },
+        {
+          "name": "routing_numbers.json",
+          "size_kb": 4639.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/banking/routing_numbers.json"
+        }
+      ]
+    },
+    {
+      "name": "climate",
+      "title": "Climate & Weather",
+      "description": "BMD historical weather station records (rainfall, temperature, humidity) by Division > District & decades.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1APGyxu6m7lGogOduHYL-GJYbAxQScp1Q",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/climate",
+      "total_files": 106,
+      "total_subfolders": 13,
+      "total_size_mb": 1.45,
+      "subfolders": [
+        {
+          "name": "agromet",
+          "file_count": 1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/climate/agromet"
+        },
+        {
+          "name": "by_division",
+          "file_count": 47,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/climate/by_division"
+        },
+        {
+          "name": "by_station",
+          "file_count": 48,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/climate/by_station"
+        },
+        {
+          "name": "humidity_normals",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/climate/humidity_normals"
+        },
+        {
+          "name": "temperature_by_decade",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/climate/temperature_by_decade"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "agromet_stations.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/climate/agromet_stations.json"
+        },
+        {
+          "name": "humidity_normals.json",
+          "size_kb": 11.6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/climate/humidity_normals.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/climate/index.json"
+        },
+        {
+          "name": "temperature_history.json",
+          "size_kb": 333.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/climate/temperature_history.json"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "title": "Companies & Trade",
+      "description": "DSE/CSE listed securities, IT firms, conglomerates, trade chambers & corporate directories.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1KbRpP1Tvms9Uwi77aEuEElH07erO249K",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/company",
+      "total_files": 18,
+      "total_subfolders": 1,
+      "total_size_mb": 5.91,
+      "subfolders": [
+        {
+          "name": "by_sector",
+          "file_count": 11,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/company/by_sector"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "companies_master.json",
+          "size_kb": 1506.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/companies_master.json"
+        },
+        {
+          "name": "conglomerates_and_groups.json",
+          "size_kb": 32.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/conglomerates_and_groups.json"
+        },
+        {
+          "name": "dse_listed_companies.json",
+          "size_kb": 397.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/dse_listed_companies.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 1.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/index.json"
+        },
+        {
+          "name": "it_basis_members.json",
+          "size_kb": 3879.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/it_basis_members.json"
+        },
+        {
+          "name": "startups_and_tech_companies.json",
+          "size_kb": 11.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/startups_and_tech_companies.json"
+        },
+        {
+          "name": "trade_associations_and_chambers.json",
+          "size_kb": 9.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/company/trade_associations_and_chambers.json"
+        }
+      ]
+    },
+    {
+      "name": "demographics",
+      "title": "Demographics & Census",
+      "description": "BBS Population Census, SVRS vital statistics, District Statistics & statistical yearbooks.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1JEZvCvXM9rk9nCgkKzGVolZuFwfp83vp",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/demographics",
+      "total_files": 75,
+      "total_subfolders": 11,
+      "total_size_mb": 0.15,
+      "subfolders": [
+        {
+          "name": "divisions",
+          "file_count": 64,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/demographics/divisions"
+        },
+        {
+          "name": "publications_by_topic",
+          "file_count": 6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/demographics/publications_by_topic"
+        },
+        {
+          "name": "statistical_yearbooks",
+          "file_count": 2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/demographics/statistical_yearbooks"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "bbs_latest_publications_catalog.json",
+          "size_kb": 31.7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/demographics/bbs_latest_publications_catalog.json"
+        },
+        {
+          "name": "bbs_statistical_yearbooks_catalog.json",
+          "size_kb": 3.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/demographics/bbs_statistical_yearbooks_catalog.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/demographics/index.json"
+        }
+      ]
+    },
+    {
+      "name": "economy",
+      "title": "Economy & Macro",
+      "description": "Macro-economic indicators, inflation/CPI releases, GDP growth & National Accounts series.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1RK-4pR7MOrQogPJzND7byMdoco9nxG2J",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/economy",
+      "total_files": 9,
+      "total_subfolders": 2,
+      "total_size_mb": 0.02,
+      "subfolders": [
+        {
+          "name": "macro_indicators",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/economy/macro_indicators"
+        },
+        {
+          "name": "national_accounts",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/economy/national_accounts"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "bbs_macro_indicators.json",
+          "size_kb": 1.6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/economy/bbs_macro_indicators.json"
+        },
+        {
+          "name": "bbs_national_accounts_catalog.json",
+          "size_kb": 3.9,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/economy/bbs_national_accounts_catalog.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/economy/index.json"
+        }
+      ]
+    },
+    {
+      "name": "education",
+      "title": "Education Institutions",
+      "description": "40,000+ schools, colleges, madrasas & technical institutes by Division > District > Upazila + summaries.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1PVNu3hAnwkU-E0fowfw_8lMisRe2QJeN",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education",
+      "total_files": 41716,
+      "total_subfolders": 5367,
+      "total_size_mb": 1749.96,
+      "subfolders": [
+        {
+          "name": "Barishal",
+          "file_count": 3538,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Barishal"
+        },
+        {
+          "name": "Chattogram",
+          "file_count": 6554,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Chattogram"
+        },
+        {
+          "name": "Dhaka",
+          "file_count": 8644,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Dhaka"
+        },
+        {
+          "name": "Khulna",
+          "file_count": 5314,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Khulna"
+        },
+        {
+          "name": "Mymensingh",
+          "file_count": 3036,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Mymensingh"
+        },
+        {
+          "name": "Overseas",
+          "file_count": 7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Overseas"
+        },
+        {
+          "name": "Rajshahi",
+          "file_count": 6107,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Rajshahi"
+        },
+        {
+          "name": "Rangpur",
+          "file_count": 5883,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Rangpur"
+        },
+        {
+          "name": "summaries",
+          "file_count": 558,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/summaries"
+        },
+        {
+          "name": "Sylhet",
+          "file_count": 2009,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/Sylhet"
+        },
+        {
+          "name": "teachers",
+          "file_count": 65,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/education/teachers"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "education_hierarchy.json",
+          "size_kb": 156.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/education/education_hierarchy.json"
+        }
+      ]
+    },
+    {
+      "name": "elections",
+      "title": "Elections & Parliament",
+      "description": "300 Parliamentary constituencies by Division & District and registered political parties.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/11PWH6iLy0Uu02Q4TaMJdLmLHwl2iD4Xj",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/elections",
+      "total_files": 73,
+      "total_subfolders": 11,
+      "total_size_mb": 0.48,
+      "subfolders": [
+        {
+          "name": "constituencies_by_range",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/elections/constituencies_by_range"
+        },
+        {
+          "name": "divisions",
+          "file_count": 64,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/elections/divisions"
+        },
+        {
+          "name": "political_parties",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/elections/political_parties"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "constituencies.json",
+          "size_kb": 146.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/elections/constituencies.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/elections/index.json"
+        },
+        {
+          "name": "political_parties.json",
+          "size_kb": 10.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/elections/political_parties.json"
+        }
+      ]
+    },
+    {
+      "name": "emergency",
+      "title": "Emergency & Admin",
+      "description": "DC, SP, Civil Surgeon contacts, police stations, fire stations & national emergency hotlines.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1Cxo8HcC8STfVEfHdEQnV74TwXj4IkKwm",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/emergency",
+      "total_files": 564,
+      "total_subfolders": 74,
+      "total_size_mb": 1.29,
+      "subfolders": [
+        {
+          "name": "by_district",
+          "file_count": 64,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/emergency/by_district"
+        },
+        {
+          "name": "divisions",
+          "file_count": 495,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/emergency/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "district_administration.json",
+          "size_kb": 38.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/emergency/district_administration.json"
+        },
+        {
+          "name": "fire_stations.json",
+          "size_kb": 30.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/emergency/fire_stations.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/emergency/index.json"
+        },
+        {
+          "name": "national_hotlines.json",
+          "size_kb": 7.9,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/emergency/national_hotlines.json"
+        },
+        {
+          "name": "police_stations.json",
+          "size_kb": 32.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/emergency/police_stations.json"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "title": "Environment & AQI",
+      "description": "DoE Air Quality Index (AQI) reports by year and city plus water quality monitoring.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1_fDS4gVeRjohxGiDh7GahNXqxChq_A91",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/environment",
+      "total_files": 23,
+      "total_subfolders": 3,
+      "total_size_mb": 0.7,
+      "subfolders": [
+        {
+          "name": "aqi_by_city",
+          "file_count": 14,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/environment/aqi_by_city"
+        },
+        {
+          "name": "aqi_by_year",
+          "file_count": 4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/environment/aqi_by_year"
+        },
+        {
+          "name": "water_quality",
+          "file_count": 1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/environment/water_quality"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "aqi_reports_catalog.json",
+          "size_kb": 318.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/environment/aqi_reports_catalog.json"
+        },
+        {
+          "name": "daily_aqi_recent.json",
+          "size_kb": 39.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/environment/daily_aqi_recent.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/environment/index.json"
+        },
+        {
+          "name": "water_quality_reports.json",
+          "size_kb": 0.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/environment/water_quality_reports.json"
+        }
+      ]
+    },
+    {
+      "name": "geography",
+      "title": "Geography & GIS",
+      "description": "Divisions, Districts, Upazilas, Unions, Postcodes & uncompressed GeoJSON boundary layers.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1oo_tHSf42JXy5NUVY2qxH6KctXOZhVj9",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/geography",
+      "total_files": 511,
+      "total_subfolders": 568,
+      "total_size_mb": 8.62,
+      "subfolders": [
+        {
+          "name": "divisions",
+          "file_count": 495,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/geography/divisions"
+        },
+        {
+          "name": "geojson",
+          "file_count": 8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/geography/geojson"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "city_corporations.json",
+          "size_kb": 3.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/city_corporations.json"
+        },
+        {
+          "name": "districts.json",
+          "size_kb": 17.7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/districts.json"
+        },
+        {
+          "name": "divisions.json",
+          "size_kb": 1.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/divisions.json"
+        },
+        {
+          "name": "hierarchy.json",
+          "size_kb": 107.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/hierarchy.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/index.json"
+        },
+        {
+          "name": "postal_codes.json",
+          "size_kb": 522.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/postal_codes.json"
+        },
+        {
+          "name": "unions.json",
+          "size_kb": 746.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/unions.json"
+        },
+        {
+          "name": "upazilas.json",
+          "size_kb": 134.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/geography/upazilas.json"
+        }
+      ]
+    },
+    {
+      "name": "governance",
+      "title": "Governance & e-Services",
+      "description": "Upazila UNO portals, District Administration, Parliament seats, Ministries, Statutory Bodies & Citizen Services.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1ap8F_PkF36jHPRRKjlIBu3C5FyCy8m_o",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/governance",
+      "total_files": 574,
+      "total_subfolders": 77,
+      "total_size_mb": 3.43,
+      "subfolders": [
+        {
+          "name": "by_district",
+          "file_count": 64,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/governance/by_district"
+        },
+        {
+          "name": "citizen_services",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/governance/citizen_services"
+        },
+        {
+          "name": "divisions",
+          "file_count": 494,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/governance/divisions"
+        },
+        {
+          "name": "ministries",
+          "file_count": 6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/governance/ministries"
+        },
+        {
+          "name": "statutory_bodies",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/governance/statutory_bodies"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "citizen_services.json",
+          "size_kb": 2.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/governance/citizen_services.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/governance/index.json"
+        },
+        {
+          "name": "ministries.json",
+          "size_kb": 4.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/governance/ministries.json"
+        },
+        {
+          "name": "statutory_bodies.json",
+          "size_kb": 3.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/governance/statutory_bodies.json"
+        }
+      ]
+    },
+    {
+      "name": "healthcare",
+      "title": "Healthcare & Hospitals",
+      "description": "3,590+ hospitals, doctors, blood banks, ambulance services & diagnostic centers.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1icvWzyLBnlbuocO4ZWXd3_8wI8VPAhK5",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/healthcare",
+      "total_files": 595,
+      "total_subfolders": 80,
+      "total_size_mb": 6.61,
+      "subfolders": [
+        {
+          "name": "by_district",
+          "file_count": 64,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/healthcare/by_district"
+        },
+        {
+          "name": "by_specialty",
+          "file_count": 13,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/healthcare/by_specialty"
+        },
+        {
+          "name": "divisions",
+          "file_count": 512,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/healthcare/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "ambulance_services.json",
+          "size_kb": 3.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/healthcare/ambulance_services.json"
+        },
+        {
+          "name": "blood_banks.json",
+          "size_kb": 4.9,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/healthcare/blood_banks.json"
+        },
+        {
+          "name": "diagnostic_centers.json",
+          "size_kb": 2.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/healthcare/diagnostic_centers.json"
+        },
+        {
+          "name": "doctors.json",
+          "size_kb": 13.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/healthcare/doctors.json"
+        },
+        {
+          "name": "hospitals.json",
+          "size_kb": 2131.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/healthcare/hospitals.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 1.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/healthcare/index.json"
+        }
+      ]
+    },
+    {
+      "name": "heritage",
+      "title": "Heritage & Tourism",
+      "description": "UNESCO World Heritage sites, archaeological monuments & natural destinations by Division & District.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1eeKWA4xVOgXHX5DuRorIjJL5JebFwvTH",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/heritage",
+      "total_files": 19,
+      "total_subfolders": 9,
+      "total_size_mb": 0.02,
+      "subfolders": [
+        {
+          "name": "by_category",
+          "file_count": 3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/heritage/by_category"
+        },
+        {
+          "name": "divisions",
+          "file_count": 13,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/heritage/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "destinations.json",
+          "size_kb": 3.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/heritage/destinations.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/heritage/index.json"
+        },
+        {
+          "name": "landmarks.json",
+          "size_kb": 4.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/heritage/landmarks.json"
+        }
+      ]
+    },
+    {
+      "name": "Islamic",
+      "title": "Islamic Knowledge",
+      "description": "Holy Quran (surahs/juz/tafsir), Nine Hadith Books by chapter, Fiqh & Islamic references.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1kEIaF9_YPBPyn6Gm_aB-MZUC2GCzvsda",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Islamic",
+      "total_files": 924,
+      "total_subfolders": 51,
+      "total_size_mb": 453.17,
+      "subfolders": [
+        {
+          "name": "Fiqh",
+          "file_count": 2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Islamic/Fiqh"
+        },
+        {
+          "name": "Hadith",
+          "file_count": 722,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Islamic/Hadith"
+        },
+        {
+          "name": "Other Islamic Data",
+          "file_count": 14,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Islamic/Other%20Islamic%20Data"
+        },
+        {
+          "name": "Quran",
+          "file_count": 182,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Islamic/Quran"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "hadith_books_catalog.json",
+          "size_kb": 5.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Islamic/hadith_books_catalog.json"
+        },
+        {
+          "name": "hadith_chapters_index.json",
+          "size_kb": 81.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Islamic/hadith_chapters_index.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Islamic/index.json"
+        },
+        {
+          "name": "surahs_catalog.json",
+          "size_kb": 24.9,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Islamic/surahs_catalog.json"
+        }
+      ]
+    },
+    {
+      "name": "land",
+      "title": "Land Khatians & 2.33 TB Maps",
+      "description": "93,953 digitized Khatians, 171,877 Mouzas & 226,157 Mouza Maps linked to Google Drive.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1hbpHQ-3DFp1AsSZr_ISKV4g59KeKGb5e",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/land",
+      "total_files": 646,
+      "total_subfolders": 89,
+      "total_size_mb": 427.17,
+      "subfolders": [
+        {
+          "name": "khatians",
+          "file_count": 510,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/land/khatians"
+        },
+        {
+          "name": "maps",
+          "file_count": 65,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/land/maps"
+        },
+        {
+          "name": "metadata",
+          "file_count": 67,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/land/metadata"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "collect_all_divisions.py",
+          "size_kb": 21.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/land/collect_all_divisions.py"
+        },
+        {
+          "name": "partition_khatians.py",
+          "size_kb": 4.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/land/partition_khatians.py"
+        },
+        {
+          "name": "scrape_swarupkathi_all.py",
+          "size_kb": 10.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/land/scrape_swarupkathi_all.py"
+        },
+        {
+          "name": "summary.json",
+          "size_kb": 0.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/land/summary.json"
+        }
+      ]
+    },
+    {
+      "name": "law",
+      "title": "Law & Constitution",
+      "description": "Constitution of Bangladesh by Part, Penal Code 1860, CrPC 1898, Major Acts & legal glossary.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1bra3W7HdeU5fFfXTJyxvZC8qJk517oEU",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/law",
+      "total_files": 32,
+      "total_subfolders": 4,
+      "total_size_mb": 0.07,
+      "subfolders": [
+        {
+          "name": "acts_by_category",
+          "file_count": 16,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/law/acts_by_category"
+        },
+        {
+          "name": "constitution",
+          "file_count": 7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/law/constitution"
+        },
+        {
+          "name": "criminal_codes",
+          "file_count": 2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/law/criminal_codes"
+        },
+        {
+          "name": "glossary",
+          "file_count": 1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/law/glossary"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "constitution.json",
+          "size_kb": 14.6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/law/constitution.json"
+        },
+        {
+          "name": "crpc_1898.json",
+          "size_kb": 4.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/law/crpc_1898.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/law/index.json"
+        },
+        {
+          "name": "legal_terms_glossary.json",
+          "size_kb": 3.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/law/legal_terms_glossary.json"
+        },
+        {
+          "name": "major_acts_catalog.json",
+          "size_kb": 5.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/law/major_acts_catalog.json"
+        },
+        {
+          "name": "penal_code_1860.json",
+          "size_kb": 9.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/law/penal_code_1860.json"
+        }
+      ]
+    },
+    {
+      "name": "Lawyer",
+      "title": "Lawyers & Bar Councils",
+      "description": "Dhaka & District Bar Association member directories organized by Division & District.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1Srz8Bqz1HFWrIHCtYWrM3tdHF7KuzrKb",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Lawyer",
+      "total_files": 364,
+      "total_subfolders": 74,
+      "total_size_mb": 41.29,
+      "subfolders": [
+        {
+          "name": "divisions",
+          "file_count": 360,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/Lawyer/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "dhaka_bar_association_members.json",
+          "size_kb": 10001.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Lawyer/dhaka_bar_association_members.json"
+        },
+        {
+          "name": "hierarchy.json",
+          "size_kb": 12239.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Lawyer/hierarchy.json"
+        },
+        {
+          "name": "hierarchy_summary.json",
+          "size_kb": 14.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Lawyer/hierarchy_summary.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 1.4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/Lawyer/index.json"
+        }
+      ]
+    },
+    {
+      "name": "medicine",
+      "title": "Medicine & DGDA",
+      "description": "Pharmaceutical drugs, generics, dosage forms, indications & manufacturers organized by company and form.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/14JPq_A-SOHRutXPUrrvd2maTWnEMsll0",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/medicine",
+      "total_files": 45,
+      "total_subfolders": 2,
+      "total_size_mb": 205.84,
+      "subfolders": [
+        {
+          "name": "by_company",
+          "file_count": 32,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/medicine/by_company"
+        },
+        {
+          "name": "by_form",
+          "file_count": 6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/medicine/by_form"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "all_medicines_summary.json",
+          "size_kb": 12526.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/all_medicines_summary.json"
+        },
+        {
+          "name": "dosage_forms.json",
+          "size_kb": 16.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/dosage_forms.json"
+        },
+        {
+          "name": "generics.json",
+          "size_kb": 10684.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/generics.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 4.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/index.json"
+        },
+        {
+          "name": "indications.json",
+          "size_kb": 148.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/indications.json"
+        },
+        {
+          "name": "manufacturers.json",
+          "size_kb": 147.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/manufacturers.json"
+        },
+        {
+          "name": "therapeutic_classes.json",
+          "size_kb": 58.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/medicine/therapeutic_classes.json"
+        }
+      ]
+    },
+    {
+      "name": "procurement",
+      "title": "Public Procurement (e-GP)",
+      "description": "CPTU e-GP contract awards organized by Division > District & procuring ministry.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/13Gq-VXwtOOR4sjgJvwD67mBS9t_Vbvuf",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/procurement",
+      "total_files": 10,
+      "total_subfolders": 5,
+      "total_size_mb": 0.02,
+      "subfolders": [
+        {
+          "name": "by_ministry",
+          "file_count": 4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/procurement/by_ministry"
+        },
+        {
+          "name": "divisions",
+          "file_count": 4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/procurement/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "contract_awards.json",
+          "size_kb": 6.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/procurement/contract_awards.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/procurement/index.json"
+        }
+      ]
+    },
+    {
+      "name": "transport",
+      "title": "Transport & Routes",
+      "description": "Intercity trains, BIWTA launch routes, bus routes, airports & station phonebooks.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1GAW17osH93Np0jRw7iVA523sjQKa5uDF",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/transport",
+      "total_files": 54,
+      "total_subfolders": 33,
+      "total_size_mb": 0.09,
+      "subfolders": [
+        {
+          "name": "by_route",
+          "file_count": 21,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/transport/by_route"
+        },
+        {
+          "name": "divisions",
+          "file_count": 24,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/transport/divisions"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "airports.json",
+          "size_kb": 5.0,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/airports.json"
+        },
+        {
+          "name": "bus_routes.json",
+          "size_kb": 14.5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/bus_routes.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.9,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/index.json"
+        },
+        {
+          "name": "intercity_trains.json",
+          "size_kb": 13.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/intercity_trains.json"
+        },
+        {
+          "name": "launch_routes.json",
+          "size_kb": 7.7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/launch_routes.json"
+        },
+        {
+          "name": "railway_station_phones.json",
+          "size_kb": 5.7,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/railway_station_phones.json"
+        },
+        {
+          "name": "railway_stations.json",
+          "size_kb": 9.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/railway_stations.json"
+        },
+        {
+          "name": "train_fares.json",
+          "size_kb": 1.3,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/train_fares.json"
+        },
+        {
+          "name": "transport_companies.json",
+          "size_kb": 10.6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/transport/transport_companies.json"
+        }
+      ]
+    },
+    {
+      "name": "universities",
+      "title": "Universities (UGC)",
+      "description": "Public (General/Engineering/Agri/Medical), Private & International universities approved by UGC.",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1KXqSCXDtaTlvZBl9Rg7mGECp90oakWGH",
+      "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/universities",
+      "total_files": 15,
+      "total_subfolders": 3,
+      "total_size_mb": 0.77,
+      "subfolders": [
+        {
+          "name": "international",
+          "file_count": 1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/universities/international"
+        },
+        {
+          "name": "private",
+          "file_count": 4,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/universities/private"
+        },
+        {
+          "name": "public",
+          "file_count": 5,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/tree/main/universities/public"
+        }
+      ],
+      "root_files": [
+        {
+          "name": "all_universities.json",
+          "size_kb": 199.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/universities/all_universities.json"
+        },
+        {
+          "name": "index.json",
+          "size_kb": 0.6,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/universities/index.json"
+        },
+        {
+          "name": "international_universities.json",
+          "size_kb": 3.1,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/universities/international_universities.json"
+        },
+        {
+          "name": "private_universities.json",
+          "size_kb": 133.8,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/universities/private_universities.json"
+        },
+        {
+          "name": "public_universities.json",
+          "size_kb": 62.2,
+          "github_url": "https://github.com/salman-anik/Bangladesh-Biggest-Public-Database/blob/main/universities/public_universities.json"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,198 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Satkhira",
+  "district_bn": "সাতক্ষীরা",
+  "upazila_id": "184",
+  "upazila": "Tala",
+  "upazila_bn": "তালা",
+  "uno_portal": "tala.satkhira.gov.bd",
+  "district_administration": {
+    "district": "Satkhira",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Satkhira",
+      "phone": "01713-000039",
+      "email": "dcsatkhira@mopa.gov.bd",
+      "website": "http://www.satkhira.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Satkhira",
+      "phone": "01713-373039",
+      "email": "spsatkhira@police.gov.bd",
+      "control_room": "01713-374039"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Satkhira",
+      "phone": "01713-555039",
+      "email": "cssatkhira@dghs.gov.bd"
+    }
+  },
+  "total_unions": 12,
+  "unions": [
+    {
+      "id": "1658",
+      "name": "Sarulia",
+      "bn_name": "সরুলিয়া",
+      "url": "saruliaup3.satkhira.gov.bd"
+    },
+    {
+      "id": "1659",
+      "name": "Magura",
+      "bn_name": "মাগুরা",
+      "url": "maguraup8.satkhira.gov.bd"
+    },
+    {
+      "id": "1660",
+      "name": "Nagarghata",
+      "bn_name": "নগরঘাটা",
+      "url": "nagarghataup1.satkhira.gov.bd"
+    },
+    {
+      "id": "1661",
+      "name": "Dhandia",
+      "bn_name": "ধানদিয়া",
+      "url": "dhandiaup1.satkhira.gov.bd"
+    },
+    {
+      "id": "1662",
+      "name": "Tentulia",
+      "bn_name": "তেতুলিয়া",
+      "url": "tentuliaup5.satkhira.gov.bd"
+    },
+    {
+      "id": "1663",
+      "name": "Tala",
+      "bn_name": "তালা",
+      "url": "talaup6.satkhira.gov.bd"
+    },
+    {
+      "id": "1664",
+      "name": "Jalalpur",
+      "bn_name": "জালালপুর",
+      "url": "jalalpurup11.satkhira.gov.bd"
+    },
+    {
+      "id": "1665",
+      "name": "Khesra",
+      "bn_name": "খেশরা",
+      "url": "khesraup10.satkhira.gov.bd"
+    },
+    {
+      "id": "1666",
+      "name": "Khalishkhali",
+      "bn_name": "খলিশখালী",
+      "url": "khalishkhaliup9.satkhira.gov.bd"
+    },
+    {
+      "id": "1667",
+      "name": "Khalilnagar",
+      "bn_name": "খলিলনগর",
+      "url": "khalilnagarup12.satkhira.gov.bd"
+    },
+    {
+      "id": "1668",
+      "name": "Kumira",
+      "bn_name": "কুমিরা",
+      "url": "kumiraup4.satkhira.gov.bd"
+    },
+    {
+      "id": "1669",
+      "name": "Islamkati",
+      "bn_name": "ইসলামকাটি",
+      "url": "islamkatiup7.satkhira.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "105",
+      "name": {
+        "en": "Satkhira-1",
+        "bn": "সাতক্ষীরা-১"
+      },
+      "total_voters": 496848
+    },
+    {
+      "code": "106",
+      "name": {
+        "en": "Satkhira-2",
+        "bn": "সাতক্ষীরা-২"
+      },
+      "total_voters": 535654
+    },
+    {
+      "code": "107",
+      "name": {
+        "en": "Satkhira-3",
+        "bn": "সাতক্ষীরা-৩"
+      },
+      "total_voters": 502222
+    },
+    {
+      "code": "108",
+      "name": {
+        "en": "Satkhira-4",
+        "bn": "সাতক্ষীরা-৪"
+      },
+      "total_voters": 298052
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

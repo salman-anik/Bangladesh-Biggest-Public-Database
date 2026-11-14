@@ -1,0 +1,180 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Faridpur",
+  "district_bn": "ফরিদপুর",
+  "upazila_id": "397",
+  "upazila": "Madhukhali",
+  "upazila_bn": "মধুখালী",
+  "uno_portal": "madhukhali.faridpur.gov.bd",
+  "district_administration": {
+    "district": "Faridpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Faridpur",
+      "phone": "01713-000011",
+      "email": "dcfaridpur@mopa.gov.bd",
+      "website": "http://www.faridpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Faridpur",
+      "phone": "01713-373011",
+      "email": "spfaridpur@police.gov.bd",
+      "control_room": "01713-374011"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Faridpur",
+      "phone": "01713-555011",
+      "email": "csfaridpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "3631",
+      "name": "Madhukhali",
+      "bn_name": "মধুখালী",
+      "url": "madhukhaliup.faridpur.gov.bd"
+    },
+    {
+      "id": "3632",
+      "name": "Jahapur",
+      "bn_name": "জাহাপুর",
+      "url": "jahapurup.faridpur.gov.bd"
+    },
+    {
+      "id": "3633",
+      "name": "Gazna",
+      "bn_name": "গাজনা",
+      "url": "gaznaup.faridpur.gov.bd"
+    },
+    {
+      "id": "3634",
+      "name": "Megchami",
+      "bn_name": "মেগচামী",
+      "url": "megchamiup.faridpur.gov.bd"
+    },
+    {
+      "id": "3635",
+      "name": "Raipur",
+      "bn_name": "রায়পুর",
+      "url": "raipurup.faridpur.gov.bd"
+    },
+    {
+      "id": "3636",
+      "name": "Bagat",
+      "bn_name": "বাগাট",
+      "url": "bagatup.faridpur.gov.bd"
+    },
+    {
+      "id": "3637",
+      "name": "Dumain",
+      "bn_name": "ডুমাইন",
+      "url": "dumainup.faridpur.gov.bd"
+    },
+    {
+      "id": "3638",
+      "name": "Nowpara",
+      "bn_name": "নওপাড়া",
+      "url": "nowparaup.faridpur.gov.bd"
+    },
+    {
+      "id": "3639",
+      "name": "Kamarkhali",
+      "bn_name": "কামারখালী",
+      "url": "kamarkhaliup.faridpur.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "211",
+      "name": {
+        "en": "Faridpur-1",
+        "bn": "ফরিদপুর-১"
+      },
+      "total_voters": 510540
+    },
+    {
+      "code": "212",
+      "name": {
+        "en": "Faridpur-2",
+        "bn": "ফরিদপুর-২"
+      },
+      "total_voters": 332041
+    },
+    {
+      "code": "213",
+      "name": {
+        "en": "Faridpur-3",
+        "bn": "ফরিদপুর-৩"
+      },
+      "total_voters": 432628
+    },
+    {
+      "code": "214",
+      "name": {
+        "en": "Faridpur-4",
+        "bn": "ফরিদপুর-৪"
+      },
+      "total_voters": 496706
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

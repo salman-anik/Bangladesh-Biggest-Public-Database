@@ -1,0 +1,202 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Rangpur",
+  "district_bn": "রংপুর",
+  "upazila_id": "443",
+  "upazila": "Badargonj",
+  "upazila_bn": "বদরগঞ্জ",
+  "uno_portal": "badargonj.rangpur.gov.bd",
+  "district_administration": {
+    "district": "Rangpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Rangpur",
+      "phone": "01713-000006",
+      "email": "dcrangpur@mopa.gov.bd",
+      "website": "http://www.rangpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Rangpur",
+      "phone": "01713-373006",
+      "email": "sprangpur@police.gov.bd",
+      "control_room": "01713-374006"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Rangpur",
+      "phone": "01713-555006",
+      "email": "csrangpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "4060",
+      "name": "Radhanagar",
+      "bn_name": "রাধানগর",
+      "url": "radhanagarup.rangpur.gov.bd"
+    },
+    {
+      "id": "4061",
+      "name": "Gopinathpur",
+      "bn_name": "গোপীনাথপুর",
+      "url": "gopinathpurup.rangpur.gov.bd"
+    },
+    {
+      "id": "4062",
+      "name": "Modhupur",
+      "bn_name": "মধুপুর",
+      "url": "modhupurup.rangpur.gov.bd"
+    },
+    {
+      "id": "4063",
+      "name": "Kutubpur",
+      "bn_name": "কুতুবপুর",
+      "url": "kutubpurup.ranpur.gov.bd"
+    },
+    {
+      "id": "4064",
+      "name": "Bishnapur",
+      "bn_name": "বিষ্ণপুর",
+      "url": "bishnapurup.rangpur.gov.bd"
+    },
+    {
+      "id": "4065",
+      "name": "Kalupara",
+      "bn_name": "কালুপাড়া",
+      "url": "kaluparaup.rangpur.gov.bd"
+    },
+    {
+      "id": "4066",
+      "name": "Lohanipara",
+      "bn_name": "লোহানীপাড়া",
+      "url": "lohaniparaup.rangpur.gov.bd"
+    },
+    {
+      "id": "4067",
+      "name": "Gopalpur",
+      "bn_name": "গোপালপুর",
+      "url": "gopalpurup.rangpur.gov.bd"
+    },
+    {
+      "id": "4068",
+      "name": "Damodorpur",
+      "bn_name": "দামোদরপুর",
+      "url": "damodorpurup.rangpur.gov.bd"
+    },
+    {
+      "id": "4069",
+      "name": "Ramnathpurupb",
+      "bn_name": "রামনাথপুর",
+      "url": "ramnathpurupb.rangpur.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "19",
+      "name": {
+        "en": "Rangpur-1",
+        "bn": "রংপুর-১"
+      },
+      "total_voters": 375227
+    },
+    {
+      "code": "20",
+      "name": {
+        "en": "Rangpur-2",
+        "bn": "রংপুর-২"
+      },
+      "total_voters": 380921
+    },
+    {
+      "code": "21",
+      "name": {
+        "en": "Rangpur-3",
+        "bn": "রংপুর-৩"
+      },
+      "total_voters": 508223
+    },
+    {
+      "code": "22",
+      "name": {
+        "en": "Rangpur-4",
+        "bn": "রংপুর-৪"
+      },
+      "total_voters": 509905
+    },
+    {
+      "code": "23",
+      "name": {
+        "en": "Rangpur-5",
+        "bn": "রংপুর-৫"
+      },
+      "total_voters": 469189
+    },
+    {
+      "code": "24",
+      "name": {
+        "en": "Rangpur-6",
+        "bn": "রংপুর-৬"
+      },
+      "total_voters": 318131
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

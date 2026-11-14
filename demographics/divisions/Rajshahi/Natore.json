@@ -1,0 +1,56 @@
+{
+  "division": "Rajshahi",
+  "district": "Natore",
+  "upazilas_count": 7,
+  "unions_count": 52,
+  "post_offices_count": 13,
+  "parliamentary_seats_count": 4,
+  "registered_voters": {
+    "total": 1547206,
+    "male": 770686,
+    "female": 776503,
+    "third_gender": 17
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "58",
+      "name": {
+        "en": "Natore-1",
+        "bn": "নাটোর-১"
+      },
+      "total_voters": 368276,
+      "male": 183595,
+      "female": 184679
+    },
+    {
+      "seat_no": "59",
+      "name": {
+        "en": "Natore-2",
+        "bn": "নাটোর-২"
+      },
+      "total_voters": 406886,
+      "male": 201655,
+      "female": 205222
+    },
+    {
+      "seat_no": "60",
+      "name": {
+        "en": "Natore-3",
+        "bn": "নাটোর-৩"
+      },
+      "total_voters": 326872,
+      "male": 164088,
+      "female": 162781
+    },
+    {
+      "seat_no": "61",
+      "name": {
+        "en": "Natore-4",
+        "bn": "নাটোর-৪"
+      },
+      "total_voters": 445172,
+      "male": 221348,
+      "female": 223821
+    }
+  ]
+}

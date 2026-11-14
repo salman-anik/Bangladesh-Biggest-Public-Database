@@ -1,0 +1,211 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Faridpur",
+  "district_bn": "ফরিদপুর",
+  "upazila_id": "395",
+  "upazila": "Bhanga",
+  "upazila_bn": "ভাঙ্গা",
+  "uno_portal": "bhanga.faridpur.gov.bd",
+  "district_administration": {
+    "district": "Faridpur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Faridpur",
+      "phone": "01713-000011",
+      "email": "dcfaridpur@mopa.gov.bd",
+      "website": "http://www.faridpur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Faridpur",
+      "phone": "01713-373011",
+      "email": "spfaridpur@police.gov.bd",
+      "control_room": "01713-374011"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Faridpur",
+      "phone": "01713-555011",
+      "email": "csfaridpur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 12,
+  "unions": [
+    {
+      "id": "3615",
+      "name": "Gharua",
+      "bn_name": "ঘারুয়া",
+      "url": "gharuaup.faridpur.gov.bd"
+    },
+    {
+      "id": "3616",
+      "name": "Nurullagonj",
+      "bn_name": "নুরুল্যাগঞ্জ",
+      "url": "nurullagonjup.faridpur.gov.bd"
+    },
+    {
+      "id": "3617",
+      "name": "Manikdha",
+      "bn_name": "মানিকদহ",
+      "url": "manikdhaup.faridpur.gov.bd"
+    },
+    {
+      "id": "3618",
+      "name": "Kawlibera",
+      "bn_name": "কাউলিবেড়া",
+      "url": "kawliberaup.faridpur.gov.bd"
+    },
+    {
+      "id": "3619",
+      "name": "Nasirabad",
+      "bn_name": "নাছিরাবাদ",
+      "url": "nasirabadup.faridpur.gov.bd"
+    },
+    {
+      "id": "3620",
+      "name": "Tujerpur",
+      "bn_name": "তুজারপুর",
+      "url": "tujerpurup.faridpur.gov.bd"
+    },
+    {
+      "id": "3621",
+      "name": "Algi",
+      "bn_name": "আলগী",
+      "url": "algiup.faridpur.gov.bd"
+    },
+    {
+      "id": "3622",
+      "name": "Chumurdi",
+      "bn_name": "চুমুরদী",
+      "url": "chumurdiup.faridpur.gov.bd"
+    },
+    {
+      "id": "3623",
+      "name": "Kalamridha",
+      "bn_name": "কালামৃধা",
+      "url": "kalamridhaup.faridpur.gov.bd"
+    },
+    {
+      "id": "3624",
+      "name": "Azimnagor",
+      "bn_name": "আজিমনগর",
+      "url": "azimnagorup.faridpur.gov.bd"
+    },
+    {
+      "id": "3625",
+      "name": "Chandra",
+      "bn_name": "চান্দ্রা",
+      "url": "chandraup.faridpur.gov.bd"
+    },
+    {
+      "id": "3626",
+      "name": "Hamirdi",
+      "bn_name": "হামিরদী",
+      "url": "hamirdiup.faridpur.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "7830",
+      "postcode_bn": "৭৮৩০",
+      "division": "Dhaka",
+      "division_bn": "ঢাকা",
+      "district": "Faridpur",
+      "district_bn": "ফরিদপুর",
+      "thana_upazila": "Bhanga",
+      "thana_upazila_bn": "ভাঙ্গা",
+      "sub_office": "Bhanga",
+      "sub_office_bn": "ভাঙ্গা"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "211",
+      "name": {
+        "en": "Faridpur-1",
+        "bn": "ফরিদপুর-১"
+      },
+      "total_voters": 510540
+    },
+    {
+      "code": "212",
+      "name": {
+        "en": "Faridpur-2",
+        "bn": "ফরিদপুর-২"
+      },
+      "total_voters": 332041
+    },
+    {
+      "code": "213",
+      "name": {
+        "en": "Faridpur-3",
+        "bn": "ফরিদপুর-৩"
+      },
+      "total_voters": 432628
+    },
+    {
+      "code": "214",
+      "name": {
+        "en": "Faridpur-4",
+        "bn": "ফরিদপুর-৪"
+      },
+      "total_voters": 496706
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

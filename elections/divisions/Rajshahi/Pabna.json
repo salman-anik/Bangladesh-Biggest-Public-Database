@@ -1,0 +1,92 @@
+{
+  "division": "Rajshahi",
+  "district": "Pabna",
+  "total_constituencies": 5,
+  "constituencies": [
+    {
+      "id": 4864,
+      "slug": "pabna-1",
+      "code": "68",
+      "district_id": 33,
+      "division_id": 6,
+      "name": {
+        "en": "Pabna-1",
+        "bn": "পাবনা-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Pabna-1.svg",
+      "total_voters": 340935,
+      "total_male_voters": 174438,
+      "total_female_voters": 166496,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4865,
+      "slug": "pabna-2",
+      "code": "69",
+      "district_id": 33,
+      "division_id": 6,
+      "name": {
+        "en": "Pabna-2",
+        "bn": "পাবনা-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Pabna-2.svg",
+      "total_voters": 497394,
+      "total_male_voters": 254704,
+      "total_female_voters": 242689,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4866,
+      "slug": "pabna-3",
+      "code": "70",
+      "district_id": 33,
+      "division_id": 6,
+      "name": {
+        "en": "Pabna-3",
+        "bn": "পাবনা-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Pabna-3.svg",
+      "total_voters": 486806,
+      "total_male_voters": 243937,
+      "total_female_voters": 242863,
+      "total_third_gender_voters": 6,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4867,
+      "slug": "pabna-4",
+      "code": "71",
+      "district_id": 33,
+      "division_id": 6,
+      "name": {
+        "en": "Pabna-4",
+        "bn": "পাবনা-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Pabna-4.svg",
+      "total_voters": 440168,
+      "total_male_voters": 221442,
+      "total_female_voters": 218720,
+      "total_third_gender_voters": 6,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4868,
+      "slug": "pabna-5",
+      "code": "72",
+      "district_id": 33,
+      "division_id": 6,
+      "name": {
+        "en": "Pabna-5",
+        "bn": "পাবনা-৫"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Pabna-5.svg",
+      "total_voters": 528044,
+      "total_male_voters": 266433,
+      "total_female_voters": 261608,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    }
+  ]
+}

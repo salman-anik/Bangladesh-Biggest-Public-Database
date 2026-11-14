@@ -1,0 +1,26 @@
+{
+  "station": "Maijdi Court",
+  "division": "Chattogram",
+  "district": "Noakhali",
+  "is_agromet_station": false,
+  "humidity_normal": {
+    "station": "Maijdi Court",
+    "monthly_normal_humidity_pct": {
+      "Jan": 79,
+      "Feb": 76,
+      "Mar": 76,
+      "Apr": 78,
+      "May": 81,
+      "Jun": 86,
+      "Jul": 88,
+      "Aug": 87,
+      "Sep": 86,
+      "Oct": 83,
+      "Nov": 80,
+      "Dec": 80
+    },
+    "annual_mean_pct": 81.7
+  },
+  "temperature_history_years": 0,
+  "temperature_history": []
+}

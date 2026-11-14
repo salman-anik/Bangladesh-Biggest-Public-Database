@@ -1,0 +1,58 @@
+{
+  "division": "Rangpur",
+  "district": "Lalmonirhat",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4827,
+      "slug": "lalmonirhat-1",
+      "code": "16",
+      "district_id": 22,
+      "division_id": 7,
+      "name": {
+        "en": "Lalmonirhat-1",
+        "bn": "লালমনিরহাট-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lalmonirhat-1.svg",
+      "total_voters": 403561,
+      "total_male_voters": 202707,
+      "total_female_voters": 200852,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4828,
+      "slug": "lalmonirhat-2",
+      "code": "17",
+      "district_id": 22,
+      "division_id": 7,
+      "name": {
+        "en": "Lalmonirhat-2",
+        "bn": "লালমনিরহাট-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lalmonirhat-2.svg",
+      "total_voters": 432964,
+      "total_male_voters": 217200,
+      "total_female_voters": 215761,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4829,
+      "slug": "lalmonirhat-3",
+      "code": "18",
+      "district_id": 22,
+      "division_id": 7,
+      "name": {
+        "en": "Lalmonirhat-3",
+        "bn": "লালমনিরহাট-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lalmonirhat-3.svg",
+      "total_voters": 307970,
+      "total_male_voters": 154167,
+      "total_female_voters": 153801,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    }
+  ]
+}

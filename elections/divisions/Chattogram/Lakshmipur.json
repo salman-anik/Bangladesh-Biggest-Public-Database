@@ -1,0 +1,75 @@
+{
+  "division": "Chattogram",
+  "district": "Lakshmipur",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4666,
+      "slug": "lakshmipur-1",
+      "code": "274",
+      "district_id": 16,
+      "division_id": 2,
+      "name": {
+        "en": "Lakshmipur-1",
+        "bn": "লক্ষীপুর-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lakshmipur-1.svg",
+      "total_voters": 281302,
+      "total_male_voters": 144658,
+      "total_female_voters": 136644,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4667,
+      "slug": "lakshmipur-2",
+      "code": "275",
+      "district_id": 16,
+      "division_id": 2,
+      "name": {
+        "en": "Lakshmipur-2",
+        "bn": "লক্ষীপুর-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lakshmipur-2.svg",
+      "total_voters": 493970,
+      "total_male_voters": 254407,
+      "total_female_voters": 239558,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4668,
+      "slug": "lakshmipur-3",
+      "code": "276",
+      "district_id": 16,
+      "division_id": 2,
+      "name": {
+        "en": "Lakshmipur-3",
+        "bn": "লক্ষীপুর-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lakshmipur-3.svg",
+      "total_voters": 444472,
+      "total_male_voters": 229709,
+      "total_female_voters": 214758,
+      "total_third_gender_voters": 5,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4669,
+      "slug": "lakshmipur-4",
+      "code": "277",
+      "district_id": 16,
+      "division_id": 2,
+      "name": {
+        "en": "Lakshmipur-4",
+        "bn": "লক্ষীপুর-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Lakshmipur-4.svg",
+      "total_voters": 418160,
+      "total_male_voters": 218483,
+      "total_female_voters": 199676,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    }
+  ]
+}

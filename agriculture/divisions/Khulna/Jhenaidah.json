@@ -1,0 +1,131 @@
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "total_upazilas": 6,
+  "upazilas": [
+    "Harinakundu",
+    "Jhenaidah Sadar",
+    "Kaliganj",
+    "Kotchandpur",
+    "Moheshpur",
+    "Shailkupa"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Chuadanga",
+    "Jessore",
+    "Khulna",
+    "Mongla",
+    "Kumarkhali",
+    "Satkhira"
+  ],
+  "agromet_stations_in_region": [
+    "Khulna",
+    "Kumarkhali"
+  ],
+  "humidity_normals": [
+    {
+      "station": "Chuadanga",
+      "monthly_normal_humidity_pct": {
+        "Jan": 78,
+        "Feb": 72,
+        "Mar": 65,
+        "Apr": 68,
+        "May": 74,
+        "Jun": 83,
+        "Jul": 86,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 83,
+        "Nov": 78,
+        "Dec": 78
+      },
+      "annual_mean_pct": 78.1
+    },
+    {
+      "station": "Jessore",
+      "monthly_normal_humidity_pct": {
+        "Jan": 77,
+        "Feb": 72,
+        "Mar": 69,
+        "Apr": 72,
+        "May": 77,
+        "Jun": 84,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 86,
+        "Oct": 83,
+        "Nov": 79,
+        "Dec": 78
+      },
+      "annual_mean_pct": 79.2
+    },
+    {
+      "station": "Khulna",
+      "monthly_normal_humidity_pct": {
+        "Jan": 78,
+        "Feb": 74,
+        "Mar": 73,
+        "Apr": 76,
+        "May": 79,
+        "Jun": 85,
+        "Jul": 87,
+        "Aug": 86,
+        "Sep": 87,
+        "Oct": 84,
+        "Nov": 80,
+        "Dec": 79
+      },
+      "annual_mean_pct": 80.7
+    },
+    {
+      "station": "Mongla",
+      "monthly_normal_humidity_pct": {
+        "Jan": 75,
+        "Feb": 73,
+        "Mar": 73,
+        "Apr": 77,
+        "May": 80,
+        "Jun": 86,
+        "Jul": 88,
+        "Aug": 88,
+        "Sep": 88,
+        "Oct": 85,
+        "Nov": 80,
+        "Dec": 77
+      },
+      "annual_mean_pct": 80.8
+    },
+    {
+      "station": "Satkhira",
+      "monthly_normal_humidity_pct": {
+        "Jan": 74,
+        "Feb": 71,
+        "Mar": 69,
+        "Apr": 72,
+        "May": 75,
+        "Jun": 82,
+        "Jul": 85,
+        "Aug": 85,
+        "Sep": 86,
+        "Oct": 82,
+        "Nov": 77,
+        "Dec": 75
+      },
+      "annual_mean_pct": 77.8
+    }
+  ],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

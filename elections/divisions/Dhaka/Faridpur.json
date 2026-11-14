@@ -1,0 +1,75 @@
+{
+  "division": "Dhaka",
+  "district": "Faridpur",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4734,
+      "slug": "faridpur-1",
+      "code": "211",
+      "district_id": 60,
+      "division_id": 3,
+      "name": {
+        "en": "Faridpur-1",
+        "bn": "ফরিদপুর-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Faridpur-1.svg",
+      "total_voters": 510540,
+      "total_male_voters": 259335,
+      "total_female_voters": 251204,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4735,
+      "slug": "faridpur-2",
+      "code": "212",
+      "district_id": 60,
+      "division_id": 3,
+      "name": {
+        "en": "Faridpur-2",
+        "bn": "ফরিদপুর-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Faridpur-2.svg",
+      "total_voters": 332041,
+      "total_male_voters": 172904,
+      "total_female_voters": 159137,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4736,
+      "slug": "faridpur-3",
+      "code": "213",
+      "district_id": 60,
+      "division_id": 3,
+      "name": {
+        "en": "Faridpur-3",
+        "bn": "ফরিদপুর-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Faridpur-3.svg",
+      "total_voters": 432628,
+      "total_male_voters": 216022,
+      "total_female_voters": 216600,
+      "total_third_gender_voters": 6,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4737,
+      "slug": "faridpur-4",
+      "code": "214",
+      "district_id": 60,
+      "division_id": 3,
+      "name": {
+        "en": "Faridpur-4",
+        "bn": "ফরিদপুর-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Faridpur-4.svg",
+      "total_voters": 496706,
+      "total_male_voters": 254655,
+      "total_female_voters": 242050,
+      "total_third_gender_voters": 1,
+      "last_demographic_update": null
+    }
+  ]
+}

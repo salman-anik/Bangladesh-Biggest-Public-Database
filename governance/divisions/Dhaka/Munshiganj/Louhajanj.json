@@ -1,0 +1,178 @@
+{
+  "division": "Dhaka",
+  "division_bn": "ঢাকা",
+  "district": "Munshiganj",
+  "district_bn": "মুন্সিগঞ্জ",
+  "upazila_id": "373",
+  "upazila": "Louhajanj",
+  "upazila_bn": "লৌহজং",
+  "uno_portal": "louhajanj.munshiganj.gov.bd",
+  "district_administration": {
+    "district": "Munshiganj",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Munshiganj",
+      "phone": "01713-000015",
+      "email": "dcmunshiganj@mopa.gov.bd",
+      "website": "http://www.munshiganj.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Munshiganj",
+      "phone": "01713-373015",
+      "email": "spmunshiganj@police.gov.bd",
+      "control_room": "01713-374015"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Munshiganj",
+      "phone": "01713-555015",
+      "email": "csmunshiganj@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "3370",
+      "name": "Medinimandal",
+      "bn_name": "মেদিনীমন্ডল",
+      "url": "medinimandalup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3371",
+      "name": "Kumarbhog",
+      "bn_name": "কুমারভোগ",
+      "url": "kumarbhogup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3372",
+      "name": "Haldia",
+      "bn_name": "হলদিয়া",
+      "url": "haldiaup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3373",
+      "name": "Kanaksar",
+      "bn_name": "কনকসার",
+      "url": "kanaksarup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3374",
+      "name": "Lohajang-Teotia",
+      "bn_name": "লৌহজং-তেওটিয়া",
+      "url": "lohajangteotiaup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3375",
+      "name": "Bejgaon",
+      "bn_name": "বেজগাঁও",
+      "url": "bejgaonup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3376",
+      "name": "Baultoli",
+      "bn_name": "বৌলতলী",
+      "url": "baultoliup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3377",
+      "name": "Khidirpara",
+      "bn_name": "খিদিরপাড়া",
+      "url": "khidirparaup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3378",
+      "name": "Gaodia",
+      "bn_name": "গাওদিয়া",
+      "url": "gaodiaup.munshiganj.gov.bd"
+    },
+    {
+      "id": "3379",
+      "name": "Kalma",
+      "bn_name": "কলমা",
+      "url": "kalmaup.munshiganj.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "171",
+      "name": {
+        "en": "Munshigonj-1",
+        "bn": "মুন্সিগঞ্জ-১"
+      },
+      "total_voters": 545519
+    },
+    {
+      "code": "172",
+      "name": {
+        "en": "Munshigonj-2",
+        "bn": "মুন্সিগঞ্জ-২"
+      },
+      "total_voters": 378492
+    },
+    {
+      "code": "173",
+      "name": {
+        "en": "Munshigonj-3",
+        "bn": "মুন্সিগঞ্জ-৩"
+      },
+      "total_voters": 509467
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

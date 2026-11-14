@@ -1,0 +1,180 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Lakshmipur",
+  "district_bn": "লক্ষ্মীপুর",
+  "upazila_id": "61",
+  "upazila": "Kamalnagar",
+  "upazila_bn": "কমলনগর",
+  "uno_portal": "kamalnagar.lakshmipur.gov.bd",
+  "district_administration": {
+    "district": "Lakshmipur",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Lakshmipur",
+      "phone": "01713-000025",
+      "email": "dclakshmipur@mopa.gov.bd",
+      "website": "http://www.lakshmipur.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Lakshmipur",
+      "phone": "01713-373025",
+      "email": "splakshmipur@police.gov.bd",
+      "control_room": "01713-374025"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Lakshmipur",
+      "phone": "01713-555025",
+      "email": "cslakshmipur@dghs.gov.bd"
+    }
+  },
+  "total_unions": 9,
+  "unions": [
+    {
+      "id": "582",
+      "name": "Charkalkini",
+      "bn_name": "চর কালকিনি",
+      "url": "charkalkiniup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "583",
+      "name": "Shaheberhat",
+      "bn_name": "সাহেবেরহাট",
+      "url": "shaheberhatup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "584",
+      "name": "Char Martin",
+      "bn_name": "চর মার্টিন",
+      "url": "charmartinup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "585",
+      "name": "Char Folcon",
+      "bn_name": "চর ফলকন",
+      "url": "charfolconup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "586",
+      "name": "Patarirhat",
+      "bn_name": "পাটারীরহাট",
+      "url": "patarirhatup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "587",
+      "name": "Hajirhat",
+      "bn_name": "হাজিরহাট",
+      "url": "hajirhatup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "588",
+      "name": "Char Kadira",
+      "bn_name": "চর কাদিরা",
+      "url": "charkadiraup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "589",
+      "name": "Torabgonj",
+      "bn_name": "তোরাবগঞ্জ",
+      "url": "torabgonjup.lakshmipur.gov.bd"
+    },
+    {
+      "id": "590",
+      "name": "Charlorench",
+      "bn_name": "চর লরেঞ্চ",
+      "url": "charlorenchup.lakshmipur.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "274",
+      "name": {
+        "en": "Lakshmipur-1",
+        "bn": "লক্ষীপুর-১"
+      },
+      "total_voters": 281302
+    },
+    {
+      "code": "275",
+      "name": {
+        "en": "Lakshmipur-2",
+        "bn": "লক্ষীপুর-২"
+      },
+      "total_voters": 493970
+    },
+    {
+      "code": "276",
+      "name": {
+        "en": "Lakshmipur-3",
+        "bn": "লক্ষীপুর-৩"
+      },
+      "total_voters": 444472
+    },
+    {
+      "code": "277",
+      "name": {
+        "en": "Lakshmipur-4",
+        "bn": "লক্ষীপুর-৪"
+      },
+      "total_voters": 418160
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

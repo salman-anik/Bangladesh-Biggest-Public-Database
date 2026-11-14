@@ -1,0 +1,15 @@
+{
+  "title": "Bangladesh Governance, Ministries, Statutory Bodies & Division-to-Upazila Administration",
+  "total_upazila_profiles": 494,
+  "total_district_profiles": 64,
+  "total_ministries": 15,
+  "total_statutory_bodies": 10,
+  "total_citizen_services": 8,
+  "folders": [
+    "divisions/<Division>/<District>/<Upazila>.json",
+    "by_district",
+    "ministries",
+    "statutory_bodies",
+    "citizen_services"
+  ]
+}

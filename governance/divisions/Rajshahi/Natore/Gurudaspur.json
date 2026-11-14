@@ -1,0 +1,175 @@
+{
+  "division": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "district": "Natore",
+  "district_bn": "নাটোর",
+  "upazila_id": "148",
+  "upazila": "Gurudaspur",
+  "upazila_bn": "গুরুদাসপুর",
+  "uno_portal": "gurudaspur.natore.gov.bd",
+  "district_administration": {
+    "district": "Natore",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Natore",
+      "phone": "01713-000033",
+      "email": "dcnatore@mopa.gov.bd",
+      "website": "http://www.natore.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Natore",
+      "phone": "01713-373033",
+      "email": "spnatore@police.gov.bd",
+      "control_room": "01713-374033"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Natore",
+      "phone": "01713-555033",
+      "email": "csnatore@dghs.gov.bd"
+    }
+  },
+  "total_unions": 6,
+  "unions": [
+    {
+      "id": "1331",
+      "name": "Nazirpur",
+      "bn_name": "নাজিরপুর",
+      "url": "nazirpurup.natore.gov.bd"
+    },
+    {
+      "id": "1332",
+      "name": "Biaghat",
+      "bn_name": "বিয়াঘাট",
+      "url": "biaghatup.natore.gov.bd"
+    },
+    {
+      "id": "1333",
+      "name": "Khubjipur",
+      "bn_name": "খুবজীপুর",
+      "url": "khubjipurup.natore.gov.bd"
+    },
+    {
+      "id": "1334",
+      "name": "Dharabarisha",
+      "bn_name": "ধারাবারিষা",
+      "url": "dharabarishaup.natore.gov.bd"
+    },
+    {
+      "id": "1335",
+      "name": "Moshindha",
+      "bn_name": "মসিন্দা",
+      "url": "moshindhaup.natore.gov.bd"
+    },
+    {
+      "id": "1336",
+      "name": "Chapila",
+      "bn_name": "চাপিলা",
+      "url": "chapilaup.natore.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "6440",
+      "postcode_bn": "৬৪৪০",
+      "division": "Rajshahi",
+      "division_bn": "সিলেট",
+      "district": "Natore",
+      "district_bn": "নাটোর",
+      "thana_upazila": "Hatgurudaspur",
+      "thana_upazila_bn": "হাতগুরুদাসপুর",
+      "sub_office": "Hatgurudaspur",
+      "sub_office_bn": "হাতগুরুদাসপুর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "58",
+      "name": {
+        "en": "Natore-1",
+        "bn": "নাটোর-১"
+      },
+      "total_voters": 368276
+    },
+    {
+      "code": "59",
+      "name": {
+        "en": "Natore-2",
+        "bn": "নাটোর-২"
+      },
+      "total_voters": 406886
+    },
+    {
+      "code": "60",
+      "name": {
+        "en": "Natore-3",
+        "bn": "নাটোর-৩"
+      },
+      "total_voters": 326872
+    },
+    {
+      "code": "61",
+      "name": {
+        "en": "Natore-4",
+        "bn": "নাটোর-৪"
+      },
+      "total_voters": 445172
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

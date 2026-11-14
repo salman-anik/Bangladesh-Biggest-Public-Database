@@ -1,0 +1,46 @@
+{
+  "division": "Dhaka",
+  "district": "Munshiganj",
+  "upazilas_count": 6,
+  "unions_count": 67,
+  "post_offices_count": 38,
+  "parliamentary_seats_count": 3,
+  "registered_voters": {
+    "total": 1433478,
+    "male": 738511,
+    "female": 694964,
+    "third_gender": 3
+  },
+  "constituency_breakdown": [
+    {
+      "seat_no": "171",
+      "name": {
+        "en": "Munshigonj-1",
+        "bn": "মুন্সিগঞ্জ-১"
+      },
+      "total_voters": 545519,
+      "male": 280716,
+      "female": 264802
+    },
+    {
+      "seat_no": "172",
+      "name": {
+        "en": "Munshigonj-2",
+        "bn": "মুন্সিগঞ্জ-২"
+      },
+      "total_voters": 378492,
+      "male": 194720,
+      "female": 183772
+    },
+    {
+      "seat_no": "173",
+      "name": {
+        "en": "Munshigonj-3",
+        "bn": "মুন্সিগঞ্জ-৩"
+      },
+      "total_voters": 509467,
+      "male": 263075,
+      "female": 246390
+    }
+  ]
+}

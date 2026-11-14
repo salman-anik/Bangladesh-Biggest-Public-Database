@@ -1,0 +1,58 @@
+{
+  "division": "Chattogram",
+  "district": "Feni",
+  "total_constituencies": 3,
+  "constituencies": [
+    {
+      "id": 4657,
+      "slug": "feni-1",
+      "code": "265",
+      "district_id": 14,
+      "division_id": 2,
+      "name": {
+        "en": "Feni-1",
+        "bn": "ফেনী-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Feni-1.svg",
+      "total_voters": 385652,
+      "total_male_voters": 198759,
+      "total_female_voters": 186890,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4658,
+      "slug": "feni-2",
+      "code": "266",
+      "district_id": 14,
+      "division_id": 2,
+      "name": {
+        "en": "Feni-2",
+        "bn": "ফেনী-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Feni-2.svg",
+      "total_voters": 437078,
+      "total_male_voters": 225881,
+      "total_female_voters": 211194,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4659,
+      "slug": "feni-3",
+      "code": "267",
+      "district_id": 14,
+      "division_id": 2,
+      "name": {
+        "en": "Feni-3",
+        "bn": "ফেনী-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Feni-3.svg",
+      "total_voters": 508194,
+      "total_male_voters": 263227,
+      "total_female_voters": 244965,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    }
+  ]
+}

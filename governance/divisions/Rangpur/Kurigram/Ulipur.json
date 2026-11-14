@@ -1,0 +1,229 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Kurigram",
+  "district_bn": "কুড়িগ্রাম",
+  "upazila_id": "453",
+  "upazila": "Ulipur",
+  "upazila_bn": "উলিপুর",
+  "uno_portal": "ulipur.kurigram.gov.bd",
+  "district_administration": {
+    "district": "Kurigram",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Kurigram",
+      "phone": "01713-000056",
+      "email": "dckurigram@mopa.gov.bd",
+      "website": "http://www.kurigram.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Kurigram",
+      "phone": "01713-373056",
+      "email": "spkurigram@police.gov.bd",
+      "control_room": "01713-374056"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Kurigram",
+      "phone": "01713-555056",
+      "email": "cskurigram@dghs.gov.bd"
+    }
+  },
+  "total_unions": 13,
+  "unions": [
+    {
+      "id": "4162",
+      "name": "Daldalia",
+      "bn_name": "দলদলিয়া",
+      "url": "daldaliaup.kurigram.gov.bd"
+    },
+    {
+      "id": "4163",
+      "name": "Durgapur",
+      "bn_name": "দুর্গাপুর",
+      "url": "durgapurup.kurigram.gov.bd"
+    },
+    {
+      "id": "4164",
+      "name": "Pandul",
+      "bn_name": "পান্ডুল",
+      "url": "pandulup.kurigram.gov.bd"
+    },
+    {
+      "id": "4165",
+      "name": "Buraburi",
+      "bn_name": "বুড়াবুড়ী",
+      "url": "buraburiup.kurigram.gov.bd"
+    },
+    {
+      "id": "4166",
+      "name": "Dharanibari",
+      "bn_name": "ধরণীবাড়ী",
+      "url": "dharanibariup.kurigram.gov.bd"
+    },
+    {
+      "id": "4167",
+      "name": "Dhamsreni",
+      "bn_name": "ধামশ্রেণী",
+      "url": "dhamsreniup.kurigram.gov.bd"
+    },
+    {
+      "id": "4168",
+      "name": "Gunaigas",
+      "bn_name": "গুনাইগাছ",
+      "url": "gunaigasup.kurigram.gov.bd"
+    },
+    {
+      "id": "4169",
+      "name": "Bazra",
+      "bn_name": "বজরা",
+      "url": "bazraup.kurigram.gov.bd"
+    },
+    {
+      "id": "4170",
+      "name": "Tobockpur",
+      "bn_name": "তবকপুর",
+      "url": "tobockpurup.kurigram.gov.bd"
+    },
+    {
+      "id": "4171",
+      "name": "Hatia",
+      "bn_name": "হাতিয়া",
+      "url": "hatiaup.kurigram.gov.bd"
+    },
+    {
+      "id": "4172",
+      "name": "Begumgonj",
+      "bn_name": "বেগমগঞ্জ",
+      "url": "begumgonjup.kurigram.gov.bd"
+    },
+    {
+      "id": "4173",
+      "name": "Shahabiar Alga",
+      "bn_name": "সাহেবের আলগা",
+      "url": "shahabiaralgaup.kurigram.gov.bd"
+    },
+    {
+      "id": "4174",
+      "name": "Thetrai",
+      "bn_name": "থেতরাই",
+      "url": "thetraiup.kurigram.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "5621",
+      "postcode_bn": "৫৬২১",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "thana_upazila": "Ulipur",
+      "thana_upazila_bn": "উলিপুর",
+      "sub_office": "Bozra hat",
+      "sub_office_bn": "বাজারহাট"
+    },
+    {
+      "postcode": "5620",
+      "postcode_bn": "৫৬২০",
+      "division": "Rangpur",
+      "division_bn": "বরিশাল",
+      "district": "Kurigram",
+      "district_bn": "কুড়িগ্রাম",
+      "thana_upazila": "Ulipur",
+      "thana_upazila_bn": "উলিপুর",
+      "sub_office": "Ulipur",
+      "sub_office_bn": "উলিপুর"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "25",
+      "name": {
+        "en": "Kurigram-1",
+        "bn": "কুড়িগ্রাম-১"
+      },
+      "total_voters": 563978
+    },
+    {
+      "code": "26",
+      "name": {
+        "en": "Kurigram-2",
+        "bn": "কুড়িগ্রাম-২"
+      },
+      "total_voters": 604738
+    },
+    {
+      "code": "27",
+      "name": {
+        "en": "Kurigram-3",
+        "bn": "কুড়িগ্রাম-৩"
+      },
+      "total_voters": 368470
+    },
+    {
+      "code": "28",
+      "name": {
+        "en": "Kurigram-4",
+        "bn": "কুড়িগ্রাম-৪"
+      },
+      "total_voters": 362753
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

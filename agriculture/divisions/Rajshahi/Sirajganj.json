@@ -1,0 +1,37 @@
+{
+  "division": "Rajshahi",
+  "district": "Sirajganj",
+  "total_upazilas": 9,
+  "upazilas": [
+    "Belkuchi",
+    "Chauhali",
+    "Kamarkhand",
+    "Kazipur",
+    "Raigonj",
+    "Shahjadpur",
+    "Sirajganj Sadar",
+    "Tarash",
+    "Ullapara"
+  ],
+  "dae_source": "Department of Agricultural Extension (DAE) - https://dae.gov.bd/",
+  "dae_resources_count": 134,
+  "bbs_crop_reports_count": 117,
+  "nearest_bmd_stations": [
+    "Tarash"
+  ],
+  "agromet_stations_in_region": [
+    "Tarash"
+  ],
+  "humidity_normals": [],
+  "crop_report_categories": {
+    "aus_rice.json": 73,
+    "aman_rice.json": 1,
+    "boro_rice.json": 1,
+    "jute_crops.json": 1,
+    "wheat_maize_and_potato.json": 4,
+    "pulses_oilseeds_and_spices.json": 6,
+    "fruits_and_vegetables.json": 2,
+    "agricultural_labour_wages.json": 12,
+    "yearbooks_and_general_crop_reports.json": 17
+  }
+}

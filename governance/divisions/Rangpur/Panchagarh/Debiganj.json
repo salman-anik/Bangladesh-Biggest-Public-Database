@@ -1,0 +1,170 @@
+{
+  "division": "Rangpur",
+  "division_bn": "রংপুর",
+  "district": "Panchagarh",
+  "district_bn": "পঞ্চগড়",
+  "upazila_id": "400",
+  "upazila": "Debiganj",
+  "upazila_bn": "দেবীগঞ্জ",
+  "uno_portal": "debiganj.panchagarh.gov.bd",
+  "district_administration": {
+    "district": "Panchagarh",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Panchagarh",
+      "phone": "01713-000059",
+      "email": "dcpanchagarh@mopa.gov.bd",
+      "website": "http://www.panchagarh.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Panchagarh",
+      "phone": "01713-373059",
+      "email": "sppanchagarh@police.gov.bd",
+      "control_room": "01713-374059"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Panchagarh",
+      "phone": "01713-555059",
+      "email": "cspanchagarh@dghs.gov.bd"
+    }
+  },
+  "total_unions": 10,
+  "unions": [
+    {
+      "id": "3658",
+      "name": "Chilahati",
+      "bn_name": "চিলাহাটি",
+      "url": "chilahatiup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3659",
+      "name": "Shaldanga",
+      "bn_name": "শালডাঙ্গা",
+      "url": "shaldangaup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3660",
+      "name": "Debiganj Sadar",
+      "bn_name": "দেবীগঞ্জ সদর",
+      "url": "debiganjsadarup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3661",
+      "name": "Pamuli",
+      "bn_name": "পামুলী",
+      "url": "pamuliup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3662",
+      "name": "Sundardighi",
+      "bn_name": "সুন্দরদিঘী",
+      "url": "sundardighiup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3663",
+      "name": "Sonahar Mollikadaha",
+      "bn_name": "সোনাহার মল্লিকাদহ",
+      "url": "sonaharmollikadahaup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3664",
+      "name": "Tepriganj",
+      "bn_name": "টেপ্রীগঞ্জ",
+      "url": "tepriganjup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3665",
+      "name": "Dandopal",
+      "bn_name": "দন্ডপাল",
+      "url": "dandopalup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3666",
+      "name": "Debiduba",
+      "bn_name": "দেবীডুবা",
+      "url": "debidubaup.panchagarh.gov.bd"
+    },
+    {
+      "id": "3667",
+      "name": "Chengthi Hazra Danga",
+      "bn_name": "চেংঠী হাজরা ডাঙ্গা",
+      "url": "chengthihazradangaup.panchagarh.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "1",
+      "name": {
+        "en": "Panchagarh-1",
+        "bn": "পঞ্চগড়-১"
+      },
+      "total_voters": 463700
+    },
+    {
+      "code": "2",
+      "name": {
+        "en": "Panchagarh-2",
+        "bn": "পঞ্চগড়-২"
+      },
+      "total_voters": 417529
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

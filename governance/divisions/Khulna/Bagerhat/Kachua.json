@@ -1,0 +1,193 @@
+{
+  "division": "Khulna",
+  "division_bn": "খুলনা",
+  "district": "Bagerhat",
+  "district_bn": "বাগেরহাট",
+  "upazila_id": "221",
+  "upazila": "Kachua",
+  "upazila_bn": "কচুয়া",
+  "uno_portal": "kachua.bagerhat.gov.bd",
+  "district_administration": {
+    "district": "Bagerhat",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Bagerhat",
+      "phone": "01713-000040",
+      "email": "dcbagerhat@mopa.gov.bd",
+      "website": "http://www.bagerhat.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Bagerhat",
+      "phone": "01713-373040",
+      "email": "spbagerhat@police.gov.bd",
+      "control_room": "01713-374040"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Bagerhat",
+      "phone": "01713-555040",
+      "email": "csbagerhat@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "2000",
+      "name": "Gojalia",
+      "bn_name": "গজালিয়া",
+      "url": "gojaliaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "2001",
+      "name": "Dhopakhali",
+      "bn_name": "ধোপাখালী",
+      "url": "dhopakhaliup.bagerhat.gov.bd"
+    },
+    {
+      "id": "2002",
+      "name": "Moghia",
+      "bn_name": "মঘিয়া",
+      "url": "moghiaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "2003",
+      "name": "Kachua",
+      "bn_name": "কচুয়া",
+      "url": "kachuaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "2004",
+      "name": "Gopalpur",
+      "bn_name": "গোপালপুর",
+      "url": "gopalpurup.bagerhat.gov.bd"
+    },
+    {
+      "id": "2005",
+      "name": "Raripara",
+      "bn_name": "রাড়ীপাড়া",
+      "url": "rariparaup.bagerhat.gov.bd"
+    },
+    {
+      "id": "2006",
+      "name": "Badhal",
+      "bn_name": "বাধাল",
+      "url": "badhalup.bagerhat.gov.bd"
+    }
+  ],
+  "postal_codes": [
+    {
+      "postcode": "9310",
+      "postcode_bn": "৯৩১০",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Bagerhat",
+      "district_bn": "বাগেরহাটের",
+      "thana_upazila": "Kachua UPO",
+      "thana_upazila_bn": "কচুয়া Upo",
+      "sub_office": "Kachua",
+      "sub_office_bn": "কচুয়া"
+    },
+    {
+      "postcode": "9311",
+      "postcode_bn": "৯৩১১",
+      "division": "Khulna",
+      "division_bn": "ময়মনসিংহ",
+      "district": "Bagerhat",
+      "district_bn": "বাগেরহাটের",
+      "thana_upazila": "Kachua UPO",
+      "thana_upazila_bn": "কচুয়া Upo",
+      "sub_office": "Sonarkola",
+      "sub_office_bn": "Sonarkola"
+    }
+  ],
+  "parliamentary_constituencies": [
+    {
+      "code": "95",
+      "name": {
+        "en": "Bagerhat-1",
+        "bn": "বাগেরহাট-১"
+      },
+      "total_voters": 375560
+    },
+    {
+      "code": "96",
+      "name": {
+        "en": "Bagerhat-2",
+        "bn": "বাগেরহাট-২"
+      },
+      "total_voters": 338009
+    },
+    {
+      "code": "97",
+      "name": {
+        "en": "Bagerhat-3",
+        "bn": "বাগেরহাট-৩"
+      },
+      "total_voters": 266864
+    },
+    {
+      "code": "98",
+      "name": {
+        "en": "Bagerhat-4",
+        "bn": "বাগেরহাট-৪"
+      },
+      "total_voters": 380679
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

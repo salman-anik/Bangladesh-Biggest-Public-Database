@@ -1,0 +1,41 @@
+{
+  "division": "Rajshahi",
+  "district": "Joypurhat",
+  "total_constituencies": 2,
+  "constituencies": [
+    {
+      "id": 4869,
+      "slug": "joypurhat-1",
+      "code": "34",
+      "district_id": 26,
+      "division_id": 6,
+      "name": {
+        "en": "Joypurhat-1",
+        "bn": "জয়পুরহাট-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Joypurhat-1.svg",
+      "total_voters": 466274,
+      "total_male_voters": 231984,
+      "total_female_voters": 234282,
+      "total_third_gender_voters": 8,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4870,
+      "slug": "joypurhat-2",
+      "code": "35",
+      "district_id": 26,
+      "division_id": 6,
+      "name": {
+        "en": "Joypurhat-2",
+        "bn": "জয়পুরহাট-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Joypurhat-2.svg",
+      "total_voters": 351572,
+      "total_male_voters": 174177,
+      "total_female_voters": 177393,
+      "total_third_gender_voters": 2,
+      "last_demographic_update": null
+    }
+  ]
+}

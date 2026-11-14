@@ -1,0 +1,75 @@
+{
+  "division": "Khulna",
+  "district": "Jhenaidah",
+  "total_constituencies": 4,
+  "constituencies": [
+    {
+      "id": 4760,
+      "slug": "jhenidha-1",
+      "code": "81",
+      "district_id": 37,
+      "division_id": 4,
+      "name": {
+        "en": "Jhenidha-1",
+        "bn": "ঝিনাইদহ-১"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Jhenidha-1.svg",
+      "total_voters": 325278,
+      "total_male_voters": 163001,
+      "total_female_voters": 162277,
+      "total_third_gender_voters": 0,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4761,
+      "slug": "jheniadha-2",
+      "code": "82",
+      "district_id": 37,
+      "division_id": 4,
+      "name": {
+        "en": "Jheniadha-2",
+        "bn": "ঝিনাইদহ-২"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Jheniadha-2.svg",
+      "total_voters": 506640,
+      "total_male_voters": 251666,
+      "total_female_voters": 254963,
+      "total_third_gender_voters": 11,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4762,
+      "slug": "jheniadha-3",
+      "code": "83",
+      "district_id": 37,
+      "division_id": 4,
+      "name": {
+        "en": "Jheniadha-3",
+        "bn": "ঝিনাইদহ-৩"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Jheniadha-3.svg",
+      "total_voters": 431015,
+      "total_male_voters": 217470,
+      "total_female_voters": 213542,
+      "total_third_gender_voters": 3,
+      "last_demographic_update": null
+    },
+    {
+      "id": 4763,
+      "slug": "jheniadha-4",
+      "code": "84",
+      "district_id": 37,
+      "division_id": 4,
+      "name": {
+        "en": "Jheniadha-4",
+        "bn": "ঝিনাইদহ-৪"
+      },
+      "map_file": "https://asset.ecs.gov.bd/media/uploaded_files/parliamentary_constituencies/Jheniadha-4.svg",
+      "total_voters": 375177,
+      "total_male_voters": 189011,
+      "total_female_voters": 186159,
+      "total_third_gender_voters": 7,
+      "last_demographic_update": null
+    }
+  ]
+}

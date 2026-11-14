@@ -1,0 +1,184 @@
+{
+  "division": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "district": "Noakhali",
+  "district_bn": "নোয়াখালী",
+  "upazila_id": "48",
+  "upazila": "Kabirhat",
+  "upazila_bn": "কবিরহাট",
+  "uno_portal": "kabirhat.noakhali.gov.bd",
+  "district_administration": {
+    "district": "Noakhali",
+    "dc_office": {
+      "title": "Deputy Commissioner & District Magistrate, Noakhali",
+      "phone": "01713-000023",
+      "email": "dcnoakhali@mopa.gov.bd",
+      "website": "http://www.noakhali.gov.bd"
+    },
+    "sp_office": {
+      "title": "Superintendent of Police, Noakhali",
+      "phone": "01713-373023",
+      "email": "spnoakhali@police.gov.bd",
+      "control_room": "01713-374023"
+    },
+    "civil_surgeon_office": {
+      "title": "Civil Surgeon, Noakhali",
+      "phone": "01713-555023",
+      "email": "csnoakhali@dghs.gov.bd"
+    }
+  },
+  "total_unions": 7,
+  "unions": [
+    {
+      "id": "439",
+      "name": "Narottampur",
+      "bn_name": "নরোত্তমপুর",
+      "url": "narottampurup1.noakhali.gov.bd"
+    },
+    {
+      "id": "440",
+      "name": "Dhanshiri",
+      "bn_name": "ধানসিঁড়ি",
+      "url": "dhanshiriup.noakhali.gov.bd"
+    },
+    {
+      "id": "441",
+      "name": "Sundalpur",
+      "bn_name": "সুন্দলপুর",
+      "url": "sundalpurup.noakhali.gov.bd"
+    },
+    {
+      "id": "442",
+      "name": "Ghoshbag",
+      "bn_name": "ঘোষবাগ",
+      "url": "ghoshbagup.noakhali.gov.bd"
+    },
+    {
+      "id": "443",
+      "name": "Chaprashirhat",
+      "bn_name": "চাপরাশিরহাট",
+      "url": "chaprashirhatup.noakhali.gov.bd"
+    },
+    {
+      "id": "444",
+      "name": "Dhanshalik",
+      "bn_name": "ধানশালিক",
+      "url": "dhanshalikup.noakhali.gov.bd"
+    },
+    {
+      "id": "445",
+      "name": "Batoiya",
+      "bn_name": "বাটইয়া",
+      "url": "batoiyaup.noakhali.gov.bd"
+    }
+  ],
+  "postal_codes": [],
+  "parliamentary_constituencies": [
+    {
+      "code": "268",
+      "name": {
+        "en": "Noakhali-1",
+        "bn": "নোয়াখালী-১"
+      },
+      "total_voters": 452425
+    },
+    {
+      "code": "269",
+      "name": {
+        "en": "Noakhali-2",
+        "bn": "নোয়াখালী-২"
+      },
+      "total_voters": 360081
+    },
+    {
+      "code": "270",
+      "name": {
+        "en": "Noakhali-3",
+        "bn": "নোয়াখালী-৩"
+      },
+      "total_voters": 511759
+    },
+    {
+      "code": "271",
+      "name": {
+        "en": "Noakhali-4",
+        "bn": "নোয়াখালী-৪"
+      },
+      "total_voters": 700339
+    },
+    {
+      "code": "272",
+      "name": {
+        "en": "Noakhali-5",
+        "bn": "নোয়াখালী-৫"
+      },
+      "total_voters": 503851
+    },
+    {
+      "code": "273",
+      "name": {
+        "en": "Noakhali-6",
+        "bn": "নোয়াখালী-৬"
+      },
+      "total_voters": 339185
+    }
+  ],
+  "citizen_services": [
+    {
+      "service_name": "National ID (NID) Smart Card Services",
+      "portal": "services.nidw.gov.bd",
+      "helpline": "105",
+      "agency": "Election Commission",
+      "description": "NID online registration, re-issue, correction, and downloading digital copy."
+    },
+    {
+      "service_name": "Electronic Passport (e-Passport)",
+      "portal": "epassport.gov.bd",
+      "helpline": "02-8154148",
+      "agency": "Department of Immigration and Passports",
+      "description": "Online application, fee payment, and biometric appointment scheduling."
+    },
+    {
+      "service_name": "Online Birth and Death Registration (BDRIS)",
+      "portal": "bdris.gov.bd",
+      "helpline": "16122",
+      "agency": "Office of Registrar General, Birth and Death",
+      "description": "Application and verification of birth and death certificates across all City Corporations and Union Parishads."
+    },
+    {
+      "service_name": "e-TIN and Income Tax Return System",
+      "portal": "etaxnbr.gov.bd",
+      "helpline": "09612-642273",
+      "agency": "National Board of Revenue",
+      "description": "Online taxpayer identification certificate issuance and annual digital tax return submission."
+    },
+    {
+      "service_name": "Bangladesh Road Transport Authority (BRTA Service Portal)",
+      "portal": "bsp.brta.gov.bd",
+      "helpline": "16107",
+      "agency": "BRTA",
+      "description": "Driving license e-applications, motor vehicle tax token, registration status, and fitness appointment."
+    },
+    {
+      "service_name": "e-Mutation / Digital Land Records (Khatian)",
+      "portal": "mutation.land.gov.bd",
+      "helpline": "16122",
+      "agency": "Ministry of Land",
+      "description": "Online land mutation (নামজারি), digital khatian verification, and land development tax payments."
+    },
+    {
+      "service_name": "National Citizen Service Portal (myGov)",
+      "portal": "mygov.bd",
+      "helpline": "333",
+      "agency": "a2i / Cabinet Division",
+      "description": "Single-window digital gateway integrating over 2,000 government-to-citizen services."
+    },
+    {
+      "service_name": "Surokkha (National Vaccination Platform)",
+      "portal": "surokkha.gov.bd",
+      "helpline": "16263",
+      "agency": "DGHS / ICT Division",
+      "description": "Official vaccination registration, verification, and digital certificate downloading system."
+    }
+  ]
+}

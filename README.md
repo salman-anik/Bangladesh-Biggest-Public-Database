@@ -37,19 +37,28 @@ The repository is organized into the following subject areas.
 
 | Category | Dataset Coverage | Directory |
 |---|---|---|
-| Geography & Administration | Divisions, districts, upazilas, unions and postal codes | `database/geography/` |
-| Banking & Finance | Banks, branches, routing numbers and mobile financial services | `database/banking/` |
-| Companies & Businesses | Listed companies (DSE), IT members (BASIS), conglomerates, startups, trade bodies | `database/company/` |
-| Medicine & Pharmaceuticals | 33,219 medicines, 1,233 diseases/indications, 2,594 generics, manufacturers and dosage forms | `database/medicine/` |
-| Education | Schools, colleges, educational institutions and EIIN information | `database/education/` |
-| Land Records | Land administration, survey information and available public records | `database/land/` |
-| Law & Legal Information | Constitution, legislation, legal codes and public legal directories | `database/law/` |
-| Healthcare | Hospitals, diagnostic centers, blood banks and ambulance services | `database/healthcare/` |
-| Emergency Services | National hotlines, police, fire service and public contacts | `database/emergency/` |
-| Transportation | Railway stations, trains, fares, routes and airports | `database/transport/` |
-| Islamic Information | Quran, Hadith and prayer-time datasets | `database/Islamic/` |
-| Government & Public Services | Ministries, departments and public service directories | `database/governance/` |
-| Culture & Heritage | Historical locations, archaeological sites and heritage information | `database/culture/` |
+| Geography & Administration | 8 divisions, 64 districts, 494 upazilas, 4,540 unions, 12 city corporations, 1,368 postal codes | `geography/` |
+| Demographics & Census | BBS latest publications (120 reports) & statistical yearbooks catalog | `demographics/` |
+| Economy & Macro | BBS macro indicators (GDP, GNI, per capita income) & 14 national accounts reports | `economy/` |
+| Banking & Finance | 62 banks, 8,751 branches, 8,747 BEFTN routing numbers and 5 MFS providers | `banking/` |
+| Companies & Businesses | 3,344 companies: 409 DSE listed, 2,882 BASIS IT members, conglomerates, startups, trade bodies | `company/` |
+| Medicine & Pharmaceuticals | 33,219 medicines, 1,233 diseases/indications, 2,594 generics, 435 manufacturers, 215 dosage forms | `medicine/` |
+| Education | 40,000+ schools, colleges, madrasas, EIIN and teacher rosters | `education/` |
+| Universities & Higher Ed | 185 UGC-listed universities (61 public, 121 private, 3 international) with details | `universities/` |
+| Agriculture & Crops | 117 BBS crop/agricultural wage reports & DAE portal resources | `agriculture/` |
+| Climate & Weather | BMD temperature history (576 records), humidity normals (36 stations), 20 agromet stations | `climate/` |
+| Environment & Pollution | DoE daily AQI (1,286 reports cataloged, 15 recent parsed) & water quality reports | `environment/` |
+| Elections & Constituencies | 300 parliamentary constituencies (with voter counts) & 63 registered political parties | `elections/` |
+| Government Procurement | BPPA contract awards & public procurement records | `procurement/` |
+| Land Records | 83,455 ePorcha khatian records & mouza map PDFs | `land/` |
+| Law & Legal Information | Constitution, Penal Code 1860, CrPC 1898, major acts and legal glossary | `law/` |
+| Lawyers Directory | 34,591 Dhaka Bar Association members by division, district and status | `Lawyer/` |
+| Healthcare | 3,590 hospitals, diagnostic centers, doctors, blood banks and ambulance services | `healthcare/` |
+| Emergency Services | 14 national hotlines, 76 police stations, 67 fire stations and 64 district admin offices | `emergency/` |
+| Transportation | Railway stations, 44 station BTCL phones, intercity trains, fares, bus/launch routes, airports | `transport/` |
+| Islamic Information | Quran, Hadith collections and Fiqh/Sunnah datasets | `Islamic/` |
+| Government & Public Services | 15 ministries, 10 statutory bodies and 8 citizen e-services | `governance/` |
+| Heritage & Tourism | Historical landmarks and tourist destinations | `heritage/` |
 
 *Dataset availability varies by category. Refer to the actual repository files for current coverage.*
 
@@ -58,7 +67,7 @@ The repository is organized into the following subject areas.
 To make finding information instant and intuitive, all regional datasets are organized under the standardized Bangladesh geographic hierarchy:
 
 ```text
-database/<category>/[divisions/]<Division>/<District>/<Upazila>[.json]
+<category>/[divisions/]<Division>/<District>/<Upazila>[.json]
 ```
 
 - **Education:** `education/<Division>/<District>/<Upazila>/<category>/<institution>.json` (40,000+ schools, colleges, and madrasas with teachers and contacts, plus `_summary.json` per upazila).
@@ -101,61 +110,42 @@ Visit `http://localhost:3000` to browse by **Division > District > Upazila** or 
 ## Repository Structure
 
 ```text
-database/
+Bangladesh-Biggest-Public-Database/
 ├── visualize/                   # React + Vite interactive search & visualizer portal
 │   ├── src/
 │   ├── public/data/             # Pre-indexed search and upazila bundle data
 │   └── package.json
 │
-├── education/                   # 40,000+ Educational Institutions
-│   ├── <Division>/
-│   │   └── <District>/
-│   │       └── <Upazila>/
-│   │           ├── _summary.json
-│   │           ├── school/
-│   │           ├── college/
-│   │           └── dakhil_madrasa/
-│   └── education_hierarchy.json
-│
-├── healthcare/                  # 3,590+ Hospitals & Healthcare Facilities
-│   ├── divisions/<Division>/<District>/<Upazila>.json
-│   ├── hospitals.json
-│   ├── blood_banks.json
-│   └── ambulance_services.json
-│
-├── banking/                     # 8,750+ Bank Branches & Routing Numbers
+├── agriculture/                 # BBS Crop Reports (117) & DAE Agricultural Resources
+├── banking/                     # 8,751 Bank Branches & 8,747 Routing Numbers
 │   ├── divisions/<Division>/<District>/<Upazila>.json
 │   ├── branches.json
 │   ├── routing_numbers.json
 │   └── by_bank/
 │
-├── emergency/                   # Police, Fire Service & Hotlines
-│   ├── divisions/<Division>/<District>/<Upazila>.json
-│   ├── police_stations.json
-│   ├── fire_stations.json
-│   └── district_administration.json
+├── climate/                     # BMD Temperature History, Humidity Normals & Agromet Stations
+├── company/                     # 3,344 Companies (DSE, BASIS IT, Conglomerates, Startups)
+├── demographics/                # BBS Latest Publications & Statistical Yearbooks Catalog
+├── economy/                     # BBS Macro Indicators (GDP, Per Capita) & National Accounts
+├── education/                   # 40,000+ Educational Institutions & Teacher Rosters
+│   ├── <Division>/<District>/<Upazila>/
+│   └── education_hierarchy.json
 │
-├── geography/                   # Administrative divisions, districts, upazilas, unions
-│   ├── divisions/<Division>/<District>/<Upazila>/info.json
-│   ├── hierarchy.json
-│   ├── postal_codes.json
-│   └── unions.json
-│
-├── land/                        # 54,000+ Land Khatians & Mouza Maps
-│   ├── khatians/<Division>/<District>/<Upazila>.json
-│   └── maps/
-│
-├── Lawyer/                      # Bangladesh Bar Association Members
-│   ├── divisions/<Division>/<District>/
-│   └── dhaka_bar_association_members.json
-│
-├── transport/                   # Railway stations, airports, train routes
-│   └── divisions/<Division>/<District>/
-│
-├── company/                     # DSE listed, BASIS IT companies, conglomerates
-├── medicine/                    # 33,219 Medicines, 2,594 Generics, 1,233 Diseases/Indications
-├── Islamic/                     # Quran, Hadith, Sunnah datasets
-└── law/                         # Major Acts, Penal Code, CRPC
+├── elections/                   # 300 Parliamentary Constituencies & 63 Political Parties
+├── emergency/                   # Police, Fire Service, District Admin & National Hotlines
+├── environment/                 # DoE Daily AQI (1,286 Reports) & Water Quality Reports
+├── geography/                   # 8 Divisions, 64 Districts, 494 Upazilas, 4,540 Unions, 1,368 Postcodes
+├── governance/                  # Ministries, Statutory Bodies & Citizen Services
+├── healthcare/                  # 3,590 Hospitals, Doctors, Blood Banks & Ambulances
+├── heritage/                    # Historical Landmarks & Tourist Destinations
+├── Islamic/                     # Quran, Hadith & Fiqh Datasets
+├── land/                        # 83,455 Land Khatians & Mouza Maps
+├── law/                         # Constitution, Penal Code 1860, CrPC 1898 & Major Acts
+├── Lawyer/                      # 34,591 Dhaka Bar Association Members
+├── medicine/                    # 33,219 Medicines, 2,594 Generics, 1,233 Indications
+├── procurement/                 # BPPA Public Procurement & Contract Awards
+├── transport/                   # Railway Stations, 44 Station Phones, Trains, Fares & Airports
+└── universities/                # 185 UGC Universities (Public, Private, International)
 ```
 
 This is a representative directory overview. Check the repository for the actual available files.
@@ -179,7 +169,7 @@ Load and explore a Bangladesh dataset using Python:
 ```python
 import json
 
-file_path = "database/geography/districts.json"
+file_path = "geography/districts.json"
 
 with open(file_path, "r", encoding="utf-8") as file:
     districts = json.load(file)
@@ -196,7 +186,7 @@ Read and search Bangladesh banking information:
 
 ```javascript
 const banks = require(
-  "./database/banking/banks.json"
+  "./banking/banks.json"
 );
 
 const results = banks.filter(bank =>
@@ -213,28 +203,34 @@ Adapt field names to the actual dataset schema.
 Use `jq` to explore JSON datasets:
 
 ```bash
-jq '.' database/geography/districts.json
+jq '.' geography/districts.json
 ```
 
 Filter records when the relevant field exists:
 
 ```bash
 jq '.[] | select(.district_name == "Dhaka")' \
-  database/geography/upazilas.json
+  geography/upazilas.json
 ```
 
 ## Data Sources & References
 
 Datasets are collected from publicly accessible information and sources where available.
 
-Potential source organizations include:
+Primary source organizations include:
 
+- [Bangladesh Bureau of Statistics (BBS)](https://bbs.gov.bd/) — Population, census, agriculture, national accounts and statistical yearbooks.
 - [Bangladesh Bank](https://www.bb.org.bd/) — Banking and financial information.
-- [Bangladesh Bureau of Statistics](https://bbs.gov.bd/) — Population, census and statistical information.
+- [Bangladesh Election Commission (ECS)](https://www.ecs.gov.bd/) — Parliamentary constituencies, voter statistics and registered political parties.
+- [University Grants Commission (UGC)](https://ugc.gov.bd/) — Public, private and international universities directory.
+- [Bangladesh Meteorological Department (BMD)](https://bmd.gov.bd/) — Historical temperature, humidity normals and agromet stations.
+- [Department of Agricultural Extension (DAE)](https://dae.gov.bd/) — Agricultural extension and crop resources.
+- [Department of Environment (DoE)](https://doe.gov.bd/) — Daily Air Quality Index (AQI) and water quality reports.
+- [Bangladesh Public Procurement Authority (BPPA)](https://www.bppa.gov.bd/) — Public procurement and contract award records.
 - [Directorate General of Drug Administration](https://dgda.gov.bd/) — Pharmaceutical and medicine information.
 - [Ministry of Education](https://moedu.gov.bd/) — Education-related information.
 - [Ministry of Land](https://land.gov.bd/) — Land administration information.
-- [Bangladesh Railway](https://railway.gov.bd/) — Railway information.
+- [Bangladesh Railway](https://railway.gov.bd/) — Railway schedules and station directory.
 - [Bangladesh Police](https://www.police.gov.bd/) — Public safety information.
 - [Bangladesh Fire Service](https://fireservice.gov.bd/) — Fire and emergency services.
 - [Laws of Bangladesh](https://bdlaws.minlaw.gov.bd/) — Legislative and legal information.

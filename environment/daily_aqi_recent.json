@@ -1,0 +1,1577 @@
+[
+  {
+    "aqi_date": "11/11/2026",
+    "published_date": "11/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/dc4ef538-fb02-463f-8a31-bfedbe1a5ece.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 137,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 154,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 156,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 64,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 152,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 55,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 124,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 154,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 88,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 169,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "10/11/2026",
+    "published_date": "10/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/95c5e295-3b4f-4da5-b316-2fe7916ba33d.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 140,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 177,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 73,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 158,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 68,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 123,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 173,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 76,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 165,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "09/11/2026",
+    "published_date": "09/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/1bd4e6fb-1723-490e-a65a-489cb8fd514e.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 162,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 175,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 130,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 154,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 156,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 89,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 181,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "08/11/2026",
+    "published_date": "08/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/cb3b0311-bbb4-43d9-bafb-d742a2aebdf3.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 176,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 164,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 119,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 168,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 184,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 160,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 171,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 164,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 128,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 173,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "07/11/2026",
+    "published_date": "07/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/eb7e7919-059e-4902-9327-b360c97100f4.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 173,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 181,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 125,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 172,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 159,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 162,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 170,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 122,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Bogura",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      }
+    ]
+  },
+  {
+    "aqi_date": "06/11/2026",
+    "published_date": "06/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/a1e5b3be-4d84-4e66-a707-9d4fe9d9ebb7.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 165,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 178,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 120,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 173,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 156,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 159,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 182,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 170,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 144,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Bogura",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      }
+    ]
+  },
+  {
+    "aqi_date": "05/11/2026",
+    "published_date": "05/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/354010cc-25d7-40b3-81f8-350ae4717507.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 181,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 108,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 160,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 155,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 172,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 114,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Bogura",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      }
+    ]
+  },
+  {
+    "aqi_date": "04/11/2026",
+    "published_date": "04/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/612d0aaf-aea1-4f88-83ec-5113f6b802df.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 158,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 144,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 163,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 103,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 152,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 160,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 181,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "03/11/2026",
+    "published_date": "03/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/08bff62c-13a7-4a4d-af93-88b578ca2f3f.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 130,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 166,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": 143,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Khulna",
+        "aqi": 88,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 158,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 156,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 180,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 152,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 158,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 168,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "02/11/2026",
+    "published_date": "02/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/377d3dea-8847-4ad4-8ea7-4a2de419b5d2.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 163,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 154,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 169,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": 129,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Khulna",
+        "aqi": 96,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 152,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 151,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 183,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 154,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 150,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 163,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "01/11/2026",
+    "published_date": "01/11/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/2f154c0e-2841-48c0-a7f3-1be2455d1f97.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 162,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 158,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 165,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Sylhet",
+        "aqi": 86,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Khulna",
+        "aqi": 76,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 155,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 138,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 200,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 163,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 105,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 162,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "31/10/2026",
+    "published_date": "31/10/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/c28bfe14-1714-4aa0-963f-337675787c62.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 138,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 132,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 146,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": 165,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Sylhet",
+        "aqi": 70,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Khulna",
+        "aqi": 64,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 106,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 102,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 165,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 144,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 130,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 160,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  },
+  {
+    "aqi_date": "30/10/2026",
+    "published_date": "30/10/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/ab77003e-1ff6-4283-9cb7-7f3b2da68038.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 147,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 140,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 167,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": 169,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Sylhet",
+        "aqi": 71,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Khulna",
+        "aqi": 49,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "GOOD"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 91,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 67,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 166,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 130,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 113,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 129,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      }
+    ]
+  },
+  {
+    "aqi_date": "29/10/2026",
+    "published_date": "29/10/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/74903d34-5eaa-4af9-aa13-cc4bcd21bc4f.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 157,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 131,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 151,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": 135,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Sylhet",
+        "aqi": 69,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Khulna",
+        "aqi": 67,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 105,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 52,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 161,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 104,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 110,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 122,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      }
+    ]
+  },
+  {
+    "aqi_date": "28/10/2026",
+    "published_date": "28/10/2026",
+    "source_pdf": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doe/2026/10/8acadaf3-7ba1-45b3-ac8d-3657cd9e3750.pdf",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "aqi": 147,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Chattogram",
+        "aqi": 132,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Gazipur",
+        "aqi": 159,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Narayanganj",
+        "aqi": 118,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Sylhet",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Khulna",
+        "aqi": 63,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Rajshahi",
+        "aqi": 152,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      },
+      {
+        "city": "Barishal",
+        "aqi": 68,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Savar",
+        "aqi": null,
+        "status": "DNA",
+        "responsible_pollutant": null,
+        "category": null
+      },
+      {
+        "city": "Mymensingh",
+        "aqi": 219,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "VERY UNHEALTHY Rangpurc"
+      },
+      {
+        "city": "Rangpur",
+        "aqi": 138,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY FOR SENSITIVE GROUP"
+      },
+      {
+        "city": "Cumilla",
+        "aqi": 95,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Narshindi",
+        "aqi": 56,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "MODERATE"
+      },
+      {
+        "city": "Bogura",
+        "aqi": 160,
+        "status": "OK",
+        "responsible_pollutant": "PM2.5",
+        "category": "UNHEALTHY"
+      }
+    ]
+  }
+]

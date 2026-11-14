@@ -1,0 +1,11 @@
+{
+  "title": "Bangladesh Macroeconomic & National Accounts Database",
+  "source": "Bangladesh Bureau of Statistics (BBS) - https://bbs.gov.bd/",
+  "collected_at": "2026-11-14",
+  "total_macro_releases": 6,
+  "total_national_accounts_reports": 14,
+  "files": {
+    "bbs_macro_indicators": "bbs_macro_indicators.json",
+    "bbs_national_accounts_catalog": "bbs_national_accounts_catalog.json"
+  }
+}

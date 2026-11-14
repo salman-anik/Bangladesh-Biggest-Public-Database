@@ -1,0 +1,14 @@
+{
+  "title": "Bangladesh Agriculture & Crop Statistics Database",
+  "sources": [
+    "Bangladesh Bureau of Statistics (BBS) - https://bbs.gov.bd/",
+    "Department of Agricultural Extension (DAE) - https://dae.gov.bd/"
+  ],
+  "collected_at": "2026-11-14",
+  "total_bbs_crop_reports": 117,
+  "total_dae_resources": 134,
+  "files": {
+    "bbs_crop_reports_catalog": "bbs_crop_reports_catalog.json",
+    "dae_portal_resources": "dae_portal_resources.json"
+  }
+}

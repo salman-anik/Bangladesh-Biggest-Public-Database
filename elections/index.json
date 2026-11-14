@@ -1,0 +1,11 @@
+{
+  "title": "Bangladesh Elections, Constituencies & Political Parties Database",
+  "source": "Bangladesh Election Commission (ECS) - https://www.ecs.gov.bd/",
+  "collected_at": "2026-11-14",
+  "total_constituencies": 300,
+  "total_political_parties": 63,
+  "files": {
+    "constituencies": "constituencies.json",
+    "political_parties": "political_parties.json"
+  }
+}

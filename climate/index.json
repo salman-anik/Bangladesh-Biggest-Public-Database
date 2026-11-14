@@ -1,0 +1,13 @@
+{
+  "title": "Bangladesh Climate & Historical Weather Database",
+  "source": "Bangladesh Meteorological Department (BMD) - https://bmd.gov.bd/",
+  "collected_at": "2026-11-14",
+  "total_humidity_stations": 36,
+  "total_temperature_records": 576,
+  "total_agromet_stations": 20,
+  "files": {
+    "humidity_normals": "humidity_normals.json",
+    "temperature_history": "temperature_history.json",
+    "agromet_stations": "agromet_stations.json"
+  }
+}

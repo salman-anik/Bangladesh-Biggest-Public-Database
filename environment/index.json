@@ -1,0 +1,13 @@
+{
+  "title": "Bangladesh Environment & Air/Water Quality Database",
+  "source": "Department of Environment (DoE) - https://doe.gov.bd/",
+  "collected_at": "2026-11-14",
+  "total_aqi_reports_cataloged": 1286,
+  "total_recent_aqi_parsed": 15,
+  "total_water_quality_reports": 4,
+  "files": {
+    "daily_aqi_recent": "daily_aqi_recent.json",
+    "aqi_reports_catalog": "aqi_reports_catalog.json",
+    "water_quality_reports": "water_quality_reports.json"
+  }
+}

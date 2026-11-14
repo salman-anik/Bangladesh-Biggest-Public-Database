@@ -4,13 +4,13 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 
 - **Google Drive Maps Root Folder:** [Open `land/maps` in Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u)
 - **Master Index:** [`index.json`](./index.json)
-- **Uploaded Maps with Live File Links (`16,472` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
+- **Uploaded Maps with Live File Links (`16,912` / `226,157`):** [`mouza_maps_catalog.json`](./mouza_maps_catalog.json)
 
 ## Divisions & Districts (Google Drive Folders + Partitioned Catalogs)
 
 | Division | Districts | Total Map Files | Total Size | Uploaded to Drive | Google Drive Folder |
 |---|---:|---:|---:|---:|---|
-| **Barishal** | 6 | 17,107 | 200.53 GB | 16,384 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
+| **Barishal** | 6 | 17,107 | 200.53 GB | 16,824 | [Open Barishal Drive Folder](https://drive.google.com/drive/folders/1x447JSSDc0T_UA4O0AtX-KRlDcGZIPod) |
 | **Chattogram** | 8 | 39,249 | 416.80 GB | 16 | [Open Chattogram Drive Folder](https://drive.google.com/drive/folders/1rDm8EnTOj0NpIM8UaGwPlMiIFSk4KQts) |
 | **Dhaka** | 13 | 62,976 | 645.82 GB | 32 | [Open Dhaka Drive Folder](https://drive.google.com/drive/folders/1DcOgN4Lb32oFCBxLuF5e5ADxBjaMm2G4) |
 | **Khulna** | 10 | 22,439 | 229.98 GB | 8 | [Open Khulna Drive Folder](https://drive.google.com/drive/folders/1ebSGx95Z5q8xfYaYGAerOm9nRRmkypIg) |
@@ -29,7 +29,7 @@ All large Mouza map files (PDF/JPG/TIF, totaling **226,157 files / 2,385.37 GB**
 | Bhola | 6 | 3,577 | 42.19 | 3,577 | [Drive Folder](https://drive.google.com/drive/folders/1PKLAaX-k4dvZ6EBrBerwjHOIsCZMyjge) | [`Bhola.json`](./Barishal/Bhola.json) |
 | Jhalokati | 4 | 857 | 10.08 | 857 | [Drive Folder](https://drive.google.com/drive/folders/1olq57r_8jlrOjGihS6oqJiA1T7sZ8mvd) | [`Jhalokati.json`](./Barishal/Jhalokati.json) |
 | Patuakhali | 7 | 3,676 | 41.12 | 3,675 | [Drive Folder](https://drive.google.com/drive/folders/1p5vPUlQh2IjCYJCbkiSB6AhUY9nGonna) | [`Patuakhali.json`](./Barishal/Patuakhali.json) |
-| Pirojpur | 5 | 2,727 | 32.17 | 2,005 | [Drive Folder](https://drive.google.com/drive/folders/1wOlWUqT_59h_a-mPgS8dDWQAMHM_cWZI) | [`Pirojpur.json`](./Barishal/Pirojpur.json) |
+| Pirojpur | 5 | 2,727 | 32.17 | 2,445 | [Drive Folder](https://drive.google.com/drive/folders/1wOlWUqT_59h_a-mPgS8dDWQAMHM_cWZI) | [`Pirojpur.json`](./Barishal/Pirojpur.json) |
 
 ### Chattogram Division
 | District | Upazilas | Files | Size (GB) | Uploaded | Drive Folder | Catalog JSON |

@@ -10,6 +10,7 @@ import argparse
 import http.server
 import json
 import os
+import shutil
 import subprocess
 import sys
 import urllib.parse
@@ -20,6 +21,41 @@ from pathlib import Path
 DEFAULT_REPO = "salman-anik/Bangladesh-Biggest-Public-Database"
 SCOPE = "https://www.googleapis.com/auth/drive"
 LOCAL_OAUTH_CACHE = Path(os.environ.get("LOCALAPPDATA", Path.home())) / "BangladeshMouzaSync" / "cloud_oauth.json"
+
+
+def get_gcloud_adc_path():
+    cfg_dir = os.environ.get("CLOUDSDK_CONFIG")
+    if cfg_dir:
+        return Path(cfg_dir) / "application_default_credentials.json"
+    if os.name == "nt":
+        return Path(os.environ.get("APPDATA", Path.home() / "AppData" / "Roaming")) / "gcloud" / "application_default_credentials.json"
+    return Path.home() / ".config" / "gcloud" / "application_default_credentials.json"
+
+
+def run_gcloud_oauth():
+    """Authorize Google Drive via installed `gcloud` CLI without creating a custom OAuth client."""
+    gcloud_bin = shutil.which("gcloud")
+    if not gcloud_bin:
+        return None
+    adc_path = get_gcloud_adc_path()
+    print(f"Using `{gcloud_bin}` for 1-click Google Drive authorization (browser window will open)...")
+    subprocess.run(
+        [gcloud_bin, "auth", "login", "--enable-gdrive-access", "--update-adc", "--force", "--quiet"],
+        check=True,
+    )
+    if not adc_path.exists():
+        raise RuntimeError(f"Expected credentials file not found after gcloud login: {adc_path}")
+    raw = json.loads(adc_path.read_text(encoding="utf-8"))
+    if not (raw.get("client_id") and raw.get("client_secret") and raw.get("refresh_token")):
+        raise RuntimeError(f"ADC file at {adc_path} is missing client_id/client_secret/refresh_token.")
+    payload = {
+        "client_id": raw["client_id"],
+        "client_secret": raw["client_secret"],
+        "refresh_token": raw["refresh_token"],
+    }
+    LOCAL_OAUTH_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    LOCAL_OAUTH_CACHE.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    return payload
 
 
 def find_downloaded_client_secret():
@@ -148,23 +184,28 @@ def main():
     parser.add_argument("--reuse-cached", action="store_true", help="Reuse cached cloud_oauth.json if present")
     args = parser.parse_args()
 
+    payload = None
     if args.reuse_cached and LOCAL_OAUTH_CACHE.exists():
         payload = json.loads(LOCAL_OAUTH_CACHE.read_text(encoding="utf-8"))
         print(f"Reusing cached OAuth credentials from {LOCAL_OAUTH_CACHE}")
-    else:
+    elif not args.credentials and shutil.which("gcloud"):
+        payload = run_gcloud_oauth()
+
+    if payload is None:
         cid, csec = load_client_config(args.credentials)
         payload = run_browser_oauth(cid, csec)
 
+    gh_bin = shutil.which("gh") or "gh"
     secret_json = json.dumps(payload)
     print(f"\nUploading GDRIVE_OAUTH_JSON secret to GitHub repo `{args.repo}`...")
     subprocess.run(
-        ["gh", "secret", "set", "GDRIVE_OAUTH_JSON", "-R", args.repo],
+        [gh_bin, "secret", "set", "GDRIVE_OAUTH_JSON", "-R", args.repo],
         input=secret_json,
         text=True,
         check=True,
     )
     print("Secret saved! Starting 24/7 GitHub Actions workflow (`mouza-drive-sync.yml`)...")
-    subprocess.run(["gh", "workflow", "run", "mouza-drive-sync.yml", "-R", args.repo], check=True)
+    subprocess.run([gh_bin, "workflow", "run", "mouza-drive-sync.yml", "-R", args.repo], check=True)
     print("\nDone! GitHub Actions is now uploading Mouza maps to your Google Drive even when your PC is off.")
     print(f"Monitor runs at: https://github.com/{args.repo}/actions/workflows/mouza-drive-sync.yml")
 

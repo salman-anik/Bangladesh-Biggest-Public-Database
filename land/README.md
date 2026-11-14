@@ -72,23 +72,16 @@ database/land/ (or Desktop/Land/)
 
 ---
 
-## 🗺️ Google Drive Mouza Maps & Zero-Disk Sync
+## 🗺️ Direct Online Mouza Maps Archive (`free.mouzamap.tech`)
 
-Large binary Mouza maps (`226,157` files totaling `2,385.37 GB`) are stored in Google Drive (not inside GitHub) and indexed under [`maps/`](./maps/README.md):
+Large binary Mouza maps (`226,157` files totaling `2,385.37 GB`) are indexed under [`maps/`](./maps/README.md) and linked **directly to their online source** on [`free.mouzamap.tech`](https://free.mouzamap.tech/) — without consuming GitHub or personal Google Drive storage:
 
-- **Google Drive `land/maps` Root:** [Open in Google Drive](https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u)
-- **Google Drive `land/` Folder:** [Open in Google Drive](https://drive.google.com/drive/folders/1hbpHQ-3DFp1AsSZr_ISKV4g59KeKGb5e)
-- **Continue Zero-Disk Sync (`750 GB / 24h` Google Drive limit):**
-  Run [`maps/START_MAP_SYNC.bat`](./maps/START_MAP_SYNC.bat) on Windows, or run via CLI:
-  ```bash
-  cd maps
-  python sync_gdrive_maps.py --workers 6 --limit-gb 700 --refresh-github
-  ```
-  Each file is streamed through temporary storage to Google Drive, deleted immediately from the local PC after upload, recorded in `%LOCALAPPDATA%\BangladeshMouzaSync\sync_state.db`, and linked back into `maps/<Division>/<District>.json`, `maps/index.json`, `maps/mouza_maps_catalog.json`, and `maps/README.md`.
+- **Online Mouza Maps Portal:** [`free.mouzamap.tech`](https://free.mouzamap.tech/) (browse by Division → District → Upazila → Survey)
+- **Mouza Maps Index & Catalogs:** [`maps/README.md`](./maps/README.md) & [`maps/index.json`](./maps/index.json)
+- **Google Drive `land/` Folder (Khatians & Metadata JSONs):** [Open in Google Drive](https://drive.google.com/drive/folders/1hbpHQ-3DFp1AsSZr_ISKV4g59KeKGb5e)
 
 ---
 
 ## 🔧 Reliability & Maintenance
-- Retries transient upstream and Google Drive API errors with exponential backoff while keeping zero permanent binary map files on local disk.
 - Khatian collector (`collect_all_divisions.py`, `partition_khatians.py`) keeps all JSON/CSV datasets partitioned below GitHub's 100 MiB file limit (`khatians.json` = 89.04 MiB).
-- Run `python maps/sync_gdrive_maps.py --refresh-only` anytime to regenerate GitHub map catalogs and Drive links from local SQLite sync state.
+- Each Mouza map catalog under `maps/<Division>/<District>.json` contains direct `online_url` (`?a=view`) and `online_folder_url` links to `https://free.mouzamap.tech`.

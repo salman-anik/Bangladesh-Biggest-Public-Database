@@ -211,6 +211,37 @@ def ensure_drive_path(conn, gdrive_bin, division, parts):
         return curr_id
 
 
+def fetch_signed_link_for_file(drive_idx, folder_rel_parts, file_name):
+    """Query free.mouzamap.tech single-file API for an uncorrupted signed download link.
+
+    The worker's folder listing caches paginated results in memory and re-encrypts
+    cached file IDs on subsequent hits (causing HTTP 500/414). Posting directly to
+    the file path (without trailing slash) bypasses that cache mutation and returns
+    a valid 64-char encrypted ID and signed `/download.aspx` link.
+    """
+    parts = list(folder_rel_parts) + [file_name]
+    subpath = "/".join(urllib.parse.quote(p, safe="") for p in parts)
+    url = f"{BASE_INDEX_URL}/{drive_idx}:/{subpath}"
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(
+                url,
+                data=b"{}",
+                headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"},
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                res = json.loads(resp.read().decode("utf-8"))
+            if isinstance(res, dict) and res.get("link"):
+                return res["link"]
+            return None
+        except Exception:
+            if attempt == 3:
+                raise
+            time.sleep(1.5 * (attempt + 1))
+    return None
+
+
 def fetch_signed_links_for_folder(drive_idx, folder_rel_parts):
     """Query free.mouzamap.tech folder API to obtain fresh signed download links."""
     subpath = "/".join(urllib.parse.quote(p, safe="") for p in folder_rel_parts)
@@ -237,7 +268,9 @@ def fetch_signed_links_for_folder(drive_idx, folder_rel_parts):
                     raise
                 time.sleep(1.5 * (attempt + 1))
         for item in (res.get("data") or {}).get("files", []):
-            if item.get("link"):
+            # Multi-page worker cache re-encrypts IDs in-place (>64 chars -> 500/414);
+            # skip those so upload_single fetches a clean single-file link instead.
+            if item.get("link") and len(item.get("id") or "") <= 64:
                 links[item["name"]] = item["link"]
         nxt = res.get("nextPageToken")
         if not nxt:
@@ -270,7 +303,10 @@ def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
     if not pending_items:
         return len(items), 0
 
-    signed_links = fetch_signed_links_for_folder(drive_idx, folder_parts)
+    try:
+        signed_links = fetch_signed_links_for_folder(drive_idx, folder_parts)
+    except Exception:
+        signed_links = {}
     TMP_ROOT.mkdir(parents=True, exist_ok=True)
 
     def upload_single(entry):
@@ -278,6 +314,12 @@ def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
             return False, 0
         rel_key, fname, fsize = entry
         link = signed_links.get(fname)
+        if not link or len(link) > 260:
+            try:
+                link = fetch_signed_link_for_file(drive_idx, folder_parts, fname)
+            except Exception as exc:
+                print(f"[Skip] Link lookup failed for {rel_key}: {exc}", flush=True)
+                return False, 0
         if not link:
             return False, 0
         t_dir = TMP_ROOT / f"t_{threading.get_ident()}"
@@ -300,11 +342,10 @@ def sync_folder_group(conn, gdrive_bin, folder_group, workers=4):
                     last_dl_err = str(exc)
                     if tmp_path.exists():
                         tmp_path.unlink()
-                    if exc.code in (500, 502, 503):
-                        time.sleep(3 * (attempt + 1))
+                    if exc.code in (401, 403, 414, 500, 502, 503):
+                        time.sleep(2 * (attempt + 1))
                         try:
-                            fresh_links = fetch_signed_links_for_folder(drive_idx, folder_parts)
-                            new_link = fresh_links.get(fname)
+                            new_link = fetch_signed_link_for_file(drive_idx, folder_parts, fname)
                             if new_link:
                                 link = new_link
                                 dl_url = link if link.startswith("http") else (BASE_INDEX_URL + link)

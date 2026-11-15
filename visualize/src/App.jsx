@@ -15,6 +15,7 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   const [viewMode, setViewMode] = useState('explorer')
   const [categoryQuery, setCategoryQuery] = useState('')
+  const [catSort, setCatSort] = useState('files')
   const [expandedCat, setExpandedCat] = useState(null)
   const [selectedDiv, setSelectedDiv] = useState('')
   const [selectedDist, setSelectedDist] = useState('')
@@ -186,6 +187,16 @@ export default function App() {
             {/* External Mirror & Repo Links */}
             <div className="flex items-center gap-2">
               <a
+                href="https://salman-anik.github.io/Bangladesh-Biggest-eBook-Library/"
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs font-semibold rounded-xl border border-sky-300 bg-sky-50 hover:bg-sky-100 text-sky-800 dark:border-sky-800/60 dark:bg-sky-950/50 dark:hover:bg-sky-900/60 dark:text-sky-300 transition-all"
+              >
+                <FileText className="w-3.5 h-3.5" />
+                <span className="hidden sm:inline">eBook Library</span>
+                <ExternalLink className="w-3 h-3" />
+              </a>
+              <a
                 href={overview?.stats?.drive_root_url || 'https://drive.google.com/drive/folders/1ObOiGGQXl9B4bodcnDkx7g5yU_dc-Gol'}
                 target="_blank"
                 rel="noreferrer"
@@ -273,27 +284,39 @@ export default function App() {
                 </div>
                 <div className="flex flex-wrap gap-2 text-xs">
                   <a
-                    href={overview?.stats?.maps_drive_root_url || 'https://drive.google.com/drive/folders/1sPrrrWXaAsWByTms7Kwcnq230QkZFW4u'}
+                    href="https://free.mouzamap.tech"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl bg-amber-50 hover:bg-amber-100 text-amber-800 border border-amber-200 dark:bg-amber-950/40 dark:hover:bg-amber-900/50 dark:text-amber-300 dark:border-amber-800/50 font-bold"
                   >
-                    <HardDrive className="w-3.5 h-3.5" />
-                    2.33 TB Mouza Maps Drive Archive ({(overview?.stats?.total_mouza_maps || 226157).toLocaleString()} files)
+                    <Globe className="w-3.5 h-3.5" />
+                    2.33 TB Mouza Maps Portal ({(overview?.stats?.total_mouza_maps || 226157).toLocaleString()} files)
                     <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>
 
-              <div className="relative mt-4">
-                <Search className="w-4 h-4 absolute left-3.5 top-3 text-slate-400 dark:text-zinc-500" />
-                <input
-                  type="text"
-                  placeholder="Filter categories or topics (e.g. governance, agriculture, land, climate, medicine, quran)..."
-                  value={categoryQuery}
-                  onChange={(e) => setCategoryQuery(e.target.value)}
-                  className="w-full bg-slate-50 dark:bg-black border border-slate-300 dark:border-zinc-800 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-900 dark:text-white placeholder-slate-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-emerald-500"
-                />
+              <div className="flex flex-col sm:flex-row gap-2.5 mt-4">
+                <div className="relative flex-1">
+                  <Search className="w-4 h-4 absolute left-3.5 top-3 text-slate-400 dark:text-zinc-500" />
+                  <input
+                    type="text"
+                    placeholder="Filter categories or topics (e.g. governance, agriculture, land, climate, medicine, quran)..."
+                    value={categoryQuery}
+                    onChange={(e) => setCategoryQuery(e.target.value)}
+                    className="w-full bg-slate-50 dark:bg-black border border-slate-300 dark:border-zinc-800 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-900 dark:text-white placeholder-slate-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-emerald-500"
+                  />
+                </div>
+                <select
+                  value={catSort}
+                  onChange={(e) => setCatSort(e.target.value)}
+                  aria-label="Sort categories"
+                  className="bg-slate-50 dark:bg-black border border-slate-300 dark:border-zinc-800 rounded-xl px-3 py-2.5 text-xs font-semibold text-slate-700 dark:text-zinc-200 focus:outline-none focus:ring-2 focus:ring-emerald-500"
+                >
+                  <option value="files">Sort: Most Files</option>
+                  <option value="size">Sort: Largest Size</option>
+                  <option value="name">Sort: Name (A–Z)</option>
+                </select>
               </div>
             </div>
 
@@ -308,6 +331,12 @@ export default function App() {
                     cat.description.toLowerCase().includes(q) ||
                     (cat.subfolders || []).some((s) => s.name.toLowerCase().includes(q))
                   )
+                })
+                .slice()
+                .sort((a, b) => {
+                  if (catSort === 'name') return a.title.localeCompare(b.title)
+                  if (catSort === 'size') return (b.total_size_mb || 0) - (a.total_size_mb || 0)
+                  return (b.total_files || 0) - (a.total_files || 0)
                 })
                 .map((cat) => {
                   const isExpanded = expandedCat === cat.name

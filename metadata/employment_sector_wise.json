@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Historical Sector-wise Employment Distribution (2010-2023)",
+  "country": "Bangladesh",
+  "category": "Employment",
+  "subcategory": "Economic Structure",
+  "description": "Percentage distribution and aggregate worker headcounts across Agriculture, Industry, and Services sectors over major LFS survey rounds.",
+  "source": "Bangladesh Bureau of Statistics (BBS)",
+  "source_url": "https://bbs.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 6,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

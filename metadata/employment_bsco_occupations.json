@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Bangladesh Standard Classification of Occupations (BSCO)",
+  "country": "Bangladesh",
+  "category": "Employment",
+  "subcategory": "Occupational Classification",
+  "description": "10 major occupational groups based on BSCO-12 with corresponding ISCO skill level mappings, employment counts, and common role titles.",
+  "source": "Bangladesh Bureau of Statistics (BBS) & ILO",
+  "source_url": "https://bbs.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 10,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

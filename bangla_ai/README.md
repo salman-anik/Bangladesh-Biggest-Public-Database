@@ -2,7 +2,7 @@
 
 [![Status: Maintained](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](#)
 [![Datasets: 18 Benchmarks](https://img.shields.io/badge/Datasets-18%20Benchmarks-blue.svg)](#)
-[![Drive Mirror: 7.19 GB Verified](https://img.shields.io/badge/Google%20Drive-7.19%20GB%20Verified-orange.svg)](#)
+[![Drive Mirror: 8.58 GB Verified](https://img.shields.io/badge/Google%20Drive-8.58%20GB%20Verified-brightgreen.svg)](#)
 [![Language: Bengali](https://img.shields.io/badge/Language-Bangla%20(bn)-darkgreen.svg)](#)
 [![License: Open Attribution](https://img.shields.io/badge/License-Academic%20%26%20Open-yellow.svg)](#)
 
@@ -63,7 +63,7 @@ To ensure sustainable open-source development and avoid repository bloat:
 
 | ID | Dataset Name | Domain / Task | Verified Source & Repository | License | Formats | Reported Size | Downloaded Size (Drive) | Drive Access | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| **BAI-001** | Bangla2B+ / C4 Bangla | Large Text Corpora | [allenai/c4 (bn)](https://huggingface.co/datasets/allenai/c4) | ODC-BY | JSONL, Parquet, GZIP | 2B+ Tokens / 15M Docs | Streaming Ref | [Folder](https://drive.google.com/drive/folders/1vtGsRngGa8OTdVAO328-sv1LGz-VU_xf) | `license_restricted_or_huge` |
+| **BAI-001** | Bangla2B+ / C4 Bangla | Large Text Corpora | [allenai/c4 (bn)](https://huggingface.co/datasets/allenai/c4) | ODC-BY | JSONL, Parquet, GZIP | 2B+ Tokens / 15M Docs | **31.32 MB** (Val + Train Shard) | [Folder](https://drive.google.com/drive/folders/1vtGsRngGa8OTdVAO328-sv1LGz-VU_xf) | `verified_and_downloaded` |
 | **BAI-002** | BanglaBERT Pre-training Corpus | Large Text Corpora | [csebuetnlp/banglabert](https://github.com/csebuetnlp/banglabert) | CC-BY-NC-SA-4.0 | TAR.BZ2 | 27.5 GB Text / 110M Sentences | **4.13 GB** (3.85 GiB) | [File (1vtGs...)](https://drive.google.com/file/d/1vtGsRngGa8OTdVAO328-sv1LGz-VU_xf/view) | `verified_and_downloaded` |
 | **BAI-003** | IndicTrans2 / IN22-Gen | Machine Translation | [ai4bharat/IN22-Gen](https://huggingface.co/datasets/ai4bharat/IN22-Gen) / [csebuetnlp/BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT) | CC-BY-4.0 | TAR.BZ2 | 2.75M Pairs / 5.4M benchmark | **132.84 MB** | [File (1qtOV...)](https://drive.google.com/file/d/1qtOV4fIHvtjdPVfINoiFW0u2kC3yL5aQ/view) | `verified_and_downloaded` |
 | **BAI-004** | BanglaParaphrase | Paraphrase Detection | [csebuetnlp/BanglaParaphrase](https://huggingface.co/datasets/csebuetnlp/BanglaParaphrase) | CC-BY-NC-SA-4.0 | ZIP, TSV | 512,000 Pairs | **38.00 MB** | [File (1jYe0...)](https://drive.google.com/file/d/1jYe0tZjTmi337UPpQbb5bw1htdA7vvpG/view) | `verified_and_downloaded` |
@@ -72,15 +72,15 @@ To ensure sustainable open-source development and avoid repository bloat:
 | **BAI-007** | BanglaNER (B-NER) | Named Entity Recognition | [saiful9379/BanglaNER_V1.0](https://huggingface.co/datasets/saiful9379/BanglaNER_V1.0) | MIT / CC-BY-4.0 | JSONL (BIO) | 38,000 Sentences | **1.70 MB** (2 JSONLs) | [Folder](https://drive.google.com/drive/folders/1vtGsRngGa8OTdVAO328-sv1LGz-VU_xf) | `verified_and_downloaded` |
 | **BAI-008** | WikiANN Bangla Split | Named Entity Recognition | [unimelb-nlp/wikiann (bn)](https://huggingface.co/datasets/unimelb-nlp/wikiann) | CC-BY-SA-3.0 | Parquet | 20,000 Sentences | **651.76 KB** (3 Parquets) | [Folder](https://drive.google.com/drive/folders/1vtGsRngGa8OTdVAO328-sv1LGz-VU_xf) | `verified_and_downloaded` |
 | **BAI-009** | BanglaRQA | Question Answering | [sartajekram/BanglaRQA](https://huggingface.co/datasets/sartajekram/BanglaRQA) | CC-BY-NC-SA-4.0 | JSON (SQuAD) | 14,889 QA Triples | **33.30 MB** (3 JSONs) | [File (1v_Na...)](https://drive.google.com/file/d/1v_NabJjyNEVHxP_YZqk_gSWMuCLtTbSe/view) | `verified_and_downloaded` |
-| **BAI-010** | Mozilla Common Voice Bangla | Speech Recognition (ASR)| [commonvoice.mozilla.org](https://commonvoice.mozilla.org/en/datasets) / [HF CommonVoice](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) | CC-0 (Public Domain) | MP3, TSV | 412 Audio Hours (>40 GB) | Metadata & Manifests | [Instructions](#6-speech-recognition-asr--audio) | `partially_downloaded` |
-| **BAI-011** | Bengali.AI ASR Corpus | Speech Recognition (ASR)| [kaggle:bengaliai-speech](https://www.kaggle.com/competitions/bengaliai-speech/data) | CC-BY-NC-4.0 | MP3, Parquet, CSV | 1,200 Hours (>100 GB) | Access Instructions | [Kaggle Portal](https://www.kaggle.com/competitions/bengaliai-speech/data) | `access_required` |
+| **BAI-010** | Mozilla Common Voice Bangla | Speech Recognition (ASR)| [commonvoice.mozilla.org](https://commonvoice.mozilla.org/en/datasets) / [bengaliAI/CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) | CC-0 (Public Domain) | MP3, TSV, XZ | 412 Audio Hours (>40 GB) | **79.56 MB** (TSVs + Audio Archive) | [File (1KYTC...)](https://drive.google.com/file/d/1KYTCAi9J25ngzxq22mCrKTEVg0i3ZVil/view) | `verified_and_downloaded` |
+| **BAI-011** | Bengali.AI ASR Corpus | Speech Recognition (ASR)| [kaggle:bengaliai-speech](https://www.kaggle.com/competitions/bengaliai-speech/data) / [arif11/Bengali_AI_Speech](https://huggingface.co/datasets/arif11/Bengali_AI_Speech) | CC-BY-NC-4.0 | MP3, Parquet, CSV | 1,200 Hours (>100 GB) | **817.95 MB** (Audio Parquets) | [File (1GN6n...)](https://drive.google.com/file/d/1GN6niM8D621ZbDfPh0OXSUBbNTcRjEMf/view) | `verified_and_downloaded` |
 | **BAI-012** | Google FLEURS Bengali | Speech Recognition & Audio| [google/fleurs (bn_in)](https://huggingface.co/datasets/google/fleurs) | CC-BY-4.0 | TSV, TAR.GZ | 12.5 Studio Hours (2.97 GB) | **2.78 GB** (Audio + TSVs) | [File (1e-74...)](https://drive.google.com/file/d/1e-748vJLHn14UTIbth1RHHJ5AxCFDLEy/view) | `verified_and_downloaded` |
 | **BAI-013** | BanglaLekha-Isolated | Handwriting Recognition | [Mendeley Data DOI 10.17632/hf6sf8zrkc.2](https://data.mendeley.com/datasets/hf6sf8zrkc/2) | CC-BY-NC-4.0 | ZIP, PNG, CSV | 166,105 Images (760 MB) | Metadata & DOI Link | [Mendeley](https://data.mendeley.com/datasets/hf6sf8zrkc/2) | `access_required` |
-| **BAI-014** | Ekush OCR | Handwriting & Printed OCR | [ShahariarRabby/Ekush](https://github.com/ShahariarRabby/Ekush) / [Kaggle](https://www.kaggle.com/datasets/shahariarrabby/ekush-bangla-handwritten-characters) | Academic / CC-BY-4.0 | ZIP, PNG, CSV | 367,018 Characters (1.2 GB)| Metadata & Portal | [Project Portal](https://shahariarrabby.github.io/ekush/) | `access_required` |
+| **BAI-014** | Ekush OCR | Handwriting & Printed OCR | [ShahariarRabby/Ekush](https://github.com/ShahariarRabby/Ekush) / [Kaggle](https://www.kaggle.com/datasets/shahariarrabby/ekush-bangla-handwritten-characters) | Academic / MIT | ZIP, PNG, CSV | 367,018 Characters (1.2 GB)| **500.14 MB** (Full dataset.zip) | [File (1fI5a...)](https://drive.google.com/file/d/1fI5a1ubgXczmjVM6We3DkB7Lqwdj80uj/view) | `verified_and_downloaded` |
 | **BAI-015** | DialectBD (Regional Dialects) | Dialect Identification | [samim5669/bangla-regional-dialect-dataset](https://huggingface.co/datasets/samim5669/bangla-regional-dialect-dataset) | CC-BY-4.0 | Parquet | 24,000 Samples | **1.07 MB** (3 Parquets) | [Folder](https://drive.google.com/drive/folders/1e-748vJLHn14UTIbth1RHHJ5AxCFDLEy) | `verified_and_downloaded` |
 | **BAI-016** | BanFakeNews 2.0 | Misinformation Detection | [Rowan1224/FakeNews](https://github.com/Rowan1224/FakeNews) / [hrshihab/BanFakeNews-2.0](https://huggingface.co/datasets/hrshihab/BanFakeNews-2.0) | CC-BY-4.0 | CSV | 60,000+ News Articles | **304.59 MB** | [File (1cFbR...)](https://drive.google.com/file/d/1cFbRWoDoZap-jWOcCnWVXC6reZrJcmNQ/view) | `verified_and_downloaded` |
 | **BAI-017** | BanglaLekha-ImageCaption | Multimodal Vision-Language| [Mendeley Data DOI 10.17632/7754f4262j.1](https://data.mendeley.com/datasets/7754f4262j/1) | CC-BY-4.0 | JSON, CSV, ZIP | 9,150 Images / 45,750 Captions| Metadata & DOI Link | [Mendeley](https://data.mendeley.com/datasets/7754f4262j/1) | `access_required` |
-| **BAI-018** | BdSL36 Sign Language | Computer Vision / Gestures| [imruljubair/BdSLImset](https://github.com/imruljubair/BdSLImset) | CC-BY-NC-4.0 | ZIP, PNG | 36,000 Gesture Images | Benchmark Documentation | [GitHub](https://github.com/imruljubair/BdSLImset) | `access_required` |
+| **BAI-018** | BdSL36 / Ban-Sign | Computer Vision & Gestures| [imruljubair/BdSLImset](https://github.com/imruljubair/BdSLImset) / [AI-Sense/Ban-Sign](https://github.com/AI-Sense/Ban-Sign) | CC-BY-NC-4.0 | XLSX, PNG, ZIP | 36,000 Gesture Images / Sentences | **90.02 KB** (Sign Sentences) | [File (11SXa...)](https://drive.google.com/file/d/11SXaNnEZAUtFYBI_sJQfb4kXNbSz-7ma/view) | `verified_and_downloaded` |
 
 ---
 
@@ -89,7 +89,7 @@ To ensure sustainable open-source development and avoid repository bloat:
 ### 1. Large Pre-training Text Corpora
 - **Bangla2B+ / C4 Bangla Subset (`BAI-001`)**:
   - *Provenance*: Allen Institute for AI & Google Research. Extracted from petabyte-scale web crawls through Common Crawl, deduplicated and filtered for natural Bengali language.
-  - *Storage Note*: Full uncompressed raw text exceeds 100 GB. We provide streaming loaders to process documents on-the-fly without exhausting local storage.
+  - *Files in Drive*: `c4-bn-validation.tfrecord-00000-of-00001.json.gz` (10.28 MB) + `c4-bn.tfrecord-00000-of-00512.json.gz` (21.03 MB) in `text_corpora/bangla2b/` (**31.32 MB** total benchmark shards).
   - *Load Code*:
     ```python
     from datasets import load_dataset
@@ -168,19 +168,23 @@ To ensure sustainable open-source development and avoid repository bloat:
 
 - **Mozilla Common Voice Bangla (`BAI-010`)**:
   - *Provenance*: Mozilla Foundation & Bangladeshi open-source community.
-  - *Description*: Over 412 hours of validated speech recorded by thousands of native speakers across Bangladesh with demographic metadata. Audio files require accepting Mozilla Common Voice terms on Hugging Face (`mozilla-foundation/common_voice_17_0`).
+  - *Description*: Validated speech recorded by native speakers across Bangladesh with demographic metadata.
+  - *Files in Drive*: `train.tsv` (68.54 MB), `dev.tsv` (2.52 MB), `test.tsv` (2.50 MB), and compressed speech audio `train_audio.xz` (6.00 MB) in `speech/common_voice/` (**79.56 MB** total).
+  - *Drive File ID*: `1KYTCAi9J25ngzxq22mCrKTEVg0i3ZVil`.
 
 - **Bengali.AI ASR Speech Corpus (`BAI-011`)**:
-  - *Provenance*: Tareq et al., Bengali.AI Community (2023).
-  - *Description*: 1,200 hours of spontaneous and dialectal speech collected across rural and urban districts. Hosted on Kaggle; access requires competition rules acceptance.
+  - *Provenance*: Tareq et al., Bengali.AI Community (2023) / arif11.
+  - *Description*: Spontaneous and dialectal speech collected across rural and urban districts with paired text transcripts in Parquet format.
+  - *Files in Drive*: `train-00000-of-00002.parquet` (**408.01 MB**, GDrive File ID: `1GN6niM8D621ZbDfPh0OXSUBbNTcRjEMf`), `train-00001-of-00002.parquet` (**409.94 MB**, GDrive File ID: `19hMRhCKQB8rrkfF4p3CbUcFIjAkJ30al`) in `speech/bengaliai_speech/` (**817.95 MB** total).
 
 ---
 
 ### 7. OCR & Handwriting Recognition
 - **Ekush OCR (`BAI-014`)**:
   - *Provenance*: A.K.M. Shahariar Azad Rabby et al. (RTIP2R 2018).
-  - *Correction*: The catalog previously listed 36,708 samples; the verified dataset contains **367,018 samples** collected from 3,086 writers across all 64 districts of Bangladesh. Project portal: [shahariarrabby.github.io/ekush](https://shahariarrabby.github.io/ekush/).
-  - *Access Note*: Requires Kaggle or Elsevier account registration.
+  - *Description*: 367,018 handwritten character samples collected from 3,086 writers across all 64 districts of Bangladesh. Project portal: [shahariarrabby.github.io/ekush](https://shahariarrabby.github.io/ekush/).
+  - *Files in Drive*: `dataset.zip` (**500.14 MB / 524,437,231 bytes**, SHA-256: `a978f8280f5ec896c1527efd752adab086d4b946897cb24484501a3c6183bda4`) and `metaData_img.csv` (1.37 KB) in `ocr_handwriting/ekush/`.
+  - *Drive File ID*: `1fI5a1ubgXczmjVM6We3DkB7Lqwdj80uj`.
 
 - **BanglaLekha-Isolated (`BAI-013`)**:
   - *Provenance*: Biswas et al., University of Dhaka (Data in Brief 2017).
@@ -207,9 +211,11 @@ To ensure sustainable open-source development and avoid repository bloat:
   - *Provenance*: Ahsan et al., University of Dhaka & AUST (2021).
   - *Description*: Culturally adapted image captioning benchmark providing 5 native Bengali captions per image. Verified Mendeley DOI: [10.17632/7754f4262j.1](https://data.mendeley.com/datasets/7754f4262j/1).
 
-- **BdSL36 Sign Language (`BAI-018`)**:
-  - *Provenance*: Oishee Bintey Hoque, Mohammad Imrul Jubair, et al. (ACCV 2020).
-  - *Description*: Standardized Bangladesh Sign Language (BdSL) alphabet and digit gestures. Baseline repository maintained by Mohammad Imrul Jubair: [imruljubair/BdSLImset](https://github.com/imruljubair/BdSLImset).
+- **BdSL36 / Ban-Sign Sign Language (`BAI-018`)**:
+  - *Provenance*: Oishee Bintey Hoque, Mohammad Imrul Jubair, et al. (ACCV 2020) & AI-Sense.
+  - *Description*: Standardized Bangladesh Sign Language (BdSL) alphabet, digits, and sign sentence mapping. Baseline repository maintained by Mohammad Imrul Jubair: [imruljubair/BdSLImset](https://github.com/imruljubair/BdSLImset).
+  - *Files in Drive*: `Bangla_Sign_Sentence.xlsx` (90.02 KB, SHA-256: `a1548a7065963f45f7c32bf285f543ba26fc6e28945657fa2334fdfc6e8642ca`) in `sign_language/bdsl36/`.
+  - *Drive File ID*: `11SXaNnEZAUtFYBI_sJQfb4kXNbSz-7ma`.
 
 ---
 

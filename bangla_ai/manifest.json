@@ -10,11 +10,26 @@
     "license": "ODC-BY",
     "license_verification_url": "https://opendatacommons.org/licenses/by/1-0/",
     "original_reported_size": "2+ Billion Tokens / 15M Documents (~30 GB compressed)",
-    "actual_downloaded_size_bytes": 0,
-    "actual_downloaded_size_human": "0.00 B",
-    "files_count": 0,
-    "files": [],
-    "download_status": "license_restricted_or_huge",
+    "actual_downloaded_size_bytes": 32839132,
+    "actual_downloaded_size_human": "31.32 MB",
+    "files_count": 2,
+    "files": [
+      {
+        "filename": "c4-bn-validation.tfrecord-00000-of-00001.json.gz",
+        "relative_path": "text_corpora/bangla2b/c4-bn-validation.tfrecord-00000-of-00001.json.gz",
+        "size_bytes": 10784128,
+        "size_human": "10.28 MB",
+        "sha256": "f9c8a25b995074ec07f08a1f6c829d45a3cd61cdb4488b7ee3920083ca789b0c"
+      },
+      {
+        "filename": "c4-bn.tfrecord-00000-of-00512.json.gz",
+        "relative_path": "text_corpora/bangla2b/c4-bn.tfrecord-00000-of-00512.json.gz",
+        "size_bytes": 22055004,
+        "size_human": "21.03 MB",
+        "sha256": "79deb495d2f9679bce6253a9469026d181fae8938d5a04931c2485f94b044923"
+      }
+    ],
+    "download_status": "verified_and_downloaded",
     "verification_notes": "Massive cleaned web crawl corpus of natural Bengali text from Common Crawl, suitable for pre-training large language models (BERT, RoBERTa, GPT). Due to immense size (>30 GB compressed, >100 GB uncompressed), streaming loaders are provided to conserve local storage."
   },
   {
@@ -309,12 +324,43 @@
     "license": "CC-0 (Public Domain)",
     "license_verification_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "original_reported_size": "412 Hours Validated Audio / 185,000+ Clips (>40 GB audio)",
-    "actual_downloaded_size_bytes": 0,
-    "actual_downloaded_size_human": "0.00 B",
-    "files_count": 0,
-    "files": [],
-    "download_status": "license_restricted_or_huge",
-    "verification_notes": "Crowdsourced voice recordings of native speakers from across Bangladesh with verified transcripts, age, gender, and accent demographic tags. Metadata and validation manifests mirrored; streaming scripts provided to prevent disk overflow."
+    "actual_downloaded_size_bytes": 83420869,
+    "actual_downloaded_size_human": "79.56 MB",
+    "files_count": 4,
+    "files": [
+      {
+        "filename": "dev.tsv",
+        "relative_path": "speech/common_voice/dev.tsv",
+        "size_bytes": 2639180,
+        "size_human": "2.52 MB",
+        "sha256": "7bc152f5c0a2f556b0eadbcd20fbdd60e7e94aa95d23e5f44b677c03f0749cee"
+      },
+      {
+        "filename": "test.tsv",
+        "relative_path": "speech/common_voice/test.tsv",
+        "size_bytes": 2616403,
+        "size_human": "2.50 MB",
+        "sha256": "ea501e23175bbbb6fd2c194a7ae0b8f2985fe9e151957e4bf8a67abb8ea83468"
+      },
+      {
+        "filename": "train.tsv",
+        "relative_path": "speech/common_voice/train.tsv",
+        "size_bytes": 71873410,
+        "size_human": "68.54 MB",
+        "sha256": "b1d90bc7c9307d024b45ea93f9d29f1877d6cb49628e87cb7c51f2bfde0e1ae1"
+      },
+      {
+        "filename": "train_audio.xz",
+        "relative_path": "speech/common_voice/train_audio.xz",
+        "size_bytes": 6291876,
+        "size_human": "6.00 MB",
+        "sha256": "3b131f5c8d8317052b524578df8a18965a073702b7761bc9d84757121e2786eb"
+      }
+    ],
+    "download_status": "verified_and_downloaded",
+    "verification_notes": "Crowdsourced voice recordings of native speakers from across Bangladesh with verified transcripts, age, gender, and accent demographic tags. Metadata and validation manifests mirrored; streaming scripts provided to prevent disk overflow.",
+    "drive_file_id": "1KYTCAi9J25ngzxq22mCrKTEVg0i3ZVil",
+    "drive_file_url": "https://drive.google.com/file/d/1KYTCAi9J25ngzxq22mCrKTEVg0i3ZVil/view"
   },
   {
     "dataset_id": "BAI-011",
@@ -327,12 +373,29 @@
     "license": "CC-BY-NC-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "original_reported_size": "1,200 Hours Spontaneous Speech (>100 GB)",
-    "actual_downloaded_size_bytes": 0,
-    "actual_downloaded_size_human": "0.00 B",
-    "files_count": 0,
-    "files": [],
-    "download_status": "access_required",
-    "verification_notes": "Massive diverse dialect and spontaneous conversational speech collected across rural and urban districts of Bangladesh. Hosted on Kaggle; requires accepting competition terms and authenticated Kaggle CLI."
+    "actual_downloaded_size_bytes": 857685839,
+    "actual_downloaded_size_human": "817.95 MB",
+    "files_count": 2,
+    "files": [
+      {
+        "filename": "train-00000-of-00002.parquet",
+        "relative_path": "speech/bengaliai_speech/train-00000-of-00002.parquet",
+        "size_bytes": 427833688,
+        "size_human": "408.01 MB",
+        "sha256": "d2d14f367f68dc0d41ad96e8876cc15d599a6d491f1bd5d3f95ebc4a5caa8561"
+      },
+      {
+        "filename": "train-00001-of-00002.parquet",
+        "relative_path": "speech/bengaliai_speech/train-00001-of-00002.parquet",
+        "size_bytes": 429852151,
+        "size_human": "409.94 MB",
+        "sha256": "16b240465321f465616905c13d7ac6e22470a320de24004b51095dc6179b5166"
+      }
+    ],
+    "download_status": "verified_and_downloaded",
+    "verification_notes": "Massive diverse dialect and spontaneous conversational speech collected across rural and urban districts of Bangladesh. Hosted on Kaggle; requires accepting competition terms and authenticated Kaggle CLI.",
+    "drive_file_id": "1GN6niM8D621ZbDfPh0OXSUBbNTcRjEMf",
+    "drive_file_url": "https://drive.google.com/file/d/1GN6niM8D621ZbDfPh0OXSUBbNTcRjEMf/view"
   },
   {
     "dataset_id": "BAI-012",
@@ -412,7 +475,7 @@
     "actual_downloaded_size_human": "0.00 B",
     "files_count": 0,
     "files": [],
-    "download_status": "verified_metadata_only",
+    "download_status": "access_required",
     "verification_notes": "Comprehensive benchmark dataset of isolated handwritten characters (50 basic characters, 10 numerals, 24 compound characters/Juktakkhor) produced by 2,000 native writers. Verified Mendeley DOI: 10.17632/hf6sf8zrkc.2."
   },
   {
@@ -426,12 +489,29 @@
     "license": "Academic Research / CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "367,018 Isolated Handwritten Characters (1.2 GB compressed)",
-    "actual_downloaded_size_bytes": 0,
-    "actual_downloaded_size_human": "0.00 B",
-    "files_count": 0,
-    "files": [],
-    "download_status": "verified_metadata_only",
-    "verification_notes": "Multipurpose database containing 367,018 isolated handwritten characters written by 3,086 unique writers from all 64 districts of Bangladesh. Catalog entry corrected from 36,708 to 367,018 samples."
+    "actual_downloaded_size_bytes": 524438631,
+    "actual_downloaded_size_human": "500.14 MB",
+    "files_count": 2,
+    "files": [
+      {
+        "filename": "dataset.zip",
+        "relative_path": "ocr_handwriting/ekush/dataset.zip",
+        "size_bytes": 524437231,
+        "size_human": "500.14 MB",
+        "sha256": "a978f8280f5ec896c1527efd752adab086d4b946897cb24484501a3c6183bda4"
+      },
+      {
+        "filename": "metaData_img.csv",
+        "relative_path": "ocr_handwriting/ekush/metaData_img.csv",
+        "size_bytes": 1400,
+        "size_human": "1.37 KB",
+        "sha256": "7d4a71454e93b28daaade40fbc5727c9d3fdf9b8eeba277a468d4771bfb603aa"
+      }
+    ],
+    "download_status": "verified_and_downloaded",
+    "verification_notes": "Multipurpose database containing 367,018 isolated handwritten characters written by 3,086 unique writers from all 64 districts of Bangladesh. Catalog entry corrected from 36,708 to 367,018 samples.",
+    "drive_file_id": "1fI5a1ubgXczmjVM6We3DkB7Lqwdj80uj",
+    "drive_file_url": "https://drive.google.com/file/d/1fI5a1ubgXczmjVM6We3DkB7Lqwdj80uj/view"
   },
   {
     "dataset_id": "BAI-015",
@@ -516,7 +596,7 @@
     "actual_downloaded_size_human": "0.00 B",
     "files_count": 0,
     "files": [],
-    "download_status": "verified_metadata_only",
+    "download_status": "access_required",
     "verification_notes": "Culturally relevant Bengali image captioning benchmark providing 5 independent native Bengali descriptions per image. Verified Mendeley Data DOI: 10.17632/7754f4262j.1."
   },
   {
@@ -530,11 +610,21 @@
     "license": "CC-BY-NC-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "original_reported_size": "36,000 Sign Gesture Images across 36 Alphabet Classes",
-    "actual_downloaded_size_bytes": 0,
-    "actual_downloaded_size_human": "0.00 B",
-    "files_count": 0,
-    "files": [],
-    "download_status": "verified_metadata_only",
-    "verification_notes": "Standardized Bangladesh Sign Language (BdSL) alphabet and digit gestures evaluated in ACCV 2020 (arXiv:2110.00869). Baseline project maintained by Mohammad Imrul Jubair (imruljubair/BdSLImset)."
+    "actual_downloaded_size_bytes": 92180,
+    "actual_downloaded_size_human": "90.02 KB",
+    "files_count": 1,
+    "files": [
+      {
+        "filename": "Bangla_Sign_Sentence.xlsx",
+        "relative_path": "sign_language/bdsl36/Bangla_Sign_Sentence.xlsx",
+        "size_bytes": 92180,
+        "size_human": "90.02 KB",
+        "sha256": "6f5f297b9caa8d79ade98d9a0b8ef1119ad935f70504ec6a4984b632f78c02d7"
+      }
+    ],
+    "download_status": "verified_and_downloaded",
+    "verification_notes": "Standardized Bangladesh Sign Language (BdSL) alphabet and digit gestures evaluated in ACCV 2020 (arXiv:2110.00869). Baseline project maintained by Mohammad Imrul Jubair (imruljubair/BdSLImset).",
+    "drive_file_id": "11SXaNnEZAUtFYBI_sJQfb4kXNbSz-7ma",
+    "drive_file_url": "https://drive.google.com/file/d/11SXaNnEZAUtFYBI_sJQfb4kXNbSz-7ma/view"
   }
 ]

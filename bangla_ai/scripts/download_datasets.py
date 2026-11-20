@@ -19,14 +19,26 @@ DEFAULT_DRIVE_BASE = r"G:\My Drive\Bangladesh-Biggest-Public-Database\bangla_ai"
 
 DATASET_DOWNLOADS = [
     {
+        "id": "BAI-002",
+        "name": "banglabert_bangla2b",
+        "category_folder": "text_corpora/banglabert",
+        "files": [
+            {
+                "filename": "Bangla2B+.tar.bz2",
+                "url": "https://drive.usercontent.google.com/download?id=1ORPugFNIBo8JfmS92zIOPe06XuWn4t_d&export=download&confirm=t",
+                "expected_size": 4136057125
+            }
+        ]
+    },
+    {
         "id": "BAI-003",
-        "name": "indictrans2",
+        "name": "indictrans2_banglanmt",
         "category_folder": "translation/indictrans2",
         "files": [
             {
-                "filename": "IN22_benchmark.tar.gz",
-                "url": "https://huggingface.co/datasets/ai4bharat/IN22-Gen/resolve/main/IN22_benchmark.tar.gz",
-                "expected_size": 3355008
+                "filename": "BanglaNMT.tar.bz2",
+                "url": "https://huggingface.co/datasets/csebuetnlp/BanglaNMT/resolve/main/data/BanglaNMT.tar.bz2",
+                "expected_size": 132839014
             }
         ]
     },
@@ -166,6 +178,16 @@ DATASET_DOWNLOADS = [
                 "filename": "train.tsv",
                 "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/train.tsv",
                 "expected_size": 3481282
+            },
+            {
+                "filename": "dev.tar.gz",
+                "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/audio/dev.tar.gz",
+                "expected_size": 278667778
+            },
+            {
+                "filename": "test.tar.gz",
+                "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/audio/test.tar.gz",
+                "expected_size": 659700249
             }
         ]
     },
@@ -190,6 +212,18 @@ DATASET_DOWNLOADS = [
                 "expected_size": 119492
             }
         ]
+    },
+    {
+        "id": "BAI-016",
+        "name": "banfakenews",
+        "category_folder": "fake_news/banfakenews",
+        "files": [
+            {
+                "filename": "All60Kdataset.csv",
+                "url": "https://huggingface.co/datasets/hrshihab/BanFakeNews-2.0/resolve/main/All60Kdataset.csv",
+                "expected_size": 304586219
+            }
+        ]
     }
 ]
 
@@ -209,7 +243,6 @@ def stream_download(url, dest_path, expected_size=None, resume=True):
         actual_size = os.path.getsize(dest_path)
         if expected_size and actual_size == expected_size:
             print(f"  [SKIPPED] {os.path.basename(dest_path)} already exists ({format_bytes(actual_size)})")
-            # Calculate SHA256 of existing file
             sha256 = hashlib.sha256()
             with open(dest_path, "rb") as f:
                 while chunk := f.read(131072):
@@ -230,14 +263,13 @@ def stream_download(url, dest_path, expected_size=None, resume=True):
     req = urllib.request.Request(url, headers=headers)
     sha256 = hashlib.sha256()
     
-    # If resuming, pre-hash existing part
     if mode == "ab" and existing_bytes > 0:
         with open(temp_path, "rb") as f:
             while chunk := f.read(131072):
                 sha256.update(chunk)
 
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp, open(temp_path, mode) as out_f:
+        with urllib.request.urlopen(req, timeout=60) as resp, open(temp_path, mode) as out_f:
             total_size = resp.headers.get("content-length")
             if total_size is not None:
                 total_size = int(total_size) + existing_bytes
@@ -247,7 +279,7 @@ def stream_download(url, dest_path, expected_size=None, resume=True):
             last_print = start_time
 
             while True:
-                chunk = resp.read(131072) # 128 KB buffer
+                chunk = resp.read(262144) # 256 KB buffer for high-throughput streaming
                 if not chunk:
                     break
                 out_f.write(chunk)
@@ -255,7 +287,7 @@ def stream_download(url, dest_path, expected_size=None, resume=True):
                 downloaded += len(chunk)
 
                 current_time = time.time()
-                if current_time - last_print >= 2.0:
+                if current_time - last_print >= 3.0:
                     pct = f"{(downloaded / total_size) * 100:5.1f}%" if total_size else "N/A"
                     speed = downloaded / (current_time - start_time) if current_time > start_time else 0
                     print(f"    Progress: {pct} ({format_bytes(downloaded)}) @ {format_bytes(speed)}/s", end="\r")
@@ -263,14 +295,13 @@ def stream_download(url, dest_path, expected_size=None, resume=True):
 
             print(f"    Progress: 100.0% ({format_bytes(downloaded)})               ")
 
-        # Atomic rename after complete download
         if os.path.exists(dest_path):
             os.remove(dest_path)
         os.rename(temp_path, dest_path)
         return downloaded, sha256.hexdigest(), "downloaded"
 
     except urllib.error.HTTPError as e:
-        if e.code == 416: # Range not satisfiable (already finished)
+        if e.code == 416:
             if os.path.exists(temp_path):
                 os.rename(temp_path, dest_path)
                 return os.path.getsize(dest_path), "", "downloaded"
@@ -349,14 +380,12 @@ def main():
             "total_human": format_bytes(total_ds_bytes)
         })
 
-    # Summary
     print("\n" + "=" * 70)
     print("DOWNLOAD SUMMARY")
     print("=" * 70)
     for r in results:
         print(f"[{r['dataset_id']:8}] {r['dataset_name']:25} | {r['status']:25} | {r['total_human']:>10}")
 
-    # Write checksums and report
     report_csv = os.path.join(drive_base, "download_report.csv")
     with open(report_csv, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["dataset_id", "dataset_name", "category_folder", "status", "total_bytes", "total_human"])

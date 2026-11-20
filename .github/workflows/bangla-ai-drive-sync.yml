@@ -1,0 +1,56 @@
+name: High-Speed Bangla AI Cloud Sync to Google Drive
+
+on:
+  workflow_dispatch:
+    inputs:
+      dataset:
+        description: 'Dataset ID to download (or "all")'
+        required: false
+        default: 'all'
+
+concurrency:
+  group: bangla-ai-drive-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  cloud-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Cloud Gigabit Sync
+        env:
+          GDRIVE_OAUTH_JSON: ${{ secrets.GDRIVE_OAUTH_JSON }}
+        run: |
+          python bangla_ai/scripts/cloud_sync_bangla_ai.py
+
+      - name: Sync Updated Manifests & Checksums
+        run: |
+          python bangla_ai/scripts/sync_drive_manifest.py --drive-path ""
+
+      - name: Commit & Push Manifest Updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bangla_ai/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(bangla_ai): update dataset manifest & cloud sync report [skip ci]"
+            git push origin main
+          fi

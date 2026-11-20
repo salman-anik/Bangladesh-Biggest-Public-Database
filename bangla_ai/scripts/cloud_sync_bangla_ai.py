@@ -14,6 +14,7 @@ import urllib.request
 import urllib.parse
 import urllib.error
 import mimetypes
+import argparse
 from pathlib import Path
 
 DATASETS = [
@@ -282,6 +283,27 @@ DATASETS = [
         "category_folder": "sign_language/bdsl36",
         "filename": "Bangla_Sign_Sentence.xlsx",
         "url": "https://huggingface.co/datasets/banglagov/Ban-Sign-Sent-9K-V1/resolve/main/Bangla_Sign_Sentence.xlsx"
+    },
+    {
+        "id": "BAI-013",
+        "name": "BanglaLekha-Isolated Handwriting Full Dataset",
+        "category_folder": "ocr_handwriting/banglalekha",
+        "filename": "BanglaLekha-Isolated.zip",
+        "url": "https://data.mendeley.com/public-files/datasets/hf6sf8zrkc/files/ffe73a3a-5999-4ad2-970f-3e14c141cdb1/file_downloaded"
+    },
+    {
+        "id": "BAI-017",
+        "name": "BanglaLekha-ImageCaption Captions JSON",
+        "category_folder": "multimodal/bengali_image_captioning",
+        "filename": "captions.json",
+        "url": "https://data.mendeley.com/public-files/datasets/rxxch9vw59/files/9b3e789a-5a5c-48b3-8a2c-2c91e9307c2a/file_downloaded"
+    },
+    {
+        "id": "BAI-017",
+        "name": "BanglaLekha-ImageCaption Images Archive",
+        "category_folder": "multimodal/bengali_image_captioning",
+        "filename": "images.zip",
+        "url": "https://data.mendeley.com/public-files/datasets/rxxch9vw59/files/220ffc5a-8645-4c0b-bd1b-97188836ed3b/file_downloaded"
     }
 ]
 
@@ -393,6 +415,10 @@ class GdriveCloudClient:
         return None
 
 def main():
+    parser = argparse.ArgumentParser(description="Bangla AI Gigabit Cloud Sync to Google Drive")
+    parser.add_argument("--dataset", default="all", help="Dataset ID (e.g. BAI-013, BAI-017) or 'all'")
+    args = parser.parse_args()
+
     oauth_json = os.environ.get("GDRIVE_OAUTH_JSON")
     if not oauth_json:
         print("Error: GDRIVE_OAUTH_JSON environment variable is required.")
@@ -400,6 +426,7 @@ def main():
 
     print("=" * 80)
     print("GITHUB ACTIONS CLOUD SYNC -> GOOGLE DRIVE (GIGABIT SPEED)")
+    print(f"Target filter: {args.dataset}")
     print("=" * 80)
 
     client = GdriveCloudClient(oauth_json)
@@ -410,6 +437,9 @@ def main():
     tmp_dir.mkdir(parents=True, exist_ok=True)
 
     for item in DATASETS:
+        if args.dataset.lower() != "all" and item["id"].lower() != args.dataset.lower():
+            continue
+
         fname = item["filename"]
         url = item["url"]
         cat_parts = item["category_folder"].split("/")
@@ -429,11 +459,21 @@ def main():
         print(f"\n[CLOUD STREAM] Downloading {fname} ({item['name']}) at Gigabit speed...")
         t0 = time.time()
         
-        # Download at Azure cloud speed
+        # Download at Azure cloud speed with progress
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=120) as resp, open(local_file, "wb") as f:
-            while chunk := resp.read(1048576): # 1 MB buffer
+        with urllib.request.urlopen(req, timeout=300) as resp, open(local_file, "wb") as f:
+            total_dl = 0
+            content_length = int(resp.headers.get("Content-Length", 0))
+            last_print = time.time()
+            while chunk := resp.read(4 * 1024 * 1024): # 4 MB buffer
                 f.write(chunk)
+                total_dl += len(chunk)
+                if time.time() - last_print > 5:
+                    if content_length > 0:
+                        print(f"    Downloaded: {total_dl / (1024*1024):.1f} MB / {content_length / (1024*1024):.1f} MB ({(total_dl/content_length)*100:.1f}%)")
+                    else:
+                        print(f"    Downloaded: {total_dl / (1024*1024):.1f} MB")
+                    last_print = time.time()
         
         dl_time = time.time() - t0
         size_mb = local_file.stat().st_size / (1024*1024)

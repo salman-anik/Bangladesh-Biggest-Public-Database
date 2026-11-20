@@ -37,7 +37,7 @@ jobs:
         env:
           GDRIVE_OAUTH_JSON: ${{ secrets.GDRIVE_OAUTH_JSON }}
         run: |
-          python bangla_ai/scripts/cloud_sync_bangla_ai.py
+          python bangla_ai/scripts/cloud_sync_bangla_ai.py --dataset "${{ github.event.inputs.dataset || 'all' }}"
 
       - name: Sync Updated Manifests & Checksums
         run: |

@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Catastrophic Historical Tropical Cyclones of Bangladesh (1970-2024)",
+  "country": "Bangladesh",
+  "category": "Rivers, Floods & Natural Disasters",
+  "subcategory": "Cyclones & Marine Disasters",
+  "description": "Historical chronicle of major severe cyclonic storms hitting the Bangladesh coast with landfall dates, peak wind speeds (km/h), storm surge heights (meters), and fatalities.",
+  "source": "Bangladesh Meteorological Department (BMD) & Ministry of Disaster Management and Relief (MoDMR)",
+  "source_url": "https://bmd.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 7,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

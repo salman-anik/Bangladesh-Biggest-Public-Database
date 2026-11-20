@@ -1,0 +1,102 @@
+[
+  {
+    "river_name": "Padma (Ganges Lower)",
+    "bengali_name": "পদ্মা",
+    "basin_system": "Ganges Basin",
+    "transboundary_status": "Transboundary (Origin: Himalayas/India)",
+    "length_within_bd_km": 120,
+    "entry_point": "Chapainawabganj (Shibganj)",
+    "confluence_or_outfall": "Confluence with Meghna at Chandpur",
+    "peak_discharge_m3_s": 76000
+  },
+  {
+    "river_name": "Jamuna (Brahmaputra Lower)",
+    "bengali_name": "যমুনা",
+    "basin_system": "Brahmaputra Basin",
+    "transboundary_status": "Transboundary (Origin: Tibet/India)",
+    "length_within_bd_km": 205,
+    "entry_point": "Kurigram (Majhiali)",
+    "confluence_or_outfall": "Confluence with Padma at Goalundo",
+    "peak_discharge_m3_s": 102000
+  },
+  {
+    "river_name": "Meghna (Upper & Lower)",
+    "bengali_name": "মেঘনা",
+    "basin_system": "Meghna Basin",
+    "transboundary_status": "Formed in BD by Surma & Kushiyara",
+    "length_within_bd_km": 330,
+    "entry_point": "Kishoreganj (Kuliarchar)",
+    "confluence_or_outfall": "Bay of Bengal (Meghna Estuary)",
+    "peak_discharge_m3_s": 160000
+  },
+  {
+    "river_name": "Teesta",
+    "bengali_name": "তিস্তা",
+    "basin_system": "Brahmaputra Basin",
+    "transboundary_status": "Transboundary (Origin: Sikkim, India)",
+    "length_within_bd_km": 115,
+    "entry_point": "Nilphamari (Dimla)",
+    "confluence_or_outfall": "Confluence with Jamuna at Chilmari",
+    "peak_discharge_m3_s": 9500
+  },
+  {
+    "river_name": "Surma",
+    "bengali_name": "সুরমা",
+    "basin_system": "Meghna Basin",
+    "transboundary_status": "Transboundary (Barak river distributary)",
+    "length_within_bd_km": 250,
+    "entry_point": "Sylhet (Zakiganj)",
+    "confluence_or_outfall": "Confluence with Kushiyara into Kalni/Meghna",
+    "peak_discharge_m3_s": 5200
+  },
+  {
+    "river_name": "Kushiyara",
+    "bengali_name": "কুশিয়ারা",
+    "basin_system": "Meghna Basin",
+    "transboundary_status": "Transboundary (Barak river distributary)",
+    "length_within_bd_km": 228,
+    "entry_point": "Sylhet (Zakiganj)",
+    "confluence_or_outfall": "Merges with Surma at Markuli",
+    "peak_discharge_m3_s": 5800
+  },
+  {
+    "river_name": "Karnaphuli",
+    "bengali_name": "কর্ণফুলী",
+    "basin_system": "South-Eastern Hill Basin",
+    "transboundary_status": "Transboundary (Origin: Mizoram, India)",
+    "length_within_bd_km": 161,
+    "entry_point": "Rangamati (Barkal)",
+    "confluence_or_outfall": "Bay of Bengal (Chattogram Port)",
+    "peak_discharge_m3_s": 6500
+  },
+  {
+    "river_name": "Dharla",
+    "bengali_name": "ধরলা",
+    "basin_system": "Brahmaputra Basin",
+    "transboundary_status": "Transboundary (Origin: Himalayas/India)",
+    "length_within_bd_km": 75,
+    "entry_point": "Lalmonirhat (Patgram)",
+    "confluence_or_outfall": "Jamuna / Brahmaputra near Kurigram",
+    "peak_discharge_m3_s": 4200
+  },
+  {
+    "river_name": "Feni",
+    "bengali_name": "ফেনী",
+    "basin_system": "South-Eastern Basin",
+    "transboundary_status": "Transboundary (Origin: Tripura, India)",
+    "length_within_bd_km": 116,
+    "entry_point": "Feni (Parshuram)",
+    "confluence_or_outfall": "Bay of Bengal (Feni Estuary / Muhuri Dam)",
+    "peak_discharge_m3_s": 2800
+  },
+  {
+    "river_name": "Muhuri",
+    "bengali_name": "মুহুরী",
+    "basin_system": "South-Eastern Basin",
+    "transboundary_status": "Transboundary (Origin: Tripura, India)",
+    "length_within_bd_km": 62,
+    "entry_point": "Feni (Parshuram)",
+    "confluence_or_outfall": "Feni River at Muhuri Regulator",
+    "peak_discharge_m3_s": 1900
+  }
+]

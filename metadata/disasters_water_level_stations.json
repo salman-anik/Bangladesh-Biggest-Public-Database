@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Critical River Water Level & Danger Level Monitoring Stations",
+  "country": "Bangladesh",
+  "category": "Rivers, Floods & Natural Disasters",
+  "subcategory": "Flood Early Warning",
+  "description": "Key flood forecasting stations across the Ganges, Brahmaputra, and Meghna basins with designated Danger Levels (m PWD) and Recorded Highest Flood Levels (RFL).",
+  "source": "Flood Forecasting and Warning Centre (FFWC), Bangladesh Water Development Board (BWDB)",
+  "source_url": "http://www.ffwc.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 8,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "Station-based",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

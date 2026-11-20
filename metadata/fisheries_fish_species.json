@@ -1,0 +1,22 @@
+{
+  "dataset_name": "Bangladesh Commercial & Indigenous Fish Species Catalog",
+  "country": "Bangladesh",
+  "category": "Fisheries",
+  "subcategory": "Biodiversity & Taxonomy",
+  "description": "Catalog of 40 prominent commercial, indigenous freshwater, and marine fish species in Bangladesh with scientific classification, habitat, and IUCN Bangladesh conservation status.",
+  "source": "Department of Fisheries (DoF) & IUCN Bangladesh",
+  "source_url": "https://fisheries.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 40,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "Bangla",
+    "English"
+  ],
+  "verification_status": "verified"
+}

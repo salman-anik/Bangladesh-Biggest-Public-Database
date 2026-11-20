@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Fisheries Production by Administrative Division",
+  "country": "Bangladesh",
+  "category": "Fisheries",
+  "subcategory": "Production Statistics",
+  "description": "Annual fisheries harvest by 8 administrative divisions disaggregated by inland capture, inland culture, and marine sources in Metric Tons.",
+  "source": "Department of Fisheries (DoF) Yearbook of Fisheries Statistics / BBS",
+  "source_url": "https://fisheries.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 8,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "Division",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Fisheries Resources and Water Body Areas of Bangladesh",
+  "country": "Bangladesh",
+  "category": "Fisheries",
+  "subcategory": "Water Resources",
+  "description": "Inventory of inland open water (rivers, beels, haors, floodplains) and closed culture waters (ponds, baors, coastal shrimp farms) with water area in hectares and average annual catch.",
+  "source": "Department of Fisheries (DoF) & Bangladesh Water Development Board (BWDB)",
+  "source_url": "https://fisheries.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 11,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

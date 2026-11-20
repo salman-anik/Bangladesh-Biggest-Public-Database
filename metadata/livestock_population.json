@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Livestock and Poultry Population by Division",
+  "country": "Bangladesh",
+  "category": "Livestock",
+  "subcategory": "Population Census",
+  "description": "Population count of cattle, buffalo, goat, sheep, fowl/chicken, and duck across 8 administrative divisions of Bangladesh.",
+  "source": "Department of Livestock Services (DLS), Ministry of Fisheries & Livestock / BBS Agriculture Census",
+  "source_url": "https://dls.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 8,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "Division",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

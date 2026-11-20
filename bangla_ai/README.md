@@ -2,7 +2,8 @@
 
 [![Status: Maintained](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](#)
 [![Datasets: 18 Benchmarks](https://img.shields.io/badge/Datasets-18%20Benchmarks-blue.svg)](#)
-[![Drive Mirror: 8.58 GB Verified](https://img.shields.io/badge/Google%20Drive-8.58%20GB%20Verified-brightgreen.svg)](#)
+[![Collection: 100% Complete](https://img.shields.io/badge/Collection-18%2F18%20Complete-brightgreen.svg)](#)
+[![Drive Mirror: 15.07 GB Verified](https://img.shields.io/badge/Google%20Drive-15.07%20GB%20Verified-brightgreen.svg)](#)
 [![Language: Bengali](https://img.shields.io/badge/Language-Bangla%20(bn)-darkgreen.svg)](#)
 [![License: Open Attribution](https://img.shields.io/badge/License-Academic%20%26%20Open-yellow.svg)](#)
 
@@ -75,11 +76,11 @@ To ensure sustainable open-source development and avoid repository bloat:
 | **BAI-010** | Mozilla Common Voice Bangla | Speech Recognition (ASR)| [commonvoice.mozilla.org](https://commonvoice.mozilla.org/en/datasets) / [bengaliAI/CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) | CC-0 (Public Domain) | MP3, TSV, XZ | 412 Audio Hours (>40 GB) | **79.56 MB** (TSVs + Audio Archive) | [File (1KYTC...)](https://drive.google.com/file/d/1KYTCAi9J25ngzxq22mCrKTEVg0i3ZVil/view) | `verified_and_downloaded` |
 | **BAI-011** | Bengali.AI ASR Corpus | Speech Recognition (ASR)| [kaggle:bengaliai-speech](https://www.kaggle.com/competitions/bengaliai-speech/data) / [arif11/Bengali_AI_Speech](https://huggingface.co/datasets/arif11/Bengali_AI_Speech) | CC-BY-NC-4.0 | MP3, Parquet, CSV | 1,200 Hours (>100 GB) | **817.95 MB** (Audio Parquets) | [File (1GN6n...)](https://drive.google.com/file/d/1GN6niM8D621ZbDfPh0OXSUBbNTcRjEMf/view) | `verified_and_downloaded` |
 | **BAI-012** | Google FLEURS Bengali | Speech Recognition & Audio| [google/fleurs (bn_in)](https://huggingface.co/datasets/google/fleurs) | CC-BY-4.0 | TSV, TAR.GZ | 12.5 Studio Hours (2.97 GB) | **2.78 GB** (Audio + TSVs) | [File (1e-74...)](https://drive.google.com/file/d/1e-748vJLHn14UTIbth1RHHJ5AxCFDLEy/view) | `verified_and_downloaded` |
-| **BAI-013** | BanglaLekha-Isolated | Handwriting Recognition | [Mendeley Data DOI 10.17632/hf6sf8zrkc.2](https://data.mendeley.com/datasets/hf6sf8zrkc/2) | CC-BY-NC-4.0 | ZIP, PNG, CSV | 166,105 Images (760 MB) | Metadata & DOI Link | [Mendeley](https://data.mendeley.com/datasets/hf6sf8zrkc/2) | `access_required` |
+| **BAI-013** | BanglaLekha-Isolated | Handwriting Recognition | [Mendeley Data DOI 10.17632/hf6sf8zrkc.2](https://data.mendeley.com/datasets/hf6sf8zrkc/2) | CC-BY-NC-4.0 | ZIP, PNG, CSV | 166,105 Images (197 MB) | **187.96 MB** (Full Character Archive) | [File (1IHMo...)](https://drive.google.com/file/d/1IHMo64uKlu82bsMqBarz9mAgX6ZhqDR0/view) | `verified_and_downloaded` |
 | **BAI-014** | Ekush OCR | Handwriting & Printed OCR | [ShahariarRabby/Ekush](https://github.com/ShahariarRabby/Ekush) / [Kaggle](https://www.kaggle.com/datasets/shahariarrabby/ekush-bangla-handwritten-characters) | Academic / MIT | ZIP, PNG, CSV | 367,018 Characters (1.2 GB)| **500.14 MB** (Full dataset.zip) | [File (1fI5a...)](https://drive.google.com/file/d/1fI5a1ubgXczmjVM6We3DkB7Lqwdj80uj/view) | `verified_and_downloaded` |
 | **BAI-015** | DialectBD (Regional Dialects) | Dialect Identification | [samim5669/bangla-regional-dialect-dataset](https://huggingface.co/datasets/samim5669/bangla-regional-dialect-dataset) | CC-BY-4.0 | Parquet | 24,000 Samples | **1.07 MB** (3 Parquets) | [Folder](https://drive.google.com/drive/folders/1e-748vJLHn14UTIbth1RHHJ5AxCFDLEy) | `verified_and_downloaded` |
 | **BAI-016** | BanFakeNews 2.0 | Misinformation Detection | [Rowan1224/FakeNews](https://github.com/Rowan1224/FakeNews) / [hrshihab/BanFakeNews-2.0](https://huggingface.co/datasets/hrshihab/BanFakeNews-2.0) | CC-BY-4.0 | CSV | 60,000+ News Articles | **304.59 MB** | [File (1cFbR...)](https://drive.google.com/file/d/1cFbRWoDoZap-jWOcCnWVXC6reZrJcmNQ/view) | `verified_and_downloaded` |
-| **BAI-017** | BanglaLekha-ImageCaption | Multimodal Vision-Language| [Mendeley Data DOI 10.17632/7754f4262j.1](https://data.mendeley.com/datasets/7754f4262j/1) | CC-BY-4.0 | JSON, CSV, ZIP | 9,150 Images / 45,750 Captions| Metadata & DOI Link | [Mendeley](https://data.mendeley.com/datasets/7754f4262j/1) | `access_required` |
+| **BAI-017** | BanglaLekha-ImageCaption | Multimodal Vision-Language| [Mendeley Data DOI 10.17632/rxxch9vw59.2](https://data.mendeley.com/datasets/rxxch9vw59/2) | CC-BY-4.0 | JSON, ZIP, PNG | 9,154 Images / 18,308 Captions (6.76 GB)| **6.30 GB** (Captions + Images Archive) | [File (1fj7V...)](https://drive.google.com/file/d/1fj7VcRVpgfiI_4i7bdcZzoQl7wi2LrVi/view) | `verified_and_downloaded` |
 | **BAI-018** | BdSL36 / Ban-Sign | Computer Vision & Gestures| [imruljubair/BdSLImset](https://github.com/imruljubair/BdSLImset) / [AI-Sense/Ban-Sign](https://github.com/AI-Sense/Ban-Sign) | CC-BY-NC-4.0 | XLSX, PNG, ZIP | 36,000 Gesture Images / Sentences | **90.02 KB** (Sign Sentences) | [File (11SXa...)](https://drive.google.com/file/d/11SXaNnEZAUtFYBI_sJQfb4kXNbSz-7ma/view) | `verified_and_downloaded` |
 
 ---
@@ -188,7 +189,9 @@ To ensure sustainable open-source development and avoid repository bloat:
 
 - **BanglaLekha-Isolated (`BAI-013`)**:
   - *Provenance*: Biswas et al., University of Dhaka (Data in Brief 2017).
-  - *Description*: 166,105 isolated handwritten characters across 84 classes (50 basic, 10 numerals, 24 compound letters). Verified Mendeley DOI: [10.17632/hf6sf8zrkc.2](https://data.mendeley.com/datasets/hf6sf8zrkc/2).
+  - *Description*: 166,105 isolated handwritten characters across 84 classes (50 basic characters, 10 numerals, 24 compound letters/Juktakkhor) produced by 2,000 native writers. Verified Mendeley DOI: [10.17632/hf6sf8zrkc.2](https://data.mendeley.com/datasets/hf6sf8zrkc/2).
+  - *Files in Drive*: `BanglaLekha-Isolated.zip` (**187.96 MB / 197,085,712 bytes**, 166,193 entries, SHA-256: `df8a78b7a9eaf33ff776b12094a887229b9c3064b8c9600e9c63c2a12a1cf32a`) in `ocr_handwriting/banglalekha/`.
+  - *Drive File ID*: `1IHMo64uKlu82bsMqBarz9mAgX6ZhqDR0`.
 
 ---
 
@@ -208,8 +211,12 @@ To ensure sustainable open-source development and avoid repository bloat:
 
 ### 9. Multimodal & Sign Language
 - **BanglaLekha-ImageCaption (`BAI-017`)**:
-  - *Provenance*: Ahsan et al., University of Dhaka & AUST (2021).
-  - *Description*: Culturally adapted image captioning benchmark providing 5 native Bengali captions per image. Verified Mendeley DOI: [10.17632/7754f4262j.1](https://data.mendeley.com/datasets/7754f4262j/1).
+  - *Provenance*: Nafees Mansoor, Abrar Hasin Kamal, Nabeel Mohammed, Sifat Momen, Md Matiur Rahman (2021).
+  - *Description*: Culturally grounded Bengali image captioning benchmark providing 2 independent human descriptions per image across 9,154 images (18,308 total Bengali captions). Corrected Mendeley DOI: [10.17632/rxxch9vw59.2](https://data.mendeley.com/datasets/rxxch9vw59/2).
+  - *Files in Drive*: 
+    - `captions.json` (**2.53 MB / 2,649,168 bytes**, SHA-256: `bc6954835eee358df675cf1f76195ccfc4d961762256f04d669be8e57aaec665`, Drive ID: `1ZarwgudpMUIP5ODBi4pPXlz6T87pZS2H`)
+    - `images.zip` (**6.29 GB / 6,758,950,318 bytes**, 9,154 images, SHA-256: `d32b6d94c14dff6d489693301cb30ee223dea4bcc0bb4781175881efa3346760`, Drive ID: `1fj7VcRVpgfiI_4i7bdcZzoQl7wi2LrVi`)
+  - *Drive Folder*: `multimodal/bengali_image_captioning/`.
 
 - **BdSL36 / Ban-Sign Sign Language (`BAI-018`)**:
   - *Provenance*: Oishee Bintey Hoque, Mohammad Imrul Jubair, et al. (ACCV 2020) & AI-Sense.

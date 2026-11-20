@@ -39,18 +39,102 @@ DATASETS = [
         "url": "https://huggingface.co/datasets/csebuetnlp/BanglaParaphrase/resolve/main/data/BanglaParaphrase.zip"
     },
     {
+        "id": "BAI-005",
+        "name": "SentNoB Train",
+        "category_folder": "sentiment/sentnob",
+        "filename": "Train.csv",
+        "url": "https://raw.githubusercontent.com/khondokerislam/SentNoB/main/Train.csv"
+    },
+    {
+        "id": "BAI-005",
+        "name": "SentNoB Test",
+        "category_folder": "sentiment/sentnob",
+        "filename": "Test.csv",
+        "url": "https://raw.githubusercontent.com/khondokerislam/SentNoB/main/Test.csv"
+    },
+    {
+        "id": "BAI-005",
+        "name": "SentNoB Val",
+        "category_folder": "sentiment/sentnob",
+        "filename": "Val.csv",
+        "url": "https://raw.githubusercontent.com/khondokerislam/SentNoB/main/Val.csv"
+    },
+    {
         "id": "BAI-006",
-        "name": "BanglaBook Reviews Sentiment",
+        "name": "BanglaBook Reviews Train",
         "category_folder": "sentiment/bangla_book_reviews",
         "filename": "train.csv",
         "url": "https://raw.githubusercontent.com/mohsinulkabir14/BanglaBook/main/data/csv/train.csv"
     },
     {
+        "id": "BAI-006",
+        "name": "BanglaBook Reviews Test",
+        "category_folder": "sentiment/bangla_book_reviews",
+        "filename": "test.csv",
+        "url": "https://raw.githubusercontent.com/mohsinulkabir14/BanglaBook/main/data/csv/test.csv"
+    },
+    {
+        "id": "BAI-006",
+        "name": "BanglaBook Reviews Validation",
+        "category_folder": "sentiment/bangla_book_reviews",
+        "filename": "validation.csv",
+        "url": "https://raw.githubusercontent.com/mohsinulkabir14/BanglaBook/main/data/csv/validation.csv"
+    },
+    {
+        "id": "BAI-007",
+        "name": "BanglaNER Train",
+        "category_folder": "ner/banglaner",
+        "filename": "train.jsonl",
+        "url": "https://huggingface.co/datasets/saiful9379/BanglaNER_V1.0/resolve/main/train.jsonl"
+    },
+    {
+        "id": "BAI-007",
+        "name": "BanglaNER Val",
+        "category_folder": "ner/banglaner",
+        "filename": "val.jsonl",
+        "url": "https://huggingface.co/datasets/saiful9379/BanglaNER_V1.0/resolve/main/val.jsonl"
+    },
+    {
+        "id": "BAI-008",
+        "name": "WikiANN Bangla Train Parquet",
+        "category_folder": "ner/wikiann",
+        "filename": "train-00000-of-00001.parquet",
+        "url": "https://huggingface.co/datasets/unimelb-nlp/wikiann/resolve/refs%2Fconvert%2Fparquet/bn/train/0000.parquet"
+    },
+    {
+        "id": "BAI-008",
+        "name": "WikiANN Bangla Test Parquet",
+        "category_folder": "ner/wikiann",
+        "filename": "test-00000-of-00001.parquet",
+        "url": "https://huggingface.co/datasets/unimelb-nlp/wikiann/resolve/refs%2Fconvert%2Fparquet/bn/test/0000.parquet"
+    },
+    {
+        "id": "BAI-008",
+        "name": "WikiANN Bangla Validation Parquet",
+        "category_folder": "ner/wikiann",
+        "filename": "validation-00000-of-00001.parquet",
+        "url": "https://huggingface.co/datasets/unimelb-nlp/wikiann/resolve/refs%2Fconvert%2Fparquet/bn/validation/0000.parquet"
+    },
+    {
         "id": "BAI-009",
-        "name": "BanglaRQA QA Dataset",
+        "name": "BanglaRQA QA Train",
         "category_folder": "question_answering/banglarqa",
         "filename": "Train.json",
         "url": "https://huggingface.co/datasets/sartajekram/BanglaRQA/resolve/main/Train.json"
+    },
+    {
+        "id": "BAI-009",
+        "name": "BanglaRQA QA Test",
+        "category_folder": "question_answering/banglarqa",
+        "filename": "Test.json",
+        "url": "https://huggingface.co/datasets/sartajekram/BanglaRQA/resolve/main/Test.json"
+    },
+    {
+        "id": "BAI-009",
+        "name": "BanglaRQA QA Validation",
+        "category_folder": "question_answering/banglarqa",
+        "filename": "Validation.json",
+        "url": "https://huggingface.co/datasets/sartajekram/BanglaRQA/resolve/main/Validation.json"
     },
     {
         "id": "BAI-012",
@@ -65,6 +149,55 @@ DATASETS = [
         "category_folder": "speech/fleurs",
         "filename": "test.tar.gz",
         "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/audio/test.tar.gz"
+    },
+    {
+        "id": "BAI-012",
+        "name": "Google FLEURS Bengali Audio Train",
+        "category_folder": "speech/fleurs",
+        "filename": "train.tar.gz",
+        "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/audio/train.tar.gz"
+    },
+    {
+        "id": "BAI-012",
+        "name": "Google FLEURS Bengali Train TSV",
+        "category_folder": "speech/fleurs",
+        "filename": "train.tsv",
+        "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/train.tsv"
+    },
+    {
+        "id": "BAI-012",
+        "name": "Google FLEURS Bengali Dev TSV",
+        "category_folder": "speech/fleurs",
+        "filename": "dev.tsv",
+        "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/dev.tsv"
+    },
+    {
+        "id": "BAI-012",
+        "name": "Google FLEURS Bengali Test TSV",
+        "category_folder": "speech/fleurs",
+        "filename": "test.tsv",
+        "url": "https://huggingface.co/datasets/google/fleurs/resolve/main/data/bn_in/test.tsv"
+    },
+    {
+        "id": "BAI-015",
+        "name": "DialectBD Train Parquet",
+        "category_folder": "dialects/dialectbd",
+        "filename": "train.parquet",
+        "url": "https://huggingface.co/datasets/samim5669/bangla-regional-dialect-dataset/resolve/main/data/train.parquet"
+    },
+    {
+        "id": "BAI-015",
+        "name": "DialectBD Test Parquet",
+        "category_folder": "dialects/dialectbd",
+        "filename": "test.parquet",
+        "url": "https://huggingface.co/datasets/samim5669/bangla-regional-dialect-dataset/resolve/main/data/test.parquet"
+    },
+    {
+        "id": "BAI-015",
+        "name": "DialectBD Validation Parquet",
+        "category_folder": "dialects/dialectbd",
+        "filename": "validation.parquet",
+        "url": "https://huggingface.co/datasets/samim5669/bangla-regional-dialect-dataset/resolve/main/data/validation.parquet"
     },
     {
         "id": "BAI-016",
@@ -125,6 +258,17 @@ class GdriveCloudClient:
         }, method="POST")
         with urllib.request.urlopen(req, timeout=30) as resp:
             return json.loads(resp.read().decode("utf-8"))["id"]
+
+    def find_file(self, name, parent_id):
+        token = self.get_token()
+        query = f"name = '{name}' and '{parent_id}' in parents and trashed = false"
+        url = f"https://www.googleapis.com/drive/v3/files?q={urllib.parse.quote(query)}&fields=files(id,name,size)"
+        req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            if data.get("files"):
+                return data["files"][0]
+        return None
 
     def upload_file_resumable(self, file_path, parent_id):
         file_path = Path(file_path)
@@ -198,6 +342,12 @@ def main():
         for part in cat_parts:
             cur_parent = client.find_or_create_folder(part, cur_parent)
 
+        # Deduplication check: skip if already present in Google Drive
+        existing = client.find_file(fname, cur_parent)
+        if existing and int(existing.get("size", 0)) > 0:
+            print(f"[SKIP] {fname} ({item['name']}) already exists in Drive (ID: {existing['id']}, Size: {int(existing['size'])/(1024*1024):.2f} MB). Skipping download.")
+            continue
+
         local_file = tmp_dir / fname
         print(f"\n[CLOUD STREAM] Downloading {fname} ({item['name']}) at Gigabit speed...")
         t0 = time.time()
@@ -210,7 +360,7 @@ def main():
         
         dl_time = time.time() - t0
         size_mb = local_file.stat().st_size / (1024*1024)
-        print(f"  Downloaded {size_mb:.2f} MB in {dl_time:.1f}s ({size_mb / dl_time:.2f} MB/s)")
+        print(f"  Downloaded {size_mb:.2f} MB in {dl_time:.1f}s ({size_mb / max(dl_time, 0.001):.2f} MB/s)")
 
         print(f"  Uploading to Google Drive folder '{item['category_folder']}'...")
         t1 = time.time()

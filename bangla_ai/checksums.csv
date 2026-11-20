@@ -1,1 +1,48 @@
 dataset_id,filename,relative_path,size_bytes,size_human,sha256
+BAI-001,desktop.ini,text_corpora/bangla2b/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-002,Bangla2B+.tar.bz2,text_corpora/banglabert/Bangla2B+.tar.bz2,4136057125,3.85 GB,537ebee2b2ac6c3f6d40115b41d9dd6ce4404944c76687499fa9130f6846cc73
+BAI-002,desktop.ini,text_corpora/banglabert/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-003,BanglaNMT.tar.bz2,translation/indictrans2/BanglaNMT.tar.bz2,132839014,126.69 MB,a5fff3f40ea9d97202fad9d043d3eb6fbd841f702e9ef0c9f89d925165e50e13
+BAI-003,desktop.ini,translation/indictrans2/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-004,BanglaParaphrase (1).zip,translation/banglaparaphrase/BanglaParaphrase (1).zip,38002116,36.24 MB,8f27c967bcb75620fa2c94fb34159795f680df3b28b45f9f40b88a1bf1573a6f
+BAI-004,BanglaParaphrase.zip,translation/banglaparaphrase/BanglaParaphrase.zip,38002116,36.24 MB,8f27c967bcb75620fa2c94fb34159795f680df3b28b45f9f40b88a1bf1573a6f
+BAI-004,desktop.ini,translation/banglaparaphrase/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-005,Test.csv,sentiment/sentnob/Test.csv,334211,326.38 KB,46f6f4c2812ea204d08f0c9e77b0b48a4a3a93aa7905e37f65e45ac259507ed6
+BAI-005,Train.csv,sentiment/sentnob/Train.csv,2653460,2.53 MB,2755f05aaa3198b7d7e00241974362a770a4467267048a3956b18ef95116377e
+BAI-005,Val.csv,sentiment/sentnob/Val.csv,345798,337.69 KB,0b19347a83d5c56a6cff70561291bbe902b743f4a76d8b02eb625cd6880bb3ca
+BAI-005,desktop.ini,sentiment/sentnob/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-006,desktop.ini,sentiment/bangla_book_reviews/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-006,test.csv,sentiment/bangla_book_reviews/test.csv,17448926,16.64 MB,051026a40bc58ad93e895611f16e81da4ae8a0c08538ede0d912d00cedac11de
+BAI-006,train (1).csv,sentiment/bangla_book_reviews/train (1).csv,61338063,58.50 MB,231e3fc0df25a06e83939f831115b0ba70586e6a33a6b3744a07ef521010c397
+BAI-006,train.csv,sentiment/bangla_book_reviews/train.csv,61338063,58.50 MB,231e3fc0df25a06e83939f831115b0ba70586e6a33a6b3744a07ef521010c397
+BAI-006,validation.csv,sentiment/bangla_book_reviews/validation.csv,8785352,8.38 MB,fc7bf6179bc9e2a50debdd87d3dc679b9b74a49cc0e879e221f64af529ec8772
+BAI-007,desktop.ini,ner/banglaner/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-007,train.jsonl,ner/banglaner/train.jsonl,1410959,1.35 MB,88467b7d30ece866428671276f2b1829944639318bfbefc9fb2422906e011960
+BAI-007,val.jsonl,ner/banglaner/val.jsonl,371159,362.46 KB,0617063edc9060bea39904d5b4f610d6c0c838a22d3df456117fd5b7adba7459
+BAI-008,desktop.ini,ner/wikiann/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-008,test-00000-of-00001.parquet,ner/wikiann/test-00000-of-00001.parquet,57644,56.29 KB,f77c3067cbf35172dd4c5fd9081c6fd4082e14ff1fd96f4428d49eea4edf49ab
+BAI-008,train-00000-of-00001.parquet,ner/wikiann/train-00000-of-00001.parquet,553738,540.76 KB,077604dbea1f92886d1316f720a09ee846c25749c4e1cbf82878a81c2469a88e
+BAI-008,validation-00000-of-00001.parquet,ner/wikiann/validation-00000-of-00001.parquet,56017,54.70 KB,119ce82b13842781467edc3b83ea8c6f16f80cea01ee5a4d52f6c1a4df7adb7a
+BAI-009,Test.json,question_answering/banglarqa/Test.json,3603506,3.44 MB,5b2e8a326aadece4d50a6715a0ed1fca1d2910f6c723f84c6aa375c8c9b62562
+BAI-009,Train (1).json,question_answering/banglarqa/Train (1).json,27818012,26.53 MB,12baac550a437ecdb45ea8711389356caf3b80d75397273585389308357dae0f
+BAI-009,Train.json,question_answering/banglarqa/Train.json,27818012,26.53 MB,12baac550a437ecdb45ea8711389356caf3b80d75397273585389308357dae0f
+BAI-009,Validation.json,question_answering/banglarqa/Validation.json,3493591,3.33 MB,d56e0e5c162d9634dd1eeb9e81b655dfb6daccc7bbe180e46140acb529aa0849
+BAI-009,desktop.ini,question_answering/banglarqa/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-010,desktop.ini,speech/common_voice/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-011,desktop.ini,speech/bengaliai_speech/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-012,desktop.ini,speech/fleurs/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-012,dev.tar.gz,speech/fleurs/dev.tar.gz,278667778,265.76 MB,b7f380b67d50bc59f328af3e1bd8096ab9e728bd0103349b9746ca95ab75ff30
+BAI-012,dev.tsv,speech/fleurs/dev.tsv,465963,455.04 KB,239a59e4d60a76d4d388d44f72df6d28b91e4526d829186d15ef33fde7a089db
+BAI-012,test.tar.gz,speech/fleurs/test.tar.gz,659700249,629.14 MB,6c1cc66b258b711d49e5bcd8e5508c18484c8cbcbe76d323ad46947756029b0f
+BAI-012,test.tsv,speech/fleurs/test.tsv,1089017,1.04 MB,a7d892390778ce23d0acf15bbba4d9454439c48607cefb923e37f55a480c4c0c
+BAI-012,train.tsv,speech/fleurs/train.tsv,3481282,3.32 MB,d76fc543be4c1103f303e98c3f22e63e5a17727a1b055294318bf5916296fb80
+BAI-013,desktop.ini,ocr_handwriting/banglalekha/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-014,desktop.ini,ocr_handwriting/ekush/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-015,desktop.ini,dialects/dialectbd/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-015,test.parquet,dialects/dialectbd/test.parquet,113225,110.57 KB,ae6d95e7055722bff0023f3f040d169798758b051cd7025c7321bb21e638bb54
+BAI-015,train.parquet,dialects/dialectbd/train.parquet,887035,866.25 KB,67d7e5bfafe7473007fd1bc016d210a5e5fb69b4a6d333daf53c4556515bd8de
+BAI-015,validation.parquet,dialects/dialectbd/validation.parquet,119492,116.69 KB,7e4477603b9419027de3afd54f25a6bc077e8ceed99072d4154ed846c340a9c5
+BAI-016,All60Kdataset.csv,fake_news/banfakenews/All60Kdataset.csv,304586219,290.48 MB,d9aed69b6019843a769bbcb045affd31c98cfa02f2b0bc821f551c54ba780c0a
+BAI-016,desktop.ini,fake_news/banfakenews/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-017,desktop.ini,multimodal/bengali_image_captioning/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2
+BAI-018,desktop.ini,sign_language/bdsl36/desktop.ini,352,352.00 B,885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2

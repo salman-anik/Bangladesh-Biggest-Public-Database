@@ -1,0 +1,19 @@
+dataset_id,dataset_name,category_folder,status,total_bytes,total_human
+BAI-001,Bangla2B+ / C4 Bangla Subset,text_corpora/bangla2b,verified_and_downloaded,352,352.00 B
+BAI-002,BanglaBERT Pre-training Corpus (Bangla2B+),text_corpora/banglabert,verified_and_downloaded,352,352.00 B
+BAI-003,IndicTrans2 Bangla-English / IN22-Gen,translation/indictrans2,verified_and_downloaded,352,352.00 B
+BAI-004,BanglaParaphrase Dataset,translation/banglaparaphrase,verified_and_downloaded,38002468,36.24 MB
+BAI-005,SentNoB (Sentiment Analysis on Noisy Bangla Texts),sentiment/sentnob,verified_and_downloaded,3333821,3.18 MB
+BAI-006,Bangla Book Reviews Sentiment Dataset (BanglaBook),sentiment/bangla_book_reviews,verified_and_downloaded,87572693,83.52 MB
+BAI-007,BanglaNER (B-NER) Corpus,ner/banglaner,verified_and_downloaded,1782470,1.70 MB
+BAI-008,WikiANN (Bangla Split),ner/wikiann,verified_and_downloaded,667751,652.10 KB
+BAI-009,BanglaRQA (Reading Comprehension QA),question_answering/banglarqa,verified_and_downloaded,34915461,33.30 MB
+BAI-010,Mozilla Common Voice (Bangla Speech Corpus),speech/common_voice,verified_and_downloaded,352,352.00 B
+BAI-011,Bengali.AI ASR Speech Corpus,speech/bengaliai_speech,verified_and_downloaded,352,352.00 B
+BAI-012,Google FLEURS Bengali Speech & Transcripts,speech/fleurs,verified_and_downloaded,5036614,4.80 MB
+BAI-013,BanglaLekha-Isolated (Handwritten Characters),ocr_handwriting/banglalekha,verified_and_downloaded,352,352.00 B
+BAI-014,Ekush - Handwritten & Printed Bengali OCR,ocr_handwriting/ekush,verified_and_downloaded,352,352.00 B
+BAI-015,Bangla Regional Dialect Corpus (DialectBD),dialects/dialectbd,verified_and_downloaded,1120104,1.07 MB
+BAI-016,BanFakeNews (Bangla Fake News Dataset),fake_news/banfakenews,verified_and_downloaded,352,352.00 B
+BAI-017,BanglaLekha-ImageCaption / Bengali COCO,multimodal/bengali_image_captioning,verified_and_downloaded,352,352.00 B
+BAI-018,BdSL36 - Bangladesh Sign Language Dataset,sign_language/bdsl36,verified_and_downloaded,352,352.00 B

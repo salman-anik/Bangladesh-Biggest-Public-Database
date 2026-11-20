@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BanglaAIDatasetEntry",
+  "description": "Schema definition for Bangla AI dataset catalog entries.",
+  "type": "object",
+  "required": [
+    "id",
+    "task_category",
+    "dataset_name",
+    "institution_or_author",
+    "huggingface_or_github_id",
+    "size_or_records",
+    "license",
+    "description",
+    "python_load_code"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^BAI-[0-9]{3}$"
+    },
+    "task_category": {
+      "type": "string"
+    },
+    "dataset_name": {
+      "type": "string"
+    },
+    "institution_or_author": {
+      "type": "string"
+    },
+    "huggingface_or_github_id": {
+      "type": "string"
+    },
+    "verified_source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "size_or_records": {
+      "type": "string"
+    },
+    "license": {
+      "type": "string"
+    },
+    "license_verification_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "google_drive_folder": {
+      "type": "string"
+    },
+    "file_formats": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "download_status": {
+      "type": "string",
+      "enum": [
+        "verified_and_downloaded",
+        "verified_metadata_only",
+        "partially_downloaded",
+        "access_required",
+        "unavailable",
+        "license_restricted_or_huge",
+        "failed"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "python_load_code": {
+      "type": "string"
+    }
+  }
+}

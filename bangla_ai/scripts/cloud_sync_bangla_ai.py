@@ -205,6 +205,83 @@ DATASETS = [
         "category_folder": "fake_news/banfakenews",
         "filename": "All60Kdataset.csv",
         "url": "https://huggingface.co/datasets/hrshihab/BanFakeNews-2.0/resolve/main/All60Kdataset.csv"
+    },
+    {
+        "id": "BAI-014",
+        "name": "Ekush OCR Full Dataset Archive",
+        "category_folder": "ocr_handwriting/ekush",
+        "filename": "dataset.zip",
+        "url": "https://drive.usercontent.google.com/download?id=1fI5a1ubgXczmjVM6We3DkB7Lqwdj80uj&export=download&confirm=t"
+    },
+    {
+        "id": "BAI-014",
+        "name": "Ekush OCR Image Metadata CSV",
+        "category_folder": "ocr_handwriting/ekush",
+        "filename": "metaData_img.csv",
+        "url": "https://drive.usercontent.google.com/download?id=142hWB_25yZGOZlBYOvNZ3w5AWIdfInaK&export=download&confirm=t"
+    },
+    {
+        "id": "BAI-001",
+        "name": "C4 Bangla Validation Split",
+        "category_folder": "text_corpora/bangla2b",
+        "filename": "c4-bn-validation.tfrecord-00000-of-00001.json.gz",
+        "url": "https://huggingface.co/datasets/allenai/c4/resolve/main/multilingual/c4-bn-validation.tfrecord-00000-of-00001.json.gz"
+    },
+    {
+        "id": "BAI-001",
+        "name": "C4 Bangla Train Shard 0",
+        "category_folder": "text_corpora/bangla2b",
+        "filename": "c4-bn.tfrecord-00000-of-00512.json.gz",
+        "url": "https://huggingface.co/datasets/allenai/c4/resolve/main/multilingual/c4-bn.tfrecord-00000-of-00512.json.gz"
+    },
+    {
+        "id": "BAI-010",
+        "name": "Common Voice Bangla Train TSV",
+        "category_folder": "speech/common_voice",
+        "filename": "train.tsv",
+        "url": "https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla/resolve/main/bengali_ai_tsv/train.tsv"
+    },
+    {
+        "id": "BAI-010",
+        "name": "Common Voice Bangla Dev TSV",
+        "category_folder": "speech/common_voice",
+        "filename": "dev.tsv",
+        "url": "https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla/resolve/main/bengali_ai_tsv/dev.tsv"
+    },
+    {
+        "id": "BAI-010",
+        "name": "Common Voice Bangla Test TSV",
+        "category_folder": "speech/common_voice",
+        "filename": "test.tsv",
+        "url": "https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla/resolve/main/bengali_ai_tsv/test.tsv"
+    },
+    {
+        "id": "BAI-010",
+        "name": "Common Voice Bangla Audio Train Archive",
+        "category_folder": "speech/common_voice",
+        "filename": "train_audio.xz",
+        "url": "https://drive.usercontent.google.com/download?id=1KYTCAi9J25ngzxq22mCrKTEVg0i3ZVil&export=download&confirm=t"
+    },
+    {
+        "id": "BAI-011",
+        "name": "Bengali.AI ASR Speech Shard 1",
+        "category_folder": "speech/bengaliai_speech",
+        "filename": "train-00000-of-00002.parquet",
+        "url": "https://huggingface.co/datasets/arif11/Bengali_AI_Speech/resolve/main/data/train-00000-of-00002-a03a79119f68cd6c.parquet"
+    },
+    {
+        "id": "BAI-011",
+        "name": "Bengali.AI ASR Speech Shard 2",
+        "category_folder": "speech/bengaliai_speech",
+        "filename": "train-00001-of-00002.parquet",
+        "url": "https://huggingface.co/datasets/arif11/Bengali_AI_Speech/resolve/main/data/train-00001-of-00002-701cda474601397f.parquet"
+    },
+    {
+        "id": "BAI-018",
+        "name": "Bangla Sign Sentences Excel",
+        "category_folder": "sign_language/bdsl36",
+        "filename": "Bangla_Sign_Sentence.xlsx",
+        "url": "https://huggingface.co/datasets/banglagov/Ban-Sign-Sent-9K-V1/resolve/main/Bangla_Sign_Sentence.xlsx"
     }
 ]
 

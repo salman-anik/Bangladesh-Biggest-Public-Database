@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Forest Land Classification & Area Coverage of Bangladesh",
+  "country": "Bangladesh",
+  "category": "Environment & Biodiversity",
+  "subcategory": "Forestry",
+  "description": "Distribution of Hill Forests, Natural Sundarbans, Inland Sal Forests, and Coastal Plantations with geographic area in hectares and forest types.",
+  "source": "Bangladesh Forest Department (BFD) & FAO National Forest Assessment",
+  "source_url": "https://bforest.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 4,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

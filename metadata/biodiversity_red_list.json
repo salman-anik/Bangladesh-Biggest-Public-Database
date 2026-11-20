@@ -1,0 +1,21 @@
+{
+  "dataset_name": "IUCN Bangladesh Red List Threatened Species Summary",
+  "country": "Bangladesh",
+  "category": "Environment & Biodiversity",
+  "subcategory": "Endangered Species",
+  "description": "Evaluation of extinction risk across Mammals, Birds, Reptiles, Amphibians, and Freshwater Fishes categorized under IUCN Red List criteria.",
+  "source": "IUCN Bangladesh & Department of Environment (DoE)",
+  "source_url": "https://www.iucn.org/bangladesh",
+  "license": "Creative Commons Attribution (CC-BY 4.0)",
+  "last_updated": "2026-11-20",
+  "record_count": 6,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

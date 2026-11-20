@@ -1,0 +1,104 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bangladesh Public Database Dataset Metadata",
+  "description": "Standard metadata schema for every dataset in the Bangladesh Biggest Public Database repository.",
+  "type": "object",
+  "required": [
+    "dataset_name",
+    "country",
+    "category",
+    "description",
+    "source",
+    "source_url",
+    "license",
+    "last_updated",
+    "record_count",
+    "format",
+    "geographic_coverage",
+    "language",
+    "verification_status"
+  ],
+  "properties": {
+    "dataset_name": {
+      "type": "string",
+      "description": "Descriptive, human-readable title of the dataset."
+    },
+    "country": {
+      "type": "string",
+      "enum": ["Bangladesh"],
+      "default": "Bangladesh"
+    },
+    "category": {
+      "type": "string",
+      "description": "Primary subject category of the dataset."
+    },
+    "subcategory": {
+      "type": "string",
+      "description": "Optional secondary classification or topic."
+    },
+    "description": {
+      "type": "string",
+      "description": "Comprehensive summary of contents, scope, collection method, and notes."
+    },
+    "source": {
+      "type": "string",
+      "description": "Official organization, agency, ministry, or institution providing the data."
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Official URL or portal where the source data or reference publication is hosted."
+    },
+    "license": {
+      "type": "string",
+      "description": "Verified license (e.g., Open Government Data, CC-BY-4.0, MIT, Public Domain, or Source Reference)."
+    },
+    "last_updated": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Date of latest data verification or update in YYYY-MM-DD format."
+    },
+    "record_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Exact number of records or observations contained in the dataset."
+    },
+    "format": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["JSON", "CSV", "GeoJSON", "Parquet", "PDF", "ZIP", "TXT"]
+      },
+      "minItems": 1,
+      "description": "File formats available for this dataset."
+    },
+    "geographic_coverage": {
+      "type": "string",
+      "enum": ["National", "Division", "District", "Upazila", "Union", "City Corporation", "Municipal", "International", "Station-based"],
+      "description": "Geographical level of aggregation."
+    },
+    "language": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["Bangla", "English"]
+      },
+      "minItems": 1,
+      "description": "Languages present in the data headers or values."
+    },
+    "verification_status": {
+      "type": "string",
+      "enum": ["verified", "partially_verified", "unverified", "source_only"],
+      "description": "Verification state based on official primary source cross-referencing."
+    },
+    "citation": {
+      "type": "string",
+      "description": "Formal citation or reference string for academic and research publications."
+    },
+    "maintainer": {
+      "type": "string",
+      "description": "Project maintainer or curator."
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Bangladesh National Highways Network (RHD)",
+  "country": "Bangladesh",
+  "category": "Roads & Infrastructure",
+  "subcategory": "Highways",
+  "description": "Inventory of primary national highways (N1 through N8) designated by the Roads and Highways Department with route alignments, lengths in km, and lane configurations.",
+  "source": "Roads and Highways Department (RHD), Ministry of Road Transport and Bridges",
+  "source_url": "https://rhd.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 8,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "highway_no": "N1",
+    "highway_name": "Dhaka - Chattogram - Teknaf Highway",
+    "start_point": "Dhaka (Jatrabari)",
+    "end_point": "Teknaf (Cox's Bazar)",
+    "length_km": 455.3,
+    "lanes": 4,
+    "key_districts_served": "Dhaka, Narayanganj, Munshiganj, Cumilla, Feni, Chattogram, Cox's Bazar",
+    "status": "Operational (4-lane Expressway/National Highway)"
+  },
+  {
+    "highway_no": "N2",
+    "highway_name": "Dhaka - Sylhet - Tamabil Highway",
+    "start_point": "Dhaka (Kanchpur)",
+    "end_point": "Jaflong / Tamabil (Sylhet Border)",
+    "length_km": 286.4,
+    "lanes": 4,
+    "key_districts_served": "Dhaka, Narayanganj, Narsingdi, Kishoreganj, Brahmanbaria, Habiganj, Moulvibazar, Sylhet",
+    "status": "Operational / Upgradation to 4-lane ongoing"
+  },
+  {
+    "highway_no": "N3",
+    "highway_name": "Dhaka - Mymensingh Highway",
+    "start_point": "Dhaka (Airport / Tongi)",
+    "end_point": "Mymensingh (Bridge Mor)",
+    "length_km": 112.5,
+    "lanes": 4,
+    "key_districts_served": "Dhaka, Gazipur, Mymensingh",
+    "status": "Operational (4-lane Highway)"
+  },
+  {
+    "highway_no": "N4",
+    "highway_name": "Joydebpur - Tangail - Jamalpur Highway",
+    "start_point": "Joydebpur (Gazipur)",
+    "end_point": "Jamalpur",
+    "length_km": 146.4,
+    "lanes": 4,
+    "key_districts_served": "Gazipur, Tangail, Jamalpur",
+    "status": "Operational (Joydebpur-Elenga 4-lane)"
+  },
+  {
+    "highway_no": "N5",
+    "highway_name": "Dhaka - Bangabandhu Bridge - Bogura - Rangpur - Banglabandha Highway",
+    "start_point": "Dhaka (Mirpur / Gabtoli)",
+    "end_point": "Banglabandha (Panchagarh Border)",
+    "length_km": 492.2,
+    "lanes": 4,
+    "key_districts_served": "Dhaka, Manikganj, Tangail, Sirajganj, Bogura, Gaibandha, Rangpur, Dinajpur, Nilphamari, Panchagarh",
+    "status": "Operational / SASEC 4-lane Corridor"
+  },
+  {
+    "highway_no": "N6",
+    "highway_name": "Kashinathpur - Rajshahi Highway",
+    "start_point": "Kashinathpur (Pabna)",
+    "end_point": "Rajshahi (Nawabganj Border)",
+    "length_km": 152.8,
+    "lanes": 2,
+    "key_districts_served": "Pabna, Natore, Rajshahi, Chapainawabganj",
+    "status": "Operational (2-lane / Regional Corridor)"
+  },
+  {
+    "highway_no": "N7",
+    "highway_name": "Daulatdia - Faridpur - Jashore - Khulna - Mongla Highway",
+    "start_point": "Daulatdia Ferry Ghat (Rajbari)",
+    "end_point": "Mongla Port (Bagerhat)",
+    "length_km": 252.3,
+    "lanes": 2,
+    "key_districts_served": "Rajbari, Faridpur, Magura, Jhenaidah, Jashore, Khulna, Bagerhat",
+    "status": "Operational / Upgradation ongoing"
+  },
+  {
+    "highway_no": "N8",
+    "highway_name": "Dhaka - Mawa - Bhanga - Barishal - Patuakhali - Kuakata Highway (Bangabandhu Expressway)",
+    "start_point": "Dhaka (Postogola / Jatrabari)",
+    "end_point": "Kuakata (Patuakhali)",
+    "length_km": 218.4,
+    "lanes": 6,
+    "key_districts_served": "Dhaka, Munshiganj, Madaripur, Shariatpur, Faridpur, Barishal, Jhalakathi, Patuakhali",
+    "status": "Operational (Dhaka-Mawa-Bhanga Access-controlled Expressway)"
+  }
+]

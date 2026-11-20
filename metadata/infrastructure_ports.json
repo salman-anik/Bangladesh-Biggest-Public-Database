@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Seaports, Major River Ports, and Land Ports Directory",
+  "country": "Bangladesh",
+  "category": "Roads & Infrastructure",
+  "subcategory": "Ports & Connectivity",
+  "description": "Operational directory of international maritime seaports (Chattogram, Mongla, Payra, Matarbari), inland river ports (BIWTA), and primary trade land ports (BLPA).",
+  "source": "Chittagong Port Authority (CPA), BIWTA, and Bangladesh Land Port Authority (BLPA)",
+  "source_url": "https://cpa.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 10,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Bangladesh Railway Network Track Infrastructure",
+  "country": "Bangladesh",
+  "category": "Roads & Infrastructure",
+  "subcategory": "Railways",
+  "description": "Track gauge breakdown, route kilometer length, divisional structure, and station counts across East and West operational railway zones.",
+  "source": "Bangladesh Railway (BR) Information Book",
+  "source_url": "https://railway.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 2,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "port_name": "Chattogram Port (Chittagong Port)",
+    "port_type": "Seaport / Maritime Hub",
+    "location": "Chattogram (Karnaphuli Estuary)",
+    "berths_count": 19,
+    "annual_container_teus": 3140000,
+    "cargo_handling_mt": 118000000,
+    "governing_authority": "Chittagong Port Authority (CPA)",
+    "status": "Handles 90%+ of Bangladesh maritime container trade"
+  },
+  {
+    "port_name": "Mongla Port",
+    "port_type": "Seaport / Riverine Port",
+    "location": "Bagerhat / Khulna (Pashur River)",
+    "berths_count": 9,
+    "annual_container_teus": 150000,
+    "cargo_handling_mt": 13500000,
+    "governing_authority": "Mongla Port Authority (MPA)",
+    "status": "Second maritime port; key car import hub"
+  },
+  {
+    "port_name": "Payra Deep Seaport",
+    "port_type": "Deep Seaport",
+    "location": "Patuakhali (Rabnabad Channel)",
+    "berths_count": 4,
+    "annual_container_teus": 50000,
+    "cargo_handling_mt": 8200000,
+    "governing_authority": "Payra Port Authority (PPA)",
+    "status": "Operational first phase; coal import hub for Payra Power Plant"
+  },
+  {
+    "port_name": "Matarbari Deep Sea Port",
+    "port_type": "Deep Seaport (18.5m Draft)",
+    "location": "Cox's Bazar (Moheshkhali)",
+    "berths_count": 4,
+    "annual_container_teus": 800000,
+    "cargo_handling_mt": 12000000,
+    "governing_authority": "Chittagong Port Authority & JICA",
+    "status": "Under advanced commissioning; high-draft mother vessel port"
+  },
+  {
+    "port_name": "Dhaka River Port (Sadarghat Terminal)",
+    "port_type": "Inland River Port",
+    "location": "Dhaka (Buriganga River)",
+    "berths_count": 32,
+    "annual_container_teus": 0,
+    "cargo_handling_mt": 6500000,
+    "governing_authority": "BIWTA",
+    "status": "Largest passenger inland river terminal in South Asia"
+  },
+  {
+    "port_name": "Narayanganj River Port",
+    "port_type": "Inland River & Container Port",
+    "location": "Narayanganj (Shitalakshya River)",
+    "berths_count": 14,
+    "annual_container_teus": 85000,
+    "cargo_handling_mt": 9200000,
+    "governing_authority": "BIWTA / Pangaon ICT",
+    "status": "Premier industrial inland river port and container hub"
+  },
+  {
+    "port_name": "Barishal River Port",
+    "port_type": "Inland River Port",
+    "location": "Barishal (Kirtankhola River)",
+    "berths_count": 10,
+    "annual_container_teus": 0,
+    "cargo_handling_mt": 2400000,
+    "governing_authority": "BIWTA",
+    "status": "Hub for Southern coastal passenger launches and freight"
+  },
+  {
+    "port_name": "Chandpur River Port",
+    "port_type": "Inland River Port",
+    "location": "Chandpur (Meghna-Dakatia confluence)",
+    "berths_count": 8,
+    "annual_container_teus": 0,
+    "cargo_handling_mt": 1800000,
+    "governing_authority": "BIWTA",
+    "status": "Crucial river junction for Padma-Meghna shipping"
+  },
+  {
+    "port_name": "Benapole Land Port",
+    "port_type": "Land Port (ICD)",
+    "location": "Jashore (Border with Petrapole, India)",
+    "berths_count": 0,
+    "annual_container_teus": 0,
+    "cargo_handling_mt": 2200000,
+    "governing_authority": "Bangladesh Land Port Authority (BLPA)",
+    "status": "Largest land customs port; handles 80%+ land trade with India"
+  },
+  {
+    "port_name": "Burimari Land Port",
+    "port_type": "Land Port",
+    "location": "Lalmonirhat (Border with Changrabandha, India)",
+    "berths_count": 0,
+    "annual_container_teus": 0,
+    "cargo_handling_mt": 1100000,
+    "governing_authority": "Bangladesh Land Port Authority (BLPA)",
+    "status": "Key land port for stone and Bhutan/India transit trade"
+  }
+]

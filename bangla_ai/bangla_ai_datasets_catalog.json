@@ -1,0 +1,200 @@
+[
+  {
+    "id": "BAI-001",
+    "task_category": "Large Pre-training Text Corpora",
+    "dataset_name": "Bangla2B+ / C4 Bangla Subset",
+    "institution_or_author": "Allen Institute for AI & Hugging Face",
+    "huggingface_or_github_id": "allenai/c4",
+    "size_or_records": "2+ Billion Tokens / 15M Documents",
+    "license": "ODC-BY",
+    "description": "Massive cleaned web crawl corpus of natural Bengali text suitable for pre-training large language models (BERT, RoBERTa, GPT).",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('allenai/c4', 'bn', split='train', streaming=True)"
+  },
+  {
+    "id": "BAI-002",
+    "task_category": "Large Pre-training Text Corpora",
+    "dataset_name": "BanglaBERT Pre-training Corpus",
+    "institution_or_author": "Bhasha-Protichhobi / SUST & CSE BUET",
+    "huggingface_or_github_id": "csebuetnlp/banglabert",
+    "size_or_records": "27.5 GB Text / 110M Sentences",
+    "license": "CC-BY-NC-SA-4.0",
+    "description": "Curated corpus extracted from 110+ Bangladeshi news portals, articles, and blogs used to train state-of-the-art BanglaBERT.",
+    "python_load_code": "from transformers import AutoTokenizer, AutoModel\ntok = AutoTokenizer.from_pretrained('csebuetnlp/banglabert')"
+  },
+  {
+    "id": "BAI-003",
+    "task_category": "Parallel Translation Corpora",
+    "dataset_name": "BanglaPARAPH / IndicTrans2 Bangla-English",
+    "institution_or_author": "AI4Bharat, IIT Madras",
+    "huggingface_or_github_id": "ai4bharat/indictrans2-indic-en-1B",
+    "size_or_records": "5.4 Million Parallel Sentence Pairs",
+    "license": "CC-BY-4.0",
+    "description": "Highest-quality parallel sentence alignment between Bengali and English across news, government gazettes, and literature.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('ai4bharat/IndicTrans2', 'bn-en')"
+  },
+  {
+    "id": "BAI-004",
+    "task_category": "Parallel Translation Corpora",
+    "dataset_name": "BanglaParaphrase Dataset",
+    "institution_or_author": "CSE BUET NLP Group",
+    "huggingface_or_github_id": "csebuetnlp/banglaparaphrase",
+    "size_or_records": "512,000 Paraphrase Sentence Pairs",
+    "license": "MIT",
+    "description": "Syntactically diverse and semantically equivalent Bangla sentence pairs for text augmentation and generation evaluation.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('csebuetnlp/banglaparaphrase')"
+  },
+  {
+    "id": "BAI-005",
+    "task_category": "Sentiment Analysis",
+    "dataset_name": "SentNoB (Sentiment Analysis on Noisy Bangla Texts)",
+    "institution_or_author": "SUST & Jahangirnagar University (Islam et al.)",
+    "huggingface_or_github_id": "Universal-SentNoB/SentNoB",
+    "size_or_records": "15,728 Annotated Social Comments",
+    "license": "CC-BY-4.0",
+    "description": "Social media user comments annotated with 3-class sentiment (Positive, Negative, Neutral) capturing informal spelling and regional slang.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('Universal-SentNoB/SentNoB')"
+  },
+  {
+    "id": "BAI-006",
+    "task_category": "Sentiment Analysis",
+    "dataset_name": "Bangla Book Reviews Sentiment Dataset",
+    "institution_or_author": "East West University NLP Lab",
+    "huggingface_or_github_id": "salman-anik/bangla-sentiment-reviews",
+    "size_or_records": "5,200 Consumer & Literary Reviews",
+    "license": "MIT",
+    "description": "Consumer product and literary reviews in Bangla annotated with polarity and 5-star ratings.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('salman-anik/bangla-sentiment-reviews')"
+  },
+  {
+    "id": "BAI-007",
+    "task_category": "Named Entity Recognition (NER)",
+    "dataset_name": "BanglaNER (B-NER) Corpus",
+    "institution_or_author": "Shahjalal University of Science & Technology (SUST)",
+    "huggingface_or_github_id": "sagorsarker/bangla-ner",
+    "size_or_records": "38,000 Annotated Sentences (BIO format)",
+    "license": "MIT",
+    "description": "Gold-standard CoNLL formatted Named Entity Recognition tags covering Person (PER), Organization (ORG), and Location (LOC) entities.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('sagorsarker/bangla-ner')"
+  },
+  {
+    "id": "BAI-008",
+    "task_category": "Named Entity Recognition (NER)",
+    "dataset_name": "WikiANN (Bangla Split)",
+    "institution_or_author": "Pan et al. & Google Research",
+    "huggingface_or_github_id": "wikiann",
+    "size_or_records": "20,000 Wikipedia Named Entity Sentences",
+    "license": "CC-BY-SA-3.0",
+    "description": "Cross-lingual NER dataset derived from Wikipedia articles for PER, ORG, LOC extraction in Bangla.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('wikiann', 'bn')"
+  },
+  {
+    "id": "BAI-009",
+    "task_category": "Question Answering (QA)",
+    "dataset_name": "BanglaRQA (Reading Comprehension QA)",
+    "institution_or_author": "CSE BUET & UIU",
+    "huggingface_or_github_id": "csebuetnlp/banglarqa",
+    "size_or_records": "14,889 SQuAD-style Context-Question-Answer Triples",
+    "license": "CC-BY-NC-SA-4.0",
+    "description": "Extractive question answering dataset based on Bangladeshi Wikipedia and textbooks with exact answer character spans.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('csebuetnlp/banglarqa')"
+  },
+  {
+    "id": "BAI-010",
+    "task_category": "Speech Recognition (ASR)",
+    "dataset_name": "Mozilla Common Voice (Bangla Speech Corpus)",
+    "institution_or_author": "Mozilla Foundation & Bangladeshi Community",
+    "huggingface_or_github_id": "mozilla-foundation/common_voice_16_1",
+    "size_or_records": "412 Hours Validated Audio (185,000+ Clips)",
+    "license": "CC-0 (Public Domain)",
+    "description": "Crowdsourced voice recordings of native speakers from across Bangladesh with verified transcripts, age, and accent tags.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('mozilla-foundation/common_voice_16_1', 'bn', split='train')"
+  },
+  {
+    "id": "BAI-011",
+    "task_category": "Speech Recognition (ASR)",
+    "dataset_name": "Bengali.AI ASR Speech Corpus",
+    "institution_or_author": "Bengali.AI Community (Tareq et al.)",
+    "huggingface_or_github_id": "bengaliai/bengaliai-speech",
+    "size_or_records": "1,200 Hours Spontaneous Speech",
+    "license": "CC-BY-NC-4.0",
+    "description": "Diverse dialect and spontaneous conversational speech collected across rural and urban districts of Bangladesh.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('bengaliai/bengaliai-speech')"
+  },
+  {
+    "id": "BAI-012",
+    "task_category": "Text-to-Speech (TTS)",
+    "dataset_name": "Google Indic TTS (Bengali Female/Male Voices)",
+    "institution_or_author": "Google Research & HearThis.at",
+    "huggingface_or_github_id": "google/fleurs",
+    "size_or_records": "12.5 Hours High-Fidelity Studio Recordings (22kHz)",
+    "license": "CC-BY-4.0",
+    "description": "Clean, phonetically balanced studio-recorded audio clips paired with normalized Bangla text for TTS model training.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('google/fleurs', 'bn_in', split='train')"
+  },
+  {
+    "id": "BAI-013",
+    "task_category": "Handwriting Recognition",
+    "dataset_name": "BanglaLekha-Isolated (Handwritten Characters)",
+    "institution_or_author": "Biswas et al., University of Dhaka",
+    "huggingface_or_github_id": "banglalekha/banglalekha-isolated",
+    "size_or_records": "166,105 Isolated Character Images (84 Classes)",
+    "license": "CC-BY-NC-4.0",
+    "description": "Comprehensive dataset of isolated handwritten characters (50 basic characters, 10 numerals, 24 compound characters/Juktakkhor).",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('banglalekha_isolated')"
+  },
+  {
+    "id": "BAI-014",
+    "task_category": "Optical Character Recognition (OCR)",
+    "dataset_name": "Ekush - Handwritten & Printed Bengali OCR",
+    "institution_or_author": "CUET & SUST (Adnan et al.)",
+    "huggingface_or_github_id": "shahariar/ekush",
+    "size_or_records": "36,708 High-Resolution Digit & Word Samples",
+    "license": "MIT",
+    "description": "Multi-author handwritten characters and printed historical Bangla book pages designed for OCR engine training (Tesseract/PaddleOCR).",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('shahariar/ekush')"
+  },
+  {
+    "id": "BAI-015",
+    "task_category": "Regional Dialect Identification",
+    "dataset_name": "Bangla Regional Dialect Corpus (DialectBD)",
+    "institution_or_author": "BRAC University & EWU",
+    "huggingface_or_github_id": "bangla-nlp/regional-dialects",
+    "size_or_records": "24,000 Audio & Text Samples across 5 Dialects",
+    "license": "CC-BY-4.0",
+    "description": "Paired audio-text samples across 5 major dialectal regions: Sylheti, Chittagonian (Chatgaya), Noakhali, Barishali, and Rangpuri.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('bangla-nlp/regional-dialects')"
+  },
+  {
+    "id": "BAI-016",
+    "task_category": "Fake News & Misinformation Detection",
+    "dataset_name": "BanFakeNews (Bangla Fake News Dataset)",
+    "institution_or_author": "Hossain et al. (BUET & North South University)",
+    "huggingface_or_github_id": "rabindralabs/banfakenews",
+    "size_or_records": "50,000 Annotated News Articles",
+    "license": "CC-BY-4.0",
+    "description": "Authentic vs satirical and fabricated news articles collected from Bangladeshi media and verified through fact-checking agencies.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('rabindralabs/banfakenews')"
+  },
+  {
+    "id": "BAI-017",
+    "task_category": "Image Captioning & Multimodal",
+    "dataset_name": "BanglaLekha-ImageCaption / Bengali COCO",
+    "institution_or_author": "Ahsan et al., University of Dhaka",
+    "huggingface_or_github_id": "banglalekha/image-caption-bn",
+    "size_or_records": "9,150 Images with 45,750 Native Bangla Captions",
+    "license": "CC-BY-4.0",
+    "description": "MS-COCO subset translated and culturally adapted with 5 independent native Bengali captions per image.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('banglalekha/image-caption-bn')"
+  },
+  {
+    "id": "BAI-018",
+    "task_category": "Sign Language Recognition",
+    "dataset_name": "BdSL36 - Bangladesh Sign Language Dataset",
+    "institution_or_author": "Rahman et al., Jahangirnagar University",
+    "huggingface_or_github_id": "bdsl/bdsl36",
+    "size_or_records": "36,000 Sign Gesture Images across 36 Alphabet Classes",
+    "license": "CC-BY-NC-4.0",
+    "description": "Standardized Bangladesh Sign Language (BdSL) alphabets and numbers captured under diverse lighting and camera angles.",
+    "python_load_code": "from datasets import load_dataset\nds = load_dataset('bdsl/bdsl36')"
+  }
+]

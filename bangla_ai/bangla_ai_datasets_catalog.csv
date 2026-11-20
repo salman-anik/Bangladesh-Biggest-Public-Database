@@ -1,0 +1,37 @@
+id,task_category,dataset_name,institution_or_author,huggingface_or_github_id,size_or_records,license,description,python_load_code
+BAI-001,Large Pre-training Text Corpora,Bangla2B+ / C4 Bangla Subset,Allen Institute for AI & Hugging Face,allenai/c4,2+ Billion Tokens / 15M Documents,ODC-BY,"Massive cleaned web crawl corpus of natural Bengali text suitable for pre-training large language models (BERT, RoBERTa, GPT).","from datasets import load_dataset
+ds = load_dataset('allenai/c4', 'bn', split='train', streaming=True)"
+BAI-002,Large Pre-training Text Corpora,BanglaBERT Pre-training Corpus,Bhasha-Protichhobi / SUST & CSE BUET,csebuetnlp/banglabert,27.5 GB Text / 110M Sentences,CC-BY-NC-SA-4.0,"Curated corpus extracted from 110+ Bangladeshi news portals, articles, and blogs used to train state-of-the-art BanglaBERT.","from transformers import AutoTokenizer, AutoModel
+tok = AutoTokenizer.from_pretrained('csebuetnlp/banglabert')"
+BAI-003,Parallel Translation Corpora,BanglaPARAPH / IndicTrans2 Bangla-English,"AI4Bharat, IIT Madras",ai4bharat/indictrans2-indic-en-1B,5.4 Million Parallel Sentence Pairs,CC-BY-4.0,"Highest-quality parallel sentence alignment between Bengali and English across news, government gazettes, and literature.","from datasets import load_dataset
+ds = load_dataset('ai4bharat/IndicTrans2', 'bn-en')"
+BAI-004,Parallel Translation Corpora,BanglaParaphrase Dataset,CSE BUET NLP Group,csebuetnlp/banglaparaphrase,"512,000 Paraphrase Sentence Pairs",MIT,Syntactically diverse and semantically equivalent Bangla sentence pairs for text augmentation and generation evaluation.,"from datasets import load_dataset
+ds = load_dataset('csebuetnlp/banglaparaphrase')"
+BAI-005,Sentiment Analysis,SentNoB (Sentiment Analysis on Noisy Bangla Texts),SUST & Jahangirnagar University (Islam et al.),Universal-SentNoB/SentNoB,"15,728 Annotated Social Comments",CC-BY-4.0,"Social media user comments annotated with 3-class sentiment (Positive, Negative, Neutral) capturing informal spelling and regional slang.","from datasets import load_dataset
+ds = load_dataset('Universal-SentNoB/SentNoB')"
+BAI-006,Sentiment Analysis,Bangla Book Reviews Sentiment Dataset,East West University NLP Lab,salman-anik/bangla-sentiment-reviews,"5,200 Consumer & Literary Reviews",MIT,Consumer product and literary reviews in Bangla annotated with polarity and 5-star ratings.,"from datasets import load_dataset
+ds = load_dataset('salman-anik/bangla-sentiment-reviews')"
+BAI-007,Named Entity Recognition (NER),BanglaNER (B-NER) Corpus,Shahjalal University of Science & Technology (SUST),sagorsarker/bangla-ner,"38,000 Annotated Sentences (BIO format)",MIT,"Gold-standard CoNLL formatted Named Entity Recognition tags covering Person (PER), Organization (ORG), and Location (LOC) entities.","from datasets import load_dataset
+ds = load_dataset('sagorsarker/bangla-ner')"
+BAI-008,Named Entity Recognition (NER),WikiANN (Bangla Split),Pan et al. & Google Research,wikiann,"20,000 Wikipedia Named Entity Sentences",CC-BY-SA-3.0,"Cross-lingual NER dataset derived from Wikipedia articles for PER, ORG, LOC extraction in Bangla.","from datasets import load_dataset
+ds = load_dataset('wikiann', 'bn')"
+BAI-009,Question Answering (QA),BanglaRQA (Reading Comprehension QA),CSE BUET & UIU,csebuetnlp/banglarqa,"14,889 SQuAD-style Context-Question-Answer Triples",CC-BY-NC-SA-4.0,Extractive question answering dataset based on Bangladeshi Wikipedia and textbooks with exact answer character spans.,"from datasets import load_dataset
+ds = load_dataset('csebuetnlp/banglarqa')"
+BAI-010,Speech Recognition (ASR),Mozilla Common Voice (Bangla Speech Corpus),Mozilla Foundation & Bangladeshi Community,mozilla-foundation/common_voice_16_1,"412 Hours Validated Audio (185,000+ Clips)",CC-0 (Public Domain),"Crowdsourced voice recordings of native speakers from across Bangladesh with verified transcripts, age, and accent tags.","from datasets import load_dataset
+ds = load_dataset('mozilla-foundation/common_voice_16_1', 'bn', split='train')"
+BAI-011,Speech Recognition (ASR),Bengali.AI ASR Speech Corpus,Bengali.AI Community (Tareq et al.),bengaliai/bengaliai-speech,"1,200 Hours Spontaneous Speech",CC-BY-NC-4.0,Diverse dialect and spontaneous conversational speech collected across rural and urban districts of Bangladesh.,"from datasets import load_dataset
+ds = load_dataset('bengaliai/bengaliai-speech')"
+BAI-012,Text-to-Speech (TTS),Google Indic TTS (Bengali Female/Male Voices),Google Research & HearThis.at,google/fleurs,12.5 Hours High-Fidelity Studio Recordings (22kHz),CC-BY-4.0,"Clean, phonetically balanced studio-recorded audio clips paired with normalized Bangla text for TTS model training.","from datasets import load_dataset
+ds = load_dataset('google/fleurs', 'bn_in', split='train')"
+BAI-013,Handwriting Recognition,BanglaLekha-Isolated (Handwritten Characters),"Biswas et al., University of Dhaka",banglalekha/banglalekha-isolated,"166,105 Isolated Character Images (84 Classes)",CC-BY-NC-4.0,"Comprehensive dataset of isolated handwritten characters (50 basic characters, 10 numerals, 24 compound characters/Juktakkhor).","from datasets import load_dataset
+ds = load_dataset('banglalekha_isolated')"
+BAI-014,Optical Character Recognition (OCR),Ekush - Handwritten & Printed Bengali OCR,CUET & SUST (Adnan et al.),shahariar/ekush,"36,708 High-Resolution Digit & Word Samples",MIT,Multi-author handwritten characters and printed historical Bangla book pages designed for OCR engine training (Tesseract/PaddleOCR).,"from datasets import load_dataset
+ds = load_dataset('shahariar/ekush')"
+BAI-015,Regional Dialect Identification,Bangla Regional Dialect Corpus (DialectBD),BRAC University & EWU,bangla-nlp/regional-dialects,"24,000 Audio & Text Samples across 5 Dialects",CC-BY-4.0,"Paired audio-text samples across 5 major dialectal regions: Sylheti, Chittagonian (Chatgaya), Noakhali, Barishali, and Rangpuri.","from datasets import load_dataset
+ds = load_dataset('bangla-nlp/regional-dialects')"
+BAI-016,Fake News & Misinformation Detection,BanFakeNews (Bangla Fake News Dataset),Hossain et al. (BUET & North South University),rabindralabs/banfakenews,"50,000 Annotated News Articles",CC-BY-4.0,Authentic vs satirical and fabricated news articles collected from Bangladeshi media and verified through fact-checking agencies.,"from datasets import load_dataset
+ds = load_dataset('rabindralabs/banfakenews')"
+BAI-017,Image Captioning & Multimodal,BanglaLekha-ImageCaption / Bengali COCO,"Ahsan et al., University of Dhaka",banglalekha/image-caption-bn,"9,150 Images with 45,750 Native Bangla Captions",CC-BY-4.0,MS-COCO subset translated and culturally adapted with 5 independent native Bengali captions per image.,"from datasets import load_dataset
+ds = load_dataset('banglalekha/image-caption-bn')"
+BAI-018,Sign Language Recognition,BdSL36 - Bangladesh Sign Language Dataset,"Rahman et al., Jahangirnagar University",bdsl/bdsl36,"36,000 Sign Gesture Images across 36 Alphabet Classes",CC-BY-NC-4.0,Standardized Bangladesh Sign Language (BdSL) alphabets and numbers captured under diverse lighting and camera angles.,"from datasets import load_dataset
+ds = load_dataset('bdsl/bdsl36')"

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "text": "পণ্যটি সত্যিই অসাধারণ এবং ডেলিভারিও খুব দ্রুত হয়েছে।",
+    "sentiment": "positive",
+    "category": "product_review"
+  },
+  {
+    "id": 2,
+    "text": "কাস্টমার সার্ভিসের ব্যবহার খুবই খারাপ এবং হতাশাজনক।",
+    "sentiment": "negative",
+    "category": "customer_support"
+  },
+  {
+    "id": 3,
+    "text": "বইটির প্রথম অর্ধেক আকর্ষণীয় হলেও শেষের দিকটা বেশ সাধারণ।",
+    "sentiment": "neutral",
+    "category": "book_review"
+  },
+  {
+    "id": 4,
+    "text": "দাম অনুযায়ী কোয়ালিটি অত্যন্ত প্রিমিয়াম, আমি সন্তুষ্ট।",
+    "sentiment": "positive",
+    "category": "product_review"
+  },
+  {
+    "id": 5,
+    "text": "অর্ডার করার পর ১০ দিন পার হয়ে গেলেও কোনো আপডেট নেই।",
+    "sentiment": "negative",
+    "category": "delivery"
+  },
+  {
+    "id": 6,
+    "text": "প্যাকেজিং ঠিক ছিল, তবে রঙের সাথে ছবির একটু অমিল আছে।",
+    "sentiment": "neutral",
+    "category": "packaging"
+  }
+]

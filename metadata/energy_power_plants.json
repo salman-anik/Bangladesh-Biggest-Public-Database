@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Major Power Plants of Bangladesh & Generation Capacity",
+  "country": "Bangladesh",
+  "category": "Energy & Utilities",
+  "subcategory": "Power Generation",
+  "description": "Grid-connected thermal, combined cycle, coal, hydro, and nuclear power stations in Bangladesh with installed and derated capacity (MW), fuel type, and operator.",
+  "source": "Bangladesh Power Development Board (BPDB)",
+  "source_url": "https://bpdb.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 10,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "plant_name": "Payra Thermal Power Plant (Unit 1 & 2)",
+    "location": "Kalapara, Patuakhali",
+    "installed_capacity_mw": 1320,
+    "derated_capacity_mw": 1244,
+    "primary_fuel": "Imported Coal (Ultra Supercritical)",
+    "owner_operator": "Bangladesh-China Power Company Ltd (BCPCL)",
+    "commissioned_year": 2020,
+    "grid_voltage_kv": 400
+  },
+  {
+    "plant_name": "Rampal Maitree Super Thermal Power Project",
+    "location": "Rampal, Bagerhat",
+    "installed_capacity_mw": 1320,
+    "derated_capacity_mw": 1234,
+    "primary_fuel": "Imported Coal (Ultra Supercritical)",
+    "owner_operator": "Bangladesh-India Friendship Power Co. (BIFPCL)",
+    "commissioned_year": 2022,
+    "grid_voltage_kv": 400
+  },
+  {
+    "plant_name": "Matarbari Ultra Supercritical Coal Power Plant",
+    "location": "Moheshkhali, Cox's Bazar",
+    "installed_capacity_mw": 1200,
+    "derated_capacity_mw": 1200,
+    "primary_fuel": "Imported Coal (Ultra Supercritical)",
+    "owner_operator": "Coal Power Generation Company BD (CPGCBL)",
+    "commissioned_year": 2024,
+    "grid_voltage_kv": 400
+  },
+  {
+    "plant_name": "Ghorashal Power Station (Combined Cycle Repowered)",
+    "location": "Palash, Narsingdi",
+    "installed_capacity_mw": 950,
+    "derated_capacity_mw": 870,
+    "primary_fuel": "Natural Gas",
+    "owner_operator": "Bangladesh Power Development Board (BPDB)",
+    "commissioned_year": 2018,
+    "grid_voltage_kv": 230
+  },
+  {
+    "plant_name": "Ashuganj Power Station (Combined Cycle North & South)",
+    "location": "Ashuganj, Brahmanbaria",
+    "installed_capacity_mw": 1590,
+    "derated_capacity_mw": 1475,
+    "primary_fuel": "Natural Gas",
+    "owner_operator": "Ashuganj Power Station Company Ltd (APSCL)",
+    "commissioned_year": 2017,
+    "grid_voltage_kv": 230
+  },
+  {
+    "plant_name": "Sirajganj Combined Cycle Power Plant (Units 1-4)",
+    "location": "Sirajganj Sadar",
+    "installed_capacity_mw": 845,
+    "derated_capacity_mw": 810,
+    "primary_fuel": "Natural Gas / Dual Fuel",
+    "owner_operator": "North-West Power Generation Co. (NWPGCL)",
+    "commissioned_year": 2019,
+    "grid_voltage_kv": 230
+  },
+  {
+    "plant_name": "Meghnaghat Combined Cycle Power Plant (Summit / Unique)",
+    "location": "Meghnaghat, Narayanganj",
+    "installed_capacity_mw": 1168,
+    "derated_capacity_mw": 1130,
+    "primary_fuel": "Natural Gas / R-LNG",
+    "owner_operator": "Summit Meghnaghat II / Unique Meghnaghat",
+    "commissioned_year": 2024,
+    "grid_voltage_kv": 400
+  },
+  {
+    "plant_name": "Bibiyana Gas Combined Cycle (Units II & III)",
+    "location": "Nabiganj, Habiganj",
+    "installed_capacity_mw": 780,
+    "derated_capacity_mw": 740,
+    "primary_fuel": "Natural Gas",
+    "owner_operator": "BPDB",
+    "commissioned_year": 2019,
+    "grid_voltage_kv": 230
+  },
+  {
+    "plant_name": "Karnafuli Hydro Power Station",
+    "location": "Kaptai, Rangamati",
+    "installed_capacity_mw": 230,
+    "derated_capacity_mw": 230,
+    "primary_fuel": "Hydro Electricity",
+    "owner_operator": "BPDB",
+    "commissioned_year": 1962,
+    "grid_voltage_kv": 132
+  },
+  {
+    "plant_name": "Rooppur Nuclear Power Plant (Under Commissioning)",
+    "location": "Ishwardi, Pabna",
+    "installed_capacity_mw": 2400,
+    "derated_capacity_mw": 2400,
+    "primary_fuel": "Uranium / Nuclear VVER-1200",
+    "owner_operator": "Nuclear Power Plant Company BD (NPCBL)",
+    "commissioned_year": 2025,
+    "grid_voltage_kv": 400
+  }
+]

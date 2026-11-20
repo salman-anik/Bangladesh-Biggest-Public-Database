@@ -1,0 +1,50 @@
+[
+  {
+    "utility_name": "Bangladesh Rural Electrification Board (BREB)",
+    "service_area": "All Rural & Peri-urban areas nationwide (80 Palli Bidyut Samities)",
+    "customer_connections": 34850000,
+    "peak_demand_mw": 9650,
+    "system_loss_pct": 8.7,
+    "distribution_line_km": 574000
+  },
+  {
+    "utility_name": "Dhaka Power Distribution Company (DPDC)",
+    "service_area": "Dhaka South City & Narayanganj City",
+    "customer_connections": 1720000,
+    "peak_demand_mw": 1920,
+    "system_loss_pct": 6.8,
+    "distribution_line_km": 6120
+  },
+  {
+    "utility_name": "Dhaka Electric Supply Company (DESCO)",
+    "service_area": "Dhaka North City, Mirpur, Uttara, Tongi",
+    "customer_connections": 1280000,
+    "peak_demand_mw": 1380,
+    "system_loss_pct": 5.4,
+    "distribution_line_km": 5640
+  },
+  {
+    "utility_name": "Northern Electricity Supply Company (NESCO)",
+    "service_area": "Urban areas of Rajshahi and Rangpur Divisions",
+    "customer_connections": 1950000,
+    "peak_demand_mw": 1240,
+    "system_loss_pct": 8.9,
+    "distribution_line_km": 24500
+  },
+  {
+    "utility_name": "West Zone Power Distribution Company (WZPDCL)",
+    "service_area": "Urban areas of Khulna, Barishal, and Greater Faridpur",
+    "customer_connections": 1540000,
+    "peak_demand_mw": 890,
+    "system_loss_pct": 7.6,
+    "distribution_line_km": 15800
+  },
+  {
+    "utility_name": "Bangladesh Power Development Board (BPDB - Distribution)",
+    "service_area": "Urban zones of Chattogram, Cumilla, Sylhet, Mymensingh",
+    "customer_connections": 3820000,
+    "peak_demand_mw": 2450,
+    "system_loss_pct": 8.1,
+    "distribution_line_km": 68200
+  }
+]

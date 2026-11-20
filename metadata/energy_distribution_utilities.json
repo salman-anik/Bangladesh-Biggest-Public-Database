@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Electricity Distribution Utilities Coverage and Performance",
+  "country": "Bangladesh",
+  "category": "Energy & Utilities",
+  "subcategory": "Distribution & Grid",
+  "description": "Comparative operational metrics for BREB, DPDC, DESCO, NESCO, WZPDCL, and BPDB covering customer numbers, peak demand (MW), and system losses.",
+  "source": "Power Division, Ministry of Power, Energy and Mineral Resources",
+  "source_url": "https://powerdivision.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 6,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

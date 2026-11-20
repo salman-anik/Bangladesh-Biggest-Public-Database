@@ -1,0 +1,21 @@
+{
+  "dataset_name": "National Power Generation Installed Capacity by Fuel Type",
+  "country": "Bangladesh",
+  "category": "Energy & Utilities",
+  "subcategory": "Fuel Mix",
+  "description": "Composition of national installed grid power capacity across Gas, Furnace Oil, Coal, Indian Cross-Border Imports, Hydro, and Renewables.",
+  "source": "Bangladesh Power Development Board (BPDB) & Power Division",
+  "source_url": "https://bpdb.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 7,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "National",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

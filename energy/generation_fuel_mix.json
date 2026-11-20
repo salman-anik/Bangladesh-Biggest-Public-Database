@@ -1,0 +1,44 @@
+[
+  {
+    "fuel_category": "Natural Gas",
+    "installed_capacity_mw": 11380,
+    "share_percentage": 43.1,
+    "trend": "Declining share due to domestic gas depletion and LNG price volatility"
+  },
+  {
+    "fuel_category": "Furnace Oil (HFO)",
+    "installed_capacity_mw": 5920,
+    "share_percentage": 22.4,
+    "trend": "Peaking plants; high generation cost per unit"
+  },
+  {
+    "fuel_category": "Coal (Imported & Domestic Barapukuria)",
+    "installed_capacity_mw": 5860,
+    "share_percentage": 22.2,
+    "trend": "Rapidly expanded base-load generation via Payra, Rampal, Matarbari"
+  },
+  {
+    "fuel_category": "Power Import from India (Adani Godda, Bheramara, Tripura)",
+    "installed_capacity_mw": 2656,
+    "share_percentage": 10.1,
+    "trend": "Cross-border high-voltage interconnections"
+  },
+  {
+    "fuel_category": "Diesel (HSD)",
+    "installed_capacity_mw": 225,
+    "share_percentage": 0.9,
+    "trend": "Mostly phased out due to extreme generation costs"
+  },
+  {
+    "fuel_category": "Hydro Electricity (Kaptai)",
+    "installed_capacity_mw": 230,
+    "share_percentage": 0.9,
+    "trend": "Single national hydro asset in Chittagong Hill Tracts"
+  },
+  {
+    "fuel_category": "Renewable (Solar & Wind Grid-tied)",
+    "installed_capacity_mw": 610,
+    "share_percentage": 2.3,
+    "trend": "Accelerating utility-scale solar parks and industrial net-metering"
+  }
+]

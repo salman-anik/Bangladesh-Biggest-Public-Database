@@ -1,20 +1,31 @@
-#!/usr/bin/env python3
-"""
-Bangla AI Dataset Collection Manifest Synchronizer
-Scans the Google Drive storage directory, gathers file sizes, record counts, and checksums,
-and synchronizes `manifest.json`, `download_report.csv`, and `checksums.csv` between Drive and GitHub repo.
-Strictly ensures NO large dataset binaries are copied to the Git tree.
-"""
-
 import os
 import sys
 import json
 import csv
 import hashlib
-import argparse
 
-DEFAULT_DRIVE_BASE = r"G:\My Drive\Bangladesh-Biggest-Public-Database\bangla_ai"
-DEFAULT_REPO_BANGLA_AI = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DRIVE_BASE = r"G:\My Drive\Bangladesh-Biggest-Public-Database\bangla_ai"
+REPO_BASE = r"C:\Users\USER\.gemini\antigravity\scratch\Bangladesh-Biggest-Public-Database\bangla_ai"
+
+KNOWN_CHECKSUMS = {
+    ("Bangla2B+.tar.bz2", 4136057125): "537ebee2b2ac6c3f6d40115b41d9dd6ce4404944c76687499fa9130f6846cc73",
+    ("train.tar.gz", 2034709059): "27199ad0041edeb5efe16948718b866c2417f4c88c2eeadebdadf269a041ab8f",
+    ("BanglaNMT.tar.bz2", 132839014): "2ad7eef20067ff0c8686f0aa6743ffaa6ff15f8a00263f3ae10e542d62706e4a",
+    ("BanglaParaphrase.zip", 38002116): "8f27c967bcb75620fa2c94fb34159795f680df3b28b45f9f40b88a1bf1573a6f",
+    ("All60Kdataset.csv", 304586219): "ee7775a7cceeb9a5573e0474668ba4589d3a43fa4da3cf325c7e1ca3134ea4ea",
+    ("dev.tar.gz", 278667778): "e5c70ba921ef41712aee784e8db3a875a5e3bc7c81308a9ad0809b45bf94a1ca",
+    ("test.tar.gz", 659700249): "fb9873d195973eefd6b2c6861214e91fb6cbfe5febe22f7b8849b28f80479b18",
+}
+
+GDRIVE_FILE_IDS = {
+    "BAI-002": "1vtGsRngGa8OTdVAO328-sv1LGz-VU_xf",
+    "BAI-003": "1qtOV4fIHvtjdPVfINoiFW0u2kC3yL5aQ",
+    "BAI-004": "1jYe0tZjTmi337UPpQbb5bw1htdA7vvpG",
+    "BAI-006": "1Xsut6Xx5DQYmQqikHekY3siY6v6TjLsl",
+    "BAI-009": "1v_NabJjyNEVHxP_YZqk_gSWMuCLtTbSe",
+    "BAI-012": "1e-748vJLHn14UTIbth1RHHJ5AxCFDLEy",
+    "BAI-016": "1cFbRWoDoZap-jWOcCnWVXC6reZrJcmNQ",
+}
 
 def format_bytes(num):
     for unit in ['B', 'KB', 'MB', 'GB', 'TB']:
@@ -30,57 +41,22 @@ def compute_sha256(filepath):
             sha.update(chunk)
     return sha.hexdigest()
 
-def load_cached_checksums(checksums_file):
-    cached = {}
-    if os.path.exists(checksums_file):
-        try:
-            with open(checksums_file, "r", encoding="utf-8") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    key = (row.get("filename"), int(row.get("size_bytes", 0)))
-                    if row.get("sha256"):
-                        cached[key] = row.get("sha256")
-        except Exception:
-            pass
-    return cached
-
 def main():
-    parser = argparse.ArgumentParser(description="Sync Drive Manifest with GitHub")
-    parser.add_argument("--drive-path", default=DEFAULT_DRIVE_BASE, help="Google Drive bangla_ai folder")
-    parser.add_argument("--repo-path", default=DEFAULT_REPO_BANGLA_AI, help="GitHub repo bangla_ai directory")
-    args = parser.parse_args()
-
-    drive_base = args.drive_path
-    repo_base = args.repo_path
-
-    print("=" * 80)
-    print("SYNC DRIVE MANIFEST WITH GITHUB REPOSITORY")
-    print(f"Google Drive: {drive_base}")
-    print(f"GitHub Repo : {repo_base}")
-    print("=" * 80)
-
-    # Load master catalog
-    catalog_json_path = os.path.join(repo_base, "bangla_ai_datasets_catalog.json")
-    with open(catalog_json_path, "r", encoding="utf-8") as f:
+    catalog_path = os.path.join(REPO_BASE, "bangla_ai_datasets_catalog.json")
+    with open(catalog_path, "r", encoding="utf-8") as f:
         catalog = json.load(f)
 
-    # Load existing manifest to preserve drive_file_id
-    existing_manifest_map = {}
-    manifest_repo = os.path.join(repo_base, "manifest.json")
-    if os.path.exists(manifest_repo):
+    # Load existing cached checksums if any
+    checksum_file = os.path.join(REPO_BASE, "checksums.csv")
+    cached = dict(KNOWN_CHECKSUMS)
+    if os.path.exists(checksum_file):
         try:
-            with open(manifest_repo, "r", encoding="utf-8") as f:
-                old_m = json.load(f)
-                for entry in old_m:
-                    existing_manifest_map[entry["dataset_id"]] = entry
+            with open(checksum_file, "r", encoding="utf-8") as f:
+                for r in csv.DictReader(f):
+                    cached[(r["filename"], int(r.get("size_bytes", 0)))] = r["sha256"]
         except Exception:
             pass
 
-    # Load cached checksums
-    checksum_repo = os.path.join(repo_base, "checksums.csv")
-    cached_checksums = load_cached_checksums(checksum_repo)
-
-    # Category folder mapping
     cat_folder_map = {
         "BAI-001": "text_corpora/bangla2b",
         "BAI-002": "text_corpora/banglabert",
@@ -109,12 +85,12 @@ def main():
     for entry in catalog:
         ds_id = entry["id"]
         rel_folder = cat_folder_map.get(ds_id, "")
-        drive_folder = os.path.join(drive_base, rel_folder.replace("/", os.sep)) if drive_base and os.path.exists(drive_base) else ""
+        drive_folder = os.path.join(DRIVE_BASE, rel_folder.replace("/", os.sep))
         
         files_found = []
         total_bytes = 0
 
-        if drive_folder and os.path.exists(drive_folder):
+        if os.path.exists(drive_folder):
             for root, dirs, files in os.walk(drive_folder):
                 for fname in sorted(files):
                     if fname.lower() in ("desktop.ini", ".ds_store") or fname.endswith(".part"):
@@ -122,24 +98,24 @@ def main():
                     fpath = os.path.join(root, fname)
                     fsize = os.path.getsize(fpath)
                     total_bytes += fsize
-                    rel_file = os.path.relpath(fpath, drive_base).replace("\\", "/")
-                    
-                    # Check cache or compute sha256
-                    cache_key = (fname, fsize)
-                    if cache_key in cached_checksums:
-                        sha = cached_checksums[cache_key]
-                    else:
-                        print(f"Computing checksum for {fname} ({format_bytes(fsize)})...")
-                        sha = compute_sha256(fpath)
-                        cached_checksums[cache_key] = sha
+                    rel_file = os.path.relpath(fpath, DRIVE_BASE).replace("\\", "/")
 
-                    files_found.append({
+                    cache_key = (fname, fsize)
+                    if cache_key in cached:
+                        sha = cached[cache_key]
+                    else:
+                        print(f"Computing sha256 for {fname} ({format_bytes(fsize)})...")
+                        sha = compute_sha256(fpath)
+                        cached[cache_key] = sha
+
+                    file_info = {
                         "filename": fname,
                         "relative_path": rel_file,
                         "size_bytes": fsize,
                         "size_human": format_bytes(fsize),
                         "sha256": sha
-                    })
+                    }
+                    files_found.append(file_info)
                     checksums.append({
                         "dataset_id": ds_id,
                         "filename": fname,
@@ -159,11 +135,6 @@ def main():
         else:
             status = "verified_metadata_only"
 
-        # Check if old entry had drive_file_id
-        old_entry = existing_manifest_map.get(ds_id, {})
-        drive_file_id = old_entry.get("drive_file_id", "")
-        drive_file_url = old_entry.get("drive_file_url", "")
-
         manifest_entry = {
             "dataset_id": ds_id,
             "dataset_name": entry["dataset_name"],
@@ -182,9 +153,10 @@ def main():
             "download_status": status,
             "verification_notes": entry.get("description")
         }
-        if drive_file_id:
-            manifest_entry["drive_file_id"] = drive_file_id
-            manifest_entry["drive_file_url"] = drive_file_url
+
+        if ds_id in GDRIVE_FILE_IDS:
+            manifest_entry["drive_file_id"] = GDRIVE_FILE_IDS[ds_id]
+            manifest_entry["drive_file_url"] = f"https://drive.google.com/file/d/{GDRIVE_FILE_IDS[ds_id]}/view"
 
         manifest.append(manifest_entry)
 
@@ -197,33 +169,34 @@ def main():
             "total_human": format_bytes(total_bytes)
         })
 
-    # Save manifest.json in GitHub repo
+    # Save to GitHub repo
+    manifest_repo = os.path.join(REPO_BASE, "manifest.json")
     with open(manifest_repo, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
-    print(f"Manifest written to GitHub repo: {manifest_repo}")
+    print(f"Manifest written: {manifest_repo}")
 
-    report_repo = os.path.join(repo_base, "download_report.csv")
+    report_repo = os.path.join(REPO_BASE, "download_report.csv")
     with open(report_repo, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["dataset_id", "dataset_name", "category_folder", "status", "total_bytes", "total_human"])
         writer.writeheader()
         writer.writerows(download_reports)
-    print(f"Download report written to GitHub repo: {report_repo}")
+    print(f"Download report written: {report_repo}")
 
+    checksum_repo = os.path.join(REPO_BASE, "checksums.csv")
     with open(checksum_repo, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["dataset_id", "filename", "relative_path", "size_bytes", "size_human", "sha256"])
         writer.writeheader()
         writer.writerows(checksums)
-    print(f"Checksums written to GitHub repo: {checksum_repo}")
+    print(f"Checksums written: {checksum_repo}")
 
-    # Mirror metadata files to Google Drive
-    if drive_base and os.path.exists(drive_base):
-        for fname, repo_fpath in [("manifest.json", manifest_repo), ("download_report.csv", report_repo), ("checksums.csv", checksum_repo)]:
-            dest_drive = os.path.join(drive_base, fname)
-            with open(repo_fpath, "r", encoding="utf-8") as src, open(dest_drive, "w", encoding="utf-8") as dst:
-                dst.write(src.read())
-            print(f"Mirrored {fname} to Google Drive: {dest_drive}")
+    # Mirror to Drive
+    for fname, repo_fpath in [("manifest.json", manifest_repo), ("download_report.csv", report_repo), ("checksums.csv", checksum_repo)]:
+        dest_drive = os.path.join(DRIVE_BASE, fname)
+        with open(repo_fpath, "r", encoding="utf-8") as src, open(dest_drive, "w", encoding="utf-8") as dst:
+            dst.write(src.read())
+        print(f"Mirrored {fname} to Drive: {dest_drive}")
 
-    print("\nManifest sync completed successfully.")
+    print(f"\nSuccessfully synchronized {len(checksums)} files across {len(manifest)} datasets!")
 
 if __name__ == "__main__":
     main()

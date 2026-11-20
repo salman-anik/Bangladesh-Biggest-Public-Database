@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Housing Structure Types & Sanitation Access by Division (Census 2022)",
+  "country": "Bangladesh",
+  "category": "Housing & Urban Development",
+  "subcategory": "Household & Housing Quality",
+  "description": "Distribution of dwelling structure types (Pucca, Semi-Pucca, Kutcha, Jhupri) along with piped water access and sanitary toilet coverage across 8 divisions.",
+  "source": "Population and Housing Census 2022, Bangladesh Bureau of Statistics (BBS)",
+  "source_url": "https://bbs.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 8,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "Division",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

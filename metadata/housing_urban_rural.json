@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Urban and Rural Population Distribution by Division (Census 2022)",
+  "country": "Bangladesh",
+  "category": "Housing & Urban Development",
+  "subcategory": "Urbanization",
+  "description": "Urban and rural population counts, percentage urbanization rate, and sex ratio disaggregated by administrative division.",
+  "source": "Population and Housing Census 2022, Bangladesh Bureau of Statistics (BBS)",
+  "source_url": "https://bbs.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 8,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "Division",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

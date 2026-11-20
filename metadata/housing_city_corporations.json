@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Bangladesh 12 City Corporations Profile & Census Metrics",
+  "country": "Bangladesh",
+  "category": "Housing & Urban Development",
+  "subcategory": "City Corporations",
+  "description": "Administrative profiles of all 12 City Corporations of Bangladesh including land area, ward count, Census 2022 population counts, and population density.",
+  "source": "Local Government Division (LGD) & Bangladesh Bureau of Statistics (BBS)",
+  "source_url": "https://lgd.gov.bd/",
+  "license": "Open Government Data Bangladesh",
+  "last_updated": "2026-11-20",
+  "record_count": 12,
+  "format": [
+    "JSON",
+    "CSV"
+  ],
+  "geographic_coverage": "City Corporation",
+  "language": [
+    "English"
+  ],
+  "verification_status": "verified"
+}

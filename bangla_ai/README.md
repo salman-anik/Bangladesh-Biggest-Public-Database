@@ -17,8 +17,18 @@ This hub connects open-source researchers, data engineers, and machine learning 
 
 To ensure sustainable open-source development and avoid repository bloat:
 
-- **GitHub Repository**: Stores all verified metadata, schemas, validation utilities, data loaders, SHA-256 checksums, and dataset documentation.
-- **Google Drive Storage Mirror**: Stores actual verified binary datasets (CSV, JSON, Parquet, TSV, ZIP, TAR.GZ, TAR.BZ2) structured under:
+- **GitHub Repository**: Stores all verified metadata, schemas, validation utilities, data loaders, SHA-256 checksums, full lightweight text datasets (< 5 MB each), and 100-sample preview files for large archives (~15.8 MB total):
+  - `sentiment/sentnob/`: Complete Train/Test/Val CSVs (15,728 rows)
+  - `ner/banglaner/`: Complete Train/Val BIO JSONLs (5,644 sentences)
+  - `ner/wikiann/`: Complete Train/Test/Val Parquets (20,000 sentences)
+  - `dialects/dialectbd/`: Complete Train/Test/Val Parquets (24,000 sentences)
+  - `multimodal/bengali_image_captioning/`: Complete `captions.json` (18,308 human captions)
+  - `sign_language/bdsl36/`: Complete `Bangla_Sign_Sentence.xlsx` (Sign sentences)
+  - `speech/fleurs/`: Complete dev and test transcription TSVs
+  - `question_answering/banglarqa/`: Complete `Validation.json` SQuAD-format benchmark
+  - `ocr_handwriting/ekush/`: Complete `metaData_img.csv`
+  - Representative 100-sample previews for all large corpora (`c4_bangla_sample.jsonl`, `banglabert_sample.txt`, `banglanmt_sample.jsonl`, `banglaparaphrase_sample.jsonl`, `banglabook_sample.csv`, `common_voice_sample.tsv`, `bengaliai_speech_sample.csv`, `banfakenews_sample.csv`, `banglalekha_metadata_sample.csv`).
+- **Google Drive Storage Mirror**: Stores all 16.18 GB (15.07 GiB) of verified full multi-gigabyte archives (4.13 GB pretraining corpora, 2.78 GB speech audio, 6.30 GB image archives, 500 MB OCR images, etc.) structured under:
   ```text
   Bangladesh-Biggest-Public-Database/
   └── bangla_ai/

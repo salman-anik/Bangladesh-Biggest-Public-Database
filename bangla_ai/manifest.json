@@ -10,19 +10,11 @@
     "license": "ODC-BY",
     "license_verification_url": "https://opendatacommons.org/licenses/by/1-0/",
     "original_reported_size": "2+ Billion Tokens / 15M Documents (~30 GB compressed)",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "text_corpora/bangla2b/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "license_restricted_or_huge",
     "verification_notes": "Massive cleaned web crawl corpus of natural Bengali text from Common Crawl, suitable for pre-training large language models (BERT, RoBERTa, GPT). Due to immense size (>30 GB compressed, >100 GB uncompressed), streaming loaders are provided to conserve local storage."
   },
   {
@@ -36,26 +28,11 @@
     "license": "CC-BY-NC-SA-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
     "original_reported_size": "27.5 GB Text / 110M Sentences",
-    "actual_downloaded_size_bytes": 4136057477,
-    "actual_downloaded_size_human": "3.85 GB",
-    "files_count": 2,
-    "files": [
-      {
-        "filename": "Bangla2B+.tar.bz2",
-        "relative_path": "text_corpora/banglabert/Bangla2B+.tar.bz2",
-        "size_bytes": 4136057125,
-        "size_human": "3.85 GB",
-        "sha256": "537ebee2b2ac6c3f6d40115b41d9dd6ce4404944c76687499fa9130f6846cc73"
-      },
-      {
-        "filename": "desktop.ini",
-        "relative_path": "text_corpora/banglabert/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Curated corpus extracted and normalized from 110+ Bangladeshi news portals, articles, and blogs used to pre-train state-of-the-art BanglaBERT models. The raw pre-training corpus is distributed via authors' official Google Drive link (1ORPugFNIBo8JfmS92zIOPe06XuWn4t_d)."
   },
   {
@@ -69,26 +46,11 @@
     "license": "CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "5.4 Million Parallel Sentence Pairs (IN22 benchmark: 1,024 pairs)",
-    "actual_downloaded_size_bytes": 132839366,
-    "actual_downloaded_size_human": "126.69 MB",
-    "files_count": 2,
-    "files": [
-      {
-        "filename": "BanglaNMT.tar.bz2",
-        "relative_path": "translation/indictrans2/BanglaNMT.tar.bz2",
-        "size_bytes": 132839014,
-        "size_human": "126.69 MB",
-        "sha256": "a5fff3f40ea9d97202fad9d043d3eb6fbd841f702e9ef0c9f89d925165e50e13"
-      },
-      {
-        "filename": "desktop.ini",
-        "relative_path": "translation/indictrans2/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Gold-standard parallel translation alignment between Bengali and English across news, government gazettes, and literature from the IndicTrans2 benchmark suite. IN22-Gen benchmark archive stored in Drive."
   },
   {
@@ -102,33 +64,11 @@
     "license": "CC-BY-NC-SA-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
     "original_reported_size": "512,000 Paraphrase Sentence Pairs (38 MB)",
-    "actual_downloaded_size_bytes": 76004584,
-    "actual_downloaded_size_human": "72.48 MB",
-    "files_count": 3,
-    "files": [
-      {
-        "filename": "BanglaParaphrase (1).zip",
-        "relative_path": "translation/banglaparaphrase/BanglaParaphrase (1).zip",
-        "size_bytes": 38002116,
-        "size_human": "36.24 MB",
-        "sha256": "8f27c967bcb75620fa2c94fb34159795f680df3b28b45f9f40b88a1bf1573a6f"
-      },
-      {
-        "filename": "BanglaParaphrase.zip",
-        "relative_path": "translation/banglaparaphrase/BanglaParaphrase.zip",
-        "size_bytes": 38002116,
-        "size_human": "36.24 MB",
-        "sha256": "8f27c967bcb75620fa2c94fb34159795f680df3b28b45f9f40b88a1bf1573a6f"
-      },
-      {
-        "filename": "desktop.ini",
-        "relative_path": "translation/banglaparaphrase/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Syntactically diverse and semantically equivalent Bangla sentence pairs for text augmentation, paraphrase detection, and generative model evaluation."
   },
   {
@@ -142,40 +82,11 @@
     "license": "CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "15,728 Annotated Social Comments (3.33 MB)",
-    "actual_downloaded_size_bytes": 3333821,
-    "actual_downloaded_size_human": "3.18 MB",
-    "files_count": 4,
-    "files": [
-      {
-        "filename": "Test.csv",
-        "relative_path": "sentiment/sentnob/Test.csv",
-        "size_bytes": 334211,
-        "size_human": "326.38 KB",
-        "sha256": "46f6f4c2812ea204d08f0c9e77b0b48a4a3a93aa7905e37f65e45ac259507ed6"
-      },
-      {
-        "filename": "Train.csv",
-        "relative_path": "sentiment/sentnob/Train.csv",
-        "size_bytes": 2653460,
-        "size_human": "2.53 MB",
-        "sha256": "2755f05aaa3198b7d7e00241974362a770a4467267048a3956b18ef95116377e"
-      },
-      {
-        "filename": "Val.csv",
-        "relative_path": "sentiment/sentnob/Val.csv",
-        "size_bytes": 345798,
-        "size_human": "337.69 KB",
-        "sha256": "0b19347a83d5c56a6cff70561291bbe902b743f4a76d8b02eb625cd6880bb3ca"
-      },
-      {
-        "filename": "desktop.ini",
-        "relative_path": "sentiment/sentnob/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Social media user comments across 13 domains annotated with 3-class sentiment (Positive, Negative, Neutral) capturing informal spelling, dialectal mixes, and regional slang."
   },
   {
@@ -189,47 +100,11 @@
     "license": "MIT",
     "license_verification_url": "https://opensource.org/licenses/MIT",
     "original_reported_size": "158,065 Consumer & Literary Reviews (87.5 MB)",
-    "actual_downloaded_size_bytes": 148910756,
-    "actual_downloaded_size_human": "142.01 MB",
-    "files_count": 5,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "sentiment/bangla_book_reviews/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      },
-      {
-        "filename": "test.csv",
-        "relative_path": "sentiment/bangla_book_reviews/test.csv",
-        "size_bytes": 17448926,
-        "size_human": "16.64 MB",
-        "sha256": "051026a40bc58ad93e895611f16e81da4ae8a0c08538ede0d912d00cedac11de"
-      },
-      {
-        "filename": "train (1).csv",
-        "relative_path": "sentiment/bangla_book_reviews/train (1).csv",
-        "size_bytes": 61338063,
-        "size_human": "58.50 MB",
-        "sha256": "231e3fc0df25a06e83939f831115b0ba70586e6a33a6b3744a07ef521010c397"
-      },
-      {
-        "filename": "train.csv",
-        "relative_path": "sentiment/bangla_book_reviews/train.csv",
-        "size_bytes": 61338063,
-        "size_human": "58.50 MB",
-        "sha256": "231e3fc0df25a06e83939f831115b0ba70586e6a33a6b3744a07ef521010c397"
-      },
-      {
-        "filename": "validation.csv",
-        "relative_path": "sentiment/bangla_book_reviews/validation.csv",
-        "size_bytes": 8785352,
-        "size_human": "8.38 MB",
-        "sha256": "fc7bf6179bc9e2a50debdd87d3dc679b9b74a49cc0e879e221f64af529ec8772"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Large-scale book reviews and sentiment annotations collected from Rokomari.com, classified into 3 sentiment polarities (Positive, Negative, Neutral) and star ratings."
   },
   {
@@ -243,33 +118,11 @@
     "license": "MIT",
     "license_verification_url": "https://opensource.org/licenses/MIT",
     "original_reported_size": "38,000 Annotated Sentences (1.78 MB JSONL)",
-    "actual_downloaded_size_bytes": 1782470,
-    "actual_downloaded_size_human": "1.70 MB",
-    "files_count": 3,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "ner/banglaner/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      },
-      {
-        "filename": "train.jsonl",
-        "relative_path": "ner/banglaner/train.jsonl",
-        "size_bytes": 1410959,
-        "size_human": "1.35 MB",
-        "sha256": "88467b7d30ece866428671276f2b1829944639318bfbefc9fb2422906e011960"
-      },
-      {
-        "filename": "val.jsonl",
-        "relative_path": "ner/banglaner/val.jsonl",
-        "size_bytes": 371159,
-        "size_human": "362.46 KB",
-        "sha256": "0617063edc9060bea39904d5b4f610d6c0c838a22d3df456117fd5b7adba7459"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Gold-standard BIO-formatted Named Entity Recognition tags covering Person (PER), Organization (ORG), and Location (LOC) entities in standard Bengali text."
   },
   {
@@ -283,40 +136,11 @@
     "license": "CC-BY-SA-3.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-sa/3.0/",
     "original_reported_size": "20,000 Wikipedia Named Entity Sentences (667 KB)",
-    "actual_downloaded_size_bytes": 667751,
-    "actual_downloaded_size_human": "652.10 KB",
-    "files_count": 4,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "ner/wikiann/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      },
-      {
-        "filename": "test-00000-of-00001.parquet",
-        "relative_path": "ner/wikiann/test-00000-of-00001.parquet",
-        "size_bytes": 57644,
-        "size_human": "56.29 KB",
-        "sha256": "f77c3067cbf35172dd4c5fd9081c6fd4082e14ff1fd96f4428d49eea4edf49ab"
-      },
-      {
-        "filename": "train-00000-of-00001.parquet",
-        "relative_path": "ner/wikiann/train-00000-of-00001.parquet",
-        "size_bytes": 553738,
-        "size_human": "540.76 KB",
-        "sha256": "077604dbea1f92886d1316f720a09ee846c25749c4e1cbf82878a81c2469a88e"
-      },
-      {
-        "filename": "validation-00000-of-00001.parquet",
-        "relative_path": "ner/wikiann/validation-00000-of-00001.parquet",
-        "size_bytes": 56017,
-        "size_human": "54.70 KB",
-        "sha256": "119ce82b13842781467edc3b83ea8c6f16f80cea01ee5a4d52f6c1a4df7adb7a"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Cross-lingual NER dataset derived from Bengali Wikipedia articles tagged with PER, ORG, and LOC entities in train, validation, and test splits."
   },
   {
@@ -330,47 +154,11 @@
     "license": "CC-BY-NC-SA-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
     "original_reported_size": "14,889 SQuAD-style Context-Question-Answer Triples (34.9 MB)",
-    "actual_downloaded_size_bytes": 62733473,
-    "actual_downloaded_size_human": "59.83 MB",
-    "files_count": 5,
-    "files": [
-      {
-        "filename": "Test.json",
-        "relative_path": "question_answering/banglarqa/Test.json",
-        "size_bytes": 3603506,
-        "size_human": "3.44 MB",
-        "sha256": "5b2e8a326aadece4d50a6715a0ed1fca1d2910f6c723f84c6aa375c8c9b62562"
-      },
-      {
-        "filename": "Train (1).json",
-        "relative_path": "question_answering/banglarqa/Train (1).json",
-        "size_bytes": 27818012,
-        "size_human": "26.53 MB",
-        "sha256": "12baac550a437ecdb45ea8711389356caf3b80d75397273585389308357dae0f"
-      },
-      {
-        "filename": "Train.json",
-        "relative_path": "question_answering/banglarqa/Train.json",
-        "size_bytes": 27818012,
-        "size_human": "26.53 MB",
-        "sha256": "12baac550a437ecdb45ea8711389356caf3b80d75397273585389308357dae0f"
-      },
-      {
-        "filename": "Validation.json",
-        "relative_path": "question_answering/banglarqa/Validation.json",
-        "size_bytes": 3493591,
-        "size_human": "3.33 MB",
-        "sha256": "d56e0e5c162d9634dd1eeb9e81b655dfb6daccc7bbe180e46140acb529aa0849"
-      },
-      {
-        "filename": "desktop.ini",
-        "relative_path": "question_answering/banglarqa/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Extractive question answering dataset based on Bangladeshi Wikipedia and textbooks with exact character start/end answer spans in SQuAD v2 format."
   },
   {
@@ -384,19 +172,11 @@
     "license": "CC-0 (Public Domain)",
     "license_verification_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "original_reported_size": "412 Hours Validated Audio / 185,000+ Clips (>40 GB audio)",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "speech/common_voice/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "license_restricted_or_huge",
     "verification_notes": "Crowdsourced voice recordings of native speakers from across Bangladesh with verified transcripts, age, gender, and accent demographic tags. Metadata and validation manifests mirrored; streaming scripts provided to prevent disk overflow."
   },
   {
@@ -410,19 +190,11 @@
     "license": "CC-BY-NC-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "original_reported_size": "1,200 Hours Spontaneous Speech (>100 GB)",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "speech/bengaliai_speech/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "access_required",
     "verification_notes": "Massive diverse dialect and spontaneous conversational speech collected across rural and urban districts of Bangladesh. Hosted on Kaggle; requires accepting competition terms and authenticated Kaggle CLI."
   },
   {
@@ -436,54 +208,11 @@
     "license": "CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "12.5 Hours High-Fidelity Studio Speech (5.03 MB transcripts / 2.97 GB audio)",
-    "actual_downloaded_size_bytes": 943404641,
-    "actual_downloaded_size_human": "899.70 MB",
-    "files_count": 6,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "speech/fleurs/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      },
-      {
-        "filename": "dev.tar.gz",
-        "relative_path": "speech/fleurs/dev.tar.gz",
-        "size_bytes": 278667778,
-        "size_human": "265.76 MB",
-        "sha256": "b7f380b67d50bc59f328af3e1bd8096ab9e728bd0103349b9746ca95ab75ff30"
-      },
-      {
-        "filename": "dev.tsv",
-        "relative_path": "speech/fleurs/dev.tsv",
-        "size_bytes": 465963,
-        "size_human": "455.04 KB",
-        "sha256": "239a59e4d60a76d4d388d44f72df6d28b91e4526d829186d15ef33fde7a089db"
-      },
-      {
-        "filename": "test.tar.gz",
-        "relative_path": "speech/fleurs/test.tar.gz",
-        "size_bytes": 659700249,
-        "size_human": "629.14 MB",
-        "sha256": "6c1cc66b258b711d49e5bcd8e5508c18484c8cbcbe76d323ad46947756029b0f"
-      },
-      {
-        "filename": "test.tsv",
-        "relative_path": "speech/fleurs/test.tsv",
-        "size_bytes": 1089017,
-        "size_human": "1.04 MB",
-        "sha256": "a7d892390778ce23d0acf15bbba4d9454439c48607cefb923e37f55a480c4c0c"
-      },
-      {
-        "filename": "train.tsv",
-        "relative_path": "speech/fleurs/train.tsv",
-        "size_bytes": 3481282,
-        "size_human": "3.32 MB",
-        "sha256": "d76fc543be4c1103f303e98c3f22e63e5a17727a1b055294318bf5916296fb80"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Clean, phonetically balanced 16kHz studio speech paired with normalized Bangla text for speech recognition, ASR benchmark evaluation, and language identification. Transcripts verified and downloaded to Drive."
   },
   {
@@ -497,19 +226,11 @@
     "license": "CC-BY-NC-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "original_reported_size": "166,105 Isolated Character Images (84 Classes, 760 MB)",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "ocr_handwriting/banglalekha/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Comprehensive benchmark dataset of isolated handwritten characters (50 basic characters, 10 numerals, 24 compound characters/Juktakkhor) produced by 2,000 native writers. Verified Mendeley DOI: 10.17632/hf6sf8zrkc.2."
   },
   {
@@ -523,19 +244,11 @@
     "license": "Academic Research / CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "367,018 Isolated Handwritten Characters (1.2 GB compressed)",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "ocr_handwriting/ekush/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Multipurpose database containing 367,018 isolated handwritten characters written by 3,086 unique writers from all 64 districts of Bangladesh. Catalog entry corrected from 36,708 to 367,018 samples."
   },
   {
@@ -549,40 +262,11 @@
     "license": "CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "24,000 Annotated Dialect Samples across 5 Regions (1.12 MB)",
-    "actual_downloaded_size_bytes": 1120104,
-    "actual_downloaded_size_human": "1.07 MB",
-    "files_count": 4,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "dialects/dialectbd/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      },
-      {
-        "filename": "test.parquet",
-        "relative_path": "dialects/dialectbd/test.parquet",
-        "size_bytes": 113225,
-        "size_human": "110.57 KB",
-        "sha256": "ae6d95e7055722bff0023f3f040d169798758b051cd7025c7321bb21e638bb54"
-      },
-      {
-        "filename": "train.parquet",
-        "relative_path": "dialects/dialectbd/train.parquet",
-        "size_bytes": 887035,
-        "size_human": "866.25 KB",
-        "sha256": "67d7e5bfafe7473007fd1bc016d210a5e5fb69b4a6d333daf53c4556515bd8de"
-      },
-      {
-        "filename": "validation.parquet",
-        "relative_path": "dialects/dialectbd/validation.parquet",
-        "size_bytes": 119492,
-        "size_human": "116.69 KB",
-        "sha256": "7e4477603b9419027de3afd54f25a6bc077e8ceed99072d4154ed846c340a9c5"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Multi-regional linguistic text and speech corpus mapping variations across 5 major dialectal zones: Sylheti, Chittagonian (Chatgaya), Noakhali, Barishali, and Rangpuri."
   },
   {
@@ -596,26 +280,11 @@
     "license": "CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "50,000+ Annotated News Articles (Rowan1224: 17.8 MB, 2.0: 304 MB)",
-    "actual_downloaded_size_bytes": 304586571,
-    "actual_downloaded_size_human": "290.48 MB",
-    "files_count": 2,
-    "files": [
-      {
-        "filename": "All60Kdataset.csv",
-        "relative_path": "fake_news/banfakenews/All60Kdataset.csv",
-        "size_bytes": 304586219,
-        "size_human": "290.48 MB",
-        "sha256": "d9aed69b6019843a769bbcb045affd31c98cfa02f2b0bc821f551c54ba780c0a"
-      },
-      {
-        "filename": "desktop.ini",
-        "relative_path": "fake_news/banfakenews/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Authentic vs fabricated news articles collected from Bangladeshi media and verified through fact-checking agencies (Boom Bangladesh, Jaachai). Original paper repo Rowan1224/FakeNews."
   },
   {
@@ -629,19 +298,11 @@
     "license": "CC-BY-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by/4.0/",
     "original_reported_size": "9,150 Images with 45,750 Native Bangla Captions (1.8 GB)",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "multimodal/bengali_image_captioning/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Culturally relevant Bengali image captioning benchmark providing 5 independent native Bengali descriptions per image. Verified Mendeley Data DOI: 10.17632/7754f4262j.1."
   },
   {
@@ -655,19 +316,11 @@
     "license": "CC-BY-NC-4.0",
     "license_verification_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "original_reported_size": "36,000 Sign Gesture Images across 36 Alphabet Classes",
-    "actual_downloaded_size_bytes": 352,
-    "actual_downloaded_size_human": "352.00 B",
-    "files_count": 1,
-    "files": [
-      {
-        "filename": "desktop.ini",
-        "relative_path": "sign_language/bdsl36/desktop.ini",
-        "size_bytes": 352,
-        "size_human": "352.00 B",
-        "sha256": "885e1b095e296432c61e4043e73b973c80c5edf84555890ca148e724765a0da2"
-      }
-    ],
-    "download_status": "verified_and_downloaded",
+    "actual_downloaded_size_bytes": 0,
+    "actual_downloaded_size_human": "0.00 B",
+    "files_count": 0,
+    "files": [],
+    "download_status": "verified_metadata_only",
     "verification_notes": "Standardized Bangladesh Sign Language (BdSL) alphabet and digit gestures evaluated in ACCV 2020 (arXiv:2110.00869). Baseline project maintained by Mohammad Imrul Jubair (imruljubair/BdSLImset)."
   }
 ]
